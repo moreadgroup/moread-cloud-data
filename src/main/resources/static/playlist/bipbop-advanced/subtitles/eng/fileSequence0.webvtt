@@ -1,0 +1,62 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:00:01.000 --> 00:00:03.000
+English subtitle 1 -Unforced- (00:00:01.000)
+
+00:00:03.000 --> 00:00:05.000
+<i>English subtitle 2 -Unforced- (00:00:03.000)</i>
+<i>Italics</i>
+
+00:00:05.000 --> 00:00:07.000
+<b>English subtitle 3 -Unforced- (00:00:05.000)</b>
+<b>BOLD</b>
+
+00:00:07.000 --> 00:00:09.000
+<u>English subtitle 4 -Unforced- (00:00:07.000)</u>
+<u>UNDERLINE</u>
+
+00:00:09.000 --> 00:00:11.000
+<u>English subtitle 5 -Forced- (00:00:09.000)</u>
+<i>Italics</i> - <b>BOLD</b> - <u>UNDERLINE</u>
+
+00:00:11.000 --> 00:00:13.000 align:start
+English subtitle 6 -Unforced- (00:00:11.000)
+align start
+
+00:00:13.000 --> 00:00:15.000 align:middle
+English subtitle 7 -Unforced- (00:00:13.000)
+align middile
+
+00:00:15.000 --> 00:00:17.000 align:end
+English subtitle 8 -Unforced- (00:00:15.000)
+align:end
+
+00:00:17.000 --> 00:00:19.000 size:50%
+English subtitle 9 -Unforced- (00:00:17.000)
+size:50%
+
+00:00:19.000 --> 00:00:21.000 size:25%
+English subtitle 10 -Forced- (00:00:19.000)
+size:25%
+
+00:00:21.000 --> 00:00:23.000 size:100%
+English subtitle 11 -Unforced- (00:00:21.000)
+size:100%
+
+00:00:23.000 --> 00:00:25.000 line:0%
+English subtitle 12 -Unforced- (00:00:23.000)
+line:0%
+
+00:00:25.000 --> 00:00:27.000 line:25%
+English subtitle 13 -Unforced- (00:00:25.000)
+line:25%
+
+00:00:27.000 --> 00:00:29.000 line:50%
+English subtitle 14 -Unforced- (00:00:27.000)
+line:50%
+
+00:00:29.000 --> 00:00:31.000 line:75%
+English subtitle 15 -Forced- (00:00:27.000)
+line:75%
+
