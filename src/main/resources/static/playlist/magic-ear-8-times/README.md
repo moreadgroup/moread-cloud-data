@@ -25,3 +25,8 @@ sh ../genhls.sh junior 02
 sh ../genhls.sh junior 03
 
 ```
+
+## OCR
+- [在线文字识别转换](https://ocr.wdku.net/)
+- [Subtitle and captions editor](https://subtitle-horse.com/editor/create-captions)
+- [在线Unicode编码转换工具](http://www.jsons.cn/unicode)
