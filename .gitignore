@@ -1,1 +1,3 @@
 src/main/resources/local.properties
+/target/
+/.idea/
