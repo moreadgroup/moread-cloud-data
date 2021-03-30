@@ -121,6 +121,24 @@ for mac users, replace psql with pgcli
 - [Create m3u8 file from list of ts files](https://stackoverflow.com/questions/52052883/create-m3u8-file-from-list-of-ts-files)
 - [HLS Packaging using FFmpeg – Easy Step-by-Step Tutorial](https://ottverse.com/hls-packaging-using-ffmpeg-live-vod/)
 - [How to create .mpd or .m3u8 video file on the server using FFMPEG for Adaptive Streaming](https://mayur-solanki.medium.com/how-to-create-mpd-or-m3u8-video-file-from-server-using-ffmpeg-97e9e1fbf6a3)
+- [Design Ideas and Code Realization of Ebbinghaus English Memory Program](https://programmersought.com/article/19634839034/)
+- [Design and Implementation of Memory Assistant Based on Ebbinghaus Forgetting Curve](https://iopscience.iop.org/article/10.1088/1755-1315/687/1/012187/pdf)
+- [The best spaced repetition app](https://www.edapp.com/blog/spaced-repetition/)
+  > Based on the highly-regarded [Supermemo SM-2 interval algorithm](https://www.supermemo.com/en/archives1990-2015/english/ol/sm2), EdApp’s Brain Boost feature repeats any course material that the learner has not completed successfully more frequently to encourage retention until it’s locking into their long-term memory.
+  > 
+- [有效背单词的一个简单算法(一)——SugarMemo算法学习记录](https://blog.csdn.net/hnliuwx/article/details/5519354)
+  > 依据SuperMemo(下面简称Super)的分级(SM2),单词从最熟悉到最不熟悉分为6个级别.0级到5级
+  > 
+  > 这6个级别的描述分别为: [SM-2 is a simple spaced repetition algorithm. It calculates the number of days to wait before reviewing a piece of information based on how easily the information was remembered today.](https://github.com/thyagoluciano/sm2)
+  > 
+  >- 5 - perfect response 单词记得非常好
+  >- 4 - correct response after a hesitation 回想一下,可以正确回忆出单词
+  >- 3 - correct response recalled with serious difficulty 稍微吃力的回想一下,可以正确回忆出单词
+  >- 2 - incorrect response; where the correct one seemed easy to recall 在提示的情况下,能想起正确的单词
+  >- 1 - incorrect response; the correct one remembered 看到答案,对正确单词有印象
+  >- 0 - complete blackout. 完全一摸黑*_*
+- [SM-15](https://github.com/slaypni/SM-15) 
+
 ## [Creating a Master Playlist with Ffmpeg](http://hlsbook.net/creating-a-master-playlist-with-ffmpeg/)
 1. The first thing to do is determine what streams are in the video, which we can do with the following command:
 ```shell
