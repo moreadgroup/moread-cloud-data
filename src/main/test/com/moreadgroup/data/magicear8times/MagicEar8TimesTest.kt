@@ -21,8 +21,8 @@ import java.nio.charset.StandardCharsets
  */
 class MagicEar8TimesTest {
 
-    val ROOT_FOLDER =
-        "/Users/CC/github/moreadgroup/moread-cloud-data/src/main/resources/"
+//    val ROOT_FOLDER =         "/Users/CC/github/moreadgroup/moread-cloud-data/src/main/resources/"
+  val ROOT_FOLDER = "/Users/conanchen/github/moreadgroup/moread-cloud-data/src/main/resources/"
 
     @Test
     fun testParseFromAliaiJson2VttThenOK() {
@@ -32,7 +32,7 @@ class MagicEar8TimesTest {
 
         listOf(
             Pair("${srcFolder}/introduction/introduction-1.json", true),
-            Pair("${srcFolder}/introduction/introduction-2.json", true),
+            Pair("${srcFolder}/introduction/introduction-2.json", false),
             Pair("${srcFolder}/introduction/introduction-3.json", false),
 
             Pair("${srcFolder}/primary/primary-1.json", false),
