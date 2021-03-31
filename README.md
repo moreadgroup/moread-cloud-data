@@ -1,6 +1,6 @@
 # Domain Task 
 Task Management 
-
+![Using Spaced Learning to Combat the Forgetting Curve](document/TaskFlowDiagram.png)
 
 # Build & Run
 ## You need to install root pom to maven local repository
@@ -138,6 +138,7 @@ for mac users, replace psql with pgcli
   >- 1 - incorrect response; the correct one remembered 看到答案,对正确单词有印象
   >- 0 - complete blackout. 完全一摸黑*_*
 - [SM-15](https://github.com/slaypni/SM-15) 
+- [Spaced repetition algorithm 2 implementation in Kotlin](https://blog.mestwin.net/spaced-repetition-algorithm-implementation-in-kotlin/)
 
 ## [Creating a Master Playlist with Ffmpeg](http://hlsbook.net/creating-a-master-playlist-with-ffmpeg/)
 1. The first thing to do is determine what streams are in the video, which we can do with the following command:
