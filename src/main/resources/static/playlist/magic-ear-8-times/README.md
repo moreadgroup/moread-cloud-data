@@ -7,7 +7,7 @@ ln -s /Users/CC/github/moreadgroup/moread-cloud-data/src/main/resources/static/p
 ```
 # install webvtt tools
 ```html
-$ cd playlist
+$ cd magic-ear-8-times 
 $ npm i node-webvtt-youtube
 
 ```
@@ -28,7 +28,9 @@ cd introduction
 
 
 
-$ ./node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./1/subtitles/zh introduction-1.webvtt
+$ ../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./1/subtitles/zh introduction-1.webvtt
+$ ../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./2/subtitles/zh introduction-2.webvtt
+$ ../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./3/subtitles/zh introduction-3.webvtt
 
 ```
 

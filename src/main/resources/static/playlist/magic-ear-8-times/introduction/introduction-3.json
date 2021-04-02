@@ -10,7 +10,7 @@
         "audio_duration": 1054458,
         "detailed_result": [
           {
-            "res": ["真的。"],
+            "res": [""],
             "end_time": 3160,
             "begin_time": 2280,
             "words_info": [],
@@ -18,7 +18,7 @@
             "corpus_no": "6944205646325103158"
           },
           {
-            "res": ["嗯。"],
+            "res": [""],
             "end_time": 5980,
             "begin_time": 4980,
             "words_info": [],
@@ -27,7 +27,7 @@
           },
           {
             "res": [
-              "This is Betty。大家好，我是罗蓓简单学习释放天性，欢迎来到八遍魔耳记单词。"
+              "Hello Everyone。This is Betty。大家好，我是罗蓓简单学习释放天性，欢迎来到八遍魔耳记单词。"
             ],
             "end_time": 18680,
             "begin_time": 7280,
