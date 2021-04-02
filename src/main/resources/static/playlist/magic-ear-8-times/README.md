@@ -23,12 +23,12 @@ sh ../genhls.sh introduction 3
 ```
 
 ## Segment subtile webvtt
-```
+```shell
 cd introduction
 
 
 
-$ ../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./1/subtitles/zh introduction-1.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./1/subtitles/zh introduction-1.webvtt
 $ ../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./2/subtitles/zh introduction-2.webvtt
 $ ../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./3/subtitles/zh introduction-3.webvtt
 
@@ -44,7 +44,22 @@ sh ../genhls.sh junior 02
 sh ../genhls.sh junior 03
 
 ```
-
+## [Synchronizing WebVTT Captions](https://sdks.support.brightcove.com/features/synchronizing-webvtt-captions.html)
+  > use the ffprobe command to get the offset value. ffprobe is a multimedia stream analyzer, which is part of the FFmpeg framework. You will need to download and install this on your computer.
+  > ```shell
+  > ffprobe -show_frames seg.ts
+  > 
+  > [FRAME]
+  > media_type=audio
+  > stream_index=0
+  > key_frame=1
+  > pkt_pts=126000
+  > pkt_pts_time=1.400000
+  > pkt_dts=126000
+  > pkt_dts_time=1.400000
+  > ```
+  > 
+  
 ## OCR
 - [在线文字识别转换](https://ocr.wdku.net/)
 - [Subtitle and captions editor](https://subtitle-horse.com/editor/create-captions)
