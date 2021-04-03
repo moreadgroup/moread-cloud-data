@@ -152,19 +152,10 @@ X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
                 objectMapper.readValue(it, AliTaskDetailResult::class.java)
 
             }.map {
-                val sh = it.begin_time / 1000 / 3600
-                val sm = it.begin_time / 1000 / 60
-                val ss = it.begin_time / 1000 - sh * 3600 - sm * 60
-                val sss = it.begin_time % 1000
 
-                val start = "%02d:%02d:%02d.%03d".format(sh, sm, ss, sss)
+                val start = formatHMSFromMs(it.begin_time)
 
-                val eh = it.end_time / 1000 / 3600
-                val em = it.end_time / 1000 / 60
-                val es = it.end_time / 1000 - sh * 3600 - sm * 60
-                val ess = it.end_time % 1000
-
-                val end = "%02d:%02d:%02d.%03d".format(eh, em, es, ess)
+                val end = formatHMSFromMs(it.end_time)
 
                 var lines = ""
                 WordUtils.wrap(it.res[0], 40, "\n", false, "，")
@@ -184,6 +175,14 @@ X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
             }
 
 
+    }
+
+    private fun formatHMSFromMs(it: Int):String {
+        val sh = it / 1000 / 3600
+        val sm = it / 1000 / 60
+        val ss = it / 1000 - sh * 3600 - sm * 60
+        val sss = it % 1000
+        return "%02d:%02d:%02d.%03d".format(sh, sm, ss, sss);
     }
 
 
