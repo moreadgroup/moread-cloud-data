@@ -21,12 +21,9 @@ sh ../genhls.sh introduction 2
 sh ../genhls.sh introduction 3
 
 ```
-
 ## Segment subtile webvtt
 ```shell
 cd introduction
-
-
 
 ../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./1/subtitles/zh introduction-1.webvtt
 
@@ -36,6 +33,39 @@ cd introduction
 
 
 ```
+# Playlist Primary 
+## gen media hls
+```shell
+cd primary 
+
+sh ../genhls.sh primary 1
+sh ../genhls.sh primary 2 
+sh ../genhls.sh primary 3
+sh ../genhls.sh primary 4 
+sh ../genhls.sh primary 5
+sh ../genhls.sh primary 6
+sh ../genhls.sh primary 7
+sh ../genhls.sh primary 8
+
+```
+## Segment subtile webvtt
+```shell
+cd primary
+
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./1/subtitles/zh primary-1.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./2/subtitles/zh primary-2.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./3/subtitles/zh primary-3.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./4/subtitles/zh primary-4.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./5/subtitles/zh primary-5.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./6/subtitles/zh primary-6.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./7/subtitles/zh primary-7.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./8/subtitles/zh primary-8.webvtt
+
+
+```
+
+
+
 
 # Playlist Junior 
 # gen junior's hls

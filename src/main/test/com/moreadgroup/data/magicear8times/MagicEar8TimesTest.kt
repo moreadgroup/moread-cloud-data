@@ -31,11 +31,11 @@ class MagicEar8TimesTest {
         val destFolder = "static/playlist/magic-ear-8-times"
 
         listOf(
-            Pair("${srcFolder}/introduction/introduction-1.json", true),
-            Pair("${srcFolder}/introduction/introduction-2.json", true),
-            Pair("${srcFolder}/introduction/introduction-3.json", true),
+            Pair("${srcFolder}/introduction/introduction-1.json", false),
+            Pair("${srcFolder}/introduction/introduction-2.json", false),
+            Pair("${srcFolder}/introduction/introduction-3.json", false),
 
-            Pair("${srcFolder}/primary/primary-1.json", false),
+            Pair("${srcFolder}/primary/primary-1.json", true),
             Pair("${srcFolder}/primary/primary-2.json", false),
             Pair("${srcFolder}/primary/primary-3.json", false),
             Pair("${srcFolder}/primary/primary-4.json", false),
