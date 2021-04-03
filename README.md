@@ -2,6 +2,9 @@
 Task Management 
 ![Using Spaced Learning to Combat the Forgetting Curve](document/TaskFlowDiagram.png)
 
+# Read, write and segment WebVTT caption files in Python.
+- [https://github.com/glut23/webvtt-py](https://github.com/glut23/webvtt-py)
+
 # Build & Run
 ## You need to install root pom to maven local repository
 ```shell
