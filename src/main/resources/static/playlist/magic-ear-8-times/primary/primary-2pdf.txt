@@ -49,10 +49,10 @@
                                               7
 
 单词         音标                   释义
-                                aux.能够；可以
-can        英[kaen］美[kaen］       n.罐头
-                                n.看v.观看
-look       英口。灯美[k〉k］
+can        英[kaen］美[kaen］      aux.能够；可以 n.罐头
+
+look       英口。灯美[k〉k］       n.看v.观看
+
 walk                            n.&v•步行：散步
 exercise   英[wo:k］
 worry      美[wok］               n.&v.锻炼；练习
