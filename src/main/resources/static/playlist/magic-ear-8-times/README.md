@@ -21,6 +21,10 @@ sh ../genhls.sh introduction 2
 sh ../genhls.sh introduction 3
 
 ```
+## Generate draft webvtt
+```
+Run Test: MagicEar8TimesTest.testParseFromAliaiJson2VttThenOK()
+```
 ## Segment subtile webvtt
 ```shell
 cd introduction
@@ -47,6 +51,10 @@ sh ../genhls.sh primary 6
 sh ../genhls.sh primary 7
 sh ../genhls.sh primary 8
 
+```
+## Generate draft webvtt
+```
+Run Test: MagicEar8TimesTest.testParseFromAliaiJson2VttThenOK()
 ```
 ## Segment subtile webvtt
 ```shell
@@ -77,6 +85,11 @@ sh ../genhls.sh junior 02
 sh ../genhls.sh junior 03
 
 ```
+## Generate draft webvtt
+```
+Run Test: MagicEar8TimesTest.testParseFromAliaiJson2VttThenOK()
+```
+
 ## [Synchronizing WebVTT Captions](https://sdks.support.brightcove.com/features/synchronizing-webvtt-captions.html)
   > use the ffprobe command to get the offset value. ffprobe is a multimedia stream analyzer, which is part of the FFmpeg framework. You will need to download and install this on your computer.
   > ```shell

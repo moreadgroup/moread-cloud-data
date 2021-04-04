@@ -35,8 +35,8 @@ class MagicEar8TimesTest {
             Pair("${srcFolder}/introduction/introduction-2.json", false),
             Pair("${srcFolder}/introduction/introduction-3.json", false),
 
-            Pair("${srcFolder}/primary/primary-1.json", true),
-            Pair("${srcFolder}/primary/primary-2.json", false),
+            Pair("${srcFolder}/primary/primary-1.json", false),
+            Pair("${srcFolder}/primary/primary-2.json", true),
             Pair("${srcFolder}/primary/primary-3.json", false),
             Pair("${srcFolder}/primary/primary-4.json", false),
             Pair("${srcFolder}/primary/primary-5.json", false),
@@ -137,7 +137,7 @@ class MagicEar8TimesTest {
         vttFile.writeText(
             """
 WEBVTT
-X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+X-TIMESTAMP-MAP=MPEGTS:126000,LOCAL:00:00:00.000
 
      """.trimIndent()
         )
