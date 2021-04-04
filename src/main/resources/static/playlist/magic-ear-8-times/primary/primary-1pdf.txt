@@ -63,107 +63,57 @@
 
 单词           音标                                   释义
 
-read         英［ ri：d］ 美［ rid］                     (read, read)v.阅读；朗读
-
-wear         英［ ws(r)］ 美［ wer］                    (wore, worn)v.穿，戴
-
-drink        英［ driŋk］ 美[driŋk］                    (drank, drunk)v.喝n.饮料
-
-draw         英［ drɔ:］ 美［ drɔ］                      (drew, drawn)v.绘画
-begin        英［ bi'gm］ 美［ b『gm］
-do           英［ du］ 美［ du］                        (began, begun)
-                                                  v.开始；着手
-
-                                                  (did, done)v.&aux.(ife
-
-buy          英［ bai］ 美［ bai］                      (bought, bought)v.买n.交易
-
-bring        英［ bng］ 美［ b 口 9］                    (brought, brought)v.拿来
-
-please 英［ pH:z］ 美［ pliz］                          v.请；使人高兴
-
-try      英［ trai］ 美［ trai］                        v.试图；努力
-
-speak 英［ spi:k］ 美［ spik］                          (spoke, spoken)v.说； 谈话
-
-hear         英［松⑹美［ hir］                          (heard, heard)v.听见：听说
-
-play     英［ plei］ 美［ plei］                        v.玩；播放n.玩耍
-
-ask          英［ a:sk］ 美［ aesk］                    v.问；请求
-
-eat           英［ i：t］ 美［ i：t］                     (ate, eaten)v.吃，喝;进食
-think        英付咏］美付咏］
-write        英 gt］ 美［ rait］                       (thought, thought)
-                                                  v.想；认为
-                                                  (wrote, written)v.写；写作
-
-sing         英⑻巾美［ s叫］                            (sang, sung)v.唱，唱歌
-
-turn 英］乜:对美［ t3m］                                 v.旋转；转变n.轮流
-
-study        英「stAdi］ 美「stAdi］ v.学习n .书房
-
-stand        英［ staend)美［ stasnd］                 (stood, stood)v.站立；经受
-know         英［ noo］ 美［ nou］
-run          英 On］ 美［ mn］                         (knew, known)
-                                                  v.知道；认识；懂得
-                                                  (ran, run)vi.奔跑
-
-answer 英「Q：nso(i・)］美［ eenso(r)］ v.解答，回答n.答案
-
-wait         英［ weit］ 美［ wet］                     vi.等；等候
-
-come         英［ kAm］ 美［ kAm］                      (came, come)vi.来，来到
-
-shop         英 gp］ 美 LTQP］                        vi.购物n.商店
-
-go           英［ gM美［ gou］                         (went, gone)
-                                                  vi.去;走;到达
-live         英口 M美［ IM                            vi.生活;活着
-
-sleep        英［ slip］ 美［ slip］                    (slept, slept)vi.&n,睡觉
-
-listen       英口府］美「hson］                          vi .听
-
-swim         英［ swim］ 美［ swim］ (swam, swum)vi.游泳
-
-sit          英［ sit］ 美［ sit］                      (sat, sat)vi.坐
-
-gel          英［ get］ 美屏t］                         (got, got)vt.成为;得到
-
-clean 英［ kli:川美［ klin］                            vt.打扫a.干净的
-
-feel         英侨：1］ 美［理］                           (felt, fblt)v.&link感觉;摸
-
-put      英［ put］ 美［ put］                          (put, put)vt.放,摆
-thank      英田到k］ 美田磔k］                            vt.&n.感谢
-
-tell         英［ tel］ 美［回］                         (told, told)vt.告诉；讲述
-
-give     英［ gw］ 美［ giv］                           (gave, given)vt.给；付出
-
-watch        英［ wDtj］ 美［ watj］                    vt.观看;注意
-
-see          英回:］美［ si］                           (saw, seen)vt.看见;领会
-
-take     英［ teik］ 美［ tek］                         (took, taken)vt.拿走；乘坐
-
-             英［ let］ 美出t］                         (let, Iet)vi.ih
-
-say          英［ sei］ 美［ se］                       (said, said)vt.说，讲
-
-want         英［ wDnt］ 美［ want］ vt.想；需要
-
-have         英［ hov］ 美［ h史v］                      (has, had, had)vt.有；吃
-
-meet         英美［ mit］                             (meLmet)vt.遇见 n.会面
-find         英［面nd］ 美［ fhind］
-make         英［ meik］ 美［ mek］                     (found, found)
-                                                  vt.找到，发现
-                                                  (made, made)vt.制造;使得
-
-plant        英［ pki:nt］ 美［ plaent］ vt.种植n.植物
+read         英[ri：d］ 美[rid］                     (read, read)v.阅读；朗读
+wear         英[weə(r)］ 美[wer］                    (wore, worn)v.穿，戴
+drink        英[driŋk］ 美[driŋk］                   (drank, drunk)v.喝n.饮料
+draw         英[drɔ:］ 美[drɔ］                      (drew, drawn)v.绘画
+begin        英[bi'gin］ 美[bi'gin］                 (began, begun) v.开始；着手
+do           英[du］ 美[du］                         (did, done)v.&aux. 做
+buy          英[bai］ 美[bai］                       (bought, bought)v.买n.交易
+bring        英[briŋ］ 美[briŋ］                     (brought, brought)v.拿来
+please       英[pli:z］ 美[pliz］                    v.请；使人高兴
+try          英[trai］ 美[trai］                     v.试图；努力
+speak        英[spi:k］ 美[spik］                    (spoke, spoken)v.说； 谈话
+hear         英[hiə(r)] 美[hir］                     (heard, heard)v.听见：听说
+play         英[plei］ 美[plei］                     v.玩；播放n.玩耍
+ask          英[a:sk］ 美[aesk］                     v.问；请求
+eat          英[i:t］ 美[i:t］                       (ate, eaten)v.吃，喝;进食
+think        英[θiŋk］美[θiŋk］                      (thought, thought) v.想；认为
+write        英[rait］ 美[rait］                     (wrote, written)v.写；写作
+sing         英[siŋ] 美[siŋ］                        (sang, sung)v.唱，唱歌
+turn         英[tə:n］美[tən］                       v.旋转；转变n.轮流
+study        英[stʌdi］ 美[stʌdi］                   v.学习n .书房
+stand        英[stænd)美[stænd］                     (stood, stood)v.站立；经受
+know         英[nəu］ 美[nou］                       (knew, known) v.知道；认识；懂得
+run          英[rʌn］ 美[rʌn］                       (ran, run)vi.奔跑
+answer       英['ɑ:nsə(r)］美['ænsə(r)］             v.解答，回答n.答案
+wait         英[weit］ 美[wet］                      vi.等；等候
+come         英[kʌm］ 美[kʌm］                       (came, come)vi.来，来到
+shop         英[ʃɔp］ 美[ʃɔp］                       vi.购物n.商店
+go           英[gəu］ 美[gou]                        (went, gone) vi.去;走;到达
+live         英[liv] 美[liv]                        vi.生活;活着
+sleep        英[sli:p］ 美[slip］                    (slept, slept)vi.&n,睡觉
+listen       英['lisn］美['lisən］                   vi .听
+swim         英[swim］ 美[swim］                     (swam, swum)vi.游泳
+sit          英[sit］ 美[sit］                       (sat, sat)vi.坐
+get          英[get］ 美[get］                       (got, got)vt.成为;得到
+clean        英[kli:n] 美[klin］                     vt.打扫a.干净的
+feel         英[fi:l］ 美[fil］                      (felt, fblt)v.&link感觉;摸
+put          英[put］ 美[put］                       (put, put)vt.放,摆
+thank        英[θæiŋk］ 美[θæiŋk］                   vt.&n.感谢
+tell         英[tel］ 美[tel］                       (told, told)vt.告诉；讲述
+give         英[giv］ 美[giv］                       (gave, given)vt.给；付出
+watch        英[wɔtʃ］ 美[wɔtʃ］                     vt.观看;注意
+see          英[si:］美[si］                         (saw, seen)vt.看见;领会
+take         英[teik］ 美[tek］                      (took, taken)vt.拿走；乘坐
+let          英[let］ 美出t］                        (let, Iet)vt. 让
+say          英[sei］ 美[se］                        (said, said)vt.说，讲
+want         英[wDnt］ 美[want］                     vt.想；需要
+have         英[həv］ 美[hæv］                       (has, had, had)vt.有；吃
+meet         英[mi:t] 美[mit］                       (meLmet)vt.遇见 n.会面
+find         英[faind］ 美[faind］                   (found, found) vt.找到，发现
+make         英[meik］ 美[mek］                      (made, made)vt.制造;使得
+plant        英[pla:nt］ 美[plænt］                  vt.种植n.植物
 
                               收起描述O
 
