@@ -216,4 +216,30 @@ X-TIMESTAMP-MAP=MPEGTS:126000,LOCAL:00:00:00.000
 
     }
 
+
+    @Test
+    fun testGenerateQuizFromWordCVSfiles(){
+
+        val srcFolder = "static/playlist/magic-ear-8-times"
+        val destFolder = "static/playlist/magic-ear-8-times"
+
+        listOf(
+            Pair("${srcFolder}/primary/primary-1.csv", Quiz("meqzp01",1,"primary","Primary Quiz First","For Primary Textbook 1",)),
+            Pair("${srcFolder}/primary/primary-2.csv", Quiz("meqzp02",2,"primary","Primary Quiz Second","For Primary Textbook 2")),
+            Pair("${srcFolder}/primary/primary-3.csv", Quiz("meqzp03",3,"primary","Primary Quiz Third","For Primary Textbook 3")),
+            Pair("${srcFolder}/primary/primary-4.csv", Quiz("meqzp04",4,"primary","Primary Quiz Fourth","For Primary Textbook 4")),
+            Pair("${srcFolder}/primary/primary-5.csv", Quiz("meqzp05",5,"primary","Primary Quiz Fifth","For Primary Textbook 5")),
+            Pair("${srcFolder}/primary/primary-6.csv", Quiz("meqzp06",6,"primary","Primary Quiz Sixth","For Primary Textbook 6")),
+            Pair("${srcFolder}/primary/primary-7.csv", Quiz("meqzp07",7,"primary","Primary Quiz Seventh","For Primary Textbook 7")),
+            Pair("${srcFolder}/primary/primary-8.csv", Quiz("meqzp08",8,"primary","Primary Quiz Eighth","For Primary Textbook 8")),
+        )
+    }
+
+    class Quiz(
+        val id:String,
+        val seq:Int,
+        val type:String,
+        val name:String,
+        val desc:String ,
+    )
 }
