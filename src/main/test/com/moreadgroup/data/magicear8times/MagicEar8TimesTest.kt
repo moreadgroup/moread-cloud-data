@@ -243,9 +243,9 @@ X-TIMESTAMP-MAP=MPEGTS:126000,LOCAL:00:00:00.000
 //            QuizFileInfo("${srcFolder}/primary/primary-3.csv", "meqzp03",3,"primary","Primary Quiz Third"  ,"For Primary Textbook 3","qi-primary-3.csv"),
 //            QuizFileInfo("${srcFolder}/primary/primary-4.csv", "meqzp04",4,"primary","Primary Quiz Fourth" ,"For Primary Textbook 4","qi-primary-4.csv"),
 //            QuizFileInfo("${srcFolder}/primary/primary-5.csv", "meqzp05",5,"primary","Primary Quiz Fifth"  ,"For Primary Textbook 5","qi-primary-5.csv"),
-            QuizFileInfo("${srcFolder}/primary/primary-6.csv", "meqzp06",6,"primary","Primary Quiz Sixth"  ,"For Primary Textbook 6","qi-primary-6.csv"),
+//            QuizFileInfo("${srcFolder}/primary/primary-6.csv", "meqzp06",6,"primary","Primary Quiz Sixth"  ,"For Primary Textbook 6","qi-primary-6.csv"),
 //            QuizFileInfo("${srcFolder}/primary/primary-7.csv", "meqzp07",7,"primary","Primary Quiz Seventh","For Primary Textbook 7","qi-primary-7.csv"),
-//            QuizFileInfo("${srcFolder}/primary/primary-8.csv", "meqzp08",8,"primary","Primary Quiz Eighth" ,"For Primary Textbook 8","qi-primary-8.csv"),
+            QuizFileInfo("${srcFolder}/primary/primary-8.csv", "meqzp08",8,"primary","Primary Quiz Eighth" ,"For Primary Textbook 8","qi-primary-8.csv"),
 //
 //            QuizFileInfo("${srcFolder}/junior/junior-01.csv", "meqzj01",1, "junior","Junior Quiz First"  ,"For Junior Textbook 01","qi-junior-01.csv"),
 //            QuizFileInfo("${srcFolder}/junior/junior-02.csv", "meqzj02",2, "junior","Junior Quiz Second" ,"For Junior Textbook 02","qi-junior-02.csv"),
