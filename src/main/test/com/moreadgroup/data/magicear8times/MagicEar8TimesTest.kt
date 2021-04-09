@@ -239,11 +239,11 @@ X-TIMESTAMP-MAP=MPEGTS:126000,LOCAL:00:00:00.000
         listOf(
 //            QuizFileInfo("${srcFolder}/primary/primary-1.csv", "meqzp01",1,"primary","Primary Quiz First"  ,"For Primary Textbook 1","qi-primary-1.csv"),
 
-            QuizFileInfo("${srcFolder}/primary/primary-2.csv", "meqzp02",2,"primary","Primary Quiz Second" ,"For Primary Textbook 2","qi-primary-2.csv"),
+//            QuizFileInfo("${srcFolder}/primary/primary-2.csv", "meqzp02",2,"primary","Primary Quiz Second" ,"For Primary Textbook 2","qi-primary-2.csv"),
 //            QuizFileInfo("${srcFolder}/primary/primary-3.csv", "meqzp03",3,"primary","Primary Quiz Third"  ,"For Primary Textbook 3","qi-primary-3.csv"),
 //            QuizFileInfo("${srcFolder}/primary/primary-4.csv", "meqzp04",4,"primary","Primary Quiz Fourth" ,"For Primary Textbook 4","qi-primary-4.csv"),
 //            QuizFileInfo("${srcFolder}/primary/primary-5.csv", "meqzp05",5,"primary","Primary Quiz Fifth"  ,"For Primary Textbook 5","qi-primary-5.csv"),
-//            QuizFileInfo("${srcFolder}/primary/primary-6.csv", "meqzp06",6,"primary","Primary Quiz Sixth"  ,"For Primary Textbook 6","qi-primary-6.csv"),
+            QuizFileInfo("${srcFolder}/primary/primary-6.csv", "meqzp06",6,"primary","Primary Quiz Sixth"  ,"For Primary Textbook 6","qi-primary-6.csv"),
 //            QuizFileInfo("${srcFolder}/primary/primary-7.csv", "meqzp07",7,"primary","Primary Quiz Seventh","For Primary Textbook 7","qi-primary-7.csv"),
 //            QuizFileInfo("${srcFolder}/primary/primary-8.csv", "meqzp08",8,"primary","Primary Quiz Eighth" ,"For Primary Textbook 8","qi-primary-8.csv"),
 //
@@ -398,6 +398,9 @@ X-TIMESTAMP-MAP=MPEGTS:126000,LOCAL:00:00:00.000
         en: QI,
         qif: QuizFileInfo
     ): QuizItemLine {
+
+        println("word=$word")
+
         val qil = QuizItemLine(
             id = word.seq!!,
             type = qif.type,
@@ -414,21 +417,25 @@ X-TIMESTAMP-MAP=MPEGTS:126000,LOCAL:00:00:00.000
         val usedWords = mutableListOf<EnglishWord>(word)
         if ("A" != qil.ans) {
             val randomWord = words.stream().filter { !usedWords.contains(it) }.toList().shuffled()[0]
+            println("radomWord=$randomWord")
             qil.opa = if (QI.EN == en) randomWord.paraphrase!! else randomWord.word!!
             usedWords.add(randomWord)
         }
         if ("B" != qil.ans) {
             val randomWord = words.stream().filter { !usedWords.contains(it) }.toList().shuffled()[0]
+            println("radomWord=$randomWord")
             qil.opb = if (QI.EN == en) randomWord.paraphrase!! else randomWord.word!!
             usedWords.add(randomWord)
         }
         if ("C" != qil.ans) {
             val randomWord = words.stream().filter { !usedWords.contains(it) }.toList().shuffled()[0]
+            println("radomWord=$randomWord")
             qil.opc = if (QI.EN == en) randomWord.paraphrase!! else randomWord.word!!
             usedWords.add(randomWord)
         }
         if ("D" != qil.ans) {
             val randomWord = words.stream().filter { !usedWords.contains(it) }.toList().shuffled()[0]
+            println("radomWord=$randomWord")
             qil.opd = if (QI.EN == en) randomWord.paraphrase!! else randomWord.word!!
             usedWords.add(randomWord)
         }
