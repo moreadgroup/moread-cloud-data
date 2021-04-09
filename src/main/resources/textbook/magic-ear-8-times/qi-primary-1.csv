@@ -1,26 +1,103 @@
-id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph,,
-it0001,primary,N,A,"Summer will end ____ enough, and childhood as well.",desc,soon,later,as soon as,latest,immediately,,,,,
-it0002,primary,Y,"B,D","Summer will end ____ enough, and childhood as well.",desc,soon,later,as soon as,latest,immediately,,,,,
-it0003,primary,Y,A,"Summer will end ____ enough, and childhood as well.",desc,soon,later,as soon as,latest,immediately,,,,,
-it0004,primary,Y,"C,D,E","Summer will end ____ enough, and childhood as well.",desc,soon,later,as soon as,latest,immediately,,,,,
-it0005,primary,Y,A,"Summer will end ____ enough, and childhood as well.",desc,soon,later,as soon as,latest,immediately,,,,,
-it0006,primary,Y,A,"Summer will end ____ enough, and childhood as well.",desc,soon,later,as soon as,latest,immediately,,,,,
-it0007,primary,N,B,"Summer will end ____ enough, and childhood as well.",desc,soon,later,as soon as,latest,immediately,,,,,
-it0008,primary,Y,"A,F","Summer will end ____ enough, and childhood as well.",desc,soon,later,as soon as,latest,immediately,,,,,
-it0009,primary,Y,A,"Summer will end ____ enough, and childhood as well.",desc,soon,later,as soon as,latest,immediately,,,,,
-it0010,primary,Y,A,"Summer will end ____ enough, and childhood as well.",desc,soon,later,as soon as,latest,immediately,,,,,
-it0011,primary,N,C,"Summer will end ____ enough, and childhood as well.",desc,soon,later,as soon as,latest,immediately,,,,,
-it0012,primary,Y,"A,C,D","Summer will end ____ enough, and childhood as well.",desc,soon,later,as soon as,latest,immediately,,,,,
-it0013,primary,Y,A,"Summer will end ____ enough, and childhood as well.",desc,soon,later,as soon as,latest,immediately,,,,,
-it0014,primary,Y,A,"Summer will end ____ enough, and childhood as well.",desc,soon,later,as soon as,latest,immediately,,,,,
-it0015,primary,Y,A,"Summer will end ____ enough, and childhood as well.",desc,soon,later,as soon as,latest,immediately,,,,,
-it0016,primary,Y,A,"Summer will end ____ enough, and childhood as well.",desc,soon,later,as soon as,latest,immediately,,,,,
-it0017,primary,Y,A,"Summer will end ____ enough, and childhood as well.",desc,soon,later,as soon as,latest,immediately,,,,,
-it0018,primary,N,C,"Summer will end ____ enough, and childhood as well.",desc,soon,later,as soon as,latest,immediately,,,,,
-it0019,primary,Y,A,"Summer will end ____ enough, and childhood as well.",desc,soon,later,as soon as,latest,immediately,,,,,
-it0020,primary,Y,A,"Summer will end ____ enough, and childhood as well.",desc,soon,later,as soon as,latest,immediately,,,,,
-it0021,primary,N,D,"Summer will end ____ enough, and childhood as well.",desc,soon,later,as soon as,latest,immediately,,,,,
-it0022,primary,Y,A,"Summer will end ____ enough, and childhood as well.",desc,soon,later,as soon as,latest,immediately,,,,,
-it0023,primary,Y,A,"Summer will end ____ enough, and childhood as well.",desc,soon,later,as soon as,latest,immediately,,,,,
-it0024,primary,Y,A,"Summer will end ____ enough, and childhood as well.",desc,soon,later,as soon as,latest,immediately,,,,,
-it0025,primary,Y,A,"Summer will end ____ enough, and childhood as well.",desc,soon,later,as soon as,latest,immediately,,,,,
+id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
+"meqzp01000","primary","N","A","read","英[ri:d]美[rid] (read，read)","v.阅读，朗读","vt.让","vi.购物n.商店","v.穿，戴","","","",""
+"meqzp01001","primary","N","A","wear","英[weə(r)]美[wer] (wore，worn)","v.穿，戴","v.问，请求","v.玩，播放n.玩耍","v.唱，唱歌","","","",""
+"meqzp01002","primary","N","B","drink","英[driŋk]美[driŋk] (drank，drunk)","v.说，谈话","v.喝n.饮料","v.学习n.书房","v.问，请求","","","",""
+"meqzp01003","primary","N","B","draw","英[drɔ:]美[drɔ] (drew，drawn)","v.知道，认识，懂得","v.绘画","v.喝n.饮料","vi.听","","","",""
+"meqzp01004","primary","N","C","begin","英[bi'gin]美[bi'gin] (began，begun)","vi.来，来到","v.知道，认识，懂得","v.开始，着手","vt.找到，发现","","","",""
+"meqzp01005","primary","N","A","do","英[du]美[du] (did，done)","v.&aux.做","v.旋转，转变n.轮流","vi.&n，睡觉","vt.说，讲","","","",""
+"meqzp01006","primary","N","A","buy","英[bai]美[bai] (bought，bought)","v.买n.交易","vt.观看，注意","v.吃，喝，进食","vi.游泳","","","",""
+"meqzp01007","primary","N","C","bring","英[briŋ]美[briŋ] (brought，brought)","vt.打扫a.干净的","v.写，写作","v.拿来","vt.拿走，乘坐","","","",""
+"meqzp01008","primary","N","C","please","英[pli:z]美[pliz] ","v.说，谈话","v.吃，喝，进食","v.请，使人高兴","v.试图，努力","","","",""
+"meqzp01009","primary","N","A","try","英[trai]美[trai] ","v.试图，努力","vi.等，等候","v.玩，播放n.玩耍","vt.观看，注意","","","",""
+"meqzp01010","primary","N","A","speak","英[spi:k]美[spik] (spoke，spoken)","v.说，谈话","vi.去，走，到达","v.站立，经受","vt.看见，领会","","","",""
+"meqzp01011","primary","N","C","hear","英[hiə(r)]美[hir] (heard，heard)","vt.告诉，讲述","v.试图，努力","v.听见，听说","vi.生活，活着","","","",""
+"meqzp01012","primary","N","A","play","英[plei]美[plei] ","v.玩，播放n.玩耍","v.站立，经受","vt.放，摆","v.&link感觉，摸","","","",""
+"meqzp01013","primary","N","D","ask","英[a:sk]美[æsk] ","vi.&n，睡觉","vi.生活，活着","vt.种植n.植物","v.问，请求","","","",""
+"meqzp01014","primary","N","A","eat","英[i:t]美[i:t] (ate，eaten)","v.吃，喝，进食","v.玩，播放n.玩耍","vt.想，需要","vt.制造，使得","","","",""
+"meqzp01015","primary","N","D","think","英[θiŋk]美[θiŋk] (thought，thought)","vi.&n，睡觉","vi.游泳","v.绘画","v.想，认为","","","",""
+"meqzp01016","primary","N","A","write","英[rait]美[rait] (wrote，written)","v.写，写作","v.问，请求","vt.打扫a.干净的","v.解答，回答n.答案","","","",""
+"meqzp01017","primary","N","C","sing","英[siŋ]美[siŋ] (sang，sung)","vi.听","v.知道，认识，懂得","v.唱，唱歌","v.听见，听说","","","",""
+"meqzp01018","primary","N","B","turn","英[tə:n]美[tən] ","vi.购物n.商店","v.旋转，转变n.轮流","vt.告诉，讲述","v.请，使人高兴","","","",""
+"meqzp01019","primary","N","D","study","英[stʌdi]美[stʌdi] ","vi.去，走，到达","vt.&n.感谢","v.听见，听说","v.学习n.书房","","","",""
+"meqzp01020","primary","N","C","stand","英[stænd)美[stænd] (stood，stood)","v.拿来","vi.坐","v.站立，经受","v.写，写作","","","",""
+"meqzp01021","primary","N","B","know","英[nəu]美[nou] (knew，known)","v.穿，戴","v.知道，认识，懂得","v.站立，经受","vi.等，等候","","","",""
+"meqzp01022","primary","N","B","run","英[rʌn]美[rʌn] (ran，run)","vt.想，需要","vi.奔跑","v.吃，喝，进食","v.阅读，朗读","","","",""
+"meqzp01023","primary","N","B","answer","英['ɑ:nsə(r)]美['ænsə(r)] ","v.吃，喝，进食","v.解答，回答n.答案","v.玩，播放n.玩耍","vt.拿走，乘坐","","","",""
+"meqzp01024","primary","N","A","wait","英[weit]美[wet] ","vi.等，等候","v.&aux.做","vt.有，吃","v.拿来","","","",""
+"meqzp01025","primary","N","B","come","英[kʌm]美[kʌm] (came，come)","v.解答，回答n.答案","vi.来，来到","v.问，请求","v.请，使人高兴","","","",""
+"meqzp01026","primary","N","A","shop","英[ʃɔp]美[ʃɔp] ","vi.购物n.商店","vi.坐","vt.种植n.植物","vi.游泳","","","",""
+"meqzp01027","primary","N","D","go","英[gəu]美[gou] (went，gone)","vt.让","v.写，写作","vi.生活，活着","vi.去，走，到达","","","",""
+"meqzp01028","primary","N","A","live","英[liv]美[liv] ","vi.生活，活着","vi.奔跑","vt.看见，领会","v.穿，戴","","","",""
+"meqzp01029","primary","N","B","sleep","英[sli:p]美[slip] (slept，slept)","vi.来，来到","vi.&n，睡觉","vt.找到，发现","v.喝n.饮料","","","",""
+"meqzp01030","primary","N","D","listen","英['lisn]美['lisən] ","v.唱，唱歌","vi.来，来到","v.解答，回答n.答案","vi.听","","","",""
+"meqzp01031","primary","N","C","swim","英[swim]美[swim] (swam，swum)","vt.有，吃","v.唱，唱歌","vi.游泳","v.站立，经受","","","",""
+"meqzp01032","primary","N","A","sit","英[sit]美[sit] (sat，sat)","vi.坐","v.站立，经受","vt.观看，注意","vt.找到，发现","","","",""
+"meqzp01033","primary","N","A","get","英[get]美[get] (got，got)","vt.成为，得到","vi.购物n.商店","vt.有，吃","v.绘画","","","",""
+"meqzp01034","primary","N","A","clean","英[kli:n]美[klin] ","vt.打扫a.干净的","vi.购物n.商店","vt.说，讲","vi.生活，活着","","","",""
+"meqzp01035","primary","N","C","feel","英[fi:l]美[fil] (felt，fblt)","v.买n.交易","vt.放，摆","v.&link感觉，摸","vi.坐","","","",""
+"meqzp01036","primary","N","A","put","英[put]美[put] (put，put)","vt.放，摆","vt.看见，领会","vi.游泳","v.说，谈话","","","",""
+"meqzp01037","primary","N","B","thank","英[θæiŋk]美[θæiŋk] ","v.请，使人高兴","vt.&n.感谢","vi.去，走，到达","v.喝n.饮料","","","",""
+"meqzp01038","primary","N","B","tell","英[tel]美[tel] (told，told)","v.写，写作","vt.告诉，讲述","v.拿来","v.阅读，朗读","","","",""
+"meqzp01039","primary","N","A","give","英[giv]美[giv] (gave，given)","vt.给，付出","v.想，认为","v.问，请求","v.说，谈话","","","",""
+"meqzp01040","primary","N","B","watch","英[wɔtʃ]美[wɔtʃ] ","vi.游泳","vt.观看，注意","v.开始，着手","v.学习n.书房","","","",""
+"meqzp01041","primary","N","B","see","英[si:]美[si] (saw，seen)","vt.给，付出","vt.看见，领会","vi.&n，睡觉","v.玩，播放n.玩耍","","","",""
+"meqzp01042","primary","N","C","take","英[teik]美[tek] (took，taken)","v.&aux.做","vt.给，付出","vt.拿走，乘坐","vi.生活，活着","","","",""
+"meqzp01043","primary","N","A","let","英[let]美出t] (let，let)","vt.让","v.开始，着手","vi.生活，活着","vt.想，需要","","","",""
+"meqzp01044","primary","N","B","say","英[sei]美[se] (said，said)","v.知道，认识，懂得","vt.说，讲","vi.等，等候","vi.购物n.商店","","","",""
+"meqzp01045","primary","N","B","want","英[wDnt]美[want] ","v.解答，回答n.答案","vt.想，需要","vt.打扫a.干净的","v.&aux.做","","","",""
+"meqzp01046","primary","N","B","have","英[həv]美[hæv] (has，had，had)","vt.找到，发现","vt.有，吃","v.拿来","vt.看见，领会","","","",""
+"meqzp01047","primary","N","D","meet","英[mi:t]美[mit] (met，met)","v.写，写作","vi.听","vt.想，需要","vt.遇见n.会面","","","",""
+"meqzp01048","primary","N","C","find","英[faind]美[faind] (found，found)","v.站立，经受","v.买n.交易","vt.找到，发现","v.&aux.做","","","",""
+"meqzp01049","primary","N","C","make","英[meik]美[mek] (made，made)","v.学习n.书房","vt.找到，发现","vt.制造，使得","v.写，写作","","","",""
+"meqzp01050","primary","N","B","plant","英[pla:nt]美[plænt] ","v.拿来","vt.种植n.植物","vt.遇见n.会面","v.唱，唱歌","","","",""
+"meqzp01051","primary","N","B","v.阅读，朗读","英[ri:d]美[rid] (read，read)","get","read","swim","live","","","",""
+"meqzp01052","primary","N","A","v.穿，戴","英[weə(r)]美[wer] (wore，worn)","wear","know","thank","let","","","",""
+"meqzp01053","primary","N","C","v.喝n.饮料","英[driŋk]美[driŋk] (drank，drunk)","turn","want","drink","say","","","",""
+"meqzp01054","primary","N","C","v.绘画","英[drɔ:]美[drɔ] (drew，drawn)","shop","study","draw","put","","","",""
+"meqzp01055","primary","N","D","v.开始，着手","英[bi'gin]美[bi'gin] (began，begun)","want","make","hear","begin","","","",""
+"meqzp01056","primary","N","B","v.&aux.做","英[du]美[du] (did，done)","think","do","please","wait","","","",""
+"meqzp01057","primary","N","A","v.买n.交易","英[bai]美[bai] (bought，bought)","buy","clean","tell","turn","","","",""
+"meqzp01058","primary","N","C","v.拿来","英[briŋ]美[briŋ] (brought，brought)","meet","feel","bring","watch","","","",""
+"meqzp01059","primary","N","B","v.请，使人高兴","英[pli:z]美[pliz] ","let","please","listen","study","","","",""
+"meqzp01060","primary","N","D","v.试图，努力","英[trai]美[trai] ","say","read","sing","try","","","",""
+"meqzp01061","primary","N","D","v.说，谈话","英[spi:k]美[spik] (spoke，spoken)","try","answer","put","speak","","","",""
+"meqzp01062","primary","N","D","v.听见，听说","英[hiə(r)]美[hir] (heard，heard)","stand","let","read","hear","","","",""
+"meqzp01063","primary","N","C","v.玩，播放n.玩耍","英[plei]美[plei] ","wear","feel","play","take","","","",""
+"meqzp01064","primary","N","B","v.问，请求","英[a:sk]美[æsk] ","live","ask","meet","hear","","","",""
+"meqzp01065","primary","N","D","v.吃，喝，进食","英[i:t]美[i:t] (ate，eaten)","shop","take","read","eat","","","",""
+"meqzp01066","primary","N","C","v.想，认为","英[θiŋk]美[θiŋk] (thought，thought)","buy","listen","think","do","","","",""
+"meqzp01067","primary","N","D","v.写，写作","英[rait]美[rait] (wrote，written)","want","come","buy","write","","","",""
+"meqzp01068","primary","N","B","v.唱，唱歌","英[siŋ]美[siŋ] (sang，sung)","eat","sing","get","begin","","","",""
+"meqzp01069","primary","N","A","v.旋转，转变n.轮流","英[tə:n]美[tən] ","turn","plant","wait","sit","","","",""
+"meqzp01070","primary","N","A","v.学习n.书房","英[stʌdi]美[stʌdi] ","study","tell","think","hear","","","",""
+"meqzp01071","primary","N","B","v.站立，经受","英[stænd)美[stænd] (stood，stood)","eat","stand","swim","begin","","","",""
+"meqzp01072","primary","N","C","v.知道，认识，懂得","英[nəu]美[nou] (knew，known)","drink","run","know","do","","","",""
+"meqzp01073","primary","N","D","vi.奔跑","英[rʌn]美[rʌn] (ran，run)","put","sleep","shop","run","","","",""
+"meqzp01074","primary","N","A","v.解答，回答n.答案","英['ɑ:nsə(r)]美['ænsə(r)] ","answer","draw","come","put","","","",""
+"meqzp01075","primary","N","B","vi.等，等候","英[weit]美[wet] ","eat","wait","give","plant","","","",""
+"meqzp01076","primary","N","A","vi.来，来到","英[kʌm]美[kʌm] (came，come)","come","buy","take","get","","","",""
+"meqzp01077","primary","N","D","vi.购物n.商店","英[ʃɔp]美[ʃɔp] ","clean","sing","wear","shop","","","",""
+"meqzp01078","primary","N","C","vi.去，走，到达","英[gəu]美[gou] (went，gone)","sit","live","go","say","","","",""
+"meqzp01079","primary","N","D","vi.生活，活着","英[liv]美[liv] ","turn","sleep","listen","live","","","",""
+"meqzp01080","primary","N","D","vi.&n，睡觉","英[sli:p]美[slip] (slept，slept)","eat","have","buy","sleep","","","",""
+"meqzp01081","primary","N","C","vi.听","英['lisn]美['lisən] ","tell","live","listen","thank","","","",""
+"meqzp01082","primary","N","B","vi.游泳","英[swim]美[swim] (swam，swum)","draw","swim","wait","write","","","",""
+"meqzp01083","primary","N","D","vi.坐","英[sit]美[sit] (sat，sat)","sleep","clean","tell","sit","","","",""
+"meqzp01084","primary","N","C","vt.成为，得到","英[get]美[get] (got，got)","speak","have","get","meet","","","",""
+"meqzp01085","primary","N","B","vt.打扫a.干净的","英[kli:n]美[klin] ","put","clean","stand","sing","","","",""
+"meqzp01086","primary","N","D","v.&link感觉，摸","英[fi:l]美[fil] (felt，fblt)","shop","wait","plant","feel","","","",""
+"meqzp01087","primary","N","C","vt.放，摆","英[put]美[put] (put，put)","meet","sit","put","want","","","",""
+"meqzp01088","primary","N","B","vt.&n.感谢","英[θæiŋk]美[θæiŋk] ","bring","thank","answer","want","","","",""
+"meqzp01089","primary","N","A","vt.告诉，讲述","英[tel]美[tel] (told，told)","tell","say","write","buy","","","",""
+"meqzp01090","primary","N","A","vt.给，付出","英[giv]美[giv] (gave，given)","give","sit","think","say","","","",""
+"meqzp01091","primary","N","C","vt.观看，注意","英[wɔtʃ]美[wɔtʃ] ","tell","feel","watch","go","","","",""
+"meqzp01092","primary","N","D","vt.看见，领会","英[si:]美[si] (saw，seen)","watch","go","run","see","","","",""
+"meqzp01093","primary","N","B","vt.拿走，乘坐","英[teik]美[tek] (took，taken)","think","take","go","want","","","",""
+"meqzp01094","primary","N","D","vt.让","英[let]美出t] (let，let)","thank","hear","feel","let","","","",""
+"meqzp01095","primary","N","A","vt.说，讲","英[sei]美[se] (said，said)","say","shop","run","find","","","",""
+"meqzp01096","primary","N","D","vt.想，需要","英[wDnt]美[want] ","draw","begin","see","want","","","",""
+"meqzp01097","primary","N","D","vt.有，吃","英[həv]美[hæv] (has，had，had)","stand","buy","put","have","","","",""
+"meqzp01098","primary","N","D","vt.遇见n.会面","英[mi:t]美[mit] (met，met)","plant","make","run","meet","","","",""
+"meqzp01099","primary","N","D","vt.找到，发现","英[faind]美[faind] (found，found)","wear","swim","plant","find","","","",""
+"meqzp01100","primary","N","C","vt.制造，使得","英[meik]美[mek] (made，made)","live","play","make","plant","","","",""
+"meqzp01101","primary","N","D","vt.种植n.植物","英[pla:nt]美[plænt] ","buy","please","know","plant","","","",""
