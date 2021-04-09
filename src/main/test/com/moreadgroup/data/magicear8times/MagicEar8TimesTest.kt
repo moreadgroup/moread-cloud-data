@@ -33,8 +33,8 @@ import com.opencsv.bean.StatefulBeanToCsv
  */
 class MagicEar8TimesTest {
 
-    private val ROOT_FOLDER = "/Users/CC/github/moreadgroup/moread-cloud-data/src/main/resources/"
-//  val ROOT_FOLDER = "/Users/conanchen/github/moreadgroup/moread-cloud-data/src/main/resources/"
+//    private val ROOT_FOLDER = "/Users/CC/github/moreadgroup/moread-cloud-data/src/main/resources/"
+  val ROOT_FOLDER = "/Users/conanchen/github/moreadgroup/moread-cloud-data/src/main/resources/"
 
 
     private val srcFolder = ROOT_FOLDER + "static/playlist/magic-ear-8-times"
@@ -237,9 +237,9 @@ X-TIMESTAMP-MAP=MPEGTS:126000,LOCAL:00:00:00.000
     fun testGenerateQuizFromWordCVSfiles() {
 
         listOf(
-            QuizFileInfo("${srcFolder}/primary/primary-1.csv", "meqzp01",1,"primary","Primary Quiz First"  ,"For Primary Textbook 1","qi-primary-1.csv"),
+//            QuizFileInfo("${srcFolder}/primary/primary-1.csv", "meqzp01",1,"primary","Primary Quiz First"  ,"For Primary Textbook 1","qi-primary-1.csv"),
 
-//            QuizFileInfo("${srcFolder}/primary/primary-2.csv", "meqzp02",2,"primary","Primary Quiz Second" ,"For Primary Textbook 2","qi-primary-2.csv"),
+            QuizFileInfo("${srcFolder}/primary/primary-2.csv", "meqzp02",2,"primary","Primary Quiz Second" ,"For Primary Textbook 2","qi-primary-2.csv"),
 //            QuizFileInfo("${srcFolder}/primary/primary-3.csv", "meqzp03",3,"primary","Primary Quiz Third"  ,"For Primary Textbook 3","qi-primary-3.csv"),
 //            QuizFileInfo("${srcFolder}/primary/primary-4.csv", "meqzp04",4,"primary","Primary Quiz Fourth" ,"For Primary Textbook 4","qi-primary-4.csv"),
 //            QuizFileInfo("${srcFolder}/primary/primary-5.csv", "meqzp05",5,"primary","Primary Quiz Fifth"  ,"For Primary Textbook 5","qi-primary-5.csv"),
