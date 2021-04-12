@@ -134,7 +134,7 @@ class MagicEar8TimesTest {
 
         //JSON file to Java object
         val content =
-            FileUtils.readFileToString(File(ClassLoader.getSystemResource(jsonFile).file), StandardCharsets.UTF_8);
+            FileUtils.readFileToString(File(ClassLoader.getSystemResource(jsonFile).file), StandardCharsets.UTF_8.name());
 
         // https://jsonpath.com/ $.msg[0].task_result.detailed_result
         val jsonContext: List<LinkedHashMap<String, Any>> =
