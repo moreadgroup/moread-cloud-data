@@ -1,0 +1,205 @@
+id,assignee,type,contentid,title
+t0001,user1,QuizItem,meqzp01000, read
+t0002,user1,QuizItem,meqzp01001, wear
+t0003,user1,QuizItem,meqzp01002, drink
+t0004,user1,QuizItem,meqzp01003, draw
+t0005,user1,QuizItem,meqzp01004, begin
+t0006,user1,QuizItem,meqzp01005, do
+t0007,user1,QuizItem,meqzp01006, buy
+t0008,user1,QuizItem,meqzp01007, bring
+t0009,user1,QuizItem,meqzp01008, please
+t0010,user1,QuizItem,meqzp01009, try
+t0011,user1,QuizItem,meqzp01010, speak
+t0012,user1,QuizItem,meqzp01011, hear
+t0013,user1,QuizItem,meqzp01012, play
+t0014,user1,QuizItem,meqzp01013, ask
+t0015,user1,QuizItem,meqzp01014, eat
+t0016,user1,QuizItem,meqzp01015, think
+t0017,user1,QuizItem,meqzp01016, write
+t0018,user1,QuizItem,meqzp01017, sing
+t0019,user1,QuizItem,meqzp01018, turn
+t0020,user1,QuizItem,meqzp01019, study
+t0021,user1,QuizItem,meqzp01020, stand
+t0022,user1,QuizItem,meqzp01021, know
+t0023,user1,QuizItem,meqzp01022, run
+t0024,user1,QuizItem,meqzp01023, answer
+t0025,user1,QuizItem,meqzp01024, wait
+t0026,user1,QuizItem,meqzp01025, come
+t0027,user1,QuizItem,meqzp01026, shop
+t0028,user1,QuizItem,meqzp01027, go
+t0029,user1,QuizItem,meqzp01028, live
+t0030,user1,QuizItem,meqzp01029, sleep
+t0031,user1,QuizItem,meqzp01030, listen
+t0032,user1,QuizItem,meqzp01031, swim
+t0033,user1,QuizItem,meqzp01032, sit
+t0034,user1,QuizItem,meqzp01033, get
+t0035,user1,QuizItem,meqzp01034, clean
+t0036,user1,QuizItem,meqzp01035, feel
+t0037,user1,QuizItem,meqzp01036, put
+t0038,user1,QuizItem,meqzp01037, thank
+t0039,user1,QuizItem,meqzp01038, tell
+t0040,user1,QuizItem,meqzp01039, give
+t0041,user1,QuizItem,meqzp01040, watch
+t0042,user1,QuizItem,meqzp01041, see
+t0043,user1,QuizItem,meqzp01042, take
+t0044,user1,QuizItem,meqzp01043, let
+t0045,user1,QuizItem,meqzp01044, say
+t0046,user1,QuizItem,meqzp01045, want
+t0047,user1,QuizItem,meqzp01046, have
+t0048,user1,QuizItem,meqzp01047, meet
+t0049,user1,QuizItem,meqzp01048, find
+t0050,user1,QuizItem,meqzp01049, make
+t0051,user1,QuizItem,meqzp01050, plant
+t0052,user1,QuizItem,meqzp01051, v.阅读，朗读
+t0053,user1,QuizItem,meqzp01052, v.穿，戴
+t0054,user1,QuizItem,meqzp01053, v.喝n.饮料
+t0055,user1,QuizItem,meqzp01054, v.绘画
+t0056,user1,QuizItem,meqzp01055, v.开始，着手
+t0057,user1,QuizItem,meqzp01056, v.&aux.做
+t0058,user1,QuizItem,meqzp01057, v.买n.交易
+t0059,user1,QuizItem,meqzp01058, v.拿来
+t0060,user1,QuizItem,meqzp01059, v.请，使人高兴
+t0061,user1,QuizItem,meqzp01060, v.试图，努力
+t0062,user1,QuizItem,meqzp01061, v.说，谈话
+t0063,user1,QuizItem,meqzp01062, v.听见，听说
+t0064,user1,QuizItem,meqzp01063, v.玩，播放n.玩耍
+t0065,user1,QuizItem,meqzp01064, v.问，请求
+t0066,user1,QuizItem,meqzp01065, v.吃，喝，进食
+t0067,user1,QuizItem,meqzp01066, v.想，认为
+t0068,user1,QuizItem,meqzp01067, v.写，写作
+t0069,user1,QuizItem,meqzp01068, v.唱，唱歌
+t0070,user1,QuizItem,meqzp01069, v.旋转，转变n.轮流
+t0071,user1,QuizItem,meqzp01070, v.学习n.书房
+t0072,user1,QuizItem,meqzp01071, v.站立，经受
+t0073,user1,QuizItem,meqzp01072, v.知道，认识，懂得
+t0074,user1,QuizItem,meqzp01073, vi.奔跑
+t0075,user1,QuizItem,meqzp01074, v.解答，回答n.答案
+t0076,user1,QuizItem,meqzp01075, vi.等，等候
+t0077,user1,QuizItem,meqzp01076, vi.来，来到
+t0078,user1,QuizItem,meqzp01077, vi.购物n.商店
+t0079,user1,QuizItem,meqzp01078, vi.去，走，到达
+t0080,user1,QuizItem,meqzp01079, vi.生活，活着
+t0081,user1,QuizItem,meqzp01080, vi.&n，睡觉
+t0082,user1,QuizItem,meqzp01081, vi.听
+t0083,user1,QuizItem,meqzp01082, vi.游泳
+t0084,user1,QuizItem,meqzp01083, vi.坐
+t0085,user1,QuizItem,meqzp01084, vt.成为，得到
+t0086,user1,QuizItem,meqzp01085, vt.打扫a.干净的
+t0087,user1,QuizItem,meqzp01086, v.&link感觉，摸
+t0088,user1,QuizItem,meqzp01087, vt.放，摆
+t0089,user1,QuizItem,meqzp01088, vt.&n.感谢
+t0090,user1,QuizItem,meqzp01089, vt.告诉，讲述
+t0091,user1,QuizItem,meqzp01090, vt.给，付出
+t0092,user1,QuizItem,meqzp01091, vt.观看，注意
+t0093,user1,QuizItem,meqzp01092, vt.看见，领会
+t0094,user1,QuizItem,meqzp01093, vt.拿走，乘坐
+t0095,user1,QuizItem,meqzp01094, vt.让
+t0096,user1,QuizItem,meqzp01095, vt.说，讲
+t0097,user1,QuizItem,meqzp01096, vt.想，需要
+t0098,user1,QuizItem,meqzp01097, vt.有，吃
+t0099,user1,QuizItem,meqzp01098, vt.遇见n.会面
+t0100,user1,QuizItem,meqzp01099, vt.找到，发现
+t0101,user1,QuizItem,meqzp01100, vt.制造，使得
+t0102,user1,QuizItem,meqzp01101, vt.种植n.植物
+t0103,user1,QuizItem,meqzp02000,can
+t0104,user1,QuizItem,meqzp02001,look
+t0105,user1,QuizItem,meqzp02002,walk
+t0106,user1,QuizItem,meqzp02003,exercise
+t0107,user1,QuizItem,meqzp02004,worry
+t0108,user1,QuizItem,meqzp02005,call
+t0109,user1,QuizItem,meqzp02006,stop
+t0110,user1,QuizItem,meqzp02007,talk
+t0111,user1,QuizItem,meqzp02008,travel
+t0112,user1,QuizItem,meqzp02009,use
+t0113,user1,QuizItem,meqzp02010,work
+t0114,user1,QuizItem,meqzp02011,dance
+t0115,user1,QuizItem,meqzp02012,cook
+t0116,user1,QuizItem,meqzp02013,love
+t0117,user1,QuizItem,meqzp02014,help
+t0118,user1,QuizItem,meqzp02015,cry
+t0119,user1,QuizItem,meqzp02016,visit
+t0120,user1,QuizItem,meqzp02017,about
+t0121,user1,QuizItem,meqzp02018,far
+t0122,user1,QuizItem,meqzp02019,half
+t0123,user1,QuizItem,meqzp02020,that
+t0124,user1,QuizItem,meqzp02021,those
+t0125,user1,QuizItem,meqzp02022,this
+t0126,user1,QuizItem,meqzp02023,these
+t0127,user1,QuizItem,meqzp02024,white
+t0128,user1,QuizItem,meqzp02025,thin
+t0129,user1,QuizItem,meqzp02026,sad
+t0130,user1,QuizItem,meqzp02027,ugly
+t0131,user1,QuizItem,meqzp02028,clever
+t0132,user1,QuizItem,meqzp02029,wrong
+t0133,user1,QuizItem,meqzp02030,big
+t0134,user1,QuizItem,meqzp02031,short
+t0135,user1,QuizItem,meqzp02032,sorry
+t0136,user1,QuizItem,meqzp02033,cloudy
+t0137,user1,QuizItem,meqzp02034,tall
+t0138,user1,QuizItem,meqzp02035,high
+t0139,user1,QuizItem,meqzp02036,afraid
+t0140,user1,QuizItem,meqzp02037,good
+t0141,user1,QuizItem,meqzp02038,black
+t0142,user1,QuizItem,meqzp02039,bad
+t0143,user1,QuizItem,meqzp02040,yellow
+t0144,user1,QuizItem,meqzp02041,hungry
+t0145,user1,QuizItem,meqzp02042,healthy
+t0146,user1,QuizItem,meqzp02043,near
+t0147,user1,QuizItem,meqzp02044,wonderful
+t0148,user1,QuizItem,meqzp02045,open
+t0149,user1,QuizItem,meqzp02046,fast
+t0150,user1,QuizItem,meqzp02047,old
+t0151,user1,QuizItem,meqzp02048,cold
+t0152,user1,QuizItem,meqzp02049,cool
+t0153,user1,QuizItem,meqzp02050,all
+t0154,user1,QuizItem,meqzp02051,aux.能够；可以n.罐头
+t0155,user1,QuizItem,meqzp02052,n.看v.观看
+t0156,user1,QuizItem,meqzp02053,n.&v•步行：散步
+t0157,user1,QuizItem,meqzp02054,n.&v.锻炼；练习
+t0158,user1,QuizItem,meqzp02055,n.&v.烦恼，担忧；困扰
+t0159,user1,QuizItem,meqzp02056,n.喊；电话v.称呼；打电话
+t0160,user1,QuizItem,meqzp02057,n.&v.停止
+t0161,user1,QuizItem,meqzp02058,n.&v.谈话；交谈
+t0162,user1,QuizItem,meqzp02059,n.&vi.旅行
+t0163,user1,QuizItem,meqzp02060,n.&vt.利用;使用
+t0164,user1,QuizItem,meqzp02061,n.&v.工作；运转
+t0165,user1,QuizItem,meqzp02062,n.&vi.跳舞
+t0166,user1,QuizItem,meqzp02063,n.厨师v.做饭
+t0167,user1,QuizItem,meqzp02064,n.&vt.爱；热爱
+t0168,user1,QuizItem,meqzp02065,n.&vt.帮助
+t0169,user1,QuizItem,meqzp02066,n.哭声v.喊叫；哭
+t0170,user1,QuizItem,meqzp02067,n.&vt.参观；访问
+t0171,user1,QuizItem,meqzp02068,ad.大约a.在附近的prep.关于
+t0172,user1,QuizItem,meqzp02069,a.&ad.远的；遥远地
+t0173,user1,QuizItem,meqzp02070,a.&n.一半
+t0174,user1,QuizItem,meqzp02071,a.&pron.那个conj.那ad.那么
+t0175,user1,QuizItem,meqzp02072,a.&pron.那些
+t0176,user1,QuizItem,meqzp02073,a.&pron.这
+t0177,user1,QuizItem,meqzp02074,a.&pron.这些
+t0178,user1,QuizItem,meqzp02075,a.白色的n.白色
+t0179,user1,QuizItem,meqzp02076,a.薄的；瘦的
+t0180,user1,QuizItem,meqzp02077,a难过的；.悲伤的
+t0181,user1,QuizItem,meqzp02078,a.丑陋的
+t0182,user1,QuizItem,meqzp02079,a.聪明的；伶俐的
+t0183,user1,QuizItem,meqzp02080,a.错误的；不正常的;坏事
+t0184,user1,QuizItem,meqzp02081,a.大的ad.大量地
+t0185,user1,QuizItem,meqzp02082,a.短的；矮的
+t0186,user1,QuizItem,meqzp02083,a.对不起；难过的
+t0187,user1,QuizItem,meqzp02084,a.多云的；阴天的
+t0188,user1,QuizItem,meqzp02085,a.高的a.高的ad.高地
+t0189,user1,QuizItem,meqzp02086,a.高的a.高的ad.高地
+t0190,user1,QuizItem,meqzp02087,a.害怕的;担心的
+t0191,user1,QuizItem,meqzp02088,a.好;良好
+t0192,user1,QuizItem,meqzp02089,a.黑的n.黑色
+t0193,user1,QuizItem,meqzp02090,a.坏的;严重的n.坏人ad.不好地
+t0194,user1,QuizItem,meqzp02091,a.黄色的
+t0195,user1,QuizItem,meqzp02092,a.饥饿的
+t0196,user1,QuizItem,meqzp02093,a.健康的
+t0197,user1,QuizItem,meqzp02094,a.近的
+t0198,user1,QuizItem,meqzp02095,a.精彩的；了不起的
+t0199,user1,QuizItem,meqzp02096,a.开着的vt.打开
+t0200,user1,QuizItem,meqzp02097,a.快的，迅速的ad.迅速地
+t0201,user1,QuizItem,meqzp02098,a.老的，旧的
+t0202,user1,QuizItem,meqzp02099,a.冷的n.寒冷；感冒
+t0203,user1,QuizItem,meqzp02100,a.凉爽的；酷
+t0204,user1,QuizItem,meqzp02101,a.全部的pron.全部ad.全部地n.全体
