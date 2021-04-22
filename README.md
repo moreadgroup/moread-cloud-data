@@ -183,3 +183,8 @@ npm ---- https://registry.npmjs.org/
 
 nrm use taobao
 ```
+
+
+# EC Dict
+- [English-Chinese Dictionary](https://github.com/bg1fpx/English-Chinese-Dictionary)
+- [Free English to Chinese Dictionary Database](https://github.com/skywind3000/ECDICT)

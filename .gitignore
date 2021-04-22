@@ -4,3 +4,5 @@ src/main/resources/local.properties
 /src/main/resources/static/playlist/magic-ear-8-times/introduction/1/v0/
 /src/main/resources/static/playlist/magic-ear-8-times/introduction/2/v0/
 /src/main/resources/static/playlist/magic-ear-8-times/introduction/3/v0/
+/.settings/
+/logs/

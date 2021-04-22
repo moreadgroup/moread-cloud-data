@@ -1,12 +1,12 @@
 seq,word,symbol,tense,paraphrase
-01/50,decline,英［di'klain］美［di'klain］,,v.&n.下降：衰落；拒绝
-02/50,chat,英回训美国诩,,v.&n.闲谈：聊天
+01/50,decline,英［di'klain］美［di'klain］,,v.&n.下降；衰落；拒绝
+02/50,chat,英回训美国诩,,v.&n.闲谈；聊天
 03/50,envy,英［envi］美「envi］,,v.&n.羡慕；忌妒
 04/50,advocate,英］sedvokeit］,,v.提倡；主张n.提倡者
 05/50,bite,英［bait］美［bait］,,v.咬，叮n.咬伤
 06/50,claim,英［kleim］美［klem］,,v.&n.要求；声称；索赔
 07/50,rescue,英「reskju:］美「irskju］,,v.&n.拯救;援救
-08/50,forecast,英「fb:kci:st］美「forkaest］,,v.&n.预测：预报
+08/50,forecast,英「fb:kci:st］美「forkaest］,,v.&n.预测；预报
 09/50,desire,英［di'zao(r)］美［di'zair］,,v.渴望;要求n.欲望
 10/50,recycle,tri:*saikl］,,v.再循环；重复利用n.再生
 11/50,debate,英［di'beil］美［drbet］,,v.&n.争论；辩论
@@ -19,11 +19,11 @@ seq,word,symbol,tense,paraphrase
 18/50,hire,英「haio(r)］美［hair］,,v.&n.租用；雇佣
 19/50,border,英［如也⑻,,v.与……接壤n.边界
 20/50,decrease,英［di'kri:s］美［di'kris］,,v.&n.减少；降低
-21/50,contest,英［kon'test］］美［kon食st］,,v.&n.比赛：竞赛
+21/50,contest,英［kon'test］］美［kon食st］,,v.&n.比赛；竞赛
 22/50,lack,英［屈k］美［屈k］,,v.&n.缺乏；不足
 23/50,harm,英［ha:m］美［harm］,,v.&n.伤害;损害;危害
 24/50,input,英［'input］美「inpot］,,v.&n.输入
-25/50,escape,英［i'skeip］美［o'skep］,,v.&n.逃走；逃脱：避开
+25/50,escape,英［i'skeip］美［o'skep］,,v.&n.逃走；逃脱；避开
 26/50,frost,英［frost］美［fh)sl］,,v.&n.霜冻；（给蛋糕）撒糖霜
 27/50,demand,英［di'mcEnd］,,v.&n.需要；请求
 28/50,encounter,美但n’kaunta］,,v.&n.遭遇，遇到；邂逅
@@ -48,4 +48,4 @@ seq,word,symbol,tense,paraphrase
 47/50,judge,英［d3Ad3］美［d3Ad3］,,v.判断；审判n.法官；裁判员
 48/50,sail,英［sell］美［sei］,,v.&n.航行；起航
 49/50,root,英［ru:t］美［rut］,,v.生根n.根;根本
-50/50,conduct,英［kon'dAkt］,,v.进行：实施：指挥n.行为
+50/50,conduct,英［kon'dAkt］,,v.进行；实施；指挥n.行为
