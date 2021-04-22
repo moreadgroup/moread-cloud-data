@@ -222,7 +222,7 @@ X-TIMESTAMP-MAP=MPEGTS:126000,LOCAL:00:00:00.000
 09/51 travel     英['trævl]［美['trævl］ n.&vi .旅行
 
 00:08:26.120 --> 00:08:48.520
-10/51 use        英[ju:s］美[jus] n.&vt.利用;使用
+10/51 use        英[ju:s］美[jus] n.&vt.利用；使用
 
 00:08:49.320 --> 00:09:10.275
 11/51 work       英[w3：k］美[w3rk］ n.&v.工作；运转
@@ -282,7 +282,7 @@ X-TIMESTAMP-MAP=MPEGTS:126000,LOCAL:00:00:00.000
 29/51 clever     英[klevə(r)］美['klevə］ a.聪明的；伶俐的
 
 00:15:47.740 --> 00:16:10.065
-30/51 wrong      英[rɔŋ］美 [rɔŋ] a.错误的；不正常的;坏事
+30/51 wrong      英[rɔŋ］美 [rɔŋ] a.错误的；不正常的；坏事
 
 00:16:10.980 --> 00:16:28.275
 31/51 big        英[big］美[big] a.大的ad.大量地
@@ -303,16 +303,16 @@ X-TIMESTAMP-MAP=MPEGTS:126000,LOCAL:00:00:00.000
 36/51 high       英[hai］美[hai］a .高的 a.高的ad.高地
 
 00:18:20.040 --> 00:18:46.900
-37/51 afraid     英[ə'freid］美[ə'fred］ a.害怕的;担心的
+37/51 afraid     英[ə'freid］美[ə'fred］ a.害怕的；担心的
 
 00:18:47.840 --> 00:19:06.685
-38/51 good       英[gud］美[gud] (better, best)a.好;良好
+38/51 good       英[gud］美[gud] (better, best)a.好；良好
 
 00:19:07.320 --> 00:19:26.780
 39/51 black      英[blæk］美[blæk] a.黑的n.黑色
 
 00:19:27.840 --> 00:19:50.995
-40/51 bad        英[bæd］美[bæd] (worse, worst)a.坏的; 严重的n.坏人ad.不好地
+40/51 bad        英[bæd］美[bæd] (worse, worst)a.坏的； 严重的n.坏人ad.不好地
 
 00:19:51.400 --> 00:20:14.920
 41/51 yellow     英['jeləu］美[jelou] a.黄色的

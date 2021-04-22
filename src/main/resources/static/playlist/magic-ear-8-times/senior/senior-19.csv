@@ -1,6 +1,6 @@
 seq,word,symbol,tense,paraphrase
 01/50,flood,英［flAd］美［flAd］,,n.洪水v.发洪水；涌进（出）
-02/50,candidate,英「kaendidot］,,n.候选人，申请者;报考者
+02/50,candidate,英「kaendidot］,,n.候选人，申请者；报考者
 03/50,breath,英［bre。］美［bi响,,n.呼吸；气息；一口气
 04/50,fox,英［fbks］美［fbks］,,n.狐狸
 05/50,pepper,英「pepMr）］美［pep3］,,n.胡椒；胡椒粉；辣椒
@@ -8,7 +8,7 @@ seq,word,symbol,tense,paraphrase
 07/50,expense,英［ik'spens］美［ik'spens］,,n.费用，花销；开支
 08/50,vase,英［va:z］美［veis］,,n.花瓶；瓶子
 09/50,chemist,英「kemist］美「knrnst］,,n.化学家；药剂师；药店
-10/50,studio,英「sUu:diou］,,n.录音（像）室;工作室；摄影棚
+10/50,studio,英「sUu:diou］,,n.录音（像）室；工作室；摄影棚
 11/50,topic,英「tnpik］美「tapik］,,n.话题；题目；论题
 12/50,joy,英国3涧美［dgi］,,n.欢乐；乐趣；乐事
 13/50,circuit,英「S3；kit］美「S3rkit］,,n.电路；巡回；赛车场
@@ -32,12 +32,12 @@ seq,word,symbol,tense,paraphrase
 31/50,opportunity,英LDpo'tjumoti,,n.机会；机遇
 32/50,muscle,英［mAsl］美「mASol］,,n.肌肉；体力；力量
 33/50,basis,英「beisis］美「besis］,,n.基础；根据；底部
-34/50,foundation,^［faundeOh］,,n.基础，地基;基金会；创建
+34/50,foundation,^［faundeOh］,,n.基础，地基；基金会；创建
 35/50,rating,英「reitnj］美「retiij］,,n.等级；级别
 36/50,disease,英［di'zi:z］美［di'ziz］,,n・病；疾病
 37/50,dormitory,英［do:motri］,,n.宿舍；集体宿舍
 38/50,geometry,美「dormotori］,,n.几何；几何形状
-39/50,recording,^［n'ko:dig］,,n.录音;录制；记录
+39/50,recording,^［n'ko:dig］,,n.录音；录制；记录
 40/50,memory,英「memori］美「memgri］,,n.记忆；回忆；内存
 41/50,journalist,英［gmohst］,,n.记者；新闻工作者
 42/50,discipline,美］d33mohst］,,n.纪律；学科v.训练
