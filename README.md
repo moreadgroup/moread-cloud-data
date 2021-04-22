@@ -14,7 +14,7 @@ mvn --non-recursive clean compile install
 
 ## Build
 ```
-mvn --settings ../settings.xml   -Dmaven.test.skip=true clean compile install 
+mvn --settings ./settings.xml   -Dmaven.test.skip=true clean compile install 
 mvn --settings ../settings.xml   -Dmaven.test.skip=true compile spring-boot:build-image
 ```
 
