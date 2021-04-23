@@ -188,3 +188,8 @@ nrm use taobao
 # EC Dict
 - [English-Chinese Dictionary](https://github.com/bg1fpx/English-Chinese-Dictionary)
 - [Free English to Chinese Dictionary Database](https://github.com/skywind3000/ECDICT)
+- [apache-spark-makes-slow-mysql-queries-10x-faster](https://www.percona.com/blog/2016/08/17/apache-spark-makes-slow-mysql-queries-10x-faster/)
+  > Using Apache Spark on top of the existing MySQL server(s) (without the need to export or even stream data to Spark or Hadoop), we can increase query performance more than ten times. 
+  >
+  > Using Apache Spark as an additional engine level on top of MySQL can help to speed up the slow reporting queries and add much-needed scalability for the long running select queries. In addition, Spark can help with query caching for frequent queries.
+- [Hosting a maven repository on Github: site-maven-plugin](https://dev.to/iamthecarisma/hosting-a-maven-repository-on-github-site-maven-plugin-9ch)
