@@ -1,10 +1,11 @@
-# Link 
+# Link
 ```shell
-cd /Users/CC/github/moreadgroup/moread-cloud-functions/src/main/resources/static/playlist 
+cd ~/github/moreadgroup/moread-cloud-functions/domain-task/src/main/resources/
 
-ln -s /Users/CC/github/moreadgroup/moread-cloud-data/src/main/resources/static/playlist/magic-ear-8-times magic-ear-8-times
+ln -s ~/github/moreadgroup/moread-cloud-data/src/main/resources/listens listens
 
 ```
+
 # install webvtt tools
 ```html
 $ cd magic-ear-8-times 

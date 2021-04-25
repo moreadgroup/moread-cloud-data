@@ -37,8 +37,8 @@ class MagicEar8TimesTest {
 //    val ROOT_FOLDER = "/Users/conanchen/github/moreadgroup/moread-cloud-data/src/main/resources/"
 
 
-    private val srcFolder = ROOT_FOLDER + "static/playlist/magic-ear-8-times"
-    private val destFolder = ROOT_FOLDER + "textbook/magic-ear-8-times"
+    private val srcFolder = ROOT_FOLDER + "listens/magic-ear-8-times"
+    private val destFolder = ROOT_FOLDER + "quizzes/magic-ear-8-times"
 
     val client = ApolloClient.builder()
         .serverUrl("http://192.168.3.174:18060/domain-task/graphql") //                .addCustomTypeAdapter(CustomType.DATE, new DateGraphQLAdapter())
@@ -57,8 +57,8 @@ class MagicEar8TimesTest {
     @Test
     fun testParseFromAliaiJson2VttThenOK() {
 
-        val srcFolder = "static/playlist/magic-ear-8-times"
-        val destFolder = "static/playlist/magic-ear-8-times"
+        val srcFolder = "listens/magic-ear-8-times"
+        val destFolder = "listens/magic-ear-8-times"
 
         listOf(
 //            "${srcFolder}/introduction/introduction-1.json",
