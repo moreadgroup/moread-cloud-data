@@ -33,21 +33,31 @@ import kotlin.streams.toList
 
 class MagicEar8TimesTest {
 
-        private val ROOT_FOLDER = "/Users/CC/github/moreadgroup/moread-cloud-data/src/main/resources/"
-//    val ROOT_FOLDER = "/Users/conanchen/github/moreadgroup/moread-cloud-data/src/main/resources/"
+    //        private val ROOT_FOLDER = "/Users/CC/github/moreadgroup/moread-cloud-data/src/main/resources/"
+    val ROOT_FOLDER = "/Users/conanchen/github/moreadgroup/moread-cloud-data/src/main/resources/"
+    private val GRAPHQL_SERVER = "http://localhost:18060/domain-task/graphql"
 
-
-    private val srcFolder = ROOT_FOLDER + "listens/magic-ear-8-times"
+    private val srcFolder = ROOT_FOLDER + "listens/magic-ear-8-times/"
     private val destFolder = ROOT_FOLDER + "quizzes/magic-ear-8-times"
 
     val client = ApolloClient.builder()
-        .serverUrl("http://192.168.3.174:18060/domain-task/graphql") //                .addCustomTypeAdapter(CustomType.DATE, new DateGraphQLAdapter())
-        .defaultHttpCachePolicy(HttpCachePolicy.Policy(fetchStrategy = HttpCachePolicy.FetchStrategy.NETWORK_ONLY,expireAfterRead = true,expireTimeout = 10,expireTimeUnit = TimeUnit.MINUTES))
+        .serverUrl(GRAPHQL_SERVER) //                .addCustomTypeAdapter(CustomType.DATE, new DateGraphQLAdapter())
+        .defaultHttpCachePolicy(
+            HttpCachePolicy.Policy(
+                fetchStrategy = HttpCachePolicy.FetchStrategy.NETWORK_ONLY,
+                expireAfterRead = true,
+                expireTimeout = 10,
+                expireTimeUnit = TimeUnit.MINUTES
+            )
+        )
         .okHttpClient(
             OkHttpClient.Builder()
                 .addInterceptor { chain ->
                     chain.proceed(
-                        chain.request().newBuilder().addHeader("Authorization", "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJjb25hbkBza3lzdGFydHJhZGUuY29tIiwiYXVkIjoiaHR0cDovL3N6d2VicWEwMS5za3lzdGFydHJhZGUuY29tOjk0ODAvc3N0LWFkbWluLW0vYS9sb2dpbiIsImlzcyI6InNzdCIsImV4cCI6MTY0Nzk0ODg4MCwiaWF0IjoxNjE2NDEyODgwLCJ1c2VySWQiOiJjb25hbkBzc3QuY29tIn0.V5lcy7ez4EYT0f9Qc8ZrFxpMmfinAg6qITRo0bv_kJg")
+                        chain.request().newBuilder().addHeader(
+                            "Authorization",
+                            "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJjb25hbkBza3lzdGFydHJhZGUuY29tIiwiYXVkIjoiaHR0cDovL3N6d2VicWEwMS5za3lzdGFydHJhZGUuY29tOjk0ODAvc3N0LWFkbWluLW0vYS9sb2dpbiIsImlzcyI6InNzdCIsImV4cCI6MTY0Nzk0ODg4MCwiaWF0IjoxNjE2NDEyODgwLCJ1c2VySWQiOiJjb25hbkBzc3QuY29tIn0.V5lcy7ez4EYT0f9Qc8ZrFxpMmfinAg6qITRo0bv_kJg"
+                        )
                             .build()
                     )
                 }
@@ -255,7 +265,7 @@ X-TIMESTAMP-MAP=MPEGTS:126000,LOCAL:00:00:00.000
 //            QuizFileInfo("${srcFolder}/primary/primary-1.csv", "meqzp01",1,"primary","Primary Quiz First"  ,"For Primary Textbook 1","qi-primary-1.csv"),
 
 //            QuizFileInfo("${srcFolder}/primary/primary-2.csv", "meqzp02",2,"primary","Primary Quiz Second" ,"For Primary Textbook 2","qi-primary-2.csv"),
-//            QuizFileInfo("${srcFolder}/primary/primary-3.csv", "meqzp03",3,"primary","Primary Quiz Third"  ,"For Primary Textbook 3","qi-primary-3.csv"),
+//            QuizFileInfo( "${srcFolder}/primary/primary-3.csv", "meqzp03", 3, "primary", "Primary Quiz Third", "For Primary Textbook 3", "qi-primary-3.csv" ),
 //            QuizFileInfo("${srcFolder}/primary/primary-4.csv", "meqzp04",4,"primary","Primary Quiz Fourth" ,"For Primary Textbook 4","qi-primary-4.csv"),
 //            QuizFileInfo("${srcFolder}/primary/primary-5.csv", "meqzp05",5,"primary","Primary Quiz Fifth"  ,"For Primary Textbook 5","qi-primary-5.csv"),
 //            QuizFileInfo("${srcFolder}/primary/primary-6.csv", "meqzp06",6,"primary","Primary Quiz Sixth"  ,"For Primary Textbook 6","qi-primary-6.csv"),
@@ -282,7 +292,7 @@ X-TIMESTAMP-MAP=MPEGTS:126000,LOCAL:00:00:00.000
 //            QuizFileInfo("${srcFolder}/junior/junior-18.csv", "meqzj18",18,"junior","Junior Quiz Eighth" ,"For Junior Textbook 18","qi-junior-18.csv"),
 //            QuizFileInfo("${srcFolder}/junior/junior-19.csv", "meqzj19",19,"junior","Junior Quiz Eighth" ,"For Junior Textbook 19","qi-junior-19.csv"),
 //            QuizFileInfo("${srcFolder}/junior/junior-20.csv", "meqzj20",20,"junior","Junior Quiz Eighth" ,"For Junior Textbook 20","qi-junior-20.csv"),
-//            QuizFileInfo("${srcFolder}/junior/junior-21.csv", "meqzj21",21,"junior","Junior Quiz Eighth" ,"For Junior Textbook 21","qi-junior-21.csv"),
+            QuizFileInfo("${srcFolder}/junior/junior-21.csv", "meqzj21",21,"junior","Junior Quiz Eighth" ,"For Junior Textbook 21","qi-junior-21.csv"),
 //
 //            QuizFileInfo("${srcFolder}/senior/senior-01.csv", "meqzs01",1, "senior","Senior Quiz First"  ,"For Senior Textbook 01","qi-senior-01.csv"),
 //            QuizFileInfo("${srcFolder}/senior/senior-02.csv", "meqzs02",2, "senior","Senior Quiz Second" ,"For Senior Textbook 02","qi-senior-02.csv"),
@@ -312,7 +322,7 @@ X-TIMESTAMP-MAP=MPEGTS:126000,LOCAL:00:00:00.000
 //            QuizFileInfo("${srcFolder}/senior/senior-26.csv", "meqzs26",26,"senior","Senior Quiz Sixth"  ,"For Senior Textbook 26","qi-senior-26.csv"),
 //            QuizFileInfo("${srcFolder}/senior/senior-27.csv", "meqzs27",27,"senior","Senior Quiz Seventh","For Senior Textbook 27","qi-senior-27.csv"),
 //            QuizFileInfo("${srcFolder}/senior/senior-28.csv", "meqzs28",28,"senior","Senior Quiz Eighth" ,"For Senior Textbook 28","qi-senior-28.csv"),
-            QuizFileInfo("${srcFolder}/senior/senior-29.csv", "meqzs29",29,"senior","Senior Quiz Eighth" ,"For Senior Textbook 29","qi-senior-29.csv"),
+//            QuizFileInfo("${srcFolder}/senior/senior-29.csv", "meqzs29",29,"senior","Senior Quiz Eighth" ,"For Senior Textbook 29","qi-senior-29.csv"),
 //            QuizFileInfo("${srcFolder}/senior/senior-30.csv", "meqzs30",30,"senior","Senior Quiz Eighth" ,"For Senior Textbook 30","qi-senior-30.csv"),
 
         ).stream()
@@ -341,7 +351,7 @@ X-TIMESTAMP-MAP=MPEGTS:126000,LOCAL:00:00:00.000
 
 //                val eword =ApolloClientUtils.toMono(client.query(FIND_EWORDQuery("hood"))).block()?.data?.eword
 
-                  val eword =   ApolloClientUtils.toMono(client.query(FIND_EWORDQuery(word.word!!))).block()?.data?.eword
+                val eword = ApolloClientUtils.toMono(client.query(FIND_EWORDQuery(word.word!!))).block()?.data?.eword
 
                 if (eword?.phonetic?.isNotBlank() == true) {
                     println("${word.seq},${word.word},英[${eword?.phonetic}],${word.tense},${word.paraphrase}")
