@@ -15,20 +15,21 @@ $ npm i node-webvtt-youtube
 # Playlist Introduction
 ## gen media hls
 ```shell
-cd introduction
+cd listens/magic-ear-8-times/introduction/
 
 sh ../genhls.sh introduction 1
 sh ../genhls.sh introduction 2 
 sh ../genhls.sh introduction 3
-
 ```
+** Please git compare master.m3u8 and then revert with olds
+![compare master.m3u8 and then revert with olds](genhls-master-m3u8.jpg)
 ## Generate draft webvtt
 ```
 Run Test: MagicEar8TimesTest.testParseFromAliaiJson2VttThenOK()
 ```
 ## Segment subtile webvtt
 ```shell
-cd introduction
+cd listens/magic-ear-8-times/introduction/
 
 ../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./1/subtitles/zh introduction-1.webvtt
 
