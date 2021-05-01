@@ -25,9 +25,9 @@ seq,word,symbol,tense,paraphrase
 24/51,email,英['i:'meil],,n.电子邮件v.发电子邮件
 25/51,winter,英['wintә],,n.冬天
 26/51,animal,英['ænimәl],,n.动物a.动物的
-27/51,zoo,英[zu:]美[zu],,n.动物园,notfixed
+27/51,zoo,英[zu:]美[zu],,n.动物园
 28/51,shorts,英[ʃɔ:ts],,n.短裤
-29/51,socks,英[saks]美[soks],,n.短袜,notfixed
+29/51,socks,英[sɒks],,n.短袜
 30/51,car,英[kɑ:],,n.耳朵；听力
 31/51,room,英[ru:m],,n.房间；空间
 32/51,house,英[haus],,n.房子；住宅
@@ -49,4 +49,4 @@ seq,word,symbol,tense,paraphrase
 48/51,light,英[lait],,n.光；灯v.点火a.明亮的
 49/51,child,英[tʃaild],(复children),n.孩子；儿童
 50/51,box,英[bɒks],,n.盒子v.拳击
-51/51,blackboard,英['blækbɒ:d],,n.黑5
+51/51,blackboard,英['blækbɒ:d],,n.黑板
