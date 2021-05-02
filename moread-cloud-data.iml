@@ -33,6 +33,17 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Maven: com.moreadgroup:apiclient-graphql:1.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: io.projectreactor:reactor-core:3.4.5" level="project" />
+    <orderEntry type="library" name="Maven: org.reactivestreams:reactive-streams:1.0.3" level="project" />
+    <orderEntry type="library" name="Maven: com.apollographql.apollo:apollo-runtime:2.5.5" level="project" />
+    <orderEntry type="library" name="Maven: com.apollographql.apollo:apollo-api-jvm:2.5.5" level="project" />
+    <orderEntry type="library" name="Maven: com.squareup.okio:okio:2.9.0" level="project" />
+    <orderEntry type="library" name="Maven: com.apollographql.apollo:apollo-normalized-cache-jvm:2.5.5" level="project" />
+    <orderEntry type="library" name="Maven: com.apollographql.apollo:apollo-normalized-cache-api-jvm:2.5.5" level="project" />
+    <orderEntry type="library" name="Maven: com.benasher44:uuid-jvm:0.2.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.nytimes.android:cache:2.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.apollographql.apollo:apollo-http-cache-api:2.5.5" level="project" />
+    <orderEntry type="library" name="Maven: com.squareup.okhttp3:okhttp:3.12.11" level="project" />
     <orderEntry type="library" name="Maven: com.jayway.jsonpath:json-path:2.4.0" level="project" />
     <orderEntry type="library" name="Maven: net.minidev:json-smart:2.3" level="project" />
     <orderEntry type="library" name="Maven: net.minidev:accessors-smart:1.2" level="project" />
@@ -95,7 +106,7 @@
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.maven:maven-toolchain:2.2.1" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.maven.shared:maven-shared-utils:3.0.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: commons-io:commons-io:2.4" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: com.google.code.findbugs:jsr305:2.0.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.google.code.findbugs:jsr305:2.0.1" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.maven.shared:maven-shared-incremental:1.1" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.codehaus.plexus:plexus-compiler-api:2.7" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.codehaus.plexus:plexus-compiler-manager:2.7" level="project" />
@@ -103,5 +114,7 @@
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.11.3" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.11.3" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.11.3" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.4.32" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.4.32" level="project" />
   </component>
 </module>

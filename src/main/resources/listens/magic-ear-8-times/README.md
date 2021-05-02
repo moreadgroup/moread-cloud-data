@@ -86,7 +86,7 @@ cd listens/magic-ear-8-times/primary/
 
 
 # Playlist Junior 
-# gen junior's hls
+## gen junior's hls
 ```shell
 cd junior
 
@@ -94,10 +94,42 @@ sh ../genhls.sh junior 01
 sh ../genhls.sh junior 02 
 sh ../genhls.sh junior 03
 
+...
+
+sh ../genhls.sh junior 20 
+sh ../genhls.sh junior 21
 ```
 ## Generate draft webvtt
 ```
 Run Test: MagicEar8TimesTest.testParseFromAliaiJson2VttThenOK()
+```
+## Segment subtile webvtt
+```shell
+cd listens/magic-ear-8-times/junior/
+
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./01/subtitles/zh junior-01.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./02/subtitles/zh junior-02.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./03/subtitles/zh junior-03.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./04/subtitles/zh junior-04.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./05/subtitles/zh junior-05.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./06/subtitles/zh junior-06.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./07/subtitles/zh junior-07.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./08/subtitles/zh junior-08.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./09/subtitles/zh junior-09.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./10/subtitles/zh junior-10.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./11/subtitles/zh junior-11.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./12/subtitles/zh junior-12.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./13/subtitles/zh junior-13.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./14/subtitles/zh junior-14.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./15/subtitles/zh junior-15.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./16/subtitles/zh junior-16.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./17/subtitles/zh junior-17.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./18/subtitles/zh junior-18.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./19/subtitles/zh junior-19.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./20/subtitles/zh junior-20.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./21/subtitles/zh junior-21.webvtt
+
+
 ```
 
 ## [Synchronizing WebVTT Captions](https://sdks.support.brightcove.com/features/synchronizing-webvtt-captions.html)

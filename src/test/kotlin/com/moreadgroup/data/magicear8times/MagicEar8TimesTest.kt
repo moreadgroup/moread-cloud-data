@@ -6,20 +6,15 @@ package com.moreadgroup.data.magicear8times
  * @Date 3/29/21T9:57 AM-Monday
  */
 
-import com.apollographql.apollo.ApolloClient
-import com.apollographql.apollo.api.cache.http.HttpCachePolicy
 import com.fasterxml.jackson.annotation.JsonInclude
 import com.fasterxml.jackson.annotation.JsonProperty
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.jayway.jsonpath.Configuration
 import com.jayway.jsonpath.JsonPath
 import com.jayway.jsonpath.spi.json.JacksonJsonProvider
-import com.moreadgroup.domaintask.graphql.client.queries.FIND_EWORDQuery
-import com.moreadgroup.graphql.client.util.ApolloClientUtils
 import com.opencsv.CSVWriter
 import com.opencsv.bean.*
 import net.minidev.json.JSONObject
-import okhttp3.OkHttpClient
 import org.apache.commons.io.FileUtils
 import org.apache.commons.text.WordUtils
 import org.junit.Test
@@ -27,7 +22,6 @@ import java.io.File
 import java.nio.charset.StandardCharsets
 import java.nio.file.Files
 import java.nio.file.Paths
-import java.util.concurrent.TimeUnit
 import kotlin.streams.toList
 
 
@@ -40,29 +34,6 @@ class MagicEar8TimesTest {
     private val srcFolder = ROOT_FOLDER + "listens/magic-ear-8-times/"
     private val destFolder = ROOT_FOLDER + "quizzes/magic-ear-8-times"
 
-    val client = ApolloClient.builder()
-        .serverUrl(GRAPHQL_SERVER) //                .addCustomTypeAdapter(CustomType.DATE, new DateGraphQLAdapter())
-        .defaultHttpCachePolicy(
-            HttpCachePolicy.Policy(
-                fetchStrategy = HttpCachePolicy.FetchStrategy.NETWORK_ONLY,
-                expireAfterRead = true,
-                expireTimeout = 10,
-                expireTimeUnit = TimeUnit.MINUTES
-            )
-        )
-        .okHttpClient(
-            OkHttpClient.Builder()
-                .addInterceptor { chain ->
-                    chain.proceed(
-                        chain.request().newBuilder().addHeader(
-                            "Authorization",
-                            "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJjb25hbkBza3lzdGFydHJhZGUuY29tIiwiYXVkIjoiaHR0cDovL3N6d2VicWEwMS5za3lzdGFydHJhZGUuY29tOjk0ODAvc3N0LWFkbWluLW0vYS9sb2dpbiIsImlzcyI6InNzdCIsImV4cCI6MTY0Nzk0ODg4MCwiaWF0IjoxNjE2NDEyODgwLCJ1c2VySWQiOiJjb25hbkBzc3QuY29tIn0.V5lcy7ez4EYT0f9Qc8ZrFxpMmfinAg6qITRo0bv_kJg"
-                        )
-                            .build()
-                    )
-                }
-                .build())
-        .build()
 
     @Test
     fun testParseFromAliaiJson2VttThenOK() {
@@ -77,34 +48,34 @@ class MagicEar8TimesTest {
 //
 //            "${srcFolder}/primary/primary-1.json",
 //            "${srcFolder}/primary/primary-2.json",
-            "${srcFolder}/primary/primary-3.json",
-            "${srcFolder}/primary/primary-4.json",
-            "${srcFolder}/primary/primary-5.json",
-            "${srcFolder}/primary/primary-6.json",
-            "${srcFolder}/primary/primary-7.json",
-            "${srcFolder}/primary/primary-8.json",
+//            "${srcFolder}/primary/primary-3.json",
+//            "${srcFolder}/primary/primary-4.json",
+//            "${srcFolder}/primary/primary-5.json",
+//            "${srcFolder}/primary/primary-6.json",
+//            "${srcFolder}/primary/primary-7.json",
+//            "${srcFolder}/primary/primary-8.json",
 //
-//            "${srcFolder}/junior/junior-01.json",
-//            "${srcFolder}/junior/junior-02.json",
-//            "${srcFolder}/junior/junior-03.json",
-//            "${srcFolder}/junior/junior-04.json",
-//            "${srcFolder}/junior/junior-05.json",
-//            "${srcFolder}/junior/junior-06.json",
-//            "${srcFolder}/junior/junior-07.json",
-//            "${srcFolder}/junior/junior-08.json",
-//            "${srcFolder}/junior/junior-09.json",
-//            "${srcFolder}/junior/junior-10.json",
-//            "${srcFolder}/junior/junior-11.json",
-//            "${srcFolder}/junior/junior-12.json",
-//            "${srcFolder}/junior/junior-13.json",
-//            "${srcFolder}/junior/junior-14.json",
-//            "${srcFolder}/junior/junior-15.json",
-//            "${srcFolder}/junior/junior-16.json",
-//            "${srcFolder}/junior/junior-17.json",
-//            "${srcFolder}/junior/junior-18.json",
-//            "${srcFolder}/junior/junior-19.json",
-//            "${srcFolder}/junior/junior-20.json",
-//            "${srcFolder}/junior/junior-21.json",
+            "${srcFolder}/junior/junior-01.json",
+            "${srcFolder}/junior/junior-02.json",
+            "${srcFolder}/junior/junior-03.json",
+            "${srcFolder}/junior/junior-04.json",
+            "${srcFolder}/junior/junior-05.json",
+            "${srcFolder}/junior/junior-06.json",
+            "${srcFolder}/junior/junior-07.json",
+            "${srcFolder}/junior/junior-08.json",
+            "${srcFolder}/junior/junior-09.json",
+            "${srcFolder}/junior/junior-10.json",
+            "${srcFolder}/junior/junior-11.json",
+            "${srcFolder}/junior/junior-12.json",
+            "${srcFolder}/junior/junior-13.json",
+            "${srcFolder}/junior/junior-14.json",
+            "${srcFolder}/junior/junior-15.json",
+            "${srcFolder}/junior/junior-16.json",
+            "${srcFolder}/junior/junior-17.json",
+            "${srcFolder}/junior/junior-18.json",
+            "${srcFolder}/junior/junior-19.json",
+            "${srcFolder}/junior/junior-20.json",
+            "${srcFolder}/junior/junior-21.json",
 //
 //            "${srcFolder}/senior/senior-01.json",
 //            "${srcFolder}/senior/senior-02.json",
@@ -140,7 +111,7 @@ class MagicEar8TimesTest {
             .stream()
 
             .forEach {
-                parseAliaiJson2VttItems(it)
+                parseAliaiJson2WebVttFiles(it)
             }
 
 
@@ -148,7 +119,7 @@ class MagicEar8TimesTest {
 
     }
 
-    private fun parseAliaiJson2VttItems(jsonFile: String) {
+    private fun parseAliaiJson2WebVttFiles(jsonFile: String) {
 
 
         val objectMapper = ObjectMapper()
@@ -202,7 +173,7 @@ X-TIMESTAMP-MAP=MPEGTS:126000,LOCAL:00:00:00.000
                 WordUtils.wrap(it.res[0], 40, "\n", false, "，")
                     .lines()
                     .map {
-                        lines += "<u>$it</u>\n"
+                        lines += "$it\n"
                     }
 
                 """ |
@@ -326,41 +297,10 @@ X-TIMESTAMP-MAP=MPEGTS:126000,LOCAL:00:00:00.000
 
         ).stream()
             .forEach {
-//                parseWordCSVAndFixSymbol2EnglishWords(it)
             parseWordCSV2EnglishWordsAndThenGenerateQuizItemsFromEnglishWords(it)
             }
     }
 
-    private fun parseWordCSVAndFixSymbol2EnglishWords(qif: QuizFileInfo) {
-
-
-        Files.newBufferedReader(Paths.get(qif.srcfile)).use { reader ->
-            val strategy = ColumnPositionMappingStrategy<EnglishWord>()
-            strategy.type = EnglishWord::class.java
-
-            strategy.setColumnMapping("seq", "word", "symbol", "tense", "paraphrase")
-            val csvToBean: CsvToBean<EnglishWord> = CsvToBeanBuilder<EnglishWord>(reader)
-                .withMappingStrategy(strategy)
-                .withSkipLines(1)
-                .withIgnoreLeadingWhiteSpace(true)
-                .build()
-            val wordIterator: Iterator<EnglishWord> = csvToBean.iterator()
-            while (wordIterator.hasNext()) {
-                val word: EnglishWord = wordIterator.next()
-
-//                val eword =ApolloClientUtils.toMono(client.query(FIND_EWORDQuery("hood"))).block()?.data?.eword
-
-                val eword = ApolloClientUtils.toMono(client.query(FIND_EWORDQuery(word.word!!))).block()?.data?.eword
-
-                if (eword?.phonetic?.isNotBlank() == true) {
-                    println("${word.seq},${word.word},英[${eword?.phonetic}],${word.tense},${word.paraphrase}")
-                } else {
-                    println("${word.seq},${word.word},${word.symbol},${word.tense},${word.paraphrase},notfixed")
-                }
-            }
-
-        }
-    }
 
     private fun parseWordCSV2EnglishWordsAndThenGenerateQuizItemsFromEnglishWords(qif: QuizFileInfo) {
         Files.newBufferedReader(Paths.get(qif.srcfile)).use { reader ->
