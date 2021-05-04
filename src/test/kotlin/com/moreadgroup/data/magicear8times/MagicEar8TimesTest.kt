@@ -231,7 +231,7 @@ X-TIMESTAMP-MAP=MPEGTS:126000,LOCAL:00:00:00.000
 
 
     @Test
-    fun testGenerateQuizFromWordCVSfiles() {
+    fun testGenerateQuizItemsFromWordCVSfiles() {
 
         listOf(
     //            QuizFileInfo("${srcFolder}/primary/primary-1.csv", "meqzp01",1,"primary","Primary Quiz First"  ,"For Primary Textbook 1","qi-primary-1.csv"),
