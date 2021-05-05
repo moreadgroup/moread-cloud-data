@@ -86,6 +86,13 @@ cd listens/magic-ear-8-times/primary/
 
 
 # Playlist Junior 
+## Prepare Folders
+```shell
+senior % mkdir 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 
+senior % mkdir 01/subtitles 01/subtitles/zh senior 02/subtitles 02/subtitles/zh senior 03/subtitles 03/subtitles/zh 04/subtitles 04/subtitles/zh 05/subtitles 05/subtitles/zh 
+senior % mkdir 06/subtitles 06/subtitles/zh senior 07/subtitles 07/subtitles/zh senior 08/subtitles 08/subtitles/zh 09/subtitles 09/subtitles/zh 10/subtitles 10/subtitles/zh 
+
+```
 ## gen junior's hls
 ```shell
 cd junior
@@ -131,6 +138,52 @@ cd listens/magic-ear-8-times/junior/
 
 
 ```
+
+# Playlist Senior
+## Prepare Folders
+```shell
+cd listens/magic-ear-8-times/senior  
+mkdir 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 
+mkdir 01/subtitles 01/subtitles/zh  02/subtitles 02/subtitles/zh  03/subtitles 03/subtitles/zh 04/subtitles 04/subtitles/zh 05/subtitles 05/subtitles/zh 
+mkdir 06/subtitles 06/subtitles/zh  07/subtitles 07/subtitles/zh  08/subtitles 08/subtitles/zh 09/subtitles 09/subtitles/zh 10/subtitles 10/subtitles/zh 
+mkdir 11/subtitles 11/subtitles/zh  12/subtitles 12/subtitles/zh  13/subtitles 13/subtitles/zh 14/subtitles 04/subtitles/zh 15/subtitles 15/subtitles/zh 
+mkdir 16/subtitles 16/subtitles/zh  17/subtitles 17/subtitles/zh  18/subtitles 18/subtitles/zh 19/subtitles 19/subtitles/zh 20/subtitles 20/subtitles/zh 
+mkdir 21/subtitles 21/subtitles/zh  22/subtitles 22/subtitles/zh  23/subtitles 23/subtitles/zh 24/subtitles 24/subtitles/zh 25/subtitles 25/subtitles/zh 
+mkdir 26/subtitles 26/subtitles/zh  27/subtitles 27/subtitles/zh  28/subtitles 28/subtitles/zh 29/subtitles 29/subtitles/zh 30/subtitles 30/subtitles/zh 
+```
+## gen senior's hls from senior-xx.mp3
+```shell
+cd listens/magic-ear-8-times/senior
+
+sh ../genhls.sh senior 01
+sh ../genhls.sh senior 02 
+sh ../genhls.sh senior 03
+
+...
+
+sh ../genhls.sh senior 29 
+sh ../genhls.sh senior 30
+```
+## Generate draft webvtt
+```
+Run Test: MagicEar8TimesTest.testParseFromAliaiJson2VttThenOK()
+```
+## Segment subtile webvtt
+```shell
+cd listens/magic-ear-8-times/senior/
+
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./01/subtitles/zh junior-01.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./02/subtitles/zh junior-02.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./03/subtitles/zh junior-03.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./04/subtitles/zh junior-04.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./05/subtitles/zh junior-05.webvtt
+
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./20/subtitles/zh junior-29.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./21/subtitles/zh junior-30.webvtt
+
+```
+
+
 
 ## [Synchronizing WebVTT Captions](https://sdks.support.brightcove.com/features/synchronizing-webvtt-captions.html)
   > use the ffprobe command to get the offset value. ffprobe is a multimedia stream analyzer, which is part of the FFmpeg framework. You will need to download and install this on your computer.

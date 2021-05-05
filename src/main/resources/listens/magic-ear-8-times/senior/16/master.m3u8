@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Chinese",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="en",CHARACTERISTICS="public.accessibility.transcribes-spoken-dialog, public.accessibility.describes-music-and-sound",URI="subtitles/zh/playlist.m3u8"
+
+#EXT-X-STREAM-INF:BANDWIDTH=140800,CODECS="mp4a.40.34",SUBTITLES="subs"
+v0/prog_index.m3u8
+
