@@ -1,4 +1,4 @@
-id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
+id,level,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
 "meqzj20000","junior","N","D","situation","英[.sitju'eiʃәn] ","n.烟v.抽烟；冒烟","n.页码","n.印度","n.形势；情况","","","",""
 "meqzj20001","junior","N","A","interest","英['intrist] ","n.兴趣；利息","n.钥匙；答案a.关键的","n.块，片","n.亚洲","","","",""
 "meqzj20002","junior","N","B","rest","英[rest] ","n.银行、河岸","n.休息；剩下的部分v.休息","n.亚洲","n.艺术家","","","",""

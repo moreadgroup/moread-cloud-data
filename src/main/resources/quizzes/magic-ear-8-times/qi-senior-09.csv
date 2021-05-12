@@ -1,4 +1,4 @@
-id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
+id,level,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
 "meqzs09000","senior","N","A","extra","英['ekstrә] ","a.额外的ad.特别地:非常","a.欢乐的；愉快的","a.和谐的；协调的","a.温和的；有礼貌的；轻柔的","","","",""
 "meqzs09001","senior","N","B","legal","英['li:gәl] ","a.严格的；硬性的；僵化的","a.法律的；法定的；合法的","a.焦虑的；渴望的；急切的","a.基础的n.基本原则；基本原理","","","",""
 "meqzs09002","senior","N","B","abnormal","英［æb'nɒ:mәl］ ","a.和谐的；协调的","a.反常的；不规则的；变态的","a.古老的，古风的n.古董","a.固体的；结实的n.固体","","","",""

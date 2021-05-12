@@ -1,4 +1,4 @@
-id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
+id,level,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
 "meqzs07000","senior","N","C","decline","英[di'klain] ","v.&n.减少；降低","v.咬，叮n.咬伤","v.&n.下降；衰落；拒绝","v.&n.战争；斗争・；比赛","","","",""
 "meqzs07001","senior","N","B","chat","英[tʃæt] ","v.&n.遭遇，遇到；邂逅","v.&n.闲谈；聊天","v.&n.战争；斗争・；比赛","v.&n.保证；担保","","","",""
 "meqzs07002","senior","N","B","envy","英['envi] ","v.判断；审判n.法官；裁判员","v.&n.羡慕；忌妒","v.大学毕业n.大学毕业生a.（攻读）研究生的","v.&n.比赛；竞赛","","","",""

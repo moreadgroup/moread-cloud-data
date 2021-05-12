@@ -1,4 +1,4 @@
-id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
+id,level,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
 "meqzs13000","senior","N","A","racial","英['reiʃәl] ","a.人种的；种族的","ad.仅仅；几乎没有","a.当前的；流通的n.(河、电)流","a.共产主义的；n.共产党员","","","",""
 "meqzs13001","senior","N","D","subjective","英[sәb'dʒektiv] ","ad.完整地；彻底地","ad.向前a.向前的v.转发","ad.全部地；总共；总而言之","a.主观的；主语的","","","",""
 "meqzs13002","senior","N","D","objective","英[әb'dʒektiv] ","ad.稍微；略微","ad.立即；直接地conj.一...就","ad.确实；真正地","a.客观的n.目的，目标","","","",""

@@ -1,4 +1,4 @@
-id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
+id,level,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
 "meqzs02000","senior","N","D","slide","英[slaid] ","v.勘探；探测；探索","v.徘徊；闲逛；漫步","v.埋葬；埋藏","v.滑动n.滑坡；幻灯片","","","",""
 "meqzs02001","senior","N","B","restore","英[ri'stɒ:] ","v.&n.减轻；缓和；放松","v.恢复；归还；修复","v.滑动n.滑坡；幻灯片","v.继续进行；前进；开始","","","",""
 "meqzs02002","senior","N","B","respond","英[ri'spɒnd] ","v.聚集；积聚；收集","v.答复；回答；响应","v.识别；确定；表明身份","v.毁灭；破产n.废墟","","","",""

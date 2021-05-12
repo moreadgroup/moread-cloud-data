@@ -1,4 +1,4 @@
-id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
+id,level,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
 "meqzs22000","senior","N","A","stair","英[stєә] ","n.楼梯；阶梯","n.面板；控制板；专家组","n.面颊；脸蛋","n.名誉；名声；声望","","","",""
 "meqzs22001","senior","N","D","deer","英[diә] ","n.面颊；脸蛋","n.目标；对象；靶子","n.目击者；证人v.目击","n.鹿","","","",""
 "meqzs22002","senior","N","B","route","英[ru:t] ","n.证据；迹象v.证明","n.路线；航线；路径","n.泥浆v.弄脏","n.牛排；肉排","","","",""

@@ -1,4 +1,4 @@
-id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
+id,level,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
 "meqzs30000","senior","N","C","centre","英['sentә] (center)","n.作者；作家","n.资格，资格赛；条件；合格证","n.中心v.集中；以…为中心","n.自助餐厅；食堂","","","",""
 "meqzs30001","senior","N","A","category","英['kætigәri］ ","n.种类:范畴","n.紧张；张力V.拉紧","n.主人；节目主持人V.主办","num.&n.1亿a.十亿的","","","",""
 "meqzs30002","senior","N","C","sort","英[sɒ:t] ","n.海报；公告","n.循环:周期v.骑自行车","n.种类；排序V.分类:整理","n.专家；专科医生","","","",""

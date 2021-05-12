@@ -1,4 +1,4 @@
-id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
+id,level,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
 "meqzs25000","senior","N","A","sight","英[sait] ","n.视力；景象；眼界","n.调子；曲调v.调音","n.碳","n.停车；泊车","","","",""
 "meqzs25001","senior","N","A","vision","英['viʒәn] ","n.视觉；视野；愿景","n.调子；曲调v.调音","n.死亡；灭亡","n.体育场","","","",""
 "meqzs25002","senior","N","B","view","英[vju:] ","n.体育场","n.视图；观点；风景v.考虑","n.天花板；上限","n.船长；队长V.率队；指挥","","","",""

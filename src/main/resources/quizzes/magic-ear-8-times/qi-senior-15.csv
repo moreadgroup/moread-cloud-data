@@ -1,4 +1,4 @@
-id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
+id,level,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
 "meqzs15000","senior","N","A","fonnat","英美［fbrm&t］ ","n.版式，格式v.格式化","n.潮湿；阻尼a.潮湿的v.使潮湿","n.部，局，处；系","n.悲哀；悲痛v.懊恼","","","",""
 "meqzs15001","senior","N","A","parcel","英['pɑ:sl] ","n.包裹v.打包","n.信用；贷款v.相信","n.天赋，才能；人才","n.裁缝v.缝制；定制","","","",""
 "meqzs15002","senior","N","D","package","英['pækidʒ] ","n.信用；贷款v.相信","n.薄片；切片v.切（薄）片","n.包裹v.打包","n.包装；包裹v.打包","","","",""

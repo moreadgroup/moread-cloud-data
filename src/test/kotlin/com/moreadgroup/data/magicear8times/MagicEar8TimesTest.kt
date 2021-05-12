@@ -344,7 +344,7 @@ X-TIMESTAMP-MAP=MPEGTS:126000,LOCAL:00:00:00.000
             strategy.type = QuizItemLine::class.java
             strategy.setColumnMapping(
                 "id",
-                "type",
+                "level",
                 "mchoice",
                 "ans",
                 "title",
@@ -359,7 +359,7 @@ X-TIMESTAMP-MAP=MPEGTS:126000,LOCAL:00:00:00.000
                 "oph"
             )
 
-            writer.write("id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph\n")
+            writer.write("id,level,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph\n")
 
             val beanToCsv: StatefulBeanToCsv<QuizItemLine> = StatefulBeanToCsvBuilder<QuizItemLine>(writer)
                 .withMappingStrategy(strategy)
@@ -421,7 +421,7 @@ X-TIMESTAMP-MAP=MPEGTS:126000,LOCAL:00:00:00.000
 
         val qil = QuizItemLine(
             id = word.seq!!,
-            type = qif.type,
+            level = qif.type,
             mchoice = "N",
             ans = listOf("A", "B", "C", "D").shuffled()[0],
             title = if (QI.EN == en) word.word!! else word.paraphrase!!,

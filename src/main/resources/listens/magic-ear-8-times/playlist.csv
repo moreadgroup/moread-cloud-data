@@ -1,4 +1,4 @@
-id,type,seq,uri,title
+id,level,seq,uri,title
 introdu1,introduction,1,/listens/magic-ear-8-times/introduction/1/master.m3u8,introduction 1
 introdu2,introduction,2,/listens/magic-ear-8-times/introduction/2/master.m3u8,introduction 2
 introdu3,introduction,3,/listens/magic-ear-8-times/introduction/3/master.m3u8,introduction 3

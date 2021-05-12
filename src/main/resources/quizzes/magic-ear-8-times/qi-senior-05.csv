@@ -1,4 +1,4 @@
-id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
+id,level,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
 "meqzs05000","senior","N","B","rent","英[rent] ","v.&n.呼吁；申诉","v.租赁n.租金","V.适应；改编","V.分析.；分解","","","",""
 "meqzs05001","senior","N","D","compose","英[kәm'pәuz] ","v.&n.呼吁；申诉","V.分析.；分解","V.流血；榨取（钱财）","v.组成；创作","","","",""
 "meqzs05002","senior","N","C","appeal","英[ә'pi:l] ","V.适应；改编","v.狗叫n.狗吠声","v.&n.呼吁；申诉","V.分析.；分解","","","",""

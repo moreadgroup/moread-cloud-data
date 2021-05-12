@@ -1,4 +1,4 @@
-id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
+id,level,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
 "meqzj10000","junior","N","A","certainly","英['sә:tәnli] ","ad.肯定地；当然；一定","prep.离开ad.中断","conj.也不，也不是","pron.某一个人；有人","","","",""
 "meqzj10001","junior","N","B","together","英[tә'geðә] ","prep.反对；依着，靠着","ad.一起；共同","ad.尤其是，特别；专门地","prep.&conj.直到...为止，到....时","","","",""
 "meqzj10002","junior","N","C","along","英[ә'lɒŋ] ","conj.尽管，虽然","conj.因为，由于","ad.向前prep.沿着","rep.穿过；与...交叉ad.越过","","","",""

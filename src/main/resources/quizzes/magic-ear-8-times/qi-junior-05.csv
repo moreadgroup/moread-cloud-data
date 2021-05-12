@@ -1,4 +1,4 @@
-id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
+id,level,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
 "meqzj05000","junior","N","A","interview","英['intәvju:] ","n.&v.采访，会见","a.&ad.最坏的:最差的","a.地方的；当地的；局部的","n.废物v.浪费","","","",""
 "meqzj05001","junior","N","B","hit","英[hit] (hit，hit)","n.废物v.浪费","n.&v.碰撞；打击；击中","v.aux.可能；也许","n.&v.梦想；做梦","","","",""
 "meqzj05002","junior","N","C","copy","英['kɒpi] ","n.废物v.浪费","a.幸运的的；侥幸的；吉祥的","n.复制品v.模仿；复制","a.&ad.低的(地)；矮的(地)","","","",""

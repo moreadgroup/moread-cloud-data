@@ -1,4 +1,4 @@
-id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
+id,level,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
 "meqzs20000","senior","N","D","shelf","英[ʃelf] ","a.经典的n.杰作；名著","n.箭头；箭状物","n.管理；行政；行政机关","n.架子；书架；搁板","","","",""
 "meqzs20001","senior","N","A","nut","英[nʌt] ","n.坚果；螺母；难对付的人或问题","n.警报；惊恐v.使恐慌","n.管理；行政；行政机关","n.奖章；勋章v.获奖","","","",""
 "meqzs20002","senior","N","B","resolution","英[.rezә'lu:ʃәn] ","n.解决办法；解答；溶解","n.决议；坚定；分辨率","n.奖学金；学术成就","n.接待员；前台","","","",""

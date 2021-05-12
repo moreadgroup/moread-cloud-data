@@ -1,4 +1,4 @@
-id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
+id,level,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
 "meqzs24000","senior","N","D","mankind","英[mæn'kaind] ","n.食欲；胃口；嗜好","n.摄影师；摄影家","n.舌头；言语v.舔","n.人类","","","",""
 "meqzs24001","senior","N","A","directory","英[di'rektәri] ","n.电话本；目录","n.使命；任务","n.生态；生态学","n.鲨鱼","","","",""
 "meqzs24002","senior","N","C","crowd","英[kraud] ","n.食品杂货店","n.扇子；粉丝v.煽动","n.人群v.聚集；拥挤","n.奶油；面霜","","","",""

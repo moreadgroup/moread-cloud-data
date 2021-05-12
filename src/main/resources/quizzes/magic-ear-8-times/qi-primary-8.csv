@@ -1,4 +1,4 @@
-id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
+id,level,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
 "meqzp08000","primary","N","B","banana","英[bә'nɑ:nә] ","n.爷爷；外公","n.香蕉","n.衣服","n.正餐","","","",""
 "meqzp08001","primary","N","A","elephant","英['elifәnt] ","n.象，大象","n.小姐","n.音乐，乐曲","n.鱼v.钓鱼","","","",""
 "meqzp08002","primary","N","C","boat","英[bәut] ","n.早餐","n.艺术a.艺术的","n.小船v.乘船","n.学校","","","",""

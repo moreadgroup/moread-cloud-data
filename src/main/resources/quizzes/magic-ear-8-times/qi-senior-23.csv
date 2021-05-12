@@ -1,4 +1,4 @@
-id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
+id,level,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
 "meqzs23000","senior","N","A","effort","英['efәt] ","n.努力；吃力","n.啤酒","n.生物；动物；家畜","n.员工，工作人员","","","",""
 "meqzs23001","senior","N","A","track","英[træk] ","n.小路；轨迹v.跟踪","n.啤酒","n.球拍；蝙蝠","n.情绪；情感","","","",""
 "meqzs23002","senior","N","D","basin","英['beisn] ","n.树干；躯干；行李箱","n.青年；年轻人","n.皮肤；外皮v.剥皮","n.盆子；盆地","","","",""
