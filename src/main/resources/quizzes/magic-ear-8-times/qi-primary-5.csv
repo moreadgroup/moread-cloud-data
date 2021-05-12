@@ -1,4 +1,4 @@
-id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
+id,level,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
 "meqzp05000","primary","N","A","playground","英['pleigraund] ","n.操场","n.电影院；电影","n.黑5","n.分钟；一会儿","","","",""
 "meqzp05001","primary","N","A","grass","英[græs] ","n.草；草地","n.茶，茶叶","n.蛋；卵","n.故事，小说","","","",""
 "meqzp05002","primary","N","A","toilet","英['tɒilit] ","n.厕所","n.船v.用船装运","n.黑5","n.飞机","","","",""

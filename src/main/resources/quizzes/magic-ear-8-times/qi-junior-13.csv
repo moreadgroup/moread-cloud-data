@@ -1,4 +1,4 @@
-id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
+id,level,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
 "meqzj13000","junior","N","B","town","英[taun] ","n.底部；底层","n.城镇；商业中心区","n.方向；趋向","n.饭店，餐馆","","","",""
 "meqzj13001","junior","N","A","passenger","英['pæsindʒә] ","n.乘客，旅客","n.地球；土地","n.俄罗斯","n.地面；场地；理由","","","",""
 "meqzj13002","junior","N","C","degree","英[di'gri:] ","n.发音","n.乘客，旅客","n.度数；程度；学位","n.宠物","","","",""

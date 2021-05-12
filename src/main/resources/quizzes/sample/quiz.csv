@@ -1,4 +1,4 @@
-id,seq,type,name,desc,items
+id,seq,level,name,desc,items
 qz0001,0001,primary,Quiz First,"For Primary Textbook 1","it0001,it0002,it0003,it0004,it0005,it0006,it0007,it0008,it0009,it0010,it0011,it0012,it0013,it0014,it0015,it0016,it0017,it0018,it0019,it0020,it0021,it0022,it0023,it0024,it0025"
 qz0002,0002,primary,Quiz Second,"For Primary Textbook 2","it0001,it0002,it0003,it0004,it0005,it0006,it0007,it0008,it0009,it0010,it0011,it0012,it0013,it0014,it0015,it0016,it0017,it0018,it0019,it0020,it0021,it0022,it0023,it0024,it0025"
 qz0003,0003,primary,Quiz Third,"For Primary Textbook 3","it0001,it0002,it0003,it0004,it0005,it0006,it0007,it0008,it0009,it0010,it0011,it0012,it0013,it0014,it0015,it0016,it0017,it0018,it0019,it0020,it0021,it0022,it0023,it0024,it0025"

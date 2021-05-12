@@ -1,4 +1,4 @@
-id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
+id,level,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
 "meqzs17000","senior","N","B","wire","英['waiә] ","n.房地产；财产","D.金属丝；电线；电报v.接通","n.愤怒v.激怒；发怒","n.段落；小新闻；短评","","","",""
 "meqzs17001","senior","N","C","sculpture","英['skʌlptʃә] ","n.定义；释义；清晰度","n.肥皂","n.雕刻；雕塑","n.（美）公寓；房间","","","",""
 "meqzs17002","senior","N","C","definition","英[.defi'niʃәn] ","n.账户；账目v.解释","n.段落；小新闻；短评","n.定义；释义；清晰度","n.洞察力；见识","","","",""

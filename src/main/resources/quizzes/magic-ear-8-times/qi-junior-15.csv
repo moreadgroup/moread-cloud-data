@@ -1,4 +1,4 @@
-id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
+id,level,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
 "meqzj15000","junior","N","A","guitar","英[gi'tɑ:] ","n.吉他","n.建议；意见；暗示","n.建筑物；楼房","n.客人；嘉宾","","","",""
 "meqzj15001","junior","N","C","illness","英['ilnis] ","n.教练；家庭教师；经济舱","n.俱乐部；会所","n.疾病；生病","n.课程；过程；航线","","","",""
 "meqzj15002","junior","N","D","record","英[ri'kɒ:d] ","n.警卫；保卫，保镖","n.饺子；汤","n.疾病；生病","n.档案；记录；唱片","","","",""

@@ -1,4 +1,4 @@
-id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
+id,level,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
 "meqzj02000","junior","N","D","pick","英[pik] ","v.收到；得到","v.指向n.要点；得分","v.对待；治疗n.请客","v.拾起；挑选","","","",""
 "meqzj02001","junior","N","D","dry","英[drai] ","v.躺；平放；彳立于","v.发生；碰巧","v.使分开a.分开的","v.使....变干a.干的；干燥的","","","",""
 "meqzj02002","junior","N","B","separate","英['sepәreit] ","v.忘记；忽略","v.使分开a.分开的","v.挖洞；挖掘","v.发明；创造","","","",""

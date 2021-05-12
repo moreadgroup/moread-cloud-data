@@ -1,4 +1,4 @@
-id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
+id,level,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
 "meqzp01000","primary","N","A","read","英[ri:d]美[rid] (read，read)","v.阅读，朗读","v.拿来","vt.告诉，讲述","vt.打扫a.干净的","","","",""
 "meqzp01001","primary","N","A","wear","英[weə(r)]美[wer] (wore，worn)","v.穿，戴","v.听见，听说","vi.听","v.写，写作","","","",""
 "meqzp01002","primary","N","A","drink","英[driŋk]美[driŋk] (drank，drunk)","v.喝n.饮料","vt.观看，注意","v.问，请求","vi.购物n.商店","","","",""

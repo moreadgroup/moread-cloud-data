@@ -8,7 +8,7 @@ package com.moreadgroup.data.magicear8times
  */
 data class QuizItemLine(
     var id: String,
-    val type: String,
+    val level: String,
     // is multiple choices ?
     val mchoice: String,
     var ans: String?=null,

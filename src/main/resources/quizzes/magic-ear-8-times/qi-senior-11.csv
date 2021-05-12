@@ -1,4 +1,4 @@
-id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
+id,level,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
 "meqzs11000","senior","N","C","innocent","英['inәsәnt] ","a.外部的；外面的","a.全球的；全世界的；全局的","a.无辜的；清白的；天真无邪的","a.很好的；可以接受的；晴朗的v.&n.罚款","","","",""
 "meqzs11001","senior","N","B","distinct","英[dis'tiŋkt] ","a.唯一的；独一无二的","a.清楚的；明显的；不同的","a.随后的；后来的；并发的","a.商业的；商务的n.商业广告","","","",""
 "meqzs11002","senior","N","B","fine","英[fain] ","a.至关重要的；生死攸关的；有活力的","a.很好的；可以接受的；晴朗的v.&n.罚款","a.随后的；后来的；并发的","a.喜爱的；宠爱的","","","",""

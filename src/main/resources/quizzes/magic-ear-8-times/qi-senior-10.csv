@@ -1,4 +1,4 @@
-id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
+id,level,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
 "meqzs10000","senior","N","C","mental","英['mentl] ","a.慷慨的；大方的；丰盛的","a.可爱的；可崇拜的；迷人的","a.精神的；思想的；心智的","a.里面的，内部的:内心的","","","",""
 "meqzs10001","senior","N","B","vast","英[vɑ:st] ","a.宽松的ad.散漫地V.释放","a.巨大的；广阔的；","a.两极的；极地的","a.看得见的；可视的；视觉的","","","",""
 "meqzs10002","senior","N","C","enormous","英[i'nɒ:mәs] ","a.看得见的；可视的；视觉的","a.可爱的；可崇拜的；迷人的","a.巨大的；庞大的；巨额的","a.具体的n.混凝土","","","",""

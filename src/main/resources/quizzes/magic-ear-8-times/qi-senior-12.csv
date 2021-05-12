@@ -1,4 +1,4 @@
-id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
+id,level,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
 "meqzs12000","senior","N","B","narrow","英['nærәu] ","a.永久的；持久的","a.狭窄的；狭隘的","a.有影响的；有势力的","a.有能力的；胜任的","","","",""
 "meqzs12001","senior","N","C","previous","英['pri:viәs] ","a.意识到的；知道的","a.有限的；被限制的","a.以前的；早先的；ad.在...以前","a.整洁的；整齐的；灵巧的","","","",""
 "meqzs12002","senior","N","D","delicate","英['delikәt] ","a.优雅的；端庄的","a.至关重要的；决定性的","a.暂时的；临时的","a.精美的；微妙的；娇弱的","","","",""

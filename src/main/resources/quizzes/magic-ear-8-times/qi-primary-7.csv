@@ -1,4 +1,4 @@
-id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
+id,level,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
 "meqzp07000","primary","N","C","farmer","英['fɑ:mә] ","n.蔬菜","n.跳，跳跃v.跳跃","n.农夫，农民","n.糖果","","","",""
 "meqzp07001","primary","N","B","girl","英[gә:l] ","n.头；标题a.主要的","n.女孩","n.人；人民；人类","n.西红柿","","","",""
 "meqzp07002","primary","N","B","skirt","英[skә:t] ","n.跳，跳跃v.跳跃","n.裙子；短裙","n.外套，大衣","n.数学","","","",""

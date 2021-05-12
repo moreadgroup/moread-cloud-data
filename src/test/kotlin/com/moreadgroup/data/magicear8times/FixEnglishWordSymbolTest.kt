@@ -476,7 +476,7 @@ X-TIMESTAMP-MAP=MPEGTS:126000,LOCAL:00:00:00.000
 
         val qil = QuizItemLine(
             id = word.seq!!,
-            type = qif.type,
+            level = qif.type,
             mchoice = "N",
             ans = listOf("A", "B", "C", "D").shuffled()[0],
             title = if (QI.EN == en) word.word!! else word.paraphrase!!,

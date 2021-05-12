@@ -1,4 +1,4 @@
-id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
+id,level,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
 "meqzp06000","primary","N","D","red","英[red] ","n.橘子a.橘色的","n.火车v.培训","n.路；方式","n.红色a.红色的","","","",""
 "meqzp06001","primary","N","D","monkey","英['mʌŋki] ","n.马","n.课；教训I","n.裤子","n.猴子","","","",""
 "meqzp06002","primary","N","D","lake","英[leik] ","n.帽子","n.科学","n.蜡笔","n.湖","","","",""

@@ -1,4 +1,4 @@
-id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
+id,level,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
 "meqzs03000","senior","N","D","expand","英[ik'spænd] ","v.属于；附属于","V.扰乱；妨碍；使不安","v.推荐；劝告；建议","v.膨胀；扩大；展开","","","",""
 "meqzs03001","senior","N","B","criticise","英['kritisaiz] (criticize)","v.提高；增强","v.批评；批判","V.使心烦a.心烦的；难过的","V.涉及；关系到n.关心","","","",""
 "meqzs03002","senior","N","B","destroy","英[di'strɒi] ","v.揭发；显示；曝光","v.破坏；摧毁","v.取来；接来n.取得","v.劝说；使相信","","","",""

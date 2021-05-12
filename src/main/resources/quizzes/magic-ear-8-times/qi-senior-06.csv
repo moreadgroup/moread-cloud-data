@@ -1,4 +1,4 @@
-id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
+id,level,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
 "meqzs06000","senior","N","B","settle","英['setl] ","v.&n.停止；终止","v.安顿；定居；解决","v.&n.打猎；搜索；寻找","v.&n.碰撞；坠落；失事","","","",""
 "meqzs06001","senior","N","B","commit","英[kә'mit] ","v.吸引；诱惑；引人注意","v.犯罪；委托；保证","V.播种；散布","v.抱怨；申诉","","","",""
 "meqzs06002","senior","N","D","regard","英[ri'gɑ:d] ","v.&n.广播；播放","v.鞠躬；低头n.弓形","v.安顿；定居；解决","v.看作；考虑n.问候","","","",""

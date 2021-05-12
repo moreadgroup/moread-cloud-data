@@ -1,4 +1,4 @@
-id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
+id,level,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
 "meqzj18000","junior","N","C","community","英[kә'mju:niti] ","n.老鼠；鼠标","n.七月","n.社区；社团","n.绳子","","","",""
 "meqzj18001","junior","N","D","gentleman","英['dʒentlmәn] ","n.狮子","n.水池；池子","n.圣诞节","n.先生；绅士；","","","",""
 "meqzj18002","junior","N","A","life","英[laif] （复lives）","n.生命；生活","n.水池；池子","n.诗歌","n.手套","","","",""

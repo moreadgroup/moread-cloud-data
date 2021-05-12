@@ -1,4 +1,4 @@
-id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph,,
+id,level,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph,,
 it0001,primary,N,A,"Summer will end ____ enough, and childhood as well.",desc,soon,later,as soon as,latest,immediately,,,,,
 it0002,primary,Y,"B,D","Summer will end ____ enough, and childhood as well.",desc,soon,later,as soon as,latest,immediately,,,,,
 it0003,primary,Y,A,"Summer will end ____ enough, and childhood as well.",desc,soon,later,as soon as,latest,immediately,,,,,

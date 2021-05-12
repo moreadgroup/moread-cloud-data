@@ -1,4 +1,4 @@
-id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
+id,level,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
 "meqzj01000","junior","N","D","mix","英[miks] ","v.失败；不及格","v.管理；设法做到","v.归还；返回","v.混淆；混合","","","",""
 "meqzj01001","junior","N","B","litter","英['litә] ","v.骑；乘车n.乘坐","v.乱丢；乱扔废弃物n.垃圾","v.保持；保存","v.必须；必定是","","","",""
 "meqzj01002","junior","N","B","kick","英[kik] ","v.开始；出发","v.&n.踢","v.打电话n.电出","v.爬，攀登","","","",""

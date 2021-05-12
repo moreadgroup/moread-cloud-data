@@ -1,4 +1,4 @@
-id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
+id,level,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
 "meqzj11000","junior","N","A","anyone","英['eniwʌn] ","pron.任何人，无论谁","num.&n.第五","num.&n.八十","num.&n.第八","","","",""
 "meqzj11001","junior","N","A","anybody","英['enibɒdi] ","pron.任何人，无论谁","num.&n.八","num.&n.三十","num.&n，一~匕","","","",""
 "meqzj11002","junior","N","B","themselves","英[ðәm'selvz] ","num.&n.五十","pron.他（她；它）们自己","pron.她的","pron.我自己","","","",""

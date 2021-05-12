@@ -1,4 +1,4 @@
-id,type,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
+id,level,mchoice,ans,title,desc,opa,opb,opc,opd,ope,opf,opg,oph
 "meqzs14000","senior","N","B","afterward","英['ɑ:ftәwәd] ","ad.在前面；向前；提前a.前面的","ad.以后；后来","ad.终于；最后","abbr.（已婚）太太；夫人","","","",""
 "meqzs14001","senior","N","C","afterwards","英['ɑ:ftәwәdz] ","n.百分率；百分比","n.&v.演讲；讲课","ad.以后；后来","n.&v.冲突；争论；斗争","","","",""
 "meqzs14002","senior","N","C","somehow","英['sʌmhau] ","ad.以后；后来","n.设置；环境；背景","ad.用某种方法；不知怎么地","prep.远于；超出ad.在更远处","","","",""
