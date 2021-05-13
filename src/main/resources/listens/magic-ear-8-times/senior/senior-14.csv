@@ -4,7 +4,7 @@ seq,word,symbol,tense,paraphrase
 03/50,somehow,英['sʌmhau],,ad.用某种方法；不知怎么地
 04/50,therefore,英['ðєәfɒ:],,ad.因此；所以
 05/50,forever,英[fә'revә],,ad.永远；总是
-06/50,dueto,英［dju:］美［du］,,ad.由于；应归于,notfixed
+06/50,due to,英[djuː tu],,ad.由于；应归于
 07/50,elsewhere,英['elshwєә],,ad.在别处；到别处
 08/50,downtown,英['daun'taun],,ad.在市区ad.市中心的
 09/50,downstairs,英['daun'stєәz],,ad.在楼下；往楼下a.楼下的
@@ -33,9 +33,9 @@ seq,word,symbol,tense,paraphrase
 32/50,PE,英[pei],(physical education),abbr.体育课；体能训练
 33/50,Ms,英[miz],,abbr.（不明婚否）女士
 34/50,Mr,英['mistә(r)],,abbr.先生
-35/50,BC,英［bi:'sk［美［bi:'si:］,,(BeforeChrist)公元前,notfixed
-36/50,a.m.,英Lei'em］美［ei'em］,,上午；午前,notfixed
-37/50,p.m.,英Lpi；'em］美Lpi:、em］,,下午，午后,notfixed
+35/50,BC,英[ˌbiː ˈsiː],,(Before Christ)公元前
+36/50,a.m.,英[ˌeɪ ˈem],,上午；午前
+37/50,p.m.,英[ˌpi: ˈem],,下午，午后
 38/50,tip,英[tip],,n.尖端；小费；小窍门
 39/50,lecture,英['lektʃә],,n.&v.演讲；讲课
 40/50,bounce,英[bauns],,n.弹力v.弹跳
