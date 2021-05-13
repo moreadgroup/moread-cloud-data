@@ -172,14 +172,14 @@ Run Test: MagicEar8TimesTest.testParseFromAliaiJson2VttThenOK()
 ```shell
 cd listens/magic-ear-8-times/senior/
 
-../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./01/subtitles/zh junior-01.webvtt
-../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./02/subtitles/zh junior-02.webvtt
-../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./03/subtitles/zh junior-03.webvtt
-../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./04/subtitles/zh junior-04.webvtt
-../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./05/subtitles/zh junior-05.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./01/subtitles/zh senior-01.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./02/subtitles/zh senior-02.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./03/subtitles/zh senior-03.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./04/subtitles/zh senior-04.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./05/subtitles/zh senior-05.webvtt
 
-../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./20/subtitles/zh junior-29.webvtt
-../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./21/subtitles/zh junior-30.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./20/subtitles/zh senior-29.webvtt
+../node_modules/node-webvtt-youtube/bin/webvtt-segment.js -v --target-duration 10 -o ./21/subtitles/zh senior-30.webvtt
 
 ```
 
