@@ -2,7 +2,7 @@ WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:126000,LOCAL:00:00:00.000
 
 00:20:11.320 --> 00:20:32.100 
-40/50,name,英[neim],,n.名字v.命名
+40/50,<b>name</b> ,英[neim],,n.名字v.命名
 
 00:20:33.460 --> 00:20:56.800 
-41/50,mother,英['mʌðә],(mom；mum),n.母亲
+41/50,<b>mother</b> ,英['mʌðә],(mom；mum),n.母亲

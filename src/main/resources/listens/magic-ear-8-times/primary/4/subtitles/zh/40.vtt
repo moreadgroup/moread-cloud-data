@@ -1,8 +1,8 @@
 WEBVTT
 X-TIMESTAMP-MAP=MPEGTS:126000,LOCAL:00:00:00.000
 
-00:09:18.720 --> 00:10:03.605 
-12/51,welcome,英['welkәm],,int.n.&v.欢迎a.受欢迎的
+00:09:18.720 --> 00:10:04.605 
+12/51,<b>welcome</b> ,英['welkәm],,int.n.&v.欢迎a.受欢迎的
 
-00:10:05.480 --> 00:10:28.820 
-13/51,goodbye,英[gud'bai],(bye),int.再见
+00:10:05.480 --> 00:10:29.820 
+13/51,<b>goodbye</b> ,英[gud'bai],(bye),int.再见
