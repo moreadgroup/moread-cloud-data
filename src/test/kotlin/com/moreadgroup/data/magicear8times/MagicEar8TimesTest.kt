@@ -302,7 +302,7 @@ X-TIMESTAMP-MAP=MPEGTS:126000,LOCAL:00:00:00.000
 
         )
             .iterator().toFlux()
-            .take(200)
+            .take(100)
             .doOnEach {
                 parseWordCSV2EnglishWordsAndThenGenerateQuizItemsFromEnglishWords(it!!.get())
             }.subscribe()
@@ -311,33 +311,34 @@ X-TIMESTAMP-MAP=MPEGTS:126000,LOCAL:00:00:00.000
 
     private fun parseWordCSV2EnglishWordsAndThenGenerateQuizItemsFromEnglishWords(qif: QuizFileInfo) {
         Files.newBufferedReader(Paths.get(qif.srcfile)).use { reader ->
-            val strategy = ColumnPositionMappingStrategy<EnglishWord>()
-            strategy.type = EnglishWord::class.java
+            val strategy = ColumnPositionMappingStrategy<MagicEar8TimesEnglishWordLine>()
+            strategy.type = MagicEar8TimesEnglishWordLine::class.java
 
-            strategy.setColumnMapping("seq", "word", "symbol", "tense", "paraphrase")
-            val csvToBean: CsvToBean<EnglishWord> = CsvToBeanBuilder<EnglishWord>(reader)
+            // seq,word,phonetic,exchange,trans,
+            strategy.setColumnMapping("seq", "word", "phonetic", "exchange", "trans")
+            val csvToBean: CsvToBean<MagicEar8TimesEnglishWordLine> = CsvToBeanBuilder<MagicEar8TimesEnglishWordLine>(reader)
                 .withMappingStrategy(strategy)
                 .withSkipLines(1)
                 .withIgnoreLeadingWhiteSpace(true)
                 .build()
-            val wordIterator: Iterator<EnglishWord> = csvToBean.iterator()
-            val words = mutableListOf<EnglishWord>()
-            while (wordIterator.hasNext()) {
-                val word: EnglishWord = wordIterator.next()
-                println("seq : " + word.seq)
-                println("word : " + word.word)
-                println("symbol : " + word.symbol)
-                println("tense : " + word.tense)
-                println("paraphrase : " + word.paraphrase)
+            val wordLineIterator: Iterator<MagicEar8TimesEnglishWordLine> = csvToBean.iterator()
+            val words = mutableListOf<MagicEar8TimesEnglishWordLine>()
+            while (wordLineIterator.hasNext()) {
+                val wordLine: MagicEar8TimesEnglishWordLine = wordLineIterator.next()
+                println("seq : " + wordLine.seq)
+                println("word : " + wordLine.word)
+                println("phonetic : " + wordLine.phonetic)
+                println("exchange : " + wordLine.exchange)
+                println("trans : " + wordLine.trans)
                 println("---------------------------")
-                words.add(word)
+                words.add(wordLine)
             }
 
             generateQuizItemsFromWords(words, qif)
         }
     }
 
-    private fun generateQuizItemsFromWords(words: List<EnglishWord>, qif: QuizFileInfo) {
+    private fun generateQuizItemsFromWords(wordLines: List<MagicEar8TimesEnglishWordLine>, qif: QuizFileInfo) {
 
 
         Files.newBufferedWriter(Paths.get(destFolder + "/" + qif.qifile)).use { writer ->
@@ -372,8 +373,8 @@ X-TIMESTAMP-MAP=MPEGTS:126000,LOCAL:00:00:00.000
 
             val qiids = mutableListOf<String>()
 
-            words.stream().map {
-                generateQuizItemLineFromWord(it, words, QI.EN, qif)
+            wordLines.stream().map {
+                generateQuizItemLineFromWord(it, wordLines, QI.EN, qif)
             }.filter {
                 it.id.isNotBlank()
             }.toArray().forEachIndexed { index, value ->
@@ -387,13 +388,13 @@ X-TIMESTAMP-MAP=MPEGTS:126000,LOCAL:00:00:00.000
                 qiids.add(qil.id)
             }
 
-            words.stream().map {
-                generateQuizItemLineFromWord(it, words, QI.ZH, qif)
+            wordLines.stream().map {
+                generateQuizItemLineFromWord(it, wordLines, QI.ZH, qif)
             }.filter {
                 it.id.isNotBlank()
             }.toArray().forEachIndexed { index, value ->
                 val qil = value as QuizItemLine
-                qil.id = qif.id.plus("%03d".format(words.size + index))
+                qil.id = qif.id.plus("%03d".format(wordLines.size + index))
                 beanToCsv.write(qil)
                 println()
                 println("generated qiline=$qil")
@@ -414,51 +415,51 @@ X-TIMESTAMP-MAP=MPEGTS:126000,LOCAL:00:00:00.000
     }
 
     private fun generateQuizItemLineFromWord(
-        word: EnglishWord,
-        words: List<EnglishWord>,
+        wordLine: MagicEar8TimesEnglishWordLine,
+        wordLines: List<MagicEar8TimesEnglishWordLine>,
         en: QI,
         qif: QuizFileInfo
     ): QuizItemLine {
 
-        println("word=$word")
+        println("word=$wordLine")
 
         val qil = QuizItemLine(
-            id = word.seq!!,
+            id = wordLine.seq!!,
             level = qif.type,
             mchoice = "N",
             ans = listOf("A", "B", "C", "D").shuffled()[0],
-            eword = word.word!!,
-            title = if (QI.EN == en) word.word!! else word.paraphrase!!,
-            desc = (word.symbol ?: "Magic Ear 8 Times").plus(" ").plus(word.tense ?: ""),
-            opa = if (QI.EN == en) word.paraphrase!! else word.word!!,
-            opb = if (QI.EN == en) word.paraphrase!! else word.word!!,
-            opc = if (QI.EN == en) word.paraphrase!! else word.word!!,
-            opd = if (QI.EN == en) word.paraphrase!! else word.word!!,
+            eword = wordLine.word!!,
+            title = if (QI.EN == en) wordLine.word!! else wordLine.trans!!,
+            desc = (wordLine.phonetic ?: "Magic Ear 8 Times").plus(" ").plus(wordLine.exchange ?: ""),
+            opa = if (QI.EN == en) wordLine.trans!! else wordLine.word!!,
+            opb = if (QI.EN == en) wordLine.trans!! else wordLine.word!!,
+            opc = if (QI.EN == en) wordLine.trans!! else wordLine.word!!,
+            opd = if (QI.EN == en) wordLine.trans!! else wordLine.word!!,
         )
 
-        val usedWords = mutableListOf<EnglishWord>(word)
+        val usedWords = mutableListOf<MagicEar8TimesEnglishWordLine>(wordLine)
         if ("A" != qil.ans) {
-            val randomWord = words.stream().filter { !usedWords.contains(it) }.toList().shuffled()[0]
+            val randomWord = wordLines.stream().filter { !usedWords.contains(it) }.toList().shuffled()[0]
             println("radomWord=$randomWord")
-            qil.opa = if (QI.EN == en) randomWord.paraphrase!! else randomWord.word!!
+            qil.opa = if (QI.EN == en) randomWord.trans!! else randomWord.word!!
             usedWords.add(randomWord)
         }
         if ("B" != qil.ans) {
-            val randomWord = words.stream().filter { !usedWords.contains(it) }.toList().shuffled()[0]
+            val randomWord = wordLines.stream().filter { !usedWords.contains(it) }.toList().shuffled()[0]
             println("radomWord=$randomWord")
-            qil.opb = if (QI.EN == en) randomWord.paraphrase!! else randomWord.word!!
+            qil.opb = if (QI.EN == en) randomWord.trans!! else randomWord.word!!
             usedWords.add(randomWord)
         }
         if ("C" != qil.ans) {
-            val randomWord = words.stream().filter { !usedWords.contains(it) }.toList().shuffled()[0]
+            val randomWord = wordLines.stream().filter { !usedWords.contains(it) }.toList().shuffled()[0]
             println("radomWord=$randomWord")
-            qil.opc = if (QI.EN == en) randomWord.paraphrase!! else randomWord.word!!
+            qil.opc = if (QI.EN == en) randomWord.trans!! else randomWord.word!!
             usedWords.add(randomWord)
         }
         if ("D" != qil.ans) {
-            val randomWord = words.stream().filter { !usedWords.contains(it) }.toList().shuffled()[0]
+            val randomWord = wordLines.stream().filter { !usedWords.contains(it) }.toList().shuffled()[0]
             println("radomWord=$randomWord")
-            qil.opd = if (QI.EN == en) randomWord.paraphrase!! else randomWord.word!!
+            qil.opd = if (QI.EN == en) randomWord.trans!! else randomWord.word!!
             usedWords.add(randomWord)
         }
 

@@ -1,4 +1,4 @@
-seq,word,symbol,tense,paraphrase
+seq,word,phonetic,exchange,trans,
 01/51,town,英[taun],,n.城镇；商业中心区
 02/51,passenger,英['pæsindʒә],,n.乘客，旅客
 03/51,degree,英[di'gri:],,n.度数；程度；学位

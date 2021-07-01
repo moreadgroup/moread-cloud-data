@@ -1,4 +1,4 @@
-seq,word,symbol,tense,paraphrase
+seq,word,phonetic,exchange,trans,
 01/50,red,英[red],,n.红色a.红色的
 02/50,monkey,英['mʌŋki],,n.猴子
 03/50,lake,英[leik],,n.湖
