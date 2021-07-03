@@ -6,15 +6,16 @@ package com.moreadgroup.data.magicear8times
  *
  * Refer to [Free English to Chinese Dictionary Database.](https://github.com/skywind3000/ECDICT)
  */
-data class EnglishWord(
+data class MagicEar8TimesEnglishWordLine(
 
-    //seq,word,symbol,tense,paraphrase
+    // seq,word,phonetic,exchange,trans,
+
     val seq: String?=null,
     val word: String?=null,
-    val symbol: String?=null,
-    val tense: String?=null,
-    val paraphrase: String?=null,
+    val phonetic: String?=null,
+    val exchange: String?=null,
+    val trans: String?=null,
 
-) {
+    ) {
 
 }

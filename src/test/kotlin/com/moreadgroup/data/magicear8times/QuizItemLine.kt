@@ -12,6 +12,7 @@ data class QuizItemLine(
     // is multiple choices ?
     val mchoice: String,
     var ans: String?=null,
+    var eword: String?=null,
     val title: String,
     val desc: String,
 

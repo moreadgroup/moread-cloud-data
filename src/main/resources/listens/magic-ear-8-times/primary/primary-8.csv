@@ -1,4 +1,4 @@
-seq,word,symbol,tense,paraphrase
+seq,word,phonetic,exchange,trans,
 01/51,banana,英[bә'nɑ:nә],,n.香蕉
 02/51,elephant,英['elifәnt],,n.象，大象
 03/51,boat,英[bәut],,n.小船v.乘船

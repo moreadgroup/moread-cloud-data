@@ -1,4 +1,4 @@
-seq,word,symbol,tense,paraphrase
+seq,word,phonetic,exchange,trans,
 01/51,playground,英['pleigraund],,n.操场
 02/51,grass,英[græs],,n.草；草地
 03/51,toilet,英['tɒilit],,n.厕所
