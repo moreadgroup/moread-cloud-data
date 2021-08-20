@@ -1,0 +1,1 @@
+[通用规范汉字表](https://zh.wiktionary.org/zh-hans/Appendix:%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8#%E4%B8%80%E7%BA%A7%E5%AD%97%E8%A1%A8%EF%BC%883500%E5%AD%97%EF%BC%89)
