@@ -1,1 +1,9 @@
-[通用规范汉字表](https://zh.wiktionary.org/zh-hans/Appendix:%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8#%E4%B8%80%E7%BA%A7%E5%AD%97%E8%A1%A8%EF%BC%883500%E5%AD%97%EF%BC%89)
+- [通用规范汉字表](https://zh.wiktionary.org/zh-hans/Appendix:%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8#%E4%B8%80%E7%BA%A7%E5%AD%97%E8%A1%A8%EF%BC%883500%E5%AD%97%EF%BC%89)
+- [通用规范汉字表](https://zh.m.wikisource.org/zh-hans/%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8)
+- [pinyin4j](https://github.com/belerweb/pinyin4j)
+- [HanLP: Han Language Processing](https://github.com/hankcs/HanLP)
+- [Tauri + Vite + Vue 3 + Vuetify 3 desktop app template](https://bestofvue.com/repo/yooneskh-vite-tauri-template)
+- [How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust](https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/)
+- [Vue vs Svelte: Comparing Framework Internals](https://www.vuemastery.com/blog/vue-vs-svelte-comparing-framework-internals/)
+- [Instant File Sharing powered by IPFS Networks Build with Vue 3 and ViteJS](https://vuejsexamples.com/instant-file-sharing-powered-by-ipfs-networks-build-with-vue-3-and-vitejs/)
+
