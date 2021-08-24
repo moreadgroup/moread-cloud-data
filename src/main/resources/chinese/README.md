@@ -6,4 +6,6 @@
 - [How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust](https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/)
 - [Vue vs Svelte: Comparing Framework Internals](https://www.vuemastery.com/blog/vue-vs-svelte-comparing-framework-internals/)
 - [Instant File Sharing powered by IPFS Networks Build with Vue 3 and ViteJS](https://vuejsexamples.com/instant-file-sharing-powered-by-ipfs-networks-build-with-vue-3-and-vitejs/)
-
+- [APIs for a vibrant decentralized future](https://thegraph.com/)
+- [Chinese Character stroke-table](https://github.com/theajack/cnchar/blob/master/src/cnchar/plugin/order/dict/stroke-table.json)
+- 
