@@ -1,0 +1,7 @@
+- [通用规范汉字表](https://zh.wiktionary.org/zh-hans/Appendix:%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8#%E4%B8%80%E7%BA%A7%E5%AD%97%E8%A1%A8%EF%BC%883500%E5%AD%97%EF%BC%89)
+- [通用规范汉字表](https://zh.m.wikisource.org/zh-hans/%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8)
+- [pinyin4j](https://github.com/belerweb/pinyin4j)
+- [HanLP: Han Language Processing](https://github.com/hankcs/HanLP)
+- [功能全面的汉字工具库 (拼音 笔画 笔顺 偏旁 成语等) (Chinese character util)](https://github.com/theajack/cnchar)
+- [拼音和汉字之间的转换、简体汉字和繁体汉字之间的转换](https://github.com/qzw1210/jpinyin)
+- []

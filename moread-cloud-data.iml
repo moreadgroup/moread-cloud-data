@@ -37,7 +37,6 @@
     <orderEntry type="library" name="Maven: org.reactivestreams:reactive-streams:1.0.3" level="project" />
     <orderEntry type="library" name="Maven: com.apollographql.apollo:apollo-runtime:2.5.5" level="project" />
     <orderEntry type="library" name="Maven: com.apollographql.apollo:apollo-api-jvm:2.5.5" level="project" />
-    <orderEntry type="library" name="Maven: com.squareup.okio:okio:2.9.0" level="project" />
     <orderEntry type="library" name="Maven: com.apollographql.apollo:apollo-normalized-cache-jvm:2.5.5" level="project" />
     <orderEntry type="library" name="Maven: com.apollographql.apollo:apollo-normalized-cache-api-jvm:2.5.5" level="project" />
     <orderEntry type="library" name="Maven: com.benasher44:uuid-jvm:0.2.0" level="project" />
@@ -90,7 +89,6 @@
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.maven.plugin-tools:maven-plugin-annotations:3.4" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.jetbrains.kotlin:kotlin-compiler:1.5.10" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.jetbrains.kotlin:kotlin-script-runtime:1.5.10" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: org.jetbrains.kotlin:kotlin-reflect:1.5.10" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.jetbrains.intellij.deps:trove4j:1.0.20181211" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.jetbrains.kotlin:kotlin-scripting-compiler:1.5.10" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.jetbrains.kotlin:kotlin-scripting-common:1.5.10" level="project" />
@@ -115,5 +113,9 @@
     <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.4.32" level="project" />
     <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.4.32" level="project" />
     <orderEntry type="library" name="Maven: com.github.stuxuhai:jpinyin:1.1.8" level="project" />
+    <orderEntry type="library" name="Maven: com.squareup.moshi:moshi:1.12.0" level="project" />
+    <orderEntry type="library" name="Maven: com.squareup.okio:okio:2.10.0" level="project" />
+    <orderEntry type="library" name="Maven: com.squareup.moshi:moshi-kotlin:1.12.0" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-reflect:1.4.31" level="project" />
   </component>
 </module>

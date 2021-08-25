@@ -118,7 +118,16 @@
             <artifactId>jpinyin</artifactId>
             <version>1.1.8</version>
         </dependency>
-
+        <dependency>
+            <groupId>com.squareup.moshi</groupId>
+            <artifactId>moshi</artifactId>
+            <version>1.12.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.squareup.moshi</groupId>
+            <artifactId>moshi-kotlin</artifactId>
+            <version>1.12.0</version>
+        </dependency>
     </dependencies>
 
     <build>
