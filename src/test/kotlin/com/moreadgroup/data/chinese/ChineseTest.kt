@@ -61,10 +61,9 @@ class ChineseTest {
                         strokeNumMap.get(it + "")
                     }?.or(0)
 
+                val strokeSize = strokes.split(" ", "|").size
 
-                val strokesCorrect = strokes.split(" ", "|").size == strokesNum
-
-                println("${wordLine.seq},${wordLine.word},${pinyins},${strokes},${strokesCorrect}")
+                println("${wordLine.seq},${wordLine.word},${pinyins},${strokes},${strokeSize == strokesNum}(a${strokeSize}~e${strokesNum})")
                 words.add(wordLine)
             }
 
