@@ -16,7 +16,7 @@ import java.nio.file.Paths
  * @Author conan8chan@yahoo.com
  * @Date 8/24/21T5:00 PM-Tuesday
  */
-class ChineseTest {
+class CnWordFixTest {
 
     private val ROOT_FOLDER = "/Users/CC/github/moreadgroup/moread-cloud-data/src/main/resources/"
 
@@ -47,15 +47,25 @@ class ChineseTest {
             val words = mutableListOf<CnWordLine>()
             while (wordLineIterator.hasNext()) {
                 val wordLine: CnWordLine = wordLineIterator.next()
-                val pinyins = wordLine.word
-                    ?.let {
-                        PinyinHelper.convertToPinyinArray(it.first(), PinyinFormat.WITH_TONE_MARK)
-                            .joinToString(separator = "、")
-                    }
-                val strokes = wordLine.word
-                    ?.let {
-                        getCnWordStrokesOrder(it, strokeOrderJian, strokeTable)
-                    }.orEmpty().trim()
+                val pinyins =
+                    if (wordLine.pinyins.isNullOrEmpty())
+                        wordLine.word
+                            ?.let {
+                                PinyinHelper.convertToPinyinArray(it.first(), PinyinFormat.WITH_TONE_MARK)
+                                    .joinToString(separator = "、")
+                            }
+                    else
+                        wordLine.pinyins
+
+                val strokes =
+                    if (wordLine.strokes.isNullOrEmpty())
+                        wordLine.word
+                            ?.let {
+                                getCnWordStrokesOrder(it, strokeOrderJian, strokeTable)
+                            }.orEmpty().trim()
+                    else
+                        wordLine.strokes
+
                 val strokesNum = wordLine.word
                     ?.let {
                         strokeNumMap.get(it + "")
