@@ -71,13 +71,14 @@ class CnWordQuizTest {
                 "level",
                 "mchoice",
                 "ans",
+                "eword",
                 "title",
                 "desc",
                 "opa",
                 "opb",
             )
 
-            writer.write("id,type,mchoice,ans,title,desc,opa,opb\n")
+            writer.write("id,level,mchoice,ans,eword,title,desc,opa,opb\n")
 
             val beanToCsv: StatefulBeanToCsv<QuizItemLine> = StatefulBeanToCsvBuilder<QuizItemLine>(writer)
                 .withMappingStrategy(strategy)
@@ -126,17 +127,21 @@ class CnWordQuizTest {
                     if (index <= 35) "level1"
                     else if (index <= 60) "level2"
                     else "level3"
-                val title =
+                val stitle =
+                    if (index <= 35) "一级字表"
+                    else if (index <= 60) "二级字表"
+                    else "三级字表"
+                val ltitle =
                     if (index <= 35) "一级字表（3500字）"
                     else if (index <= 60) "二级字表（3000字）"
                     else "三级字表（1605字）"
 
                 QuizLine(
                     "cnwq$index",
-                    "$index",
+                    "1%03d".format(index),
                     level,
-                    "拼音测试$title$index",
-                    "拼音测试通用规范汉字表$title$index,汉字拼音测试$index",
+                    "拼音测试$stitle$index",
+                    "拼音测试通用规范汉字表$ltitle$index,汉字拼音测试$index",
                     items
                 )
             }.forEach {
@@ -162,6 +167,7 @@ class CnWordQuizTest {
             level = type,
             mchoice = "N",
             ans = listOf("A", "B").shuffled()[0],
+            eword = cnWord.word!!,
             title = cnWord.word!!,
             desc = cnWord.word!!,
             opa = cnWord.pinyins,
@@ -230,13 +236,14 @@ class CnWordQuizTest {
                 "level",
                 "mchoice",
                 "ans",
+                "eword",
                 "title",
                 "desc",
                 "opa",
                 "opb",
             )
 
-            writer.write("id,type,mchoice,ans,title,desc,opa,opb\n")
+            writer.write("id,type,mchoice,ans,eword,title,desc,opa,opb\n")
 
             val beanToCsv: StatefulBeanToCsv<QuizItemLine> = StatefulBeanToCsvBuilder<QuizItemLine>(writer)
                 .withMappingStrategy(strategy)
@@ -285,17 +292,21 @@ class CnWordQuizTest {
                     if (index <= 35) "level1"
                     else if (index <= 60) "level2"
                     else "level3"
-                val title =
+                val stitle =
+                    if (index <= 35) "一级字表"
+                    else if (index <= 60) "二级字表"
+                    else "三级字表"
+                val ltitle =
                     if (index <= 35) "一级字表（3500字）"
                     else if (index <= 60) "二级字表（3000字）"
                     else "三级字表（1605字）"
 
                 QuizLine(
                     "cnwstq$index",
-                    "$index",
+                    "2%03d".format(index),
                     level,
-                    "笔画测试$title$index",
-                    "笔画测试通用规范汉字表$title$index,汉字笔画测试$index",
+                    "笔画测试$stitle$index",
+                    "笔画测试通用规范汉字表$ltitle$index,汉字笔画测试$index",
                     items
                 )
             }.forEach {
@@ -318,6 +329,7 @@ class CnWordQuizTest {
             level = type,
             mchoice = "N",
             ans = listOf("A", "B").shuffled()[0],
+            eword = cnWord.word!!,
             title = cnWord.word!!,
             desc = cnWord.word!!,
             opa = cnWord.strokes,

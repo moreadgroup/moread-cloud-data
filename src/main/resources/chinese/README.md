@@ -6,3 +6,6 @@
 - [Chinese Character stroke-table](https://github.com/theajack/cnchar/blob/master/src/cnchar/plugin/order/dict/stroke-table.json)
 - [How to make a decentralized like button using ipfs & orbitdb](https://blog.setale.me/2020/06/01/how-to-make-a-decentralized-like-button/) 
 - [IPFS搭建HTTPS去中心化网站，真实可用](https://cloud.tencent.com/developer/article/1815072)
+- 
+- [Model driven {json:api} & GraphQL web services for CRUD and Analytics.](https://elide.io/)
+- [Composable data framework for ambitious web applications.](https://orbitjs.com/)
