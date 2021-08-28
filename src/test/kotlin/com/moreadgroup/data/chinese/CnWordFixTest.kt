@@ -18,9 +18,9 @@ import java.nio.file.Paths
  */
 class CnWordFixTest {
 
-    private val ROOT_FOLDER = "/Users/CC/github/moreadgroup/moread-cloud-data/src/main/resources/"
+//    private val ROOT_FOLDER = "/Users/CC/github/moreadgroup/moread-cloud-data/src/main/resources/"
 
-    //    val ROOT_FOLDER = "/Users/conanchen/github/moreadgroup/moread-cloud-data/src/main/resources/"
+        val ROOT_FOLDER = "/Users/conanchen/github/moreadgroup/moread-cloud-data/src/main/resources/"
     private val GRAPHQL_SERVER = "http://localhost:18060/domain-task/graphql"
 
     private val srcFolder = ROOT_FOLDER + "chinese/"
