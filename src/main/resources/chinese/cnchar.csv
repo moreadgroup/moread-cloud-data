@@ -1,4 +1,4 @@
-seq,word,pinyins,strokes,strokesok
+seq,word,pinyins,strokes,strokesok,explanation
 0001,一,yī,一,true(a1~e1)
 0002,乙,yǐ,⺄,true(a1~e1)
 0003,二,èr,一 一,true(a2~e2)
