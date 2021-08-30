@@ -94,7 +94,9 @@ class CnWordFixTest {
         val result =  xinhuaWordMap.get(it)?.explanation?.replace(Regex("[\na-zA-Zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ]+"),"")
 
 
-        return result;
+
+
+        return result?.let { it.substring(0, if (result.length>100 ) 100 else result.length-1) }
 
     }
 
