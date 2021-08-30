@@ -12,6 +12,7 @@ import org.junit.Test
 import java.nio.file.Files
 import java.nio.file.Paths
 
+
 /**
  * @Author conan8chan@yahoo.com
  * @Date 8/24/21T5:00 PM-Tuesday
@@ -27,24 +28,24 @@ class CnWordFixTest {
     private val destFolder = ROOT_FOLDER + "chinese/"
 
     @Test
-    fun testFixCnWordWithPinyinsAndStrokesThenOK() {
+    fun testFixCnWordWithPinyinsAndStrokesAndExplanationThenOK() {
         val strokeOrderJian = prepareCnWordStrokeOrderJain()
         val strokeTable = prepareCnWordStrokeTable()
         val strokeNumMap = prepareCnWordStrokeNum();
+        val xinhuaWordMap = prepareCnWordXinhuaWord();
 
         Files.newBufferedReader(Paths.get(srcFolder + "cnchar.csv")).use { reader ->
             val strategy = ColumnPositionMappingStrategy<CnWordLine>()
             strategy.type = CnWordLine::class.java
 
-            // seq,word,pinyins,strokes
-            strategy.setColumnMapping("seq", "word", "pinyins", "strokes")
+            // seq,word,pinyins,strokes,strokesok,explanation
+            strategy.setColumnMapping("seq", "word", "pinyins", "strokes", "strokesok", "explanation")
             val csvToBean: CsvToBean<CnWordLine> = CsvToBeanBuilder<CnWordLine>(reader)
                 .withMappingStrategy(strategy)
                 .withSkipLines(1)
                 .withIgnoreLeadingWhiteSpace(true)
                 .build()
             val wordLineIterator: Iterator<CnWordLine> = csvToBean.iterator()
-            val words = mutableListOf<CnWordLine>()
             while (wordLineIterator.hasNext()) {
                 val wordLine: CnWordLine = wordLineIterator.next()
                 val pinyins =
@@ -73,12 +74,52 @@ class CnWordFixTest {
 
                 val strokeSize = strokes.split(" ", "|").size
 
-                println("${wordLine.seq},${wordLine.word},${pinyins},${strokes},${strokeSize == strokesNum}(a${strokeSize}~e${strokesNum})")
-                words.add(wordLine)
+                val explanation =
+                    if (wordLine.explanation.isNullOrEmpty())
+                        wordLine.word
+                            ?.let {
+                                getCnWordExplanation(it, xinhuaWordMap)
+                            }.orEmpty().trim();
+                    else
+                        wordLine.explanation
+
+                println("${wordLine.seq},${wordLine.word},${pinyins},${strokes},${strokeSize == strokesNum}(a${strokeSize}~e${strokesNum}),${explanation}")
             }
 
-//            generateQuizItemsFromWords(words, qif)
         }
+    }
+
+    private fun getCnWordExplanation(it: String, xinhuaWordMap: Map<String, XinhuaWord>): String? {
+
+        val result =  xinhuaWordMap.get(it)?.explanation?.replace(Regex("[\na-zA-Zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ]+"),"")
+
+
+        return result;
+
+    }
+
+    private fun prepareCnWordXinhuaWord(): Map<String, XinhuaWord> {
+        val result = mutableMapOf<String, XinhuaWord>()
+        Files.newBufferedReader(Paths.get(srcFolder + "xinhua/word.json")).use { reader ->
+
+            val moshi: Moshi = Moshi.Builder().addLast(com.squareup.moshi.kotlin.reflect.KotlinJsonAdapterFactory())
+                .build()
+
+            val type = Types.newParameterizedType(
+                MutableList::class.java,
+                XinhuaWord::class.java
+            )
+
+            val jsonAdapter: JsonAdapter<List<XinhuaWord>> = moshi.adapter(type)
+
+            val blackjackHand: List<XinhuaWord>? = jsonAdapter.fromJson(reader.readText())
+            blackjackHand?.let {
+                it.stream().forEach { xw ->
+                    result.put(xw.word!!, xw)
+                }
+            }
+        }
+        return result
     }
 
     fun prepareCnWordStrokeOrderJain(): Map<String, String> {

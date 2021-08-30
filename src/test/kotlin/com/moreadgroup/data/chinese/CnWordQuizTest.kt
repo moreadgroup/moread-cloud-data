@@ -32,8 +32,8 @@ class CnWordQuizTest {
             val strategy = ColumnPositionMappingStrategy<CnWordLine>()
             strategy.type = CnWordLine::class.java
 
-            // seq,word,pinyins,strokes
-            strategy.setColumnMapping("seq", "word", "pinyins", "strokes")
+            // seq,word,pinyins,strokes,strokesok,explanation
+            strategy.setColumnMapping("seq", "word", "pinyins", "strokes", "strokesok", "explanation")
             val csvToBean: CsvToBean<CnWordLine> = CsvToBeanBuilder<CnWordLine>(reader)
                 .withMappingStrategy(strategy)
                 .withSkipLines(1)
@@ -169,7 +169,7 @@ class CnWordQuizTest {
             ans = listOf("A", "B").shuffled()[0],
             eword = cnWord.word!!,
             title = cnWord.word!!,
-            desc = cnWord.word!!,
+            desc = cnWord.explanation.orEmpty().substring(0,50),
             opa = cnWord.pinyins,
             opb = cnWord.pinyins,
         )
@@ -197,8 +197,8 @@ class CnWordQuizTest {
             val strategy = ColumnPositionMappingStrategy<CnWordLine>()
             strategy.type = CnWordLine::class.java
 
-            // seq,word,pinyins,strokes
-            strategy.setColumnMapping("seq", "word", "pinyins", "strokes")
+            // seq,word,pinyins,strokes,strokesok,explanation
+            strategy.setColumnMapping("seq", "word", "pinyins", "strokes", "strokesok", "explanation")
             val csvToBean: CsvToBean<CnWordLine> = CsvToBeanBuilder<CnWordLine>(reader)
                 .withMappingStrategy(strategy)
                 .withSkipLines(1)
@@ -331,7 +331,7 @@ class CnWordQuizTest {
             ans = listOf("A", "B").shuffled()[0],
             eword = cnWord.word!!,
             title = cnWord.word!!,
-            desc = cnWord.word!!,
+            desc = cnWord.explanation.orEmpty().substring(0,50),
             opa = cnWord.strokes,
             opb = cnWord.strokes,
         )
