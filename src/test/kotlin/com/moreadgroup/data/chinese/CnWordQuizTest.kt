@@ -73,12 +73,12 @@ class CnWordQuizTest {
                 "ans",
                 "eword",
                 "title",
-                "desc",
                 "opa",
                 "opb",
+                "desc",
             )
 
-            writer.write("id,level,mchoice,ans,eword,title,desc,opa,opb\n")
+            writer.write("id,type,mchoice,ans,eword,title,opa,opb,desc\n")
 
             val beanToCsv: StatefulBeanToCsv<QuizItemLine> = StatefulBeanToCsvBuilder<QuizItemLine>(writer)
                 .withMappingStrategy(strategy)
@@ -169,7 +169,7 @@ class CnWordQuizTest {
             ans = listOf("A", "B").shuffled()[0],
             eword = cnWord.word!!,
             title = cnWord.word!!,
-            desc = cnWord.explanation.orEmpty().substring(0,50),
+            desc = cnWord.explanation.orEmpty(),
             opa = cnWord.pinyins,
             opb = cnWord.pinyins,
         )
@@ -238,12 +238,12 @@ class CnWordQuizTest {
                 "ans",
                 "eword",
                 "title",
-                "desc",
                 "opa",
                 "opb",
+                "desc",
             )
 
-            writer.write("id,type,mchoice,ans,eword,title,desc,opa,opb\n")
+            writer.write("id,type,mchoice,ans,eword,title,opa,opb,desc\n")
 
             val beanToCsv: StatefulBeanToCsv<QuizItemLine> = StatefulBeanToCsvBuilder<QuizItemLine>(writer)
                 .withMappingStrategy(strategy)
@@ -331,7 +331,7 @@ class CnWordQuizTest {
             ans = listOf("A", "B").shuffled()[0],
             eword = cnWord.word!!,
             title = cnWord.word!!,
-            desc = cnWord.explanation.orEmpty().substring(0,50),
+            desc = cnWord.explanation.orEmpty(),
             opa = cnWord.strokes,
             opb = cnWord.strokes,
         )

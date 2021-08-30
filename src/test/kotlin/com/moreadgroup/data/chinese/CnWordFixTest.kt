@@ -91,7 +91,10 @@ class CnWordFixTest {
 
     private fun getCnWordExplanation(it: String, xinhuaWordMap: Map<String, XinhuaWord>): String? {
 
-        val result =  xinhuaWordMap.get(it)?.explanation?.replace(Regex("[\na-zA-Zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ]+"),"")?.replace(",","，")
+        val result =  xinhuaWordMap.get(it)?.explanation
+            ?.replace(Regex("[\na-zA-Zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ]+"),"")
+            ?.replace(",","，")
+            ?.replace(Regex("\""),"'")
 
 
 
