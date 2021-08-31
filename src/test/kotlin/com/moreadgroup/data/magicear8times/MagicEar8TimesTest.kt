@@ -352,18 +352,14 @@ X-TIMESTAMP-MAP=MPEGTS:126000,LOCAL:00:00:00.000
                 "ans",
                 "eword",
                 "title",
-                "desc",
                 "opa",
                 "opb",
                 "opc",
                 "opd",
-                "ope",
-                "opf",
-                "opg",
-                "oph"
+                "desc",
             )
 
-            writer.write("id,level,mchoice,ans,eword,title,desc,opa,opb,opc,opd,ope,opf,opg,oph\n")
+            writer.write("id,level,mchoice,ans,eword,title,opa,opb,opc,opd,desc\n")
 
             val beanToCsv: StatefulBeanToCsv<QuizItemLine> = StatefulBeanToCsvBuilder<QuizItemLine>(writer)
                 .withMappingStrategy(strategy)

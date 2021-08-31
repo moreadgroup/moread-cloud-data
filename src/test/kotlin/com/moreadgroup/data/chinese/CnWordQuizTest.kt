@@ -75,10 +75,12 @@ class CnWordQuizTest {
                 "title",
                 "opa",
                 "opb",
+                "opc",
+                "opd",
                 "desc",
             )
 
-            writer.write("id,type,mchoice,ans,eword,title,opa,opb,desc\n")
+            writer.write("id,type,mchoice,ans,eword,title,opa,opb,opc,opd,desc\n")
 
             val beanToCsv: StatefulBeanToCsv<QuizItemLine> = StatefulBeanToCsvBuilder<QuizItemLine>(writer)
                 .withMappingStrategy(strategy)
@@ -240,10 +242,12 @@ class CnWordQuizTest {
                 "title",
                 "opa",
                 "opb",
+                "opc",
+                "opd",
                 "desc",
             )
 
-            writer.write("id,type,mchoice,ans,eword,title,opa,opb,desc\n")
+            writer.write("id,type,mchoice,ans,eword,title,opa,opb,opc,opd,desc\n")
 
             val beanToCsv: StatefulBeanToCsv<QuizItemLine> = StatefulBeanToCsvBuilder<QuizItemLine>(writer)
                 .withMappingStrategy(strategy)
