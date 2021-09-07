@@ -193,3 +193,11 @@ nrm use taobao
   >
   > Using Apache Spark as an additional engine level on top of MySQL can help to speed up the slow reporting queries and add much-needed scalability for the long running select queries. In addition, Spark can help with query caching for frequent queries.
 - [Hosting a maven repository on Github: site-maven-plugin](https://dev.to/iamthecarisma/hosting-a-maven-repository-on-github-site-maven-plugin-9ch)
+
+
+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
+
+git clone https://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@github.com/moreadgroup/moread-cloud-functions.git
+
+git remote set-url origin https://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@github.com/moreadgroup/moread-cloud-functions.git
+git remote set-url origin https://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@github.com/moreadgroup/moread-cloud-data.git
