@@ -49,7 +49,7 @@ seq,seqn,word,phonetic,exchange,trans,,,,
 48,48/1522,suit,英[sju:t. su:t],,v.适合n.套装;西服,,,,
 49,49/1522,cooperate,英[kәu'ɒpәreit],,v.合作;协作,,,,
 50,50/1522,breathe,英[bri:ð],,v.呼吸;呼气,,,,
-51,51/1522,slip,英[slip],,v.滑过;滑倒n.滑行seq,word,phonetic,exchange,trans
+51,51/1522,slip,英[slip],,v.滑过;滑倒n.滑行
 52,52/1522,slide,英[slaid],,v.滑动n.滑坡;幻灯片,,,,
 53,53/1522,restore,英[ri'stɒ:],,v.恢复;归还;修复,,,,
 54,54/1522,respond,英[ri'spɒnd],,v.答复;回答;响应,,,,
@@ -100,7 +100,7 @@ seq,seqn,word,phonetic,exchange,trans,,,,
 99,99/1522,represent,英[.repri'zent],,v.代表;表示,,,,
 100,100/1522,polish,英['pɒliʃ],,v.磨光;润色n.抛光剂,,,,
 101,101/1522,clap,英[klæp],,v.&n.鼓掌;拍手,,,,
-102,102/1522,accompany,英[ә'kʌmpәni],,v.陪伴;伴随;伴奏seq,word,phonetic,exchange,trans
+102,102/1522,accompany,英[ә'kʌmpәni],,v.陪伴;伴随;伴奏
 103,103/1522,expand,英[ik'spænd],,v.膨胀;扩大;展开,,,,
 104,104/1522,criticise,英['kritisaiz],(criticize),v.批评;批判,,,,
 105,105/1522,destroy,英[di'strɒi],,v.破坏;摧毁,,,,
@@ -151,7 +151,7 @@ seq,seqn,word,phonetic,exchange,trans,,,,
 150,150/1522,attach,英[ә'tætʃ],,v.使...依附;贴上,,,,
 151,151/1522,sink,英[siŋk],,v.下沉;下落n.水槽,,,,
 152,152/1522,restrict,英[ri'strikt],,v.限制;约束,,,,
-153,153/1522,leak,英[li:k],,v.&n泄漏;透漏;n.漏洞seq,word,phonetic,exchange,trans
+153,153/1522,leak,英[li:k],,v.&n泄漏;透漏;n.漏洞
 154,154/1522,survive,英[sә'vaiv],,v.生存;幸存;幸免于,,,,
 155,155/1522,revise,英[ri'vaiz],,v.&n.修订;校正（考前）复习,,,,
 156,156/1522,permit,英[pә'mit],,v.允许;许可n.许可证,,,,
@@ -202,7 +202,7 @@ seq,seqn,word,phonetic,exchange,trans,,,,
 201,201/1522,earn,英[ә:n],,v.赚得;获得,,,,
 202,202/1522,decorate,英['dekәreit],,v.装饰;布置;装修,,,,
 203,203/1522,load,英[lәud],,v.使...负担;加载n.负担,,,,
-204,204/1522,pursue,英[pә'sju:],,v.追求;贯彻;从事seq,word,phonetic,exchange,trans
+204,204/1522,pursue,英[pә'sju:],,v.追求;贯彻;从事
 205,205/1522,rent,英[rent],,v.租赁n.租金,,,,
 206,206/1522,compose,英[kәm'pәuz],,v.组成;创作,,,,
 207,207/1522,appeal,英[ә'pi:l],,v.&n.呼吁;申诉,,,,
@@ -253,7 +253,7 @@ seq,seqn,word,phonetic,exchange,trans,,,,
 252,252/1522,adjust,英[ә'dʒʌst],,V.调节;（使）适应;校准,,,,
 253,253/1522,appreciate,英[ә'pri:ʃieit],,V.感激;欣赏;赏识,,,,
 254,254/1522,amuse,英[ә'mju:z],,v.娱乐;消遣;逗乐,,,,
-255,255/1522,absorb,英[әb'sɒ:b],,v.吸收;吸引;使全神贯注seq,word,phonetic,exchange,trans
+255,255/1522,absorb,英[әb'sɒ:b],,v.吸收;吸引;使全神贯注
 256,256/1522,settle,英['setl],,v.安顿;定居;解决,,,,
 257,257/1522,commit,英[kә'mit],,v.犯罪;委托;保证,,,,
 258,258/1522,regard,英[ri'gɑ:d],,v.看作;考虑n.问候,,,,
@@ -304,7 +304,7 @@ seq,seqn,word,phonetic,exchange,trans,,,,
 303,303/1522,export,英[ik'spɒ:t],,v.&n.出口:输出,,,,
 304,304/1522,damage,英['dæmidʒ],,v.&n.损害;毁坏,,,,
 305,305/1522,comfort,英['kʌmfәt],,v.&n.（使）舒适;安慰,,,,
-306,306/1522,cease,英[si:s],,v.&n.停止;终止seq,word,phonetic,exchange,trans
+306,306/1522,cease,英[si:s],,v.&n.停止;终止
 307,307/1522,decline,英[di'klain],,v.&n.下降;衰落;拒绝,,,,
 308,308/1522,chat,英[tʃæt],,v.&n.闲谈;聊天,,,,
 309,309/1522,envy,英['envi],,v.&n.羡慕;忌妒,,,,
@@ -354,7 +354,7 @@ seq,seqn,word,phonetic,exchange,trans,,,,
 353,353/1522,judge,英[dʒʌdʒ],,v.判断;审判n.法官;裁判员,,,,
 354,354/1522,sail,英[seil],,v.&n.航行;起航,,,,
 355,355/1522,root,英[ru:t],,v.生根n.根;根本,,,,
-356,356/1522,conduct,英['kɔndʌkt],,v.进行;实施;指挥n.行为seq,word,phonetic,exchange,trans
+356,356/1522,conduct,英['kɔndʌkt],,v.进行;实施;指挥n.行为
 357,357/1522,tackle,英['tækl],,v.处理;对付,,,,
 358,358/1522,base,英[beis],,v.以……为基础;n.基础,,,,
 359,359/1522,spy,英[spai],,v.当间谍;侦杳n.间谍,,,,
@@ -404,7 +404,7 @@ seq,seqn,word,phonetic,exchange,trans,,,,
 403,403/1522,multiple,英['mʌltipl],,a.多样的;多元的n.倍数,,,,
 404,404/1522,diverse,英[dai'vә:s],,a.多样的;不同的;各异的,,,,
 405,405/1522,bound,英[baund],,a.被束缚的;必定的n.范围,,,,
-406,406/1522,energetic,英[.enә'dʒetik],,a.精力旺盛的;有活力的;积极的seq,word,phonetic,exchange,trans
+406,406/1522,energetic,英[.enә'dʒetik],,a.精力旺盛的;有活力的;积极的,,,,
 407,407/1522,extra,英['ekstrә],,a.额外的ad.特别地:非常,,,,
 408,408/1522,legal,英['li:gәl],,a.法律的;法定的;合法的,,,,
 409,409/1522,abnormal,英[æb'nɒ:mәl],,a.反常的;不规则的;变态的,,,,
@@ -454,7 +454,7 @@ seq,seqn,word,phonetic,exchange,trans,,,,
 453,453/1522,elderly,英['eldәli],,a.年长的;上年纪的,,,,
 454,454/1522,minor,英['mainә],,a.较小的;次要的n.辅修科目,,,,
 455,455/1522,tight,英[tait],,a.紧的;密封的ad.紧紧地,,,,
-456,456/1522,economic,英[.i:kә'nɒmik],,a.经济的;经济学的seq,word,phonetic,exchange,trans
+456,456/1522,economic,英[.i:kә'nɒmik],,a.经济的;经济学的
 457,457/1522,mental,英['mentl],,a.精神的;思想的;心智的,,,,
 458,458/1522,vast,英[vɑ:st],,a.巨大的;广阔的;,,,,
 459,459/1522,enormous,英[i'nɒ:mәs],,a.巨大的;庞大的;巨额的,,,,
@@ -494,7 +494,7 @@ seq,seqn,word,phonetic,exchange,trans,,,,
 493,493/1522,specific,英[spə'sɪfɪk],,a.明确的;具体的:特定的,,,,
 494,494/1522,internal,英[in'tә:nәl],,a.内部的;国内的,,,,
 495,495/1522,inner,英['inә],,a.里面的;内部的:内心的,,,,
-496,496/1522,comprehensiv,英[kɒmpri'hensiv],,a.综合的;全面的;广泛的,,,,
+496,496/1522,comprehensive,英[kɒmpri'hensiv],,a.综合的;全面的;广泛的,,,,
 497,497/1522,senior,英['si:njә],,a.年长的;地位较高的n.毕业班学生,,,,
 498,498/1522,critical,英['kritikәl],,a.批评的;临界的;关键的,,,,
 499,499/1522,flat,英[flæt],,a.平坦的ad.平直地n.BrE公寓,,,,
@@ -505,7 +505,7 @@ seq,seqn,word,phonetic,exchange,trans,,,,
 504,504/1522,consistent,英[kәn'sistәnt],,a.一致的;稳定的;持续的,,,,
 505,505/1522,potential,英[pә'tenʃәl],,a.潜在的;可能的n.潜能,,,,
 506,506/1522,shallow,英['ʃælәu],,a.浅的;肤浅的,,,,
-507,507/1522,intense,英[in'tens],,a.强烈的;激烈的;紧锣密鼓的seq,word,phonetic,exchange,trans
+507,507/1522,intense,英[in'tens],,a.强烈的;激烈的;紧锣密鼓的
 508,508/1522,innocent,英['inәsәnt],,a.无辜的;清白的;天真无邪的,,,,
 509,509/1522,distinct,英[dis'tiŋkt],,a.清楚的;明显的;不同的,,,,
 510,510/1522,fine,英[fain],,a.很好的;可以接受的;晴朗的v.&n.罚款,,,,
@@ -556,7 +556,7 @@ seq,seqn,word,phonetic,exchange,trans,,,,
 555,555/1522,comic,英['kɒmik],,a.喜剧的;滑稽的n.连环漫画,,,,
 556,556/1522,dramatic,英[drә'mætik],,a.戏剧的;引人瞩目的;剧烈的,,,,
 557,557/1522,strait,英[streit],,a.狭窄的n.海峡;困境,,,,
-558,558/1522,fancy,英['fænsi],,a.想象的:花俏的n.&v.幻想seq,word,phonetic,exchange,trans
+558,558/1522,fancy,英['fænsi],,a.想象的:花俏的n.&v.幻想
 559,559/1522,narrow,英['nærәu],,a.狭窄的;狭隘的,,,,
 560,560/1522,previous,英['pri:viәs],,a.以前的;早先的;ad.在...以前,,,,
 561,561/1522,delicate,英['delikәt],,a.精美的;微妙的;娇弱的,,,,
@@ -607,7 +607,7 @@ seq,seqn,word,phonetic,exchange,trans,,,,
 606,606/1522,worthwhile,英['wә:θ'hwail],,a.值得做的;合算的,,,,
 607,607/1522,professional,英[prә'feʃәnl],,a.职业的;专门的n.专家,,,,
 608,608/1522,botanical,英[bә'tænikәl],,a.植物学的;植物的,,,,
-609,609/1522,crucial,英['kru:ʃәl],,a.至关重要的;决定性的seq,word,phonetic,exchange,trans
+609,609/1522,crucial,英['kru:ʃәl],,a.至关重要的;决定性的
 610,610/1522,racial,英['reiʃәl],,a.人种的;种族的,,,,
 611,611/1522,subjective,英[sәb'dʒektiv],,a.主观的;主语的,,,,
 612,612/1522,objective,英[әb'dʒektiv],,a.客观的n.目的;目标,,,,
@@ -657,7 +657,7 @@ seq,seqn,word,phonetic,exchange,trans,,,,
 656,656/1522,rather,英['ræðә],,ad.相当;宁愿;不如说,,,,
 657,657/1522,forward,英['fɒ:wәd],,ad.向前a.向前的v.转发,,,,
 658,658/1522,fortunately,英['fɒitʃәnitli],,ad.幸运地;幸亏,,,,
-659,659/1522,definitely,英['definitli],,ad.肯定地;明确地seq,word,phonetic,exchange,trans
+659,659/1522,definitely,英['definitli],,ad.肯定地;明确地
 660,660/1522,afterward,英['ɑ:ftәwәd],,ad.以后;后来,,,,
 661,661/1522,afterwards,英['ɑ:ftәwәdz],,ad.以后;后来,,,,
 662,662/1522,somehow,英['sʌmhau],,ad.用某种方法;不知怎么地,,,,
@@ -707,7 +707,7 @@ seq,seqn,word,phonetic,exchange,trans,,,,
 706,706/1522,percent,英[pә'sent],,n.百分数;百分之,,,,
 707,707/1522,spot,英[spɒt],,n.斑点;小疙瘩v.发现,,,,
 708,708/1522,version,英['vә:ʒәn],,n.版本;译本;说法,,,,
-709,709/1522,conflict,英['kɒnflikt],,n.&v.冲突;争论;斗争seq,word,phonetic,exchange,trans
+709,709/1522,conflict,英['kɒnflikt],,n.&v.冲突;争论;斗争
 710,710/1522,format,英[ˈfɔːmæt],,n.版式;格式v.格式化,,,,
 711,711/1522,parcel,英['pɑ:sl],,n.包裹v.打包,,,,
 712,712/1522,package,英['pækidʒ],,n.包装;包裹v.打包,,,,
@@ -759,7 +759,7 @@ seq,seqn,word,phonetic,exchange,trans,,,,
 758,758/1522,kit,英[kit],,n.工具箱;用具包,,,,
 759,759/1522,castle,英['kæsl. 'kɑ:sl],,n.城堡;堡垒,,,,
 760,760/1522,procedure,英[prә'si:dʒә],,n.程序;手续;步骤,,,,
-761,761/1522,credit,英['kredit],,n.信用;贷款v.相信seq,word,phonetic,exchange,trans
+761,761/1522,credit,英['kredit],,n.信用;贷款v.相信
 762,762/1522,pond,英[pɒnd],,n.池塘;池子,,,,
 763,763/1522,duration,英[dju'reiʃәn],,n.持续;持续时间;期间,,,,
 764,764/1522,possession,英[pә'zeʃәn],,n.持有;所有权;财产,,,,
@@ -809,7 +809,7 @@ seq,seqn,word,phonetic,exchange,trans,,,,
 808,808/1522,electricity,英[.ilek'trisiti],,n.电力;电流;电学,,,,
 809,809/1522,battery,英['bætәri],,n.电池;蓄电池;炮台,,,,
 810,810/1522,initiative,英[i'niʃiәtiv],,n.主动（性/权）;法案a.主动的,,,,
-811,811/1522,rainbow,英['reinbәu],,n.彩虹seq,word,phonetic,exchange,trans
+811,811/1522,rainbow,英['reinbәu],,n.彩虹
 812,812/1522,wire,英['waiә],,D.金属丝;电线;电报v.接通,,,,
 813,813/1522,sculpture,英['skʌlptʃә],,n.雕刻;雕塑,,,,
 814,814/1522,definition,英[.defi'niʃәn],,n.定义;释义;清晰度,,,,
@@ -859,7 +859,7 @@ seq,seqn,word,phonetic,exchange,trans,,,,
 858,858/1522,golf,英[gɒlf],,n.高尔夫球,,,,
 859,859/1522,lamb,英[læm],,n.羔羊;羔羊肉,,,,
 860,860/1522,account,英[ә'kaunt],,n.账户;账目v.解释,,,,
-861,861/1522,panic,英['pænik],,n.恐慌;惊恐a.恐慌的seq,word,phonetic,exchange,trans
+861,861/1522,panic,英['pænik],,n.恐慌;惊恐a.恐慌的
 862,862/1522,opera,英['ɒpәrә],,n.歌剧;歌剧院,,,,
 863,863/1522,wage,英[weidʒ],,n.工资;周薪,,,,
 864,864/1522,institution,英[.insti'tju:ʃәn],,n.机构;制度;协会,,,,
@@ -909,7 +909,7 @@ seq,seqn,word,phonetic,exchange,trans,,,,
 908,908/1522,chorus,英['kɒ:rәs],,n.合唱队v.合唱,,,,
 909,909/1522,contract,英['kɒntrækt],,n.合同;契约v.订合同,,,,
 910,910/1522,partner,英['pɑ:tnә],,n.合伙人;伙伴;情侣,,,,
-911,911/1522,jaw,英[dʒɒ:],,n.下巴;下颌;颗seq,word,phonetic,exchange,trans
+911,911/1522,jaw,英[dʒɒ:],,n.下巴;下颌;颗
 912,912/1522,flood,英[flʌd],,n.洪水v.发洪水;涌进（出）,,,,
 913,913/1522,candidate,英['kændideit],,n.候选人;申请者;报考者,,,,
 914,914/1522,breath,英[breθ],,n.呼吸;气息;一口气,,,,
@@ -959,7 +959,7 @@ seq,seqn,word,phonetic,exchange,trans,,,,
 958,958/1522,guy,英[gai],,n.家伙;男人,,,,
 959,959/1522,furniture,英['fәnitʃә],,n.家具;装置,,,,
 960,960/1522,household,英['haushәuld],,n.家庭;住户a.家庭的;日常的,,,,
-961,961/1522,assumption,英[ә'sʌmpʃәn],,n.假定;承担seq,word,phonetic,exchange,trans
+961,961/1522,assumption,英[ә'sʌmpʃәn],,n.假定;承担
 962,962/1522,shelf,英[ʃelf],,n.架子;书架;搁板,,,,
 963,963/1522,nut,英[nʌt],,n.坚果;螺母;难对付的人或问题,,,,
 964,964/1522,resolution,英[.rezә'lu:ʃәn],,n.决议;坚定;分辨率,,,,
@@ -1009,7 +1009,7 @@ seq,seqn,word,phonetic,exchange,trans,,,,
 1008,1008/1522,alcohol,英['ælkәhɒl],,n.酒精;乙醇,,,,
 1009,1009/1522,ambulance,英['æmbjulәns],,n.救护车;急救车,,,,
 1010,1010/1522,saving,英['seiviŋ],,n.节约;储蓄;挽救,,,,
-1011,1011/1522,resident,英['rezidәnt],,n.居民;常住者a.居住的seq,word,phonetic,exchange,trans
+1011,1011/1522,resident,英['rezidәnt],,n.居民;常住者a.居住的
 1012,1012/1522,drama,英['drɑ:mә],,n.戏剧;剧本,,,,
 1013,1013/1522,distance,英['distәns],,n.距离;路程;远程v.疏远,,,,
 1014,1014/1522,hurricane,英['hә:rikәn],,n.飓风,,,,
@@ -1061,7 +1061,7 @@ seq,seqn,word,phonetic,exchange,trans,,,,
 1060,1060/1522,skateboard,英['skeitbɔ:d],,n.滑板v.用滑板滑行,,,,
 1061,1061/1522,fashion,英['fæʃәn],,n.时尚;流行;方式,,,,
 1062,1062/1522,dragon,英['drægәn],,n.龙,,,,
-1063,1063/1522,cage,英[keidʒ],,n.笼子;牢房v.把……关入牢笼seq,word,phonetic,exchange,trans
+1063,1063/1522,cage,英[keidʒ],,n.笼子;牢房v.把……关入牢笼
 1064,1064/1522,stair,英[stєә],,n.楼梯;阶梯,,,,
 1065,1065/1522,deer,英[diә],,n.鹿,,,,
 1066,1066/1522,route,英[ru:t],,n.路线;航线;路径,,,,
@@ -1111,7 +1111,7 @@ seq,seqn,word,phonetic,exchange,trans,,,,
 1110,1110/1522,steak,英[steik],,n.牛排;肉排,,,,
 1111,1111/1522,jeans,英[dʒi:nz],,n.牛仔裤,,,,
 1112,1112/1522,button,英['bʌtәn],,n.按钮;纽扣v.扣紧,,,,
-1113,1113/1522,agriculture,英['ægrikʌltʃә],,n.农业;农耕;农学seq,word,phonetic,exchange,trans
+1113,1113/1522,agriculture,英['ægrikʌltʃә],,n.农业;农耕;农学
 1114,1114/1522,effort,英['efәt],,n.努力;吃力,,,,
 1115,1115/1522,track,英[træk],,n.小路;轨迹v.跟踪,,,,
 1116,1116/1522,basin,英['beisn],,n.盆子;盆地,,,,
@@ -1161,7 +1161,7 @@ seq,seqn,word,phonetic,exchange,trans,,,,
 1160,1160/1522,fuel,英['fjuәl],,n.燃料v.加燃料,,,,
 1161,1161/1522,passion,英['pæʃәn],,n.激情;热情,,,,
 1162,1162/1522,creature,英['kri:tʃә],,n.生物;动物;家畜,,,,
-1163,1163/1522,personality,英[.pә:sә'næliti],,n.人格;性格;个性seq,word,phonetic,exchange,trans
+1163,1163/1522,personality,英[.pә:sә'næliti],,n.人格;性格;个性
 1164,1164/1522,mankind,英[mæn'kaind],,n.人类,,,,
 1165,1165/1522,directory,英[di'rektәri],,n.电话本;目录,,,,
 1166,1166/1522,crowd,英[kraud],,n.人群v.聚集;拥挤,,,,
@@ -1213,7 +1213,7 @@ seq,seqn,word,phonetic,exchange,trans,,,,
 1212,1212/1522,event,英[i'vent],,n.事件;大事;项目;活动,,,,
 1213,1213/1522,affair,英[ә'fєә],,n.事务;私事;私通,,,,
 1214,1214/1522,enterprise,英['entәpraiz],,n.企业;事业;创业,,,,
-1215,1215/1522,career,英[kә'riә],,n.职业;生涯;事业seq,word,phonetic,exchange,trans
+1215,1215/1522,career,英[kә'riә],,n.职业;生涯;事业
 1216,1216/1522,sight,英[sait],,n.视力;景象;眼界,,,,
 1217,1217/1522,vision,英['viʒәn],,n.视觉;视野;愿景,,,,
 1218,1218/1522,view,英[vju:],,n.视图;观点;风景v.考虑,,,,
@@ -1225,7 +1225,7 @@ seq,seqn,word,phonetic,exchange,trans,,,,
 1224,1224/1522,handkerchief,英['hæŋkәtʃif],,n.手帕;方巾,,,,
 1225,1225/1522,captain,英['kæptin],,n.船长;队长V.率队;指挥,,,,
 1226,1226/1522,premier,英['pri:mjә],,n.首相;总理a.首要的,,,,
-1227,1227/1522,salesman,英['seilzmәn],,)n.销售员;推销员,,,,
+1227,1227/1522,salesman,英['seilzmәn],,n.销售员;推销员,,,,
 1228,1228/1522,calligraphy,英[kә'ligrәfi],,n.书法;笔迹,,,,
 1229,1229/1522,title,英['taitl],,n.标题;头衔;所有权v.加标题,,,,
 1230,1230/1522,branch,英[bræntʃ],,n.树枝;分支v.使分叉,,,,
@@ -1265,7 +1265,7 @@ seq,seqn,word,phonetic,exchange,trans,,,,
 1264,1264/1522,tune,英[tju:n],,n.调子;曲调v.调音,,,,
 1265,1265/1522,iron,英[ˈaɪən],,n.铁;熨斗v.熨烫a.铁的,,,,
 1266,1266/1522,audience,英['ɒ:diәns],,n.听众;读者;观众,,,,
-1267,1267/1522,parking,英['pɑ:kiŋ],,n.停车;泊车seq,word,phonetic,exchange,trans
+1267,1267/1522,parking,英['pɑ:kiŋ],,n.停车;泊车
 1268,1268/1522,league,英[li:g],,n.联赛;联盟V.结盟,,,,
 1269,1269/1522,sympathy,英['simpәθi],,n.同情;关心;同感,,,,
 1270,1270/1522,theft,英[θeft],,n.偷窃;盗窃罪,,,,
@@ -1317,7 +1317,7 @@ seq,seqn,word,phonetic,exchange,trans,,,,
 1316,1316/1522,theatre,英[ˈθɪətə(r)],,n.戏院;剧院;电影院,,,,
 1317,1317/1522,system,英[ˈsɪstəm],,n.系统;制度;方法,,,,
 1318,1318/1522,cell,英[sel],,n.细胞;小房间;电池,,,,
-1319,1319/1522,detail,英['di:teil],,n.细节;详情v.详述seq,word,phonetic,exchange,trans
+1319,1319/1522,detail,英['di:teil],,n.细节;详情v.详述
 1320,1320/1522,priority,英[prai'ɒriti],,n.优先;优先考虑;当务之急,,,,
 1321,1321/1522,pioneer,英[.paiә'niә],,n.先锋;开拓者v.开辟,,,,
 1322,1322/1522,fibre,英['faibә],(fiber),n.纤维;纤维组织,,,,
@@ -1368,7 +1368,7 @@ seq,seqn,word,phonetic,exchange,trans,,,,
 1367,1367/1522,boot,英[bu:t],,n.靴子v.（启动）计算机,,,,
 1368,1368/1522,fee,英[fi:],,n.费用;报酬;服务费,,,,
 1369,1369/1522,institute,英['institju:t],,n.学院;机构;v.创立,,,,
-1370,1370/1522,trial,英['traiәl],,n.审判;实验;审讯a.实验的seq,word,phonetic,exchange,trans
+1370,1370/1522,trial,英['traiәl],,n.审判;实验;审讯a.实验的
 1371,1371/1522,pressure,英['preʃә],,n.压力;压强V.迫使,,,,
 1372,1372/1522,stress,英[stres],,n.压力;全要性v.强调,,,,
 1373,1373/1522,rhyme,英[raim],,n.韵律;押韵;儿歌v.押韵,,,,
@@ -1420,7 +1420,7 @@ seq,seqn,word,phonetic,exchange,trans,,,,
 1419,1419/1522,badminton,英['bædmintәn],,n.羽毛球,,,,
 1420,1420/1522,expectation,英[.ekspek'teiʃәn],,n.预期;期望;指望,,,,
 1421,1421/1522,budget,英['bʌdʒit],,n.预算v.做预算,,,,
-1422,1422/1522,ambition,英[æm'biʃәn],,n.雄心;抱负;野心seq,word,phonetic,exchange,trans
+1422,1422/1522,ambition,英[æm'biʃәn],,n.雄心;抱负;野心
 1423,1423/1522,element,英['elimәnt],,n.元素;要素;成分,,,,
 1424,1424/1522,principle,英['prinsipl],,n.原理;原则;法则,,,,
 1425,1425/1522,stuff,英[stʌf],,n.材料;东西v.填塞,,,,
@@ -1471,7 +1471,7 @@ seq,seqn,word,phonetic,exchange,trans,,,,
 1470,1470/1522,nail,英[neil],,n.指甲;钉子V.将……钉牢,,,,
 1471,1471/1522,uniform,英['ju:nifɒ:m],,n.制服a.统一的;相同的,,,,
 1472,1472/1522,quality,英['kwɒlәti],,n.质量;品质;素质,,,,
-1473,1473/1522,wisdom,英['wizdәm],,n.智慧;知识;学问seq,word,phonetic,exchange,trans
+1473,1473/1522,wisdom,英['wizdәm],,n.智慧;知识;学问
 1474,1474/1522,centre,英['sentә],(center),n.中心v.集中;以…为中心,,,,
 1475,1475/1522,category,英['kætigәri],,n.种类:范畴,,,,
 1476,1476/1522,sort,英[sɒ:t],,n.种类;排序V.分类:整理,,,,
