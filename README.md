@@ -208,4 +208,6 @@ git remote set-url origin https://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@githu
 - [Tutorial 6: Moving from words to phrases when doing NLP](https://www.youtube.com/watch?v=OgYXtg0ht6s)
 - [Four of the easiest and most effective methods to Extract Keywords from a Single Text using Python](https://www.analyticsvidhya.com/blog/2022/01/four-of-the-easiest-and-most-effective-methods-of-keyword-extraction-from-a-single-text-using-python/)
 - [What is Bag of Words?](https://www.mygreatlearning.com/blog/bag-of-words/)
-
+- [How to Extract the Text From Any Image](https://www.wired.com/story/how-to-extract-text-from-any-image/)
+- [10 Best Free Extract Text From Images Software For Windows](https://listoffreeware.com/free-extract-text-from-images-software-windows/)
+- 
