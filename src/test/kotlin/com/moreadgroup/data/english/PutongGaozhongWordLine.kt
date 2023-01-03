@@ -4,16 +4,13 @@ package com.moreadgroup.data.english
  * @Author conan8chan@yahoo.com
  * @Date 1/3/23/T2:39 PM-Tuesday
  */
-data class EnWordLine(
+data class PutongGaozhongWordLine(
 
-    // seq,seqn,word,phonetic,exchange,trans
+    // word,exchange,mark
 
-    val seq: String?=null,
-    val seqn: String?=null,
     val word: String?=null,
-    val phonetic: String?=null,
-    val exchange:String?=null,
-    val trans:String?=null,
+    val exchange: String?=null,
+    val mark: String?=null,
 
     ) {
 

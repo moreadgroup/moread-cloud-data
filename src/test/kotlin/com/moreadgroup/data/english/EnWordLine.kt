@@ -1,19 +1,19 @@
-package com.moreadgroup.data.chinese
+package com.moreadgroup.data.english
 
 /**
  * @Author conan8chan@yahoo.com
- * @Date 8/24/21T5:00 PM-Tuesday
+ * @Date 1/3/23/T2:39 PM-Tuesday
  */
-data class CnWordLine(
+data class EnWordLine(
 
-    // seq,word,pinyins,strokes,strokesok,explanation
+    // seq,seqn,word,phonetic,exchange,trans
 
     val seq: String?=null,
+    val seqn: String?=null,
     val word: String?=null,
-    val pinyins: String?=null,
-    val strokes: String?=null,
-    val strokesok:String?=null,
-    val explanation:String?=null,
+    val phonetic: String?=null,
+    val exchange:String?=null,
+    val trans:String?=null,
 
     ) {
 
