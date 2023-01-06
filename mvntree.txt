@@ -1,0 +1,107 @@
+[INFO] Scanning for projects...
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.moreadgroup:moread-cloud-data:jar:1.0-SNAPSHOT
+[WARNING] 'dependencies.dependency.(groupId:artifactId:type:classifier)' must be unique: org.jetbrains.kotlin:kotlin-stdlib:jar -> version ${kotlin.version} vs 1.4.32 @ line 103, column 21
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing. @ line 173, column 21
+[WARNING] 
+[WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.
+[WARNING] 
+[WARNING] For this reason, future Maven versions might no longer support building such malformed projects.
+[WARNING] 
+[INFO] 
+[INFO] -----------------< com.moreadgroup:moread-cloud-data >------------------
+[INFO] Building moread-cloud-data 1.0-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ moread-cloud-data ---
+[INFO] com.moreadgroup:moread-cloud-data:jar:1.0-SNAPSHOT
+[INFO] +- com.moreadgroup:apiclient-graphql:jar:1.0-SNAPSHOT:compile
+[INFO] |  +- io.projectreactor:reactor-core:jar:3.4.5:compile
+[INFO] |  |  \- org.reactivestreams:reactive-streams:jar:1.0.3:compile
+[INFO] |  \- com.apollographql.apollo:apollo-runtime:jar:2.5.5:compile
+[INFO] |     +- com.apollographql.apollo:apollo-api-jvm:jar:2.5.5:compile
+[INFO] |     +- com.apollographql.apollo:apollo-normalized-cache-jvm:jar:2.5.5:compile
+[INFO] |     |  +- com.apollographql.apollo:apollo-normalized-cache-api-jvm:jar:2.5.5:compile
+[INFO] |     |  |  \- com.benasher44:uuid-jvm:jar:0.2.0:compile
+[INFO] |     |  \- com.nytimes.android:cache:jar:2.0.2:runtime
+[INFO] |     +- com.apollographql.apollo:apollo-http-cache-api:jar:2.5.5:compile
+[INFO] |     \- com.squareup.okhttp3:okhttp:jar:3.12.11:compile
+[INFO] +- com.jayway.jsonpath:json-path:jar:2.4.0:compile
+[INFO] |  +- net.minidev:json-smart:jar:2.3:compile
+[INFO] |  |  \- net.minidev:accessors-smart:jar:1.2:compile
+[INFO] |  |     \- org.ow2.asm:asm:jar:5.0.4:compile
+[INFO] |  \- org.slf4j:slf4j-api:jar:1.7.25:compile
+[INFO] +- org.apache.commons:commons-text:jar:1.9:compile
+[INFO] |  \- org.apache.commons:commons-lang3:jar:3.11:compile
+[INFO] +- com.opencsv:opencsv:jar:5.3:compile
+[INFO] |  +- commons-beanutils:commons-beanutils:jar:1.9.4:compile
+[INFO] |  |  +- commons-logging:commons-logging:jar:1.2:compile
+[INFO] |  |  \- commons-collections:commons-collections:jar:3.2.2:compile
+[INFO] |  \- org.apache.commons:commons-collections4:jar:4.4:compile
+[INFO] +- org.jetbrains.kotlin:kotlin-stdlib:jar:1.4.32:compile
+[INFO] |  +- org.jetbrains.kotlin:kotlin-stdlib-common:jar:1.4.32:compile
+[INFO] |  \- org.jetbrains:annotations:jar:13.0:compile
+[INFO] +- org.jetbrains.kotlin:kotlin-test-junit:jar:1.6.21:test
+[INFO] |  \- org.jetbrains.kotlin:kotlin-test:jar:1.6.21:test
+[INFO] +- junit:junit:jar:4.13.2:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.3:test
+[INFO] +- org.jetbrains.kotlin:kotlin-maven-plugin:jar:1.6.21:provided
+[INFO] |  +- org.apache.maven:maven-core:jar:3.0.5:provided
+[INFO] |  |  +- org.apache.maven:maven-model:jar:3.0.5:provided
+[INFO] |  |  +- org.apache.maven:maven-settings:jar:3.0.5:provided
+[INFO] |  |  +- org.apache.maven:maven-settings-builder:jar:3.0.5:provided
+[INFO] |  |  +- org.apache.maven:maven-repository-metadata:jar:3.0.5:provided
+[INFO] |  |  +- org.apache.maven:maven-artifact:jar:3.0.5:provided
+[INFO] |  |  +- org.apache.maven:maven-model-builder:jar:3.0.5:provided
+[INFO] |  |  +- org.apache.maven:maven-aether-provider:jar:3.0.5:provided
+[INFO] |  |  |  \- org.sonatype.aether:aether-spi:jar:1.13.1:provided
+[INFO] |  |  +- org.sonatype.aether:aether-impl:jar:1.13.1:provided
+[INFO] |  |  +- org.sonatype.aether:aether-api:jar:1.13.1:provided
+[INFO] |  |  +- org.sonatype.aether:aether-util:jar:1.13.1:provided
+[INFO] |  |  +- org.sonatype.sisu:sisu-inject-plexus:jar:2.3.0:provided
+[INFO] |  |  |  \- org.sonatype.sisu:sisu-inject-bean:jar:2.3.0:provided
+[INFO] |  |  |     \- org.sonatype.sisu:sisu-guice:jar:no_aop:3.1.0:provided
+[INFO] |  |  |        \- org.sonatype.sisu:sisu-guava:jar:0.9.9:provided
+[INFO] |  |  +- org.codehaus.plexus:plexus-interpolation:jar:1.14:provided
+[INFO] |  |  +- org.codehaus.plexus:plexus-utils:jar:2.0.6:provided
+[INFO] |  |  +- org.codehaus.plexus:plexus-classworlds:jar:2.4:provided
+[INFO] |  |  +- org.codehaus.plexus:plexus-component-annotations:jar:1.5.5:provided
+[INFO] |  |  \- org.sonatype.plexus:plexus-sec-dispatcher:jar:1.3:provided
+[INFO] |  |     \- org.sonatype.plexus:plexus-cipher:jar:1.4:provided
+[INFO] |  +- org.apache.maven:maven-plugin-api:jar:3.0.5:provided
+[INFO] |  +- org.apache.maven.plugin-tools:maven-plugin-annotations:jar:3.4:provided
+[INFO] |  +- org.jetbrains.kotlin:kotlin-compiler:jar:1.6.21:provided
+[INFO] |  |  +- org.jetbrains.kotlin:kotlin-script-runtime:jar:1.6.21:provided
+[INFO] |  |  \- org.jetbrains.intellij.deps:trove4j:jar:1.0.20200330:provided
+[INFO] |  +- org.jetbrains.kotlin:kotlin-scripting-compiler:jar:1.6.21:provided
+[INFO] |  |  +- org.jetbrains.kotlin:kotlin-scripting-common:jar:1.6.21:provided
+[INFO] |  |  +- org.jetbrains.kotlin:kotlin-scripting-jvm:jar:1.6.21:provided
+[INFO] |  |  \- org.jetbrains.kotlin:kotlin-scripting-compiler-impl:jar:1.6.21:provided
+[INFO] |  \- org.apache.maven.plugins:maven-compiler-plugin:jar:3.5.1:provided
+[INFO] |     +- org.apache.maven:maven-toolchain:jar:2.2.1:provided
+[INFO] |     +- org.apache.maven.shared:maven-shared-utils:jar:3.0.0:provided
+[INFO] |     |  +- commons-io:commons-io:jar:2.4:provided
+[INFO] |     |  \- com.google.code.findbugs:jsr305:jar:2.0.1:runtime
+[INFO] |     +- org.apache.maven.shared:maven-shared-incremental:jar:1.1:provided
+[INFO] |     +- org.codehaus.plexus:plexus-compiler-api:jar:2.7:provided
+[INFO] |     +- org.codehaus.plexus:plexus-compiler-manager:jar:2.7:provided
+[INFO] |     \- org.codehaus.plexus:plexus-compiler-javac:jar:2.7:provided
+[INFO] +- com.fasterxml.jackson.core:jackson-annotations:jar:2.13.0:compile
+[INFO] +- com.fasterxml.jackson.core:jackson-databind:jar:2.13.0:compile
+[INFO] |  \- com.fasterxml.jackson.core:jackson-core:jar:2.13.0:compile
+[INFO] +- org.jetbrains.kotlin:kotlin-stdlib-jdk8:jar:1.4.32:compile
+[INFO] |  \- org.jetbrains.kotlin:kotlin-stdlib-jdk7:jar:1.4.32:compile
+[INFO] +- com.github.stuxuhai:jpinyin:jar:1.1.8:compile
+[INFO] +- com.squareup.moshi:moshi:jar:1.12.0:compile
+[INFO] |  \- com.squareup.okio:okio:jar:2.10.0:compile
+[INFO] +- com.squareup.moshi:moshi-kotlin:jar:1.12.0:compile
+[INFO] |  \- org.jetbrains.kotlin:kotlin-reflect:jar:1.4.31:compile
+[INFO] +- com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:jar:2.13.0:compile
+[INFO] |  \- org.yaml:snakeyaml:jar:1.28:compile
+[INFO] \- com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.13.0:compile
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  2.535 s
+[INFO] Finished at: 2023-01-06T11:52:58+08:00
+[INFO] ------------------------------------------------------------------------
