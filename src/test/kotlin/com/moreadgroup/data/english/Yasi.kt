@@ -13,7 +13,7 @@ data class YasiWord(
     val samples: Array<String>?,
     val same: String?,
     val antonym: String?,
-    val exchange:String?
+    val derive:String?
     ) {
     constructor() : this("", arrayOf(),"", "", "", "", arrayOf(), "", "","")
 //
