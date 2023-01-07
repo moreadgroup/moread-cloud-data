@@ -43,7 +43,7 @@ words:
     trans: vt. 废止，废除
     samples: 
       - 例 The ancient Olympics were abolished by the Roman Emperor Theodosius in 393 AD, after Greece lost its independence. 在希腊丧失主权之后，罗马皇帝狄奥多西于公元393 年废除了古代奥林匹克运动会。
-    same: 同 annul(vt. 废除，取消)；destroy(vt. 破坏，消灭)
+    synonyms: 同 annul(vt. 废除，取消)；destroy(vt. 破坏，消灭)
   - word: abound
     tags: [常见]
     phonetic: 【əˈbaʊnd】
@@ -103,7 +103,7 @@ words:
     samples: 
       - 例 Wearing a swimming suit during a snowstormis absurd. 下雪天穿泳装可真荒唐。
     derive: 派 absurdism(n. 荒诞主义)
-    same: 同 ridiculous(a. 荒谬的，可笑的)
+    synonyms: 同 ridiculous(a. 荒谬的，可笑的)
   - word: abundance
     tags: [常见]
     phonetic: 【əˈbʌndəns】
@@ -112,7 +112,7 @@ words:
     collocation: 搭 in abundance 丰富
     samples: 
       - 例 At the party, there was food and drink inabundance. 宴会上，食品和饮料供应充足。
-    same: 同 profusion(n. 丰富)；affluence(n. 富足)；wealth(n. 大量) 
+    synonyms: 同 profusion(n. 丰富)；affluence(n. 富足)；wealth(n. 大量) 
     antonym: 反 scarcity(n. 缺乏，不足)；deficiency(n. 缺少)
   - word: abuse
     tags: [常见]
@@ -171,7 +171,7 @@ words:
     samples: 
       - 例 There's lots to see and to do, including the internationally- acclaimed climbing wall built on the site of the old aquarium. 这里有很多可看的和可玩的，其中包括那个建在水族馆旧址上享誉世界的攀岩墙。
     derive: 派 acclaimed(a. 受欢呼的，受称赞的)
-    same: 同 cheer(v. 欢呼，喝彩)
+    synonyms: 同 cheer(v. 欢呼，喝彩)
   - word: acclimatise
     tags: [常见]
     phonetic: 【əˈklaɪmətaɪz】
@@ -286,7 +286,7 @@ words:
     trans: vt. (使)认识；(使)熟悉
     samples: 
       - 例 Film provides an ideal opportunity toacquaint viewers with something unknown. 电影给观众提供了一个了解未知事物的绝佳机会。
-    same: 同 inform(v. 通知，告知)
+    synonyms: 同 inform(v. 通知，告知)
   - word: acquaintance 
     phonetic: 【əˈkweɪntəns】
     trans: n. 熟人；认识，了解
@@ -419,7 +419,7 @@ words:
     trans: a. 邻近的，毗连的
     samples: 
       - 例 People living in houses adjacent to the airport are tormented by noise for years. 住在机场附近的居民常年受到噪音的折磨。
-    same: 同 adjoining(a. 邻接的)；contiguous(a. 接近的)
+    synonyms: 同 adjoining(a. 邻接的)；contiguous(a. 接近的)
     antonym: 反 detached(a. 分开的)；separate(a. 个别的，单独的)
   - word: adjunct 
     phonetic: 【ˈædʒʌŋkt】
@@ -553,7 +553,7 @@ words:
     collocation: 搭 adverse circumstances 逆境
     samples: 
       - 例 Smoking can produce substantial adverse effects on the heart and lungs. 吸烟会对人的心脏和肺造成严重的危害。
-    same: 同 unfavorable(a. 不利的)；harmful(a. 有害的)
+    synonyms: 同 unfavorable(a. 不利的)；harmful(a. 有害的)
   - word: advertise
     tags: [常见]
     phonetic: 【ˈædvətaɪz】
@@ -640,7 +640,7 @@ words:
     collocation: 搭 be afflicted with/by 被…折磨
     samples: 
       - 例 Financial difficulties afflicted the Smiths. 经济问题困扰着史密斯一家。
-    same: 同 torment(vt. 折磨)；torture(vt. 拷问，折磨)
+    synonyms: 同 torment(vt. 折磨)；torture(vt. 拷问，折磨)
   - word: afflicting 
     phonetic: 【əˈflɪktɪŋ】
     trans: a. 痛苦的
@@ -690,7 +690,7 @@ words:
     samples: 
       - 例 The pollution problems in the area will be further aggravated by the heavy industry. 重工业的发展将使该地区的污染问题进一步恶 化。
     derive: 派 aggravated(a. 恶化的，加重的；罪行严重的)
-    same: 同 burden(vt. 使担负)；increase(v. 增加)
+    synonyms: 同 burden(vt. 使担负)；increase(v. 增加)
     antonym: 反 decrease(v. 减少)；lessen(v. 减少，减轻)
   - word: aggravation 
     phonetic: 【ˌægrəˈveɪʃn】
@@ -706,7 +706,7 @@ words:
     samples: 
       - 例 The incentive for the more aggressive use of rockets came not from within the Europeancontinent but from far-away India. 将火箭用作更具攻击性武器的动机并非来自欧洲大陆，而是来自遥远的印度。
     derive: 派 aggressively(ad. 放肆地)
-    same: 同 militant(a. 好战的)；enterprising(a. 有进取心的)
+    synonyms: 同 militant(a. 好战的)；enterprising(a. 有进取心的)
   - word: aggressiveness
     tags: [常见]
     phonetic: 【əˈgresɪvnɪs】
@@ -786,7 +786,7 @@ words:
     samples: 
       - 例 Very talented people may feel alienated fromthe public. 天才出众的人可能觉得与大众格格不入。
     derive: 派 alienated(a. 疏远的，被隔开的)
-    same: 同 estrange(vt. 使疏远)
+    synonyms: 同 estrange(vt. 使疏远)
   - word: alienation
     tags: [常见]
     phonetic: 【ˌeɪliəˈneɪʃn】
@@ -860,7 +860,7 @@ words:
     samples: 
       - 例 According to the statistics, the allure of the big city has weakened because of high housingprices. 数据显示，高房价降低了大城市的吸引力。
     derive: 派 alluring(a. 有吸引力的，迷人的)
-    same: 同 charm(n. 魅力)；attract(vt. 吸引)
+    synonyms: 同 charm(n. 魅力)；attract(vt. 吸引)
   - word: alluvial
     tags: [常见]
     phonetic: 【əˈluːviəl】
@@ -997,7 +997,7 @@ words:
     tips: 记 词根记忆：ampl(大) + ify(使…) → 放大
     samples: 
       - 例 Let me amplify so that you will understandthe overall problem. 让我来详细解释一下，这样你就会理解整个问题了。
-    same: 同 expand(v. 使膨胀；扩张)；increase(v. 增加)
+    synonyms: 同 expand(v. 使膨胀；扩张)；increase(v. 增加)
     antonym: 反 deflate(vt. 放气；使缩小)；shrink(v. 缩小)
   - word: analogous
     tags: [常见]
@@ -1015,7 +1015,7 @@ words:
     samples: 
       - 例 Most of the time, it is easier for us toillustrate an abstract concept by analogy withsomething concrete. 大多数情况下，我们更易于通过与具体有形的东西进行类比来理解某个抽象的概念。
     derive: 派 analogue(a. 模拟的)
-    same: 同 likeness(n. 相似)
+    synonyms: 同 likeness(n. 相似)
   - word: analyse
     tags: [常见]
     phonetic: 【ˈænəlaɪz】
@@ -1059,7 +1059,7 @@ words:
     samples: 
       - 例 The ancient Greeks used lenses toconcentrate the sun's rays on dry leaves to light fire. 古希腊人用透镜将太阳光聚集在干树叶上生火。
       - 例 In many parts of Australia, standing water —that is dams, puddles and so forth — dry uprapidly. 澳大利亚大部分地方的积水，即水库、水坑等地的水，干得很快。
-    same: 同 antique(a. 古老的)
+    synonyms: 同 antique(a. 古老的)
     antonym: 反 modern(a. 现代的) and so forth 等等
   - word: anecdotal
     tags: [常见]
@@ -1221,7 +1221,7 @@ words:
     collocation: 搭 appeal for 请求；appeal to 诉诸；吸引
     samples: 
       - 例 You should read things that appeal to you. 你应该阅读一些让你感兴趣的东西。
-    same: 同 accuse(vt. 控告)
+    synonyms: 同 accuse(vt. 控告)
   - word: appear
     tags: [常见]
     phonetic: 【əˈpɪə(r)】
@@ -1520,7 +1520,7 @@ words:
     tips: 记 词根记忆：as + cert(确定) + ain → 弄清，查明；确定
     samples: 
       - 例 It must be ascertained whether he is the property owner before you make a downpayment. 在交首付之前，你必须查明他是否为该房产的业主。
-    same: 同 discover(v. 发现)；clarify(v. 澄清)
+    synonyms: 同 discover(v. 发现)；clarify(v. 澄清)
     antonym: 反 conceal(vt. 隐瞒)；cover(v. 掩盖)
   - word: ascribe 
     phonetic: 【əˈskraɪb】
@@ -1582,7 +1582,7 @@ words:
     samples: 
       - 例 The arrested offender continued to assert that she was innocent. 被捕的罪犯仍然在强调她是清白的。
     derive: 派 assertive(a. 断言的；武断的)；assertiveness(n. 坚定而自信，果断)；assertion(n. 断言；主张)
-    same: 同 declare(v. 断言，宣称)；protest(v. 断言)；avow(v. 承认，宣称)
+    synonyms: 同 declare(v. 断言，宣称)；protest(v. 断言)；avow(v. 承认，宣称)
   - word: assess
     tags: [常见]
     phonetic: 【əˈses】
@@ -1622,7 +1622,7 @@ words:
     tips: 记 词根记忆：as + simil(相同) + ate(使…) →使相同→ 使同化
     samples: 
       - 例 We assimilate some kinds of food more easily than others. 和其他食物相比，有些食物更容易被吸收。
-    same: 同 absorb(vt. 吸收)；digest(v. 消化)
+    synonyms: 同 absorb(vt. 吸收)；digest(v. 消化)
   - word: assimilation 
     phonetic: 【əˌsɪməˈleɪʃn】
     trans: n. 吸收；(被)吸收和同化的过程
@@ -1878,7 +1878,7 @@ words:
     collocation: 搭 attribute to 归结于，归功于，因为
     samples: 
       - 例 The global increase in greenhouse gases has been attributed to industrial pollution indeveloped countries. 全球温室气体的增加归咎于发达国家的工业污染。
-    same: 同 ascribe(vt. 归因于，归咎于)；quality(n. 质量，性质)
+    synonyms: 同 ascribe(vt. 归因于，归咎于)；quality(n. 质量，性质)
   - word: audacious
     tags: [常见]
     phonetic: 【ɔːˈdeɪʃəs】
@@ -1926,7 +1926,7 @@ words:
     samples: 
       - 例 Scientists have derived authentic data about the age of the skeleton from carbon dating tests. 科学家利用碳定年法得出了这具骨架的准确年代。
     derive: 派 authenticity(n. 真实性，可靠性)
-    same: 同 real(a. 真的)；genuine(a. 真实的)
+    synonyms: 同 real(a. 真的)；genuine(a. 真实的)
     antonym: 反 artificial(a. 人造的，假的)；fake(a. 假的)
   - word: authenticate 
     phonetic: 【ɔːˈθentɪkeɪt】
@@ -2010,7 +2010,7 @@ words:
     tips: 记 词根记忆：a(对) + veng(惩戒) + e → 对某人进行惩戒→ 报仇，复仇，向(某人)报仇
     samples: 
       - 例 Study shows that some people are likely toavenge society once they are treated unequally. 研究发现，一些人一旦受到不公平的待遇，就很可能报复社会。
-    same: 同 revenge(v. 复仇)
+    synonyms: 同 revenge(v. 复仇)
   - word: avenue 
     phonetic: 【ˈævənjuː】
     trans: n. 林阴道，大街；方法，途径
@@ -2095,7 +2095,7 @@ words:
     trans: n. 徽章；标记；象征
     samples: 
       - 例 Are there any marks or badges on your briefcase that make it stand out? 你的公文包上是否有什么记号或标记能让它区别于其他公文包？
-    same: 同 token(n. 象征；记号)；mark(n. 标志，记号)
+    synonyms: 同 token(n. 象征；记号)；mark(n. 标志，记号)
   - word: badminton 
     phonetic: 【ˈbædmɪntən】
     trans: n. 羽毛球
@@ -2109,7 +2109,7 @@ words:
     samples: 
       - 例 All of us are baffled why she didn't give us the notice. 我们都很困惑她为什么没有通知我们。
     derive: 派 bafflement (n. 迷惑不解)
-    same: 同 disconcert(vt. 使为难)
+    synonyms: 同 disconcert(vt. 使为难)
   - word: balance
     tags: [常见]
     phonetic: 【ˈbæləns】
@@ -2233,7 +2233,7 @@ words:
     collocation: 搭 barren land 不毛之地；a barren effort 无用之功
     samples: 
       - 例 Geographers made great efforts to find that millions of years ago the region was a barrendesert. 地理学家经过极大的努力发现，数百万年前该地区是一片荒芜的沙漠。
-    same: 同 fruitless(a. 不结果实的；徒劳的)；devoid(a. 全无的，缺乏的)；lacking(a. 缺乏的)
+    synonyms: 同 fruitless(a. 不结果实的；徒劳的)；devoid(a. 全无的，缺乏的)；lacking(a. 缺乏的)
     antonym: 反 fertile(a. 肥沃的，富饶的；多产的)；fecund(a. 多产的，丰饶的)
   - word: barrier
     tags: [常见]
@@ -2347,7 +2347,7 @@ words:
     collocation: 搭 be beneficial to 对…有益、有利；mutuallybeneficial 互惠的
     samples: 
       - 例 How beneficial do you think it would be togroup students according to their level of ability? 你认为把学生按照能力的高低分组的做法有多大益处？
-    same: 同 advantageous(a. 有利的)
+    synonyms: 同 advantageous(a. 有利的)
     antonym: 反 harmful(a. 有害的)；baleful(a. 有害的，恶意的)
   - word: benefit
     tags: [常见]
@@ -2396,7 +2396,7 @@ words:
     collocation: 搭 betray oneself 原形毕露
     samples: 
       - 例 If you treat him as a friend, he will treat youwell and will never betray you. 如果你把他当作朋友，他就会对你很好而且绝对不会背叛你。
-    same: 同 reveal(vt. 揭示；暴露)
+    synonyms: 同 reveal(vt. 揭示；暴露)
   - word: beverage
     tags: [常见]
     phonetic: 【ˈbevərɪdʒ】
@@ -2418,7 +2418,7 @@ words:
     samples: 
       - 例 His sudden change of mood completelybewildered me. 他情绪突然转变使我完全摸不着头脑。
     derive: 派 bewilderment(n. 困惑，迷惑)；bewildering(a. 令人困惑的)
-    same: 同 puzzle(vt. 使迷惑，为难)；confuse(vt. 使糊涂)
+    synonyms: 同 puzzle(vt. 使迷惑，为难)；confuse(vt. 使糊涂)
   - word: beyond
     tags: [常见]
     phonetic: 【bɪ ˈjɒnd】
@@ -2520,7 +2520,7 @@ words:
     collocation: 搭 a bizarre story 怪诞的故事
     samples: 
       - 例 The story has a certain bizarre interest. 这个故事有一种怪诞的趣味。
-    same: 同 fantastic(a. 奇异的；荒谬的)；outlandish(a. 古怪的，奇异的)
+    synonyms: 同 fantastic(a. 奇异的；荒谬的)；outlandish(a. 古怪的，奇异的)
   - word: blade
     tags: [常见]
     phonetic: 【bleɪd】
@@ -2574,7 +2574,7 @@ words:
     collocation: 搭 a bleak wind 寒风；a bleak prospect 前景暗淡
     samples: 
       - 例 It's reported that many Americans faced a financially bleak Christmas last year because of the financial crisis. 据报道，由于金融危机，很多美国人在去年的圣诞节遭遇财政寒冬。
-    same: 同 cold(a. 冷淡的)；raw(a. 阴冷的)；dismal(a. 阴沉的，凄凉的)
+    synonyms: 同 cold(a. 冷淡的)；raw(a. 阴冷的)；dismal(a. 阴沉的，凄凉的)
   - word: blend
     tags: [常见]
     phonetic: 【blend】
@@ -2654,7 +2654,7 @@ words:
     tips: 记 联想记忆：book(书) + let(表小东西) → 小册子
     samples: 
       - 例 If you look on the back of the booklet, you'll see a map of the school. 看一下这本小册子的背面，你就会看到这所学校的地图。
-    same: 同 pamphlet(n. 小册子)
+    synonyms: 同 pamphlet(n. 小册子)
   - word: bookrest
     tags: [常见]
     phonetic: 【ˈbʊkrest】
@@ -2780,7 +2780,7 @@ words:
     tips: 记 来自词组break down(打破，破坏)
     samples: 
       - 例 Gloomy people are likely to suffer from a nervous breakdown. 忧郁的人容易精神崩溃。
-    same: 同 disintegration(n. 瓦解)；classification(n. 分类)
+    synonyms: 同 disintegration(n. 瓦解)；classification(n. 分类)
   - word: breakthrough 
     phonetic: 【ˈbreɪkθruː】
     trans: n. 突破；重大进展
@@ -2875,7 +2875,7 @@ words:
     tips: 记 联想记忆：这一窝(brood) 小鸡是同一个品种(breed)
     samples: 
       - 例 In the brood chamber, the bees will stashhoney to eat later.蜜蜂在巢箱中贮藏蜂蜜，以供日后食用。
-    same: 同 meditate(v. 想，考虑)；hatch(v. 孵化)
+    synonyms: 同 meditate(v. 想，考虑)；hatch(v. 孵化)
   - word: broom 
     phonetic: 【bruːm】
     trans: n. 扫帚
@@ -2889,7 +2889,7 @@ words:
     samples: 
       - 例 Vera browsed the shelves for somethinginteresting to read. 薇拉浏览了一下书架，希望找到一些有意思的读物。
     derive: 派 browser(n. 浏览器；吃嫩叶的动物；浏览图书报刊者)
-    same: 同 skim(v. 浏览，略读)；graze(v. 放牧，吃草)
+    synonyms: 同 skim(v. 浏览，略读)；graze(v. 放牧，吃草)
   - word: brunt
     tags: [常见]
     phonetic: 【brʌnt】
@@ -2905,7 +2905,7 @@ words:
     samples: 
       - 例 It was not the first time to report the brutal treatment towards prisoners by American army. 这已经不是第一次报道美军虐待战俘的情况了。
     derive: 派 brutality(n. 残酷，兽行)
-    same: 同 cruel(a. 残忍的，残暴的，兽性的)；bestial(a. 野兽的，兽性的，残忍的)；feral(a. 野蛮的，凶猛的)
+    synonyms: 同 cruel(a. 残忍的，残暴的，兽性的)；bestial(a. 野兽的，兽性的，残忍的)；feral(a. 野蛮的，凶猛的)
   - word: bubble 
     phonetic: 【ˈbʌbl】
     trans: vi. 冒泡，起泡；发出冒泡的声音n.泡，泡沫；气泡；幻想的计划
@@ -2984,7 +2984,7 @@ words:
     tips: 记 联想记忆：他仗着自己力大如公牛(bull) 欺负(bully)别人
     samples: 
       - 例 When confronted with bullying and threats, most of the people will choose to give in or keepsilent. 当面对恐吓和威胁时，大多数人选择屈服或沉默。
-    same: 同 intimidate(vt. 恐吓，威胁)；bluster(n./v. 威吓，吓唬)
+    synonyms: 同 intimidate(vt. 恐吓，威胁)；bluster(n./v. 威吓，吓唬)
   - word: bump
     tags: [常见]
     phonetic: 【bʌmp】
@@ -3059,7 +3059,7 @@ words:
     tips: 记 来自词组pass by(经过)
     samples: 
       - 例 If we take the bypass, we'll avoid the towncentre. 我们走小路的话，就能绕开镇中心。
-    same: 同 circumvent(vt. 绕行，避开)
+    synonyms: 同 circumvent(vt. 绕行，避开)
   - word: cable
     tags: [常见]
     phonetic: 【ˈkeɪbl】
@@ -3329,7 +3329,7 @@ words:
     tips: 记 词根记忆：cas(掉落) + ual + ty(表物) →掉落下来；造成事故→ 伤亡(人员)；伤亡事故
     samples: 
       - 例 The major casualty of cutting down forests on a large scale has been the environment. 受大规模森林砍伐影响最多的是环境。
-    same: 同 victim(n. 受害人)
+    synonyms: 同 victim(n. 受害人)
   - word: catalogue
     tags: [常见]
     phonetic: 【ˈkætəlɒg】
@@ -3342,7 +3342,7 @@ words:
     tips: 记 词根记忆：cat(a)(落下) + astro(星星) +phe → 星星坠落，古人认为星星坠落预示大难临头→ 大灾难
     samples: 
       - 例 The flood was a major catastrophe, reducingpopulation sizes in areas involved. 洪水是一场大灾难，使受灾地区的人口减少。
-    same: 同 disaster(n. 灾难)
+    synonyms: 同 disaster(n. 灾难)
   - word: catastrophic 
     phonetic: 【ˌkætəˈstrɒfɪk】
     trans: a. 悲惨的；灾难性的
@@ -3461,7 +3461,7 @@ words:
     tips: 记 联想记忆：ce + real(真正的) → 真正的健康食品→ 谷类食物
     samples: 
       - 例 The east of the UK is its great cerealproducing region. 英国东部地区是英国最大的产谷区。
-    same: 同 grain(n. 谷物；谷粒)
+    synonyms: 同 grain(n. 谷物；谷粒)
   - word: ceremony 
     phonetic: 【ˈserəmənɪ】
     trans: n. 典礼；仪式
@@ -3696,7 +3696,7 @@ words:
     collocation: 搭 a chronic problem 长期的问题；a chronic smoker 积习难改的烟民；a chronic disease 慢性疾病；a chronic war 持久战
     samples: 
       - 例 Jim suffers from chronic back pain after the car-wreck. 车祸后吉姆一直受背痛的折磨。
-    same: 同 inveterate(a. 根深蒂固的，成癖的)
+    synonyms: 同 inveterate(a. 根深蒂固的，成癖的)
   - word: chunk 
     phonetic: 【tʃʌŋk】
     trans: n. 大块；相当大的部分(或数量)
@@ -3876,7 +3876,7 @@ words:
     collocation: 搭 clip on 用夹子夹上去，可夹住
     samples: 
       - 例 It is said that the US produces 300 millionaluminium paper clips each day. 据说美国每天生产三亿个铝制纸夹。
-    same: 同 clutch(v. 抓住)
+    synonyms: 同 clutch(v. 抓住)
   - word: cloakroom 
     phonetic: 【ˈkləʊkruːm】
     trans: n. 衣帽间；〈英〉洗手间记 组合词：cloak(披风) + room(房间) → 衣帽间
@@ -3960,7 +3960,7 @@ words:
     samples: 
       - 例 The archaeologist has to develop a picture of the past, just as the scientist has to develop a coherent view of the natural world. 考古学家需要提供一张过去的图片，就如同科学家需要描绘出自然世界的连贯图景。
     derive: 派 coherently(ad. 条理清楚地；一致地)；coherence(n. 一致；连贯性)
-    same: 同 cohesive(a. 黏着的)；coordinated(a. 同等的，并列的)；consistent(a. 一致的)
+    synonyms: 同 cohesive(a. 黏着的)；coordinated(a. 同等的，并列的)；consistent(a. 一致的)
   - word: cohesion
     tags: [常见]
     phonetic: 【kəʊˈhiːʒn】
@@ -3975,7 +3975,7 @@ words:
     samples: 
       - 例 My religious beliefs don't coincide withyours. 我的宗教信仰与你的不同。
     derive: 派 coincidence(n. 同时发生的事情；一致)
-    same: 同 concur(vi. 一致)；agree(v. 与…一致)
+    synonyms: 同 concur(vi. 一致)；agree(v. 与…一致)
   - word: collaboration 
     phonetic: 【kəˌlæbəˈreɪʃn】
     trans: n. 合作，协作；勾结，通敌
@@ -4114,7 +4114,7 @@ words:
     collocation: 搭 commence with 由…开始；commence doingsth. 开始做某事
     samples: 
       - 例 Most courses commence at 9 a.m. and rununtil 3 p.m. 大部分课程上午9 点开始，下午3点结束。
-    same: 同 begin (v. 开始)；start (v. 开始)
+    synonyms: 同 begin (v. 开始)；start (v. 开始)
     antonym: 反 end (v. 结束)；finish (v. 结束，终止)
   - word: commencement 
     phonetic: 【kəˈmensmənt】
@@ -4194,7 +4194,7 @@ words:
     collocation: 搭 commodity economy 商品经济；a commodities fair 商品交易会；commodityprice 商品价格；agricultural commodities 农业产品；commodity inspection 商品检查
     samples: 
       - 例 Nowadays, the airlines are treating their seats like a commodity. 现在，航空公司把客机的席位看作是一种商品(进行出售)。
-    same: 同 goods (n. 货物)
+    synonyms: 同 goods (n. 货物)
   - word: commonwealth 
     phonetic: 【ˈkɒmənwelθ】
     trans: n. 【the C-】 英联邦；联合体
@@ -4215,7 +4215,7 @@ words:
     samples: 
       - 例 Eventually, it is predicted that many people may be able to work at home instead of commuting at office in the future. 据预测，在未来许多人最终可以在家办公，而不用乘公交往返上下班。
     derive: 派 commuter (n. 上下班往返的人；通勤者)
-    same: 同 compensate (v. 赔偿，补偿)
+    synonyms: 同 compensate (v. 赔偿，补偿)
   - word: compact
     tags: [常见]
     phonetic: 【kəmˈpækt】
@@ -4236,7 +4236,7 @@ words:
     tips: 记 词根记忆：com (共同) + par (相等) + able(能…的) → 能等同的→ 可比较的
     samples: 
       - 例 A comparable apartment in the east of this city would cost twice as much. 一套类似的房子在城东部就要贵一倍。
-    same: 同 similar (a. 相似的，类似的)；like (a. 相似的，同样的)
+    synonyms: 同 similar (a. 相似的，类似的)；like (a. 相似的，同样的)
   - word: comparative
     tags: [常见]
     phonetic: 【kəmˈpærətɪv】
@@ -4314,7 +4314,7 @@ words:
     trans: v. 补偿，赔偿；弥补
     tips: 记 词根记忆：com (以) + pens (偿还) + ate →以某物来偿还→ 补偿，赔偿；弥补
     collocation: 搭 compensate (sb.) for sth. 弥补，补偿；赔偿例 Nothing can compensate for the loss of one's health. 失去的健康是无法弥补的。
-    same: 同 indemnify (vt. 赔偿，补偿)
+    synonyms: 同 indemnify (vt. 赔偿，补偿)
   - word: compensation 
     phonetic: 【ˌkɒmpenˈseɪʃn】
     trans: n. 补偿，赔偿；赔偿物，赔偿金
@@ -4336,7 +4336,7 @@ words:
     tips: 记 联想记忆：compet(e) (竞争) + ent (形容词后缀) → 能在竞争中取胜的→有能力的
     samples: 
       - 例 This new manager was really competent. 新任经理的确很能干。
-    same: 同 sufficient (a. 充分的，足够的；能胜任的)
+    synonyms: 同 sufficient (a. 充分的，足够的；能胜任的)
     antonym: 反 inefficient〔a. (指人)不能胜任的〕
   - word: competition
     tags: [常见]
@@ -4386,7 +4386,7 @@ words:
     collocation: 搭 inferiority complex 自卑感，自卑情结
     samples: 
       - 例 The new sports complex has everythingneeded for many different activities. 新建的综合体育馆能为多种活动提供所需的一切设施。
-    same: 同 complicated (a. 复杂的，难解的)；intricate(a. 复杂的，错综的)；involved (a. 棘手的)；knotty (a. 棘手的，困难多的)
+    synonyms: 同 complicated (a. 复杂的，难解的)；intricate(a. 复杂的，错综的)；involved (a. 棘手的)；knotty (a. 棘手的，困难多的)
     antonym: 反 simple (a. 简单的，简易的)
   - word: complexity 
     phonetic: 【kəmˈpleksəti】
@@ -4430,7 +4430,7 @@ words:
     collocation: 搭 key component 主要成分；component parts部件
     samples: 
       - 例 It is often easier to check individual components before assembly takes place inmany manufacturing processes. 在许多生产工序中，在组装之前先检查单个零部件通常更容易。
-    same: 同 ingredient (n. 成分)；element (n. 要素，元件)；constituent (a. 组成的)
+    synonyms: 同 ingredient (n. 成分)；element (n. 要素，元件)；constituent (a. 组成的)
   - word: compose 
     phonetic: 【kəmˈpəʊz】
     trans: v. 组成，构成；写，创作(乐曲等)；使安定
@@ -4501,7 +4501,7 @@ words:
     derive: 派 compulsory education 义务教育；compulsory subjects 必修课
     samples: 
       - 例 These counselling sessions are compulsory for all students. 所有学生都必须参加这些咨询课。
-    same: 同 mandatory (a. 命令的，强制的)；enforced(a. 强迫的)
+    synonyms: 同 mandatory (a. 命令的，强制的)；enforced(a. 强迫的)
   - word: computerize 
     phonetic: 【kəmˈpjuːtəraɪz】
     trans: vt. 使计算机化；用计算机做；用计算机储存(信息)
@@ -4528,7 +4528,7 @@ words:
     collocation: 搭 conceive of 设想；conceive a child 怀孕
     samples: 
       - 例 These scientific advances can offer a newway to test whether a conceived baby is healthyor not. 这些科学上的进步为检测孕育中的婴儿是否健康提供了一种新方法。
-    same: 同 think (v. 想，认为)；imagine (v. 想象，设想)
+    synonyms: 同 think (v. 想，认为)；imagine (v. 想象，设想)
   - word: concentrate
     tags: [常见]
     phonetic: 【ˈkɒnsntreɪt】
@@ -4721,7 +4721,7 @@ words:
     collocation: 搭 conform to the custom of society 遵从社会习俗；conform with the regulations 遵守规章制度
     samples: 
       - 例 All students must conform to the school rules. 所有的学生都必须遵守校规。
-    same: 同 adapt (v. 适应，顺应)
+    synonyms: 同 adapt (v. 适应，顺应)
   - word: conformity
     tags: [常见]
     phonetic: 【kənˈfɔːməti】
@@ -4829,7 +4829,7 @@ words:
     collocation: 搭 consecutive days 连续几天；consecutive years 连年
     samples: 
       - 例 You should give a clear and consecutive narrative for your report. 你应该就你的报告给出一个清晰、连贯的陈述。
-    same: 同 successive (a. 继承的；连续的)
+    synonyms: 同 successive (a. 继承的；连续的)
   - word: consensus
     tags: [常见]
     phonetic: 【kənˈsensəs】
@@ -4838,7 +4838,7 @@ words:
     collocation: 搭 value consensus 价值共识
     samples: 
       - 例 The general consensus is that the reform is a good thing. 改革是件好事，这是共识。
-    same: 同 unanimity (n. 全体一致)
+    synonyms: 同 unanimity (n. 全体一致)
   - word: consequence
     tags: [常见]
     phonetic: 【ˈkɒnsɪkwəns】
@@ -4912,7 +4912,7 @@ words:
     collocation: 搭 consist of 由…组成，由…构成；consist in在于，存在于
     samples: 
       - 例 Each hour consists of 50-minute tuition and a 10-minute break. 每小时的内容安排是50 分钟的讲解和10 分钟的休息。
-    same: 同 comprise (vt. 组成，构成)
+    synonyms: 同 comprise (vt. 组成，构成)
   - word: consistent 
     phonetic: 【kənˈsɪstənt】
     trans: a. 一致的，协调的；相符的，相容的
@@ -4964,7 +4964,7 @@ words:
     samples: 
       - 例 The language which develops along withnationality's development is a national culture constituent. 随着民族的发展而发展的语言，是民族文化的组成部分。
     derive: 派 constituency (n. 选区；选区的选民)
-    same: 同 component (a. 组成的，构成的)
+    synonyms: 同 component (a. 组成的，构成的)
   - word: constitute 
     phonetic: 【ˈkɒnstɪtjuːt】
     trans: v. 组成；构成；设立，成立
@@ -5061,7 +5061,7 @@ words:
     collocation: 搭 a contaminated river 被污染的河流
     samples: 
       - 例 Chemical fertilisers and pesticides maycontaminate water supplies. 化肥和杀虫剂可能会污染水源。
-    same: 同 taint (vt. 污染，玷污)；pollute (vt. 弄脏，污染)；defile (vt. 弄脏，污损)
+    synonyms: 同 taint (vt. 污染，玷污)；pollute (vt. 弄脏，污染)；defile (vt. 弄脏，污损)
   - word: contemplate 
     phonetic: 【ˈkɒntəmpleɪt】
     trans: v. 思量，沉思；注视，凝视；打算，预期
@@ -5069,21 +5069,21 @@ words:
     samples: 
       - 例 In order to compete in the world market, we contemplate improving our present product. 为了参与国际市场的竞争，我们打算改进现有产品。
     derive: 派 contemplative (a. 沉思的，深思熟虑的)
-    same: 同 consider (v. 考虑；认为)；ponder (v. 沉思，考虑)
+    synonyms: 同 consider (v. 考虑；认为)；ponder (v. 沉思，考虑)
   - word: contemporary 
     phonetic: 【kənˈtempərəri】
     trans: a. 当代的；同时代的n. 同代人
     tips: 记 词根记忆：con (共同) + tempor (时间) +ary → 同时代的
     samples: 
       - 例 Some contemporary tribes still live amongthe earthworks of earlier cultures. 当代一些部落仍生活于早期文明的建筑之中。
-    same: 同 modern (a. 近代的，现代的)；current (a. 当前的；现在的)
+    synonyms: 同 modern (a. 近代的，现代的)；current (a. 当前的；现在的)
   - word: contempt 
     phonetic: 【kənˈtempt】
     trans: n. 轻视，鄙视，不尊重；蔑视
     tips: 记 词根记忆：con (共同) + tempt (尝试) → 小意思！大家都能试→ 轻视
     samples: 
       - 例 The officer's tone of voice towards the stowaway was loaded with contempt. 警官对偷渡者说话的语气充满了轻蔑。
-    same: 同 disdain (n. 轻蔑)
+    synonyms: 同 disdain (n. 轻蔑)
   - word: content
     tags: [常见]
     phonetic: 【ˈkɒntent】
@@ -5149,7 +5149,7 @@ words:
     tips: 记 词根记忆：contra (反) + dict (说话；断言) → 说反话→ 反驳
     samples: 
       - 例 The statement contradicts the writer's views. 这一陈述与作者的观点不符。
-    same: 同 deny (vt. 驳斥，反对)
+    synonyms: 同 deny (vt. 驳斥，反对)
   - word: contradiction 
     phonetic: 【ˌkɒntrəˈdɪkʃn】
     trans: n. 矛盾，不一致；否认，反驳
@@ -5184,7 +5184,7 @@ words:
     tips: 记 联想记忆：contri (看作contra，反) + ve(=vene 走) → (和普通人不同)反着走→ 设计，发明
     samples: 
       - 例 She finds it more difficult to contrive to live as prices are rising every month. 物价每月都在上涨，她觉得越来越难维持生计了。
-    same: 同 devise (vt. 设计，发明)；plan (v. 计划，设计)；manage (v. 管理；设法做到)
+    synonyms: 同 devise (vt. 设计，发明)；plan (v. 计划，设计)；manage (v. 管理；设法做到)
   - word: contrived
     tags: [常见]
     phonetic: 【kənˈtraɪvd】
@@ -5571,7 +5571,7 @@ words:
     collocation: 搭 tonight's live coverage of the basketball game 今晚篮球比赛的现场直播
     samples: 
       - 例 We all watch for live coverage of the results of the bombing trial. 我们都等着看这起爆炸审判结果的现场报道。
-    same: 同 scope (n. 范围)
+    synonyms: 同 scope (n. 范围)
   - word: crack 
     phonetic: 【kræk】
     trans: n. 裂缝，缝隙；爆裂声v. (使)破裂；(使)发出爆裂声；重击；崩溃，瓦解
@@ -5858,7 +5858,7 @@ words:
     tips: 记 词根记忆：culmin (顶) + ate → 达到顶点→ (以某种结果)告终；(在某一点)结束
     samples: 
       - 例 My arguments with my mum got worse andworse, and it a l l culminated in my deciding togive up school. 我和妈妈的争吵越来越严重，最后以我决定辍学而告终。
-    same: 同 end (v. 结束，终结)；terminate (v. 停止，结束)；top (vt. 达到顶端；结束)
+    synonyms: 同 end (v. 结束，终结)；terminate (v. 停止，结束)；top (vt. 达到顶端；结束)
   - word: cultivate 
     phonetic: 【ˈkʌltɪveɪt】
     trans: vt. 种植；培养
@@ -5950,7 +5950,7 @@ words:
     tips: 记 词根记忆：cur (关注) + tail (切割) → 专注地切短→ 缩短，削减
     samples: 
       - 例 The new constitution imposed a dogmatic property rules which had severely curtailed the people's interest. 新宪法强制推行专断财产法，严重损害了民众的利益。
-    same: 同 abridge (vt. 缩减，减短)；shorten (v. 缩短)
+    synonyms: 同 abridge (vt. 缩减，减短)；shorten (v. 缩短)
   - word: curtain
     tags: [常见]
     phonetic: 【ˈkɜːtn】
@@ -6053,7 +6053,7 @@ words:
     collocation: 搭 beyond debate 无异议，无可争辩；openthe debate 在辩论时首先发言；debate upon/on讨论(问题)
     samples: 
       - 例 There's a debate in the meeting room about next year's budget. 会议室里(大家)就来年的预算产生了争论。
-    same: 同 dispute (v./n.争论，辩论)
+    synonyms: 同 dispute (v./n.争论，辩论)
   - word: debris 
     phonetic: 【ˈdebriː】
     trans: n. 碎屑，残骸；【地质】岩屑
@@ -6206,7 +6206,7 @@ words:
     collocation: 搭 dedicate oneself to 献身于
     samples: 
       - 例 We have come to dedicate a portion of that field as a final resting place for those who gave their lives here. 我们已经贡献出那片土地的一部分，作为那些在此献出了生命的人们的安息之地。
-    same: 同 devote (vt. 投入于，献身于)
+    synonyms: 同 devote (vt. 投入于，献身于)
   - word: deduce 
     phonetic: 【dɪ ˈdjuːs】
     trans: v. 演绎，推断
@@ -6219,7 +6219,7 @@ words:
     tips: 记 联想记忆：和seem (v. 似乎)一起记
     samples: 
       - 例 The WHO deems that a city with more thanten million inhabitants has exceeded the healthylevel. 世界卫生组织认为，人口在一千万以上的城市已经超过了健康标准的要求。
-    same: 同 assume (vt. 假定，设想)；consider (v. 认为)；believe (v. 认为，想)
+    synonyms: 同 assume (vt. 假定，设想)；consider (v. 认为)；believe (v. 认为，想)
   - word: defeat
     tags: [常见]
     phonetic: 【dɪ ˈfiːt】
@@ -6255,7 +6255,7 @@ words:
     tips: 记 词根记忆：de (离开) + fic (做) + iency →做事不力，缺乏能力→ 缺乏
     samples: 
       - 例 The short child of tall parents very likely had a hormone deficiency early in life. 父母个子高而孩子个子矮，极有可能是由幼年分泌的荷尔蒙不足造成的。
-    same: 同 inadequacy (n. 不充分，不足)
+    synonyms: 同 inadequacy (n. 不充分，不足)
   - word: deficit 
     phonetic: 【ˈdefɪsɪt】
     trans: n. 不足额，赤字
@@ -6295,7 +6295,7 @@ words:
     samples: 
       - 例 Similarly, although at least some cetaceans have taste buds, the nerves serving these have degenerated or are rudimentary. 同样，尽管至少一些鲸鱼是有味蕾的，但是控制味蕾的神经已经退化了或者根本就没有充分发展。
     derive: 派 degeneration (n. 恶化，退化的过程)
-    same: 同 vicious (a. 堕落的，有错误的)
+    synonyms: 同 vicious (a. 堕落的，有错误的)
     antonym: 反 develop (v. 发展，生长)；evolve〔v. (使)发展，(使)进化〕
   - word: degrade 
     phonetic: 【dɪ ˈgreɪd】
@@ -6303,7 +6303,7 @@ words:
     tips: 记 联想记忆：de (向下) + grade (级别) → 降低级别→ 降级
     samples: 
       - 例 You should not degrade yourself by tellingsuch a lie. 你不该说这样的谎话来降低自己的人格。
-    same: 同 demote (vt. 使降级，使降职)；decompose (v. 分解)；abase (vt. 降低)
+    synonyms: 同 demote (vt. 使降级，使降职)；decompose (v. 分解)；abase (vt. 降低)
   - word: delay
     tags: [常见]
     phonetic: 【dɪ ˈleɪ】
@@ -6324,7 +6324,7 @@ words:
     tips: 记 词根记忆：de (表加强) + liber (权衡) + ate → 反复权衡→ 深思熟虑的
     samples: 
       - 例 Wilson has a slow, deliberate way of acting. 威尔逊动作缓慢而谨慎。
-    same: 同 ponder (v. 沉思，考虑)
+    synonyms: 同 ponder (v. 沉思，考虑)
     antonym: 反 hasty (a. 匆忙的，草率的)
   - word: delicate 
     phonetic: 【ˈdelɪkət】
@@ -6413,7 +6413,7 @@ words:
     samples: 
       - 例 Crick and Watson demonstrated the structure of the DNA molecule in their academic papers. 克里克和沃森在他们的学术论文中论证了DNA 的分子结构。
     derive: 派 demonstrative (a. 感情外露的；指示的)
-    same: 同 display (v. 展览；显示)；show (v. 说明，显示)；illustrate (vt. 举例说明，阐明)
+    synonyms: 同 display (v. 展览；显示)；show (v. 说明，显示)；illustrate (vt. 举例说明，阐明)
   - word: demonstration
     tags: [常见]
     phonetic: 【ˌdemənˈstreɪʃn】
@@ -6435,7 +6435,7 @@ words:
     tips: 记 词根记忆：de (向下) + not (知道) + e →深究→ 表示，指示；意味着
     samples: 
       - 例 The uniforms denoted a hierarchy. 制服体现了一种等级关系。
-    same: 同 signify (v. 表示，意味)；indicate (v. 指出，显示)；mean (v. 意味，用意)
+    synonyms: 同 signify (v. 表示，意味)；indicate (v. 指出，显示)；mean (v. 意味，用意)
   - word: dense 
     phonetic: 【dens】
     trans: a. 密集的；浓厚的
@@ -6490,7 +6490,7 @@ words:
     tips: 记 词根记忆：de (表加强) + pict (描写，画) → 描绘，描述
     samples: 
       - 例 The photographs depicted vivid scenes of a young girl's life. 这些照片栩栩如生地描绘出一个年轻女孩的生活。
-    same: 同 describe (v. 描写，描述)；represent (vt. 表现，描绘)；picture (vt. 画，描绘)
+    synonyms: 同 describe (v. 描写，描述)；represent (vt. 表现，描绘)；picture (vt. 画，描绘)
   - word: deplete
     tags: [常见]
     phonetic: 【dɪ ˈpliːt】
@@ -6542,7 +6542,7 @@ words:
     collocation: 搭 deprive sb. of sth. 剥夺某人某物
     samples: 
       - 例 The accident deprived him of his feet. 这场意外事故使他失去了双脚。
-    same: 同 remove (vt. 去除；解除)
+    synonyms: 同 remove (vt. 去除；解除)
   - word: deputy 
     phonetic: 【ˈdepjuti】
     trans: n. 代理人；代表
@@ -6673,7 +6673,7 @@ words:
     collocation: 搭 detach from... 从…分离；拆下；使分开；semi-detached house 半独立式住宅
     samples: 
       - 例 The mechanic detached the oil filter. 机工拆开了滤油器。
-    same: 同 disconnect (vt. 切断，使分离)；separate (v. 分开，分离)
+    synonyms: 同 disconnect (vt. 切断，使分离)；separate (v. 分开，分离)
     antonym: 反 attach (v. 系；附加)
   - word: detail 
     phonetic: 【ˈdiːteɪl】
@@ -6864,7 +6864,7 @@ words:
     samples: 
       - 例 The main aim of the management course is toteach us how to differentiate primary work fromsecondary work in the office. 该管理课程的主要目的是教我们如何区分首要工作和次要工作。
     derive: 派 differentiation (n. 区别，差别)
-    same: 同 discriminate (v. 区别；歧视)
+    synonyms: 同 discriminate (v. 区别；歧视)
   - word: diffuse 
     phonetic: 【dɪ ˈfjuːz】
     trans: v. 散布，传播；(光等)漫射；(使气体或液体)扩散，弥漫 【dɪ ˈfjuːs】 a. 扩散的，漫射的；(文章等)冗长的，难解的
@@ -6872,13 +6872,13 @@ words:
     samples: 
       - 例 Nowadays, Internet has become a powerful means of diffusing knowledge and informationinstead of television. 如今，因特网已取代电视成为传播知识和信息的有力媒介。
     derive: 派 diffusion (n. 扩散；传播；普及)；diffused(a. 普及的；漫射的)；diffuser (n. 扩散器，柔光镜)
-    same: 同 wordy (a. 冗长的)
+    synonyms: 同 wordy (a. 冗长的)
   - word: digest 
     phonetic: 【daɪ ˈdʒest】
     trans: v. 消化；领会 【ˈdaɪdʒest】 n. 文摘记 词根记忆：di (分开) + gest (搬运) → 运来食物，接着分解→ 消化
     samples: 
       - 例 Chemists were searching for a fat that couldbe digested more easily by infants. 药剂师们正在寻找一种婴儿能更容易消化的脂肪。
-    same: 同 absorb (vt. 吸收，吸引)；comprehend (v. 领会，理解)
+    synonyms: 同 absorb (vt. 吸收，吸引)；comprehend (v. 领会，理解)
   - word: digestive
     tags: [常见]
     phonetic: 【daɪ ˈdʒestɪv; dɪ ˈdʒestɪv】
@@ -6912,7 +6912,7 @@ words:
     tips: 记 词根记忆：di + min (小) + ish → 减少；降低
     samples: 
       - 例 Our farmland was losing topsoil at a rate likely to diminish the soil's productivity. 我们农田的地表土正在流失，照这样下去，很可能会降低土壤的生产力。
-    same: 同 curtail 〔vt. 缩减，减少(经费等)〕; decrease (v. 减少)
+    synonyms: 同 curtail 〔vt. 缩减，减少(经费等)〕; decrease (v. 减少)
     antonym: 反 increase (v. 增加，加大)
   - word: dioxide
     tags: [常见]
@@ -7015,7 +7015,7 @@ words:
     tips: 记 词根记忆：dis (不) + clos (关闭) + e → 不关闭→ 揭露；透露；公开
     samples: 
       - 例 She didn't disclose those details on tax bills. 她没有透露那些税收法案的相关细节。
-    same: 同 reveal (vt. 展现，揭示)；uncover (vt. 揭开，揭露)
+    synonyms: 同 reveal (vt. 展现，揭示)；uncover (vt. 揭开，揭露)
     antonym: 反 conceal (vt. 隐藏，隐瞒)；hide (v. 隐藏，掩藏)
   - word: discontinue 
     phonetic: 【ˌdɪskənˈtɪnjuː】
@@ -7066,7 +7066,7 @@ words:
     tips: 记 词根记忆：dis (分开) + crep (发出破裂声) + ancy → 裂开→ 矛盾
     samples: 
       - 例 We noticed the obvious discrepancy betweenthese two agreements signed by the two parties. 我们注意到双方签订的这两份合同有着明显的不同之处。
-    same: 同 difference (n. 差别，分歧)
+    synonyms: 同 difference (n. 差别，分歧)
     antonym: 反 accord (n. 一致，符合)
   - word: discretion 
     phonetic: 【dɪ ˈskreʃn】
@@ -7081,7 +7081,7 @@ words:
     tips: 记 词根记忆：dis (分开) + crimin (分开) + ate → 分开对待→ 区别；歧视
     samples: 
       - 例 We must learn to discriminate right fromwrong. 我们必须学会明辨是非。
-    same: 同 distinguish (v. 区别，辨别)
+    synonyms: 同 distinguish (v. 区别，辨别)
   - word: disdain 
     phonetic: 【dɪsˈdeɪn】
     trans: v./n. 鄙视，蔑视
@@ -7335,7 +7335,7 @@ words:
     collocation: 搭 distinguish between 辨别，弄清；distinguish...from 把… 与… 区别开；distinguish oneself 使自己脱颖而出
     samples: 
       - 例 A port must be distinguished from a harbour. Harbour is a physical concept, port is aneconomic concept. 必须分清港口和海港的区别，海港是一个物理概念，港口是一个经济概念。
-    same: 同 discern (v. 洞悉，辨别)；dignify (vt. 使尊荣，使高贵)
+    synonyms: 同 discern (v. 洞悉，辨别)；dignify (vt. 使尊荣，使高贵)
   - word: distort 
     phonetic: 【dɪsˈtɔːt】
     trans: vt. 扭曲；曲解；变形
@@ -7354,7 +7354,7 @@ words:
     collocation: 搭 distract attention from 转移注意力
     samples: 
       - 例 Researchers claim that when children come to a word they already know, the pictures are unnecessary and distracting. 研究人员称，当孩子们碰到认识的单词时，配有的相关图画是多余的，还会使他们分心。
-    same: 同 divert (v. 转移)
+    synonyms: 同 divert (v. 转移)
     antonym: 反 attract (v. 吸引，引起注意)
   - word: distraction
     tags: [常见]
@@ -7485,7 +7485,7 @@ words:
     tips: 记 联想记忆：di (二) + zz (打鼾声) + y → 室友打鼾，吵得睡不着→ 眩晕的
     samples: 
       - 例 He is dizzy and confused and does not want to be here. 他感到眩晕迷惑，不想待在这儿。
-    same: 同 giddy (a. 眼花缭乱的；头晕的)
+    synonyms: 同 giddy (a. 眼花缭乱的；头晕的)
   - word: dock 
     phonetic: 【dɒk】
     trans: v. (使)靠码头n. 码头
@@ -7567,7 +7567,7 @@ words:
     samples: 
       - 例 I should also like to say if you do have a bike to donate, it doesn't matter what condition it is in. 我还想说如果你有自行车可以捐赠，那么不管它是什么状况都没关系。
     derive: 派 donator (n. 捐赠者)
-    same: 同 contribute (v. 捐助，捐献)；present (vt. 赠送)
+    synonyms: 同 contribute (v. 捐助，捐献)；present (vt. 赠送)
   - word: donation 
     phonetic: 【dəʊˈneɪʃn】
     trans: n. 捐款；捐赠
@@ -7711,7 +7711,7 @@ words:
     tips: 记 词根记忆：dub (不确定，不明确) + ious → 靠不住的，不确定的
     samples: 
       - 例 The greatly respected American Associationof Zoological Parks and Aquariums (AAZPA) has had extremely dubious members, too. 在备受人们尊敬的美国动物园水族馆协会中，也有一些身份极其可疑的成员。
-    same: 同 doubtful (a. 可疑的，不确定的)；questionable (a. 可疑的)
+    synonyms: 同 doubtful (a. 可疑的，不确定的)；questionable (a. 可疑的)
   - word: due
     tags: [常见]
     phonetic: 【djuː】
@@ -7748,7 +7748,7 @@ words:
     samples: 
       - 例 These methods include strength training that duplicates what they are doing in their runningevents as well as plyometrics. 这些方法包含力量训练，这与他们在跑步中以及肌肉增强训练中所做的完全一致。
     derive: 派 duplication (n. 副本；复制)
-    same: 同 copy (n. 副本 v. 复印，复制)
+    synonyms: 同 copy (n. 副本 v. 复印，复制)
   - word: durable 
     phonetic: 【ˈdjʊərəbl】
     trans: n. 耐用品 a. 耐久的；耐用的
@@ -7797,7 +7797,7 @@ words:
     samples: 
       - 例 The market is so dynamic that the figures change almost every two weeks. 这个市场很活跃，数据几乎每两周就会发生改变。
     derive: 派 dynamism (n. 精力，活力)
-    same: 同 active (a. 积极的，活动的，活跃的)
+    synonyms: 同 active (a. 积极的，活动的，活跃的)
     antonym: 反 static (a. 静态的，静力的)
   - word: dystrophy
     tags: [常见]
@@ -7839,7 +7839,7 @@ words:
     samples: 
       - 例 Psychologists are trying to find the reasonwhy some children cultivate eccentric behavior to separate themselves from their peers. 心理学家正致力于为一些孩子远离同伴孤立自己的古怪行为找出原因。
     derive: 派 eccentrically (ad. 古怪地)；eccentricity (n. 古怪；古怪行为)
-    same: 同 abnormal (a. 反常的，变态的)；peculiar (a. 奇特的)
+    synonyms: 同 abnormal (a. 反常的，变态的)；peculiar (a. 奇特的)
     antonym: 反 ordinary (a. 平常的，普通的)；normal (a. 正常的)
   - word: ecliptic 
     phonetic: 【ɪ ˈklɪptɪk】
@@ -7891,7 +7891,7 @@ words:
     samples: 
       - 例 The seeds of these plants are edible. 这些植物的种子是可食用的。
     derive: 派 inedible (a. 不可食用的)
-    same: 同 eatable (a. 可以吃的)
+    synonyms: 同 eatable (a. 可以吃的)
   - word: edify 
     phonetic: 【ˈedɪfaɪ】
     trans: v. 陶冶，教化；启发，启迪
@@ -7945,7 +7945,7 @@ words:
     collocation: 搭 eject from 从…逐出
     samples: 
       - 例 The quantity of dust ejected by Mount St. Helens amounted to a quarter of a cubic mile. 圣海伦斯火山喷出的粉尘多达四分之一立方英里。
-    same: 同 expel (vt. 驱逐；开除)；remove (vt. 开除；移交)；evict (vt. 驱逐，逐出)
+    synonyms: 同 expel (vt. 驱逐；开除)；remove (vt. 开除；移交)；evict (vt. 驱逐，逐出)
   - word: ejection 
     phonetic: 【i ˈdʒekʃn】
     trans: n. 喷出；排出物
@@ -8020,7 +8020,7 @@ words:
     collocation: 搭 be eligible to 有资格做…
     samples: 
       - 例 You are eligible for a student loan if you are a UK resident. 如果你是英国居民，就可以申请学生贷款。
-    same: 同 desirable (a. 值得要的，合意的)；qualified (a. 有资格的)；suitable (a. 适当的，相配的)
+    synonyms: 同 desirable (a. 值得要的，合意的)；qualified (a. 有资格的)；suitable (a. 适当的，相配的)
   - word: eliminate 
     phonetic: 【ɪ ˈlɪmɪneɪt】
     trans: vt. 消灭，消除；淘汰
@@ -8062,7 +8062,7 @@ words:
     collocation: 搭 embark on/upon 从事，着手，开始工作
     samples: 
       - 例 Without hesitation Alexander embarked onhis new career as a musician. 亚历山大毫不犹豫地开始他的新职业，当一名音乐家。
-    same: 同 board〔v. 上(船、飞机等)〕
+    synonyms: 同 board〔v. 上(船、飞机等)〕
     antonym: 反 disembark〔v. 下车(或船、飞机等)〕
   - word: embassy
     tags: [常见]
@@ -8080,7 +8080,7 @@ words:
     samples: 
       - 例 The traditional idea is deeply embedded inour university. 这个传统的想法在我们大学根深蒂固。
     derive: 派 embedment (n. 嵌入)
-    same: 同 wedge (vt. 楔入，楔进)；fix (v. 使固定)
+    synonyms: 同 wedge (vt. 楔入，楔进)；fix (v. 使固定)
   - word: embezzlement
     tags: [常见]
     phonetic: 【ɪmˈbezlmənt】
@@ -8094,7 +8094,7 @@ words:
     tips: 记 词根记忆：em (给予) + body (身体) → 给予身体→ 使具体化
     samples: 
       - 例 As a rule, if you want to write a good essay, you'd better list some relevant examples embodying the gist. 通常，如果你想写出好文章，你最好列举一些体现文章主旨的相关例子。
-    same: 同 contain (vt. 包含，容纳)；incarnate (vt. 使具体化)
+    synonyms: 同 contain (vt. 包含，容纳)；incarnate (vt. 使具体化)
   - word: emboss 
     phonetic: 【ɪmˈbɒs】
     trans: vt. 使…凸出；压花(纹)
@@ -8299,7 +8299,7 @@ words:
     tips: 记 联想记忆：en (使…) + danger (危险) → 危及
     samples: 
       - 例 Navajo is considered endangered despite having 150,000 speakers. 尽管有15 万人使用纳瓦霍语，它还是濒临(灭绝的)危险。
-    same: 同 imperil (vt. 使陷于危险，危及)
+    synonyms: 同 imperil (vt. 使陷于危险，危及)
   - word: endeavour
     tags: [常见]
     phonetic: 【ɪnˈdevə(r)】
@@ -8516,7 +8516,7 @@ words:
     collocation: 搭 enthusiastic applause 热烈的掌声；enthusiastic reception 热诚的接待
     samples: 
       - 例 With lights flashing and horns honking, the newly - manufactured vehicles poured into the world like enthusiastic machines from a science-fiction movie. 车灯闪烁，喇叭轰鸣，新生产出来的汽车就像是科幻电影中充满动力的机器一样涌入大千世界。
-    same: 同 eager (a. 渴望的)；anxious (a. 渴望的，盼望的)；passionate (a. 充满热情的)
+    synonyms: 同 eager (a. 渴望的)；anxious (a. 渴望的，盼望的)；passionate (a. 充满热情的)
   - word: entice 
     phonetic: 【ɪnˈtaɪs】
     trans: v. 怂恿，引诱
@@ -8577,7 +8577,7 @@ words:
     collocation: 搭 It is envisaged that... 预计…; envisage anbright future 展望美好的未来
     samples: 
       - 例 It's just a chance for you to say anything about the equipment and problems you envisage. 这对你来说是个机会，你可以就设备和想到的问题谈一谈自己的看法。
-    same: 同 imagine (vt. 想象，设想)；fancy (vt. 想象，设想)
+    synonyms: 同 imagine (vt. 想象，设想)；fancy (vt. 想象，设想)
   - word: epidemic
     tags: [常见]
     phonetic: 【ˌepɪ ˈdemɪk】
@@ -8586,7 +8586,7 @@ words:
     collocation: 搭 an epidemic of measles 麻疹的流行
     samples: 
       - 例 The government declared that no major epidemic diseases prevailed in this area. 政府宣布该地区没有流行重大的传染性疾病。
-    same: 同 contagious (a. 传染性的，会感染的)；prevalent (a. 流行的)
+    synonyms: 同 contagious (a. 传染性的，会感染的)；prevalent (a. 流行的)
   - word: episodic 
     phonetic: 【ˌepɪ ˈsɒdɪk】
     trans: a. 偶然发生的，不定期的；由许多片段组成的，松散的
@@ -8660,14 +8660,14 @@ words:
     tips: 记 词根记忆：e (去掉) + rod (咬) + e → 咬掉→ 侵蚀，腐蚀
     samples: 
       - 例 The sharp increase in food price over the last few months has eroded the public's confidence in the government's policy. 过去几个月食品价格大幅上涨，削弱了公众对政府政策的信心。
-    same: 同 corrode (v. 腐蚀，侵蚀)
+    synonyms: 同 corrode (v. 腐蚀，侵蚀)
   - word: erosion 
     phonetic: 【ɪ ˈrəʊʒn】
     trans: n. 腐蚀；磨损
     collocation: 搭 soil erosion 土壤侵蚀；coastal erosion 海岸侵蚀
     samples: 
       - 例 Often dams are built to protect the area from soil erosion and to serve as permanent sources of water. 人们建造水坝常常是用为了防止水土流失，并将水坝(所在地)作为永久的水源。
-    same: 同 corrosion (n. 侵蚀)；deterioration (n. 退化，堕落)
+    synonyms: 同 corrosion (n. 侵蚀)；deterioration (n. 退化，堕落)
   - word: erroneous 
     phonetic: 【ɪ ˈrəʊnəs】
     trans: a. 错误的，不正确的
@@ -8733,7 +8733,7 @@ words:
     collocation: 搭 have great esteem for 对…大为敬佩；be held in high esteem by sb. 深受某人敬佩
     samples: 
       - 例 We had great esteem for this dedicated andimaginative scientist. 对这位乐于奉献、富于想象力的科学家，我们深表敬佩。
-    same: 同 regard (vt./n. 尊敬；尊重)
+    synonyms: 同 regard (vt./n. 尊敬；尊重)
     antonym: 反 disesteem (n./vt. 轻视)
   - word: estimate
     tags: [常见]
@@ -8763,7 +8763,7 @@ words:
     tips: 记 联想记忆：外部(external)世界是永恒的(eternal)诱惑
     samples: 
       - 例 Muslims believe the soul of anyone whocommits suicide will suffer eternal damnation. 穆斯林信徒相信自杀者的灵魂将受到永无休止的诅咒。
-    same: 同 endless (a. 无止境的)；everlasting (a. 永恒的，持久的)；permanent (a. 永久的，持久的)
+    synonyms: 同 endless (a. 无止境的)；everlasting (a. 永恒的，持久的)；permanent (a. 永久的，持久的)
     antonym: 反 momentary (a. 瞬间的，刹那的)；temporary (a. 暂时的)
   - word: ethereal 
     phonetic: 【i ˈθɪəriəl】
@@ -8786,7 +8786,7 @@ words:
     samples: 
       - 例 The hotel's fire officer will instruct you inhow to evacuate the building if a fire breaks out. 饭店消防人员会告诉你们万一着火该如何撤离。
     derive: 派 evacuation (n. 撤退，撤离)
-    same: 同 remove (vt. 移动；开除)；depart (v. 离开)
+    synonyms: 同 remove (vt. 移动；开除)；depart (v. 离开)
   - word: evaluate 
     phonetic: 【ɪ ˈvæljueɪt】
     trans: vt. 评价，估价
@@ -8806,7 +8806,7 @@ words:
     tips: 记 词根记忆：e (出) + vapor (水汽) + ate (使…) → 使水汽出去→ 蒸发
     samples: 
       - 例 He thought water could evaporate quickly insandy soils. 他认为水在砂土中会很快蒸发。派 evaporation (n. 蒸发；消失)
-    same: 同 vanish (vi. 消失)；vaporize〔vt. (使)蒸发〕
+    synonyms: 同 vanish (vi. 消失)；vaporize〔vt. (使)蒸发〕
   - word: event
     tags: [常见]
     phonetic: 【ɪ ˈvent】
@@ -8916,7 +8916,7 @@ words:
     tips: 记 来自except (prep. 除…之外)
     samples: 
       - 例 Kate has quite an exceptional music ability. 凯特具有非凡的音乐才能。
-    same: 同 extraordinary (a. 非常的，特别的)；outstanding (a. 突出的)；unusual (a. 不平常的)
+    synonyms: 同 extraordinary (a. 非常的，特别的)；outstanding (a. 突出的)；unusual (a. 不平常的)
     antonym: 反 ordinary (a. 平常的，普通的)；common (a. 普通的)
   - word: excess
     tags: [常见]
@@ -8982,7 +8982,7 @@ words:
     collocation: 搭 an excusable mistake 可原谅的错误
     samples: 
       - 例 Absent-mindedness is an excusable humanweakness. 心不在焉是人的一种可以原谅的缺点。
-    same: 同 forgivable (a. 可原谅的；可谅解的)
+    synonyms: 同 forgivable (a. 可原谅的；可谅解的)
   - word: execute 
     phonetic: 【ˈeksɪkjuːt】
     trans: vt. 将…处死；实施，执行
@@ -9003,7 +9003,7 @@ words:
     tips: 记 来自example (n. 实例)，注意区分a 和e
     samples: 
       - 例 Robin Hill Park exemplifies the standards innatural zoos. 罗宾山郊野公园是自然动物园的典范。
-    same: 同 demonstrate (v. 证明，论证)；illustrate (v. 举例说明，阐明)
+    synonyms: 同 demonstrate (v. 证明，论证)；illustrate (v. 举例说明，阐明)
   - word: exhale
     tags: [常见]
     phonetic: 【eksˈheɪl】
@@ -9151,7 +9151,7 @@ words:
     tips: 记 词根记忆：ex (出) + pir (呼吸) + e → 呼出气→ 期满
     samples: 
       - 例 The lease on this house expires at the end of the year. 这房子租约年底到期。
-    same: 同 run out (到期，失效)
+    synonyms: 同 run out (到期，失效)
   - word: expiry
     tags: [常见]
     phonetic: 【ɪkˈspaɪəri】
@@ -9166,7 +9166,7 @@ words:
     samples: 
       - 例 The experts have thought of a way to explode the dynamite below this building. 专家们已经想出了一种方法来引爆埋在这幢楼下面的炸药。
     derive: 派 explosion (n. 爆炸)
-    same: 同 blow up (爆炸，爆裂)
+    synonyms: 同 blow up (爆炸，爆裂)
   - word: exploit
     tags: [常见]
     phonetic: 【ɪkˈsplɔɪt】
@@ -9306,7 +9306,7 @@ words:
     collocation: 搭 extinct volcano 死火山
     samples: 
       - 例 A species becomes extinct when the last individual dies. 当最后一个个体死亡后，该物种便灭绝了。
-    same: 同 vanished (a. 消失的，不见的)
+    synonyms: 同 vanished (a. 消失的，不见的)
     antonym: 反 thriving (a. 兴旺的，兴盛的)
   - word: extinction 
     phonetic: 【ɪkˈstɪŋkʃn】
@@ -9350,7 +9350,7 @@ words:
     collocation: 搭 extract from 从…中提取
     samples: 
       - 例 You will hear an extract from a BBCtelevision program on acid rain. 你将会听到一段来自BBC 电视节目的有关酸雨的摘录。
-    same: 同 remove (vt. 移开，挪走)；cull (vt. 挑选，精选)；abstract (n. 摘要，梗概)
+    synonyms: 同 remove (vt. 移开，挪走)；cull (vt. 挑选，精选)；abstract (n. 摘要，梗概)
   - word: extracurricular
     tags: [常见]
     phonetic: 【ˌekstrəkəˈrɪkjələ(r)】
@@ -9378,7 +9378,7 @@ words:
     samples: 
       - 例 The majority of people maintain that mass media has no rights to report the extravagant lifestyle and privacy of a star. 绝大多数人认为大众媒体无权报道明星奢侈的生活方式以及隐私。
     derive: 派 extravagantly (ad. 挥霍无度地)
-    same: 同 excessive (a. 过分的，过多的)；lavish (a. 过分慷慨的，奢侈的)
+    synonyms: 同 excessive (a. 过分的，过多的)；lavish (a. 过分慷慨的，奢侈的)
   - word: extreme 
     phonetic: 【ɪkˈstriːm】
     trans: a. 极度的；最后的n. 极端，过分
@@ -9535,7 +9535,7 @@ words:
     samples: 
       - 例 Kids like spending a great deal of pocket money on fantastic toys instead of useful books. 孩子们喜欢花大量的零花钱购买奇特的玩具，而不是有用的书籍。
     derive: 派 fantastically (ad. 极其)
-    same: 同 marvelous (a. 惊人的，奇迹般的)；super(a. 极好的，上等的)
+    synonyms: 同 marvelous (a. 惊人的，奇迹般的)；super(a. 极好的，上等的)
     antonym: 反 awful (a. 极坏的，可怕的)；ordinary (a. 普通的，平常的)
   - word: fantasy 
     phonetic: 【ˈfæntəsi】
@@ -9840,7 +9840,7 @@ words:
     collocation: 搭 flap wings 振动翅膀；get in a flap over sth. 因某事而激动/不安
     samples: 
       - 例 Mike bended the flap of an envelope over and stuck it with glue. 迈克把信封的封口折过来用胶水黏好。
-    same: 同 agitation (n. 骚动，不安)；commotion (n. 骚动，动乱)；flutter (v. 振翼；飘动)
+    synonyms: 同 agitation (n. 骚动，不安)；commotion (n. 骚动，动乱)；flutter (v. 振翼；飘动)
   - word: flash 
     phonetic: 【flæʃ】
     trans: v. 闪光，闪耀n. 闪烁；闪光灯
@@ -9956,7 +9956,7 @@ words:
     tips: 记 词根记忆：flu (流动) + ctu + ate → (水)流动→ 起伏，涨落
     samples: 
       - 例 Australia's environment fluctuates enormously from year to year. 澳大利亚的环境每年变化都很大。
-    same: 同 waver (vi. 摇摆，摆动)；vary (v. 变化)
+    synonyms: 同 waver (vi. 摇摆，摆动)；vary (v. 变化)
   - word: fluctuation
     tags: [常见]
     phonetic: 【ˌflʌktjuˈeɪʃn】
@@ -9978,7 +9978,7 @@ words:
     collocation: 搭 flush away 冲洗掉，冲洗去
     samples: 
       - 例 You can flush a wound with iodine toprevent the infection. 可以用碘酒冲洗伤口，以防止感染。
-    same: 同 redden〔v. (使某物)变红；(脸因羞涩、愤怒等)发红〕; douche (vt. 冲洗，灌洗)
+    synonyms: 同 redden〔v. (使某物)变红；(脸因羞涩、愤怒等)发红〕; douche (vt. 冲洗，灌洗)
   - word: flutter 
     phonetic: 【ˈflʌtə(r)】
     trans: v. 振(翅)，拍打(翅膀)；飘动，晃动；(快速而不规则地)跳动
@@ -10058,7 +10058,7 @@ words:
     tips: 记 联想记忆：fore (预先) + see (看) → 预先看到→ 预见，预知
     samples: 
       - 例 What changes do you foresee in the educational field in the next 50 years? 在未来的50 年里，你认为教育界会发生什么变化？
-    same: 同 predict (v. 预言，预测)；foretell (vt. 预言，预示)
+    synonyms: 同 predict (v. 预言，预测)；foretell (vt. 预言，预示)
   - word: foreseeable 
     phonetic: 【fɔːˈsiːəbl】
     trans: a. 可预知的，能预测的
@@ -10120,7 +10120,7 @@ words:
     trans: a. 可怕的；难以应付的，难以克服的
     samples: 
       - 例 The new coastline is being bolstered with a formidable twelve kilometres of sea defences. 新的海岸线被一条12 公里长的坚固海防线保护起来。
-    same: 同 dreadful (a. 可怕的，令人畏惧的)；awesome (a. 使人敬畏的，使人惊惧的)；insurmountable (a. 不能克服的，不能超越的)
+    synonyms: 同 dreadful (a. 可怕的，令人畏惧的)；awesome (a. 使人敬畏的，使人惊惧的)；insurmountable (a. 不能克服的，不能超越的)
     antonym: 反 manageable (a. 能处理的)
   - word: formula
     tags: [常见]
@@ -10178,7 +10178,7 @@ words:
     samples: 
       - 例 The old couple have fostered over 60children during the past ten years. 这对老夫妇在过去的十年间领养了60 多名儿童。
     derive: 派 fosterling (n. 养子，养女)；fosterer (n. 养育者)
-    same: 同 nurture (vt. 抚育，教养)；cultivate (vt. 教养，培养)
+    synonyms: 同 nurture (vt. 抚育，教养)；cultivate (vt. 教养，培养)
   - word: foul
     tags: [常见]
     phonetic: 【faʊl】
@@ -10214,14 +10214,14 @@ words:
     collocation: 搭 a compound fracture 开放性骨折
     samples: 
       - 例 Fractures on tools indicate that a majority of ancient people were right- handed. 从工具上的裂痕我们可以看出，大多数古人都是惯用右手的。
-    same: 同 crack〔v.(使)破裂，(使)发出爆裂声n. 裂缝，爆裂声〕; split〔v.(使)分裂，分离n. 裂口〕
+    synonyms: 同 crack〔v.(使)破裂，(使)发出爆裂声n. 裂缝，爆裂声〕; split〔v.(使)分裂，分离n. 裂口〕
   - word: fragile 
     phonetic: 【ˈfrædʒaɪl】
     trans: a. 脆弱的；虚弱的；易碎的；易受伤害的
     tips: 记 词根记忆：frag (打碎) + ile (易…的) → 容易被打碎的→ 脆弱的；易碎的
     samples: 
       - 例 The fragile boxes arrived intact. 这些易碎的箱子被完好无损地运到了目的地。
-    same: 同 delicate (a. 易碎的，脆弱的)；brittle (a. 易碎的，易损坏的；脆弱的)；frail (a. 体弱的；易破碎的，易损的)
+    synonyms: 同 delicate (a. 易碎的，脆弱的)；brittle (a. 易碎的，易损坏的；脆弱的)；frail (a. 体弱的；易破碎的，易损的)
     antonym: 反 unbreakable (a. 打不破的，牢不可破的)；sturdy (a. 强壮的，强健的)
   - word: fragment 
     phonetic: 【ˈfrægmənt】
@@ -10235,7 +10235,7 @@ words:
     tips: 记 联想记忆：frag (打碎) + rance (看作France，法国) → 从法国买回来的香水瓶被打碎，芳香四溢→ 芳香；香水
     samples: 
       - 例 The rose sends out strong fragrance. 玫瑰散发出浓郁的香味。
-    same: 同 scent (n. 香味，香气)；perfume (n. 香味；香水)
+    synonyms: 同 scent (n. 香味，香气)；perfume (n. 香味；香水)
     antonym: 反 stink (n. 臭味，恶臭)；stench (n. 臭气，恶臭)
   - word: frame 
     phonetic: 【freɪm】
@@ -10295,7 +10295,7 @@ words:
     tips: 记 联想记忆：润滑油的功能(function)是减小摩擦力(friction)
     samples: 
       - 例 Studies of primitive societies suggest that the earliest method of making fire was throughfriction. 有关史前社会的研究表明，摩擦取火是最早的取火方式。
-    same: 同 discord (n. 不和，纷争)；conflict (n. 冲突，争论)；attrition (n. 磨损；摩擦)
+    synonyms: 同 discord (n. 不和，纷争)；conflict (n. 冲突，争论)；attrition (n. 磨损；摩擦)
     antonym: 反 accord (n. 一致，符合)；harmony (n. 相符，一致；和谐)
   - word: frightened
     tags: [常见]
@@ -10400,7 +10400,7 @@ words:
     trans: a. 狂怒的；激烈的
     samples: 
       - 例 The furious workers agitated for a strike. 愤怒的工人们鼓动罢工。
-    same: 同 irate (a. 暴怒的，极其愤怒的)；fierce (a. 强烈的，狂热的)；turbulent (a. 汹涌的，狂暴的)
+    synonyms: 同 irate (a. 暴怒的，极其愤怒的)；fierce (a. 强烈的，狂热的)；turbulent (a. 汹涌的，狂暴的)
     antonym: 反 meek (a. 温顺的，驯服的)；calm (a. 镇静的，平静的)；unperturbed (a. 宁静的；泰然自若的)
   - word: furnace 
     phonetic: 【ˈfɜːnɪs】
@@ -10425,7 +10425,7 @@ words:
     trans: n. 保险丝v. 因保险丝烧断而断电；熔合；熔化
     samples: 
       - 例 We have to insert a new fuse because the former one has malfunctioned. 保险丝烧断了，我们必须换一根新的。
-    same: 同 merge (v. 合并，并入)；meld〔v.(使)混合，(使)合并〕; smelt (v. 熔解，熔炼)
+    synonyms: 同 merge (v. 合并，并入)；meld〔v.(使)混合，(使)合并〕; smelt (v. 熔解，熔炼)
     antonym: 反 divide (v. 分，分开，分隔)；separate (v. 使分离，使分开)；split〔v.(使) 分裂，分离〕
   - word: fusion
     tags: [常见]
@@ -10475,7 +10475,7 @@ words:
     samples: 
       - 例 For vacation, I went to Las Vegas to gamble. 假期我去拉斯维加斯赌博了。
       - 例 Bob might show up on time, but I wouldn't gamble on it. 鲍勃也许会准时露面，但我不想冒这个险。
-    same: 同 bet (v. 打赌，赌博)；wager (v. 打赌；赌博)；stake (vt. 以…打赌，拿…冒险)
+    synonyms: 同 bet (v. 打赌，赌博)；wager (v. 打赌；赌博)；stake (vt. 以…打赌，拿…冒险)
   - word: gang 
     phonetic: 【gæŋ】
     trans: n. 一帮v. 结成一伙
@@ -10494,7 +10494,7 @@ words:
     tips: 记 发音记忆：“规矩”→ 规格
     samples: 
       - 例 These new monitors can gauge the exhaust from a passing vehicle. 这些新的监视器可以测量驶过车辆的尾气排放量。
-    same: 同 measure (n. 量具，计量单位v. 测量，度量)；criterion (n. 评判的标准，尺度)；estimate (v. 估计，估量)；evaluate (vt. 评价，估计)
+    synonyms: 同 measure (n. 量具，计量单位v. 测量，度量)；criterion (n. 评判的标准，尺度)；estimate (v. 估计，估量)；evaluate (vt. 评价，估计)
   - word: gear 
     phonetic: 【gɪə(r)】
     trans: n. 齿轮，传动装置，(排)挡；(从事某项活动所需的)用具、设备、衣服等 vt. 调节，调整，使适应
@@ -10571,7 +10571,7 @@ words:
     collocation: 搭 genetic code 遗传密码；genetic engineering基因工程；one's genetic makeup 一个人的基因结构
     samples: 
       - 例 Genetic inheritance determines a baby's characteristics. 遗传基因决定了婴儿的特征。派 genetical (a. 遗传的；起源的)
-    same: 同 hereditary (a. 遗传的，遗传性的)；inherited (a. 遗传的)；congenital (a. 先天的，天生的)
+    synonyms: 同 hereditary (a. 遗传的，遗传性的)；inherited (a. 遗传的)；congenital (a. 先天的，天生的)
   - word: genuine
     tags: [常见]
     phonetic: 【ˈdʒenjuɪn】
@@ -10639,7 +10639,7 @@ words:
     collocation: 搭 a gigantic sculpture 一座巨大的雕像
     samples: 
       - 例 A gigantic explosion tore buildings aroundthe bomb to fragments. 巨大的爆炸将炸弹周围的建筑物炸得粉碎。
-    same: 同 colossal (a. 巨大的，庞大的)；enormous(a. 巨大的，极大的)
+    synonyms: 同 colossal (a. 巨大的，庞大的)；enormous(a. 巨大的，极大的)
     antonym: 反 tiny (a. 极小的，微小的)；microscopic (a. 极小的)
   - word: gill 
     phonetic: 【gɪl】
@@ -10688,7 +10688,7 @@ words:
     tips: 记 联想记忆：和slide (n./v. 滑动)一起记
     samples: 
       - 例 The pilot managed to glide down to a safe landing. 飞行员成功地使飞机向下滑行并安全着陆。
-    same: 同 slide (n./v. 滑动，下滑)；slip (v. 滑倒；溜)
+    synonyms: 同 slide (n./v. 滑动，下滑)；slip (v. 滑倒；溜)
   - word: glimpse 
     phonetic: 【glɪmps】
     trans: vt. 瞥见n. 一瞥，一看
@@ -10701,7 +10701,7 @@ words:
     tips: 记 联想记忆：g + litter (看作little，小) → 一闪一闪小星星→ 闪光
     samples: 
       - 例 Wealth's glitter never washed a foul life clean. 财富的光辉永远洗不净肮脏的生涯。
-    same: 同 gleam (vi. 闪亮，闪烁n. 闪光，闪亮)；radiate〔v. 发出(光或热)〕; sheen (n. 光辉，光泽)
+    synonyms: 同 gleam (vi. 闪亮，闪烁n. 闪光，闪亮)；radiate〔v. 发出(光或热)〕; sheen (n. 光辉，光泽)
   - word: global
     tags: [常见]
     phonetic: 【ˈgləʊbl】
@@ -10849,7 +10849,7 @@ words:
     tips: 记 词根记忆：graph (书写) + ic (形容词后缀) → 文字的；生动的
     samples: 
       - 例 The graphic record shows three waves are arriving. 图表记录显示有三股浪潮正在靠近。
-    same: 同 lifelike (a. 逼真的，栩栩如生的)；vivid(a. 逼真的)；pictorial (a. 绘画的；用图片表示的)
+    synonyms: 同 lifelike (a. 逼真的，栩栩如生的)；vivid(a. 逼真的)；pictorial (a. 绘画的；用图片表示的)
     antonym: 反 vague (a. 含糊的，模糊的)；obscure (a. 模糊的；费解的)
   - word: graphology 
     phonetic: 【græˈfɒlədʒi】
@@ -10917,7 +10917,7 @@ words:
     trans: v. (使)伤心
     samples: 
       - 例 I grieved very much for what I have done. 我为自己的行为感到非常痛心。
-    same: 同 lament (v. 哀悼；悲痛)；bemoan (vt. 哀怨；悲叹)；sadden (vt. 使伤心，使悲哀)
+    synonyms: 同 lament (v. 哀悼；悲痛)；bemoan (vt. 哀怨；悲叹)；sadden (vt. 使伤心，使悲哀)
     antonym: 反 cheer (v. 欢呼)；rejoice (v. 感到高兴，充满喜悦)
   - word: grill
     tags: [常见]
@@ -11120,7 +11120,7 @@ words:
     collocation: 搭 door handle 门把手
     samples: 
       - 例 Friction management means handlingconflicts in a positive and constructive manner. 摩擦管理是指以积极的、建设性的态度来处理各种冲突。
-    same: 同 manage (v. 操纵，控制；管理)；regulate(v. 管制，控制)
+    synonyms: 同 manage (v. 操纵，控制；管理)；regulate(v. 管制，控制)
     derive: 派 mishandle (vt. 错误地处理)
   - word: handout 
     phonetic: 【ˈhændaʊt】
@@ -11204,14 +11204,14 @@ words:
     tips: 记 联想记忆：hast (看作fast，快的) + y → 快速完成的→ 匆忙的
     samples: 
       - 例 It is unwise to make a hasty conclusion. 草率地得出结论是不明智的。
-    same: 同 impetuous (a. 草率的，匆忙的)
+    synonyms: 同 impetuous (a. 草率的，匆忙的)
   - word: hatch 
     phonetic: 【hætʃ】
     trans: v. 孵出，孵化；策划n. (门、地板或天花板上的)开口；(飞机等的)舱门
     tips: 记 联想记忆：要想赢得比赛(match)得有准备和策划(hatch)
     samples: 
       - 例 Almost all the eggs in the farm will hatchinto chicks. 农场里几乎所有的鸡蛋都会孵化成小鸡。
-    same: 同 design (vt. 筹划，构思)；devise (vt. 策划，图谋)；scheme (v. 计划，策划)
+    synonyms: 同 design (vt. 筹划，构思)；devise (vt. 策划，图谋)；scheme (v. 计划，策划)
   - word: haul 
     phonetic: 【hɔːl】
     trans: vt. 用力拖；搬运
@@ -11299,7 +11299,7 @@ words:
     tips: 记 联想记忆：height (高度，海拔) + en(使…) → 提高→ (使)增强，(使)加剧
     samples: 
       - 例 Competition is a kind of friendship. You canheighten the degree of your wisdom with the help of your rivals. 竞争就是一种友谊。在对手的帮助下，你能够变得更聪明。
-    same: 同 intensify〔v. (使)增强，(使)加剧〕
+    synonyms: 同 intensify〔v. (使)增强，(使)加剧〕
     antonym: 反 lessen〔v. (使)变少，(使)减轻，(使)减少〕
   - word: heir 
     phonetic: 【eə(r)】
@@ -11368,7 +11368,7 @@ words:
     collocation: 搭 cultural heritage 文化遗产
     samples: 
       - 例 The highland games are part of Scotland's cultural heritage. 高地竞技是苏格兰文化遗产的一部分。
-    same: 同 legacy (n. 遗产，遗留之物，遗赠物)；inheritance (n. 遗产，继承物；遗赠)
+    synonyms: 同 legacy (n. 遗产，遗留之物，遗赠物)；inheritance (n. 遗产，继承物；遗赠)
   - word: hesitate 
     phonetic: 【ˈhezɪteɪt】
     trans: vi. 犹豫；不情愿
@@ -11524,7 +11524,7 @@ words:
     collocation: 搭 homogeneous light 单色光，均匀光；a homogeneous mixture 相同成分组成的混合物
     samples: 
       - 例 Uniforms can project the image of a companyand unite the workforce into a homogeneous unit. 工装能展示一个公司的形象，并使公司内部的员工凝聚为一个整体。
-    same: 同 identical (a. 相同的，相等的)；kindred (a. 同类的，类似的)；uniform (a. 相同的，一致的)
+    synonyms: 同 identical (a. 相同的，相等的)；kindred (a. 同类的，类似的)；uniform (a. 相同的，一致的)
     antonym: 反 heterogeneous (a. 异类的，不同的)；dissimilar (a. 不同的，相异的)
   - word: honour 
     phonetic: 【ˈɒnə(r)】
@@ -11627,7 +11627,7 @@ words:
     tips: 记 联想记忆：爱人(lover)在自己身边徘徊(hover)
     samples: 
       - 例 It is August 15th in the Chinese lunar calendar and there is a full moon hovering in the sky. 今天是农历八月十五，一轮满月挂在夜空中。
-    same: 同 linger〔vi. (因不愿离开而) 继续逗留，徘徊〕; flutter〔v. (鸟等)振翼，翩然而飞〕 
+    synonyms: 同 linger〔vi. (因不愿离开而) 继续逗留，徘徊〕; flutter〔v. (鸟等)振翼，翩然而飞〕 
   - word: however
     tags: [常见]
     phonetic: 【haʊˈevə(r)】
@@ -11666,7 +11666,7 @@ words:
     trans: n. 人类，人；人性；人道，仁慈； 【pl.】 人文学科
     samples: 
       - 例 The control of fire was the first and perhaps greatest of humanity's steps towards a lifeenhancing technology. 人类在迈向提高生活质量的技术旅途中，对火的支配是迈出的第一步，可能也是最重要的一步。
-    same: 同 humankind (n.〈总称〉人类)
+    synonyms: 同 humankind (n.〈总称〉人类)
   - word: humble
     tags: [常见]
     phonetic: 【ˈhʌmbl】
@@ -11732,7 +11732,7 @@ words:
     collocation: 搭 Continental Drift Hypothesis 大陆漂移说；raise a hypothesis 提出一个假设
     samples: 
       - 例 You have to discard or modify your hypothesis if shown not to be correct. 如果被证实不正确，你就必须放弃或修改你的假设。
-    same: 同 supposition (n. 假定；猜想)；assumption(n. 假定)
+    synonyms: 同 supposition (n. 假定；猜想)；assumption(n. 假定)
   - word: hypothetical 
     phonetic: 【ˌhaɪpəˈθetɪkl】
     trans: a. 假设的，假定的；爱猜想的
@@ -11757,7 +11757,7 @@ words:
     trans: a. 完全相同的，同一的
     samples: 
       - 例 Even among identical twins, one in six pairs will differ in their handedness. 即使是同卵双胞胎，平均六对中也会出现一对在使用左右手习惯上不同的双胞胎。
-    same: 同 alike (a. 同样的，相同的)；duplicate (a. 完全相同的)
+    synonyms: 同 alike (a. 同样的，相同的)；duplicate (a. 完全相同的)
     antonym: 反 dissimilar (a. 不同的，相异的)；distinct(a. 有区别的，不同的)
   - word: identifiable
     tags: [常见]
@@ -11779,7 +11779,7 @@ words:
     collocation: 搭 identify... with... 把…与…视为同一事物
     samples: 
       - 例 In 1986, American researchers identified the genetic defect underlying one type of muscular dystrophy. 1986年，一些美国研究人员发现了可导致某种肌肉萎缩症的遗传缺陷。
-    same: 同 recognize (vt. 认出，识别)；determine (v. 确定)；distinguish (v. 区别，辨别)
+    synonyms: 同 recognize (vt. 认出，识别)；determine (v. 确定)；distinguish (v. 区别，辨别)
   - word: identity
     tags: [常见]
     phonetic: 【aɪ ˈdentəti】
@@ -11800,7 +11800,7 @@ words:
     trans: a. 无知的；愚昧的
     samples: 
       - 例 She is very ignorant about her own job. 她非常不了解自己的工作。
-    same: 同 stupid (a. 愚蠢的，迟钝的)；retarded (a. 弱智的，迟钝的)
+    synonyms: 同 stupid (a. 愚蠢的，迟钝的)；retarded (a. 弱智的，迟钝的)
   - word: ignore
     tags: [常见]
     phonetic: 【ɪgˈnɔː(r)】
@@ -11824,14 +11824,14 @@ words:
     tips: 记 词根记忆：il (向内) + lumin (光) + ate →向内投入光→ 照亮；启发
     samples: 
       - 例 The street was illuminated by fireworks. 这条街被焰火照得通明。
-    same: 同 illustrate (v. 举例说明，阐明)；demonstrate(v.说明；证实)
+    synonyms: 同 illustrate (v. 举例说明，阐明)；demonstrate(v.说明；证实)
   - word: illusion 
     phonetic: 【ɪ ˈluːʒn】
     trans: n. 幻想中的事物，错误的观念；错觉，幻觉，假象
     tips: 记 联想记忆：il (不，无) + lus (看作lust，光) + ion (名词后缀)→ 看到根本没有的光→幻觉，假象
     samples: 
       - 例 He will be presenting his show of magic illusion and mystery at 9∶30.他将在9 点30 分表演神秘魔幻节目。
-    same: 同 mirage (n. 幻景，幻想)
+    synonyms: 同 mirage (n. 幻景，幻想)
   - word: illustrate 
     phonetic: 【ˈɪləstreɪt】
     trans: v. (用图等)说明，举例说明，阐明；给…作插图说明
@@ -11881,7 +11881,7 @@ words:
     collocation: 搭 in imitation of 模仿，仿效
     samples: 
       - 例 A child learns to talk by imitation. 小孩子通过模仿学会说话。
-    same: 同 fake (n. 假货，赝品)；counterfeit (n. 赝品)
+    synonyms: 同 fake (n. 假货，赝品)；counterfeit (n. 赝品)
   - word: immediately
     tags: [常见]
     phonetic: 【ɪ ˈmiːdiətli】
@@ -11929,7 +11929,7 @@ words:
     collocation: 搭 impair one's health 损害健康
     samples: 
       - 例 The performance of divers will be impairedif they work in cold water. 如果在冷水中工作，潜水员的工作效率会降低。
-    same: 同 injure (vt. 伤害，损害，损伤)；undermine (vt. 削弱，破坏)
+    synonyms: 同 injure (vt. 伤害，损害，损伤)；undermine (vt. 削弱，破坏)
     antonym: 反 strengthen (v. 加强，巩固)；improve (v. 改进，改善)
   - word: impart 
     phonetic: 【ɪmˈpɑːt】
@@ -11956,7 +11956,7 @@ words:
     tips: 记 词根记忆：im + pet (追求) + us → 有追求才有动力→ 推动，促进
     samples: 
       - 例 According to the insiders, real estate market's impetus first came from the effective demand for the release of China's huge population. 据业内人士分析，房地产市场的推动力首先来源于中国巨大人口的有效购房需求。
-    same: 同 stimulus〔n. 促进(因素)，刺激(物)〕; spur〔n. 刺激(物)，激励〕
+    synonyms: 同 stimulus〔n. 促进(因素)，刺激(物)〕; spur〔n. 刺激(物)，激励〕
   - word: implement 
     phonetic: 【ˈɪmplɪment】
     trans: vt. 使生效，实施；贯彻，执行 【ˈɪmplɪmənt】 n. 工具
@@ -11964,7 +11964,7 @@ words:
     samples: 
       - 例 Policy makers struggle to define andimplement appropriate legislation. 政策制定者们致力于阐释和执行适当的法规。
     derive: 派 implementation (n. 实施；执行)
-    same: 同 perform (v. 做，履行)；execute (vt. 执行，履行，实行)；utensil (n. 用具)；instrument (n. 仪器，器械，工具)
+    synonyms: 同 perform (v. 做，履行)；execute (vt. 执行，履行，实行)；utensil (n. 用具)；instrument (n. 仪器，器械，工具)
   - word: implication 
     phonetic: 【ˌɪmplɪ ˈkeɪʃn】
     trans: n. 含意；暗示，暗指；卷入，牵连
@@ -11972,7 +11972,7 @@ words:
     collocation: 搭 political implication 政治含意
     samples: 
       - 例 What would be the implications if humanitywere to understand, with precision, the genetic constitution?如果人类准确地破译了基因的构成，那将意味着什么呢？
-    same: 同 connection (n. 联系，关联)；involvement(n. 包含；连累)
+    synonyms: 同 connection (n. 联系，关联)；involvement(n. 包含；连累)
   - word: impose 
     phonetic: 【ɪmˈpəʊz】
     trans: v. 把…强加于；征(税等)；处以(罚款、监禁等)
@@ -12048,7 +12048,7 @@ words:
     collocation: 搭 on (the) impulse (of...) 凭(…的)冲动；impulse buying 即兴购买
     samples: 
       - 例 Mary bought the dress on impulse. 玛丽一时冲动买了这件衣服。
-    same: 同 desire (n. 愿望，欲望)；urge (n. 强烈的欲望，迫切的要求)
+    synonyms: 同 desire (n. 愿望，欲望)；urge (n. 强烈的欲望，迫切的要求)
   - word: in accordance with
     tags: [常见]
     trans: 按照，依据
@@ -12104,7 +12104,7 @@ words:
     samples: 
       - 例 The officials said more subway lines wouldbe inaugurated in Beijing to facilitate the public in the recent two years. 政府官员称，在未来两年中，北京将建成更多地铁线路以方便大众出行。
     derive: 派 inauguration (n. 就职，就职典礼)；inaugural (a. 就职的；开幕的)
-    same: 同 commence (v. 开始)；initiate (vt. 开始，发起)
+    synonyms: 同 commence (v. 开始)；initiate (vt. 开始，发起)
   - word: inborn 
     phonetic: 【ˌɪnˈbɔːn】
     trans: a. 天生的，先天的，天赋的
@@ -12132,7 +12132,7 @@ words:
     tips: 记 词根记忆：in (在里面) + cent (唱歌) + ive → 在里面唱歌→ 刺激
     samples: 
       - 例 Hypotheses provide the initiative andincentive for the inquiry. 假设促使人们主动去调查。
-    same: 同 motivation (n. 刺激，动机)；impetus (n. 推动，促进，刺激)
+    synonyms: 同 motivation (n. 刺激，动机)；impetus (n. 推动，促进，刺激)
   - word: incident 
     phonetic: 【ˈɪnsɪdənt】
     trans: n. 发生的事；事件，事变
@@ -12267,7 +12267,7 @@ words:
     tips: 记 联想记忆：in (不) + dispensable (可有可无的) → 不是可有可无的→ 必不可少的，必需的
     samples: 
       - 例 A good reference book is indispensable for learning a classwork. 一本好的参考书对于学习一门功课是必需的。
-    same: 同 essential (a. 非常重要的，必要的)；vital (a. 极其重要的，必不可少的)；requisite〔a. (成功所)必要的〕
+    synonyms: 同 essential (a. 非常重要的，必要的)；vital (a. 极其重要的，必不可少的)；requisite〔a. (成功所)必要的〕
   - word: individual 
     phonetic: 【ˌɪndɪ ˈvɪdʒuəl】
     trans: a. 个别的，单独的；独特的n. 个人，个体
@@ -12315,7 +12315,7 @@ words:
     tips: 记 词根记忆：in + dulg (屈服，让步) + e →屈服于欲望→ 满足(欲望等)；放纵
     samples: 
       - 例 Overseas visitors like to come to NewAlbion to indulge in one of Astoria's more famous agricultural products—wine. 外国游客喜欢到新英格兰尽情品尝这里的美酒，这是阿斯托里亚较出名的农产品之一。
-    same: 同 gratify (vt. 使满意，纵容)；satisfy〔v. 满足，(使)满意〕; spoil (v. 宠坏，溺爱)；pamper (vt. 纵容，娇惯)
+    synonyms: 同 gratify (vt. 使满意，纵容)；satisfy〔v. 满足，(使)满意〕; spoil (v. 宠坏，溺爱)；pamper (vt. 纵容，娇惯)
   - word: industrialise
     tags: [常见]
     phonetic: 【ɪnˈdʌstriəlaɪz】
@@ -12491,7 +12491,7 @@ words:
     tips: 记 词根记忆：in (向内) + her (黏附) + ent (形容词后缀) → 黏附在内的→ 内在的；生来就有的
     samples: 
       - 例 Women have an inherent love of beauty. 女人天生爱美。
-    same: 同 natural (a. 出于本性的，天赋的)；inborn(a. 天生的，天赋的)；innate (a. 天生的，天赋的)
+    synonyms: 同 natural (a. 出于本性的，天赋的)；inborn(a. 天生的，天赋的)；innate (a. 天生的，天赋的)
   - word: inheritance 
     phonetic: 【ɪnˈherɪtəns】
     trans: n. 遗传；继承，继承物；遗产，遗赠
@@ -12504,7 +12504,7 @@ words:
     tips: 记 词根记忆：in (不) + hib (拥有) + it → 使不能拥有→ 抑制，约束
     samples: 
       - 例 Studies show that intake of carbon monoxide inhibits the flow of oxygen to the heart. 研究显示，吸入一氧化碳会抑制氧气对心脏的供给。
-    same: 同 hinder (v. 阻碍，妨碍)；obstruct (vt. 妨碍，阻止)；impede (vt. 阻碍，妨碍，阻止)
+    synonyms: 同 hinder (v. 阻碍，妨碍)；obstruct (vt. 妨碍，阻止)；impede (vt. 阻碍，妨碍，阻止)
     antonym: 反 encourage (vt. 激励，促进)
   - word: inhumane 
     phonetic: 【ˌɪnhjuːˈmeɪn】
@@ -12539,7 +12539,7 @@ words:
     samples: 
       - 例 By injecting lime into the land around the water and neutralizing the effects of acid, scientists have created conditions in which fishcan survive. 通过对水域周围的土地注入石灰，中和当地的酸性效应，科学家已经创造出能让鱼存活的环境。
     derive: 派 injection (n. 注射)
-    same: 同 implant (vt. 注入，灌输)；infuse (vt. 注入，灌输)
+    synonyms: 同 implant (vt. 注入，灌输)；infuse (vt. 注入，灌输)
   - word: inland 
     phonetic: 【ˈɪnlænd】
     trans: a. 内陆的 【ˌɪnˈlænd】 ad. 向内地(或内陆)
@@ -12565,7 +12565,7 @@ words:
     collocation: 搭 technological innovation 技术革新
     samples: 
       - 例 The innovation of match - making technologymade the waterproof possible. 火柴制造技术的革新使人们生产出防水火柴。
-    same: 同 novelty (n. 新奇，新奇的事物)；reformation (n. 改革，革新)
+    synonyms: 同 novelty (n. 新奇，新奇的事物)；reformation (n. 改革，革新)
   - word: innovative 
     phonetic: 【ˈɪnəveɪtɪv】
     trans: a. 革新的，创新的，新颖的；富有革新精神的
@@ -12747,7 +12747,7 @@ words:
     collocation: 搭 insulate sb. from/against sth. 使某人与(不良影响)隔绝；insulating tape 绝缘胶带；insulated cable 绝缘电线
     samples: 
       - 例 The familiar native - style hotels couldinsulate the tourist from the strangeness of the host environment. 这种似曾相识的本土风格的旅馆能够避免让游客在异乡产生陌生感。
-    same: 同 isolate (vt. 使孤立，使隔离)
+    synonyms: 同 isolate (vt. 使孤立，使隔离)
   - word: insulation
     tags: [常见]
     phonetic: 【ˌɪnsjuˈleɪʃn】
@@ -12768,7 +12768,7 @@ words:
     tips: 记 词根记忆：in (不) + tact (接触) → 未经触动的→ 完整无缺的
     samples: 
       - 例 She hopes that her honor could remain intact. 她希望自己的名誉依旧能完好无损。
-    same: 同 undamaged (a. 未损坏的，未毁坏的)；sound (a. 健全的，完好的)
+    synonyms: 同 undamaged (a. 未损坏的，未毁坏的)；sound (a. 健全的，完好的)
     antonym: 反 broken (a. 破碎的)；shattered (a. 粉碎的，破坏的)
   - word: intake 
     phonetic: 【ˈɪnteɪk】
@@ -12784,7 +12784,7 @@ words:
     collocation: 搭 an integral number 整数
     samples: 
       - 例 This kind of beetle has become an integral part of the successful management of dairy farms in Australia over the past few decades. 在过去的几十年里，这种甲虫已成为澳大利亚乳牛场成功管理所必不可少的一部分。
-    same: 同 essential (a. 非常重要的)；basic (a. 基本的，根本的)；fundamental (a. 根本的，基础的)
+    synonyms: 同 essential (a. 非常重要的)；basic (a. 基本的，根本的)；fundamental (a. 根本的，基础的)
   - word: integrate
     tags: [常见]
     phonetic: 【ˈɪntɪgreɪt】
@@ -12822,7 +12822,7 @@ words:
     collocation: 搭 an intelligible speech 清楚的讲话
     samples: 
       - 例 I have failed to make the sentence intelligible. 我没能把这个句子弄清楚。
-    same: 同 clear (a. 清楚的，明白的)；distinct (a. 清楚的，明显的)
+    synonyms: 同 clear (a. 清楚的，明白的)；distinct (a. 清楚的，明显的)
     antonym: 反 unintelligible (a. 难解的，无法了解的)；incomprehensible (a. 不能理解的，难于领悟的)
   - word: intend 
     phonetic: 【ɪnˈtend】
@@ -12991,7 +12991,7 @@ words:
     tips: 记 词根记忆：inter (在…中间) + sect (切割) + ion (名词后缀)→ 在路面中间切割→ 道路交叉口，十字路口
     samples: 
       - 例 The intersections of these streets with MainStreet will not be affected. 这些道路与主干道的交叉口将不会受到影响。
-    same: 同 crossroad (n. 十字路口)
+    synonyms: 同 crossroad (n. 十字路口)
   - word: interval 
     phonetic: 【ˈɪntəvl】
     trans: n. 间隔，幕间休息；间距
@@ -13004,7 +13004,7 @@ words:
     tips: 记 词根记忆：inter (在…之间) + ven (来) + e → 来到中间→ 干涉，干扰
     samples: 
       - 例 The bank intervened with a large dollar purchase. 那家银行以大量购进美元来进行干预。
-    same: 同 interfere (vi. 介入，干涉，干扰)；interpose (v. 置于…之间，介入)
+    synonyms: 同 interfere (vi. 介入，干涉，干扰)；interpose (v. 置于…之间，介入)
   - word: intervention 
     phonetic: 【ˌɪntəˈvenʃn】
     trans: n. 干涉，干预，介入
@@ -13040,7 +13040,7 @@ words:
     samples: 
       - 例 A good teacher knows how to intrigue his students to learn. 好老师懂得如何激发学生的学习兴趣。
     derive: 派 intriguing (a. 迷人的，吸引人的)
-    same: 同 attract (vt. 吸引)；captivate (vt. 迷住，迷惑，吸引)；appeal (vi. 有吸引力)；plot (v./n. 密谋，阴谋)
+    synonyms: 同 attract (vt. 吸引)；captivate (vt. 迷住，迷惑，吸引)；appeal (vi. 有吸引力)；plot (v./n. 密谋，阴谋)
   - word: intrinsic
     tags: [常见]
     phonetic: 【ɪnˈtrɪnsɪk】
@@ -13048,7 +13048,7 @@ words:
     collocation: 搭 intrinsic nature 本质
     samples: 
       - 例 Students should realize the intrinsic value of education. 学生应该认识到教育的内在价值。派 intrinsically (ad. 内在地)
-    same: 同 inherent (a. 内在的，固有的)；essential (a. 本质的)；innate (a. 天生的，固有的)
+    synonyms: 同 inherent (a. 内在的，固有的)；essential (a. 本质的)；innate (a. 天生的，固有的)
     antonym: 反 extrinsic (a. 外来的，外在的)；external (a. 外面的，表面的)
   - word: introduce
     tags: [常见]
@@ -13110,7 +13110,7 @@ words:
     collocation: 搭 invalid characters 无效字符
     samples: 
       - 例 The judge declared Tom's marriage invalid. 法官宣布汤姆的婚姻无效。
-    same: 同 impotent (a. 无效的，不起作用的)；unfounded (a. 无事实根据的)
+    synonyms: 同 impotent (a. 无效的，不起作用的)；unfounded (a. 无事实根据的)
   - word: invaluable 
     phonetic: 【ɪnˈvæljuəbl】
     trans: a. 无价的
@@ -13140,7 +13140,7 @@ words:
     tips: 记 词根记忆：in + vent (来) + ory (表物) →有关所有进来的货物的→ 目录；存货
     samples: 
       - 例 Managing agents can offer a total service from reliable sourcing, managing inventory tobudget control and distribution. 运营代理商可以提供从可靠资源获取、库房存货管理以及从预算控制到商品分销的全套服务。
-    same: 同 checklist (n. 清单)
+    synonyms: 同 checklist (n. 清单)
   - word: inversion
     tags: [常见]
     phonetic: 【ɪnˈvɜːʃn】
@@ -13310,7 +13310,7 @@ words:
     tips: 记 来自isolate (vt. 使隔离)
     samples: 
       - 例 Old people could easily become a sociallyisolated group, so they should keep moving andmaintain interaction with the outside world. 老年人很容易变成与社会脱节的一个群体，所以他们应该不断前进并保持与外界的互动。
-    same: 同 remote (a. 偏远的)
+    synonyms: 同 remote (a. 偏远的)
   - word: issue
     tags: [常见]
     phonetic: 【ˈɪʃuː】
@@ -13436,7 +13436,7 @@ words:
     tips: 记 词根记忆：juven (年轻) + ile → 少年的；幼稚的
     samples: 
       - 例 Juvenile delinquency has increasedremarkably in the last decade. 在过去的十年里，未成年人犯罪有明显的增加。
-    same: 同 childish (a. 幼稚的)；immature (a. 不成熟的)；youngster (n. 少年，年轻人)；teenager(n. 青少年)
+    synonyms: 同 childish (a. 幼稚的)；immature (a. 不成熟的)；youngster (n. 少年，年轻人)；teenager(n. 青少年)
   - word: keen 
     phonetic: 【kiːn】
     trans: a. 热衷的，热心的，渴望的；敏锐的，敏捷的；激烈的，紧张的；锋利的
@@ -13745,7 +13745,7 @@ words:
     tips: 记 词根记忆：leg (法律) + itim + ate → 合法的，法定的
     samples: 
       - 例 The majority of scientists believe it is legitimate to use monkeys in medical research. 大多数科学家认为使用猴子进行医学研究是合法的。派legitimately (ad. 合情合理地)
-    same: 同 legal (a. 法定的，合法的)；lawful (a. 合法的，法定的)
+    synonyms: 同 legal (a. 法定的，合法的)；lawful (a. 合法的，法定的)
   - word: legitimize 
     phonetic: 【lɪ ˈdʒɪtəmaɪz】
     trans: vt. 使合法；赋予合法权利
@@ -13936,7 +13936,7 @@ words:
     samples: 
       - 例 The literal meaning of the phrase "say what you like" is "feel free to say anything you want". “say what you like”这个短语的字面意思是“说你想说的，不用拘束”。
     derive: 派 literally ( ad. 逐字地；实际上)
-    same: 同 verbatim (a. 逐字的，照字面的)
+    synonyms: 同 verbatim (a. 逐字的，照字面的)
   - word: literate 
     phonetic: 【ˈlɪtərət】
     trans: a. 有读写能力的；有文化的；博学的
@@ -13955,7 +13955,7 @@ words:
     tips: 记 联想记忆：把little 的“l”乱丢，错拿成“r”→ 乱扔
     samples: 
       - 例 Cow pats would litter pastures, making grass inedible to cattle and depriving the soil of sunlight. 牛粪会弄脏牧草，使草变得不适合牛群食用，也使土壤得不到阳光的照射。
-    same: 同 trash (n. 垃圾，废物)；rubbish (n. 垃圾，废物)
+    synonyms: 同 trash (n. 垃圾，废物)；rubbish (n. 垃圾，废物)
   - word: livelihood
     tags: [常见]
     phonetic: 【ˈlaɪvlihʊd】
@@ -14269,7 +14269,7 @@ words:
     tips: 记 词根记忆：mani (手) + pul (拉) + ate →用手拉→ 处理；操纵
     samples: 
       - 例 Computers are very efficient at manipulating information. 计算机在处理信息方面效率极高。
-    same: 同 handle (v. 操作，操纵)；manoeuvre (v. 操纵)
+    synonyms: 同 handle (v. 操作，操纵)；manoeuvre (v. 操纵)
   - word: manipulative 
     phonetic: 【məˈnɪpjələtɪv】
     trans: a. 操纵别人的；老于世故的
@@ -14609,7 +14609,7 @@ words:
     tips: 记 联想记忆：men (人) + ace (看作race，赛跑) → 和你赛跑的人对你构成了威胁→ 威胁搭 a menace to sb./sth. 对…的威胁
     samples: 
       - 例 Let's look at some of the reasons why backpain is developing into such a unique menace. 让我们来看一看为什么背疼会演变成一种顽疾。
-    same: 同 threat (n. 威胁，恐吓)；threaten (v. 威胁，恐吓)
+    synonyms: 同 threat (n. 威胁，恐吓)；threaten (v. 威胁，恐吓)
   - word: mental
     tags: [常见]
     phonetic: 【ˈmentl】
@@ -14742,7 +14742,7 @@ words:
     tips: 记 词根记忆：migr (迁移) + ate → 迁徙；移居
     samples: 
       - 例 About half the nation's 2,000 beekeepers migrate north to find more flowers for their bees. 在这个国家的2000个养蜂人中，约半数人为给蜜蜂找到更多的花而北迁。
-    same: 同 emigrate (v. 移居国外)；immigrate (v. 移居入境)
+    synonyms: 同 emigrate (v. 移居国外)；immigrate (v. 移居入境)
   - word: migration
     tags: [常见]
     phonetic: 【maɪ ˈgreɪʃn】
@@ -14780,7 +14780,7 @@ words:
     tips: 记 词根记忆：milit (打架) + ant → 好战的
     samples: 
       - 例 One militant group warned the government to take notice. 一个激进的团体警告政府要注意。
-    same: 同 combative (a. 好斗的)；agitator (n. 鼓动者，煽动者)；firebrand〔 n. 引起(社会或政治)动乱的人〕
+    synonyms: 同 combative (a. 好斗的)；agitator (n. 鼓动者，煽动者)；firebrand〔 n. 引起(社会或政治)动乱的人〕
     antonym: 反 dove (n. 主和派人物)；pacifist (n. 和平主义者，反战主义者)
   - word: military 
     phonetic: 【ˈmɪlətri】
@@ -15002,7 +15002,7 @@ words:
     tips: 记 联想记忆：moment (瞬间) + um → 冲力在瞬间迸发→ 冲力
     samples: 
       - 例 She worked day and night with the momentum of going abroad for further education. 出国深造是她夜以继日辛勤工作的动力。
-    same: 同 impetus (n. 促进；推动力)
+    synonyms: 同 impetus (n. 促进；推动力)
   - word: monitor 
     phonetic: 【ˈmɒnɪtə(r)】
     trans: n. 班长；监视器 vt. 监视；监测
@@ -15200,7 +15200,7 @@ words:
     tips: 记 联想记忆：myster (=mystery 神秘) + i +ous → 神秘的
     samples: 
       - 例 Writers transport their heroes to mysterious realms beyond the Earth.作家们将其笔下的英雄带到地球之外的神秘地域。
-    same: 同 strange (a. 神秘的)；mystical (a. 奥秘的)
+    synonyms: 同 strange (a. 神秘的)；mystical (a. 奥秘的)
   - word: naive 
     phonetic: 【naɪ ˈiːv】
     trans: a. 幼稚的，天真的，不成熟的
@@ -15208,7 +15208,7 @@ words:
     collocation: 搭 naive attitude 天真的态度
     samples: 
       - 例 The second flaw in the document is the naive faith it places in its 1,000 core zoos. 这一文献的第二个瑕疵就是，它天真地信任了所谓的1000家核心动物园。
-    same: 同 childish (a. 幼稚的，不成熟的)；puerile (a. 幼稚的，孩子气的)
+    synonyms: 同 childish (a. 幼稚的，不成熟的)；puerile (a. 幼稚的，孩子气的)
   - word: naked 
     phonetic: 【ˈneɪkɪd】
     trans: a. 裸体的，无遮蔽的
@@ -15228,7 +15228,7 @@ words:
     collocation: 搭 a nasty person 下流的人；nasty weather 恶劣的天气
     samples: 
       - 例 Many people feel that it's dangerous to ride the subway—there have been some nastyattacks. 很多人认为乘坐地铁很危险，因为地铁上发生过一些可怕的袭击。
-    same: 同 disgusting (a. 令人厌恶的，使人反感的)；offensive (a. 使人不快的，讨厌的)
+    synonyms: 同 disgusting (a. 令人厌恶的，使人反感的)；offensive (a. 使人不快的，讨厌的)
   - word: nationality 
     phonetic: 【ˌnæʃəˈnæləti】
     trans: n. 国籍；民族
@@ -15298,7 +15298,7 @@ words:
     samples: 
       - 例 After years of neglect, single speed cycles still manage to function, though not always tooefficiently. 在被忽视多年之后，单速自行车尽管往往效率不高，但依然发挥着作用。
       - 例 Don't neglect writing to your mother. 别忘了给你母亲写信。
-    same: 同 ignore ( vt. 不理，忽视)；overlook ( vt. 忽略，未注意到)
+    synonyms: 同 ignore ( vt. 不理，忽视)；overlook ( vt. 忽略，未注意到)
   - word: negotiate 
     phonetic: 【nɪ ˈgəʊʃieɪt】
     trans: v. 洽谈，协商；商定，达成；顺利通过
@@ -15366,7 +15366,7 @@ words:
     samples: 
       - 例 The bonus to employees is merely a nominal sum. 雇员们只得到了一笔象征性的奖金。
     derive: 派 nominally ( ad. 有名无实地，名义上地)
-    same: 同 titular (a. 有名无实的，名义上的)；minor(a. 较小的，较少的)
+    synonyms: 同 titular (a. 有名无实的，名义上的)；minor(a. 较小的，较少的)
     antonym: 反 actual (a. 实际的，真实的)；genuine (a. 真正的)
   - word: Nordic 
     phonetic: 【ˈnɔːdɪk】
@@ -15392,7 +15392,7 @@ words:
     samples: 
       - 例 The most notable of these activities was the Woman's Exhibition. 在这些活动中，最引人注目的是妇女(作品)展。
     derive: 派 notably ( ad. 显著地，特别地)
-    same: 同 eminent (a. 杰出的，显赫的)；noteworthy(a. 显著的，值得注目的)；remarkable (a. 显著的，值得注意的)
+    synonyms: 同 eminent (a. 杰出的，显赫的)；noteworthy(a. 显著的，值得注目的)；remarkable (a. 显著的，值得注意的)
   - word: notice board 
     tags: [常见]
     trans: 布告牌，公告牌
@@ -15428,14 +15428,14 @@ words:
     samples: 
       - 例 Tom was a notorious liar. 汤姆是一个声名狼藉的骗子。
     derive: 派 notoriously ( ad. 出名地，声名狼藉地)
-    same: 同 infamous (a. 声名狼藉的，臭名昭著的)；disreputable (a. 声名狼藉的)
+    synonyms: 同 infamous (a. 声名狼藉的，臭名昭著的)；disreputable (a. 声名狼藉的)
   - word: nourish 
     phonetic: 【ˈnʌrɪʃ】
     trans: vt. 养育，滋养；培养(情绪、 观点等)
     samples: 
       - 例 All the children were well nourished and ingood physical condition. 所有这些孩子都营养良好，身体健康。
     derive: 派 nourishing (a. 有营养的)
-    same: 同 nurture ( vt. 抚育，教养)；foster (v. 培养，培育)
+    synonyms: 同 nurture ( vt. 抚育，教养)；foster (v. 培养，培育)
   - word: novice 
     phonetic: 【ˈnɒvis】
     trans: n. 生手，新手；初学者；新信徒，初学修士(或修女)
@@ -15468,7 +15468,7 @@ words:
     tips: 记 联想记忆：大自然(nature)滋养(nurture)着人类
     samples: 
       - 例 We need to grow and nurture new talents. 我们需要增加和培养新人才。
-    same: 同 nourish ( vt. 养育，喂养)；cultivate ( vt. 教养，培养)；foster (v. 养育，培养)
+    synonyms: 同 nourish ( vt. 养育，喂养)；cultivate ( vt. 教养，培养)；foster (v. 养育，培养)
   - word: nutrient 
     phonetic: 【ˈnjuːtriənt】
     trans: n. 滋养物，营养品
@@ -15484,7 +15484,7 @@ words:
     samples: 
       - 例 Female are more conscious of foodnutrition. 女性更关注食品营养。
     derive: 派 nutritionist (n. 营养学家)；malnutrition (n. 营养不良)
-    same: 同 nourishment (n. 营养品)；sustenance (n. 食物，营养物)
+    synonyms: 同 nourishment (n. 营养品)；sustenance (n. 食物，营养物)
   - word: nutritional 
     phonetic: 【njuˈtrɪʃənl】
     trans: a. 营养的，滋养的；营养物的，食物的
@@ -15688,7 +15688,7 @@ words:
     samples: 
       - 例 His paper, with opaque cases, made the tutor dizzy. 他论文中晦涩难懂的案例让导师感到头晕目眩。
     derive: 派 opaquely ( ad. 不透明地，无光泽地)；opaqueness (n. 含糊)
-    same: 同 obscure (a. 模糊的；费解的)；vague (a. 含糊的，不明确的)
+    synonyms: 同 obscure (a. 模糊的；费解的)；vague (a. 含糊的，不明确的)
     antonym: 反 transparent (a. 透明的)
   - word: operate 
     phonetic: 【ˈɒpəreɪt】
@@ -15768,7 +15768,7 @@ words:
     tips: 记 词根记忆：optim (最好) + um → 最好的
     samples: 
       - 例 The optimum time for playing would dependon when it was most advantageous for the youngof a particular species to do so. 玩耍的最佳时间取决于何时玩耍对某一特定物种的幼崽最为有利。
-    same: 同 optimal (a. 最佳的，最理想的)；ideal (a. 理想的，完美的)
+    synonyms: 同 optimal (a. 最佳的，最理想的)；ideal (a. 理想的，完美的)
   - word: option 
     phonetic: 【ˈɒpʃn】
     trans: n. 选择(权)；(供)选择的物(或人)；选课
@@ -15900,7 +15900,7 @@ words:
     samples: 
       - 例 In many other industralised countries, orthodox and alternative medicine have worked"hand in glove" for years. 在其他的工业化国家里，传统医学与替代医学已经紧密结合多年了。
     derive: 派 orthodoxy (n. 正统观念)
-    same: 同 conventional (a. 传统的)；customary (a. 习惯的，惯例的)
+    synonyms: 同 conventional (a. 传统的)；customary (a. 习惯的，惯例的)
   - word: otherwise
     tags: [常见]
     phonetic: 【ˈʌðəwaɪz】
@@ -16296,7 +16296,7 @@ words:
     samples: 
       - 例 More than 1,000 acre fields were plantedwith crops several years ago, but now are returned to pasture for the cattle. 数年前，这里是1000多英亩的农田，如今退耕还牧，成为牧场。
     derive: 派 pasturage (n. 放牧)
-    same: 同 meadow (n. 草地，牧场)；grassland (n. 牧草地，草原)
+    synonyms: 同 meadow (n. 草地，牧场)；grassland (n. 牧草地，草原)
   - word: patent 
     phonetic: 【ˈpætnt;ˈpeɪtnt】
     trans: vt. 取得专利权n. 专利(权) 【ˈpeɪtnt】 a. 显而易见的；有专利的，受专利保护的
@@ -16412,7 +16412,7 @@ words:
     samples: 
       - 例 While I was examining the small stars, I perceived one that appeared visibly larger thanthe rest. 我观察那些小星星时，发现有一颗明显比其他的大。
       - 例 Tom perceived Mary's comment as a challenge. 汤姆认为玛丽的批评是对他的一种激励。
-    same: 同 detect ( vt. 察觉，发觉)；comprehend (v. 领会，理解)
+    synonyms: 同 detect ( vt. 察觉，发觉)；comprehend (v. 领会，理解)
   - word: percentage
     tags: [常见]
     phonetic: 【pəˈsentɪdʒ】
@@ -16457,7 +16457,7 @@ words:
     samples: 
       - 例 The professor's paper has been issued in the latest periodical. 教授的论文已经发表在最近的一期期刊上。
     derive: 派 periodically ( ad. 周期地；定期地，按时地)
-    same: 同 journal (n. 定期刊物，杂志)；magazine (n. 杂志，期刊)
+    synonyms: 同 journal (n. 定期刊物，杂志)；magazine (n. 杂志，期刊)
   - word: peripheral 
     phonetic: 【pəˈrɪfərəl】
     trans: a. 外围的；次要的，附带的n. 外围设备
@@ -16486,7 +16486,7 @@ words:
     samples: 
       - 例 As a kind of research study, this method is permeated in all the courses as well as all activities of students. 作为一种研究性学习，这种方法渗透于学生的所有学科和所有活动中。
     derive: 派 permeation (n. 渗入，透过)；permeant (a. 浸透的)
-    same: 同 penetrate (v. 穿透，渗透)；saturate ( vt. 浸透，使充满)
+    synonyms: 同 penetrate (v. 穿透，渗透)；saturate ( vt. 浸透，使充满)
   - word: permission
     tags: [常见]
     phonetic: 【pəˈmɪʃn】
@@ -16506,7 +16506,7 @@ words:
     tips: 记 词根记忆：per (自始至终) + pet (追求) +ual → 自始至终追求的→ 长期的；永久的
     samples: 
       - 例 Life itself was a perpetual and punishingsearch for food. 生活本身就是一个不断辛苦找寻食物的过程。
-    same: 同 eternal (a. 永恒的，永远的)；permanent (a. 永久的，持久的)；continuous (a. 连续的，持续的)
+    synonyms: 同 eternal (a. 永恒的，永远的)；permanent (a. 永久的，持久的)；continuous (a. 连续的，持续的)
     antonym: 反 temporary (a. 暂时的，临时的)
   - word: perpetuate 
     phonetic: 【pəˈpetʃueɪt】
@@ -16522,7 +16522,7 @@ words:
     samples: 
       - 例 The leukaemia has continued to perplexdoctors on how to heal. 白血病如何治愈的问题始终困扰着医生。
     derive: 派 perplexity (n. 困惑)；perplexing (a. 复杂的)
-    same: 同 baffle ( vt. 使困惑)；mystify ( vt. 使迷惑)；puzzle〔 v. (使)迷惑〕
+    synonyms: 同 baffle ( vt. 使困惑)；mystify ( vt. 使迷惑)；puzzle〔 v. (使)迷惑〕
   - word: perquisite 
     phonetic: 【ˈpɜːkwɪzɪt】
     trans: n. 利益；特权
@@ -16726,7 +16726,7 @@ words:
     samples: 
       - 例 The little boy could not find plausible explanation for the breaking of the beautiful vase. 小男孩找不到任何说得过去的理由来解释漂亮的花瓶怎么碎了。
     derive: 派 plausibility (n. 似乎有理；善辩)；implausible (a. 难以置信的，不像真实的)；plausibly (ad. 似真地)
-    same: 同 colorable (a. 似是而非的)
+    synonyms: 同 colorable (a. 似是而非的)
     antonym: 反 actual (a. 真实的)
   - word: pledge
     tags: [常见]
@@ -17006,7 +17006,7 @@ words:
     collocation: 搭 set a precedent for 为…提供先例
     samples: 
       - 例 The October Revolution was without precedent in recent history, which made a significant influence in Russia. 十月革命在近代历史上是没有先例的，对俄国产生了深远的影响。
-    same: 同 tradition (n. 常例，常规)
+    synonyms: 同 tradition (n. 常例，常规)
     antonym: 反 following (n. 下列各项；部下)
     derive: 派 precedence (n. 优先；优先权)
   - word: precipitation 
@@ -17141,7 +17141,7 @@ words:
     collocation: 搭 the major premise 主要前提
     samples: 
       - 例 His agreement of this investment is based onthe premise that all people are equally share the risk. 基于所有人平均分担风险的前提，他同意了该项投资。
-    same: 同 hypothesis (n. 假设)
+    synonyms: 同 hypothesis (n. 假设)
   - word: premium
     tags: [常见]
     phonetic: 【ˋpriːmiəm】
@@ -17273,7 +17273,7 @@ words:
     tips: 记 词根记忆：pre (在…前面) + val (力量) +ent → 有走在前面的力量的→ 流行的
     samples: 
       - 例 The use of child soldiers has been prevalent in these two countries. 使用儿童兵在这两个国家很普遍。
-    same: 同 widespread (a. 分布广的，普遍的)；universal (a. 普遍的，全体的)
+    synonyms: 同 widespread (a. 分布广的，普遍的)；universal (a. 普遍的，全体的)
     antonym: 反 rare (a. 稀有的，罕见的)；uncommon (a. 不凡的，罕有的)
   - word: preventative 
     phonetic: 【prI ˈventətIv】
@@ -17296,7 +17296,7 @@ words:
     collocation: 搭 prey on insects 捕食昆虫为生
     samples: 
       - 例 Most animals hunt their prey by means of their eyesight. 大多数动物靠视力进行捕猎。
-    same: 同 quarry (n. 猎物)；victim (n. 受害者，牺牲品)；afflict (vt. 使苦恼，折磨)；bother (v. 打扰，麻烦)
+    synonyms: 同 quarry (n. 猎物)；victim (n. 受害者，牺牲品)；afflict (vt. 使苦恼，折磨)；bother (v. 打扰，麻烦)
   - word: primary 
     phonetic: 【ˋpraIməri】
     trans: a. 最初的，初级的；首要的，基本的
@@ -17354,7 +17354,7 @@ words:
     tips: 记 词根记忆：priv (私有) + acy → 隐私
     samples: 
       - 例 Biometrics raise thorny questions about privacy and the potential for abuse. 生物测验学会引发一些有关隐私的棘手问题，同时它还很可能会被滥用。
-    same: 同 secrecy (n. 秘密，保密)；seclusion (n. 归隐；私人的范围)
+    synonyms: 同 secrecy (n. 秘密，保密)；seclusion (n. 归隐；私人的范围)
     antonym: 反 publicity (n. 公开)
   - word: private
     tags: [常见]
@@ -17396,7 +17396,7 @@ words:
     tips: 记 词根记忆：prob (检测) + e → 探测，查究
     samples: 
       - 例 The space probe sent back useful information to us. 太空探测器给我们发回了有用的信息。派 probing (a. 探查性的；逼视的)
-    same: 同 investigate (v. 调查)；survey (v. 调查；检查)
+    synonyms: 同 investigate (v. 调查)；survey (v. 调查；检查)
   - word: procedure 
     phonetic: 【prəˋsiːdʒə (r)】
     trans: n. 程序，手续；过程
@@ -17439,7 +17439,7 @@ words:
     samples: 
       - 例 It was the famous speech delivered by the President in which he proclaimed that the country was independent. 在这次著名的演说中，总统宣布该国独立了。
     derive: 派 proclamation (n. 公告，布告，声明)
-    same: 同 declare (v. 正式宣布；宣称)；announce (v. 宣布，声称)
+    synonyms: 同 declare (v. 正式宣布；宣称)；announce (v. 宣布，声称)
   - word: procrastinate 
     phonetic: 【prəʊˋkræstIneIt】
     trans: v. 耽搁，拖延
@@ -17457,7 +17457,7 @@ words:
     tips: 记 联想记忆：product (产品) + ivity → 生产力；生产率
     samples: 
       - 例 This process enhanced our ability to improve productivity and quality.这一方法增强了我们提高生产力和质量的能力。
-    same: 同 output (n. 产量；输出量)；capacity (n. 容量；生产力)
+    synonyms: 同 output (n. 产量；输出量)；capacity (n. 容量；生产力)
   - word: profession 
     phonetic: 【prəˋfeʃn】
     trans: n. 行业，职业；宣称，表白
@@ -17494,7 +17494,7 @@ words:
     collocation: 搭 a highly profitable business 非常有利可图的生意
     samples: 
       - 例 It is profitable for employers to work their existing employees hard. 雇主让他们的雇员努力工作是有利可图的。
-    same: 同 beneficial (a. 有益的，有利的)；lucrative(a. 赚钱的；有利可图的)
+    synonyms: 同 beneficial (a. 有益的，有利的)；lucrative(a. 赚钱的；有利可图的)
     antonym: 反 unprofitable (a. 无利益的，不赚钱的)；worthless (a. 无价值的，无益的)
   - word: profound 
     phonetic: 【prəˋfaʊnd】
@@ -17503,7 +17503,7 @@ words:
     collocation: 搭 a profound sleep 酣睡；a profound idea 思想深刻
     samples: 
       - 例 Globalization effects very profound changes in modern lifestyles. 全球化使现代人的生活方式发生了深刻的变化。
-    same: 同 abstruse (a. 深奥的)；recondite (a. 深奥的，难以理解的)
+    synonyms: 同 abstruse (a. 深奥的)；recondite (a. 深奥的，难以理解的)
     antonym: 反 shallow (a. 肤浅的，浅薄的)
   - word: prohibit
     tags: [常见]
@@ -17533,7 +17533,7 @@ words:
     samples: 
       - 例 As the recent experiment shows, prolongeduse of the new drug might have harmful side effects on patients. 最新的实验表明，长期使用这种新药物可能会对病人产生有害的副作用。
     derive: 派 prolongable (a. 可延长的，可拖延的)；prolongation (n. 延长，延伸)
-    same: 同 elongate (v. 伸长，拉长)；extend (v. 延展，延长)
+    synonyms: 同 elongate (v. 伸长，拉长)；extend (v. 延展，延长)
     antonym: 反 shorten〔v. (使)缩短，变短〕
   - word: prominence 
     phonetic: 【ˋprɒmInəns】
@@ -17595,14 +17595,14 @@ words:
     samples: 
       - 例 Those false television advertising onmedicine, with the famous as their spokesman, had propagated a false image in the public. 那些由名人代言的虚假医药广告在公众中宣传了一种虚假形象。
     derive: 派 propagation (n. 繁殖；传播)
-    same: 同 produce (vt. 生产；繁殖)； multiply (v. 增加；繁殖)
+    synonyms: 同 produce (vt. 生产；繁殖)； multiply (v. 增加；繁殖)
   - word: propel 
     phonetic: 【prəˈpel】
     trans: vt. 推进，推动；驱使
     tips: 记 词根记忆：pro (向前) + pel (推) → 推进
     samples: 
       - 例 This does not mean that it was immediatelyused to propel rockets. 这并不意味着它立即就被用来推进火箭。
-    same: 同 stimulate (vt. 刺激，激励)； impel (vt. 驱使；推进)
+    synonyms: 同 stimulate (vt. 刺激，激励)； impel (vt. 驱使；推进)
   - word: propellant 
     phonetic: 【prəˈpelənt】
     trans: n. 喷射剂；推进物，推进剂
@@ -17642,7 +17642,7 @@ words:
     collocation: 搭 prospective damage 预计损失
     samples: 
       - 例 Department heads composed prospective teams using a combination of people from all three categories. 部门领导从现有所有三组人中选出一些人组成未来的团队。
-    same: 同 imminent (a. 即将来临的)； anticipated (a. 预期的)
+    synonyms: 同 imminent (a. 即将来临的)； anticipated (a. 预期的)
   - word: prospectus
     tags: [常见]
     phonetic: 【prəˈspektəs】
@@ -17668,7 +17668,7 @@ words:
     tips: 记 词根记忆：proto (首先) + typ (模型) + e →首先的模型→ 原型
     samples: 
       - 例 Toyota has invested hundreds of millions of dollars into R&D efforts, so as to take the market share in prototype hydrogen vehicles. 丰田汽车公司已经投入数亿美元的研发经费，以便在氢能源原型车市场占有一定的份额。
-    same: 同 archetype (n. 原型)； original (n. 原物，原作)
+    synonyms: 同 archetype (n. 原型)； original (n. 原物，原作)
   - word: protrude 
     phonetic: 【prəˈtruːd】
     trans: v. (使)伸出；(使)突出
@@ -17695,7 +17695,7 @@ words:
     collocation: 搭 make provision 做好准备，预先采取措施；under the provision of sth. 依据…条款
     samples: 
       - 例 The country has enough provisions of grainfor the future several years. 这个国家为未来几年备有足够的粮食储备。
-    same: 同 preparation (n. 准备，预备)； clause (n. 条款)； food (n. 食物)
+    synonyms: 同 preparation (n. 准备，预备)； clause (n. 条款)； food (n. 食物)
   - word: prowess 
     phonetic: 【ˈpraʊəs】
     trans: n. 杰出的才能，高超的技艺，专长，造诣
@@ -17710,7 +17710,7 @@ words:
     collocation: 搭 proximity to 邻近；亲近；in close proximity 非常接近
     samples: 
       - 例 I chose the flat for its proximity to mycompany. 我选这个公寓是因为它离我们公司近。
-    same: 同 vicinity (n. 邻近，附近)
+    synonyms: 同 vicinity (n. 邻近，附近)
     antonym: 反 distance (n. 远离，远隔)
   - word: psychiatric
     tags: [常见]
@@ -17791,7 +17791,7 @@ words:
     samples: 
       - 例 As is well - known, one of the main doctrines of this religion is that people should try to purifytheir mind. 众所周知，该宗教的一条主要教义是人们要净化自己的心灵。
     derive: 派 purification (n. 净化，提纯)； purist (n. 纯粹主义者)
-    same: 同 cleanse (vt. 清洗；净化)； refine (vt. 提纯，提炼；改善)
+    synonyms: 同 cleanse (vt. 清洗；净化)； refine (vt. 提纯，提炼；改善)
     antonym: 反 contaminate (vt. 污染，玷污)
   - word: purpose
     tags: [常见]
@@ -17807,7 +17807,7 @@ words:
     collocation: 搭 in pursuit of 追求
     samples: 
       - 例 Archaeology is both a physical activity out inthe field and an intellectual pursuit in the studyor laboratory. 考古学既是一种野外的体力活动，也是研究室或实验室里的知性探索。
-    same: 同 chase (n. 追逐)； hobby (n. 业余爱好)
+    synonyms: 同 chase (n. 追逐)； hobby (n. 业余爱好)
   - word: qualification
     tags: [常见]
     phonetic: 【ˌkwɒlɪfɪ ˈkeɪʃn】
@@ -17839,13 +17839,13 @@ words:
     trans: n. 问卷，调查表
     samples: 
       - 例 They did a lot of research usingquestionnaires. 他们借助问卷调查进行了大量研究。
-    same: 同 questionary (n. 调查表，问卷)
+    synonyms: 同 questionary (n. 调查表，问卷)
   - word: quiver 
     phonetic: 【ˈkwɪvə(r)】
     trans: v. 颤抖，抖动
     samples: 
       - 例 The moth quivered its wings in front of the fire. 蛾子在火堆前抖动着翅膀。
-    same: 同 quake (vi. 震动；颤抖)； shake〔v. (使)颤抖，(使)震动〕
+    synonyms: 同 quake (vi. 震动；颤抖)； shake〔v. (使)颤抖，(使)震动〕
   - word: quota 
     phonetic: 【ˈkwəʊtə】
     trans: n. 定额，限额，配额
@@ -17853,7 +17853,7 @@ words:
     derive: 派 a quota system for …的限额制度
     samples: 
       - 例 Your sales are always below quota. 你们的销售量总是低于限额。
-    same: 同 allotment (n. 分配；份额)
+    synonyms: 同 allotment (n. 分配；份额)
   - word: quote
     tags: [常见]
     phonetic: 【kwəʊt】
@@ -17883,7 +17883,7 @@ words:
     collocation: 搭 with a twenty-meter radius 半径是20 米
     samples: 
       - 例 Some local carpenters could only accept jobs in a three - kilometer radius. 当地的一些木匠只能接受方圆三千米内的工作。
-    same: 同 range (n. 幅度，范围)； parameter (n. 【常pl.】界限，范围)
+    synonyms: 同 range (n. 幅度，范围)； parameter (n. 【常pl.】界限，范围)
   - word: rampant 
     phonetic: 【ˈræmpənt】
     trans: a. (犯罪、疾病等)猖獗的，肆虐的，泛滥的；(植物)蔓生的，疯长的
@@ -17896,7 +17896,7 @@ words:
     collocation: 搭 at random 随机地，任意地；randomselection 随机的选择；random sampling 随机取样；random access 随机存取
     samples: 
       - 例 The robots follow their own random paths around the plant busily getting on with their jobs. 机器人在工厂里沿着各自的随机路线忙碌地工作着。
-    same: 同 irregular (a. 不规则的，无规律的)；arbitrary (a. 任意的)
+    synonyms: 同 irregular (a. 不规则的，无规律的)；arbitrary (a. 任意的)
     antonym: 反 designed (a. 有计划的)； arranged (a. 安排好的)
   - word: range
     tags: [常见]
@@ -18022,7 +18022,7 @@ words:
     tips: 记 词根记忆：re (反) + cip (拿，取) + ient →不主动拿→ (被动的)接受者
     samples: 
       - 例 This aritificial heart recipient will recover in three weeks. 人造心脏接受者将在三个星期后康复。
-    same: 同 receiver (n. 接收器；接受者)
+    synonyms: 同 receiver (n. 接收器；接受者)
   - word: reciprocate 
     phonetic: 【rɪ ˈsɪprəkeɪt】
     trans: v. 回报，回应；报答
@@ -18043,7 +18043,7 @@ words:
     samples: 
       - 例 As he stopped the payment by installment, the finance company tried to reclaim his house. 在他停止分期付款后，该信贷公司试图收回他的房屋。
     derive: 派 reclamation (n. 开垦；回收)
-    same: 同 retrieve (v. 重新得到)； retake (vt. 取回，夺回)； recycle (vt. 使再循环，回收)
+    synonyms: 同 retrieve (v. 重新得到)； retake (vt. 取回，夺回)； recycle (vt. 使再循环，回收)
   - word: recognition
     tags: [常见]
     phonetic: 【ˌrekəgˈnɪʃn】
@@ -18143,7 +18143,7 @@ words:
     samples: 
       - 例 The man collects the waste bins and deposits the waste into a shredder for recycling. 这个人把垃圾箱收集起来，把垃圾倒进搅碎机进行回收利用。
     derive: 派 recyclable (a. 可回收利用的，可再循环的)
-    same: 同 reclaim (vt. 回收)
+    synonyms: 同 reclaim (vt. 回收)
   - word: redevelopment
     tags: [常见]
     phonetic: 【ˌriːdɪ ˈveləpmənt】
@@ -18166,7 +18166,7 @@ words:
     samples: 
       - 例 Jill was unlucky to be made redundant fromher job. 吉尔不幸被解雇。
     derive: 派 redundancy (n. 裁员；过多，过剩)
-    same: 同 superfluous (a. 多余的，过剩的)；excessive (a. 过多的；过分的)
+    synonyms: 同 superfluous (a. 多余的，过剩的)；excessive (a. 过多的；过分的)
     antonym: 反 indispensable (a. 不可或缺的)； scanty (a. 不够的，贫乏的)
   - word: reel 
     phonetic: 【riːl】
@@ -18175,7 +18175,7 @@ words:
     collocation: 搭 reel off 一口气说出，滔滔不绝地讲(或重复)
     samples: 
       - 例 There are another three new reels of film for use. 还有三卷胶卷可以使用。
-    same: 同 roller (n. 滚筒；滚轴)； shamble (vi. 蹒跚)； stagger (v. 踉跄，蹒跚)； spool (vt. 把…缠绕在线轴上)
+    synonyms: 同 roller (n. 滚筒；滚轴)； shamble (vi. 蹒跚)； stagger (v. 踉跄，蹒跚)； spool (vt. 把…缠绕在线轴上)
   - word: refectory
     tags: [常见]
     phonetic: 【rɪ ˈfektri】
@@ -18190,7 +18190,7 @@ words:
     collocation: 搭 refer to 参考，查阅；涉及，提到；refer to...as 把…称作，把…当作
     samples: 
       - 例 In his speech, Martin referred to educationreform several times. 马丁在演讲中几次提到教育改革的问题。
-    same: 同 consult (v. 查阅，参考)
+    synonyms: 同 consult (v. 查阅，参考)
   - word: referee
     tags: [常见]
     phonetic: 【ˌrefəˈriː】
@@ -18220,7 +18220,7 @@ words:
     collocation: 搭 refrain from 克制
     samples: 
       - 例 The survey finds that the majority of people can refrain from smoking in public places suchas theater and museum. 调查发现，在剧院和博物馆这类公共场所大多数人能够克制住不抽烟。
-    same: 同 restrain (vt. 抑制，控制)； abstain (vi. 戒除)
+    synonyms: 同 restrain (vt. 抑制，控制)； abstain (vi. 戒除)
     antonym: 反 indulge (v. 纵容，放纵)
   - word: refresh 
     phonetic: 【rɪ ˈfreʃ】
@@ -18242,7 +18242,7 @@ words:
     tips: 记 联想记忆：refresh (使精神振作) + ment →(精力的)恢复
     samples: 
       - 例 You can use the members' lounge for refreshment when you feel tired. 你感到疲倦时可以在会员休息室休息一下。
-    same: 同 beverage (n. 饮料)
+    synonyms: 同 beverage (n. 饮料)
   - word: refrigerator
     tags: [常见]
     phonetic: 【rɪ ˈfrɪdʒəreɪtə(r)】
@@ -18451,7 +18451,7 @@ words:
     trans: n. 依靠，依赖
     samples: 
       - 例 Long-term reliance on sleeping pills is dangerous. 长期依赖安眠药是危险的。
-    same: 同 trust (n. 信任，信赖)； dependence (n. 信任，信赖)
+    synonyms: 同 trust (n. 信任，信赖)； dependence (n. 信任，信赖)
     antonym: 反 distrust (n. 不信任)
   - word: relief
     tags: [常见]
@@ -18536,7 +18536,7 @@ words:
     collocation: 搭 remote control 遥控器；remote chance/possibility 机会很小；remote sensingtechnology 遥感技术；a remote village 偏僻的村庄
     samples: 
       - 例 His ultimate goal was to discover an earth-like planet in remote galaxies. 他的最终目标是在遥远的星系中找到一颗类地行星。
-    same: 同 distant (a. 遥远的)； isolated (a. 孤立的)
+    synonyms: 同 distant (a. 遥远的)； isolated (a. 孤立的)
   - word: removal 
     phonetic: 【rɪ ˈmuːvl】
     trans: n. 除去；免职；搬迁
@@ -18562,7 +18562,7 @@ words:
     tips: 记 词根记忆：re (重新) + naiss (=nasc 出生) + ance → 获得新生→ 复兴，新生
     samples: 
       - 例 The significance of Renaissance lies inrediscovering the world and the human, andbringing the resurge of politics. 文艺复兴的意义在于重新发现了世界，也重新发现了人，并带来了政治学的复兴。
-    same: 同 revival (n. 苏醒，复兴)； renewal (n. 复兴，恢复)
+    synonyms: 同 revival (n. 苏醒，复兴)； renewal (n. 复兴，恢复)
     antonym: 反 collapse (n. 倒塌；瓦解)； decline (n. 衰败，衰落)
   - word: render
     tags: [常见]
@@ -18649,7 +18649,7 @@ words:
     samples: 
       - 例 Ants store food, repel attackers and use chemical signals to contact one another in case of attack. 蚂蚁储存食物，击退进攻者，通过化学信号联系同伴以防御攻击。
     derive: 派 repellent (a. 令人反感的)
-    same: 同 disgust (vt. 使作呕)； repulse (vt. 击退，驱逐)
+    synonyms: 同 disgust (vt. 使作呕)； repulse (vt. 击退，驱逐)
     antonym: 反 attract (v. 吸引)； allure (v. 吸引，诱惑)
   - word: repertoire 
     phonetic: 【ˈrepətwɑː(r)】
@@ -19031,7 +19031,7 @@ words:
     tips: 记 联想记忆：revel (=reveal 揭露) + ation → 揭示，显示
     samples: 
       - 例 The revelation of the commercial secrets would bring legal punishment to this multinational enterprise. 泄露商业机密将使这家跨国公司受到法律制裁。
-    same: 同 disclosure (n. 揭发；败露)； exposure (n. 暴露；曝光)
+    synonyms: 同 disclosure (n. 揭发；败露)； exposure (n. 暴露；曝光)
     antonym: 反 concealment (n. 隐藏)
   - word: revenue
     tags: [常见]
@@ -19050,7 +19050,7 @@ words:
     samples: 
       - 例 Small rooms aren't quite cheap in reverse. 小房间反而不是很便宜。
     derive: 派 reversal (n. 颠倒，倒转)； reversible (a. 可反转的，可逆的)
-    same: 同 revoke (vt. 撤销，撤回)； invert (vt. 使颠倒；使转化)； converse (n. 相反的事物a. 相反的，颠倒的)
+    synonyms: 同 revoke (vt. 撤销，撤回)； invert (vt. 使颠倒；使转化)； converse (n. 相反的事物a. 相反的，颠倒的)
   - word: review
     tags: [常见]
     phonetic: 【rɪ ˈvjuː】
@@ -19078,7 +19078,7 @@ words:
     tips: 记 词根记忆：re (重新) + viv (生命；生活) +e → 重新生活→ 复活；重新使用
     samples: 
       - 例 In recent years, the government has encouraged folk artists to revive traditional skills by funding them. 近年来，政府已通过资金援助鼓励民间艺人复兴传统工艺。
-    same: 同 restore (vt. 恢复；使复职)； revitalize (vt. 使恢复生机)
+    synonyms: 同 restore (vt. 恢复；使复职)； revitalize (vt. 使恢复生机)
     antonym: 反 languish (vi. 憔悴，枯萎；变得衰弱)
   - word: revolution
     tags: [常见]
@@ -19130,7 +19130,7 @@ words:
     tips: 记 联想记忆：rig (看作rog，要求) + orous →不断要求→ 严格的
     samples: 
       - 例 Once you have arrived at your hypothesis, you then proceed througha strictly logical andrigorous process. 一旦你提出了假设，你就可以进行一个逻辑性极强的严密的求证过程。派 rigorously (ad. 严格地；严密地)
-    same: 同 meticulous (a. 谨小慎微的)； rigid (a. 严格的)
+    synonyms: 同 meticulous (a. 谨小慎微的)； rigid (a. 严格的)
     antonym: 反 careless (a. 粗心的，疏忽的)
   - word: rim 
     phonetic: 【rɪm】
@@ -19151,7 +19151,7 @@ words:
     tips: 记 联想记忆：rit (e)(典礼，仪式) + ual → 典礼，仪式
     samples: 
       - 例 It is interesting to observe, for instance, some decline in the emphasis given to marriage rituals. 我们发现很有意思的情况，例如，人们对结婚典礼的热衷程度在减弱。
-    same: 同 ceremony (n. 仪式，典礼)； formality (n. 礼节；仪式)
+    synonyms: 同 ceremony (n. 仪式，典礼)； formality (n. 礼节；仪式)
   - word: rival 
     phonetic: 【ˈraɪvl】
     trans: n. 竞争者，竞争对手；可与匹敌的人(或物) a. 竞争的，对抗的 vt. 与…竞争；与…匹敌，比得上；竞争，对抗
@@ -19186,7 +19186,7 @@ words:
     samples: 
       - 例 Some of the misconceptions are erroneous,more robust but also accessible tomodification.一些错误的想法是不正确的，尽管它可能会更加顽固但是仍然可以进行修改。
     derive: 派 robustness (n. 健壮)； robustly (ad. 有活力地；强健地)
-    same: 同 sturdy (a. 强健的)； healthy (a. 健壮的，健康的)
+    synonyms: 同 sturdy (a. 强健的)； healthy (a. 健壮的，健康的)
     antonym: 反 delicate (a. 脆弱的)
   - word: roll film 
     trans: 胶卷
@@ -19262,7 +19262,7 @@ words:
     samples: 
       - 例 Most of the surveyed citizens argued that the government had showna ruthless disregard for their basic human rights. 大部分接受调查的公民争论道，政府残忍地无视他们的基本人权。
     derive: 派 ruthlessly (ad. 残忍地)
-    same: 同 cruel (a. 残酷的)
+    synonyms: 同 cruel (a. 残酷的)
   - word: sack
     tags: [常见]
     phonetic: 【sæk】
@@ -19335,7 +19335,7 @@ words:
     collocation: 搭 saturate with 以…使饱和
     samples: 
       - 例 Since some Asian countries'investment markets have now been saturated, westerncountries are looking for a bigger market. 由于一些亚洲国家投资市场现在已经饱和，西方国家正在寻求一个更大的市场。
-    same: 同 drench (vt. 使湿透，使浸透)； soak (v. 浸透，湿透)
+    synonyms: 同 drench (vt. 使湿透，使浸透)； soak (v. 浸透，湿透)
   - word: sausage 
     phonetic: 【ˈsɒsɪdʒ】
     trans: n. 香肠
@@ -19483,7 +19483,7 @@ words:
     tips: 记 联想记忆：刮(scrape)下许多碎屑(scrap)
     samples: 
       - 例 Scrapping farm-price support and protectionfor coal-mining offers a two-fold bonus:a cleaner environment and a more efficient economy. 废除农产品价格补贴和对采煤业的保护有双重好处，可以获得更清洁的环境和更高效的经济。
-    same: 同 debris (n. 碎片，残骸)； abandon (vt. 放弃，遗弃)
+    synonyms: 同 debris (n. 碎片，残骸)； abandon (vt. 放弃，遗弃)
   - word: scrape 
     phonetic: 【skreɪp】
     trans: v./n. 刮，擦
@@ -19535,7 +19535,7 @@ words:
     tips: 记 联想记忆：scru (音似：四顾) + tiny (微小的) → 连微小的都要顾到→ 详细检查，细看
     samples: 
       - 例 The world of the ant has come in for considerable scrutiny lately, and the idea that ants demonstrate sparks of cognition has not been rejected by those involved in these investigations. 近期有大量针对蚂蚁王国的研究，参与研究的人员并未否定那种认为蚂蚁能表现出认知迹象的想法。
-    same: 同 inquiry (n. 调查，审查)； inspection (n. 检查，审查)
+    synonyms: 同 inquiry (n. 调查，审查)； inspection (n. 检查，审查)
     antonym: 反 neglect (n. 疏忽，忽视)
   - word: scuffle 
     phonetic: 【ˈskʌfl】
@@ -19658,7 +19658,7 @@ words:
     samples: 
       - 例 It is necessary to segregate two groups of fans in the stadium, in case of unnecessary fight after the game. 为了避免赛后不必要的争斗，将体育场的两部分球迷隔开是非常必要的。
     derive: 派 segregated (a. 隔离的)； segregation (n. 隔离)
-    same: 同 isolate (vt. 使隔离，使孤立)； separate (v. 分开，隔离)
+    synonyms: 同 isolate (vt. 使隔离，使孤立)； separate (v. 分开，隔离)
     antonym: 反 unite (v. 联合)
   - word: select 
     phonetic: 【sɪ ˈlekt】
@@ -19819,7 +19819,7 @@ words:
     tips: 记 联想记忆：变速杆(shaft)用来改变(shift)速度
     samples: 
       - 例 A small iron was attached to the 1.5mbamboo shaft as a weapon. 小铁块被固定在1.5米长的竹竿上作为一件武器。
-    same: 同 spindle (n. 轴，杆)； beam〔n. (光线的)束〕
+    synonyms: 同 spindle (n. 轴，杆)； beam〔n. (光线的)束〕
   - word: shallow 
     phonetic: 【ˈʃæləʊ】
     trans: a. 浅的；肤浅的，浅薄的
@@ -19900,7 +19900,7 @@ words:
     tips: 记 联想记忆：ship (船运) + ment → 装运
     samples: 
       - 例 Finally the honey is poured into barrels for shipment. 最终蜂蜜被倒进桶里运走。
-    same: 同 cargo (n. 货物)； freight (n. 货物；重载)
+    synonyms: 同 cargo (n. 货物)； freight (n. 货物；重载)
   - word: shore 
     phonetic: 【ʃɔː(r)】
     trans: n. 滨，岸，海滩
@@ -19914,7 +19914,7 @@ words:
     collocation: 搭 financial shortage 缺钱；shortage of spare time 缺少空闲时间
     samples: 
       - 例 The development project was greetedbecause of Holland's chronic shortage of land. 由于荷兰土地长期短缺，这一开发项目在荷兰大受欢迎。
-    same: 同 lack (n. 缺少)； deficiency (n. 不足)
+    synonyms: 同 lack (n. 缺少)； deficiency (n. 不足)
   - word: shorthand 
     phonetic: 【ˈʃɔːthænd】
     trans: n. 速记法；速记
@@ -19935,7 +19935,7 @@ words:
     collocation: 搭 a shrewd businessman 精明的商人
     samples: 
       - 例 This politician was compassionate andshrewd. 这位政治家富有激情又不失精明。
-    same: 同 smart (a. 聪明的)； keen (a. 敏锐的，聪明的)
+    synonyms: 同 smart (a. 聪明的)； keen (a. 敏锐的，聪明的)
     antonym: 反 dull (a. 迟钝的)
   - word: shrink
     tags: [常见]
@@ -19952,7 +19952,7 @@ words:
     collocation: 搭 shrub layer 灌木层
     samples: 
       - 例 The volunteers raked around shrubs andtrees to look for the lost children. 志愿者在灌木丛和树林里四处寻找迷路的孩子。
-    same: 同 bush (n. 矮树丛)； scrub (n. 灌木)
+    synonyms: 同 bush (n. 矮树丛)； scrub (n. 灌木)
   - word: shrug 
     phonetic: 【ʃrʌg】
     trans: n./v. 耸肩
@@ -20076,7 +20076,7 @@ words:
     samples: 
       - 例 Any ceasefire would be simultaneous withthe withdrawal of troops. 任何一次的停火都是与撤军同时发生的。
     derive: 派 simultaneously (ad. 同时地)
-    same: 同 coinstantaneous (a. 同时发生的，同时的)
+    synonyms: 同 coinstantaneous (a. 同时发生的，同时的)
   - word: sincere 
     phonetic: 【sɪnˈsɪə(r)】
     trans: a. 真挚的，诚挚的，真诚的，诚恳的
@@ -20135,7 +20135,7 @@ words:
     trans: v. 跳，蹦；漏过；逃学
     samples: 
       - 例 She skips the difficult words when she reads English novels. 看英文小说时她经常跳过难词。
-    same: 同 leap (v. 跳，跳跃；跳过)； overlook (vt. 忽视，略过)
+    synonyms: 同 leap (v. 跳，跳跃；跳过)； overlook (vt. 忽视，略过)
   - word: skull 
     phonetic: 【skʌl】
     trans: n. 颅骨；脑袋
@@ -20405,14 +20405,14 @@ words:
     trans: n. (城镇的)法务官；初级律师，事务律师
     samples: 
       - 例 Solicitors in Australia are very popular. 律师在澳大利亚很受欢迎。
-    same: 同 lawyer (n. 律师)； attorney (n. 律师)
+    synonyms: 同 lawyer (n. 律师)； attorney (n. 律师)
   - word: solidarity 
     phonetic: 【ˌsɒlɪ ˈdærəti】
     trans: n. 团结，一致
     tips: 记 词根记忆：solid (坚实的) + arity → 坚实的状态→ 团结
     samples: 
       - 例 Downtrodden people will never be able tomake any effective protest until they achieve solidarity. 被压迫的人们只有团结一致才能做出有效的抗议。
-    same: 同 unity (n. 团结；一致)； concord (n. 一致；和谐)
+    synonyms: 同 unity (n. 团结；一致)； concord (n. 一致；和谐)
     antonym: 反 split (n. 分裂)
   - word: solidify 
     phonetic: 【səˈlɪdɪfaɪ】
@@ -20426,7 +20426,7 @@ words:
     collocation: 搭 soluble material 可溶性物质
     samples: 
       - 例 Fat soluble vitamins can be stored for quite some time in the body. 能溶于脂肪的维生素可在体内储存很久。
-    same: 同 resoluble (a. 可解决的；可分解的)
+    synonyms: 同 resoluble (a. 可解决的；可分解的)
     antonym: 反 unsolvable (a. 不能溶解的；无法解决的)
   - word: solution
     tags: [常见]
@@ -20453,7 +20453,7 @@ words:
     samples: 
       - 例 Space management is now a highlysophisticated method of manipu- lating the waywe shop to ensure maximum profit. 空间管理现在已成为一种非常尖端的技术，它通过控制我们的购物方式来实现利润最大化。
     derive: 派 sophistication (n. 精致；复杂)
-    same: 同 experienced (a. 经验丰富的)； proficient(a. 精通的，熟练的，娴熟的)； complicated(a. 复杂的)
+    synonyms: 同 experienced (a. 经验丰富的)； proficient(a. 精通的，熟练的，娴熟的)； complicated(a. 复杂的)
     antonym: 反 unsophisticated (a. 不懂世故的；单纯的)
   - word: sore 
     phonetic: 【sɔː(r)】
@@ -20573,7 +20573,7 @@ words:
     collocation: 搭 the specification of a microwave oven 微波炉说明书
     samples: 
       - 例 The house has been built exactly to our specifications. 房子完全是按照我们的工程设计书建造的。
-    same: 同 clause (n. 条款)； instruction (n. 指示；用法说明)
+    synonyms: 同 clause (n. 条款)； instruction (n. 指示；用法说明)
   - word: specify 
     phonetic: 【ˈspesɪfaɪ】
     trans: v. 指定；详细说明
@@ -20605,7 +20605,7 @@ words:
     collocation: 搭 electromagnetic spectrum 电磁光谱
     samples: 
       - 例 Sufferers can fight back by spending a fewhours each day under special, full- spectrumlamps. 患者可以通过每天在特殊的全光谱灯下照射几小时来缓解(身体的不适)。
-    same: 同 range (n. 范围，幅度)
+    synonyms: 同 range (n. 范围，幅度)
   - word: speculate 
     phonetic: 【ˈspekjuleɪt】
     trans: v. 推测；投机
@@ -20649,7 +20649,7 @@ words:
     samples: 
       - 例 Twisting movements can place unusual force on your spine. 扭转动作会给脊椎带来不寻常的压力。
     derive: 派 spinal (a. 脊椎的)
-    same: 同 backbone (n. 脊椎)
+    synonyms: 同 backbone (n. 脊椎)
   - word: spiral 
     phonetic: 【ˈspaɪərəl】
     trans: a. 螺旋形的，盘旋的 v. 盘旋上升(或下降)； (物价等)急剧增长 n. 螺旋形；逐渐加速上升(或下降)
@@ -20658,7 +20658,7 @@ words:
     samples: 
       - 例 A spiral of smoke rose from the chimney. 烟囱里的烟袅袅升起。
     derive: 派 spire (n. 螺旋)
-    same: 同 loop (n. 环；线圈)； twist (n. 扭曲；螺旋状)； coil (v. 盘绕，卷)
+    synonyms: 同 loop (n. 环；线圈)； twist (n. 扭曲；螺旋状)； coil (v. 盘绕，卷)
   - word: spiritual 
     phonetic: 【ˈspɪrɪtʃuəl】
     trans: a. 精神的；心灵的；宗教的
@@ -20685,7 +20685,7 @@ words:
     collocation: 搭 splash out (on sth.) 花大笔的钱(买某物等)
     samples: 
       - 例 I refreshed myself by splashing cold water on my face. 我往脸上扑冷水让自己精神起来。
-    same: 同 splatter (v. 飞溅)； sprinkle (v. 喷洒)
+    synonyms: 同 splatter (v. 飞溅)； sprinkle (v. 喷洒)
   - word: splendid 
     phonetic: 【ˈsplendɪd】
     trans: a. 壮观的，壮丽的，极好的；堂皇的，豪华的；灿烂的，辉煌的
@@ -20728,7 +20728,7 @@ words:
     tips: 记 发音记忆：“死胖子”→ 海绵吸饱水像个死胖子→ 海绵
     samples: 
       - 例 He squeezed out water from a sponge. 他拧出海绵里的水。
-    same: 同 rinse (vt. 清洗)
+    synonyms: 同 rinse (vt. 清洗)
   - word: sponsor
     tags: [常见]
     phonetic: 【ˈspɒnsə(r)】
@@ -20760,7 +20760,7 @@ words:
     tips: 记 联想记忆：sp (看作spend，度过) + ouse (看作house，房子) → 在同一间房子里共度人生的人→ 配偶
     samples: 
       - 例 How your child adapts to your divorce is largely dependent on how you and your spouse act. 你的孩子如何适应你的离婚主要取决于你和你配偶的行为举止。
-    same: 同 mate (n. 配偶)
+    synonyms: 同 mate (n. 配偶)
   - word: sprawl
     tags: [常见]
     phonetic: 【sprɔːl】
@@ -20882,7 +20882,7 @@ words:
     tips: 记 联想记忆：s + tale (传说) → 传说说多，陈词滥调→ 陈腐的
     samples: 
       - 例 There was a smell of stale vegetables in the air. 空气中有一股不新鲜的蔬菜的味儿。
-    same: 同 obsolete (a. 陈旧的，废弃的)
+    synonyms: 同 obsolete (a. 陈旧的，废弃的)
   - word: stall 
     phonetic: 【stɔːl】
     trans: n. 货摊；小隔间
@@ -20979,7 +20979,7 @@ words:
     collocation: 搭 a stationary target 固定的目标
     samples: 
       - 例 It seemed to me that there were almost as many serious problems when cars were stationary as when they were travelling at 90 miles an hour. 对我来讲，车停止不动和以每小时90英里的速度行驶出现的严重问题几乎一样多。
-    same: 同 motionless (a. 不动的，静止的)； fixed (a. 固定的)
+    synonyms: 同 motionless (a. 不动的，静止的)； fixed (a. 固定的)
     antonym: 反 mobile (a. 移动的)
   - word: stationery 
     phonetic: 【ˈsteɪʃənri】
@@ -21165,13 +21165,13 @@ words:
     tips: 记 本身为词根，意为“ 拉紧”
     samples: 
       - 例 Tom strained his muscle in the match.汤姆在比赛中拉伤了肌肉。
-    same: 同 stretch (v./n. 拉伸，伸展)； tense〔v./n.(使)紧张〕
+    synonyms: 同 stretch (v./n. 拉伸，伸展)； tense〔v./n.(使)紧张〕
   - word: strand 
     phonetic: 【strænd】
     trans: n. 股，缕；部分，方面
     samples: 
       - 例 There are three distinct strands to Sports Studies and you would need to choose fairlyearly on just which direction you wanted tofollow. 运动研究有三个不同的分支，你需要尽早确定研究方向。
-    same: 同 string (n. 线，细绳)； thread (n. 线，细丝)
+    synonyms: 同 string (n. 线，细绳)； thread (n. 线，细丝)
   - word: strap
     tags: [常见]
     phonetic: 【stræp】
@@ -21290,7 +21290,7 @@ words:
     tips: 记 来自study (n./v. 学习)
     samples: 
       - 例 A belief of "Learning to the Studious" drives him to enter China's most famous university.“学会勤学苦练”这个信仰一直鞭策着他，直到进入中国最好的大学。
-    same: 同 diligent (a. 勤勉的，用功的)
+    synonyms: 同 diligent (a. 勤勉的，用功的)
   - word: stuff 
     phonetic: 【stʌf】
     trans: n. 原料，材料 vt. 填进；让…吃饱
@@ -21325,7 +21325,7 @@ words:
     samples: 
       - 例 Taste and smell were subjective senses. 味觉和嗅觉都是主观感觉。
     derive: 派 subjectivism (n. 主观主义，主观论)
-    same: 同 personal (a. 个人的)； intuitive (a. 直觉的)
+    synonyms: 同 personal (a. 个人的)； intuitive (a. 直觉的)
     antonym: 反 objective (a. 客观的)
   - word: subliminal 
     phonetic: 【ˌsʌbˈlɪmɪnl】
@@ -21341,7 +21341,7 @@ words:
     collocation: 搭 submarine cable 海底电缆
     samples: 
       - 例 Residual heat in the submarine woulddisappear very quickly in these Arctic waters. 在北极水域，潜水艇里的余热会迅速消失。
-    same: 同 underwater (a. 水面下的)； submerged (a. 在水下的)
+    synonyms: 同 underwater (a. 水面下的)； submerged (a. 在水下的)
   - word: submerge 
     phonetic: 【səbˈmɜːdʒ】
     trans: v. 浸没；潜入水中
@@ -21362,7 +21362,7 @@ words:
     tips: 记 词根记忆：sub ( 在… 下面) + ordin ( 顺序) +ate → 顺序在下→ 次要的
     samples: 
       - 例 He was always friendly to his subordinates. 他一向对下属和蔼可亲。
-    same: 同 inferior (a. 下等的，下级的)； secondary(a. 次要的，二级的)
+    synonyms: 同 inferior (a. 下等的，下级的)； secondary(a. 次要的，二级的)
     antonym: 反 superior (a. 上级的)
   - word: subscribe
     tags: [常见]
@@ -21394,7 +21394,7 @@ words:
     collocation: 搭 subsidiary unit 从属单位；a subsidiarycompany 分公司
     samples: 
       - 例 Ports attract many subsidiaries andindependent industries. 港口城市吸引了很多附属公司和独立产业。
-    same: 同 subordinate (a. 次要的；下级的)； affiliate (n. 分支机构)； branch (n. 分支，分部)
+    synonyms: 同 subordinate (a. 次要的；下级的)； affiliate (n. 分支机构)； branch (n. 分支，分部)
   - word: subsidise
     tags: [常见]
     phonetic: 【ˈsʌbsɪdaɪz】
@@ -21449,14 +21449,14 @@ words:
     tips: 记 词根记忆：sub (在…下面) + tle → 暗藏于下面的→ 微妙的；隐约的
     samples: 
       - 例 Many characteristics result from subtle interactions between genes and the environment. 许多特征都是通过基因和环境之间微妙的相互作用形成的。
-    same: 同 delicate (a. 微妙的)； intricate (a. 难以理解的)； cunning (a. 狡猾的)
+    synonyms: 同 delicate (a. 微妙的)； intricate (a. 难以理解的)； cunning (a. 狡猾的)
   - word: subtract 
     phonetic: 【səbˈtrækt】
     trans: a. 细微的，微妙的，难以捉摸的；隐约的；精巧的，巧妙的；诡秘的，狡诈的
     tips: 记 词根记忆：sub (在…下面) + tle → 暗藏于下面的→ 微妙的；隐约的
     samples: 
       - 例 Many characteristics result from subtle interactions between genes and the environment. 许多特征都是通过基因和环境之间微妙的相互作用形成的。
-    same: 同 delicate (a. 微妙的)； intricate (a. 难以理解的)； cunning (a. 狡猾的)
+    synonyms: 同 delicate (a. 微妙的)； intricate (a. 难以理解的)； cunning (a. 狡猾的)
   - word: subtropical
     tags: [常见]
     phonetic: 【ˌsʌbˈtrɒpɪkl】
@@ -21596,7 +21596,7 @@ words:
     collocation: 搭 a superficial resemblance 表面上的相似
     samples: 
       - 例 Those who tend to show off in front of other people are so superficial indeed. 那些喜欢在别人面前炫耀的人实际上相当肤浅。
-    same: 同 shallow (a. 浅的；浅薄的)
+    synonyms: 同 shallow (a. 浅的；浅薄的)
   - word: superior 
     phonetic: 【suː ˈpɪərɪə(r)】
     trans: a. 上级的，(在职位、地位等方面) 较高的；优越的，优于…的，较…多的；优良的，卓越的；有优越感的，高傲的 n. 上级，长官
@@ -21624,7 +21624,7 @@ words:
     samples: 
       - 例 Mary supervises the work of the department. 玛丽指导该部门的工作。
     derive: 派 supervisory (a. 管理的，监督的)
-    same: 同 administer (vt. 管理)； superintend (vt. 管理，监督)
+    synonyms: 同 administer (vt. 管理)； superintend (vt. 管理，监督)
   - word: supervision 
     phonetic: 【ˌsuːpəˈvɪʒn】
     trans: n. 监督，管理；指导
@@ -21650,7 +21650,7 @@ words:
     samples: 
       - 例 The man can clearly tell you the need for supplementary measures if one wants to assist the rural poor. 那个人可以清楚地告诉你扶助农村贫民过程中配套措施的必要性。
     derive: 派 supplementation (n. 增补，补充)
-    same: 同 additional (a. 另外的，附加的)； extra (a. 额外的)
+    synonyms: 同 additional (a. 另外的，附加的)； extra (a. 额外的)
   - word: supply
     tags: [常见]
     phonetic: 【səˈplaɪ】
@@ -21680,7 +21680,7 @@ words:
     samples: 
       - 例 I know life is hard to you, so don't suppress the tears, as tears on the face is better than hurt toheart. 我知道你的生活很艰难，所以不要强忍泪水，脸上流泪总好过内心受伤!
     derive: 派 suppressant (n. 抑制剂)
-    same: 同 squash (v. 镇压，压制)； restrain (vt. 抑制，压制)
+    synonyms: 同 squash (v. 镇压，压制)； restrain (vt. 抑制，压制)
   - word: suppression
     tags: [常见]
     phonetic: 【səˈpreʃn】
@@ -21708,7 +21708,7 @@ words:
     tips: 记 联想记忆：s + urge (急迫的) → 水流湍急→ 波动，涌动；洋溢
     samples: 
       - 例 Magma had surged into the volcano from the Earth's mantle. 岩浆从地幔流出，涌入火山。
-    same: 同 throng (v. 大群地移动，拥塞)； gush (v. 涌出)； rise (n./v. 上升，增加)
+    synonyms: 同 throng (v. 大群地移动，拥塞)； gush (v. 涌出)； rise (n./v. 上升，增加)
   - word: surgeon
     tags: [常见]
     phonetic: 【ˈsɜːdʒən】
@@ -21730,7 +21730,7 @@ words:
     tips: 记 联想记忆：sur + pass (通过) → 在上面通过→ 超过
     samples: 
       - 例 His success has surpassed all expectations. 他所取得的成功远远超过了预期。
-    same: 同 exceed (vt. 超越，胜过)； surmount (vt. 超越，战胜)
+    synonyms: 同 exceed (vt. 超越，胜过)； surmount (vt. 超越，战胜)
   - word: surround 
     phonetic: 【səˈraʊnd】
     trans: vt. 围绕；包围
@@ -21776,7 +21776,7 @@ words:
     samples: 
       - 例 A large number of TV advertisement are aimed at susceptible young women who always buy goods they actually don't need. 大量的电视广告瞄准易受影响的年轻女性，她们总是购买一些实际上并不需要的东西。
     derive: 派 susceptibility (n. 易感性)
-    same: 同 allergic (a. 过敏的)； vulnerable (a. 易受攻击的；易受影响的)
+    synonyms: 同 allergic (a. 过敏的)； vulnerable (a. 易受攻击的；易受影响的)
     antonym: 反 immune (a. 免疫的，不受影响的)
   - word: suspect
     tags: [常见]
@@ -21821,14 +21821,14 @@ words:
     trans: vt. 淹没；使应接不暇 n. 沼泽
     samples: 
       - 例 The tsunami swamped the port city. 海啸吞没了这座港口城市。
-    same: 同 overwhelm (vt. 淹没；压倒)； marsh (n. 湿地，沼泽)
+    synonyms: 同 overwhelm (vt. 淹没；压倒)； marsh (n. 湿地，沼泽)
   - word: swap
     tags: [常见]
     phonetic: 【swɒp】
     trans: v./n. 交换
     samples: 
       - 例 Don't swap horses when crossing a stream. 过河勿换马/危难之时不宜作大变动。
-    same: 同 exchange (vt. /n. 交换)； trade (v. 交换)
+    synonyms: 同 exchange (vt. /n. 交换)； trade (v. 交换)
   - word: swear 
     phonetic: 【sweə(r)】
     trans: v. 宣(誓)；诅咒
@@ -21898,7 +21898,7 @@ words:
     tips: 记 词根记忆：sym (共同) + phon (声音) + y→ 奏出共同的声音→ 交响乐
     samples: 
       - 例 The audience were all enchanted by the engrossing symphony. 交响乐美妙绝伦，听众全都陶醉其中。
-    same: 同 concord (n. 和谐，一致)； harmony (n. 协调，和谐)
+    synonyms: 同 concord (n. 和谐，一致)； harmony (n. 协调，和谐)
     antonym: 反 discord (n. 不一致，不和谐)
   - word: symptom 
     phonetic: 【ˈsɪmptəm】
@@ -21965,7 +21965,7 @@ words:
     trans: n. 棕褐色；晒黑 v. (使)晒成棕褐色，晒黑；硝(皮)
     samples: 
       - 例 These shoes are tan, not dark brown. 这些鞋是棕褐色的，不是深褐色的。
-    same: 同 sunburn (n./v. 晒黑)
+    synonyms: 同 sunburn (n./v. 晒黑)
   - word: tangibly
     tags: [常见]
     phonetic: 【ˈtændʒəbli】
@@ -22016,7 +22016,7 @@ words:
     collocation: 搭 tease sth. out 探讨，深入研究
     samples: 
       - 例 I used to get teased about my name until I changed it last year. 在去年我改了名字之前，别人总笑话我的名字。
-    same: 同 kid (v. 开玩笑，取笑)； toy (vi. 玩弄)
+    synonyms: 同 kid (v. 开玩笑，取笑)； toy (vi. 玩弄)
   - word: technical 
     phonetic: 【ˈteknɪkl】
     trans: a. 技术的，工艺的
@@ -22043,7 +22043,7 @@ words:
     collocation: 搭 a tedious story 乏味冗长的故事
     samples: 
       - 例 The audience became sleepy by the speaker's tedious story. 演讲者冗长乏味的故事使得听众昏昏欲睡。
-    same: 同 boring (a. 无聊的，乏味的)
+    synonyms: 同 boring (a. 无聊的，乏味的)
   - word: teem
     tags: [常见]
     phonetic: 【tiːm】
@@ -22083,7 +22083,7 @@ words:
     tips: 记 本身为词根，意为“尝试”→ 受到诱惑而尝试→ 吸引；引诱
     samples: 
       - 例 Some worry that governments and industries will be tempted to use the technology to monitor individual behaviours. 一些人担心，政府和企业有意使用这一技术来监控个人行为。
-    same: 同 appeal (vi. 有吸引力)； entice (vt. 诱惑，怂恿)
+    synonyms: 同 appeal (vi. 有吸引力)； entice (vt. 诱惑，怂恿)
   - word: tenable
     tags: [常见]
     phonetic: 【ˈtenəbl】
@@ -22099,7 +22099,7 @@ words:
     collocation: 搭 a sitting tenant 老房客
     samples: 
       - 例 The furniture was left by the former tenant. 这些家具是上个房客留下来的。
-    same: 同 lodger (n. 投宿者)； leaseholder (n. 承租人)
+    synonyms: 同 lodger (n. 投宿者)； leaseholder (n. 承租人)
   - word: tend
     tags: [常见]
     phonetic: 【tend】
@@ -22158,7 +22158,7 @@ words:
     tips: 记 词根记忆：terr (地) + ain → 地形，地势
     samples: 
       - 例 Five speed bicycles are best suited to ridingover long distances or hilly terrain. 五档位变速自行车最适用于长途旅行或者崎岖多山的地形。
-    same: 同 landform (n. 地形)
+    synonyms: 同 landform (n. 地形)
   - word: terrestrial 
     phonetic: 【təˈrestriəl】
     trans: a. 陆地的，陆生的，陆栖的；地球的
@@ -22231,7 +22231,7 @@ words:
     tips: 记 词根记忆：therm (=thermo 热) + al → 热的搭 thermal energy 热能
     samples: 
       - 例 A heat pump puts out more thermal energythan it consumes. 热泵产生的热能要高于它所消耗的热能。
-    same: 同 warm (a. 暖和的，温暖的)； hot (a. 热的)
+    synonyms: 同 warm (a. 暖和的，温暖的)； hot (a. 热的)
   - word: thesis
     tags: [常见]
     phonetic: 【ˈθiːsɪs】
@@ -22274,7 +22274,7 @@ words:
     collocation: 搭 be on the threshold of sth. 在…的开端
     samples: 
       - 例 The normal noise threshold for people is 80 decibels. 80分贝是人类所能忍受的最高的正常噪音。
-    same: 同 doorway (n. 门口)； outset (n. 开端，开始)
+    synonyms: 同 doorway (n. 门口)； outset (n. 开端，开始)
   - word: thrifty 
     phonetic: 【ˈθrɪfti】
     trans: a. 节俭的，节约的
@@ -22287,7 +22287,7 @@ words:
     collocation: 搭 be thrilled to bits 非常愉快
     samples: 
       - 例 The traveller thrilled us with his stories of adventure. 这位旅行者的冒险经历令我们激动不已。
-    same: 同 excite (vt. 使激动，使兴奋)； delight〔v.(使)高兴，(使)欣喜〕
+    synonyms: 同 excite (vt. 使激动，使兴奋)； delight〔v.(使)高兴，(使)欣喜〕
   - word: thrive
     tags: [常见]
     phonetic: 【θraɪv】
@@ -22348,7 +22348,7 @@ words:
     samples: 
       - 例 Generally speaking, animals in the zoo are timid and cautious in comparison with wildanimals in the forest. 一般而言，动物园的动物比森林中的野生动物胆小谨慎。
     derive: 派 timidity (n. 胆小，羞怯)； timidly (ad. 胆小地，羞怯地)
-    same: 同 cowardly (a. 胆小的，怯懦的)； shy (a. 害羞的)
+    synonyms: 同 cowardly (a. 胆小的，怯懦的)； shy (a. 害羞的)
     antonym: 反 bold (a. 大胆的)
   - word: tolerate 
     phonetic: 【ˈtɒləreɪt】
@@ -22412,7 +22412,7 @@ words:
     samples: 
       - 例 Toxic chemicals were spilled from the factory into the river. 有毒的化学物从工厂被排放到河里。
     derive: 派 toxicity (n. 毒性)
-    same: 同 poisonous (a. 有毒的)； noxious (a. 有害的，有毒的)
+    synonyms: 同 poisonous (a. 有毒的)； noxious (a. 有害的，有毒的)
   - word: toxin
     tags: [常见]
     phonetic: 【ˈtɒksɪn】
@@ -22486,7 +22486,7 @@ words:
     tips: 记 词根记忆：trans (穿过) + act (做) + ion →在两者之间进行→ 交易
     samples: 
       - 例 The teller told me that the computer systemwas temporarily down, so they couldn't do anytransactions. 出纳员告诉我计算机系统临时出故障了，所以他们不能进行任何交易。
-    same: 同 deal (n. 交易)； exchange (n. 交换；交易)
+    synonyms: 同 deal (n. 交易)； exchange (n. 交换；交易)
   - word: transcend 
     phonetic: 【trænˈsend】
     trans: vt. 超越，胜过，优于
@@ -22533,7 +22533,7 @@ words:
     tips: 记 词根记忆：trans (穿过) + ient → 时光穿梭→ 短暂的
     samples: 
       - 例 In recent years, there is a large transient population flowing into big cities. 近些年来，大量流动人口涌入大城市。
-    same: 同 temporary (a. 暂时的，临时的)； passing(a. 短暂的)
+    synonyms: 同 temporary (a. 暂时的，临时的)； passing(a. 短暂的)
     antonym: 反 permanent (a. 永久的，持久的)
   - word: transit
     tags: [常见]
@@ -22542,7 +22542,7 @@ words:
     tips: 记 词根记忆：trans (越过，穿过) + it (走) →从一地走到另一地→ 运输，运载；通过，经过
     samples: 
       - 例 They wish to put mass transit systems intoand around cities and promote small lowemission cars for urban use. 他们希望将公共交通系统用于城市和城际交通而将排气量低的小汽车用于市区交通。
-    same: 同 transportation (n. 运输，运载)； delivery(n. 传送，运送)
+    synonyms: 同 transportation (n. 运输，运载)； delivery(n. 传送，运送)
   - word: transition 
     phonetic: 【trænˈzɪʃn】
     trans: n. 过渡，过渡时期；转变，转换，变革
@@ -22551,7 +22551,7 @@ words:
     samples: 
       - 例 The transition from planned economy tomarket economy is not an easy one. 从计划经济向市场经济转变并非易事。
     derive: 派 transitional (a. 变迁的，过渡期的)
-    same: 同 transformation (n. 转化)； change (n. 转变，改变)
+    synonyms: 同 transformation (n. 转化)； change (n. 转变，改变)
   - word: translate
     tags: [常见]
     phonetic: 【ˈtrænsleɪt】
@@ -22586,7 +22586,7 @@ words:
     samples: 
       - 例 Every year, tens of thousands of patients are given organ transplants in developed countries. 发达国家每年有数以万计的病人接受器官移植。
     derive: 派 transplantation (n. 移植；迁移)；transplantable (a. 可移植的)
-    same: 同 graft (v. 移植；嫁接)； transfer (v. 转移，调动)
+    synonyms: 同 graft (v. 移植；嫁接)； transfer (v. 转移，调动)
   - word: transport 
     phonetic: 【ˈtræspɔːt】
     trans: n. 运输，运送；运输系统，运载工具 【træˈspɔːt】 vt. 运输，运送，搬运
@@ -22647,7 +22647,7 @@ words:
     tips: 记 词根记忆：trem (害怕) + end + ous (多…的) → (多得、好得)让人害怕的→ 非常的，惊人的
     samples: 
       - 例 This looseness in molecular structure gives the material tremendous "formability". 分子结构如此松散使这种材料极具“可塑性”。
-    same: 同 enormous (a. 巨大的，庞大的)；marvelous (a. 非凡的，惊奇的)
+    synonyms: 同 enormous (a. 巨大的，庞大的)；marvelous (a. 非凡的，惊奇的)
     antonym: 反 tiny (a. 微小的)
   - word: trench 
     phonetic: 【trentʃ】
@@ -22656,7 +22656,7 @@ words:
     collocation: 搭 trench coat 军用防水短上衣；trenchwarfare 堑壕战
     samples: 
       - 例 The next stage of the project involves trenchexcavation, cable laying, construction backfillingand reinstatement, and landscaping works. 该工程的下一阶段包括坑道挖掘、电缆铺设、建筑回填和修复以及景观美化工程。
-    same: 同 channel (n. 水道)；ditch (n. 沟渠)
+    synonyms: 同 channel (n. 水道)；ditch (n. 沟渠)
   - word: trend 
     phonetic: 【trend】
     trans: n. 倾向；趋势；流行，时尚vi. 伸向；倾向
@@ -22697,7 +22697,7 @@ words:
     tips: 记 词根记忆：tribut (给予) + e → 给予(皇室) 的东西→ 贡品
     samples: 
       - 例 In ancient times, people had to pay tribute tothe king. 在古代，人们必须向国王进贡。
-    same: 同 compliment (n. 称赞，恭维)；praise (n. 赞扬)
+    synonyms: 同 compliment (n. 称赞，恭维)；praise (n. 赞扬)
   - word: trick
     tags: [常见]
     phonetic: 【trɪk】
@@ -22714,7 +22714,7 @@ words:
     collocation: 搭 trigger a war 引发战争
     samples: 
       - 例 The earthquake triggered an avalanche. 地震引发了一场雪崩。
-    same: 同 stimulus (n. 刺激物)；initiate (vt. 发起，开始)；cause (vt. 引起，导致)
+    synonyms: 同 stimulus (n. 刺激物)；initiate (vt. 发起，开始)；cause (vt. 引起，导致)
   - word: trim 
     phonetic: 【trɪm】
     trans: vt./ n. 修剪；整理 a. 苗条的，修长的；整齐的，整洁的
@@ -22753,7 +22753,7 @@ words:
     tips: 记 词根记忆：tri (三) + vi (路) + al (形容词后缀) → 三岔路的→ 琐屑的
     samples: 
       - 例 They think that tourism is a trivial subject. 他们认为旅行是一个无价值的主题。
-    same: 同 trifling (a. 不重要的)；petty (a. 小的，不重要的)
+    synonyms: 同 trifling (a. 不重要的)；petty (a. 小的，不重要的)
     antonym: 反 important (a. 重要的，重大的)；main (a. 主要的，重要的)
   - word: trivialize 
     phonetic: 【ˈtrɪviəlaɪz】
@@ -22845,7 +22845,7 @@ words:
     tips: 记 来自词组turn over (营业额达到；翻转；交换)
     samples: 
       - 例 The company tried its best to decrease the turnover. 公司竭尽全力降低人事变动率。
-    same: 同 shift (n. 移动，移位；轮班)
+    synonyms: 同 shift (n. 移动，移位；轮班)
   - word: turret 
     phonetic: 【ˈtʌrət】
     trans: n. 塔楼，角楼
@@ -23013,7 +23013,7 @@ words:
     samples: 
       - 例 The constant failure was starting toundermine my confidence. 接连的失败开始削弱我的自信心。
     derive: 派 underminer (n. 暗中破坏者)
-    same: 同 weaken〔v. 削弱；(使)变弱〕
+    synonyms: 同 weaken〔v. 削弱；(使)变弱〕
     antonym: 反 strengthen (vt. 加强，巩固)；intensify (v. 增强，加强)；reinforce (vt. 加强，加固)
   - word: underneath 
     phonetic: 【ˌʌndə'niːθ】
@@ -23205,7 +23205,7 @@ words:
     tips: 记 组合词：up (向上) + grade (等级) → 使升级，提高；提拔，提升；改善
     samples: 
       - 例 With the increase in terrorism attacks, more and more international airports plan to upgrade the safety check systems. 随着恐怖主义袭击的增加，越来越多的国际机场计划升级安检系统。
-    same: 同 improve (v. 改善，改进)
+    synonyms: 同 improve (v. 改善，改进)
   - word: uphill 
     phonetic: 【ˌʌp'hɪl】
     trans: ad. 向上，往上；上坡；艰难地
@@ -23395,7 +23395,7 @@ words:
     trans: n. 植物，草木
     samples: 
       - 例 There are more and more vegetationdisappearing every year and we couldn't findthem forever. 每年都有越来越多的植物灭绝，我们永远也找不到它们了。
-    same: 同 plant (n. 植物)
+    synonyms: 同 plant (n. 植物)
   - word: veil
     tags: [常见]
     phonetic: 【veɪl】
@@ -23410,7 +23410,7 @@ words:
     collocation: 搭 gain/lose velocity 加/减速
     samples: 
       - 例 The parameters involved in this essayincludes mass ratio, initial relative impact velocity, absolute mass and relative acceleration. 这篇论文涉及的参数有：质量比、初始相对碰撞速度、绝对质量和相对加速度。
-    same: 同 speed (n. 迅速；速度，速率)；rapidity (n.迅速)
+    synonyms: 同 speed (n. 迅速；速度，速率)；rapidity (n.迅速)
   - word: venomous 
     phonetic: 【ˈvenəməs】
     trans: a. 有毒的；分泌毒液的；恶意的，狠毒的
@@ -23453,7 +23453,7 @@ words:
     collocation: 搭 reach a verdict 作出裁定
     samples: 
       - 例 The judge will announce court verdict tomorrow. 法官明天将宣布法院的裁定。
-    same: 同 opinion (n. 主张，判断)；judgment (n. 判断；看法)
+    synonyms: 同 opinion (n. 主张，判断)；judgment (n. 判断；看法)
   - word: verification 
     phonetic: 【ˌverɪfɪ 'keɪʃn】
     trans: n. 确认
@@ -23483,7 +23483,7 @@ words:
     samples: 
       - 例 Because honey is versatile and not expensive, it is widely used in every aspect of our daily life. 蜂蜜具有多种功能，价格不贵，被广泛应用于日常生活的各个方面。
     derive: 派 versatility (n. 多才多艺；多功能性)；versatilely (ad. 多才多艺地；多功能地)
-    same: 同 all-round (a. 多方面的，多才多艺的)
+    synonyms: 同 all-round (a. 多方面的，多才多艺的)
   - word: version
     tags: [常见]
     phonetic: 【ˈvɜːʃn】
@@ -23532,7 +23532,7 @@ words:
     samples: 
       - 例 Students who want loans are not "means tested" or "credit vetted". 想要贷款的学生不用接受家庭经济状况调查，也不用接受信用审查。
       - 例 I have to take the cat to the vet's tomorrow. 明天我得把猫带到兽医诊所去诊治。
-    same: 同 screen (vt./n. 审查，检查)
+    synonyms: 同 screen (vt./n. 审查，检查)
   - word: veterinarian
     tags: [常见]
     phonetic: 【ˌvetərɪ 'neəriən】
@@ -23578,7 +23578,7 @@ words:
     samples: 
       - 例 A group of tourists suffered a vicious attackby a gang of local people.一群旅游者遭到一帮当地流氓的恶意攻击。
     derive: 派 viciously (ad. 恶毒地；剧烈地)；viciousness (n. 恶毒；严重)
-    same: 同 savage (a. 野蛮的；凶猛的；残忍的)；malicious (a. 怀恶意的，恶毒的)；spiteful (a. 怀恨的，恶意的)
+    synonyms: 同 savage (a. 野蛮的；凶猛的；残忍的)；malicious (a. 怀恶意的，恶毒的)；spiteful (a. 怀恨的，恶意的)
   - word: victim
     tags: [常见]
     phonetic: 【ˈvɪktɪm】
@@ -23780,7 +23780,7 @@ words:
     samples: 
       - 例 It seems pretty vulgar to give a woman your business card in public asking for a date or dinner. 当众给女性名片要求约会或共进晚餐似乎非常粗俗。
     derive: 派 vulgarity (n. 庸俗，粗俗)；vulgarly (ad. 粗野地；庸俗地)
-    same: 同 coarse (a. 粗鄙的)
+    synonyms: 同 coarse (a. 粗鄙的)
     antonym: 反 exquisite (a. 优美的，高雅的，精致的)；elegant (a. 雅致的，高雅的)
   - word: vulnerable
     tags: [常见]
@@ -23790,7 +23790,7 @@ words:
     samples: 
       - 例 Women are especially vulnerable to backpain because of pregnancy.由于怀孕，女性尤其容易背痛。
     derive: 派 vulnerability (n. 易受攻击；弱点)；vulnerably (ad. 易受伤害地；易受攻击地)
-    same: 同 assailable (a. 可攻击的，易攻击的)
+    synonyms: 同 assailable (a. 可攻击的，易攻击的)
     antonym: 反 strong (a. 强壮的，强大的；坚固的)；tough (a. 强硬的
   - word: wage 
     phonetic: 【weɪdʒ】
