@@ -24,19 +24,19 @@ class PutongGaozhongCheckTest {
        //
        Files.newBufferedReader(Paths.get(file
        )).use { reader ->
-           val strategy = ColumnPositionMappingStrategy<EnWordLine>()
-           strategy.type = EnWordLine::class.java
+           val strategy = ColumnPositionMappingStrategy<EnwordLine>()
+           strategy.type = EnwordLine::class.java
 
            // seq,seqn,word,phonetic,exchange,trans
            strategy.setColumnMapping("seq", "seqn", "word", "phonetic", "exchange", "trans")
-           val csvToBean: CsvToBean<EnWordLine> = CsvToBeanBuilder<EnWordLine>(reader)
+           val csvToBean: CsvToBean<EnwordLine> = CsvToBeanBuilder<EnwordLine>(reader)
                .withMappingStrategy(strategy)
                .withSkipLines(1)
                .withIgnoreLeadingWhiteSpace(true)
                .build()
-           val wordLineIterator: Iterator<EnWordLine> = csvToBean.iterator()
+           val wordLineIterator: Iterator<EnwordLine> = csvToBean.iterator()
            while (wordLineIterator.hasNext()) {
-               val wordLine: EnWordLine = wordLineIterator.next()
+               val wordLine: EnwordLine = wordLineIterator.next()
                if (wordLine?.word != null) {
                    putongGaozhongDict.remove(wordLine.word.trim())
                }

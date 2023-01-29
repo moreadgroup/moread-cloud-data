@@ -4,7 +4,7 @@ package com.moreadgroup.data.english
  * @Author conan8chan@yahoo.com
  * @Date 1/3/23/T2:39 PM-Tuesday
  */
-data class EnWordLine(
+data class EnwordLine(
 
     // seq,seqn,word,phonetic,exchange,trans
 

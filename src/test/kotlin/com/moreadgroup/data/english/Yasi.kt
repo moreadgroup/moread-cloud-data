@@ -1,21 +1,26 @@
 package com.moreadgroup.data.english
 
 import kotlinx.serialization.Serializable
+import com.fasterxml.jackson.annotation.JsonInclude;
 
 @Serializable
-data class YasiWord(
+@JsonInclude(JsonInclude.Include.NON_NULL)
+data class EnwordYaml(
     val word: String,
     val tags: Array<String>?,
     val phonetic: String?,
     val trans: String?,
     val tips: String?,
-    val collocation: String?,
+    val usage: String?,
     val samples: Array<String>?,
     val synonyms: String?,
     val antonym: String?,
-    val derive:String?
-    ) {
-    constructor() : this("", arrayOf(),"", "", "", "", arrayOf(), "", "","")
+    val derive: String?,
+    val distinguish: String?,
+    val test: String?,
+    val reference: String?
+) {
+    constructor() : this("", null, null, null, null, null, null, null, null, null, null, null,null)
 //
 //    - word: abundance*
 //    tags: [常见]
@@ -31,8 +36,9 @@ data class YasiWord(
 
 
 @Serializable
+@JsonInclude(JsonInclude.Include.NON_NULL)
 data class YasiYuminghong(
-    val words: List<YasiWord>
+    val words: List<EnwordYaml>
 ) {
     constructor() : this(ArrayList())
 

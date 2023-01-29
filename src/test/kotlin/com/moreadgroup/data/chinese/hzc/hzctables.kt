@@ -1,6 +1,5 @@
 package com.moreadgroup.data.chinese.hzc
 
-import com.moreadgroup.data.english.YasiWord
 import kotlinx.serialization.Serializable
 
 /**
