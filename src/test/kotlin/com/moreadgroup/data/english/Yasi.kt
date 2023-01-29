@@ -7,6 +7,7 @@ import com.fasterxml.jackson.annotation.JsonInclude;
 @JsonInclude(JsonInclude.Include.NON_NULL)
 data class EnwordYaml(
     val word: String,
+    val exchange: String?,
     val tags: Array<String>?,
     val phonetic: String?,
     val trans: String?,
@@ -20,7 +21,23 @@ data class EnwordYaml(
     val test: String?,
     val reference: String?
 ) {
-    constructor() : this("", null, null, null, null, null, null, null, null, null, null, null,null)
+    constructor() : this("", null, null, null, null, null, null, null, null, null, null, null, null, null)
+    constructor(word: String, exchange: String?, phonetic: String?, trans: String?) : this(
+        word,
+        exchange,
+        null,
+        phonetic,
+        trans,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    )
 //
 //    - word: abundance*
 //    tags: [常见]
@@ -38,7 +55,7 @@ data class EnwordYaml(
 @Serializable
 @JsonInclude(JsonInclude.Include.NON_NULL)
 data class YasiYuminghong(
-    val words: List<EnwordYaml>
+    var words: ArrayList<EnwordYaml>
 ) {
     constructor() : this(ArrayList())
 

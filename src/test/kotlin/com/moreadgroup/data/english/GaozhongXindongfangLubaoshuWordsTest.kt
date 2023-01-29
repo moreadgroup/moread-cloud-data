@@ -27,33 +27,49 @@ class GaozhongXindongfangLubaoshuWordsTest {
 
     @Test
     fun testCheckGaozhongXindongfangLubaoshuWordsVsMagicear8timesAllThenOK() {
-        val objectMapper = ObjectMapper(YAMLFactory()
-            .configure(YAMLGenerator.Feature.MINIMIZE_QUOTES,true)
-            .configure(YAMLGenerator.Feature.SPLIT_LINES,false)
+        val objectMapper = ObjectMapper(
+            YAMLFactory()
+                .configure(YAMLGenerator.Feature.MINIMIZE_QUOTES, true)
+                .configure(YAMLGenerator.Feature.SPLIT_LINES, false)
         ).findAndRegisterModules()
         val yasi: YasiYuminghong = objectMapper.readValue(
-            File(srcFolderOfYasiYuminghong+ "GaozhongXindongfangLubaoshuWords.yaml"),
+            File(srcFolderOfYasiYuminghong + "GaozhongXindongfangLubaoshuWords.yaml"),
             YasiYuminghong::class.java
         )
 
         println("GaozhongXindongfangLubaoshuWords=${yasi.words.size}")
+
         println("=============missing primary words==========")
-         removeWordsFromPutongGaozhongDict(srcFolderOfMagicear8times + "primary/primary-all.csv",yasi)
+        val missingPrimaryWords =
+            foundMissingWordsInYasiYuminghong(srcFolderOfMagicear8times + "primary/primary-all.csv", yasi)
+        println("missing primary words total = ${missingPrimaryWords.words.size}")
+        objectMapper.writeValue(File(destFolder + "/missing-primary-out.yaml"), missingPrimaryWords);
+
         println("=============missing junior words==========")
-        removeWordsFromPutongGaozhongDict(srcFolderOfMagicear8times + "junior/junior-all.csv",yasi)
+        val missingJuniorWords =
+            foundMissingWordsInYasiYuminghong(srcFolderOfMagicear8times + "junior/junior-all.csv", yasi)
+        println("missing junior words total = ${missingJuniorWords.words.size}")
+        objectMapper.writeValue(File(destFolder + "/missing-junior-out.yaml"), missingJuniorWords);
+
         println("=============missing senior words==========")
-         removeWordsFromPutongGaozhongDict(srcFolderOfMagicear8times + "senior/senior-all.csv",yasi)
+        val missingSeniorWords =
+            foundMissingWordsInYasiYuminghong(srcFolderOfMagicear8times + "senior/senior-all.csv", yasi)
+        println("missing senior words total = ${missingSeniorWords.words.size}")
+        objectMapper.writeValue(File(destFolder + "/missing-senior-out.yaml"), missingSeniorWords);
 
         // We write the `employee` into `person2.yaml`
         //objectMapper.writeValue(File(destFolder+"/gaozhong-out.yaml"), yasi);
 
     }
 
-    fun removeWordsFromPutongGaozhongDict(file:String, yasi:YasiYuminghong){
+    fun foundMissingWordsInYasiYuminghong(file: String, yasi: YasiYuminghong): YasiYuminghong {
+        var missingWords: YasiYuminghong = YasiYuminghong()
         //
         Files.newBufferedReader(
-            Paths.get(file
-        )).use { reader ->
+            Paths.get(
+                file
+            )
+        ).use { reader ->
             val strategy = ColumnPositionMappingStrategy<EnwordLine>()
             strategy.type = EnwordLine::class.java
 
@@ -73,20 +89,30 @@ class GaozhongXindongfangLubaoshuWordsTest {
 //                       println(wordLine.word)
 //                   }
                     var found = false;
-                    for(word in yasi.words){
-                        if (word.word.equals(wordLine.word,true)){
-                            found=true;
+                    for (word in yasi.words) {
+                        if (word.word.equals(wordLine.word, true)) {
+                            found = true;
                             break;
                         }
                     }
-
-                    if (!found){
+                    if (!found) {
                         println(wordLine.word)
+                        var exchange = if (wordLine.exchange.equals("")) null else wordLine.exchange
+                        var phonetic = if (wordLine.phonetic.equals("")) null else wordLine.phonetic
+                        missingWords.words.add(
+                            EnwordYaml(
+                                word = wordLine.word,
+                                exchange = exchange,
+                                phonetic = phonetic,
+                                trans = wordLine.trans
+                            )
+                        )
                     }
-
                 }
             }
         }
+
+        return missingWords
 
     }
 
