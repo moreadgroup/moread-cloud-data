@@ -8,12 +8,12 @@ import com.fasterxml.jackson.annotation.JsonInclude;
 data class EnwordYaml(
     val word: String,
     val exchange: String?,
-    val tags: Array<String>?,
+    var tags: List<String>?,
     val phonetic: String?,
     val trans: String?,
     val tips: String?,
     val usage: String?,
-    val samples: Array<String>?,
+    val samples: ArrayList<String>?,
     val synonyms: String?,
     val antonym: String?,
     val derive: String?,
@@ -22,10 +22,10 @@ data class EnwordYaml(
     val reference: String?
 ) {
     constructor() : this("", null, null, null, null, null, null, null, null, null, null, null, null, null)
-    constructor(word: String, exchange: String?, phonetic: String?, trans: String?) : this(
+    constructor(word: String, tags:List<String>?,exchange: String?, phonetic: String?, trans: String?) : this(
         word,
         exchange,
-        null,
+        tags,
         phonetic,
         trans,
         null,

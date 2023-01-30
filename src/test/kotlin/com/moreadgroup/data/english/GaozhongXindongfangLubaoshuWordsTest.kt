@@ -41,19 +41,19 @@ class GaozhongXindongfangLubaoshuWordsTest {
 
         println("=============missing primary words==========")
         val missingPrimaryWords =
-            foundMissingWordsInYasiYuminghong(srcFolderOfMagicear8times + "primary/primary-all.csv", yasi)
+            foundMissingWordsInYasiYuminghong("小学", srcFolderOfMagicear8times + "primary/primary-all.csv", yasi)
         println("missing primary words total = ${missingPrimaryWords.words.size}")
         objectMapper.writeValue(File(destFolder + "/missing-primary-out.yaml"), missingPrimaryWords);
 
         println("=============missing junior words==========")
         val missingJuniorWords =
-            foundMissingWordsInYasiYuminghong(srcFolderOfMagicear8times + "junior/junior-all.csv", yasi)
+            foundMissingWordsInYasiYuminghong("初中", srcFolderOfMagicear8times + "junior/junior-all.csv", yasi)
         println("missing junior words total = ${missingJuniorWords.words.size}")
         objectMapper.writeValue(File(destFolder + "/missing-junior-out.yaml"), missingJuniorWords);
 
         println("=============missing senior words==========")
         val missingSeniorWords =
-            foundMissingWordsInYasiYuminghong(srcFolderOfMagicear8times + "senior/senior-all.csv", yasi)
+            foundMissingWordsInYasiYuminghong("高中", srcFolderOfMagicear8times + "senior/senior-all.csv", yasi)
         println("missing senior words total = ${missingSeniorWords.words.size}")
         objectMapper.writeValue(File(destFolder + "/missing-senior-out.yaml"), missingSeniorWords);
 
@@ -62,7 +62,7 @@ class GaozhongXindongfangLubaoshuWordsTest {
 
     }
 
-    fun foundMissingWordsInYasiYuminghong(file: String, yasi: YasiYuminghong): YasiYuminghong {
+    fun foundMissingWordsInYasiYuminghong(tag: String, file: String, yasi: YasiYuminghong): YasiYuminghong {
         var missingWords: YasiYuminghong = YasiYuminghong()
         //
         Files.newBufferedReader(
@@ -99,9 +99,11 @@ class GaozhongXindongfangLubaoshuWordsTest {
                         println(wordLine.word)
                         var exchange = if (wordLine.exchange.equals("")) null else wordLine.exchange
                         var phonetic = if (wordLine.phonetic.equals("")) null else wordLine.phonetic
+                        var tags = arrayListOf(tag)
                         missingWords.words.add(
                             EnwordYaml(
                                 word = wordLine.word,
+                                tags = tags,
                                 exchange = exchange,
                                 phonetic = phonetic,
                                 trans = wordLine.trans
@@ -115,5 +117,76 @@ class GaozhongXindongfangLubaoshuWordsTest {
         return missingWords
 
     }
+
+    @Test
+    fun testFixGaozhongXindongfangLubaoshuWordsWithMagicear8timesAllThenOK() {
+        val objectMapper = ObjectMapper(
+            YAMLFactory()
+                .configure(YAMLGenerator.Feature.MINIMIZE_QUOTES, true)
+                .configure(YAMLGenerator.Feature.SPLIT_LINES, false)
+        ).findAndRegisterModules()
+        var yasi: YasiYuminghong = objectMapper.readValue(
+            File(srcFolderOfYasiYuminghong + "GaozhongXindongfangLubaoshuWords.yaml"),
+            YasiYuminghong::class.java
+        )
+
+        println("GaozhongXindongfangLubaoshuWords=${yasi.words.size}")
+
+        yasi = fixTagsWithMagicear8times("小学", srcFolderOfMagicear8times + "primary/primary-all.csv", yasi)
+        yasi = fixTagsWithMagicear8times("初中", srcFolderOfMagicear8times + "junior/junior-all.csv", yasi)
+        yasi = fixTagsWithMagicear8times("高中", srcFolderOfMagicear8times + "senior/senior-all.csv", yasi)
+
+        println("GaozhongXindongfangLubaoshuWords null tags:")
+        yasi.words.forEach {
+            if (it.tags == null) {
+                println("${it.word}:${it.tags}")
+                it.tags = arrayListOf("高中")
+            }
+        }
+        objectMapper.writeValue(File(destFolder + "/fix-GaozhongXindongfangLubaoshuWords.yaml"), yasi);
+
+    }
+
+    private fun fixTagsWithMagicear8times(tag: String, file: String, yasi: YasiYuminghong): YasiYuminghong {
+        //
+        Files.newBufferedReader(
+            Paths.get(
+                file
+            )
+        ).use { reader ->
+            val strategy = ColumnPositionMappingStrategy<EnwordLine>()
+            strategy.type = EnwordLine::class.java
+
+            // seq,seqn,word,phonetic,exchange,trans
+            strategy.setColumnMapping("seq", "seqn", "word", "phonetic", "exchange", "trans")
+            val csvToBean: CsvToBean<EnwordLine> = CsvToBeanBuilder<EnwordLine>(reader)
+                .withMappingStrategy(strategy)
+                .withSkipLines(1)
+                .withIgnoreLeadingWhiteSpace(true)
+                .build()
+            val wordLineIterator: Iterator<EnwordLine> = csvToBean.iterator()
+            while (wordLineIterator.hasNext()) {
+                val wordLine: EnwordLine = wordLineIterator.next()
+                if (wordLine?.word != null) {
+                    for (word in yasi.words) {
+                        if (word.word.equals(wordLine.word, false)) { //found
+                            if (word.tags == null) {
+                                word.tags = arrayListOf(tag)
+                            } else {
+                                word.tags = word.tags!!.plus(tag).distinct()
+                            }
+                            if (word.tags != null) {
+                                println(word.word + ":" + word.tags?.distinct())
+                            }
+                            break;
+                        }
+                    }
+                }
+            }
+        }
+
+        return yasi
+    }
+
 
 }
