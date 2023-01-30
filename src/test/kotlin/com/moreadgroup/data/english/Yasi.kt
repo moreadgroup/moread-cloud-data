@@ -7,7 +7,7 @@ import com.fasterxml.jackson.annotation.JsonInclude;
 @JsonInclude(JsonInclude.Include.NON_NULL)
 data class EnwordYaml(
     val word: String,
-    val exchange: String?,
+    var exchange: String?,
     var tags: List<String>?,
     val phonetic: String?,
     val trans: String?,

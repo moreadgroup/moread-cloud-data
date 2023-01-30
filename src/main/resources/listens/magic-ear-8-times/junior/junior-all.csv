@@ -38,7 +38,7 @@ seq,seqn,word,phonetic,exchange,trans
 37,37/1102,decide,英[di'said],,v.决定;下决心
 38,38/1102,start,英[stɑ:t],,v.开始;出发
 39,39/1102,pull,英[pul],,v.拉;拖n.拉力
-40,40/1102,leave,英[li:v],(left;le仕),v.离开;留下
+40,40/1102,leave,英[li:v],(left;left),v.离开;留下
 41,41/1102,lead,英[li:d. led],(led;led),v.领导;带领
 42,42/1102,sell,英[sel],(sold;sold),v.卖
 43,43/1102,climb,英[klaim],,v.爬;攀登
@@ -87,7 +87,7 @@ seq,seqn,word,phonetic,exchange,trans
 86,86/1102,happen,英['hæpәn],,v.发生;碰巧
 87,87/1102,refuse,英[ri'fju:z],,v.拒绝;抵制
 88,88/1102,skate,英[skeit],,v.溜冰;滑冰
-89,89/1102,fall,英[fɒ:l],(fell;fhllen),v.落下n.瀑布;秋天
+89,89/1102,fall,英[fɒ:l],(fell;fallen),v.落下n.瀑布;秋天
 90,90/1102,reason,英['ri:zn],,v.推论n.原因;理性
 91,91/1102,rise,英[raiz],(rose;risen),v.上升;起立
 92,92/1102,sound,英[saund],,v.听起来;发出声音n.声音
@@ -260,7 +260,6 @@ seq,seqn,word,phonetic,exchange,trans
 259,259/1102,noisy,英['nɒizi],,a-吵闹的;喧闹的
 260,260/1102,successful,英[sәk'sesful],,a.成功的;有成就的
 261,261/1102,honest,英['ɒnist],,a.诚实的;坦诚的
-262,262/1102,ugly,英['ʌgli],,a.丑陋的;难看的
 263,263/1102,born,英[bɒ:n],(bear的过去分词),a.天生的v.出生
 264,264/1102,primary,英['praimәri],,a.主要的;初级的
 265,265/1102,traditional,英[trә'diʃәnl],,a.传统的;惯例的

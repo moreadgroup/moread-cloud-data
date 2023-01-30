@@ -143,6 +143,14 @@ class GaozhongXindongfangLubaoshuWordsTest {
                 it.tags = arrayListOf("高中")
             }
         }
+
+        println("GaozhongXindongfangLubaoshuWords null phonetic:")
+        yasi.words.forEach {
+            if (it.phonetic == null) {
+                println("${it.word}:${it.phonetic}")
+            }
+        }
+
         objectMapper.writeValue(File(destFolder + "/fix-GaozhongXindongfangLubaoshuWords.yaml"), yasi);
 
     }
@@ -177,6 +185,11 @@ class GaozhongXindongfangLubaoshuWordsTest {
                             }
                             if (word.tags != null) {
                                 println(word.word + ":" + word.tags?.distinct())
+                            }
+
+                            // fill exchange
+                            if (wordLine?.exchange != null && wordLine?.exchange.compareTo("") != 0) {
+                                word.exchange = wordLine.exchange
                             }
                             break;
                         }

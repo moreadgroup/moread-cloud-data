@@ -442,6 +442,7 @@ words:
   usage: 用 1．try to do sth. 尽力去做某事，但结果不确定：I'm trying to put everything in order in my new flat. 我想把新公寓里的所有东西都归置好。2．try doing sth. 尝试做某事：I try holding my breath to stop sneezing. 我试着屏住呼吸以止住打喷嚏。
   test: 考 1．try one's best尽某人最大的努力2．try on试穿
 - word: find
+  exchange: (found;found)
   tags:
   - 小学
   phonetic: 【faɪnd】
@@ -468,7 +469,6 @@ words:
 - word: fan
   tags:
   - 小学
-  - 高中
   phonetic: 【fæn】
   trans: n. （电影、运动等的）迷，狂热的爱好者、支持者；风扇
   tips: 记 发音记忆：“粉丝”就是音译自fans
@@ -661,6 +661,7 @@ words:
   samples:
   - 例 She is an outgoing girl. 她是个外向的女孩。
 - word: give
+  exchange: (gave;given)
   tags:
   - 小学
   phonetic: 【ɡɪv】
@@ -829,6 +830,7 @@ words:
   samples:
   - 例 an electric clock电子钟
 - word: fall
+  exchange: (fell;fhllen)
   tags:
   - 初中
   phonetic: 【fɔːl】
@@ -980,6 +982,7 @@ words:
   samples:
   - 例 The journey around the world took the old sailor nine months. 老水手用9个月的时间完成了环球旅行。
 - word: lie
+  exchange: (lay;lain)
   tags:
   - 初中
   phonetic: 【laɪ】
@@ -1245,6 +1248,7 @@ words:
   samples:
   - 例 TV screen电视荧屏
 - word: pay
+  exchange: (paid;paid)
   tags:
   - 初中
   phonetic: 【peɪ】
@@ -1328,6 +1332,7 @@ words:
   - 例 It is easy to do the repair. All you need is a hammer and some nails. 把它修好很容易。你只需要一把锤子和一些钉子。
   - 例 She hammered on the door with her hands. 她用手锤打着门。
 - word: throw
+  exchange: (threw;thrown)
   tags:
   - 初中
   phonetic: 【θrəʊ】
@@ -1762,6 +1767,7 @@ words:
   samples:
   - 例 You should improve your English，especially your spoken English. 你应该提高你的英语水平，尤其是口语。
 - word: wear
+  exchange: (wore;worn)
   tags:
   - 小学
   phonetic: 【weə】
@@ -1836,6 +1842,7 @@ words:
   - 例 The distance between bus stops is too long. 公交车站之间的距离太远了。
   test: 考 1．at a distance隔一段距离2．in the distance在远处
 - word: take
+  exchange: (took;taken)
   tags:
   - 小学
   phonetic: 【teɪk】
@@ -1846,6 +1853,7 @@ words:
   - 例 take action 采取行动 take medicine吃药 take the bus乘公共汽车 You should take her advice. 你应当接受她的建议。
   test: 考 1．take advantage of...利用…2．take away拿走，夺走3．take care of...照顾…4．take charge of...负责…5．take one's time不用着急，慢慢来 6．take it easy放松；不要着急7．take part in...参加…8．take up...占用…占据…9．take off起飞；脱下10．take place发生11．take over...接管…12．take trouble to do sth. 不辞辛苦做某事
 - word: leave
+  exchange: (left;left)
   tags:
   - 初中
   phonetic: 【liːv】
@@ -1952,6 +1960,7 @@ words:
   samples:
   - 例 behaviour pattern行为模式
 - word: understand
+  exchange: (understood;understood)
   tags:
   - 初中
   phonetic: 【ˌʌndəˈstænd】
@@ -1960,6 +1969,7 @@ words:
   - 例 Do you understand Spain? 你懂西班牙语吗？
   reference: 参 understanding（n. 谅解，理解）
 - word: cost
+  exchange: (cost;cost)
   tags:
   - 初中
   phonetic: 【kɒst】
@@ -2128,6 +2138,7 @@ words:
   samples:
   - 例 I recognized Tom the moment I saw him. 我一见到汤姆就认出他来了。
 - word: show
+  exchange: (showed;shown)
   tags:
   - 初中
   phonetic: 【ʃəʊ】
@@ -2392,6 +2403,7 @@ words:
   - 例 wait for the lift等电梯
   - 例 Please lift the box and put it on the table. 请把盒子抬起来放到桌子上。
 - word: far
+  exchange: (farther;farthest或further;furthest)
   tags:
   - 小学
   phonetic: 【fɑː】
@@ -2491,6 +2503,7 @@ words:
   samples:
   - 例 This article mainly tells about the story of a beauty. 这篇文章主要讲述了一个美丽女人的故事。
 - word: put
+  exchange: (put;put)
   tags:
   - 小学
   phonetic: 【pʊt】
@@ -2545,6 +2558,7 @@ words:
   test: 考 1．in a flash很快地，立即：I'll be back in a flash. 我马上就回来。 2．flash back回忆，回溯
   reference: 参 flashlight（n. 手电）
 - word: tell
+  exchange: (told;told)
   tags:
   - 小学
   phonetic: 【tel】
@@ -2592,6 +2606,7 @@ words:
   samples:
   - 例 The house is set in beautiful surroundings. 这栋房子周围环境优美。
 - word: think
+  exchange: (thought;thought)
   tags:
   - 小学
   phonetic: 【θɪŋk】
@@ -2859,6 +2874,7 @@ words:
   samples:
   - 例 Kate won a seat in Parliament at this election. 在这次选举中，凯特赢得了议会中的一个席位。
 - word: come
+  exchange: (came;come)
   tags:
   - 小学
   phonetic: 【kʌm】
@@ -2872,6 +2888,7 @@ words:
   trans: conj./prep. 直到，直到…为止
   usage: 用 till作连词时，常用来引导时间状语从句，但不能位于句首。1．用于肯定句时，主句动词常为延续性动词，表示这个动作一直延续到till所 表示的时间为止。如：The crazy fans would wait till the movie star arrived. 这些疯狂的影迷会一直等到影星来为止。2．用于否定句时，主句的动词一般是非延续性的，它所表示的动作直到till所表示的时间才发生：Mary didn't sleep till her mother came back. 直到妈妈回来，玛丽才睡。
 - word: dig
+  exchange: (dug;dug)
   tags:
   - 初中
   phonetic: 【dɪɡ】
@@ -3070,6 +3087,7 @@ words:
   - 例 You misunderstood my words. 你误解了我的话。
   reference: 参 misunderstanding（n. 误会，误解）
 - word: little
+  exchange: (less;least)
   tags:
   - 小学
   phonetic: 【ˈlɪtl】
@@ -3116,6 +3134,7 @@ words:
   samples:
   - 例 What is your height? 你有多高？
 - word: forget
+  exchange: (forgot;forgotten)
   tags:
   - 初中
   phonetic: 【fəˈɡet】
@@ -3320,6 +3339,7 @@ words:
   samples:
   - 例 People living in cities have to bear the characteristic noises there. 住在城市里的人不得不忍受都市特有的喧嚣。
 - word: shine
+  exchange: (shone;shone)
   tags:
   - 初中
   phonetic: 【ʃaɪn】
@@ -3509,6 +3529,7 @@ words:
   samples:
   - 例 I wish that it would stop snowing. 我希望雪能停。
 - word: keep
+  exchange: (kept;kept)
   tags:
   - 初中
   phonetic: 【kiːp】
@@ -3675,6 +3696,7 @@ words:
   - 例 The shrewd businessman has kept a record of his expenses for almost ten years. 这个精明的商人把自己将近10年的花销都记录下来了。
   reference: 参 recordable（adj. 可记录的）
 - word: ring
+  exchange: (rang;rung)
   tags:
   - 初中
   phonetic: 【rɪŋ】
@@ -3743,6 +3765,7 @@ words:
   samples:
   - 例 the period of the Civil War美国南北战争时期
 - word: feed
+  exchange: (fed;fed)
   tags:
   - 初中
   phonetic: 【fiːd】
@@ -3821,6 +3844,7 @@ words:
   samples:
   - 例 People should be treated equally regardless of nationality，race and sex. 无论国籍、种族和性别是什么，人们应该得到平等的对待。
 - word: begin
+  exchange: (began;begun)
   tags:
   - 小学
   phonetic: 【bɪˈɡɪn】
@@ -3849,9 +3873,9 @@ words:
   samples:
   - 例 He speaks English well indeed，but of course not so fluently as a native speaker. 他的英语说得确实不错，但还是不如英语国家的人说得流利。
 - word: have
+  exchange: (has;had;had)
   tags:
   - 小学
-  - 高中
   phonetic: 【hæv】
   trans: vt. （had，had，having）有，使，令aux. v. 帮助构成完成时态
   usage: 用 have接复合宾语，主要句型有：1．have sb. do sth. 让某人做某事：If anyone happens to drop in while I am out，have him or her leave a message. 如果我出去时有人来访，让来人留个口信儿。注意：have的宾补是省略to的不定式，相同用法的动词还有：notice，help，feel，hear，listen to，make，let，watch，see，look at，observe等。2．have sb./sth.  doing...让…一直做…：He had us laughing all through the meal. 他让我们一顿饭都笑个不停。3．have sth. done让某事被（别人）做；遭遇：You have had your hair cut. 你剪头发了。
@@ -3944,6 +3968,7 @@ words:
   - 例 Bob's behavior showed that he was an honest man. 鲍勃的行为表明他是一个诚实的人。
   reference: 参 honestly（adv. 真诚地；公正地）
 - word: stick
+  exchange: (stuck;stuck)
   tags:
   - 初中
   phonetic: 【stɪk】
@@ -4086,6 +4111,7 @@ words:
   - 例 modern classic writers当代一流作家
   distinguish: 辨 classic，classical classic和classical词形相像，词义也接近。classic意为“经典的；最优秀的”，比如：a classic novel最佳小说；而classical意为“古典的”，指艺术上的一个流派，比如：classical music古典音乐。
 - word: know
+  exchange: (knew;known)
   tags:
   - 小学
   phonetic: 【nəʊ】
@@ -4214,6 +4240,7 @@ words:
   - 例 The temperature is below zero. 温度在零度以下。
   - 例 See Paragraph Nine below for more details. 详见下面第九段。
 - word: popular
+  exchange: (pop)
   tags:
   - 初中
   phonetic: 【ˈpɒpjələ】
@@ -4254,6 +4281,7 @@ words:
   samples:
   - 例 The college banned alcohol from parties on campus. 这所大学禁止在校园内的聚会上饮酒。
 - word: mean
+  exchange: (meant;meant)
   tags:
   - 初中
   phonetic: 【miːn】
@@ -4365,6 +4393,7 @@ words:
   samples:
   - 例 After having a good trip，Elizabeth went to work energetically. 一段愉快的旅行之后，伊丽莎白精力充沛地投入了工作。
 - word: write
+  exchange: (wrote;written)
   tags:
   - 小学
   phonetic: 【raɪt】
@@ -4407,6 +4436,7 @@ words:
   samples:
   - 例 Your teacher will be back soon. Meanwhile，get on with your work. 你们的老师不久就要回来了。现在赶紧做你们的作业。
 - word: go
+  exchange: (went;gone)
   tags:
   - 小学
   - 高中
@@ -4555,6 +4585,7 @@ words:
   test: 考 1．believe in信仰，崇尚；相信2．believe it or not信不信由你
   reference: 参 belief（n. 信条，信念）
 - word: fight
+  exchange: (fought;fbught)
   tags:
   - 初中
   phonetic: 【faɪt】
@@ -4570,6 +4601,7 @@ words:
   - 例 Pass me the salt，please. 请把盐递给我。
   test: 考 1．pass on传递2．pass by经过3．pass away去世：Her mother passed away last year. 她母亲去年去世了。
 - word: build
+  exchange: (built;built)
   tags:
   - 初中
   phonetic: 【bɪld】
@@ -4737,6 +4769,7 @@ words:
   samples:
   - 例 Professor Green will give us an interesting lecture in the teaching building tonight. 格林教授今晚将在教学楼给我们作有趣的演讲。
 - word: feel
+  exchange: (felt;felt)
   tags:
   - 小学
   phonetic: 【fiːl】
@@ -4854,6 +4887,7 @@ words:
   samples:
   - 例 The fantastic music attracted thousands of audience both at home and abroad. 这段美妙的音乐吸引了数千名国内外的听众。
 - word: whom
+  exchange: (who的宾格)
   tags:
   - 初中
   phonetic: 【huːm】
@@ -4876,6 +4910,7 @@ words:
   samples:
   - 例 traffic accident交通事故
 - word: hear
+  exchange: (heard;heard)
   tags:
   - 小学
   phonetic: 【hɪə】
@@ -4965,6 +5000,7 @@ words:
   - 例 a conference room会议室
   - 例 You will see her at the press conference. 你会在记者招待会上见到她。
 - word: neighbour
+  exchange: (neighbor)
   tags:
   - 初中
   - 高中
@@ -5172,6 +5208,7 @@ words:
   - 例 a civil war内战
   - 例 a civil court民事诉讼法庭
 - word: send
+  exchange: (sent;sent)
   tags:
   - 初中
   phonetic: 【send】
@@ -5849,6 +5886,7 @@ words:
   - 例 TheRomans used to control a vast empire. 罗马人曾经统治着一个庞大的帝国。Passport Control出入境关卡 remote control遥控器
   test: 考 1．lose control over sth. 对某物失去控制2．have control over.../take control of...控制…3．out of control失控4．self-control自控
 - word: sell
+  exchange: (sold;sold)
   tags:
   - 初中
   phonetic: 【sel】
@@ -5981,9 +6019,9 @@ words:
   samples:
   - 例 He's too modest to tell you that he's the champion. 他很谦虚，不会告诉你他就是冠军。
 - word: sometimes
+  exchange: (at times)
   tags:
   - 小学
-  - 高中
   phonetic: 【ˈsʌmtaɪmz】
   trans: adv. 有时
   samples:
@@ -6007,6 +6045,7 @@ words:
   - 例 bus schedule公共汽车时刻表
   - 例 The tests are scheduled for six months. 这些测试预计用六个月完成。
 - word: hit
+  exchange: (hit;hit)
   tags:
   - 初中
   phonetic: 【hɪt】
@@ -6184,6 +6223,7 @@ words:
   - 例 He placed the vase in the middle of the table. 他把花瓶放在桌子中间。
   test: 考 1．take place发生（不用于被动形式）2．take the place of取代
 - word: able
+  exchange: (be able to do)
   tags:
   - 初中
   phonetic: 【ˈeɪbl】
@@ -6603,6 +6643,7 @@ words:
   - 例 The reform of educational system is warmly welcomed by teachers and students. 教育体系的改革受到了老师和学生们的热烈欢迎。
   distinguish: 辨 reform，transform reform意为“改革，革新”，多指使社会、政治、经济等方面变得更好，而transform既可以指外部形状等的变化，也可以指内在性质或功能的变化。
 - word: freeze
+  exchange: (froze;frozen)
   tags:
   - 初中
   - 高中
@@ -6707,9 +6748,9 @@ words:
   - 例 The oil company raised oil prices by more than 5 percent last month. 石油公司上个月将石油价格提高了5％以上。
   distinguish: 辨 raise，rise. raise是及物动词，有“举起，抬起；抚养”的意思，可以用被动语态，比如：The boy was raised by his uncle. 那个男孩是他叔叔养大的。而rise表示“升起，上升”，是不及物动词，没有被动语态，如：The sun also rises. 太阳照常升起。
 - word: make
+  exchange: (made;made)
   tags:
   - 小学
-  - 高中
   phonetic: 【meɪk】
   trans: vt. （made，made，making）制造，做；使成为
   usage: 用 make后接复合宾语时，可以充当宾补的有名词、形容词、非谓语动词等。主要句型有：1．make＋宾语＋do sth. 使宾语做某事：The announcement made the whole world cheer. 这个宣告使全世界的人都欢呼起来。
@@ -6767,6 +6808,7 @@ words:
   - 例 The fax machine has jammed again. 传真机又卡住了。
   test: 考 traffic jam塞车
 - word: get
+  exchange: (got;got)
   tags:
   - 小学
   phonetic: 【ɡet】
@@ -6810,6 +6852,7 @@ words:
   - 例 boiling water沸水 boiled water开水  boiling point沸点
   test: 考 boil down to等于；归结为：Most of the crimes may boil down to a question of money. 大多数犯罪都可归结为金钱问题。
 - word: do
+  exchange: (did;done)
   tags:
   - 小学
   phonetic: 【duː】
@@ -6831,6 +6874,7 @@ words:
   - 例 He looked at me straight in the eye. 他直视着我的眼睛。
   - 例 Come straight home after school. 放学后直接回家。
 - word: hold
+  exchange: (held;hcld)
   tags:
   - 初中
   phonetic: 【həʊld】
@@ -6866,6 +6910,7 @@ words:
   samples:
   - 例 This jacket is a real bargain at such a low price. 这件夹克衫价格这么低，真是便宜。
 - word: honour
+  exchange: (honor)
   tags:
   - 高中
   phonetic: 【ˈɒnə】
@@ -6882,6 +6927,7 @@ words:
   - 例 I acknowledged Tom for all of his help with the project. 我非常感谢汤姆在这个项目上对我的帮助。
   - 例 He is acknowledged as one of the best tennis players in the world. 他被公认为是世界上最优秀的网球选手之一。
 - word: defence
+  exchange: (defense)
   tags:
   - 高中
   phonetic: 【dɪˈfens】
@@ -7008,6 +7054,7 @@ words:
   samples:
   - 例 Our neighbor's dog barks constantly. 我们邻居的狗叫个不停。
 - word: learn
+  exchange: (learnt;learnt)
   tags:
   - 初中
   phonetic: 【lɜːn】
@@ -7099,6 +7146,7 @@ words:
   usage: 用 remain作系动词：The price has gone down，but I doubt whether it will remain so. 价格有所下降，但我怀疑它是否会持续下去。
   test: 考 It remains to be seen...…有待观望：Having a trip abroad is certainly good for the old couple，but it remains to be seen whether they will enjoy it. 到国外旅行对那对老年夫妇当然很好，但是他们是否喜欢还有待观望。
 - word: swim
+  exchange: (swam;swum)
   tags:
   - 小学
   phonetic: 【swɪm】
@@ -7224,6 +7272,7 @@ words:
   samples:
   - 例 The entry of the ancient tomb was blocked by a big stone. 古墓的入口被一块大石头挡住了。
 - word: analyse
+  exchange: (analyze)
   tags:
   - 高中
   phonetic: 【ˈænəlaɪz】
@@ -7417,6 +7466,7 @@ words:
   - 例 The police arrested the thief. 警方逮捕了那个小偷。
   - 例 The news of their arrest shocked the country. 他们被捕的消息震惊了全国。
 - word: see
+  exchange: (saw;seen)
   tags:
   - 小学
   phonetic: 【siː】
@@ -7435,6 +7485,7 @@ words:
   tips: 记 联想记忆：凝视（stare）星（star）空
   test: 考 stare at...凝视…
 - word: spend
+  exchange: (spent;spent)
   tags:
   - 初中
   phonetic: 【spend】
@@ -7562,6 +7613,7 @@ words:
   samples:
   - 例 John could not agree with anything without his partner's approval. 没有合作伙伴的认可，约翰不能同意任何事。
 - word: drink
+  exchange: (drank;drunk)
   tags:
   - 小学
   phonetic: 【drɪŋk】
@@ -7570,6 +7622,7 @@ words:
   - 例 a cool drink冷饮
   - 例 You're drinking too much. 你喝得太多了。
 - word: grow
+  exchange: (grew;grown)
   tags:
   - 初中
   phonetic: 【ɡrəʊ】
@@ -7841,6 +7894,7 @@ words:
   tips: 记 联想记忆：b＋lock（锁）→封锁→阻塞，阻挡
   test: 考 1．a block of一块：a block of wood一块木头2．block sth. （up）阻碍，堵塞：The drain was blocked up by mud. 下水道被污泥堵住了。
 - word: teach
+  exchange: (taught;taught)
   tags:
   - 初中
   phonetic: 【tiːtʃ】
@@ -7975,6 +8029,7 @@ words:
   test: 考 1．present at...出席…：All the people present at the party were his supporters. 出席晚会的人都是他的支持者。2．at present目前，现在 3．present sth. to sb. = present sb. with sth. 赠送，给予：The mayor presented the prizes to the top students. = The mayor presented the top students with the prizes. 市长为最优秀的学生们颁发了奖品。
   reference: 参 presentation（n. 陈述；介绍）
 - word: hide
+  exchange: (hid;hidden)
   tags:
   - 初中
   phonetic: 【haɪd】
@@ -8029,6 +8084,7 @@ words:
   trans: adv. 刚才，恰好；只是，仅adj. 公正的
   test: 考 1．just now刚刚，不久之前；现在2．just then就在那时
 - word: well
+  exchange: (better;best)
   tags:
   - 小学
   phonetic: 【wel】
@@ -8053,6 +8109,7 @@ words:
   - 例 This book is rather too difficult for the beginners. 这本书对初学者来说太难了。
   distinguish: 辨 fairly，quite，rather，pretty 这四个单词都有“相当”的意思，用法也比较相似，但是：1．从程度上说fairly是最轻的一个，quite比fairly语气稍强，rather在程度上比quite更重一些，pretty和rather差不多，但大多数情况下用于非正式文体，语气从弱到强的排序为fairly < quite < rather≈pretty，具体为：They were getting along fairly well with each other. 他们相处得还不错。
 - word: burn
+  exchange: (-ed;-ed或burnt;burnt)
   tags:
   - 初中
   phonetic: 【bɜːn】v. （burnt【burned，burnt】
@@ -8158,6 +8215,7 @@ words:
   samples:
   - 例 According to the data，there were twenty-five applicants for the position of general manager. 数据显示，有25人申请总经理一职。
 - word: dream
+  exchange: (dreamt;dreamt)
   tags:
   - 初中
   phonetic: 【driːm】
@@ -8329,6 +8387,7 @@ words:
   samples:
   - 例 The Prime Minister had absolute control of his cabinet. 首相对他的内阁有绝对的控制权。
 - word: smell
+  exchange: (smelt;smelt)
   tags:
   - 初中
   phonetic: 【smel】vt. （smelled【smelt，smelled】
@@ -8422,6 +8481,7 @@ words:
   trans: sped，speeding）（使）加速 n. 速度
   test: 考 1．high speed高速2．speed up加速
 - word: stand
+  exchange: (stood;stood)
   tags:
   - 小学
   phonetic: 【stænd】
@@ -8461,6 +8521,7 @@ words:
   - 例 He could run much faster than I could. 他跑得比我快多了。
   test: 考 1．more than多于，不仅仅2．no more than只是，仅仅3．not more than不超过，不如…多4．rather than胜于5．other than除了，不同于
 - word: shut
+  exchange: (shut;shut)
   tags:
   - 初中
   phonetic: 【ʃʌt】
@@ -8571,6 +8632,7 @@ words:
   - 例 Flight Number 152 to Beijing is ready to leave. 飞往北京的152次航班即将起飞。
   - 例 a flight of stairs一段楼梯
 - word: catch
+  exchange: (caught;caught)
   tags:
   - 初中
   phonetic: 【kætʃ】
@@ -8643,6 +8705,7 @@ words:
   - 例 They sat in a circle round the fire. 他们围着炉火坐成一圈。
   - 例 The birds circled around in the air. 鸟儿在空中盘旋。
 - word: meet
+  exchange: (met;met)
   tags:
   - 小学
   phonetic: 【miːt】
@@ -8749,6 +8812,7 @@ words:
   samples:
   - 例 Tax is used for supporting the institution which supplies services to tax payers. 税收用来给为纳税人提供服务的机构提供资金。
 - word: hang
+  exchange: (hung;hung)
   tags:
   - 初中
   phonetic: 【hæŋ】v. （hung【hanged，hung】
@@ -8796,6 +8860,7 @@ words:
   - 例 the Old English古英语
   distinguish: 辨 older，elder older和elder都有的“年长的”的意思。older可用来指人或物，而elder只能 用来指人并且不可用在比较级中，如：Jane is Mary's elder sister. 简是玛丽的姐姐。Jane is older than Mary. 简比玛丽年纪大。（此时就不能用elder。）另外，elder本身就可以作名词，而older不可以。
 - word: cut
+  exchange: (cut;cut)
   tags:
   - 初中
   phonetic: 【kʌt】
@@ -8843,6 +8908,7 @@ words:
   - 例 The street is too narrow to run so many cars. 这条街太窄了，容不了这么多车。
   reference: 参 narrowly（adv. 狭窄地）
 - word: hurt
+  exchange: (hurt;hurt)
   tags:
   - 初中
   phonetic: 【hɜːt】
@@ -8867,6 +8933,7 @@ words:
   samples:
   - 例 Students headed for the nearest exit. 学生们奔向最近的出口。
 - word: draw
+  exchange: (drew;drawn)
   tags:
   - 小学
   phonetic: 【drɔː】
@@ -9538,6 +9605,7 @@ words:
   trans: n. 长，长度
   test: 考 at length最后；详细地：At length we arrived at our destination. 我们终于到达了目的地。
 - word: shake
+  exchange: (shook;shaken)
   tags:
   - 初中
   phonetic: 【ʃeɪk】
@@ -9600,6 +9668,7 @@ words:
   samples:
   - 例 Would you like something to drink? 你想喝点儿什么吗？
 - word: lose
+  exchange: (lost;lost)
   tags:
   - 初中
   phonetic: 【luːz】
@@ -9662,6 +9731,7 @@ words:
   samples:
   - 例 They hired a bathing machine. 他们租用了一辆游泳更衣车。
 - word: spread
+  exchange: (spread;spread)
   tags:
   - 初中
   phonetic: 【spred】
@@ -9795,6 +9865,7 @@ words:
   test: 考 1．on condition that只要，如果2．under/in...condition在…的状况下
   reference: 参 conditional（adj. 有条件的，受制约的）
 - word: let
+  exchange: (let;let)
   tags:
   - 小学
   phonetic: 【let】
@@ -9953,6 +10024,7 @@ words:
   samples:
   - 例 clone technology克隆技术
 - word: sing
+  exchange: (sang;sung)
   tags:
   - 小学
   phonetic: 【sɪŋ】
@@ -10039,6 +10111,7 @@ words:
   samples:
   - 例 Paul is going to take a bath because it's so hot in the room. 保罗打算洗个澡，因为屋里太热了。
 - word: favour
+  exchange: (fovor)
   tags:
   - 高中
   phonetic: 【ˈfeɪvə】
@@ -10094,6 +10167,7 @@ words:
   samples:
   - 例 Grandpa adored Grandma when they first met. 初次相遇时，爷爷就喜欢上了奶奶。
 - word: choose
+  exchange: (chose;chosen)
   tags:
   - 初中
   phonetic: 【tʃuːz】
@@ -10102,6 +10176,7 @@ words:
   samples:
   - 例 He chose to play basketball. 他决定打篮球。
 - word: awake
+  exchange: (awoke;awoken)
   tags:
   - 初中
   phonetic: 【əˈweɪk】
@@ -10153,6 +10228,7 @@ words:
   - 例 It's two years since he was a League member. 他退团已经两年了。
   distinguish: 辨 since，as，because，for这四个词都可以引导原因状语，because语气最强，表示直接而明确的原因，常用于回答why引起的问句，如：He had to stay at home yesterday because he was ill. 因为病了，他昨天只得待在家里。as语气较弱，只是附带说明较明显的原因，如：She was well paid，as she had done the work well. 她的薪水很高，因为她干得出色。since语气也比because弱，陈述的理由往往是对方所知道的，常译作“既然”，如：Since you can't answer the question，perhaps we'd better ask someone else. 既然你无法回答这个问题，我们最好再问问别人。for语气最弱，只是就前一句进行逻辑推理或解释一下理由，引导一个表示原因的并列句，for不用于句首，如：Maybe he is ill，for he is absent today. 他今天没有来，可能是病了。
 - word: win
+  exchange: (won;won)
   tags:
   - 初中
   phonetic: 【wɪn】
@@ -10236,6 +10312,7 @@ words:
   samples:
   - 例 folk music民间音乐
 - word: break
+  exchange: (broke;broken)
   tags:
   - 初中
   phonetic: 【breɪk】
@@ -10464,6 +10541,7 @@ words:
   samples:
   - 例 The government's new policy will have a deep impact on the insurance companies. 政府的新政策将对保险公司产生深远的影响。
 - word: sit
+  exchange: (sat;sat)
   tags:
   - 小学
   phonetic: 【sɪt】
@@ -10472,6 +10550,7 @@ words:
   samples:
   - 例 In the English class，students sat quietly and listened carefully. 英语课上，学生们安静地坐着，认真听讲。
 - word: lay
+  exchange: (laid;laid)
   tags:
   - 初中
   phonetic: 【leɪ】
@@ -10486,6 +10565,7 @@ words:
   samples:
   - 例 an ancient city古城
 - word: exam
+  exchange: (examination)
   tags:
   - 初中
   - 高中
@@ -10518,9 +10598,9 @@ words:
   distinguish: 辨 few，little，a few，a little这几个词都有“少数”的意思。few和little有否定含义，所在句被看作否定句：He has few friends. 他几乎没有朋友。而a few和a little是肯定含义：He has a few friends. 他只有几个朋友。few和a few用于修饰可数名词，little和a little用于修饰不可数名词。
   test: 考 1．a few少数几个，一些2．only a few只有几个；没有多少3．quite a few相当多4．not a few相当多
 - word: favourite
+  exchange: (美favorite)
   tags:
   - 小学
-  - 高中
   phonetic: 【ˈfeɪvərɪt】
   trans: （美favorite）adj. 特别喜爱的 n. 特别喜爱的人（或物）
   samples:
@@ -10535,6 +10615,7 @@ words:
   - 例 False friends are more dangerous than open enemies. 虚情假意的朋友比公开的敌人更危险。
   - 例 false teeth假牙
 - word: say
+  exchange: (said;said)
   tags:
   - 小学
   phonetic: 【seɪ】
@@ -10558,6 +10639,7 @@ words:
   samples:
   - 例 The government must take measures to control water pollution. 政府必须采取措施控制水污染。
 - word: bring
+  exchange: (brought;brought)
   tags:
   - 小学
   phonetic: 【brɪŋ】
@@ -10582,6 +10664,7 @@ words:
   - 例 after fivedays（＝fivedayslater）五天后
   test: 考 1．after all毕竟，终究：I think you should help him. After all，he is your friend. 我认为你应该帮他。毕竟，他是你的朋友。2．be after追逐，想得到：I think he is after my job. 我觉得他想得到我的工作。3．soon after不久以后
 - word: labour
+  exchange: (labor)
   tags:
   - 高中
   phonetic: 【ˈleɪbə】
@@ -10725,6 +10808,7 @@ words:
   test: 考 1．be full of...充满…：The bus timetables are full of mistakes. 公车时间表里到处是错误。2．at full speed全速地
   reference: 参 fully（adv. 充分地，完全地）eastward（s）【ˈiːstwəd（z）】adv. 向东
 - word: run
+  exchange: (ran;run)
   tags:
   - 小学
   phonetic: 【rʌn】
@@ -11098,6 +11182,7 @@ words:
   samples:
   - 例 The boss was always considerate towards every employee. 那个老板总是为每名员工着想。
 - word: speak
+  exchange: (spoke;spoken)
   tags:
   - 小学
   phonetic: 【spiːk】
@@ -11403,7 +11488,6 @@ words:
 - word: ugly
   tags:
   - 小学
-  - 初中
   phonetic: 【ˈʌɡli】
   trans: adj. 丑陋的，难看的
   samples:
@@ -11467,6 +11551,7 @@ words:
   - 例 Judges who are less subjective are better than those who are emotional. 主观感情较少的法官比那些感情介入较多的法官要好。
   reference: 参 subjectively（adv. 主观地）；subjectiveness（n. 主观性）
 - word: wake
+  exchange: (woke;woken)
   tags:
   - 初中
   phonetic: 【weɪk】v. （waked【woke，waked】
@@ -11669,6 +11754,7 @@ words:
   - 例 Our school is quite close to our home，so we could go to school together by bike. 学校离家很近，所以我们可以一起骑车去上学。
   test: 考 gather together集合在一起
 - word: born
+  exchange: (bear的过去分词)
   tags:
   - 初中
   phonetic: 【bɔːn】
@@ -11760,6 +11846,7 @@ words:
   - 例 Once you meet her you'll never forget her. 你一旦见到她就永远也忘不了她。
   test: 考 1．at once立刻，马上；同时2．once again＝once more再一次3．once in a while偶尔4．all at once突然
 - word: phone
+  exchange: (=telephone)
   tags:
   - 初中
   phonetic: 【fəʊn】
@@ -11840,6 +11927,7 @@ words:
   - 例 We aim at quality rather than quantity. 我们的目标是质量而非数量。
   test: 考 1．a（large）quantity of＝quantities of大量的（既可修饰可数名词，也可修饰不可数名词）：As a result of destroying the forests，a large quantity of desert has covered the land. 由于人类破坏森林，大片沙漠覆盖了土地。2．in quantity大量地：Tom sells drugs wholesale and in quantity. 汤姆大量地批发销售药品。
 - word: rise
+  exchange: (rose;risen)
   tags:
   - 初中
   phonetic: 【raɪz】
@@ -11915,6 +12003,7 @@ words:
   usage: 用 1．though作连词，与although在大多数情况下可以互换使用，但though比较口语化。though前面可以加上even表示“即便，虽然”，although无此用法。She wore a fur coat，even though it was a very hot day. 她穿了件皮衣，虽然那天非常热。2．though用作副词，可以放在句中或句末：─How is everything going on with you in Europe? ─Quite well. Not so smoothly as I hoped，though. ─你在欧洲一切还好吗？─还好，不过不如我希望的那样顺利。注意：although没有作副词的用法。
   test: 考 1．even though尽管，虽然2．as though（＝as if）好像，仿佛
 - word: become
+  exchange: (became;become)
   tags:
   - 初中
   phonetic: 【bɪˈkʌm】
@@ -12019,6 +12108,7 @@ words:
   samples:
   - 例 Bill likes chatting with his friends in his spare time. 比尔喜欢在闲暇时和朋友们闲聊。
 - word: kilo
+  exchange: (=kilogram)
   tags:
   - 初中
   phonetic: 【ˈkiːləʊ】
@@ -12096,6 +12186,7 @@ words:
   tips: 记 联想记忆：en＋tire（累的）→身心俱惫→全部的
   reference: 参 entirely（adv. 完全地）
 - word: sleep
+  exchange: (slept;slept)
   tags:
   - 小学
   phonetic: 【sliːp】
@@ -13899,6 +13990,7 @@ words:
   samples:
   - 例 The director ordered his crew to stop filming. 导演命令全体工作人员停止拍摄。
 - word: criterion
+  exchange: (pl.criteria)
   tags:
   - 高中
   phonetic: 【kraɪˈtɪəriən】
@@ -16104,6 +16196,7 @@ words:
   - 例 Law is a very difficult profession. 法律是一门很难的专业。
   reference: 参 professional（n. 专业人员；adj. 专业的，职业的）；preprofessional（adj. 职业前的，为从事职业做准备的）
 - word: programme
+  exchange: (AEprogram)
   tags:
   - 初中
   phonetic: 【ˈprəʊɡræm】
@@ -18580,6 +18673,7 @@ words:
   phonetic: 【ˈbeɪkən】
   trans: n. 熏猪肉；咸猪肉
 - word: bad
+  exchange: (worse;worst)
   tags:
   - 小学
   phonetic: 【bæd】
@@ -18675,6 +18769,7 @@ words:
   phonetic: 【ˌbiːˈsiː】
   trans: n. 公元前
 - word: be
+  exchange: (am;are;is)
   tags:
   - 高中
   phonetic: 【bi】
@@ -18690,6 +18785,7 @@ words:
   phonetic: 【biːn】
   trans: n. 豆，豆科植物
 - word: bean curd
+  exchange: (tofu)
   tags:
   - 高中
   phonetic: 【ˈbiːn kɜːd】
@@ -18755,6 +18851,7 @@ words:
   phonetic: 【bɪɡ】
   trans: adj. 大的，巨大的
 - word: bike
+  exchange: (bicycle)
   tags:
   - 小学
   phonetic: 【baɪk】
@@ -18965,6 +19062,7 @@ words:
   phonetic: 【ˈbʌtn】
   trans: n. 纽扣；（电铃等的）按钮 v. 扣（纽扣）
 - word: buy
+  exchange: (bought;bought)
   tags:
   - 小学
   phonetic: 【baɪ】
@@ -19105,6 +19203,7 @@ words:
   phonetic: 【ˈsentɪmiːtə】
   trans: （美centimeter）n. 公分，厘米
 - word: centre
+  exchange: (center)
   tags:
   - 高中
   phonetic: 【ˈsentə】
@@ -19170,6 +19269,7 @@ words:
   phonetic: 【ˈtʃɪkɪn】
   trans: n. 鸡；鸡肉
 - word: child
+  exchange: (复children)
   tags:
   - 小学
   phonetic: 【tʃaɪld】
@@ -19305,6 +19405,7 @@ words:
   phonetic: 【ˈkɒlɪdʒ】
   trans: n. 学院；专科学校
 - word: colour
+  exchange: (color)
   tags:
   - 小学
   - 高中
@@ -19561,6 +19662,7 @@ words:
   phonetic: 【dɪʃ】
   trans: n. ［C］盘，碟；盘装菜；盘形物
 - word: disk
+  exchange: (disc)
   tags:
   - 高中
   phonetic: 【dɪsk】
@@ -19646,6 +19748,7 @@ words:
   phonetic: 【ˈiːzi】
   trans: adj. 容易的，不费力的
 - word: eat
+  exchange: (ate;eaten)
   tags:
   - 小学
   phonetic: 【iːt】
@@ -19761,6 +19864,7 @@ words:
   phonetic: 【ˈfiːvə】
   trans: n. 发烧，发热
 - word: fibre
+  exchange: (fiber)
   tags:
   - 高中
   phonetic: 【ˈfaɪbə】
@@ -19846,6 +19950,7 @@ words:
   phonetic: 【ˈfuːlɪʃ】
   trans: adj. 愚蠢的，傻的，笨的
 - word: foot
+  exchange: (feet)
   tags:
   - 小学
   phonetic: 【fʊt】
@@ -19886,6 +19991,7 @@ words:
   phonetic: 【fræŋk】
   trans: n. 法郎
 - word: fridge
+  exchange: (refrigerato)
   tags:
   - 初中
   phonetic: 【frɪdʒ】
@@ -19996,6 +20102,7 @@ words:
   phonetic: 【ɡɒlf】
   trans: n. 高尔夫球
 - word: good
+  exchange: (better;best)
   tags:
   - 小学
   phonetic: 【ɡʊd】
@@ -20522,6 +20629,7 @@ words:
   phonetic: 【ˈkɪləɡræm】
   trans: n. 千克
 - word: kilometre
+  exchange: (AmEkilometer)
   tags:
   - 初中
   phonetic: 【ˈkɪləmiːtə】
@@ -20552,17 +20660,20 @@ words:
   phonetic: 【kaɪt】
   trans: n. ［C］风筝
 - word: knife
+  exchange: (pl.knives)
   tags:
   - 初中
   phonetic: 【naɪf】
   trans: n. 小刀；匕首；刀片
 - word: lab
+  exchange: (laboratory)
   tags:
   - 初中
   - 高中
   phonetic: 【læb】
   trans: （＝laboratory）n. 实验室
 - word: lead
+  exchange: (led;led)
   tags:
   - 初中
   phonetic: 【liːd】
@@ -20573,6 +20684,7 @@ words:
   phonetic: 【ˈliːdə】
   trans: n. 领袖，领导人
 - word: leaf
+  exchange: (pl.leaves)
   tags:
   - 初中
   - 高中
@@ -20594,6 +20706,7 @@ words:
   phonetic: 【ˌleməˈneɪd】
   trans: n. 柠檬水
 - word: lend
+  exchange: (lent;lent)
   tags:
   - 初中
   phonetic: 【lend】
@@ -20614,6 +20727,7 @@ words:
   phonetic: 【lɪd】
   trans: n. 盖子
 - word: life
+  exchange: (复lives)
   tags:
   - 初中
   phonetic: 【laɪf】
@@ -20654,6 +20768,7 @@ words:
   phonetic: 【ˈlɒri】
   trans: （美truck）n. 运货汽车，卡车
 - word: lot
+  exchange: (a lot of 许多的)
   tags:
   - 初中
   phonetic: 【lɒt】
@@ -20693,7 +20808,7 @@ words:
   - 小学
   - 初中
   phonetic: 【məˈʃiːn】
-  trans: n. ［C］机器
+  trans: n.机器;计算机;车辆
 - word: madam
   tags:
   - 高中
@@ -20730,6 +20845,7 @@ words:
   phonetic: 【mænˈkaɪnd】
   trans: n. ［U］人类
 - word: many
+  exchange: (more;most)
   tags:
   - 小学
   phonetic: 【ˈmeni】
@@ -20820,6 +20936,7 @@ words:
   phonetic: 【ˈmeθəd】
   trans: n. ［C］方法，办法
 - word: metre
+  exchange: (AmEmeter)
   tags:
   - 初中
   - 高中
@@ -20846,6 +20963,7 @@ words:
   phonetic: 【mɪlk】
   trans: n. 牛奶 vt. 挤奶
 - word: millimetre
+  exchange: (millimeter)
   tags:
   - 高中
   phonetic: 【ˈmɪlimiːtə】
@@ -20941,6 +21059,7 @@ words:
   phonetic: 【məˈskiːtəʊ】
   trans: n. 蚊子
 - word: mother
+  exchange: (mom;mum)
   tags:
   - 小学
   phonetic: 【ˈmʌðə】
@@ -20966,6 +21085,7 @@ words:
   phonetic: 【ˈmaʊntən】
   trans: n. ［C］山，山脉
 - word: mouse
+  exchange: (pl.mice)
   tags:
   - 初中
   phonetic: 【maʊs】
@@ -20991,11 +21111,13 @@ words:
   phonetic: 【ˈmuːvi】
   trans: n. ［C］电影
 - word: Mr.
+  exchange: (mister)
   tags:
   - 小学
   phonetic: 【ˈmɪstə】
   trans: n. 先生（用于男士的姓或姓名前）
 - word: Mrs.
+  exchange: (Mistress)
   tags:
   - 小学
   phonetic: 【ˈmɪsɪz】
@@ -21511,6 +21633,7 @@ words:
   phonetic: 【fəʊn】
   trans: （＝telephone）v. 打电话 n. 电话，电话机
 - word: photo
+  exchange: (photography)
   tags:
   - 小学
   phonetic: 【ˈfəʊtəʊ】
@@ -21892,6 +22015,7 @@ words:
   phonetic: 【ræt】
   trans: n. 老鼠
 - word: read
+  exchange: (read;read)
   tags:
   - 小学
   phonetic: 【riːd】
@@ -21977,6 +22101,7 @@ words:
   phonetic: 【ˈrɪdl】
   trans: n. 谜；神秘的事
 - word: ride
+  exchange: (rode;ridden)
   tags:
   - 初中
   phonetic: 【raɪd】
@@ -22298,6 +22423,7 @@ words:
   phonetic: 【ʃi】
   trans: pron. 她（主格）
 - word: sheep
+  exchange: (复sheep)
   tags:
   - 小学
   phonetic: 【ʃiːp】
@@ -22613,6 +22739,7 @@ words:
   phonetic: 【ˈspiːkə】
   trans: n. 演讲人，演说家
 - word: spell
+  exchange: (spelled;spelled/spelt;spelt)
   tags:
   - 初中
   phonetic: 【spel】
@@ -22688,6 +22815,7 @@ words:
   phonetic: 【steɪk】
   trans: n. 牛排
 - word: steal
+  exchange: (stole;stolen)
   tags:
   - 初中
   phonetic: 【stiːl】
@@ -22958,6 +23086,7 @@ words:
   phonetic: 【ðə】
   trans: art. 这（那）个，这（那）些（用于特定的人或物、序数词、最高级、专有名词、世上独一无二的事物之前）
 - word: theatre
+  exchange: (美theater)
   tags:
   - 初中
   - 高中
@@ -23134,6 +23263,7 @@ words:
   phonetic: 【tuːl】
   trans: n. 工具，器具
 - word: tooth
+  exchange: (pl.teeth)
   tags:
   - 初中
   phonetic: 【tuːθ】
@@ -23539,6 +23669,7 @@ words:
   phonetic: 【wʊlf】
   trans: n. 狼
 - word: woman
+  exchange: (复women)
   tags:
   - 小学
   phonetic: 【ˈwʊmən】
@@ -23624,6 +23755,7 @@ words:
   phonetic: 【jɔːz】
   trans: pron. 你的；你们的（名词性物主代词）
 - word: yourself
+  exchange: (pl.yourselves)
   tags:
   - 初中
   phonetic: 【jɔːˈself】
@@ -26218,64 +26350,64 @@ words:
   - 小学
   - 初中
   - 高中
-  trans: 动词
+  trans: 常见词性缩写：动词
 - word: aux.v.
   tags:
   - 小学
   - 初中
   - 高中
-  trans: 助动词
+  trans: 常见词性缩写：助动词
 - word: a.
   tags:
   - 小学
   - 初中
   - 高中
-  trans: 形容词
+  trans: 常见词性缩写：形容词
 - word: ad.
   tags:
   - 小学
   - 初中
   - 高中
-  trans: 副词
+  trans: 常见词性缩写：副词
 - word: conj.
   tags:
   - 小学
   - 初中
   - 高中
-  trans: 连词
+  trans: 常见词性缩写：连词
 - word: int.
   tags:
   - 小学
   - 初中
   - 高中
-  trans: 语气词
+  trans: 常见词性缩写：语气词
 - word: art.
   tags:
   - 小学
   - 初中
   - 高中
-  trans: 冠词
+  trans: 常见词性缩写：冠词
 - word: prep.
   tags:
   - 小学
   - 初中
   - 高中
-  trans: 介词
+  trans: 常见词性缩写：介词
 - word: pron.
   tags:
   - 小学
   - 初中
   - 高中
-  trans: 代词
+  trans: 常见词性缩写：代词
 - word: num.
   tags:
   - 小学
   - 初中
   - 高中
-  trans: 数词
+  trans: 常见词性缩写：数词
 - word: n.
   tags:
   - 小学
   - 初中
   - 高中
-  trans: 名词
+  trans: 常见词性缩写：名词
