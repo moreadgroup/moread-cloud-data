@@ -52,7 +52,7 @@ class PutongGaozhongCheckTest {
 
         // PutongGaozhong2020Dict.csv
         Files.newBufferedReader(Paths.get(
-            srcFolderOfPutongGaozhong2020 + "PutongGaozhong2020Dict.csv",
+            srcFolderOfPutongGaozhong2020 + "普通高中英语课程标准words.csv",
         )).use { reader ->
             val strategy = ColumnPositionMappingStrategy<PutongGaozhongWordLine>()
             strategy.type = PutongGaozhongWordLine::class.java
