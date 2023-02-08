@@ -202,10 +202,11 @@ words:
       - 例 She feels rather lonely in the strange town.在这座陌生的城市里，她感到很寂寞。
     distinguish: 辨 alone，lonely alone强调不和他人在一起，但并不意味着不快乐；lonely常指痛苦地意识到自己独自一人，如：Tom is alone in the room，but he doesn't feel lonely.汤姆独自一人在房间里，但他不感到孤单。alone为表语形容词，lonely既可作表语也可作定语。
   - word: slip
+    exchange: (slipped，slipped，slipping)
     tags:
       - 高中
     phonetic: 【slɪp】
-    trans: v.(slipped，slipped，slipping)溜(进／走)；滑动 n.片，纸片；滑倒
+    trans: v.溜(进／走)；滑动 n.片，纸片；滑倒
     samples:
       - 例 She slipped away without being seen.她悄悄溜走了，没人看见。
       - 例 He took a slip of paper out of his pocket.他从口袋里拿出一张纸条。
@@ -358,10 +359,11 @@ words:
     samples:
       - 例 What else did you do? 你还做了什么？
   - word: blow
+    exchange: (blew，blown，blowing)
     tags:
       - 初中
     phonetic: 【bləʊ】
-    trans: n.击，打击 v.(blew，blown，blowing)吹(气)；刮风
+    trans: n.击，打击 v.吹(气)；刮风
     samples:
       - 例 It was a great blow that he failed to pass the exam.考试不及格给他带来了沉重的打击。
     test: 考 1．blow away吹走2．blow about炫耀3．blow down刮倒4．blow out 吹灭5．blow up使充气；爆炸
@@ -435,18 +437,19 @@ words:
       - 例 It is cold outside.外面很冷。
     reference: 参 outsider(n.外人，局外人)
   - word: try
+    exchange: (tried，tried，trying)
     tags:
       - 小学
     phonetic: 【traɪ】
-    trans: v.(tried，tried，trying)尝试，试图；努力
+    trans: v.尝试，试图；努力
     usage: 用 1．try to do sth.尽力去做某事，但结果不确定：I'm trying to put everything in order in my new flat.我想把新公寓里的所有东西都归置好。2．try doing sth.尝试做某事：I try holding my breath to stop sneezing.我试着屏住呼吸以止住打喷嚏。
     test: 考 1．try one's best尽某人最大的努力2．try on试穿
   - word: find
-    exchange: (found;found)
+    exchange: (found，found，finding)
     tags:
       - 小学
     phonetic: 【faɪnd】
-    trans: vt.(found，found，finding)找到，发现；感到
+    trans: vt.找到，发现；感到
     usage: 用 find可以接复合宾语，即find＋宾语＋宾补，注意：宾语和宾补之间为被动关系时，宾补用过去分词：I find my mobile phone stolen.我发现手机被偷了。可以接“宾语＋宾补”的动词还有：ask，advise，call，consider(认为)，choose，elect，find，force，feel(认为，觉得)，hear，help，like，let，make，order，persuade，see，tell，watch等。
     distinguish: 辨 find，look for find，look for都有“找”的意思。但find意为“找到”，侧重于结果：I didn't find my shoes.我没找到我的鞋。look for意为“找寻”，侧重于过程：I'm looking for my shoes，but I haven't found them yet.我在找我的鞋，但还没找到。
     test: 考 find out找出；认识到；获知：Could you find out what time the train leaves? 你能查出火车什么时间发车吗？
@@ -638,10 +641,11 @@ words:
       - 例 They parted enemies.他们分手后成了死对头。
     test: 考 1．take part in参加2．play a part in...在…中起作用3．in part在某种程度上；部分地4．part with...与…分离
   - word: bear
+    exchange: (bore，borne/born，bearing)
     tags:
       - 小学
     phonetic: 【beə】
-    trans: v.(bore，borne/born，bearing)承担；忍受 n.熊
+    trans: v.承担；忍受 n.熊
     samples:
       - 例 Who will bear the losses caused by pollution? 谁将承担污染所造成的损失？
       - 例 I can't bear sad music.我受不了悲伤的音乐。
@@ -661,11 +665,11 @@ words:
     samples:
       - 例 She is an outgoing girl.她是个外向的女孩。
   - word: give
-    exchange: (gave;given)
+    exchange: (gave，given，giving)
     tags:
       - 小学
     phonetic: 【ɡɪv】
-    trans: v.(gave，given，giving)给，付出
+    trans: v.给，付出
     usage: 用 1．give多接双宾语，即give sb.sth.(＝give sth.to sb.)把某物给某人：He gave me some advice.他给了我一些建议。2．given...考虑到，鉴于；假使：Given his age，he is a great tennis player.考虑到他的年龄，他是一名很棒的网球运动员。
     samples:
       - 例 Given the rain，we'll stay home.如果下雨，我们就待在家里。
@@ -747,10 +751,11 @@ words:
       - 例 This dessert has a high fat content.这种甜点脂肪含量很高。
     test: 考 1．be content with...对…满意2．be content to do...乐于做…
   - word: permit
+    exchange: (permitted，permitted，permitting)
     tags:
       - 高中
     phonetic: 【pəˈmɪt】
-    trans: v.(permitted，permitted，permitting)许可，允许 n.许可证，执照
+    trans: v.许可，允许 n.许可证，执照
     tips: 记 词根记忆：per＋mit(放)→放进来→许可
     usage: 用 1．permit doing sth.允许做某事：We do not permit smoking in the office.我们不允许在办公室里抽烟。2．permit sb.to do sth.允许某人做某事：They were not permitted to enter the building.他们不能进入这幢楼。
     samples:
@@ -830,11 +835,11 @@ words:
     samples:
       - 例 an electric clock电子钟
   - word: fall
-    exchange: (fell;fallen)
+    exchange: (fell，fallen，falling)
     tags:
       - 初中
     phonetic: 【fɔːl】
-    trans: v.(fell，fallen，falling)落(下)，降落；跌倒(英autumn)n.秋季
+    trans: v.落(下)，降落；跌倒(英autumn)n.秋季
     test: 考 1．fall apart倒塌2．fall behind落后3．fall in love with sb.爱上某人 4．fall off跌落，从…上掉下5．fall asleep入睡6．fall ill生病
   - word: hand
     tags:
@@ -910,10 +915,11 @@ words:
     samples:
       - 例 I’ve seen her somewhere before.我以前在什么地方见过她。
   - word: forgivee
+    exchange: (forgave，forgiven，forgiving)
     tags:
       - 高中
     phonetic: 【fəˈɡɪv】
-    trans: vt.(forgave，forgiven，forgiving)原谅，宽恕
+    trans: vt.原谅，宽恕
     test: 考 1．forgive sb.for sth.原谅某人某事2．forgive sb.for doing sth.原谅某人做了某事：Tom cannot forgive himself for not seeing her mother before she died.汤姆永远不能原谅自己，因为他未能在母亲去世前见她一面。
   - word: corporation
     tags:
@@ -1000,10 +1006,11 @@ words:
     samples:
       - 例 The merciful king set the prisoner free at the end of the story.故事的最后，仁慈的国王释放了那个囚犯。
   - word: bend
+    exchange: (bent，bent，bending)
     tags:
       - 高中
     phonetic: 【bend】
-    trans: v.(bent，bent，bending)弯曲；弯腰，屈身
+    trans: v.弯曲；弯腰，屈身
     samples:
       - 例 Bend your arms and touch your shoulders.曲臂触摸双肩。
       - 例 He bent over the sink to do the dishes.他弯下腰在水槽里面刷碟子。
@@ -1040,7 +1047,8 @@ words:
     tags:
       - 初中
     phonetic: 【daɪ】
-    trans: v.(died，died，dying)死亡；消失；熄灭
+    exchange: (died，died，dying)
+    trans: v.死亡；消失；熄灭
     usage: 用 1．die of...因…而死(原因常来自内部)，多指死于疾病，后面常接：hunger，cold，poison，illness，old age，a disease，cancer，thirst，sorrow，a fever，heat等词。2．die from...由于…而死(原因常来自外 部)，多指因疾病以外的其他原因而死，后面常接：accident，overwork，carelessness，drinking，smoking，some unknown cause等词。 注意：die为瞬间动词，不能与表示时间段的状语连用。
     test: 考 die out灭绝，熄灭：The fire became weak and finally died out.火变得微弱，最终熄灭了。
   - word: fact
@@ -1145,7 +1153,8 @@ words:
     tags:
       - 高中
     phonetic: 【spɒt】
-    trans: n.斑点，污点；场所，地点 vt.(spotted，spotted，spotting)沾上污渍，弄脏；认出，发现
+    exchange: (spotted，spotted，spotting)
+    trans: n.斑点，污点；场所，地点 vt.沾上污渍，弄脏；认出，发现
     samples:
       - 例 spot mistakes发现错误
   - word: anyway
@@ -1248,11 +1257,11 @@ words:
     samples:
       - 例 TV screen电视荧屏
   - word: pay
-    exchange: (paid;paid)
+    exchange: (paid，paid，paying)
     tags:
       - 初中
     phonetic: 【peɪ】
-    trans: v.(paid，paid，paying)付钱，给…报酬 n.工资
+    trans: v.付钱，给…报酬 n.工资
     samples:
       - 例 People in Sweden pay taxes on everything.在瑞典，人们做任何事情都要上税。I paid 10 yuan for the book.我买这本书花了十元钱。pay the bill埋单
     test: 考 1．pay for付款；偿还2．pay back偿还(借款)；报复3．pay up全部付清4．pay attention to注意5．pay a visit访问
@@ -1332,11 +1341,11 @@ words:
       - 例 It is easy to do the repair.All you need is a hammer and some nails.把它修好很容易。你只需要一把锤子和一些钉子。
       - 例 She hammered on the door with her hands.她用手锤打着门。
   - word: throw
-    exchange: (threw;thrown)
+    exchange: (threw，thrown，throwing)
     tags:
       - 初中
     phonetic: 【θrəʊ】
-    trans: v.(threw，thrown，throwing)投，掷，扔
+    trans: v.投，掷，扔
     tips: 记 联想记忆：无心扔(throw)瓜子，长出(grow)西瓜来
     samples:
       - 例 She told her naughty son not to throw stones at the window.她告诉淘气的儿子不要往窗户上扔石子。
@@ -1350,10 +1359,11 @@ words:
     tips: 记 词根记忆：em(进入)＋barrass(阻碍)→想进入却受到阻碍→使困窘
     reference: 参 embarrassing(adj.令人尴尬的)；embarrassed(adj.尴尬的)
   - word: bite
+    exchange: (bit，bitten，biting)
     tags:
       - 高中
     phonetic: 【baɪt】
-    trans: v.(bit，bitten，biting)咬，叮 n.咬；一口
+    trans: v.咬，叮 n.咬；一口
     samples:
       - 例 Their dog bit a hole in my trousers.他们的狗把我的裤子咬了一个窟窿。
       - 例 He ate the bread at one bite.他一口吃掉了那块面包。
@@ -1767,11 +1777,11 @@ words:
     samples:
       - 例 You should improve your English，especially your spoken English.你应该提高你的英语水平，尤其是口语。
   - word: wear
-    exchange: (wore;worn)
+    exchange: (wore，worn，wearing)
     tags:
       - 小学
     phonetic: 【weə】
-    trans: v.(wore，worn，wearing)穿，戴；留，蓄；磨损，使变旧
+    trans: v.穿，戴；留，蓄；磨损，使变旧
     samples:
       - 例 He always wears green.他总是穿着绿色的衣服。
       - 例 John likes to wear long hair.约翰喜欢留长发。
@@ -1842,22 +1852,22 @@ words:
       - 例 The distance between bus stops is too long.公交车站之间的距离太远了。
     test: 考 1．at a distance隔一段距离2．in the distance在远处
   - word: take
-    exchange: (took;taken)
+    exchange: (took，taken，taking)
     tags:
       - 小学
     phonetic: 【teɪk】
-    trans: v.(took，taken，taking)拿走；接受，接纳
+    trans: v.拿走；接受，接纳
     usage: 用 1．take表示“做或进行”时，可以和许多名词搭配：take a photo拍照片 take a test参加考试 take a shower洗个澡 take a rest休息一下 take a look at...看一看… 2．take表示“花费、需要”时，其主语可以是人，也可 以是物，并常用形式主语句型：It takes/took(sb.)some time/money to do sth.做某事花费(某人)多少时间／金钱：It will take me hours to do this work.我得花好几个小时才能做完这项工作。
     samples:
       - 例 Don't forget to take your umbrella.别忘了带上你的雨伞。
       - 例 take action 采取行动 take medicine吃药 take the bus乘公共汽车 You should take her advice.你应当接受她的建议。
     test: 考 1．take advantage of...利用…2．take away拿走，夺走3．take care of...照顾…4．take charge of...负责…5．take one's time不用着急，慢慢来 6．take it easy放松；不要着急7．take part in...参加…8．take up...占用…占据…9．take off起飞；脱下10．take place发生11．take over...接管…12．take trouble to do sth.不辞辛苦做某事
   - word: leave
-    exchange: (left;left)
+    exchange: (left，left，leaving)
     tags:
       - 初中
     phonetic: 【liːv】
-    trans: v.(left，left，leaving)离开；留下；遗忘
+    trans: v.离开；留下；遗忘
     usage: 用 1．leave表示“让…处于某种状态”时，接复合宾语，宾补是现在分词、过去分词、形容词、介词短语等：Don't leave the water running while you brush your teeth.你刷牙时不要让水一直流着。2．表示把某物“忘在某地方”时，用leave，不可用forget：I left my bag at home.我把包忘在家里了。
     test: 考 1．leave for...前往…，去…2．leave out遗漏；不考虑3．leave alone 不管，不理会
   - word: guidance
@@ -1960,20 +1970,20 @@ words:
     samples:
       - 例 behaviour pattern行为模式
   - word: understand
-    exchange: (understood;understood)
+    exchange: (understood，understood，understanding)
     tags:
       - 初中
     phonetic: 【ˌʌndəˈstænd】
-    trans: v.(understood，understood，understanding)懂得，理解
+    trans: v.懂得，理解
     samples:
       - 例 Do you understand Spain? 你懂西班牙语吗？
     reference: 参 understanding(n.谅解，理解)
   - word: cost
-    exchange: (cost;cost)
+    exchange: (cost，cost，costing)
     tags:
       - 初中
     phonetic: 【kɒst】
-    trans: n.成本；代价 vt.(cost，cost，costing)花费；使付出(代价)
+    trans: n.成本；代价 vt.花费；使付出(代价)
     usage: 用 cost的主语是事或物，常接双宾语，即cost sb.sth.花费某人多少钱；使某人付出什么代价：The cell-phone cost me $ 215.这部手机花了我215美元。
     samples:
       - 例 That operation cost him his sight.那次手术使他付出了失明的代价。
@@ -2138,11 +2148,11 @@ words:
     samples:
       - 例 I recognized Tom the moment I saw him.我一见到汤姆就认出他来了。
   - word: show
-    exchange: (showed;shown)
+    exchange: (showed，shown/showed，showing)
     tags:
       - 初中
     phonetic: 【ʃəʊ】
-    trans: v.(showed，shown/showed，showing)给…看，出示，显示 n.展示，展览(会)；演出
+    trans: v.给…看，出示，显示 n.展示，展览(会)；演出
     samples:
       - 例 talk show脱口秀
       - 例 He showed great interest in music.他对音乐很感兴趣。
@@ -2246,10 +2256,11 @@ words:
       - 例 a young player of great promise一个很有前途的年轻演员
     reference: 参 promising(adj.有希望的，有前途的)
   - word: stop
+    exchange: (stopped，stopped，stopping)
     tags:
       - 小学
     phonetic: 【stɒp】
-    trans: vt.(stopped，stopped，stopping)停止；阻止 n.停；(停车)站
+    trans: vt.停止；阻止 n.停；(停车)站
     usage: 用 1．stop后可接动名词和不定式作宾语，但二者的意思不同。stop doing sth.表示停止做某事：Stop talking，OK? 别说了行不行？而stop to do sth.表示停下手中正在做的事情去做另一件事：He stopped to look outside the car.他停下来看了看车外。2．stop sb.(from)doing sth.阻止某人做某事：The mother tried to stop her young daughter going out on dates.母亲试图阻止小女儿外出约会。
   - word: compulsory
     tags:
@@ -2275,10 +2286,11 @@ words:
     trans: adj.值得的；价值…
     usage: 用 worth是表语形容词，主要用法有：1．be worth doing值得做：The man isn't worth waiting for.这个男人不值得等。2．be worth＋n.价值…：That necklace is worth $500 at the most.那条项链最多值500美元。
   - word: clap
+    exchange: (clapped，clapped，clapping)
     tags:
       - 高中
     phonetic: 【klæp】
-    trans: v.(clapped，clapped，clapping)拍手，鼓掌
+    trans: v.拍手，鼓掌
     samples:
       - 例 They clap their hands in time to the music.他们随着音乐的节拍拍起手来。
   - word: recover
@@ -2465,10 +2477,11 @@ words:
     test: 考 in general一般而言，大体上
     reference: 参 generally(adv.一般地，通常)
   - word: sink
+    exchange: (sank，sunk，sinking)
     tags:
       - 高中
     phonetic: 【sɪŋk】
-    trans: v.(sank，sunk，sinking)(使)下沉；消沉；陷入 n.洗涤槽，污水槽
+    trans: v.(使)下沉；消沉；陷入 n.洗涤槽，污水槽
     samples:
       - 例 The British had to sink this warship.英国人必须击沉这艘军舰。
     test: 考 be sunk in陷入：I was sunk in my thought.我陷入了沉思。
@@ -2503,11 +2516,11 @@ words:
     samples:
       - 例 This article mainly tells about the story of a beauty.这篇文章主要讲述了一个美丽女人的故事。
   - word: put
-    exchange: (put;put)
+    exchange: (put，put，putting)
     tags:
       - 小学
     phonetic: 【pʊt】
-    trans: vt.(put，put，putting)放，摆
+    trans: vt.放，摆
     samples:
       - 例 Where did the man put his cellphone? 那个男士把手机放在哪里了？
     test: 考 1．put away把…放好2．put on穿上；把…放在…3．put out扑灭4．put up抬起；建造；张贴5．put off推迟6．put up with忍受，容忍7．put forth提出8．put down放下；拒绝9．put back放回原处10．put an end to 结束，终止11．put...into practice实行12．put on weight长胖
@@ -2558,11 +2571,11 @@ words:
     test: 考 1．in a flash很快地，立即：I'll be back in a flash.我马上就回来。 2．flash back回忆，回溯
     reference: 参 flashlight(n.手电)
   - word: tell
-    exchange: (told;told)
+    exchange: (told，told，telling)
     tags:
       - 小学
     phonetic: 【tel】
-    trans: v.(told，told，telling)告诉，吩咐；辨别，知道
+    trans: v.告诉，吩咐；辨别，知道
     usage: 用 1．tell词义为“告诉”时，一般需接双宾语，句型有：tell sb.sth.从句告诉某人某事：Tell me your name.告诉我你的名字。
     samples:
       - 例 Calm down and tell me what happened.冷静下来，告诉我发生了什么事。tell sb.about sth.告诉某人有关某事的情况：Did you tell him about the party? 你告诉他晚会的事了吗？2．tell sb.to do sth.吩咐某人做某事：The woman tells her son to keep his room in order.妈妈告诉儿子要保持屋子的整洁。3．tell the difference between分辨，识别：I can't tell the difference between the twins.我分辨不出这对双胞胎的区别。做“分辨”讲时，tell前一般为can。
@@ -2606,11 +2619,11 @@ words:
     samples:
       - 例 The house is set in beautiful surroundings.这栋房子周围环境优美。
   - word: think
-    exchange: (thought;thought)
+    exchange: (thought，thought，thinking)
     tags:
       - 小学
     phonetic: 【θɪŋk】
-    trans: v.(thought，thought，thinking)想，思索；认为
+    trans: v.想，思索；认为
     usage: 用 1．think如果接否定意义的宾语从句，否定形式转移到think上：I don't think it is necessary to call him.我认为没有必要给他打电话。有类似的否定转移用法的动词还有suppose，believe，hope，expect等。2．I think so.我认为是这样。I think not.＝I don't think so.我认为不是这样。 如：—She is the best singer! —I don't think so.—她是最好的歌手！—我不这样认为。可用于这种表达方式的动词还有expect，believe，suppose，guess等。
     test: 考 1．think of看待；想到，想起2．think about考虑，思考3．think over仔细考虑，琢磨4．think out彻底思考，解决：I don't think you have thought out all the consequences of your action.我想你并没有考虑清楚自己行为所带来的全部后果。
   - word: recite
@@ -2874,11 +2887,11 @@ words:
     samples:
       - 例 Kate won a seat in Parliament at this election.在这次选举中，凯特赢得了议会中的一个席位。
   - word: come
-    exchange: (came;come)
+    exchange: (came，come，coming)
     tags:
       - 小学
     phonetic: 【kʌm】
-    trans: vi.(came，come，coming)来，来到 link.v.变成
+    trans: vi.来，来到 link.v.变成
     usage: 用 come to(like，realize，know，understand...)逐渐开始(喜欢、认识到、知道、理解等):She told the lie so many times that she came to believe it herself.她说那个谎言的次数多得她自己都开始相信了。
     test: 考 1．come about发生2．come across偶然遇到：I came across my college roommate in the street.我在大街上偶然遇到了大学时的室友。3． come along进展；一起4．come from来自5．come in进来；到达6．come on进行；快点7．come out出来；出版8．come to到达；总计9．come true实现10．come up上来；上升；走过来
   - word: till
@@ -2888,11 +2901,11 @@ words:
     trans: conj./prep.直到，直到…为止
     usage: 用 till作连词时，常用来引导时间状语从句，但不能位于句首。1．用于肯定句时，主句动词常为延续性动词，表示这个动作一直延续到till所 表示的时间为止。如：The crazy fans would wait till the movie star arrived.这些疯狂的影迷会一直等到影星来为止。2．用于否定句时，主句的动词一般是非延续性的，它所表示的动作直到till所表示的时间才发生：Mary didn't sleep till her mother came back.直到妈妈回来，玛丽才睡。
   - word: dig
-    exchange: (dug;dug)
+    exchange: (dug，dug，digging)
     tags:
       - 初中
     phonetic: 【dɪɡ】
-    trans: v.(dug，dug，digging)挖(洞、沟等)，掘
+    trans: v.挖(洞、沟等)，掘
     samples:
       - 例 dig a hole挖坑
   - word: group
@@ -3078,20 +3091,21 @@ words:
     samples:
       - 例 The bad climate affected her health.恶劣的气候影响了她的健康。
   - word: misunderstand
+    exchange: (misunderstood，misunderstood，misunderstanding)
     tags:
       - 高中
     phonetic: 【ˌmɪsʌndəˈstænd】
-    trans: vt.(misunderstood，misunderstood，misunderstanding)误会，不理解
+    trans: vt.误会，不理解
     tips: 记 词根记忆：mis(错)＋understand(理解)→理解错误→误会
     samples:
       - 例 You misunderstood my words.你误解了我的话。
     reference: 参 misunderstanding(n.误会，误解)
   - word: little
-    exchange: (less;least)
+    exchange: (less，least)
     tags:
       - 小学
     phonetic: 【ˈlɪtl】
-    trans: adj.(less，least)小的；少的
+    trans: adj.小的；少的
     test: 考 1．a little一些，一点2．not a little一点也不3．little by little逐渐地
   - word: row
     tags:
@@ -3134,11 +3148,11 @@ words:
     samples:
       - 例 What is your height? 你有多高？
   - word: forget
-    exchange: (forgot;forgotten)
+    exchange: (forgot，forgotten，forgetting)
     tags:
       - 初中
     phonetic: 【fəˈɡet】
-    trans: v.(forgot，forgotten，forgetting)忘记，忘掉
+    trans: v.忘记，忘掉
     usage: 用 1．forget doing sth.忘记曾做过…：I'll never forget meeting my school headmaster for the first time.我永远无法忘记和小学校长初次见面时的情景。2．forget to do sth.忘记去做某事:She forgot to post the letter. 她忘记寄信了。注意：后接doing和to do时含义不同的动词还有：regret，remember，stop，try等，一般来说，doing表示动作已发生，to do表示动作还未发生。但是stop doing sth.表示“停下正在做的事”，stop to do sth.“停下来去做另外一件事”；try to do sth.表示“努力做某事”；try doing sth.表示“试着做某事”。
     reference: 参 forgetful(adj.健忘的，不留心的)
   - word: common
@@ -3194,10 +3208,11 @@ words:
     samples:
       - 例 to review the situation回顾形势 book review书评 to review last week's lessons复习上周的功课
   - word: regret
+    exchange: (regretted，regretted，regretting)
     tags:
       - 初中
     phonetic: 【rɪˈɡret】
-    trans: n.遗憾，懊悔；令人遗憾的事 vt.(regretted，regretted，regretting)遗憾；后悔
+    trans: n.遗憾，懊悔；令人遗憾的事 vt.遗憾；后悔
     usage: 用 1．regret作名词时，如果表示遗憾、懊悔的情绪，为不可数名词； 如果意为感到遗憾的事或歉意，则为可数名词。I can't come—please give them my regrets.我不能来了，请代我向他们表示歉意。2．regret doing sth.(＝regret to have done sth.)为做过某事而后悔：Have you ever regretted doing something you shouldn't have done? 你是否曾经为做了不该做的事情而后悔？3．regret to do sth.为要做某事而遗憾(动词常为say，inform，tell等表示“通知、告诉”等含义的词)：I regret to say that you have failed your exam.我很遗憾地告诉你，你考试不及格。4．后接doing和to do时含义不同的动词还有：forget，remember，stop，try等。
     samples:
       - 例 My only regret is that I could not devote more time to the just cause.我唯一的憾事是不能花更多的时间在这一正义的事业上。
@@ -3282,10 +3297,11 @@ words:
     test: 考 be based on...以…为基础：One's success is based on how hard he has tried.一个人的成功基于他努力的程度。
     reference: 参 basis(n.基础，根据)
   - word: bleed
+    exchange: (bled，bled，bleeding)
     tags:
       - 高中
     phonetic: 【bliːd】
-    trans: v.(bled，bled，bleeding)出血，流血
+    trans: v.出血，流血
     samples:
       - 例 The cut on my arm bled for a long time.我胳膊上的伤口流了好长时间血。
   - word: use
@@ -3487,10 +3503,11 @@ words:
     samples:
       - 例 I put a stamp on the envelope and mailed it.我在信封上贴上邮票，然后把信寄了出去。
   - word: scan
+    exchange: (scanned，scanned，scanning)
     tags:
       - 高中
     phonetic: 【skæn】
-    trans: v.(scanned，scanned，scanning)细看；浏览；扫描
+    trans: v.细看；浏览；扫描
     tips: 记 发音记忆：“四看”→四下看→细看
     samples:
       - 例 He scanned the newspaper while having his breakfast.他在吃早饭的时候浏览了一下报纸。
@@ -3529,11 +3546,11 @@ words:
     samples:
       - 例 I wish that it would stop snowing.我希望雪能停。
   - word: keep
-    exchange: (kept;kept)
+    exchange: (kept，kept，keeping)
     tags:
       - 初中
     phonetic: 【kiːp】
-    trans: v.(kept，kept，keeping)保留；保存；使…保持某种状态 link.v.保持，继续
+    trans: v.保留；保存；使…保持某种状态 link.v.保持，继续
     usage: 用 1．keep(on)doing sth.继续做某事，一直做某事：Did he give up or keep on trying? 他是放弃了还是在继续努力？2．keep sb.from doing sth.阻止某人做某事：What can you do to keep it from happening again? 你能做什么来阻止它再次发生？3．keep可以接复合宾语，宾补常常是分词、形容词、副词和介词短语等，表示使…保持某种状态：Doctors will keep her in hospital for at least another week.医生至少还会让她再住院一星期。
     samples:
       - 例 The noise kept him awake.噪音使他睡不着。
@@ -3696,11 +3713,11 @@ words:
       - 例 The shrewd businessman has kept a record of his expenses for almost ten years.这个精明的商人把自己将近10年的花销都记录下来了。
     reference: 参 recordable(adj.可记录的)
   - word: ring
-    exchange: (rang;rung)
+    exchange: (rang，rung，ringing)
     tags:
       - 初中
     phonetic: 【rɪŋ】
-    trans: v.(rang，rung，ringing)(钟、铃等)响；打电话 n.电话铃声；环形物(如环、圈、戒指等)
+    trans: v.(钟、铃等)响；打电话 n.电话铃声；环形物(如环、圈、戒指等)
     samples:
       - 例 He rang me at noon.他中午打电话给我了。
       - 例 growth rings of trees树的年轮
@@ -3728,10 +3745,11 @@ words:
     samples:
       - 例 alarm clock闹钟
   - word: hug
+    exchange: (hugged，hugged，hugging)
     tags:
       - 高中
     phonetic: 【hʌɡ】
-    trans: v.(hugged，hugged，hugging)紧抱，拥抱 n.拥抱
+    trans: v.紧抱，拥抱 n.拥抱
     samples:
       - 例 The child was hugging her doll.那孩子紧紧地抱着她的洋娃娃。
       - 例 He gave his daughter a big hug.他紧紧抱了一下自己的女儿。
@@ -3765,11 +3783,11 @@ words:
     samples:
       - 例 the period of the Civil War美国南北战争时期
   - word: feed
-    exchange: (fed;fed)
+    exchange: (fed，fed，feeding)
     tags:
       - 初中
     phonetic: 【fiːd】
-    trans: v.(fed，fed，feeding)喂(养)，饲(养)；吃(饲料)
+    trans: v.喂(养)，饲(养)；吃(饲料)
     tips: 记 联想记忆：播种就是给土地喂(feed)种子(seed)
     samples:
       - 例 Have you fed the dog yet? 你喂狗了吗？
@@ -3844,11 +3862,11 @@ words:
     samples:
       - 例 People should be treated equally regardless of nationality，race and sex.无论国籍、种族和性别是什么，人们应该得到平等的对待。
   - word: begin
-    exchange: (began;begun)
+    exchange: (began，begun，beginning)
     tags:
       - 小学
     phonetic: 【bɪˈɡɪn】
-    trans: v.(began，begun，beginning)开始，着手
+    trans: v.开始，着手
     test: 考 1．begin with...以…开始：He began his speech with a joke.他以一个笑话作为演讲的开头。2．begin to do与begin doing经常可以互换使用，但是当主语是物或begin本身为进行时态时，用begin to do：It began to rain.开始下雨了。
     reference: 参 beginning(n.开始，开端)
   - word: symptom
@@ -3873,11 +3891,11 @@ words:
     samples:
       - 例 He speaks English well indeed，but of course not so fluently as a native speaker.他的英语说得确实不错，但还是不如英语国家的人说得流利。
   - word: have
-    exchange: (has;had;had)
+    exchange: (had，had，having)
     tags:
       - 小学
     phonetic: 【hæv】
-    trans: vt.(had，had，having)有，使，令aux.v.帮助构成完成时态
+    trans: vt.有，使，令aux.v.帮助构成完成时态
     usage: 用 have接复合宾语，主要句型有：1．have sb.do sth.让某人做某事：If anyone happens to drop in while I am out，have him or her leave a message.如果我出去时有人来访，让来人留个口信儿。注意：have的宾补是省略to的不定式，相同用法的动词还有：notice，help，feel，hear，listen to，make，let，watch，see，look at，observe等。2．have sb./sth. doing...让…一直做…：He had us laughing all through the meal.他让我们一顿饭都笑个不停。3．have sth.done让某事被(别人)做；遭遇：You have had your hair cut.你剪头发了。
     samples:
       - 例 We had our money stolen.我们的钱被偷了。
@@ -3893,10 +3911,11 @@ words:
       - 例 Your plan proved to be workable.你的计划证明是可行的。注意：此句不能说成：Your plan is proved to be workable.即prove一词用主动形式表被动含义，而不用被动语态。2．prove＋that从句：But Einstein was able to prove that light coming from the stars was bent as it passed the sun.然而爱因斯坦却能证明来自恒星的光线经过太阳时变弯曲了。
       - 例 He has proved his courage in the battle.他已经在作战中证明了自己的勇气。
   - word: burst
+    exchange: (burst，burst，bursting)
     tags:
       - 高中
     phonetic: 【bɜːst】
-    trans: v.(burst，burst，bursting)突然发生；爆炸
+    trans: v.突然发生；爆炸
     test: 考 1．burst into laughter/tears/cheers...突然笑／哭／欢呼…起来2．burst out doing sth.突然做某事：They burst out laughing.他们突然大笑起来。
   - word: advance
     tags:
@@ -3968,11 +3987,11 @@ words:
       - 例 Bob's behavior showed that he was an honest man.鲍勃的行为表明他是一个诚实的人。
     reference: 参 honestly(adv.真诚地；公正地)
   - word: stick
-    exchange: (stuck;stuck)
+    exchange: (stuck，stuck，sticking)
     tags:
       - 初中
     phonetic: 【stɪk】
-    trans: v.(stuck，stuck，sticking)黏住；坚持 n.木棒，木棍
+    trans: v.黏住；坚持 n.木棒，木棍
     samples:
       - 例 Once a decision has been made，all of us should stick to it.一旦作出决定，我们都应该坚持它。
       - 例 We made the fire out of dry sticks.我们用干柴来生火。
@@ -4274,18 +4293,19 @@ words:
     samples:
       - 例 a business document商务文件
   - word: ban
+    exchange: (banned，banned，banning)
     tags:
       - 高中
     phonetic: 【bæn】
-    trans: vt.(banned，banned，banning)禁止；取缔 n.禁令
+    trans: vt.禁止；取缔 n.禁令
     samples:
       - 例 The college banned alcohol from parties on campus.这所大学禁止在校园内的聚会上饮酒。
   - word: mean
-    exchange: (meant;meant)
+    exchange: (meant，meant，meaning)
     tags:
       - 初中
     phonetic: 【miːn】
-    trans: v.(meant，meant，meaning)意味着，意思是
+    trans: v.意味着，意思是
     usage: 用 1．mean...意思是…：What do you mean by saying that? 你说这话是什么意思？2．mean＋n./doing 从句意味着：I decide to work out the problem even if it means sitting up all night.我决心要做出这道题，即使这意味着要熬个通宵。3．mean to do...打算做…：I didn't mean to hurt you.我本意不是要伤害你。
     samples:
       - 例 She meant more to me than anyone.对我来说，她比任何人都重要。
@@ -4393,11 +4413,11 @@ words:
     samples:
       - 例 After having a good trip，Elizabeth went to work energetically.一段愉快的旅行之后，伊丽莎白精力充沛地投入了工作。
   - word: write
-    exchange: (wrote;written)
+    exchange: (wrote，written，writing)
     tags:
       - 小学
     phonetic: 【raɪt】
-    trans: v.(wrote，written，writing)写
+    trans: v.写
     test: 考 1．write out写出2．write to给…写信3．write down写下，记下
   - word: inform
     tags:
@@ -4436,12 +4456,12 @@ words:
     samples:
       - 例 Your teacher will be back soon.Meanwhile，get on with your work.你们的老师不久就要回来了。现在赶紧做你们的作业。
   - word: go
-    exchange: (went;gone)
+    exchange: (went，gone，going)
     tags:
       - 小学
       - 高中
     phonetic: 【ɡəʊ】
-    trans: v.(went，gone，going)去，走；进行；进展 link.v.变得，变成
+    trans: v.去，走；进行；进展 link.v.变得，变成
     samples:
       - 例 On Monday，I go shopping.星期一我去购物。
       - 例 Some diseases can make you go blind.某些病会导致失明。
@@ -4526,10 +4546,11 @@ words:
     test: 考 1．work out计算出；(事情)进展顺利或结果令人满意2．work on继续工作；影响3．work for...为…工作
     reference: 参 worker(n.工人)
   - word: plan
+    exchange: (planned，planned，planning)
     tags:
       - 初中
     phonetic: 【plæn】
-    trans: n./v.(planned，planned，planning)计划，打算
+    trans: n./v.计划，打算
     usage: 用 1．plan to do...计划做…：He is planning to go to graduate school.他打算念研究生。2．plan on doing sth.打算或计划做某事，如：We plan on staying in Italy for a week.我们打算在意大利待上一个礼拜。3．plan 作名词可以与for搭配，如：have a plan for doing sth.有一个做某事的计划
     samples:
       - 例 make a plan for doing sth.为做某事制订计划
@@ -4542,10 +4563,11 @@ words:
     samples:
       - 例 Martin Luther King's speech“I have a dream”is still famous.马丁·路德·金的演讲《我有一个梦想》仍然享有盛名。
   - word: undertake
+    exchange: (undertook，undertaken，undertaking)
     tags:
       - 高中
     phonetic: 【ˌʌndəˈteɪk】
-    trans: vt.(undertook，undertaken，undertaking)承担；保证
+    trans: vt.承担；保证
     samples:
       - 例 undertake a post担任一个职位
     reference: 参 undertaking(n.任务；事业；企业)
@@ -4585,11 +4607,11 @@ words:
     test: 考 1．believe in信仰，崇尚；相信2．believe it or not信不信由你
     reference: 参 belief(n.信条，信念)
   - word: fight
-    exchange: (fought;fbught)
+    exchange: (fought，fought，fighting)
     tags:
       - 初中
     phonetic: 【faɪt】
-    trans: n.v.(fought，fought，fighting)打仗，打架；争论
+    trans: n.v.打仗，打架；争论
     test: 考 1．fight against与…战斗，对抗…2．fight with和…作战3．fight for为…而战
   - word: pass
     tags:
@@ -4601,11 +4623,11 @@ words:
       - 例 Pass me the salt，please.请把盐递给我。
     test: 考 1．pass on传递2．pass by经过3．pass away去世：Her mother passed away last year.她母亲去年去世了。
   - word: build
-    exchange: (built;built)
+    exchange: (built，built，building)
     tags:
       - 初中
     phonetic: 【bɪld】
-    trans: v.(built，built，building)建造 n.构造
+    trans: v.建造 n.构造
     test: 考 1．build up建设，增进，树立：Bill was doing a lot of physical exercise to build up his strength.比尔为增强体力做了大量运动。2．build on/upon...建立在…的基础上
   - word: behind
     tags:
@@ -4769,11 +4791,11 @@ words:
     samples:
       - 例 Professor Green will give us an interesting lecture in the teaching building tonight.格林教授今晚将在教学楼给我们作有趣的演讲。
   - word: feel
-    exchange: (felt;felt)
+    exchange: (felt，felt，feeling)
     tags:
       - 小学
     phonetic: 【fiːl】
-    trans: vt.(felt，felt，feeling)感觉；触摸；认为 vi.摸索，寻找 link.v.觉 得；摸起来
+    trans: vt.感觉；触摸；认为 vi.摸索，寻找 link.v.觉 得；摸起来
     usage: 用 1．feel用作系动词，表示人的感觉或感情时，可用进行时态：I feel lonely.我觉得孤独。
     samples:
       - 例 I am feeling better now.我现在感觉好多了。注意：feel表示某物给人的感觉时不能用进行时态：This cloth feels smooth.这块布摸起来很光滑。2．feel用作及物动词，后可接名词、代词、复合宾语或从句：We can't see air but we can feel it.我们看不到空气，但能感觉到它。
@@ -4910,11 +4932,11 @@ words:
     samples:
       - 例 traffic accident交通事故
   - word: hear
-    exchange: (heard;heard)
+    exchange: (heard，heard，hearing)
     tags:
       - 小学
     phonetic: 【hɪə】
-    trans: v.(heard，heard，hearing)听见，听说，得知
+    trans: v.听见，听说，得知
     distinguish: 辨 hear，hear of/about，listen to hear，hear of/about，listen to都有“听”的意思。hear侧重于“听到”，强调“听”的结果；listen to侧重于“听”的动作，不一定能听到；hear of/about侧重于“听说”，指间接听别人说到。
     test: 考 1．hear of/about听说 2．hear from收到…的来信3．hear...doing/do...听见…正在做／做…
     reference: 参 hearing(n.听力；听觉)
@@ -5208,11 +5230,11 @@ words:
       - 例 a civil war内战
       - 例 a civil court民事诉讼法庭
   - word: send
-    exchange: (sent;sent)
+    exchange: (sent，sent，sending)
     tags:
       - 初中
     phonetic: 【send】
-    trans: vt.(sent，sent，sending)打发，派遣；送，邮寄
+    trans: vt.打发，派遣；送，邮寄
     usage: 用 1．send常接双宾语，即send sb.sth.(＝send sth.to sb.)送／寄某物给某人：Foreign countries can send their programmes to China.外国可将他们的电视节目传送到中国。常接双宾语的动词还有：give，lend，buy，show等。2．send可以接复合宾语，即send sb.to do sth.使某人做某事：Photographers are sent to take pictures.摄影记者被派去拍照片。当send的宾补为doing形式时，即send sb.doing...，表示“使某人突然做…”：The fire sent everyone running out of the building.大火让所有人从房子里跑了出来。
     test: 考 1．send out发出，放出2．send off邮寄；送行3．send up发射4．send for sb.让人去请某人
   - word: flow
@@ -5332,10 +5354,11 @@ words:
     samples:
       - 例 In big modern cities there are high buildings and wide roads everywhere.现代化的大都市里到处都是高楼大厦和宽阔的马路。
   - word: mistake
+    exchange: (mistook，mistaken，mistaking)
     tags:
       - 初中
     phonetic: 【mɪˈsteɪk】
-    trans: v.(mistook，mistaken，mistaking)弄错 n.错误
+    trans: v.弄错 n.错误
     tips: 记 词根记忆：mis(错)＋take(拿)→拿错→弄错
     test: 考 1．make a mistake/make mistakes犯错误2．by mistake错误地：His luggage was removed by mistake.他的行李被误拿了。3．mistake...for...错把…当做…
     reference: 参 mistaken(adj.错误的)；mistakenly(adv.错误地)
@@ -5379,10 +5402,11 @@ words:
       - 例 We were sitting round the fire，eating and talking.我们围坐在炉火边，边吃边谈。
     test: 考 1．look round环顾；观察2．get round避免；说服；走动；传开来 3．go round流行，传播4．all year round终年，一年到头5．a round trip往返旅行
   - word: reply
+    exchange: (replied，replied，replying)
     tags:
       - 初中
     phonetic: 【rɪˈplaɪ】
-    trans: n./vi.(replied，replied，replying)回答，答复
+    trans: n./vi.回答，答复
     test: 考 reply to回答，做出反应：Many people replied to our advertisement.许多人都对我们的广告做出了反应。
   - word: around
     tags:
@@ -5837,10 +5861,11 @@ words:
       - 例 We should adopt the consumer's suggestion.我们应该接受那位消费者的建议。
       - 例 As they had no children of their own，they adopted an orphan.他们没有亲生儿女，就收养了一个孤儿。
   - word: dip
+    exchange: (dipped，dipped，dipping)
     tags:
       - 高中
     phonetic: 【dɪp】
-    trans: v.(dipped，dipped，dipping)浸，蘸
+    trans: v.浸，蘸
     samples:
       - 例 Mary dipped her toe in the cold water.玛丽将脚趾头放到冷水中。
   - word: satisfy
@@ -5881,7 +5906,8 @@ words:
     tags:
       - 初中
     phonetic: 【kənˈtrəʊl】
-    trans: vt./n.(controlled，controlled，controlling)控制
+    exchange: (controlled，controlled，controlling)
+    trans: vt./n.控制
     samples:
       - 例 TheRomans used to control a vast empire.罗马人曾经统治着一个庞大的帝国。Passport Control出入境关卡 remote control遥控器
     test: 考 1．lose control over sth.对某物失去控制2．have control over.../take control of...控制…3．out of control失控4．self-control自控
@@ -6045,11 +6071,11 @@ words:
       - 例 bus schedule公共汽车时刻表
       - 例 The tests are scheduled for six months.这些测试预计用六个月完成。
   - word: hit
-    exchange: (hit;hit)
+    exchange: (hit，hit，hitting)
     tags:
       - 初中
     phonetic: 【hɪt】
-    trans: n./v.(hit，hit，hitting)打，撞；击中
+    trans: n./v.打，撞；击中
     test: 考 hit on...偶然发现…：I hope that someone will hit on a solution to our problem.我希望有人能想出办法以解决我们的问题。
   - word: progress
     tags:
@@ -6395,10 +6421,11 @@ words:
     distinguish: 辨 compare...with...，compare...to...，compared with/to 这些结构都可以表示比较。compare是及物动词，compare...with...是把两者进行对比；compare...to...是把某事物比喻成另外一种事物：He compared her to a rose.他把她比作玫瑰。而compared with/to相当于介词短语，表示“与…相比”，此时to和with可以互换：Living in a town can't compare with living in the country in many respects.在许多方面，城市生活比不上乡村生活。
     reference: 参 comparable(adj.可比较的，比得上的)
   - word: plot
+    exchange: (plotted，plotted，plotting)
     tags:
       - 高中
     phonetic: 【plɒt】
-    trans: vt.(plotted，plotted，plotting)密谋 n.情节
+    trans: vt.密谋 n.情节
     samples:
       - 例 The plot is pretty boring.故事情节枯燥无味。
   - word: rest
@@ -6565,17 +6592,19 @@ words:
     samples:
       - 例 What does the underlined phrase mean? 划线的短语是什么意思？
   - word: deal
+    exchange: (dealt，dealt，dealing)
     tags:
       - 初中
     phonetic: 【diːl】
-    trans: v.(dealt，dealt，dealing)处理 n.量，数额；交易
+    trans: v.处理 n.量，数额；交易
     usage: 用 1．a great deal of...大量(修饰不可数名词)2．make a deal成交3．deal with处理，解决：I don't know how to deal with it.(＝I don't know what to do with it.)我不知道该如何解决这个问题。
     reference: 参 dealer(n.商人)
   - word: up
+    exchange: (upped，upped，upping)
     tags:
       - 小学
     phonetic: 【ʌp】
-    trans: adv.向上；在上方 adj.上面的 n.上升 v.(upped，upped，upping)举起；提高 prep.向高处
+    trans: adv.向上；在上方 adj.上面的 n.上升 v.举起；提高 prep.向高处
     samples:
       - 例 She upped and left.她起身走了。
     test: 考 1．up to多达2．be up to sb.是某人的职责；由某人决定3．ups and downs沉浮；兴衰
@@ -6643,12 +6672,12 @@ words:
       - 例 The reform of educational system is warmly welcomed by teachers and students.教育体系的改革受到了老师和学生们的热烈欢迎。
     distinguish: 辨 reform，transform reform意为“改革，革新”，多指使社会、政治、经济等方面变得更好，而transform既可以指外部形状等的变化，也可以指内在性质或功能的变化。
   - word: freeze
-    exchange: (froze;frozen)
+    exchange: (froze，frozen，freezing)
     tags:
       - 初中
       - 高中
     phonetic: 【friːz】
-    trans: v.(froze，frozen，freezing)(使)结冰
+    trans: v.(使)结冰
     tips: 记 联想记忆：free(自由)＋ze→让水失去自由→(使)结冰
     samples:
       - 例 We will freeze those fruit in the refrigerator.我们将把那些水果冻在冰箱里。
@@ -6748,11 +6777,11 @@ words:
       - 例 The oil company raised oil prices by more than 5 percent last month.石油公司上个月将石油价格提高了5％以上。
     distinguish: 辨 raise，rise.raise是及物动词，有“举起，抬起；抚养”的意思，可以用被动语态，比如：The boy was raised by his uncle.那个男孩是他叔叔养大的。而rise表示“升起，上升”，是不及物动词，没有被动语态，如：The sun also rises.太阳照常升起。
   - word: make
-    exchange: (made;made)
+    exchange: (made，made，making)
     tags:
       - 小学
     phonetic: 【meɪk】
-    trans: vt.(made，made，making)制造，做；使成为
+    trans: vt.制造，做；使成为
     usage: 用 make后接复合宾语时，可以充当宾补的有名词、形容词、非谓语动词等。主要句型有：1．make＋宾语＋do sth.使宾语做某事：The announcement made the whole world cheer.这个宣告使全世界的人都欢呼起来。
     samples:
       - 例 Mom made him clean up the plates.妈妈让他洗盘子。注意：如改为被动句，宾补必须是to do的形式：He was made to clean up the plates by mom.妈妈让他洗盘子。可用于该句型的动词还有feel，hear，let，watch，see等。2．make＋宾语＋adj.使宾语…：Having fun with friends makes us happy.和朋友一起玩儿会使我们快乐。可用于该句型的动词还有feel，find，think，drive等。3．make＋宾语＋n.使宾语成为…：The contest made her a star.这次比赛使她成了明星。可用于该句型的动词还有elect，choose，consider，name，call等。4．make＋宾语＋done，使宾语被…：When we talk with others we make ourselves understood not just by words.当我们与他人交谈时，并不仅仅靠语言来让别人理解。5．如果宾补是不定式或从句，常常使用形式宾语，即make＋it＋adj./n.＋宾语：People in the west make it a rule to buy Christmas presents for their relatives and friends.西方人把给亲朋好友买圣诞礼物作为一种惯例。可用于该句型的动词还有feel，find，think，believe等。
@@ -6800,19 +6829,20 @@ words:
       - 例 —I didn't know this was a one-way street，officer.—Sorry，but that's no excuse.—交警同志，我不知道这是单行道。—很遗憾，但这不是理由。
     test: 考 Excuse me.对不起。【借过。】打扰一下。
   - word: jam
+    exchange: (jammed，jammed，jamming)
     tags:
       - 高中
     phonetic: 【dʒæm】
-    trans: v.(jammed，jammed，jamming)(使)阻塞 n.果酱；阻塞
+    trans: v.(使)阻塞 n.果酱；阻塞
     samples:
       - 例 The fax machine has jammed again.传真机又卡住了。
     test: 考 traffic jam塞车
   - word: get
-    exchange: (got;got)
+    exchange: (got，got，getting)
     tags:
       - 小学
     phonetic: 【ɡet】
-    trans: vt.(got，got，getting)得到，获得 link.v.变得；到达
+    trans: vt.得到，获得 link.v.变得；到达
     usage: 用 1．get＋adj.变得…：Is your headache getting better? 你头疼好点儿了吗？2．get可以接复合宾语，宾补常是不定式、介词短语、过去分词或形容词：I will get my brother to help you.我叫我弟弟来帮你。
     samples:
       - 例 You can't get eight people into that car.你没法让八个人坐进那辆车里去。
@@ -6852,11 +6882,11 @@ words:
       - 例 boiling water沸水 boiled water开水  boiling point沸点
     test: 考 boil down to等于；归结为：Most of the crimes may boil down to a question of money.大多数犯罪都可归结为金钱问题。
   - word: do
-    exchange: (did;done)
+    exchange: (did，done，doing)
     tags:
       - 小学
     phonetic: 【duː】
-    trans: vt.(did，done，doing)做，干 aux.v.用以构成疑问句及否定句
+    trans: vt.做，干 aux.v.用以构成疑问句及否定句
     test: 考 1．do away with摆脱；废除2．do well in在…方面做得好3．do sb.a favour帮某人忙4．have something to do with...和…有关
   - word: powerful
     tags:
@@ -6874,11 +6904,11 @@ words:
       - 例 He looked at me straight in the eye.他直视着我的眼睛。
       - 例 Come straight home after school.放学后直接回家。
   - word: hold
-    exchange: (held;hcld)
+    exchange: (held，held，holding)
     tags:
       - 初中
     phonetic: 【həʊld】
-    trans: v.(held，held，holding)拿，握住；举行
+    trans: v.拿，握住；举行
     samples:
       - 例 hold a party举办晚会
     test: 考 1．hold on稍等，别挂电话2．hold on to...紧紧抓住…；坚持…3．hold to...坚持…；握紧…4．hold up举起5．hold back...隐瞒；抑制…
@@ -7220,10 +7250,11 @@ words:
       - 例 Can you believe that in such a rich country there are so many poor people? 在如此富裕的国家里居然有这么多的穷人，你能相信吗？
     reference: 参 poorly(adv.贫穷地)
   - word: tip
+    exchange: (tipped，tipped，tipping)
     tags:
       - 高中
     phonetic: 【tɪp】
-    trans: vt.(tipped，tipped，tipping)告诫，提示；给小费 n.顶端；小费；提示
+    trans: vt.告诫，提示；给小费 n.顶端；小费；提示
     tips: 记 联想记忆：给老外一个小提示(tip)，这里不用给小费(tip)
     samples:
       - 例 Professor Smith gave some tips to his students for their experiments.史密斯教授对学生们的实验提出了一些建议。
@@ -7259,10 +7290,11 @@ words:
     samples:
       - 例 As is well known，man is an intelligent and sensible creature.众所周知，人类是一种智慧而又理性的生物。
   - word: rid
+    exchange: (rid，rid，ridding)
     tags:
       - 高中
     phonetic: 【rɪd】
-    trans: vt.(rid，rid，ridding)使…摆脱
+    trans: vt.使…摆脱
     test: 考 get rid of摆脱；除去：Mary is trying to get rid of the mice in her house.玛丽正在试图除掉她家里的老鼠。
   - word: entry
     tags:
@@ -7295,10 +7327,11 @@ words:
     samples:
       - 例 musical instrument乐器
   - word: weep
+    exchange: (wept，wept，weeping)
     tags:
       - 高中
     phonetic: 【wiːp】
-    trans: v.(wept，wept，weeping)哭泣，流泪
+    trans: v.哭泣，流泪
     tips: 记 联想记忆：能哭(weep)出来说明伤得还不够深(deep)
     samples:
       - 例 She wept bitter tears of disappointment.她沮丧得痛哭流涕。
@@ -7366,10 +7399,11 @@ words:
     trans: v.决定，下决心
     usage: 用 1．decide＋(not)to do...决定(不)做…：We decided not to climb the mountains because it was raining heavily.我们决定不爬山了，因为雨下得很大。2．decide sth.决定某事：decide the rent决定房租3．decide＋(that)...决定…：He's decided that he would not play computer games.他决定不玩电脑游戏了。
   - word: rob
+    exchange: (robbed，robbed，robbing)
     tags:
       - 高中
     phonetic: 【rɒb】
-    trans: v.(robbed，robbed，robbing)抢夺，抢劫
+    trans: v.抢夺，抢劫
     test: 考 rob sb.of sth.抢某人的某物：I was robbed of my bag.我的包被抢走了。
     reference: 参 robber(n.抢劫者)
   - word: purpose
@@ -7448,10 +7482,11 @@ words:
     test: 考 suffer from...忍受…，遭受…：She is suffering from a knee injury.她在遭受膝伤的煎熬。
     reference: 参 suffering(n.痛苦，苦难)
   - word: set
+    exchange: (set，set，setting)
     tags:
       - 初中
     phonetic: 【set】
-    trans: vt.(set，set，setting)设置，调整；树立；摆放；日落 n.一套；设备
+    trans: vt.设置，调整；树立；摆放；日落 n.一套；设备
     samples:
       - 例 I forgot to set my alarm and I overslept.我忘记设闹铃，睡过头了。
       - 例 He took the case out of her hand and set it on the floor.他从她手里拿过箱子放在地板上。
@@ -7466,11 +7501,11 @@ words:
       - 例 The police arrested the thief.警方逮捕了那个小偷。
       - 例 The news of their arrest shocked the country.他们被捕的消息震惊了全国。
   - word: see
-    exchange: (saw;seen)
+    exchange: (saw，seen，seeing)
     tags:
       - 小学
     phonetic: 【siː】
-    trans: v.(saw，seen，seeing)看见，看到；领会
+    trans: v.看见，看到；领会
     usage: 用 see可以接复合宾语，宾补是不定式(省略to)、现在分词或过去分词：I saw him drive off.我看见他开车走了。
     samples:
       - 例 I hope to see the plan carried out.我希望看到计划得到实施。
@@ -7485,11 +7520,11 @@ words:
     tips: 记 联想记忆：凝视(stare)星(star)空
     test: 考 stare at...凝视…
   - word: spend
-    exchange: (spent;spent)
+    exchange: (spent，spent，spending)
     tags:
       - 初中
     phonetic: 【spend】
-    trans: vt.(spent，spent，spending)度过；花费(钱、时间等)
+    trans: vt.度过；花费(钱、时间等)
     usage: 用 1．spend＋时间＋(in)doing sth.在做某事上花费时间：People spent much more time watching TV than reading books. 人们花在看电视上的时间比花在读书上的时间多得多。2．spend＋时间／金钱＋on sth.为某事物花费时间／金钱：In my opinion，it is not necessary to spend all this money on a new computer.我认为花这么多钱买台新电脑没有必要。
     samples:
       - 例 The book cost me 20 yuan.这本书花了我20元钱。
@@ -7512,10 +7547,11 @@ words:
     tips: 记 发音记忆：“破”→水罐破了，水流出→倾泻
     test: 考 1．pour...on...把…倒在…：If you pour water on flowers，they will flourish.给花浇水，它们就会盛开。2．pour...into...把…倒进…：I opened a can of orange and poured the juice all into the bowl.我打开一听橘汁，然后全部倒进了碗里。3．pour in不断地涌入或涌出
   - word: step
+    exchange: (stepped，stepped，stepping)
     tags:
       - 初中
     phonetic: 【step】
-    trans: v.(stepped，stepped，stepping)走；跨步 n.脚步；台阶
+    trans: v.走；跨步 n.脚步；台阶
     samples:
       - 例 I took a few steps back.我往后退了几步。
   - word: effort
@@ -7613,20 +7649,20 @@ words:
     samples:
       - 例 John could not agree with anything without his partner's approval.没有合作伙伴的认可，约翰不能同意任何事。
   - word: drink
-    exchange: (drank;drunk)
+    exchange: (drank，drunk，drinking)
     tags:
       - 小学
     phonetic: 【drɪŋk】
-    trans: v.(drank，drunk，drinking)喝 n.饮酒
+    trans: v.喝 n.饮酒
     samples:
       - 例 a cool drink冷饮
       - 例 You're drinking too much.你喝得太多了。
   - word: grow
-    exchange: (grew;grown)
+    exchange: (grew，grown，growing)
     tags:
       - 初中
     phonetic: 【ɡrəʊ】
-    trans: v.(grew，grown，growing)种植；生长，发育 link.v.渐渐变得，变成
+    trans: v.种植；生长，发育 link.v.渐渐变得，变成
     usage: 用 grow to do...渐渐(形成某种态度)：I think you will grow to like him when you know him better.我想，当你对他有更多了解之后就会渐渐喜欢他了。
     samples:
       - 例 Do you grow many plants yourself? 你自己种许多植物吗？
@@ -7872,10 +7908,11 @@ words:
     test: 考 1．be faced with面对，面临2．face to face面对面3．make a face做鬼脸
     reference: 参 facial(adj.面部的)
   - word: commit
+    exchange: (committed，committed，committing)
     tags:
       - 高中
     phonetic: 【kəˈmɪt】
-    trans: v.(committed，committed，committing)犯(错误)，干(坏事)
+    trans: v.犯(错误)，干(坏事)
     samples:
       - 例 If you commit a crime，you can never escape being punished.你要是犯了罪，就必定会受到惩罚。
     reference: 参 committee(n.委员会)
@@ -8029,11 +8066,11 @@ words:
     test: 考 1．present at...出席…：All the people present at the party were his supporters.出席晚会的人都是他的支持者。2．at present目前，现在 3．present sth.to sb.= present sb.with sth.赠送，给予：The mayor presented the prizes to the top students.= The mayor presented the top students with the prizes.市长为最优秀的学生们颁发了奖品。
     reference: 参 presentation(n.陈述；介绍)
   - word: hide
-    exchange: (hid;hidden)
+    exchange: (hid，hidden，hiding)
     tags:
       - 初中
     phonetic: 【haɪd】
-    trans: v.(hid，hidden，hiding)掩饰；隐藏
+    trans: v.掩饰；隐藏
     samples:
       - 例 The man hid in a car.那个男的藏在车里。
   - word: absent
@@ -8184,10 +8221,11 @@ words:
     samples:
       - 例 The baby was lying on its back，kicking its legs in the air.婴儿平躺着，两腿向空中踢着。
   - word: withdraw
+    exchange: (withdrew，withdrawn，withdrawing)
     tags:
       - 高中
     phonetic: 【wɪðˈdrɔː】
-    trans: v.(withdrew，withdrawn，withdrawing)缩回，撤回
+    trans: v.缩回，撤回
     tips: 记 词根记忆：with(向后)＋draw(拉)→拉回，收回→缩回，撤回
     samples:
       - 例 John withdrew his suggestion when no one supported it.由于没有人支持，约翰收回了他的建议。
@@ -8256,10 +8294,11 @@ words:
     distinguish: 辨 join，join in，take part in join常用来指加入一个团体或组织并成为其中的一员，如参军、入团、入会等；join in多用来指参与到竞赛、娱乐、谈话等活动中；take part in指参加比赛或大型的活动，并在其中发挥积极作用。
     test: 考 join in参加，加入：We all joined in the singing.我们一起唱起了歌。
   - word: marry
+    exchange: (married，married，marrying)
     tags:
       - 初中
     phonetic: 【ˈmæri】
-    trans: v.(married，married，marrying)和…结婚
+    trans: v.和…结婚
     tips: 记 联想记忆：结婚(marry)是令人幸福快乐的(merry)事
     usage: 用 1．marry sb.和某人结婚(注意：不用任何介词)：Bill married a famous actress.比尔娶了一位著名的演员。2．marry和get married都是非 延续性动词，因此不能与表示一段时间的状语连用；表示结婚已有一段时间应用be married：They married fifty years ago.(＝They have been married for fifty years.)他们结婚已经有50年了。
     reference: 参 marriage(n.结婚，婚姻)
@@ -8280,10 +8319,11 @@ words:
       - 例 A computer can only do what you have instructed it to do.电脑只能按照你的指示运作。
     reference: 参 instructor(n.教师；讲师)
   - word: educate
+    exchange: (educated，educated，educating)
     tags:
       - 高中
     phonetic: 【ˈedʒukeɪt】
-    trans: v.(educated，educated，educating)教育，培养
+    trans: v.教育，培养
     tips: 记 词根记忆：e(出)＋duc(引导；带来)＋ate→引出知识→教育
     samples:
       - 例 He was once educated at a local grammar school.他曾在当地的一所语法学校学习过。
@@ -8481,11 +8521,11 @@ words:
     trans: v.(speeded/sped，speeded/sped，speeding)(使)加速 n.速度
     test: 考 1．high speed高速2．speed up加速
   - word: stand
-    exchange: (stood;stood)
+    exchange: (stood，stood，standing)
     tags:
       - 小学
     phonetic: 【stænd】
-    trans: vi.(stood，stood，standing)站立 vt.承担，忍受 n.站；台
+    trans: vi.站立 vt.承担，忍受 n.站；台
     samples:
       - 例 Modern plastics can stand very high and very low temperatures.现代塑胶可以经受极度高温和低温。
       - 例 a self-checkout stand自助结账台
@@ -8506,10 +8546,11 @@ words:
     samples:
       - 例 The students try to look at all aspects of the situation.学生们试着全面看待这种情况。
   - word: skip
+    exchange: (skipped，skipped，skipping)
     tags:
       - 高中
     phonetic: 【skɪp】
-    trans: vi.(skipped，skipped，skipping)跳过；跳读
+    trans: vi.跳过；跳读
     samples:
       - 例 A newspaper reader can select what he is interested in and skip what he thinks is boring.读报人可以选择他感兴趣的部分来阅读而略过他认为无聊的部分。
   - word: than
@@ -8521,11 +8562,11 @@ words:
       - 例 He could run much faster than I could.他跑得比我快多了。
     test: 考 1．more than多于，不仅仅2．no more than只是，仅仅3．not more than不超过，不如…多4．rather than胜于5．other than除了，不同于
   - word: shut
-    exchange: (shut;shut)
+    exchange: (shut，shut，shutting)
     tags:
       - 初中
     phonetic: 【ʃʌt】
-    trans: n./vt.(shut，shut，shutting)关闭 adj.关闭的
+    trans: n./vt.关闭 adj.关闭的
     samples:
       - 例 John shut everybody out of the kitchen.约翰把所有的人都关在厨房外面。
     test: 考 1．shut down关闭，倒闭2．shut off关掉，切断3．shut up住口4．shut sth.up关上某物
@@ -8606,10 +8647,11 @@ words:
     samples:
       - 例 Nowadays，people usually prefer sending an e-mail to writing a letter.与写信相比，现在的人们通常更喜欢发电子邮件。
   - word: seek
+    exchange: (sought，sought，seeking)
     tags:
       - 高中
     phonetic: 【siːk】
-    trans: v.(sought，sought，seeking)试图；寻找，寻求
+    trans: v.试图；寻找，寻求
     tips: 记 联想记忆：see(看)＋k→更深入地看→寻找
     samples:
       - 例 He sought to make peace.他企图讲和。
@@ -8632,11 +8674,11 @@ words:
       - 例 Flight Number 152 to Beijing is ready to leave.飞往北京的152次航班即将起飞。
       - 例 a flight of stairs一段楼梯
   - word: catch
-    exchange: (caught;caught)
+    exchange: (caught，caught，catching)
     tags:
       - 初中
     phonetic: 【kætʃ】
-    trans: vt.(caught，caught，catching)接住；捉住；赶上；染上(疾病)
+    trans: vt.接住；捉住；赶上；染上(疾病)
     samples:
       - 例 catch the criminal抓住罪犯
       - 例 catch one's plane赶上飞机
@@ -8688,10 +8730,11 @@ words:
     samples:
       - 例 Tom was a journalist of a local TV station.汤姆是当地一家电视台的记者。
   - word: multiply
+    exchange: (multiplied，multiplied，multiplying)
     tags:
       - 高中
     phonetic: 【ˈmʌltɪplaɪ】
-    trans: v.(multiplied，multiplied，multiplying)(使)相乘；增加
+    trans: v.(使)相乘；增加
     tips: 记 词根记忆：multi(多)＋ply(重叠)→增加
     samples:
       - 例 Eight multiplied by one equals eight.8乘以1等于8。
@@ -8705,11 +8748,11 @@ words:
       - 例 They sat in a circle round the fire.他们围着炉火坐成一圈。
       - 例 The birds circled around in the air.鸟儿在空中盘旋。
   - word: meet
-    exchange: (met;met)
+    exchange: (met，met，meeting)
     tags:
       - 小学
     phonetic: 【miːt】
-    trans: v.(met，met，meeting)遇见，会面；满足 n.集会
+    trans: v.遇见，会面；满足 n.集会
     samples:
       - 例 It is nice to meet you.很高兴见到你。 meet the demands/needs满足要求
       - 例 sports meet运动会
@@ -8791,10 +8834,11 @@ words:
     test: 考 hunt down搜寻直到找到：Wherever you go，I can hunt you down.不论你跑到哪儿，我都能抓到你。
     reference: 参 hunter(n.猎人)；hunting(n.打猎；搜寻)
   - word: refer
+    exchange: (referred，referred，referring)
     tags:
       - 高中
     phonetic: 【rɪˈfɜː】
-    trans: v.(referred，referred，referring)谈到，提到
+    trans: v.谈到，提到
     tips: 记 词根记忆：re(重新)＋fer(带来，拿来)→说话时重新带出来→提到
     test: 考 refer to提到，涉及：Is that the small town you often refer to? 这就是你常提到的那个小镇吗？
   - word: drawer
@@ -8908,11 +8952,11 @@ words:
       - 例 The street is too narrow to run so many cars.这条街太窄了，容不了这么多车。
     reference: 参 narrowly(adv.狭窄地)
   - word: hurt
-    exchange: (hurt;hurt)
+    exchange: (hurt，hurt，hurting)
     tags:
       - 初中
     phonetic: 【hɜːt】
-    trans: v.(hurt，hurt，hurting)伤害
+    trans: v.伤害
     samples:
       - 例 You hurt my feelings.你伤了我的感情。
     distinguish: 辨 hurt，injury，wound.hurt既可以指心灵上的伤害，也可以指肉体上的伤害，强调疼痛的感觉；injury多用于意外事故带来的肉体上的伤害；wound一般指在战争或打斗中受的伤(如枪伤等)。
@@ -8933,11 +8977,11 @@ words:
     samples:
       - 例 Students headed for the nearest exit.学生们奔向最近的出口。
   - word: draw
-    exchange: (drew;drawn)
+    exchange: (drew，drawn，drawing)
     tags:
       - 小学
     phonetic: 【drɔː】
-    trans: v.(drew，drawn，drawing)绘画；拉，吸引；提取(金钱)
+    trans: v.绘画；拉，吸引；提取(金钱)
     test: 考 1．draw a conclusion得出结论2．draw one's attention吸引某人的注意
     reference: 参 drawing(n.图画，素描)
   - word: personal
@@ -9173,10 +9217,11 @@ words:
     test: 考 1．play with玩耍，摆弄：John，you mustn't play with the knife，you may hurt yourself.约翰，别摆弄刀子了，你会弄伤自己的。2．put on a play上演话剧：The school usually puts on a play in the spring.学校通常在春天上演一出话剧。3．play a part/role in起作用；扮演角色：You played an important part in winning the game.能赢得比赛你发挥了重要的作用。
     reference: 参 player(n.选手；表演者)；playful(adj.好玩的，有趣的)
   - word: bury
+    exchange: (buried，buried，burying)
     tags:
       - 高中
     phonetic: 【ˈberi】
-    trans: vt.(buried，buried，burying)埋，葬
+    trans: vt.埋，葬
     test: 考 bury(oneself)in埋头于，专心于：He buried himself in reading.他埋头苦读。
   - word: tendency
     tags:
@@ -9216,10 +9261,11 @@ words:
     trans: adj.平均的；普通的 n.平均数
     test: 考 on average平均：The companies spend，on average，70 percent of the total cost of the product on packaging.那些企业平均花费产品总成本的70％用于包装。
   - word: understand
+    exchange: (understood，understood，understanding)
     tags:
       - 高中
     phonetic: 【ˌʌndəˈstænd】
-    trans: v.(understood，understood，understanding)懂得，理解
+    trans: v.懂得，理解
     samples:
       - 例 Do you understand Spain? 你懂西班牙语吗？
     reference: 参 understanding(n.谅解，理解)
@@ -9592,10 +9638,11 @@ words:
       - 例 a world fair世界博览会
     reference: 参 unfair(adj.不公平的)
   - word: sweep
+    exchange: (swept，swept，sweeping)  
     tags:
       - 高中
     phonetic: 【swiːp】
-    trans: vt.(swept，swept，sweeping)扫除，打扫
+    trans: vt.扫除，打扫
     samples:
       - 例 I just swept the floor.Don't drop crumbs！我刚扫完地，不要把面包屑掉到地上！
   - word: length
@@ -9605,11 +9652,11 @@ words:
     trans: n.长，长度
     test: 考 at length最后；详细地：At length we arrived at our destination.我们终于到达了目的地。
   - word: shake
-    exchange: (shook;shaken)
+    exchange: (shook，shaken，shaking)
     tags:
       - 初中
     phonetic: 【ʃeɪk】
-    trans: vt.(shook，shaken，shaking)使摇动；震动
+    trans: vt.使摇动；震动
     samples:
       - 例 shake the head摇头
     test: 考 shake hands with sb.和某人握手
@@ -9668,11 +9715,11 @@ words:
     samples:
       - 例 Would you like something to drink? 你想喝点儿什么吗？
   - word: lose
-    exchange: (lost;lost)
+    exchange: (lost，lost，losing)
     tags:
       - 初中
     phonetic: 【luːz】
-    trans: vt.(lost，lost，losing)失去，丢失
+    trans: vt.失去，丢失
     samples:
       - 例 lose weight减肥 Lost & Found失物招领处 lose the game输了比赛
   - word: charge
@@ -9731,11 +9778,11 @@ words:
     samples:
       - 例 They hired a bathing machine.他们租用了一辆游泳更衣车。
   - word: spread
-    exchange: (spread;spread)
+    exchange: (spread，spread，spreading)
     tags:
       - 初中
     phonetic: 【spred】
-    trans: n./v.(spread，spread，spreading)延伸，展开；传播
+    trans: n./v.延伸，展开；传播
     tips: 记 联想记忆：sp＋read(阅读)→通过阅读来扩展我们的视野→延伸
     samples:
       - 例 The spread of the deserts affects many countries.荒漠的扩大影响到众多国家。
@@ -9865,11 +9912,11 @@ words:
     test: 考 1．on condition that只要，如果2．under/in...condition在…的状况下
     reference: 参 conditional(adj.有条件的，受制约的)
   - word: let
-    exchange: (let;let)
+    exchange: (let，let，letting)
     tags:
       - 小学
     phonetic: 【let】
-    trans: vt.(let，let，letting)让
+    trans: vt.让
     usage: 用 let sb.do sth.让某人做某事：Let them do it themselves.让他们自己干去吧。
     test: 考 1．let alone更不用说2．let out放走；泄漏3．let off排放4．let in让…进来；使陷入辨 let's，let us.let's和let us都有“让我们做…”之意。let's包含说话者，反义疑问句中用“shall we”；let us一般不包括说话者，反义疑问句和其他祈使句一样，用“will you”。
   - word: mark
@@ -9986,10 +10033,11 @@ words:
     tips: 记 词根记忆：con(共同)＋sist(站)→站在一起→由…组成
     test: 考 consist of由…组成：The final examination report consisted of ten lines.期末考试报告有10行文字。
   - word: drop
+    exchange: (dropped，dropped，dropping)
     tags:
       - 初中
     phonetic: 【drɒp】
-    trans: v.(dropped，dropped，dropping)掉下，落下 n.滴；下降
+    trans: v.掉下，落下 n.滴；下降
     samples:
       - 例 A few drops of rain landed on the roof.几滴雨落在了屋顶上。
     test: 考 1．drop in/by顺便拜访2．drop off脱落；打盹3．drop out放弃
@@ -10167,20 +10215,20 @@ words:
     samples:
       - 例 Grandpa adored Grandma when they first met.初次相遇时，爷爷就喜欢上了奶奶。
   - word: choose
-    exchange: (chose;chosen)
+    exchange: (chose，chosen，choosing)
     tags:
       - 初中
     phonetic: 【tʃuːz】
-    trans: vt.(chose，chosen，choosing)选择；决定
+    trans: vt.选择；决定
     usage: 用 1．choose between A and B在A和B中挑选2．choose...from...从…挑选…3．cannot choose but do sth.别无选择，只好做某事：She can't choose but take the awful job.她别无选择，只能干那份糟糕的工作。
     samples:
       - 例 He chose to play basketball.他决定打篮球。
   - word: awake
-    exchange: (awoke;awoken)
+    exchange: (awoke，awoken，awaking)
     tags:
       - 初中
     phonetic: 【əˈweɪk】
-    trans: v.(awoke，awoken，awaking)唤醒 adj.醒着的
+    trans: v.唤醒 adj.醒着的
     test: 考 keep sb.awake让某人醒着：Smoking before bedtime keeps you awake.睡前抽烟会让你睡不着。
   - word: brand
     tags:
@@ -10228,11 +10276,11 @@ words:
       - 例 It's two years since he was a League member.他退团已经两年了。
     distinguish: 辨 since，as，because，for这四个词都可以引导原因状语，because语气最强，表示直接而明确的原因，常用于回答why引起的问句，如：He had to stay at home yesterday because he was ill.因为病了，他昨天只得待在家里。as语气较弱，只是附带说明较明显的原因，如：She was well paid，as she had done the work well.她的薪水很高，因为她干得出色。since语气也比because弱，陈述的理由往往是对方所知道的，常译作“既然”，如：Since you can't answer the question，perhaps we'd better ask someone else.既然你无法回答这个问题，我们最好再问问别人。for语气最弱，只是就前一句进行逻辑推理或解释一下理由，引导一个表示原因的并列句，for不用于句首，如：Maybe he is ill，for he is absent today.他今天没有来，可能是病了。
   - word: win
-    exchange: (won;won)
+    exchange: (won，won，winning)
     tags:
       - 初中
     phonetic: 【wɪn】
-    trans: v.(won，won，winning)赢得，获胜
+    trans: v.赢得，获胜
     samples:
       - 例 win the game赢得比赛
       - 例 win the prize获奖
@@ -10312,11 +10360,11 @@ words:
     samples:
       - 例 folk music民间音乐
   - word: break
-    exchange: (broke;broken)
+    exchange: (broke，broken，breaking)
     tags:
       - 初中
     phonetic: 【breɪk】
-    trans: v.(broke，broken，breaking)打破，弄坏；撕开 n.间歇；休息
+    trans: v.打破，弄坏；撕开 n.间歇；休息
     test: 考 1．break away from从…脱离，打破2．break down出故障，坏掉3．break in插嘴；破门而入4．break into强行进入；渗进：Sunlight broke into the room.阳光照射进房间。5．break off中止，中断6．break out爆发：Fighting broke out in the bar.酒吧里发生了斗殴。7．have/take a break休息一下
   - word: nobody
     tags:
@@ -10355,10 +10403,11 @@ words:
     tips: 记 词根记忆：add(加)＋ition(名词后缀)→增加
     test: 考 1．in addition另外2．in addition to除…之外
   - word: admit
+    exchange: (admitted，admitted，admitting)
     tags:
       - 高中
     phonetic: 【ədˈmɪt】
-    trans: v.(admitted，admitted，admitting)承认；准许(入场、入学等)
+    trans: v.承认；准许(入场、入学等)
     tips: 记 词根记忆：ad(靠近)＋mit(送)→准许送入→承认
     usage: 用 1．admit doing sth.承认做过某事：Luke admitted stealing clothes from the shop.卢克承认从商店偷了衣服。2．admit...into/to...让…进入…：More middle school graduates will be admitted into universities.将有更多的中学毕业生进入大学。
   - word: discount
@@ -10447,10 +10496,11 @@ words:
     samples:
       - 例 He is the only legal heir of the rich man.他是这位富翁的唯一法定继承人。
   - word: arise
+    exchange: (arose，arisen，arising)  
     tags:
       - 高中
     phonetic: 【əˈraɪz】
-    trans: vi.(arose，arisen，arising)起来，升起；出现
+    trans: vi.起来，升起；出现
     samples:
       - 例 When the actors appeared，the audience arose and applauded.当演员出现时，观众起身鼓掌。
       - 例 Here's my phone number and call me if trouble arises.这是我的电话号码，有问题给我打电话。
@@ -10550,11 +10600,11 @@ words:
     samples:
       - 例 In the English class，students sat quietly and listened carefully.英语课上，学生们安静地坐着，认真听讲。
   - word: lay
-    exchange: (laid;laid)
+    exchange: (laid，laid，laying)
     tags:
       - 初中
     phonetic: 【leɪ】
-    trans: v.(laid，laid，laying)放，搁；产(卵)
+    trans: v.放，搁；产(卵)
     samples:
       - 例 The black hen lays an egg every day.那只黑母鸡每天下一枚蛋。
   - word: ancient
@@ -10615,11 +10665,11 @@ words:
       - 例 False friends are more dangerous than open enemies.虚情假意的朋友比公开的敌人更危险。
       - 例 false teeth假牙
   - word: say
-    exchange: (said;said)
+    exchange: (said，said，saying)
     tags:
       - 小学
     phonetic: 【seɪ】
-    trans: v.(said，said，saying)说，讲
+    trans: v.说，讲
     usage: 用 1．say...to sb.向某人说…：say hello to sb.向某人问好2．It is said that...据说…：It is said that the site of an ancient city has been discovered at the bottom of the lake.据说在湖底发现了一座古城的遗址。
     distinguish: 辨 say，speak，talk，tell.say是普通用语，一般接说话的具体内容，如：He said hello to every person.他向每个人问好。speak一般用作不及物动词，强调讲话这一动作本身；用作及物动词只接某种语言。如：—What did you think of her speech? —She spoke for one hour but didn't say much.—你认为她的演讲怎么样？—她说了一个小时但是没有说出多少内容。talk与speak一样侧重于动作，不过talk更侧重与人交谈时的连贯说话，如：We talked about music all night.我们整夜都在谈论音乐。tell表示把某件事情告诉某人、讲述故事等，如：I told him my address.我告诉了他我的地址。
     test: 考 1．that is to say也就是说2．say to oneself心中暗想
@@ -10639,11 +10689,11 @@ words:
     samples:
       - 例 The government must take measures to control water pollution.政府必须采取措施控制水污染。
   - word: bring
-    exchange: (brought;brought)
+    exchange: (brought，brought，bringing)
     tags:
       - 小学
     phonetic: 【brɪŋ】
-    trans: vt.(brought，brought，bringing)拿来，带来，取来
+    trans: vt.拿来，带来，取来
     test: 考 1．bring about引起2．bring in赚钱，带进来3．bring along带来4．bring back归还
   - word: brake
     tags:
@@ -10718,10 +10768,11 @@ words:
     samples:
       - 例 In the following summer vacation，Charlie will have time to learn swimming.这个暑假，查利将有时间学游泳。
   - word: tear
+    exchange: (tore，torn，tearing)
     tags:
       - 高中
     phonetic: 【teə】
-    trans: v.(tore，torn，tearing)扯破，撕开 【tɪə】n.眼泪
+    trans: v.扯破，撕开 【tɪə】n.眼泪
     samples:
       - 例 burst into tears突然大哭起来 fight back tears强忍泪水 She picked up the envelope and tore it open.她拿起信封，撕开了。
     test: 考 1．tear up撕毁，撕碎2．tear down拆毁
@@ -10758,10 +10809,11 @@ words:
     test: 考 fold up折叠起来
     reference: 参 unfold(vt.打开，展开)
   - word: panic
+    exchange: (panicked，panicked，panicking)
     tags:
       - 高中
     phonetic: 【ˈpænɪk】
-    trans: v.(panicked，panicked，panicking)(使)惊恐，恐慌 n.惊慌，恐慌
+    trans: v.(使)惊恐，恐慌 n.惊慌，恐慌
     tips: 记 联想记忆：pan(盘子)＋ic(音似：一磕)→深夜里盘子一磕就噼里啪啦地碎了，造成恐慌
     samples:
       - 例 No one panicked.没有人惊慌失措。
@@ -11182,11 +11234,11 @@ words:
     samples:
       - 例 The boss was always considerate towards every employee.那个老板总是为每名员工着想。
   - word: speak
-    exchange: (spoke;spoken)
+    exchange: (spoke，spoken，speaking)
     tags:
       - 小学
     phonetic: 【spiːk】
-    trans: v.(spoke，spoken，speaking)说，讲；谈话；发言
+    trans: v.说，讲；谈话；发言
     usage: 用 1．speak to【with sb.(of】about sth.)与某人谈(某事)2．speak＋语言：Do you speak English? 你讲英语吗？
     test: 考 1．speak out大声地说2．generally speaking一般而言
   - word: master
@@ -11425,10 +11477,11 @@ words:
       - 例 The magician amazed the children with interesting tricks.魔术师有趣的戏法令孩子们惊叹不已。
     reference: 参 amazing(adj.令人惊异的)；amazed(adj.吃惊的，感到惊奇的)
   - word: beat
+    exchange: (beat，beaten，beating)  
     tags:
       - 初中
     phonetic: 【biːt】
-    trans: v.(beat，beaten，beating)打赢；跳动；敲打 n.(音乐)节拍
+    trans: v.打赢；跳动；敲打 n.(音乐)节拍
     samples:
       - 例 Do you think the Rockets will beat the Bulls？你认为火箭队会战胜公牛队吗？
       - 例 My heart missed a beat.我的心跳漏了一拍。
@@ -11450,10 +11503,11 @@ words:
     samples:
       - 例 They cannot afford the medical fee.他们负担不起医药费。
   - word: nod
+    exchange: (nodded，nodded，nodding)  
     tags:
       - 初中
     phonetic: 【nɒd】
-    trans: v./n.(nodded，nodded，nodding)点头
+    trans: v./n.点头
     test: 考 nod at sb.朝某人点头
   - word: access
     tags:
@@ -11617,10 +11671,11 @@ words:
     samples:
       - 例 You've made several grammatical mistakes in the composition.你的作文中有几处语法错误。
   - word: shoot
+    exchange: (shot，shot，shooting)
     tags:
       - 高中
     phonetic: 【ʃuːt】
-    trans: vt.(shot，shot，shooting)射击，射中；摄影 n.嫩枝，苗，芽
+    trans: vt.射击，射中；摄影 n.嫩枝，苗，芽
     tips: 记 联想记忆：sh＋oot(看作root，根)→从根部长出新芽
     samples:
       - 例 Can you shoot that bird at the top of the tree? 你能射中树梢上的那只鸟吗？
@@ -11896,10 +11951,11 @@ words:
     samples:
       - 例 The smile on Alice's face made the pursuer feel that what he has done is worthwhile.艾丽斯脸上的笑容使追求者觉得他所做的都是值得的。
   - word: prefer
+    exchange: (preferred，preferred，preferring)
     tags:
       - 高中
     phonetic: 【prɪˈfɜː】
-    trans: vt.(preferred，preferred，preferring)宁愿(选择)；更喜欢
+    trans: vt.宁愿(选择)；更喜欢
     usage: 用 1．prefer A to B二者之中更喜欢A：I prefer football to baseball.比起棒球，我更喜欢足球。I prefer singing to acting.比起演戏我更喜欢唱歌。注意：本句型中的to是介词。2．prefer to do...更喜欢做…：Some people prefer to drive without wearing a safety belt.有些人开车喜欢不系安全带。注意：本句型中的to是不定式符号。3．prefer to do sth.rather than do sth.宁愿做某事而不愿做某事：I prefer to go to swim rather than stay at home.我宁可去游泳也不愿待在家里。4．prefer sb.(not)to do sth.希望某人(不)做某事5．prefer that sb.(should)do sth.希望某人做某事
     reference: 参 preferable(adj.更可取的，更优越的)；preference(n.偏爱；优先选择)
   - word: fix
@@ -11927,11 +11983,11 @@ words:
       - 例 We aim at quality rather than quantity.我们的目标是质量而非数量。
     test: 考 1．a(large)quantity of＝quantities of大量的(既可修饰可数名词，也可修饰不可数名词)：As a result of destroying the forests，a large quantity of desert has covered the land.由于人类破坏森林，大片沙漠覆盖了土地。2．in quantity大量地：Tom sells drugs wholesale and in quantity.汤姆大量地批发销售药品。
   - word: rise
-    exchange: (rose;risen)
+    exchange: (rose，risen，rising)
     tags:
       - 初中
     phonetic: 【raɪz】
-    trans: vi.(rose，risen，rising)n.上升，上涨
+    trans: vi.n.上升，上涨
     samples:
       - 例 Only with hard work can you expect to get a pay rise.只有努力工作你才有望加薪。
     distinguish: 辨 rise，raise.rise为不及物动词，表示某物自己往上升：The sun rises in the east.太阳从东方升起。而raise为及物动词，可接宾语，可用于被动语态：Raise your hands.举起手来。
@@ -12003,11 +12059,11 @@ words:
     usage: 用 1．though作连词，与although在大多数情况下可以互换使用，但though比较口语化。though前面可以加上even表示“即便，虽然”，although无此用法。She wore a fur coat，even though it was a very hot day.她穿了件皮衣，虽然那天非常热。2．though用作副词，可以放在句中或句末：─How is everything going on with you in Europe? ─Quite well.Not so smoothly as I hoped，though.─你在欧洲一切还好吗？─还好，不过不如我希望的那样顺利。注意：although没有作副词的用法。
     test: 考 1．even though尽管，虽然2．as though(＝as if)好像，仿佛
   - word: become
-    exchange: (became;become)
+    exchange: (became，become，becoming)
     tags:
       - 初中
     phonetic: 【bɪˈkʌm】
-    trans: vt.(became，become，becoming)变得，成为
+    trans: vt.变得，成为
     samples:
       - 例 Helen became an electronic engineer.海伦成了一名电子工程师。
     distinguish: 辨 become，turn.become和turn都可用作系动词，表示“成为，变为”。become后跟单数名词时需用不定冠词，并可接形容词的比较级形式。而turn后接名词时不带冠词，后接形容词时一般不接比较级形式。
@@ -12093,10 +12149,11 @@ words:
       - 例 The dog fetched the stick back.小狗衔回了那根木棒。
       - 例 to fetch a doctor去请医生
   - word: drag
+    exchange: (dragged，dragged，dragging)
     tags:
       - 高中
     phonetic: 【dræɡ】
-    trans: v.(dragged，dragged，dragging)拖，拽
+    trans: v.拖，拽
     samples:
       - 例 Tom dragged the toy duck behind him.汤姆拽着身后的玩具鸭。
   - word: chat
@@ -12204,10 +12261,11 @@ words:
       - 例 Dust blew into my eyes.灰尘吹进我眼睛里了。
     reference: 参 dustman(n.清洁工)；dusty(adj.积满灰尘的)；dustbin(n.垃圾箱)
   - word: beg
+    exchange: (begged，begged，begging)  
     tags:
       - 高中
     phonetic: 【beɡ】
-    trans: v.(begged，begged，begging)请求，乞求
+    trans: v.请求，乞求
     usage: 用 beg sb.to do sth.恳求某人做某事
     test: 考 1．beg one's pardon请求某人的原谅2．beg for sth.乞求某物
     reference: 参 beggar(n.乞丐)
@@ -13469,10 +13527,11 @@ words:
     samples:
       - 例 Alice inserted a cassette into the machine，and it started to sing.艾丽斯把磁带放到了机器里，然后歌曲便开始播放了。
   - word: cast
+    exchange: (cast，cast，casting)
     tags:
       - 高中
     phonetic: 【kɑːst】
-    trans: vt.(cast，cast，casting)扔，抛 n.演员表
+    trans: vt.扔，抛 n.演员表
     samples:
       - 例 The fishermen cast their nets into the sea.渔民向海中撒网。
   - word: casual
@@ -14530,10 +14589,11 @@ words:
       - 例 These women were fighting for the equality between men and women.这些女性在为争取男女平等而斗争。
     reference: 参 equalization(n.平等化)
   - word: equip
+    exchange: (equipped，equipped，equipping)
     tags:
       - 高中
     phonetic: 【ɪˈkwɪp】
-    trans: vt.(equipped，equipped，equipping)装备；训练
+    trans: vt.装备；训练
     reference: 参 equipment(n.装备，设备)
   - word: erupt
     tags:
@@ -14646,10 +14706,11 @@ words:
       - 例 He has lost faith in the government.他已经不再信任政府了。
     reference: 参 faithful(adj.忠实的)
   - word: fancy
+    exchange: (fancied，fancied，fancying)
     tags:
       - 高中
     phonetic: 【ˈfænsi】
-    trans: adj.奇特的；空想的 n.空想，假想 vt.(fancied，fancied，fancying)想象，空想
+    trans: adj.奇特的；空想的 n.空想，假想 vt.想象，空想
     samples:
       - 例 a fancy dress ball化装舞会
   - word: fantasy
@@ -14738,10 +14799,11 @@ words:
     samples:
       - 例 The hunter shone a flashlight on the coming person's face.猎人把手电筒的光打在了对面过来的那个人脸上。
   - word: flee
+    exchange: (fled，fled，fleeing)
     tags:
       - 高中
     phonetic: 【fliː】
-    trans: v.(fled，fled，fleeing)逃走，逃跑
+    trans: v.逃走，逃跑
     samples:
       - 例 The customers fled from the bank when the alarm sounded.警铃响起时，顾客们纷纷从银行跑了出来。
   - word: flexible
@@ -14768,17 +14830,19 @@ words:
     samples:
       - 例 fluency of speech口齿伶俐
   - word: forbid
+    exchange: (forbade，forbidden，forbidding)  
     tags:
       - 高中
     phonetic: 【fəˈbɪd】
-    trans: v.(forbade，forbidden，forbidding)禁止，不许
+    trans: v.禁止，不许
     samples:
       - 例 Smoking is forbidden in the concert hall.音乐厅内禁止吸烟。
   - word: foresee
+    exchange: (foresaw，foreseen，foreseeing)
     tags:
       - 高中
     phonetic: 【fɔːˈsiː】
-    trans: vt.(foresaw，foreseen，foreseeing)预见，预知记词根记忆：fore(预先)＋see(看)→预先看到→预见
+    trans: vt.预见，预知记词根记忆：fore(预先)＋see(看)→预先看到→预见
     samples:
       - 例 The difficulties couldn't have been foreseen.这些困难无法预见。
   - word: fork
@@ -15222,10 +15286,11 @@ words:
     samples:
       - 例 The spring jetted out.泉水喷涌而出。
   - word: jog
+    exchange: (jogged，jogged，jogging)  
     tags:
       - 高中
     phonetic: 【dʒɒɡ】
-    trans: v.(jogged，jogged，jogging)慢跑
+    trans: v.慢跑
     tips: 记 联想记忆：一边慢跑(jog)一边遛狗(dog)
     samples:
       - 例 She likes doing jogging in the morning.她喜欢早上慢跑。
@@ -15534,10 +15599,11 @@ words:
     samples:
       - 例 A monument was erected in St Paul's Cathedral to memorize a great British writer.圣保罗大教堂里竖立着一块纪念碑以纪念一位伟大的英国作家。
   - word: mop
+    exchange: (mopped，mopped，mopping)
     tags:
       - 高中
     phonetic: 【mɒp】
-    trans: v.(mopped，mopped，mopping)用拖把拖地 n.拖把
+    trans: v.用拖把拖地 n.拖把
     tips: 记 联想记忆：著名论坛猫扑的英文就是mop
     samples:
       - 例 The nurse gently mopped the blood from the soldier's wound after he was sent into the ambulance.当士兵被送到救护车上之后，护士轻轻地擦去了他伤口上的血。
@@ -15984,11 +16050,12 @@ words:
     samples:
       - 例 My work is piling up.我的工作越堆越多。
       - 例 The boy piled the boxes on top of the other.男孩儿把箱子一个个地摞在另一个的上面。
-  - word: pin
+  - word: pin 
+    exchange: (pinned，pinned，pinning)
     tags:
       - 高中
     phonetic: 【pɪn】
-    trans: vt.(pinned，pinned，pinning)钉住，别住 n.别针；胸针
+    trans: vt.钉住，别住 n.别针；胸针
     samples:
       - 例 He pinned the announcement up on the bulletin board.他把告示钉在公告栏上。
       - 例 She wore a diamond pin.她佩戴了一枚钻石胸针。
@@ -16000,10 +16067,11 @@ words:
     samples:
       - 例 There is no beer at home.Let's go to the bar for a pint.我们去酒吧喝一品脱啤酒吧，家里没有啤酒了。
   - word: plug
+    exchange: (plugged，plugged，plugging)
     tags:
       - 高中
     phonetic: 【plʌɡ】
-    trans: vt.(plugged，plugged，plugging)把…塞住；接通电源 n.塞子，插头
+    trans: vt.把…塞住；接通电源 n.塞子，插头
     samples:
       - 例 Could you plug the TV set in，please? 请你把电视机的电源插上好吗？
       - 例 The plug doesn't fit the drain.这个塞子和排水口不配套。
@@ -16656,10 +16724,11 @@ words:
     samples:
       - 例 Several days ago，Lucy saw a report on television that a rooster could lay eggs.几天前，露西在电视上看到一则报道：有一只公鸡可以下蛋。
   - word: rot
+    exchange: (rotted，rotted，rotting)  
     tags:
       - 高中
     phonetic: 【rɒt】
-    trans: v.(rotted，rotted，rotting)腐烂，腐败
+    trans: v.腐烂，腐败
     samples:
       - 例 The beams had rotted away.横梁已经腐烂了。
   - word: rough
@@ -16890,10 +16959,11 @@ words:
     samples:
       - 例 Shortly afterwards，the police stopped the car and both thieves were arrested.过了没有多久，警方截住了那辆汽车，两个贼都被抓获了。
   - word: shrink
+    exchange: (shrank，shrunk或shrunk，shrunken)
     tags:
       - 高中
     phonetic: 【ʃrɪŋk】
-    trans: v.(shrank，shrunk或shrunk，shrunken)收缩；缩短
+    trans: v.收缩；缩短
     samples:
       - 例 The pupils of the eyes will automatically shrink in strong light.瞳孔在强光下会自动收缩。
   - word: shuttle
@@ -16942,10 +17012,11 @@ words:
     samples:
       - 例 Cut the meat into thin slices and put them into the hot oil.把肉切成薄片，然后把它们放进热油里。
   - word: slide
+    exchange: (slid，slid，sliding)
     tags:
       - 高中
     phonetic: 【slaɪd】
-    trans: v.(slid，slid，sliding)滑行，滑动 n.幻灯片；滑道
+    trans: v.滑行，滑动 n.幻灯片；滑道
     samples:
       - 例 Some boys are sliding on the ice.一些男孩正在溜冰。
   - word: slim
@@ -16985,10 +17056,11 @@ words:
     samples:
       - 例 She sniffed the drink suspiciously.她怀疑地闻了闻饮料。
   - word: sob
+    exchange: (sobbed，sobbed，sobbing)
     tags:
       - 高中
     phonetic: 【sɒb】
-    trans: n./v.(sobbed，sobbed，sobbing)抽泣，呜咽地说
+    trans: n./v.抽泣，呜咽地说
     tips: 记 联想记忆：不要因为丢了一份工作(job)而哭泣(sob)
     samples:
       - 例 The little Wendy started to sob when she couldn't find her mother.小温迪因为找不到妈妈而哭了起来。
@@ -17044,10 +17116,11 @@ words:
     samples:
       - 例 She brought some souvenirs.她买了一些纪念品。
   - word: sow
+    exchange: (sowed，sowed/sown，sowing)  
     tags:
       - 高中
     phonetic: 【səʊ】
-    trans: v.(sowed，sowed/sown，sowing)播种
+    trans: v.播种
     tips: 记 联想记忆：一排排(row)播种(sow)
     samples:
       - 例 It is important to remove weeds before sowing seeds in the soil.播种前清除杂草是很重要的。
@@ -17081,10 +17154,11 @@ words:
     samples:
       - 例 Don't use words，expressions，or phrases known only to people with specific knowledge.不要使用只有具备专业知识的人才懂的词语或表达方式。
   - word: spin
+    exchange: (spun，spun，spinning)
     tags:
       - 高中
     phonetic: 【spɪn】
-    trans: vt.(spun，spun，spinning)纺纱；旋转 n.旋转
+    trans: vt.纺纱；旋转 n.旋转
     samples:
       - 例 I spun a coin on the table.我在桌子上旋转一枚硬币。
   - word: spirit
@@ -17101,11 +17175,12 @@ words:
     trans: adj.精神的；心灵的
     samples:
       - 例 spiritual civilization精神文明
-  - word: spit
+  - word: spit  
+    exchange: (spat，spat，spitting)
     tags:
       - 高中
     phonetic: 【spɪt】
-    trans: v.(spat，spat，spitting)吐唾沫；吐痰
+    trans: v.吐唾沫；吐痰
     samples:
       - 例 Don't spit.不要随地吐痰。
   - word: splendid
@@ -17117,10 +17192,11 @@ words:
     samples:
       - 例 Peacocks are dressed in feathers of splendid colors.孔雀披着一身灿烂夺目的羽毛。
   - word: split
+    exchange: (split，split，splitting)
     tags:
       - 高中
     phonetic: 【splɪt】
-    trans: vt.(split，split，splitting)撕开，切开
+    trans: vt.撕开，切开
     samples:
       - 例 My trousers split.我的裤子撕破了。
   - word: spoonful
@@ -17267,10 +17343,11 @@ words:
     samples:
       - 例 Our bodies are strengthened by taking exercise.Similarly，our minds are developed by learning.锻炼使我们的身体强壮，同样，学习使我们的头脑发达。
   - word: strike
+    exchange: (struck，struck/stricken，striking)  
     tags:
       - 高中
     phonetic: 【straɪk】
-    trans: vt.(struck，struck/stricken，striking)罢工；侵袭；敲；划燃 n.罢工
+    trans: vt.罢工；侵袭；敲；划燃 n.罢工
     samples:
       - 例 The clock struck as we left.就在我们离开时，钟响了。
       - 例 Train services are now back to normal after last week's strike in New York.上周纽约的罢工结束后，火车恢复了运行。
@@ -17296,10 +17373,11 @@ words:
     samples:
       - 例 style of dress着装风格
   - word: submit
+    exchange: (submitted，submitted，submitting)
     tags:
       - 高中
     phonetic: 【səbˈmɪt】
-    trans: vt.(submitted，submitted，submitting)提交，递交
+    trans: vt.提交，递交
     tips: 记 词根记忆：sub(下级的)＋mit(送)→下级送给上级→提交，递交
     samples:
       - 例 I submitted my papers to the examiner.我把试卷交给了监考人。
@@ -17405,17 +17483,19 @@ words:
     samples:
       - 例 This car accident led to the suspension of traffic on the road.交通事故导致路上的交通暂停了。
   - word: swap
+    exchange: (swapped，swapped，swapping)
     tags:
       - 高中
     phonetic: 【swɒp】
-    trans: v.(swapped，swapped，swapping)交换
+    trans: v.交换
     samples:
       - 例 I'll swap my orange for your apple.我用橙子换你的苹果。
   - word: swear
+    exchange: (swore，sworn，swearing)  
     tags:
       - 高中
     phonetic: 【sweə】
-    trans: v.(swore，sworn，swearing)发誓，诅咒
+    trans: v.发誓，诅咒
     samples:
       - 例 I swear I won't lie to you.我发誓不会对你撒谎。
   - word: swell
@@ -17432,10 +17512,11 @@ words:
     trans: adj.快的，迅速的
     reference: 参 swiftly(adv.很快地，即刻)
   - word: swing
+    exchange: (swung，swung，swinging)
     tags:
       - 高中
     phonetic: 【swɪŋ】
-    trans: v.(swung，swung，swinging)挥舞，摆动 n.秋千
+    trans: v.挥舞，摆动 n.秋千
     tips: 记 容祖儿有一首歌叫《挥着(swing)翅膀(wing)的女孩》
     samples:
       - 例 He swung at me.他朝我挥手。
@@ -18025,10 +18106,11 @@ words:
     samples:
       - 例 What is the upper limit to the human life span? 人类最长能活多久？
   - word: upset
+    exchange: (upset，upset，upsetting)
     tags:
       - 高中
     phonetic: 【ʌpˈset】
-    trans: adj.心烦的，苦恼的 vt.(upset，upset，upsetting)使苦恼
+    trans: adj.心烦的，苦恼的 vt.使苦恼
     tips: 记 词根记忆：up(上)＋set(放置)→心七上八下的→心烦的，苦恼的
     samples:
       - 例 My parents were in a huge argument，and I was really upset about it.我父母吵得很凶，这让我非常苦恼。
@@ -18201,10 +18283,11 @@ words:
     samples:
       - 例 Vote for Johnson—the people's friend! 请投约翰逊一票──他是人民的朋友！
   - word: wag
+    exchange: (wagged，wagged，wagging)  
     tags:
       - 高中
     phonetic: 【wæɡ】
-    trans: v.(wagged，wagged，wagging)摇动，摆动
+    trans: v.摇动，摆动
     samples:
       - 例 The dog was wagging its tail and barking.那只狗摇着尾巴大叫。
   - word: waist
@@ -20673,11 +20756,11 @@ words:
     phonetic: 【læb】
     trans: (＝laboratory)n.实验室
   - word: lead
-    exchange: (led;led)
+    exchange: (led，led，leading)
     tags:
       - 初中
     phonetic: 【liːd】
-    trans: v.(led，led，leading)领导，带领 led n.铅
+    trans: v.领导，带领 led n.铅
   - word: leader
     tags:
       - 初中
@@ -20706,11 +20789,11 @@ words:
     phonetic: 【ˌleməˈneɪd】
     trans: n.柠檬水
   - word: lend
-    exchange: (lent;lent)
+    exchange: (lent，lent，lending)
     tags:
       - 初中
     phonetic: 【lend】
-    trans: vt.(lent，lent，lending)借(出)，把…借给
+    trans: vt.借(出)，把…借给
   - word: letter
     tags:
       - 初中
@@ -22388,10 +22471,11 @@ words:
     phonetic: 【ˈsevrəl】
     trans: pron.几个，数个 adj.若干
   - word: sew
+    exchange: (sewed，sewed，sewn，sewing)
     tags:
       - 高中
     phonetic: 【səʊ】
-    trans: v.(sewed，sewed，sewn，sewing)缝，缝补，缝纫
+    trans: v.缝，缝补，缝纫
   - word: sex
     tags:
       - 高中
@@ -22815,11 +22899,11 @@ words:
     phonetic: 【steɪk】
     trans: n.牛排
   - word: steal
-    exchange: (stole;stolen)
+    exchange: (stole，stolen，stealing)
     tags:
       - 初中
     phonetic: 【stiːl】
-    trans: vt.(stole，stolen，stealing)偷，窃取
+    trans: vt.偷，窃取
   - word: steam
     tags:
       - 高中
@@ -23629,10 +23713,11 @@ words:
     phonetic: 【ˈwaɪldlaɪf】
     trans: n.野生动物
   - word: wind
+    exchange: (wound，wound，winding)
     tags:
       - 初中
     phonetic: 【wɪnd】
-    trans: n.风【waɪnd】vt.(wound，wound，winding)盘绕，旋转
+    trans: n.风【waɪnd】vt.盘绕，旋转
   - word: window
     tags:
       - 小学
