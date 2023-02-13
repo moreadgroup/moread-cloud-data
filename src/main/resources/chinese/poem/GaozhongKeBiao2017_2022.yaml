@@ -1550,46 +1550,65 @@ poems:
         url: https://baike.baidu.com/item/%E4%BA%94%E4%BB%A3%E5%8F%B2%E4%BC%B6%E5%AE%98%E4%BC%A0%E5%BA%8F
         sentences:
           - ancient: 呜呼！盛衰之理，虽曰天命，岂非人事哉！
-            vernacular: xxxx
+            vernacular: 啊！国家的兴盛与衰败的道理，虽说是天意，难道不是人为的缘故吗？
           - ancient: 原庄宗之所以得天下，与其所以失之者，可以知之矣。
-            vernacular: xxxx
+            vernacular: 探究庄宗得天下和失天下的原因，就可以知道了。
       - paragraph: 世言
         url: https://baike.baidu.com/item/%E4%BA%94%E4%BB%A3%E5%8F%B2%E4%BC%B6%E5%AE%98%E4%BC%A0%E5%BA%8F
         sentences:
-          - ancient: 世言晋王之将终也，以三矢赐庄宗而告之曰：“梁，吾仇也；燕王，吾所立，契丹，与吾约为兄弟，而皆背晋以归梁。
-            vernacular: xxxx
+          - ancient: 世言晋王之将终也，以三矢赐庄宗而告之曰：“
+            vernacular: 世人传言晋王李克用临死时，曾把三支箭交给庄宗，并对他说：“
+          - ancient: 梁，吾仇也；
+            vernacular: 梁是我的仇人，
+          - ancient: 燕王，吾所立，
+            vernacular: 燕王是我扶持的，
+          - ancient: 契丹，与吾约为兄弟，而皆背晋以归梁。
+            vernacular: 契丹与我结为兄弟，但都背叛了我而归附于梁。
           - ancient: 此三者，吾遗恨也。
-            vernacular: xxxx
+            vernacular: 这三件事，是我的遗恨。
           - ancient: 与尔三矢，尔其无忘乃父之志！”
-            vernacular: xxxx
+            vernacular: 给你三支箭，希望你不要忘记你父亲报仇的心愿。”
           - ancient: 庄宗受而藏之于庙。
-            vernacular: xxxx
-          - ancient: 其后用兵，则遣从事以一少牢告庙，请其矢，盛以锦囊，负而前驱，及凯旋而纳之。
-            vernacular: xxxx
+            vernacular: 庄宗收下箭藏在宗庙里，
+          - ancient: 其后用兵，则遣从事以一少牢告庙，
+            vernacular: 此后打仗时，就派官员以少牢之礼祭祀于宗庙，
+          - ancient: 请其矢，盛以锦囊，负而前驱，及凯旋而纳之。
+            vernacular: 恭敬地取出箭，放入锦锻织的袋子里，背着它冲杀在前，等打了胜仗，又把箭放回宗庙。
       - paragraph: 方其
         url: https://baike.baidu.com/item/%E4%BA%94%E4%BB%A3%E5%8F%B2%E4%BC%B6%E5%AE%98%E4%BC%A0%E5%BA%8F
         sentences:
-          - ancient: 方其系燕父子以组，函梁君臣之首，入于太庙，还矢先王，而告以成功，其意气之盛，可谓壮哉！
-            vernacular: xxxx
-          - ancient: 及仇雠已灭，天下已定，一夫夜呼，乱者四应，仓皇东出，未及见贼而士卒离散，君臣相顾，不知所归。
-            vernacular: xxxx
+          - ancient: 方其系燕父子以组，函梁君臣之首，入于太庙，
+            vernacular: 当庄宗用绳子捆着燕王父子，用木匣装放着梁王君臣的头颅，进宗庙，
+          - ancient: 还矢先王，而告以成功，其意气之盛，可谓壮哉！
+            vernacular: 把箭交还先王，禀告报仇成功的消息的时候，他意气之盛，可以说是豪壮啊！
+          - ancient: 及仇雠已灭，天下已定，
+            vernacular: 等仇敌已灭，天下平定，
+          - ancient: 一夫夜呼，乱者四应，仓皇东出，
+            vernacular: 一个人在夜间呼喊，叛乱的人四方响应，庄宗慌张东逃，
+          - ancient: 未及见贼而士卒离散，君臣相顾，不知所归。
+            vernacular: 还没等见到敌人，官兵们就离散了，只剩下君臣互相瞧着，不知投奔哪里是好，
           - ancient: 至于誓天断发，泣下沾襟，何其衰也！
-            vernacular: xxxx
-          - ancient: 岂得之难而失之易欤？抑本其成败之迹，而皆自于人欤？
-            vernacular: xxxx
+            vernacular: 以至于剪断头发，对天发誓，眼泪沾湿了衣裳，这又是多么衰败啊！
+          - ancient: 岂得之难而失之易欤？
+            vernacular: 难道真是得天下难而失天下易吗！
+          - ancient: 抑本其成败之迹，而皆自于人欤？
+            vernacular: 还是推究他成功或失败的原因，都在于人为的缘故呢？
+
       - paragraph: 《书
         url: https://baike.baidu.com/item/%E4%BA%94%E4%BB%A3%E5%8F%B2%E4%BC%B6%E5%AE%98%E4%BC%A0%E5%BA%8F
         sentences:
           - ancient: 《书》曰：“满招损，谦得益。”
-            vernacular: xxxx
+            vernacular: 《尚书》说：“自满招致损失，谦虚得到好处。”
           - ancient: 忧劳可以兴国，逸豫可以亡身，自然之理也。
-            vernacular: xxxx
-          - ancient: 故方其盛也，举天下之豪杰莫能与之争；及其衰也，数十伶人困之，而身死国灭，为天下笑。
-            vernacular: xxxx
+            vernacular: 忧患与勤劳可以使国家兴盛，贪图安逸享乐可丧失性命，这是很自然的道理。
+          - ancient: 故方其盛也，举天下之豪杰莫能与之争；
+            vernacular: 所以当庄宗气势旺盛时，天下所有豪杰无人能同他对抗，
+          - ancient: 及其衰也，数十伶人困之，而身死国灭，为天下笑。
+            vernacular: 等到衰败时，几十个伶人就可使他命丧国亡，为天下人所耻笑。
           - ancient: 夫祸患常积于忽微，而智勇多困于所溺，岂独伶人也哉！
-            vernacular: xxxx
+            vernacular: 可见祸患常常是由微小的事情积累而成的，聪明勇敢的人反而常被所溺爱的人或事困扰，难道仅仅是伶人的事吗？
           - ancient: 作《伶官传》。
-            vernacular: xxxx
+            vernacular: 于是作《伶官传》。
   - poem: 石钟山记
     type: 文言文选必
     author: 苏轼
