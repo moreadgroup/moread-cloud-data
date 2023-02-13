@@ -2020,29 +2020,35 @@ poems:
         url: https://baike.baidu.com/item/%E5%A4%A7%E5%AD%A6/5655065
         sentences:
           - ancient: 古之欲明明德于天下者，先治其国。
-            vernacular: xxxx
+            vernacular: 在古代，意欲将高尚的德行弘扬于天下的人，则先要治理好自己的国家；
           - ancient: 欲治其国者，先齐其家。
-            vernacular: xxxx
+            vernacular: 意欲治理好自己国家的人，则先要调整好自己的家庭；
           - ancient: 欲齐其家者，先修其身。
-            vernacular: xxxx
+            vernacular: 意欲调整好自己家庭的人，则先要修养好自身的品德；
           - ancient: 欲修其身者，先正其心。
-            vernacular: xxxx
+            vernacular: 意欲修养好自身品德的人，则先要端正自己的心意；
           - ancient: 欲正其心者，先诚其意。
-            vernacular: xxxx
+            vernacular: 意欲端正自己心意的人，则先要使自己的意念真诚；
           - ancient: 欲诚其意者，先致其知。
-            vernacular: xxxx
+            vernacular: 意欲使自己意念真诚的人，则先要获取知识；
           - ancient: 致知在格物。
-            vernacular: xxxx
-          - ancient: 物格而后知至，知至而后意诚，意诚而后心正，心正而后身修，身修而后家齐，家齐而后国治，国治而后天下平。
-            vernacular: xxxx
+            vernacular: 获取知识的途径则在于探究事理。
+          - ancient: 物格而后知至，知至而后意诚，
+            vernacular: 探究事理后才能获得正确认识，认识正确后才能意念真诚，
+          - ancient: 意诚而后心正，心正而后身修，
+            vernacular: 意念真诚后才能端正心意，心意端正后才能修养好品德，
+          - ancient: 身修而后家齐，家齐而后国治，
+            vernacular: 品德修养好后才能调整好家族，家族调整好后才能治理好国家，
+          - ancient: 国治而后天下平。
+            vernacular: 国家治理好后才能使天下太平。
           - ancient: 自天子以至于庶人，壹是皆以修身为本。
-            vernacular: xxxx
+            vernacular: 从天子到普通百姓，都要把修养品德作为根本。
           - ancient: 其本乱而末治者否矣。
-            vernacular: xxxx
+            vernacular: 人的根本败坏了，末节反倒能调理好，这是不可能的。
           - ancient: 其所厚者薄，而其所薄者厚，未之有也。
-            vernacular: xxxx
+            vernacular: 正像我厚待他人，他人反而慢待我；我慢待他人，他人反而厚待我这样的事情，还未曾有过。
           - ancient: 此谓知本，此谓知之至也。
-            vernacular: xxxx
+            vernacular: 这就叫知道了根本，这就是认知的最高境界。
   - poem: 《中庸》出自《礼记》
     type: 文言文选修
     author: 子思
@@ -2051,16 +2057,30 @@ poems:
       - paragraph: 喜怒
         url: https://baike.baidu.com/item/%E4%B8%AD%E5%BA%B8/5700593
         sentences:
-          - ancient: 喜怒哀乐之未发，谓之中；发而皆中节，谓之和；中也者，天下之大本也；和也者，天下之达道也。
-            vernacular: xxxx
+          - ancient: 喜怒哀乐之未发，谓之中；
+            vernacular: 喜怒哀乐的情绪没有表露出来，这叫做中。
+          - ancient: 发而皆中节，谓之和；
+            vernacular: 表露出来但合干法度，这叫做和。
+          - ancient: 中也者，天下之大本也；
+            vernacular: 中是天下最为根本的，
+          - ancient: 和也者，天下之达道也。
+            vernacular: 和是天下共同遵循的法度。
           - ancient: 致中和，天地位焉，万物育焉。
-            vernacular: xxxx
+            vernacular: 达到了中和，天地便各归其位，万物便生长发育了。
           - ancient: 博学之，审问之，慎思之，明辨之，笃行之。
-            vernacular: xxxx
-          - ancient: 有弗学，学之弗能，弗措也；有弗问，问之弗知，弗措也；有弗思，思之弗得，弗措也；有弗辨，辨之弗明，弗措也；有弗行，行之弗笃，弗措也。
-            vernacular: xxxx
+            vernacular: 要广泛地学习，仔细地询问，审慎地思考，清晰地分辨，忠实地实践。
+          - ancient: 有弗学，学之弗能，弗措也；
+            vernacular: 要么就不学，学了没有学会就不中止。
+          - ancient: 有弗问，问之弗知，弗措也；
+            vernacular: 要么就不问，问了还不明白就不中止。
+          - ancient: 有弗思，思之弗得，弗措也；
+            vernacular: 要么就不思考，思考了不懂得就不中止。
+          - ancient: 有弗辨，辨之弗明，弗措也；
+            vernacular: 要么就不辨别，辨别了不分明就不中止。
+          - ancient: 有弗行，行之弗笃，弗措也。
+            vernacular: 要么就不实行，实行了但不够忠实就不中止。
           - ancient: 人一能之己百之，人十能之己千之。
-            vernacular: xxxx
+            vernacular: 别人一次能做的，我用百倍的工夫，别人十次能做的，我用千倍的工夫。
   - poem: 《孟子》一则
     type: 文言文选修
     author: 孟子
