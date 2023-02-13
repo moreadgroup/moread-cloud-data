@@ -1695,82 +1695,86 @@ poems:
         url: https://baike.baidu.com/item/%E7%99%BB%E6%B3%B0%E5%B1%B1%E8%AE%B0
         sentences:
           - ancient: 泰山之阳，汶水西流；其阴，济水东流。
-            vernacular: xxxx
+            vernacular: 泰山的南面，汶河向西流去；泰山的北面，济水向东流去。
           - ancient: 阳谷皆入汶，阴谷皆入济。
-            vernacular: xxxx
+            vernacular: 南面山谷的水都流入汶水，北面山谷的水都流入济水。
           - ancient: 当其南北分者，古长城也。
-            vernacular: xxxx
+            vernacular: 处在那阳谷和阴谷南北分界处的，是古代春秋时期齐国所筑长城的遗址。
           - ancient: 最高日观峰，在长城南十五里。
-            vernacular: xxxx
+            vernacular: 最高的日观峰，在古长城以南十五里。
       - paragraph: 余以
         url: https://baike.baidu.com/item/%E7%99%BB%E6%B3%B0%E5%B1%B1%E8%AE%B0
         sentences:
           - ancient: 余以乾隆三十九年十二月，自京师乘风雪，历齐河、长清，穿泰山西北谷，越长城之限，至于泰安。
-            vernacular: xxxx
+            vernacular: 我在乾隆三十九年十二月从京城里出发，冒着风雪启程，经过齐河县、长清县，穿过泰山西北面的山谷，跨过长城的城墙，到达泰安。
           - ancient: 是月丁未，与知府朱孝纯子颍由南麓登。
-            vernacular: xxxx
+            vernacular: 这月28日，我和泰安知府朱孝纯从南边的山脚登山。
           - ancient: 四十五里，道皆砌石为磴，其级七千有余。
-            vernacular: xxxx
+            vernacular: 攀行四十五里远，道路都是石板砌成的石级，那些台阶共有七千多级。
       - paragraph: 泰山正
         url: https://baike.baidu.com/item/%E7%99%BB%E6%B3%B0%E5%B1%B1%E8%AE%B0
         sentences:
           - ancient: 泰山正南面有三谷。
-            vernacular: xxxx
+            vernacular: 泰山正南面有三条水道，
           - ancient: 中谷绕泰安城下，郦道元所谓环水也。
-            vernacular: xxxx
+            vernacular: 其中中谷的水环绕泰安城，这就是郦道元书中所说的环水。
           - ancient: 余始循以入，道少半，越中岭，复循西谷，遂至其巅。
-            vernacular: xxxx
+            vernacular: 我起初顺着中谷进去。沿着小路走了不到一半，翻过中岭，再沿着西边的水道走，就到了泰山的巅顶。
           - ancient: 古时登山，循东谷入，道有天门。
-            vernacular: xxxx
+            vernacular: 古时候登泰山，沿着东边的水道进入，道路中有座天门。
           - ancient: 东谷者，古谓之天门溪水，余所不至也。
-            vernacular: xxxx
+            vernacular: 这东边的山谷，古时候称它为“天门溪水”，是我没有到过的。
           - ancient: 今所经中岭及山巅，崖限当道者，世皆谓之天门云。
-            vernacular: xxxx
+            vernacular: 现在我经过的中岭和山顶，挡在路上的像门槛一样的山崖，世上人都称它为“天门”。
           - ancient: 道中迷雾冰滑，磴几不可登。
-            vernacular: xxxx
-          - ancient: 及既上，苍山负雪，明烛天南；望晚日照城郭，汶水、徂徕如画，而半山居雾若带然。
-            vernacular: xxxx
+            vernacular: 一路上大雾弥漫、冰冻溜滑，石阶几乎无法攀登。
+          - ancient: 及既上，苍山负雪，明烛天南；
+            vernacular: 等到已经登上山顶，只见青山上覆盖着白雪，雪光照亮了南面的天空。
+          - ancient: 望晚日照城郭，汶水、徂徕如画，而半山居雾若带然。
+            vernacular: 远望夕阳映照着泰安城，汶水、徂徕山就像是一幅美丽的山水画，停留在半山腰处的云雾，又像是一条舞动的飘带似的。
       - paragraph: 戊申
         url: https://baike.baidu.com/item/%E7%99%BB%E6%B3%B0%E5%B1%B1%E8%AE%B0
         sentences:
           - ancient: 戊申晦，五鼓，与子颍坐日观亭，待日出。
-            vernacular: xxxx
+            vernacular: 戊申这一天是月底，五更的时候，我和子颖坐在日观亭里，等待日出。
           - ancient: 大风扬积雪击面。
-            vernacular: xxxx
+            vernacular: 这时大风扬起的积雪扑面打来。
           - ancient: 亭东自足下皆云漫。
-            vernacular: xxxx
+            vernacular: 日观亭东面从脚底往下一片云雾弥漫，
           - ancient: 稍见云中白若摴蒱数十立者，山也。
-            vernacular: xxxx
+            vernacular: 依稀可见云中几十个白色的像骰子似的东西，那是山峰。
           - ancient: 极天云一线异色，须臾成五采。
-            vernacular: xxxx
+            vernacular: 天边的云彩形成一条线呈现出奇异的颜色，一会儿又变成五颜六色的。
           - ancient: 日上，正赤如丹，下有红光，动摇承之。
-            vernacular: xxxx
+            vernacular: 太阳升上来了，红的像朱砂一样，下面有红光晃动摇荡着托着它。
           - ancient: 或曰，此东海也。
-            vernacular: xxxx
+            vernacular: 有人说，这是东海。
           - ancient: 回视日观以西峰，或得日，或否，绛皓驳色，而皆若偻。
-            vernacular: xxxx
+            vernacular: 回头看日观峰以西的山峰，有的被日光照到，有的没照到，或红或白，颜色错杂，都像弯腰曲背鞠躬致敬的样子。
       - paragraph: 亭西
         url: https://baike.baidu.com/item/%E7%99%BB%E6%B3%B0%E5%B1%B1%E8%AE%B0
         sentences:
           - ancient: 亭西有岱祠，又有碧霞元君祠；皇帝行宫在碧霞元君祠东。
-            vernacular: xxxx
+            vernacular: 日观亭西面有一座东岳大帝庙，又有一座碧霞元君庙。皇帝出外巡行时居住的处所就在碧霞元君庙的东面。
           - ancient: 是日观道中石刻，自唐显庆以来，其远古刻尽漫失。
-            vernacular: xxxx
+            vernacular: 这一天，还观看了路上的石刻，都是从唐朝显庆年间以来的，那些更古老的石碑都已经模糊或缺失了。
           - ancient: 僻不当道者，皆不及往。
-            vernacular: xxxx
+            vernacular: 那些偏僻不对着道路的石刻，都赶不上去看了。
       - paragraph: 山多
         url: https://baike.baidu.com/item/%E7%99%BB%E6%B3%B0%E5%B1%B1%E8%AE%B0
         sentences:
-          - ancient: 山多石，少土；石苍黑色，多平方，少圜。
-            vernacular: xxxx
+          - ancient: 山多石，少土；
+            vernacular: 山上石头多，泥土少。
+          - ancient: 石苍黑色，多平方，少圜。
+            vernacular: 山石都呈青黑色，大多是平的、方形的，很少有圆形的。
           - ancient: 少杂树，多松，生石罅，皆平顶。
-            vernacular: xxxx
+            vernacular: 杂树很少，多是松树，松树都生长在石头的缝隙里，树顶是平的。
           - ancient: 冰雪，无瀑水，无鸟兽音迹。
-            vernacular: xxxx
+            vernacular: 冰天雪地，没有瀑布，没有飞鸟走兽的声音和踪迹。
           - ancient: 至日观数里内无树，而雪与人膝齐。
-            vernacular: xxxx
+            vernacular: 日观峰附近几里以内没有树木，积雪厚得同人的膝盖一样平齐。
           - ancient: 桐城姚鼐记。
-            vernacular: xxxx
+            vernacular: 桐城姚鼐记述。
   - poem: 《老子》上善若水
     type: 文言文选修
     author: 老子
