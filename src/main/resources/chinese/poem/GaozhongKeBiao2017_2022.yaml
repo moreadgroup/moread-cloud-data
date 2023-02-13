@@ -1256,17 +1256,21 @@ poems:
         url: https://baike.baidu.com/item/%E7%A4%BC%E8%BF%90
         sentences:
           - ancient: 大道之行也，与三代之英，丘未之逮也，而有志焉。
-            vernacular: xxxx
+            vernacular: 大道实行的时代，和夏、商、周三代杰出人物当政的时期，我孔丘未能赶得上，但我有志于此。
           - ancient: 大道之行也，天下为公，选贤与能，讲信修睦。
-            vernacular: xxxx
-          - ancient: 故人不独亲其亲，不独子其子，使老有所终，壮有所用，幼有所长，矜寡孤独废疾者皆有所养，男有分，女有归。
-            vernacular: xxxx
+            vernacular: 大道运行的时代，天下是属于大家的，选拔贤能之人当政，相互讲究信用，建立和睦关系。
+          - ancient: 故人不独亲其亲，不独子其子，
+            vernacular: 所以人们不只是把自己的亲人当作亲人，不只是把自己的儿子当作儿子。
+          - ancient: 使老有所终，壮有所用，幼有所长，
+            vernacular: 使老年人得到赡养，壮年人有用武之地，幼年人得到抚养
+          - ancient: 矜寡孤独废疾者皆有所养，男有分，女有归。
+            vernacular: 鳏寡孤独者及身体残疾之人皆得供养，男子有正当职业，女人都适时出嫁。
           - ancient: 货恶其弃于地也，不必藏于己；力恶其不出于身也，不必为己。
-            vernacular: xxxx
+            vernacular: 爱护财货却不必藏于身边；能竭尽其力却不必为自己。
           - ancient: 是故谋闭而不兴，盗窃乱贼而不作，故外户而不闭。
-            vernacular: xxxx
+            vernacular: 因此阴谋诡计不会兴起，偷窃作乱无人去做，所以出外可以不关闭大门。
           - ancient: 是谓大同。
-            vernacular: xxxx
+            vernacular: 这称为大同世界。
   - poem: 陈情表
     type: 文言文选必
     author: 李密
