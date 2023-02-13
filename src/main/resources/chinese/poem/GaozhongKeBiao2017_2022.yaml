@@ -1280,70 +1280,74 @@ poems:
         url: https://baike.baidu.com/item/%E9%99%88%E6%83%85%E8%A1%A8/3075432
         sentences:
           - ancient: 臣密言：臣以险衅，夙遭闵凶。
-            vernacular: xxxx
+            vernacular: 臣子李密陈言：我因为命运不好，很早就遭遇了不幸。
           - ancient: 生孩六月，慈父见背；行年四岁，舅夺母志。
-            vernacular: xxxx
+            vernacular: 刚出生六个月，我慈爱的父亲就去世了。长到四岁，舅舅就逼迫母亲改嫁。
           - ancient: 祖母刘愍臣孤弱，躬亲抚养。
-            vernacular: xxxx
+            vernacular: 祖母刘氏可怜我孤苦弱小，便亲自加以抚养。
           - ancient: 臣少多疾病，九岁不行，零丁孤苦，至于成立。
-            vernacular: xxxx
+            vernacular: 臣小的时候经常生病，九岁时还不会行走，始终孤独无依，直到长大成人。
           - ancient: 既无伯叔，终鲜兄弟，门衰祚薄，晚有儿息。
-            vernacular: xxxx
+            vernacular: 既没有叔叔伯伯，也没有哥哥弟弟，门庭衰微福分又浅，很晚才有了儿子。
           - ancient: 外无期功强近之亲，内无应门五尺之僮，茕茕独立，形影相吊。
-            vernacular: xxxx
+            vernacular: 外面没有关系比较亲近的亲戚，家里也没有照应门户的童仆，一人孤单地独自生活，只有影子作伴。
           - ancient: 而刘夙婴疾病，常在床蓐，臣侍汤药，未曾废离。
-            vernacular: xxxx
+            vernacular: 而祖母刘氏很久前就疾病缠身，经常躺在床上不能起身，臣早晚服侍饮食药物，从来就没有停止侍奉而离开她。
       - paragraph: 逮奉
         url: https://baike.baidu.com/item/%E9%99%88%E6%83%85%E8%A1%A8/3075432
         sentences:
           - ancient: 逮奉圣朝，沐浴清化。
-            vernacular: xxxx
+            vernacular: 到了圣明的朝代，臣身受清明的教化。
           - ancient: 前太守臣逵察臣孝廉；后刺史臣荣举臣秀才。
-            vernacular: xxxx
+            vernacular: 起初有太守逵推选臣为孝廉，后来刺史荣又举荐臣为秀才。
           - ancient: 臣以供养无主，辞不赴命。
-            vernacular: xxxx
+            vernacular: 臣因没有人供养祖母，辞谢不接受任命。
           - ancient: 诏书特下，拜臣郎中，寻蒙国恩，除臣洗马。
-            vernacular: xxxx
+            vernacular: 朝廷又特地下了诏书，任命臣为郎中，不久又蒙受国恩，任命臣为太子洗马。
           - ancient: 猥以微贱，当侍东宫，非臣陨首所能上报。
-            vernacular: xxxx
+            vernacular: 像我这样出身微贱地位卑下的人，担当侍奉太子的职务，这实在不是臣杀身捐躯所能报答的。
           - ancient: 臣具以表闻，辞不就职。
-            vernacular: xxxx
-          - ancient: 诏书切峻，责臣逋慢；郡县逼迫，催臣上道；州司临门，急于星火。
-            vernacular: xxxx
+            vernacular: 臣将以上苦衷上表报告，推辞不去就职。
+          - ancient: 诏书切峻，责臣逋慢；
+            vernacular: 但是诏书急切严厉，责怪臣回避怠慢；
+          - ancient: 郡县逼迫，催臣上道；
+            vernacular: 郡县长官催促逼迫，命令臣即刻启程；
+          - ancient: 州司临门，急于星火。
+            vernacular: 州的长官也登门督促，比流星坠落还要急迫。
           - ancient: 臣欲奉诏奔驰，则刘病日笃；欲苟顺私情，则告诉不许。
-            vernacular: xxxx
+            vernacular: 臣想手捧诏书马上赶路，但因祖母刘氏的病一天比一天重，就想姑且迁就自己的私情，但被告知不被允许。
           - ancient: 臣之进退，实为狼狈。
-            vernacular: xxxx
+            vernacular: 臣的处境进退两难，实在狼狈不堪。
       - paragraph: 伏惟
         url: https://baike.baidu.com/item/%E9%99%88%E6%83%85%E8%A1%A8/3075432
         sentences:
           - ancient: 伏惟圣朝以孝治天下，凡在故老，犹蒙矜育，况臣孤苦，特为尤甚。
-            vernacular: xxxx
+            vernacular: 我俯伏思量圣明的朝代是用孝道来治理天下的，凡是年老而德高的旧臣，尚且还受到怜悯养育，何况臣的孤苦又特别严重呢。
           - ancient: 且臣少仕伪朝，历职郎署，本图宦达，不矜名节。
-            vernacular: xxxx
+            vernacular: 况且臣年轻时曾经做过蜀汉的官，历任郎官衙署之职，本来就希望做官显达，并不顾惜名声节操。
           - ancient: 今臣亡国贱俘，至微至陋，过蒙拔擢，宠命优渥，岂敢盘桓，有所希冀！
-            vernacular: xxxx
+            vernacular: 现在我是一个低贱的亡国俘虏，十分卑微浅陋，受到过分提拔，恩宠优厚，怎敢犹豫不决而有非分的企求呢？
           - ancient: 但以刘日薄西山，气息奄奄，人命危浅，朝不虑夕。
-            vernacular: xxxx
+            vernacular: 只是因为祖母刘氏已像迫近西山的落日，气息微弱，生命垂危，到了早晨不知傍晚的境地。
           - ancient: 臣无祖母，无以至今日；祖母无臣，无以终余年。
-            vernacular: xxxx
+            vernacular: 臣如果没有祖母，就不会活到现在；祖母如果没有臣的照料，也就不能安度余生。
           - ancient: 母孙二人，更相为命，是以区区不能废远。
-            vernacular: xxxx
+            vernacular: 我们祖孙二人，此时更是相依为命，正是出于这种内心的恳切之情才无法离去远行。
       - paragraph: 臣密今
         url: https://baike.baidu.com/item/%E9%99%88%E6%83%85%E8%A1%A8/3075432
         sentences:
           - ancient: 臣密今年四十有四，祖母刘今年九十有六，是臣尽节于陛下之日长，报养刘之日短也。
-            vernacular: xxxx
+            vernacular: 臣李密今年四十四岁，祖母刘氏今年已九十六岁，因此臣为陛下效劳尽节的日子还长着，而报答祖母的日子已经不多了。
           - ancient: 乌鸟私情，愿乞终养。
-            vernacular: xxxx
+            vernacular: 我怀着乌鸦反哺的私情，乞求能够准许臣完成对祖母养老送终的心愿。
           - ancient: 臣之辛苦，非独蜀之人士及二州牧伯所见明知，皇天后土，实所共鉴。
-            vernacular: xxxx
+            vernacular: 臣的辛酸苦楚，不单是蜀地的百姓及益、梁二州的长官所耳闻目睹，就连天地神明也都看得清清楚楚。
           - ancient: 愿陛下矜愍愚诚，听臣微志，庶刘侥幸，保卒余年。
-            vernacular: xxxx
+            vernacular: 希望陛下能怜悯臣愚拙的诚心，请允许臣完成一点小小的心愿，祖母刘氏或许能因此有幸安度余生。
           - ancient: 臣生当陨首，死当结草。
-            vernacular: xxxx
+            vernacular: 臣活着愿杀身报效朝廷，死了也要结草来报答陛下的恩情。
           - ancient: 臣不胜犬马怖惧之情，谨拜表以闻。
-            vernacular: xxxx
+            vernacular: 臣怀着牛马一样不胜恐惧的心情，恭敬地呈上此表来使陛下知道这件事。
   - poem: 归去来兮辞（并序）
     type: 文言文选必
     author: 陶渊明
