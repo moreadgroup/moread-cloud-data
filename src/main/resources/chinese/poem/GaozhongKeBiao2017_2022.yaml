@@ -1867,21 +1867,24 @@ poems:
         url: https://zhuanlan.zhihu.com/p/154463465
         sentences:
           - ancient: 曲则全，枉则直。
-            vernacular: xxxx
+            vernacular: 弯曲反能保全，委屈反能伸直。
           - ancient: 洼则盈，敝则新。
-            vernacular: xxxx
+            vernacular: 低洼反能满盈，破旧反能更新。
           - ancient: 少则得，多则惑。
-            vernacular: xxxx
+            vernacular: 少取反能多得，贪多反而迷惑。
           - ancient: 是以圣人抱一，为天下式。
-            vernacular: xxxx
-          - ancient: 不自见故明，不自是故彰，不自伐故有功，不自矜故长。
-            vernacular: xxxx
+            vernacular: 所以，有道的圣人坚守大道，作为天下的楷模。
+          - ancient: 不自见故明，不自是故彰，
+            vernacular: 不自我表现反而得到表现，不自以为是反而能够彰显，
+          - ancient: 不自伐故有功，不自矜故长。
+            vernacular: 不自我夸耀能有功劳，不自高自大所以能够长久。
           - ancient: 夫唯不争，故天下莫能与之争。
-            vernacular: xxxx
+            vernacular: 正因为不跟人争，天下没谁能与他争。
           - ancient: 古之所谓曲则全者，岂虚言哉！
-            vernacular: xxxx
+            vernacular: 古人所说“曲则全”，难道是假话呢？
           - ancient: 诚全而归之。
-            vernacular: xxxx
+            vernacular: 确实能够让他保全。
+
   - poem: 《老子》跂者不立
     type: 文言文选修
     author: 老子
