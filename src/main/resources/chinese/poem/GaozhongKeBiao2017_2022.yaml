@@ -1939,13 +1939,14 @@ poems:
         url: https://zhuanlan.zhihu.com/p/159448745
         sentences:
           - ancient: 知人者智，自知者明。
-            vernacular: xxxx
+            vernacular: 认识别人可以说是智慧，了解自己才算高明。
           - ancient: 胜人者有力，自胜者强。
-            vernacular: xxxx
+            vernacular: 战胜别人算是有力，战胜自己才算刚强。
           - ancient: 知足者富，强行者有志。
-            vernacular: xxxx
+            vernacular: 知足常乐就是富有，身体力行就是有志。
           - ancient: 不失其所者久，死而不亡者寿。
-            vernacular: xxxx
+            vernacular: 不离失道的根基才能持久，身死而精神长存才是永生。
+
   - poem: 《老子》信言不美
     type: 文言文选修
     author: 老子
@@ -1955,15 +1956,15 @@ poems:
         url: https://baike.baidu.com/item/%E4%BF%A1%E8%A8%80%E4%B8%8D%E7%BE%8E/2246448
         sentences:
           - ancient: 信言不美，美言不信。
-            vernacular: xxxx
+            vernacular: 真实的话听起来不好听，听起来好听的话不真实；
           - ancient: 善者不辩，辩者不善。
-            vernacular: xxxx
+            vernacular: 行为良善的人不狡辩，狡辩的人不善良。
           - ancient: 知者不博，博者不知。
-            vernacular: xxxx
+            vernacular: 真正有学问的人，知道学海无涯，因为处处虚心向别人请教。一知半解的人，以为自己什么都知道，到处卖弄自己。
           - ancient: 圣人不积，既以为人己愈有，既以与人己愈多。
-            vernacular: xxxx
+            vernacular: 圣人没有私心，什么都无保留，他尽量帮助别人，自己反而很充足。
           - ancient: 天之道，利而不害；圣人之道，为而不争。
-            vernacular: xxxx
+            vernacular: 圣人顺天而行，只有贡献施与，不和人家争夺。
   - poem: 季氏将伐颛臾 《论语》
     type: 文言文选修
     author: 孔子及其弟子
