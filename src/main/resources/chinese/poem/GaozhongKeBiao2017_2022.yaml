@@ -1784,13 +1784,26 @@ poems:
         url: https://zhuanlan.zhihu.com/p/149481251
         sentences:
           - ancient: 上善若水。
-            vernacular: xxxx
+            vernacular: 最好的“善”像水一样。
           - ancient: 水善利万物而不争，处众人之所恶， 故几于道。
-            vernacular: xxxx
-          - ancient: 居善地；心善渊；与善仁；言善信；政善治；事善能；动善时。
-            vernacular: xxxx
+            vernacular: 滋润万物而不争，总是处于人们所厌恶的地方，这接近于“道”的特点。
+          - ancient: 居善地；
+            vernacular: 居住善于选择，
+          - ancient: 心善渊；
+            vernacular: 存心幽深而明澈，
+          - ancient: 与善仁；
+            vernacular: 待人真诚友爱，
+          - ancient: 言善信；
+            vernacular: 言行如一讲信用，
+          - ancient: 政善治；
+            vernacular: 为政精于治理，
+          - ancient: 事善能；
+            vernacular: 做事发挥特长，
+          - ancient: 动善时。
+            vernacular: 行动把握时机。
           - ancient: 夫唯不争，故无尤。
-            vernacular: xxxx
+            vernacular: 正因为有不争的美德，所以没有过失，不犯错误。
+
   - poem: 《老子》五色令人目盲
     type: 文言文选修
     author: 老子
@@ -1799,12 +1812,18 @@ poems:
       - paragraph: 五色
         url: https://zhuanlan.zhihu.com/p/150341039
         sentences:
-          - ancient: 五色令人目盲，五音令人耳聋，五味令人口爽，驰骋畋猎令人心发狂，难得之货令人行妨。
-            vernacular: xxxx
+          - ancient: 五色令人目盲，
+            vernacular: 缤纷色彩，令人眼花缭乱；
+          - ancient: 五音令人耳聋，
+            vernacular: 纷繁音乐，令人听觉不灵；
+          - ancient: 五味令人口爽，
+            vernacular: 丰厚饮食，令人味觉迟钝；
+          - ancient: 驰骋畋猎令人心发狂，难得之货令人行妨。
+            vernacular: 纵马驰骋围猎，令人心疯狂；稀罕器物，令人操行变坏。
           - ancient: 是以圣人为腹不为目。
-            vernacular: xxxx
+            vernacular: 因此，有道的人只求安饱而不纵情声色，摒弃物欲的诱惑而安守内心宁静。
           - ancient: 故去彼取此。
-            vernacular: xxxx
+            vernacular: 所以面对外界的诱惑，要有所取舍。
   - poem: 《老子》古之善为士者
     type: 文言文选修
     author: 老子
@@ -1814,17 +1833,31 @@ poems:
         url: https://zhuanlan.zhihu.com/p/150800406
         sentences:
           - ancient: 古之善为士者，微妙玄通，深不可识。
-            vernacular: xxxx
+            vernacular: 古时候懂得“道”的人，微妙幽深而通达权变，令人难以识别。
           - ancient: 夫唯不可识，故强为之容﹕
-            vernacular: xxxx
-          - ancient: 豫兮若冬涉川，犹兮若畏四邻，俨兮其若客，涣兮若冰之将释，敦兮其若朴，旷兮其若谷，浑兮其若浊。
-            vernacular: xxxx
+            vernacular: 正因为难以识别，所以只好勉强来形容。
+          - ancient: 豫兮若冬涉川，
+            vernacular: 他们小心谨慎，像冬天里踏冰过河。
+          - ancient: 犹兮若畏四邻，
+            vernacular: 警惕疑惧，像随时提防周围攻击。
+          - ancient: 俨兮其若客，
+            vernacular: 庄重严肃，像是在做客。
+          - ancient: 涣兮若冰之将释，
+            vernacular: 融和温暖，像冰雪消融。
+          - ancient: 敦兮其若朴，
+            vernacular: 敦厚质朴，像未琢之璞玉。
+          - ancient: 旷兮其若谷，
+            vernacular: 豁达空灵，像深山之幽谷。
+          - ancient: 浑兮其若浊。
+            vernacular: 浑朴厚道，像江水之混浊。
           - ancient: 孰能浊以静之徐清﹖
-            vernacular: xxxx
+            vernacular: 谁能在混浊中安静下来，保持内心澄明？
           - ancient: 孰能安以久动之徐生﹖
-            vernacular: xxxx
-          - ancient: 保此道者不欲盈，夫唯不盈，故能蔽不新成。
-            vernacular: xxxx
+            vernacular: 谁能在长久的安定中变动起来，渐渐前进？
+          - ancient: 保此道者不欲盈，
+            vernacular: 懂得“道”的人，不求圆满。
+          - ancient: 夫唯不盈，故能蔽不新成。
+            vernacular: 正因为不求圆满，所以看似保守，却能不断取得成功。
   - poem: 《老子》曲则全
     type: 文言文选修
     author: 老子
