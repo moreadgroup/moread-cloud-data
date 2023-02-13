@@ -597,40 +597,50 @@ poems:
         url: https://baike.baidu.com/item/%E7%AD%94%E5%8F%B8%E9%A9%AC%E8%B0%8F%E8%AE%AE%E4%B9%A6
         sentences:
           - ancient: 某启：
-            vernacular: xxxx
+            vernacular: 鄙人王安石请启：
           - ancient: 昨日蒙教，窃以为与君实游处相好之日久，而议事每不合，所操之术多异故也。
-            vernacular: xxxx
+            vernacular: 昨天承蒙（您来信）指教，我私下认为与君实您交往相好的日子很久了，但是议论起政事来（意见）常常不一致，（这是因为我们）所持的政治主张和方法大多不同。
           - ancient: 虽欲强聒，终必不蒙见察，故略上报，不复一一自辨。
-            vernacular: xxxx
+            vernacular: 虽然想要（向您）硬啰嗦几句，（但）终究一定（是）不能蒙受（您）考虑（我的意见），所以（我）只是简单地给您写了封回信，不再一一为自己辩解了。
           - ancient: 重念蒙君实视遇厚，于反复不宜卤莽，故今具道所以，冀君实或见恕也。
-            vernacular: xxxx
+            vernacular: 再三考虑君实对我的重视厚遇，在书信往来上不应该粗疏草率，所以现在详细地说出我这样做的理由，希望您或许能够宽恕我吧。
       - paragraph: 盖儒
         url: https://baike.baidu.com/item/%E7%AD%94%E5%8F%B8%E9%A9%AC%E8%B0%8F%E8%AE%AE%E4%B9%A6
         sentences:
-          - ancient: 盖儒者所争，尤在于名实，名实已明，而天下之理得矣。
-            vernacular: xxxx
+          - ancient: 盖儒者所争，尤在于名实。
+            vernacular: 有学问的读书人所争论的问题，特别注重于名义和实际（是否相符）。
+          - ancient: 名实已明，而天下之理得矣。
+            vernacular: 如果名义和实际的关系已经明确了，那么天下的大道理也就清晰了。
           - ancient: 今君实所以见教者，以为侵官、生事、征利、拒谏，以致天下怨谤也。
-            vernacular: xxxx
-          - ancient: 某则以谓：受命于人主，议法度而修之于朝廷，以授之于有司，不为侵官；举先王之政，以兴利除弊，不为生事；为天下理财，不为征利；辟邪说，难壬人，不为拒谏。
-            vernacular: xxxx
+            vernacular: 现在君实您用来指教我的，是认为我（推行新法）侵夺了官吏们的职权，制造了事端，争夺了百姓的财利，拒绝接受不同的意见，因而招致天下人的怨恨和诽谤。
+          - ancient: 某则以谓：受命于人主，议法度而修之于朝廷，以授之于有司，不为侵官；
+            vernacular: 我却认为从皇帝那里接受命令，议订法令制度，又在朝廷上修正（决定），把它交给负有专责的官吏（去执行），（这）不能算是侵夺官权；
+          - ancient: 举先王之政，以兴利除弊，不为生事；
+            vernacular: 实行古代贤明君主的政策，用它来兴办（对天下）有利的事业、消除（种种）弊病，（这）不能算是制造事端；
+          - ancient: 为天下理财，不为征利；辟邪说，难壬人，不为拒谏。
+            vernacular: 为天下治理整顿财政，（这）不能算是（与百姓）争夺财利；抨击不正确的言论，驳斥巧辩的坏人，（这）不能算是拒绝接受（他人的）规劝。
           - ancient: 至于怨诽之多，则固前知其如此也。
-            vernacular: xxxx
+            vernacular: 至于（社会上对我的）那么多怨恨和诽谤，那是我本来早就料到它会这样的。
       - paragraph: 人习
         url: https://baike.baidu.com/item/%E7%AD%94%E5%8F%B8%E9%A9%AC%E8%B0%8F%E8%AE%AE%E4%B9%A6
         sentences:
-          - ancient: 人习于苟且非一日，士大夫多以不恤国事、同俗自媚于众为善，上乃欲变此，而某不量敌之众寡，欲出力助上以抗之，则众何为而不汹汹然？
-            vernacular: xxxx
+          - ancient: 人习于苟且非一日，士大夫多以不恤国事、同俗自媚于众为善，
+            vernacular: 人们习惯于苟且偷安、得过且过（已）不是一天（的事）了。士大夫们多数把不顾国家大事、附和世俗（的见解），向众人献媚讨好当做好事，
+          - ancient: 上乃欲变此，而某不量敌之众寡，欲出力助上以抗之，则众何为而不汹汹然？
+            vernacular: （因而）皇上才要改变这种（不良）风气，那么我不去估量反对者的多少，想拿出（自己的）力量帮助皇上来抵制这股势力，（这样一来）那么那些人又为什么不（对我）大吵大闹呢？
           - ancient: 盘庚之迁，胥怨者民也，非特朝廷士大夫而已。
-            vernacular: xxxx
+            vernacular: 盘庚迁都（的时候），连老百姓都抱怨啊，（并）不只是朝廷上的士大夫（加以反对）；
           - ancient: 盘庚不为怨者故改其度，度义而后动，是而不见可悔故也。
-            vernacular: xxxx
-          - ancient: 如君实责我以在位久，未能助上大有为，以膏泽斯民，则某知罪矣；如曰今日当一切不事事，守前所为而已，则非某之所敢知。
-            vernacular: xxxx
+            vernacular: 盘庚不因为有人怨恨的缘故就改变自己的计划；（这是他）考虑到（迁都）合理，然后坚决行动；认为对（就）看不出有什么可以后悔的缘故啊。
+          - ancient: 如君实责我以在位久，未能助上大有为，以膏泽斯民，则某知罪矣；
+            vernacular: 如果君实您责备我是因为（我）在位任职很久，没能帮助皇上干一番大事业，使这些老百姓得到好处，那么我承认（自己是）有罪的；
+          - ancient: 如曰今日当一切不事事，守前所为而已，则非某之所敢知。
+            vernacular: 如果说现在应该什么事都不去做，墨守前人的陈规旧法就是了，那就不是我敢领教的了。
       - paragraph: 无由
         url: https://baike.baidu.com/item/%E7%AD%94%E5%8F%B8%E9%A9%AC%E8%B0%8F%E8%AE%AE%E4%B9%A6
         sentences:
           - ancient: 无由会晤，不任区区向往之至。
-            vernacular: xxxx
+            vernacular: 没有机会（与您）见面，内心实在仰慕到极点。
   - poem: 赤壁赋
     type: 文言文必修
     author: 苏轼
@@ -640,82 +650,82 @@ poems:
         url: https://baike.baidu.com/item/%E8%B5%A4%E5%A3%81%E8%B5%8B/130
         sentences:
           - ancient: 壬戌之秋，七月既望，苏子与客泛舟游于赤壁之下。
-            vernacular: xxxx
+            vernacular: 壬戌年秋天，七月十六日，我与友人在赤壁下泛舟游玩。
           - ancient: 清风徐来，水波不兴。
-            vernacular: xxxx
+            vernacular: 清风阵阵拂来，水面波澜不起。
           - ancient: 举酒属客，诵明月之诗，歌窈窕之章。
-            vernacular: xxxx
+            vernacular: 举起酒杯向同伴劝酒，吟诵《明月》中“窈窕”这一章。
           - ancient: 少焉，月出于东山之上，徘徊于斗牛之间。
-            vernacular: xxxx
+            vernacular: 不一会儿，明月从东山后升起，在斗宿与牛宿之间缓步徐行。
           - ancient: 白露横江，水光接天。
-            vernacular: xxxx
+            vernacular: 白茫茫的雾气横贯江面，水光连着天际。
           - ancient: 纵一苇之所如，凌万顷之茫然。
-            vernacular: xxxx
+            vernacular: 放纵一片苇叶似的小船随意漂浮，越过茫茫的江面。
           - ancient: 浩浩乎如冯虚御风，而不知其所止；飘飘乎如遗世独立，羽化而登仙。
-            vernacular: xxxx
+            vernacular: 浩浩淼淼好像乘风凌空而行，并不知道到哪里才会停栖，飘飘摇摇好像要离开尘世飘飞而起，羽化成仙进入仙境。
       - paragraph: 于是
         url: https://baike.baidu.com/item/%E8%B5%A4%E5%A3%81%E8%B5%8B/130
         sentences:
           - ancient: 于是饮酒乐甚，扣舷而歌之。
-            vernacular: xxxx
+            vernacular: 在这时喝酒喝得非常高兴，敲着船边唱起歌来。
           - ancient: 歌曰：“桂棹兮兰桨，击空明兮溯流光。
-            vernacular: xxxx
+            vernacular: 歌中唱道：“桂木船棹啊香兰船桨，击打着月光下的清波，在泛着月光的水面逆流而上。
           - ancient: 渺渺兮予怀，望美人兮天一方。
-            vernacular: xxxx
+            vernacular: 我的情思啊悠远茫茫，思念心中的美人啊 [14]  ，却在天的另一方。”
           - ancient: 有吹洞箫者，倚歌而和之。
-            vernacular: xxxx
+            vernacular: 有会吹洞箫的客人，配着节奏为歌声伴和，
           - ancient: 其声呜呜然，如怨如慕，如泣如诉；余音袅袅，不绝如缕。
-            vernacular: xxxx
+            vernacular: 洞箫的声音呜呜咽咽：有如哀怨有如思慕，既像啜泣也像倾诉，余音在江上回荡，像细丝一样连续不断。
           - ancient: 舞幽壑之潜蛟，泣孤舟之嫠妇。
-            vernacular: xxxx
+            vernacular: 能使深谷中的蛟龙为之起舞，能使孤舟上的寡妇为之饮泣。
       - paragraph: 苏子愀
         url: https://baike.baidu.com/item/%E8%B5%A4%E5%A3%81%E8%B5%8B/130
         sentences:
           - ancient: 苏子愀然，正襟危坐，而问客曰：“何为其然也？”
-            vernacular: xxxx
+            vernacular: 我的神色也愁惨起来，整好衣襟坐端正，向客人问道：“箫声为什么这样哀怨呢？”
       - paragraph: 客曰
         url: https://baike.baidu.com/item/%E8%B5%A4%E5%A3%81%E8%B5%8B/130
         sentences:
           - ancient: 客曰：“‘月明星稀，乌鹊南飞。’
-            vernacular: xxxx
+            vernacular: 客人回答：“‘月明星稀，乌鹊南飞’，
           - ancient: 此非曹孟德之诗乎？
-            vernacular: xxxx
+            vernacular: 这不是曹公孟德的诗么？
           - ancient: 西望夏口，东望武昌，山川相缪，郁乎苍苍，此非孟德之困于周郎者乎？
-            vernacular: xxxx
+            vernacular: 这里向西可以望到夏口，向东可以望到武昌，山河接壤连绵不绝，目力所及，一片郁郁苍苍。这不正是曹孟德被周瑜所围困的地方么？
           - ancient: 方其破荆州，下江陵，顺流而东也，舳舻千里，旌旗蔽空，酾酒临江，横槊赋诗，固一世之雄也，而今安在哉？
-            vernacular: xxxx
+            vernacular: 当初他攻陷荆州，夺得江陵，沿长江顺流东下，麾下的战船首尾相连延绵千里，旗子将天空全都蔽住，面对大江斟酒，横执长矛吟诗，本来是当世的一位英雄人物，然而现在又在哪里呢？
           - ancient: 况吾与子渔樵于江渚之上，侣鱼虾而友麋鹿，驾一叶之扁舟，举匏尊（樽）以相属。
-            vernacular: xxxx
+            vernacular: 何况我与你在江中的小洲打渔砍柴，以鱼虾为侣，以麋鹿为友，在江上驾着这一叶小舟，举起杯盏相互敬酒，
           - ancient: 寄蜉蝣于天地，渺沧海之一粟。
-            vernacular: xxxx
+            vernacular: 如同蜉蝣置身于广阔的天地中，像沧海中的一粒粟米那样渺小。
           - ancient: 哀吾生之须臾，羡长江之无穷。
-            vernacular: xxxx
+            vernacular: 唉，哀叹我们的一生只是短暂的片刻，不由羡慕长江的没有穷尽。
           - ancient: 挟飞仙以遨游，抱明月而长终。
-            vernacular: xxxx
+            vernacular: 想要携同仙人携手遨游各地，与明月相拥而永存世间。
           - ancient: 知不可乎骤得，托遗响于悲风。”
-            vernacular: xxxx
+            vernacular: 知道这些终究不能实现，只得将憾恨化为箫音，托寄在悲凉的秋风中罢了。”
       - paragraph: 苏子曰
         url: https://baike.baidu.com/item/%E8%B5%A4%E5%A3%81%E8%B5%8B/130
         sentences:
           - ancient: 苏子曰：“客亦知夫水与月乎？逝者如斯，而未尝往也；盈虚者如彼，而卒莫消长也。
-            vernacular: xxxx
+            vernacular: 我问道：“你可也知道这水与月？时间流逝就像这水，其实并没有真正逝去；时圆时缺的就像这月，终究没有增减。
           - ancient: 盖将自其变者而观之，则天地曾不能以一瞬；自其不变者而观之，则物与我皆无尽也，而又何羡乎！
-            vernacular: xxxx
+            vernacular: 可见，从事物易变的一面看来，那么天地间万事万物时刻在变动，连一眨眼的工夫都不停止；而从事物不变的一面看来，万物同我们来说都是永恒的，又有什么可羡慕的呢？
           - ancient: 且夫天地之间，物各有主，苟非吾之所有，虽一毫而莫取。
-            vernacular: xxxx
+            vernacular: 何况天地之间，万物各有主宰者，若不是自己应该拥有的，即使一分一毫也不能求取。
           - ancient: 惟江上之清风，与山间之明月，耳得之而为声，目遇之而成色，取之无禁，用之不竭。
-            vernacular: xxxx
+            vernacular: 只有江上的清风，以及山间的明月，听到便成了声音，进入眼帘便绘出形色，取得这些不会有人禁止，感受这些也不会有竭尽的忧虑。
           - ancient: 是造物者之无尽藏也，而吾与子之所共适。”
-            vernacular: xxxx
+            vernacular: 这是大自然恩赐的没有穷尽的宝藏，我和你可以共同享受。”
       - paragraph: 客喜
         url: https://baike.baidu.com/item/%E8%B5%A4%E5%A3%81%E8%B5%8B/130
         sentences:
           - ancient: 客喜而笑，洗盏更酌。
-            vernacular: xxxx
+            vernacular: 客人高兴地笑了，洗净酒杯重新斟酒。
           - ancient: 肴核既尽，杯盘狼籍。
-            vernacular: xxxx
+            vernacular: 菜肴果品都已吃完，杯子盘子杂乱一片。
           - ancient: 相与枕藉乎舟中，不知东方之既白。
-            vernacular: xxxx
+            vernacular: 大家互相枕着垫着睡在船上，不知不觉东方已经露出白色的曙光。
   - poem: 项脊轩志
     type: 文言文必修
     author: 归有光
@@ -725,90 +735,94 @@ poems:
         url: https://baike.baidu.com/item/%E9%A1%B9%E8%84%8A%E8%BD%A9%E5%BF%97/1225478
         sentences:
           - ancient: 项脊轩，旧南阁子也。室仅方丈，可容一人居。
-            vernacular: xxxx
+            vernacular: 项脊轩，就是原来的南阁子。室内只有一丈见方，可以容纳一个人居住。
           - ancient: 百年老屋，尘泥渗漉，雨泽下注；每移案，顾视，无可置者。
-            vernacular: xxxx
+            vernacular: 百年老屋，灰尘泥土不断渗滴出水来，雨水也往下流，每每挪移桌子，环顾四周，没有地方可以安置。
           - ancient: 又北向，不能得日，日过午已昏。
-            vernacular: xxxx
+            vernacular: 项脊轩坐南朝北，照不到太阳，每天一过中午屋里就很昏暗。
           - ancient: 余稍为修葺，使不上漏。
-            vernacular: xxxx
+            vernacular: 我稍稍修补了一下，使上面不再掉土漏水，
           - ancient: 前辟四窗，垣墙周庭，以当南日，日影反照，室始洞然。
-            vernacular: xxxx
+            vernacular: 前面开了四个窗子，环绕庭院盖起围墙，用北墙来挡南面的阳光，阳光照在墙上，反射进屋里，屋里才亮堂了。
           - ancient: 又杂植兰桂竹木于庭，旧时栏楯，亦遂增胜。
-            vernacular: xxxx
-          - ancient: 借书满架，偃仰啸歌，冥然兀坐，万籁有声；而庭阶寂寂，小鸟时来啄食，人至不去。
-            vernacular: xxxx
+            vernacular: 又在院里种了兰花、桂花、竹子和其他树木，旧时的栏杆，也就增加了光彩。
+          - ancient: 借书满架，偃仰啸歌，冥然兀坐，万籁有声；
+            vernacular: 借来的书堆满书架，时卧时起，长啸高歌，或者静静地端坐，种种声音都能听到。
+          - ancient: 而庭阶寂寂，小鸟时来啄食，人至不去。
+            vernacular: 庭院的台阶上静悄悄的，小鸟时时来啄食，人过去都不飞走。
           - ancient: 三五之夜，明月半墙，桂影斑驳，风移影动，珊珊可爱。
-            vernacular: xxxx
+            vernacular: 每月十五的夜里，明亮的月光洒满半面墙壁，桂花的影子杂乱地映在墙上，风一吹，影子也跟着摇曳，袅袅婷婷，十分可爱。
       - paragraph: 然余
         url: https://baike.baidu.com/item/%E9%A1%B9%E8%84%8A%E8%BD%A9%E5%BF%97/1225478
         sentences:
           - ancient: 然余居于此，多可喜，亦多可悲。
-            vernacular: xxxx
+            vernacular: 但是我住在这里，有很多可喜的事情，也有很多可悲的事情。
           - ancient: 先是庭中通南北为一。
-            vernacular: xxxx
+            vernacular: 这以前，庭院南北相通，连成一个大院。
           - ancient: 迨诸父异爨，内外多置小门墙，往往而是。
-            vernacular: xxxx
+            vernacular: 等到叔伯们分家以后，里里外外建了许多小门墙，到处都是。
           - ancient: 东犬西吠，客逾庖而宴，鸡栖于厅。
-            vernacular: xxxx
+            vernacular: 东家的狗跑到西家叫，客人得越过厨房去赴宴，鸡蹲在大厅上。
           - ancient: 庭中始为篱，已为墙，凡再变矣。
-            vernacular: xxxx
+            vernacular: 院子里开始是筑起篱笆，后来修了围墙，变了两次。
           - ancient: 家有老妪，尝居于此。
-            vernacular: xxxx
+            vernacular: 家里有一个老婆婆，曾经住在这座轩里。
           - ancient: 妪，先大母婢也，乳二世，先妣抚之甚厚。
-            vernacular: xxxx
+            vernacular: 这个老婆婆，是已故的祖母的婢女，做过两代人的乳母，已故的母亲待她很好。
           - ancient: 室西连于中闺，先妣尝一至。
-            vernacular: xxxx
+            vernacular: 轩西面连着内室，先母曾经来过一次。
           - ancient: 妪每谓余曰：“某所，而母立于兹。”
-            vernacular: xxxx
+            vernacular: 老婆婆不止一次对我说：“这里，就是你母亲站的地方。”
           - ancient: 妪又曰：“汝姊在吾怀，呱呱而泣；娘以指叩门扉曰：‘儿寒乎？欲食乎？’吾从板外相为应答。”
-            vernacular: xxxx
+            vernacular: 她又说：“你姐姐在我怀里，哇哇地哭起来，你母亲就用手指敲敲门说：‘孩子是不是冷了？是不是想吃东西了？’我在门板外和她互相应答……”
           - ancient: 语未毕，余泣，妪亦泣。
-            vernacular: xxxx
+            vernacular: 话还没说完，我就哭起来，老婆婆也跟着哭了。
           - ancient: 余自束发，读书轩中，一日，大母过余曰：“吾儿，久不见若影，何竟日默默在此，大类女郎也？”
-            vernacular: xxxx
+            vernacular: 我从十五岁起在轩中读书。一天，祖母走来对我说：“孩子，好久不见你的踪影，怎么整天静悄悄地呆在这里，像个闺女一样？”
           - ancient: 比去，以手阖门，自语曰：“吾家读书久不效，儿之成，则可待乎！”
-            vernacular: xxxx
+            vernacular: 等到离开时，她用手关上门，自言自语地说：“我们家的人读书老不见成效，这个孩子的功成名就，总可以期待了吧？”
           - ancient: 顷之，持一象笏至，曰：“此吾祖太常公宣德间执此以朝，他日汝当用之！”
-            vernacular: xxxx
+            vernacular: 过了一会儿，她拿着一个象牙手板进来，说：“这是我的祖父太常公在宣德年间拿着上朝用的，以后你一定会用到它。”
           - ancient: 瞻顾遗迹，如在昨日，令人长号不自禁。
-            vernacular: xxxx
-      - paragraph: 然余
+            vernacular: 回忆旧日这些事物，就好像在昨天一样，令人忍不住要放声大哭。
+      - paragraph: 轩东
         url: https://baike.baidu.com/item/%E9%A1%B9%E8%84%8A%E8%BD%A9%E5%BF%97/1225478
         sentences:
-          - ancient: 然余，故尝为厨，人往，从轩前过。
-            vernacular: xxxx
+          - ancient: 轩东，故尝为厨，人往，从轩前过。
+            vernacular: 轩的东面，过去曾经做过厨房，人们到那里去，就要从轩前过。
           - ancient: 余扃牖而居，久之，能以足音辨人。
-            vernacular: xxxx
+            vernacular: 我关着窗子住在里面，久而久之，能通过脚步声分辨是谁。
           - ancient: 轩凡四遭火，得不焚，殆有神护者。
-            vernacular: xxxx
+            vernacular: 这座轩曾遭过四次火灾，能够不被烧掉，大概是有神灵在保佑吧。
       - paragraph: 项脊生
         url: https://baike.baidu.com/item/%E9%A1%B9%E8%84%8A%E8%BD%A9%E5%BF%97/1225478
         sentences:
-          - ancient: 项脊生曰：“蜀清守丹穴，利甲天下，其后秦皇帝筑女怀清台；刘玄德与曹操争天下，诸葛孔明起陇中。
-            vernacular: xxxx
+          - ancient: 项脊生曰：“蜀清守丹穴，利甲天下，其后秦皇帝筑女怀清台；
+            vernacular: 我认为：巴蜀寡妇名叫清的，守着丹砂矿井，得到的好处为天下第一，后来秦始皇为表彰她而筑了女怀清台；
+          - ancient: 刘玄德与曹操争天下，诸葛孔明起陇中。
+            vernacular: 刘备和曹操争夺天下，诸葛孔明从隆中出山建功立业。
           - ancient: 方二人之昧昧于一隅也，世何足以知之，余区区处败屋中，方扬眉、瞬目，谓有奇景。
-            vernacular: xxxx
+            vernacular: 当这两个人无声无息地住在偏僻的地方时，世人哪里能知道他们？我住在这小小的破屋中，当我扬眉眨眼时，认为这破屋中自有不平凡的事物。
           - ancient: 人知之者，其谓与坎井之蛙何异？”
-            vernacular: xxxx
+            vernacular: 知道的人，是不是要说我跟浅薄的浅井之蛙没什么不同？
       - paragraph: 余既
         url: https://baike.baidu.com/item/%E9%A1%B9%E8%84%8A%E8%BD%A9%E5%BF%97/1225478
         sentences:
           - ancient: 余既为此志，后五年，吾妻来归，时至轩中，从余问古事，或凭几学书。
-            vernacular: xxxx
+            vernacular: 我写了这篇记之后，过了五年，我妻子嫁了过来。她时常来到轩中，向我问问古代的事情，或者靠着几案学写字。
           - ancient: 吾妻归宁，述诸小妹语曰：“闻姊家有阁子，且何谓阁子也？”
-            vernacular: xxxx
+            vernacular: 她回娘家去，回来以后转述几个小妹妹的话说：“听说姐姐家有个阁子，那什么叫阁子呢？”
           - ancient: 其后六年，吾妻死，室坏不修。
-            vernacular: xxxx
+            vernacular: 过了六年，我妻子去世了，房屋坏了也没有修理。
           - ancient: 其后二年，余久卧病无聊，乃使人复葺南阁子，其制稍异于前。
-            vernacular: xxxx
+            vernacular: 又过了两年，我长时间生病，没有依靠，于是使人又修整了南阁子，它的形式和以前稍稍有些不同。
           - ancient: 然自后余多在外，不常居。
-            vernacular: xxxx
+            vernacular: 但从此以后我常年在外，不常住在那里了。
       - paragraph: 庭有
         url: https://baike.baidu.com/item/%E9%A1%B9%E8%84%8A%E8%BD%A9%E5%BF%97/1225478
         sentences:
           - ancient: 庭有枇杷树，吾妻死之年所手植也，今已亭亭如盖矣。
-            vernacular: xxxx
+            vernacular: 庭院里有一株枇杷树，是我妻子去世那年她亲手种的，现在已经长得挺拔高大，枝繁叶茂像伞一样了。
   - poem: 子路、曾晳、冉有、公西华侍坐 《论语》
     type: 文言文选必
     author: 春秋时期思想家、教育家孔子的弟子及再传弟子记录孔子及其弟子的言行
@@ -818,51 +832,51 @@ poems:
         url: https://baike.baidu.com/item/%E5%AD%90%E8%B7%AF%E3%80%81%E6%9B%BE%E7%9A%99%E3%80%81%E5%86%89%E6%9C%89%E3%80%81%E5%85%AC%E8%A5%BF%E5%8D%8E%E4%BE%8D%E5%9D%90/5456498
         sentences:
           - ancient: 子路、曾皙xī、冉rǎn有、公西华侍坐。
-            vernacular: xxxx
+            vernacular: 子路、曾皙、冉有、公西华四人在孔子近旁陪坐。
           - ancient: 子曰：“以吾一日长zhǎng乎尔，毋吾以也。
-            vernacular: xxxx
+            vernacular: 孔子说：“因为我年纪比你们大一点，你们不要凭这个原因就不敢说话了。
           - ancient: 居则曰：‘不吾知也。’如或知尔，则何以哉？”
-            vernacular: xxxx
+            vernacular: 你们平日说：‘（别人）不了解我 ！’假如有人了解你们， 那么（你们）打算怎么做呢？”
           - ancient: 子路率尔而对曰：“千乘shèng之国，摄乎大国之间，加之以师旅，因之以饥馑；由也为之，比bì及三年，可使有勇，且知方也。”
-            vernacular: xxxx
+            vernacular: 子路急遽而不加考虑地回答说：“一个拥有一千辆兵车的中等诸侯国，夹在几个大国之间，加上有军队来攻打它，接下来又有饥荒；如果让我治理这个国家，等到三年后，就可以使人有保卫国家的勇气， 而且还懂得合乎礼义的行事准则。”
           - ancient: 夫子哂shěn之。
-            vernacular: xxxx
+            vernacular: 孔子对着他微微一笑。
           - ancient: “求，尔何如？”
-            vernacular: xxxx
+            vernacular: “冉有，你怎么样？”
           - ancient: 对曰：“方六七十，如五六十，求也为之，比及三年，可使足民。如其礼乐，以俟sì君子。”
-            vernacular: xxxx
+            vernacular: 冉有回答说：“ 一个纵横六七十里或者五六十里的国家，如果让我去治理，等到三年后，就可以使老百姓富足起来。至于礼乐教化，自己的能力是不够的，那就得等待君子来推行了。"
           - ancient: “赤，尔何如？”
-            vernacular: xxxx
+            vernacular: “公西华 ，你怎么样？”
           - ancient: 对曰：“非曰能之，愿学焉。宗庙之事，如会同，端章甫，愿为小相焉。”
-            vernacular: xxxx
+            vernacular: 公西华回答说：“我不敢说我能胜任，但愿意在这方面学习。宗庙祭祀的工作，或者是诸侯会盟及朝见 天子的时候 ，我愿意穿着礼服， 戴着礼帽，做一个小司仪。”
           - ancient: “点，尔何如？”
-            vernacular: xxxx
+            vernacular: “曾皙，你怎么样？”
           - ancient: 鼓瑟希，铿kēng尔，舍瑟而作，对曰：“异乎三子者之撰(zhuàn)。”
-            vernacular: xxxx
+            vernacular: 曾皙弹瑟的声音渐渐稀疏下来，铿的一声，放下瑟站起身来 ，回答说： “我和他们三人的志向不一样。"
           - ancient: 子曰：“何伤乎？亦各言其志也！”
-            vernacular: xxxx
+            vernacular: 孔子说："那有什么关系呢 ？也不过是各自谈自己的志向罢了。”
           - ancient: 曰：“莫mù春者，春服既成，冠者五六人，童子六七人，浴乎沂yí，风乎舞雩yú，咏而归。”
-            vernacular: xxxx
+            vernacular: 曾皙回答说:“暮春时节，春天的衣服已经穿定了，（我和）五六个成年人，六七名少年，在沂水游泳后，在舞雩台上吹吹风，唱着歌回家。”
           - ancient: 夫子喟kuì然叹曰：“吾与点也。”
-            vernacular: xxxx
+            vernacular: 孔子长叹一声说 ：“我赞同曾皙啊。”
           - ancient: 三子者出，曾皙后。
-            vernacular: xxxx
+            vernacular: 子路、冉有、公西华都出去了，曾皙最后走。
           - ancient: 曾皙曰：“夫三子者之言何如？”
-            vernacular: xxxx
+            vernacular: 曾皙问孔子：“他们三位的话怎么样？”
           - ancient: 子曰：“亦各言其志也已矣！”
-            vernacular: xxxx
+            vernacular: 孔子说：“也不过是各自谈谈自己的志向罢了！”
           - ancient: 曰：“夫子何哂由也？”
-            vernacular: xxxx
+            vernacular: 曾皙说：“您为什么笑子路呢？”
           - ancient: 曰：“为国以礼，其言不让，是故哂之。”
-            vernacular: xxxx
+            vernacular: 孔子说：“治国要用礼，可是他（子路）的话毫不谦让，所以我笑他。”
           - ancient: “唯求则非邦也与？”
-            vernacular: xxxx
+            vernacular: “难道冉有讲的不是国家大事吗？”
           - ancient: “安见方六七十，如五六十而非邦也者？”
-            vernacular: xxxx
+            vernacular: “怎么见得纵横六七十里或五六十里的地方的事就不是国家大事呢？”
           - ancient: “唯赤则非邦也与？”
-            vernacular: xxxx
+            vernacular: “难道公西华所讲的不是国家大事吗？”
           - ancient: “宗庙会同，非诸侯而何？赤也为之小，孰能为之大？”
-            vernacular: xxxx
+            vernacular: “宗庙祭祀、诸侯会盟和朝见天子，不是诸侯的大事又是什么呢？如果公西华只能给诸侯做一个小相，那么谁又能给诸侯做大相呢？”
   - poem: 报任安书
     type: 文言文选必
     author: 司马迁
