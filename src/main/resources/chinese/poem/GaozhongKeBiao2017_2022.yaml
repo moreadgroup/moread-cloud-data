@@ -1973,36 +1973,44 @@ poems:
       - paragraph: 季氏
         url: https://baike.baidu.com/item/%E5%AD%A3%E6%B0%8F%E5%B0%86%E4%BC%90%E9%A2%9B%E8%87%BE
         sentences:
-          - ancient: 季氏将伐颛臾。冉有、季路见于孔子曰：“季氏将有事于颛臾。”
-            vernacular: xxxx
-          - ancient: 孔子曰：“求！无乃尔是过与？夫颛臾，昔者先王以为东蒙主，且在邦域之中矣，是社稷之臣也。何以伐为？”
-            vernacular: xxxx
+          - ancient: 季氏将伐颛臾。
+            vernacular: 季孙氏将要讨伐颛臾。
+          - ancient: 冉有、季路见于孔子曰：“季氏将有事于颛臾。”
+            vernacular: 冉有、季路拜见孔子说：“季孙氏准备对颛臾采取军事行动。”
+          - ancient: 孔子曰：“求！无乃尔是过与？
+            vernacular: 孔子说：“冉有！我恐怕该责备你了。
+          - ancient: 夫颛臾，昔者先王以为东蒙主，且在邦域之中矣，是社稷之臣也。
+            vernacular: 那颛臾，从前先王把他当作主管东蒙山祭祀的人，而且它地处鲁国境内。这是鲁国的臣属，
+          - ancient: 何以伐为？”
+            vernacular: 为什么要讨伐它呢？”
           - ancient: 冉有曰：“夫子欲之，吾二臣者皆不欲也。”
-            vernacular: xxxx
+            vernacular: 冉有说：“季孙要这么干，我们两个做臣下的都不愿意。”
           - ancient: 孔子曰：“求！周任有言曰：‘陈力就列，不能者止。’
-            vernacular: xxxx
+            vernacular: 孔子说：“冉有！周任有句话说：‘能施展才能就担任那职位，不能这样做则不担任那职务。’
           - ancient: 危而不持，颠而不扶，则将焉用彼相矣？且尔言过矣。
-            vernacular: xxxx
+            vernacular: 盲人遇到危险却不去护持，将要跌倒却不去搀扶，那何必要用那个做相的人呢？况且你的话错了，
           - ancient: 虎兕出于柙，龟玉毁于椟中，是谁之过与？”
-            vernacular: xxxx
+            vernacular: 老虎和犀牛从笼子里跑出，龟甲和玉器在匣子里被毁坏，这是谁的过错呢？”
           - ancient: 冉有曰：“今夫颛臾，固而近于费。
-            vernacular: xxxx
+            vernacular: 冉有说：“如今颛臾城墙坚固而且靠近费城，
           - ancient: 今不取，后世必为子孙忧。”
-            vernacular: xxxx
+            vernacular: 现在不夺取，后世一定会成为子孙们的忧虑。”
           - ancient: 孔子曰：“求！君子疾夫舍曰欲之而必为之辞。
-            vernacular: xxxx
+            vernacular: 孔子说：“冉有！君子厌恶那种不说自己想去做却偏要编造借口来搪塞态度的人。
           - ancient: 丘也闻有国有家者，不患寡而患不均，不患贫而患不安。
-            vernacular: xxxx
+            vernacular: 我听说士大夫都有自己的封地，他们不怕财富不多而怕分配不均匀，不怕民众不多而怕不安定。
           - ancient: 盖均无贫，和无寡，安无倾。
-            vernacular: xxxx
+            vernacular: 财物分配公平合理，就没有贫穷；上下和睦，就不必担心人少；社会安定，国家就没有倾覆的危险。
           - ancient: 夫如是，故远人不服，则修文德以来之。
-            vernacular: xxxx
+            vernacular: 依照这个道理，原来的远方的人不归服，就发扬文治教化来使他归服；
           - ancient: 既来之，则安之。
-            vernacular: xxxx
-          - ancient: 今由与求也，相夫子，远人不服、而不能来也；邦分崩离析、而不能守也：而谋动干戈于邦内。
-            vernacular: xxxx
+            vernacular: 使他来了之后，就要使他安定下来。
+          - ancient: 今由与求也，相夫子，远人不服、而不能来也；
+            vernacular: 如今由与求两人辅佐季孙，远方的人不归服，却不能使他们来；
+          - ancient: 邦分崩离析、而不能守也：而谋动干戈于邦内。
+            vernacular: 国家四分五裂而不能保持它的稳定统一；反而在境内策划兴起干戈。
           - ancient: 吾恐季孙之忧，不在颛臾，而在萧墙之内也。”
-            vernacular: xxxx
+            vernacular: 我恐怕季孙氏的忧虑，不在颛臾，而是在鲁国内部。”
   - poem: 《大学》出自《礼记》
     type: 文言文选修
     author: 曾子
