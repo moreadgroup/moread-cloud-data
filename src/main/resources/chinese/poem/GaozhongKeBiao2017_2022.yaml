@@ -1894,13 +1894,15 @@ poems:
         url: https://zhuanlan.zhihu.com/p/156881173
         sentences:
           - ancient: 企者不立，跨者不行。
-            vernacular: xxxx
-          - ancient: 自见者不明，自是者不彰，自伐者无功，自矜者不长。
-            vernacular: xxxx
+            vernacular: 踮起脚尖走路的人会站不稳，跨步前行的人反而走不快。
+          - ancient: 自见者不明，自是者不彰，
+            vernacular: 自我张显的人不明于道，自以为是的人不善辨析，
+          - ancient: 自伐者无功，自矜者不长。
+            vernacular: 自我夸耀的人少有功劳，自高自大的人不能长久。
           - ancient: 其在道也，曰余食赘行，物或恶之。
-            vernacular: xxxx
+            vernacular: 以“道”的观点来看上面的行为，可以说：“多余的饮食和累赘的行为，鬼神都会厌恶。”
           - ancient: 故有道者不处。
-            vernacular: xxxx
+            vernacular: 所以有“道”的人是不这样做的。
   - poem: 《老子》善行无辙迹
     type: 文言文选修
     author: 老子
