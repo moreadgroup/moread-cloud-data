@@ -2090,33 +2090,39 @@ poems:
         url: https://zhuanlan.zhihu.com/p/470252329
         sentences:
           - ancient: “敢问夫子恶乎长？”
-            vernacular: xxxx
+            vernacular: 公孙丑说：“请问老师您长于哪一方面呢？”
           - ancient: 曰：“我知言，我善养吾浩然之气。”
-            vernacular: xxxx
+            vernacular: 孟子说：“我善于分析别人的言语，我善于培养自己的浩然之气。”
           - ancient: “敢问何谓浩然之气？”
-            vernacular: xxxx
+            vernacular: 公孙丑说：“请问什么叫浩然之气呢？”
           - ancient: 曰：“难言也。
-            vernacular: xxxx
+            vernacular: 孟子说：“这很难用一两句话说清楚。
           - ancient: 其为气也，至大至刚，以直养而无害，则塞于天地之间。
-            vernacular: xxxx
+            vernacular: 这种气，极端浩大，极端有力量，用正直去培养它而不加以伤害，就会充满天地之间。
           - ancient: 其为气也，配义与道；无是，馁也。
-            vernacular: xxxx
+            vernacular: 不过，这种气必须与仁义道德相配，否则就会缺乏力量。
           - ancient: 是集义所生者，非义袭而取之也。
-            vernacular: xxxx
+            vernacular: 而且，必须要有经常性的仁义道德蓄养才能生成，而不是靠偶尔的正义行为就能获取的。
           - ancient: 行有不慊于心，则馁矣。
-            vernacular: xxxx
+            vernacular: 一旦你的行为问心有愧，这种气就会缺乏力量了。
           - ancient: 我故曰，告子未尝知义，以其外之也。
-            vernacular: xxxx
-          - ancient: 必有事焉，而勿正；心勿忘，勿助长也，无若宋人然。
-            vernacular: xxxx
-          - ancient: 宋人有闵其苗之不长而揠之者，芒芒然归，谓其人曰：‘今日病矣！予助苗长矣！’
-            vernacular: xxxx
+            vernacular: 所以我说，告子不懂得义，因为他：把义看成心外的东西。
+          - ancient: 必有事焉，而勿正；
+            vernacular:  我们一定要不断地培养义，
+          - ancient: 心勿忘，勿助长也，无若宋人然。
+            vernacular:  心中不要忘记，但也不要一厢情愿地去帮助它生长。不要像宋人一样：
+          - ancient: 宋人有闵其苗之不长而揠之者，
+            vernacular: 宋国有个人嫌他种的禾苗老是长不高， 于是到地里去用手把它们一株一株地拔高，
+          - ancient: 芒芒然归，谓其人曰：‘今日病矣！予助苗长矣！’
+            vernacular: 累得气喘吁吁地回家， 对他家里人说：‘今天可真把我累坏啦！不过，我总算让禾苗一下子就长高了！’
           - ancient: 其子趋而往视之，苗则槁矣。
-            vernacular: xxxx
+            vernacular: 他的儿子跑到地里去一看，禾苗已全部于死了。
           - ancient: 天下之不助苗长者寡矣。
-            vernacular: xxxx
-          - ancient: 以为无益而舍之者，不耘苗者也；助之长者，揠苗者也——非徒无益，而又害之。”
-            vernacular: xxxx
+            vernacular: 天下人不犯这种拔苗助长错误的是很少的。
+          - ancient: 以为无益而舍之者，不耘苗者也；
+            vernacular: 认为养护庄稼没有用处而不去管它们的，是只种庄稼不除草的懒汉；
+          - ancient: 助之长者，揠苗者也——非徒无益，而又害之。”
+            vernacular: 一厢情愿地去帮助庄稼生长的，就是这种拔苗助长的人－－不仅没有益处，反而害死了庄稼。”
       - paragraph: 何谓
         url: https://zhuanlan.zhihu.com/p/470252329
         sentences:
