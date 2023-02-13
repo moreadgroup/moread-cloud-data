@@ -1911,14 +1911,25 @@ poems:
       - paragraph: 善行
         url: https://zhuanlan.zhihu.com/p/157882759
         sentences:
-          - ancient: 善行无辙迹，善言无瑕谪，善数不用筹策，善闭无关楗而不可开，善结无绳约而不可解。
-            vernacular: xxxx
-          - ancient: 是以圣人常善救人，故无弃人；常善救物，故无弃物，是谓“袭明”。
-            vernacular: xxxx
+          - ancient: 善行无辙迹，
+            vernacular: 善于行走的不留痕迹，
+          - ancient: 善言无瑕谪，
+            vernacular: 善于言谈的不说错话，
+          - ancient: 善数不用筹策，
+            vernacular: 善于计算的不用筹策，
+          - ancient: 善闭无关楗而不可开，
+            vernacular: 善于关闭的不用栓梢却不可打开，
+          - ancient: 善结无绳约而不可解。
+            vernacular: 善于捆缚的不用绳索却不可松解。
+          - ancient: 是以圣人常善救人，故无弃人；
+            vernacular: 因此，圣人总是善于做到人尽其才，没有被遗弃的人；
+          - ancient: 常善救物，故无弃物，是谓“袭明”。
+            vernacular: 圣人总是善于做到物尽其用，没有被废弃的东西，这可以说是含而不露的智慧。
           - ancient: 故善人者，不善人之师；不善人者，善人之资。
-            vernacular: xxxx
+            vernacular: 所以，善人可以作为恶人的师范，恶人可以做善人的借鉴。
           - ancient: 不贵其师，不爱其资，虽智大迷，是谓“要妙”。
-            vernacular: xxxx
+            vernacular: 不懂得标榜师范，不懂得善于借鉴，虽然对善与不善理解很深，自以为聪明，其实是糊涂，这就是精要玄妙的道理。
+
   - poem: 《老子》知人者智
     type: 文言文选修
     author: 老子
