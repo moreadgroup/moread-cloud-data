@@ -3723,24 +3723,24 @@ poems:
         url: https://baike.baidu.com/item/%E6%B1%9F%E5%9F%8E%E5%AD%90%C2%B7%E4%B9%99%E5%8D%AF%E6%AD%A3%E6%9C%88%E4%BA%8C%E5%8D%81%E6%97%A5%E5%A4%9C%E8%AE%B0%E6%A2%A6/7332110
         sentences:
           - ancient: 十年生死两茫茫。
-            vernacular: xxxx
+            vernacular: 你我一生一死，隔绝已十年，
           - ancient: 不思量，自难忘。
-            vernacular: xxxx
+            vernacular: 相互思念却很茫然，无法相见。不想让自己去思念，却难以忘怀。
           - ancient: 千里孤坟，无处话凄凉。
-            vernacular: xxxx
+            vernacular: 你的孤坟远在千里，没有地方跟你诉说心中的凄凉悲伤。
           - ancient: 纵使相逢应不识，尘满面，鬓如霜。
-            vernacular: xxxx
+            vernacular: 即使相逢你也该认不出我了，因为四处奔波，我早已灰尘满面，鬓发如霜。
       - paragraph: 夜来
         url: https://baike.baidu.com/item/%E6%B1%9F%E5%9F%8E%E5%AD%90%C2%B7%E4%B9%99%E5%8D%AF%E6%AD%A3%E6%9C%88%E4%BA%8C%E5%8D%81%E6%97%A5%E5%A4%9C%E8%AE%B0%E6%A2%A6/7332110
         sentences:
           - ancient: 夜来幽梦忽还乡。
-            vernacular: xxxx
+            vernacular: 晚上忽然在梦境中又回到了家乡，
           - ancient: 小轩窗，正梳妆。
-            vernacular: xxxx
+            vernacular: 只见你正在小窗前对镜梳妆。
           - ancient: 相顾无言，惟有泪千行。
-            vernacular: xxxx
+            vernacular: 你我默默相望，千言万语不知从何说起，只有无言的泪水落下千行。
           - ancient: 料得年年肠断处，明月夜，短松冈。
-            vernacular: xxxx
+            vernacular: 料想那明月照耀着的长着小松树的坟山，是你年复一年地思念我而痛欲断肠的地方。
   - poem: 念奴娇·赤壁怀古
     type: 诗词曲
     author: 苏轼
@@ -3750,24 +3750,24 @@ poems:
         url: https://baike.baidu.com/item/%E5%BF%B5%E5%A5%B4%E5%A8%87%C2%B7%E8%B5%A4%E5%A3%81%E6%80%80%E5%8F%A4/847153
         sentences:
           - ancient: 大江东去，浪淘尽，千古风流人物。
-            vernacular: xxxx
+            vernacular: 大江之水滚滚不断向东流去，淘尽了那些千古风流的人物。
           - ancient: 故垒西边，人道是：三国周郎赤壁。
-            vernacular: xxxx
+            vernacular: 在那久远古战场的西边地方，说是三国周瑜破曹军的赤壁。
           - ancient: 乱石穿空，惊涛拍岸，卷起千堆雪。
-            vernacular: xxxx
+            vernacular: 四面石乱山高两岸悬崖如云，惊涛骇浪猛烈地拍打着对岸，卷起浪花仿佛冬日的千堆雪。
           - ancient: 江山如画，一时多少豪杰。
-            vernacular: xxxx
+            vernacular: 江山如此的美丽如图又如画，一时间涌出了多少英雄豪杰。
       - paragraph: 遥想
         url: https://baike.baidu.com/item/%E5%BF%B5%E5%A5%B4%E5%A8%87%C2%B7%E8%B5%A4%E5%A3%81%E6%80%80%E5%8F%A4/847153
         sentences:
           - ancient: 遥想公瑾当年，小乔初嫁了，雄姿英发。
-            vernacular: xxxx
+            vernacular: 遥想当年的周郎名瑜字公瑾，小乔刚刚嫁给了他作为妻子，英姿雄健风度翩翩神采照人。
           - ancient: 羽扇纶巾，谈笑间、樯橹灰飞烟灭。
-            vernacular: xxxx
+            vernacular: 手中执着羽扇头上著着纶巾，从容潇洒地在说笑闲谈之间，八十万曹军如灰飞烟灭一样。
           - ancient: 故国神游，多情应笑我，早生华发。
-            vernacular: xxxx
+            vernacular: 如今我身临古战场神游往昔，可笑我有如此多的怀古柔情，竟如同未老先衰般鬓发斑白。
           - ancient: 人生如梦，一尊还酹江月。
-            vernacular: xxxx
+            vernacular: 人生如同一场朦胧的梦似的，举起酒杯奠祭这万古的明月。
   - poem: 登快阁
     type: 诗词曲
     author: 黄庭坚
