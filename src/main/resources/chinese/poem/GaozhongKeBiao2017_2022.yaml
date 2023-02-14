@@ -2647,58 +2647,86 @@ poems:
         url: https://baike.baidu.com/item/%E4%B8%8A%E6%9E%A2%E5%AF%86%E9%9F%A9%E5%A4%AA%E5%B0%89%E4%B9%A6
         sentences:
           - ancient: 太尉执事：辙生好为文，思之至深。
-            vernacular: xxxx
+            vernacular: 太尉执事：我生性喜好写文章，对此想得很深。
           - ancient: 以为文者气之所形，然文不可以学而能，气可以养而致。
-            vernacular: xxxx
+            vernacular: 我认为文章是气的外在体现，然而文章不是单靠学习就能写好的，气却可以通过培养而得到。
           - ancient: 孟子曰：“我善养吾浩然之气。”
-            vernacular: xxxx
+            vernacular: 孟子说：“我善于培养我的浩然之气。”
           - ancient: 今观其文章，宽厚宏博，充乎天地之间，称其气之小大。
-            vernacular: xxxx
-          - ancient: 太史公行天下，周览四海名山大川，与燕、赵间豪俊交游，故其文疏荡，颇有奇气。
-            vernacular: xxxx
+            vernacular: 现在看他的文章，宽大厚重宏伟博大，充塞于天地之间，同他气的大小相称。
+          - ancient: 太史公行天下，周览四海名山大川，
+            vernacular: 司马迁走遍天下，广览四海名山大川，
+          - ancient: 与燕、赵间豪俊交游，故其文疏荡，颇有奇气。
+            vernacular: 与燕、赵之间的英豪俊杰交友，所以他的文章疏放不羁，颇有奇伟之气。
           - ancient: 此二子者，岂尝执笔学为如此之文哉？
-            vernacular: xxxx
+            vernacular: 这两个人，难道曾经执笔学写这种文章吗？
           - ancient: 其气充乎其中而溢乎其貌，动乎其言而见乎其文，而不自知也。
-            vernacular: xxxx
+            vernacular: 这是因为他们的气充满在内心而溢露到外貌，发于言语而表现为文章，自己却并没有觉察到。
       - paragraph: 辙生
         url: https://baike.baidu.com/item/%E4%B8%8A%E6%9E%A2%E5%AF%86%E9%9F%A9%E5%A4%AA%E5%B0%89%E4%B9%A6
         sentences:
           - ancient: 辙生十有九年矣。
-            vernacular: xxxx
-          - ancient: 其居家所与游者，不过其邻里乡党之人；所见不过数百里之间，无高山大野可登览以自广，百氏之书，虽无所不读，然皆古人之陈迹，不足以激发其志气。
-            vernacular: xxxx
+            vernacular: 我出生已经十九年了。
+          - ancient: 其居家所与游者，不过其邻里乡党之人；
+            vernacular: 我住在家里时，所交往的，不过是邻居同乡这一类人。
+          - ancient: 所见不过数百里之间，无高山大野可登览以自广，
+            vernacular: 所看到的，不过是几百里之内的景物，没有高山旷野可以登临观览以开阔自己的心胸。
+          - ancient: 百氏之书，虽无所不读，
+            vernacular: 诸子百家的书，虽然无所不读，
+          - ancient: 然皆古人之陈迹，不足以激发其志气。
+            vernacular: 但是都是古人过去的东西，不能激发自己的志气。
           - ancient: 恐遂汩没，故决然舍去，求天下奇闻壮观，以知天地之广大。
-            vernacular: xxxx
-          - ancient: 过秦、汉之故都，恣观终南、嵩、华之高，北顾黄河之奔流，慨然想见古之豪杰。
-            vernacular: xxxx
-          - ancient: 至京师，仰观天子宫阙之壮，与仓廪、府库、城池、苑囿之富且大也，而后知天下之巨丽。
-            vernacular: xxxx
-          - ancient: 见翰林欧阳公，听其议论之宏辨，观其容貌之秀伟，与其门人贤士大夫游，而后知天下之文章聚乎此也。
-            vernacular: xxxx
-          - ancient: 太尉以才略冠天下，天下之所恃以无忧，四夷之所惮以不敢发，入则周公、召公，出则方叔、召虎。
-            vernacular: xxxx
+            vernacular: 我担心就此而被埋没，所以断然离开家乡，去寻求天下的奇闻壮观，以便了解天地的广大。
+          - ancient: 过秦、汉之故都，
+            vernacular: 我经过秦朝、汉朝的故都，
+          - ancient: 恣观终南、嵩、华之高，
+            vernacular: 尽情观览终南山、嵩山、华山的高峻，
+          - ancient: 北顾黄河之奔流，慨然想见古之豪杰。
+            vernacular: 向北眺望黄河奔腾的急流，深有感慨地想起了古代的英雄豪杰。
+          - ancient: 至京师，仰观天子宫阙之壮，
+            vernacular: 到了京城，抬头看到天子宫殿的壮丽，
+          - ancient: 与仓廪、府库、城池、苑囿之富且大也，
+            vernacular: 以及粮仓、府库、城池、苑囿的富庶而且巨大，
+          - ancient: 而后知天下之巨丽。
+            vernacular: 这才知道天下的广阔富丽。
+          - ancient: 见翰林欧阳公，听其议论之宏辨，观其容貌之秀伟，
+            vernacular: 见到翰林学士欧阳公，聆听了他宏大雄辩的议论，看到了他秀美奇伟的容貌，
+          - ancient: 与其门人贤士大夫游，而后知天下之文章聚乎此也。
+            vernacular: 同他的学生贤士大夫交游，这才知道天下的文章都汇聚在这里。
+          - ancient: 太尉以才略冠天下，天下之所恃以无忧，四夷之所惮以不敢发，
+            vernacular: 太尉以雄才大略称冠天下，全国人依靠您而无忧无虑，四方异族国家惧怕您而不敢侵犯，
+          - ancient: 入则周公、召公，出则方叔、召虎。
+            vernacular: 在朝廷之内像周公、召公一样辅君有方，领兵出征像方叔、召虎一样御敌立功。
           - ancient: 而辙也未之见焉。
-            vernacular: xxxx
+            vernacular: 可是我至今还未见到您呢。
       - paragraph: 且夫
         url: https://baike.baidu.com/item/%E4%B8%8A%E6%9E%A2%E5%AF%86%E9%9F%A9%E5%A4%AA%E5%B0%89%E4%B9%A6
         sentences:
           - ancient: 且夫人之学也，不志其大，虽多而何为？
-            vernacular: xxxx
-          - ancient: 辙之来也，于山见终南、嵩、华之高，于水见黄河之大且深，于人见欧阳公，而犹以为未见太尉也。
-            vernacular: xxxx
-          - ancient: 故愿得观贤人之光耀，闻一言以自壮，然后可以尽天下之大观而无憾者矣。
-            vernacular: xxxx
+            vernacular: 再说一个人的学习，如果不是有志于大的方面，即使学了很多又有什么用呢？
+          - ancient: 辙之来也，于山见终南、嵩、华之高，
+            vernacular: 我这次来，对于山，看到了终南山、嵩山、华山的高峻；
+          - ancient: 于水见黄河之大且深，
+            vernacular: 对于水，看到了黄河的深广；
+          - ancient: 于人见欧阳公，而犹以为未见太尉也。
+            vernacular: 对于人，看到了欧阳公；可是仍以没有谒见您而为一件憾事。
+          - ancient: 故愿得观贤人之光耀，闻一言以自壮，
+            vernacular: 所以希望能够一睹贤人的风采，就是听到您的一句话也足以激发自己雄心壮志，
+          - ancient: 然后可以尽天下之大观而无憾者矣。
+            vernacular: 这样就算看遍了天下的壮观而不会再有什么遗憾了。
       - paragraph: 辙年
         url: https://baike.baidu.com/item/%E4%B8%8A%E6%9E%A2%E5%AF%86%E9%9F%A9%E5%A4%AA%E5%B0%89%E4%B9%A6
         sentences:
           - ancient: 辙年少，未能通习吏事。
-            vernacular: xxxx
+            vernacular: 我年纪还很轻，还没能够通晓做官的事情。
           - ancient: 向之来，非有取于斗升之禄，偶然得之，非其所乐。
-            vernacular: xxxx
-          - ancient: 然幸得赐归待选，使得优游数年之间，将以益治其文，且学为政。
-            vernacular: xxxx
+            vernacular: 先前来京应试，并不是为了谋取微薄的俸禄，偶然得到了它，也不是自己所喜欢的。
+          - ancient: 然幸得赐归待选，使得优游数年之间，
+            vernacular: 然而有幸得到恩赐还乡，等待吏部的选用，使我能够有几年空闲的时间，
+          - ancient: 将以益治其文，且学为政。
+            vernacular: 将用来更好地研习文章，并且学习从政之道。
           - ancient: 太尉苟以为可教而辱教之，又幸矣！
-            vernacular: xxxx
+            vernacular: 太尉假如认为我还可以教诲而屈尊教导我的话，那我就更感到幸运了。
   - poem: 毛诗序
     type: 古代文论选段
     author: 说法不一，有子夏、卫宏等说
@@ -2708,71 +2736,105 @@ poems:
         url: https://baike.baidu.com/item/%E6%AF%9B%E8%AF%97%E5%BA%8F/10970271
         sentences:
           - ancient: 《关雎》，后妃之德也，风之始也，所以风天下而正夫妇也。
-            vernacular: xxxx
+            vernacular: 《关雎》，是讲后妃美德的诗，是《诗经》国风的第一篇，君王用它来教化天下而矫正夫妇之间的伦理关系。
           - ancient: 故用之乡人焉，用之邦国焉。
-            vernacular: xxxx
+            vernacular: 所以可以用以教化乡村百姓，也可以用以教化诸侯邦国。
           - ancient: 风，风也，教也。
-            vernacular: xxxx
+            vernacular: 风，就是讽谕，教化；
           - ancient: 风以动之，教以化之。
-            vernacular: xxxx
+            vernacular: 用讽谕来感动、教化人们。
       - paragraph: 诗者
         url: https://baike.baidu.com/item/%E6%AF%9B%E8%AF%97%E5%BA%8F/10970271
         sentences:
           - ancient: 诗者，志之所之也。
-            vernacular: xxxx
-          - ancient: 在心为志，发言为诗，情动于中而形于言，言之不足，故嗟叹之；嗟叹之不足，故永歌之；永歌之不足，不知手之舞之，足之蹈之也。
-            vernacular: xxxx
+            vernacular: 诗，是人用来表现志向的，
+          - ancient: 在心为志，发言为诗，
+            vernacular: 在心里叫志向，用语言表达出来就是诗。
+          - ancient: 情动于中而形于言，言之不足，故嗟叹之；
+            vernacular: 情感在心里激荡就会表达为语言，语言不足以表达，就会吁嗟叹息来继续它，
+          - ancient: 嗟叹之不足，故永歌之；
+            vernacular: 吁嗟叹息还不尽情，就会长声歌咏，
+          - ancient: 永歌之不足，不知手之舞之，足之蹈之也。
+            vernacular: 长声歌咏仍不满足，就会情不自禁地手舞足蹈。
       - paragraph: 情发
         url: https://baike.baidu.com/item/%E6%AF%9B%E8%AF%97%E5%BA%8F/10970271
         sentences:
           - ancient: 情发于声，声成文谓之音。
-            vernacular: xxxx
-          - ancient: 治世之音安以乐，其政和；乱世之音怨以怒，其政乖；亡国之音哀以思，其民困。
-            vernacular: xxxx
+            vernacular: 情感表现为声音，声音组成宫、商、角、徵、羽的调子，就是音乐。
+          - ancient: 治世之音安以乐，其政和；
+            vernacular: 太平时代的音乐平和而欢乐，它的政治就平和通畅；
+          - ancient: 乱世之音怨以怒，其政乖；
+            vernacular: 动乱之世的音乐怨恨而愤怒，它的政治就乖戾残暴；
+          - ancient: 亡国之音哀以思，其民困。
+            vernacular: 亡国之时的音乐悲伤而忧思，其国民就困顿。
           - ancient: 故正得失，动天地，感鬼神，莫近于诗。
-            vernacular: xxxx
-          - ancient: 先王以是经夫妇，成孝敬，厚人伦，美教化，移风俗。
-            vernacular: xxxx
+            vernacular: 所以矫正政治的过失，感动天地和鬼神，没有超过诗歌的。
+          - ancient: 先王以是经夫妇，成孝敬，
+            vernacular: 古代的君王正是以诗歌来矫正夫妻之道，培养孝敬，
+          - ancient: 厚人伦，美教化，移风俗。
+            vernacular: 敦厚人伦，完善教化，移风易俗。
       - paragraph: 故诗
         url: https://baike.baidu.com/item/%E6%AF%9B%E8%AF%97%E5%BA%8F/10970271
         sentences:
           - ancient: 故诗有六义焉：一曰风，二曰赋，三曰比，四曰兴，五曰雅，六曰颂。
-            vernacular: xxxx
-          - ancient: 上以风化下，下以风刺上，主文而谲谏，言之者无罪，闻之者足以戒，故曰风。
-            vernacular: xxxx
-          - ancient: 至于王道衰，礼义废，政教失，国异政，家殊俗，而变风变雅作矣。
-            vernacular: xxxx
-          - ancient: 国史明乎得失之迹，伤人伦之废，哀刑政之苛，吟咏情性，以风其上，达于事变而怀其旧俗者也。
-            vernacular: xxxx
+            vernacular: 所以诗有六义：一叫“风”，二叫“赋”，三叫“比”，四叫“兴”，五叫“雅”，六叫“颂”。
+          - ancient: 上以风化下，下以风刺上，
+            vernacular: 天子用“风”来教化平民百姓，平民百姓用“风”来讽谕天子诸侯，
+          - ancient: 主文而谲谏，言之者无罪，
+            vernacular: 用深隐的文辞来作委婉的劝谏，这样写诗的人不会获罪，
+          - ancient: 闻之者足以戒，故曰风。
+            vernacular: 听诗的人足可以警戒，这就叫“风”。
+          - ancient: 至于王道衰，礼义废，
+            vernacular: 至于王道衰微，礼义废弛，
+          - ancient: 政教失，国异政，
+            vernacular: 政教败坏，诸侯各国各自为政，
+          - ancient: 家殊俗，而变风变雅作矣。
+            vernacular: 老百姓家风俗各异，于是“变风”“变雅”的诗就产生了。
+          - ancient: 国史明乎得失之迹，伤人伦之废，
+            vernacular: 国家的史官明白政治败坏的事实，感伤于人伦的废弛，
+          - ancient: 哀刑政之苛，吟咏情性，
+            vernacular: 哀痛刑政的残酷苛刻，于是吟咏自己的情感，
+          - ancient: 以风其上，达于事变而怀其旧俗者也。
+            vernacular: 用来讽谕君上，这是通达政事的变化而又怀念传统风俗的。
           - ancient: 故变风发乎情，止乎礼义。
-            vernacular: xxxx
-          - ancient: 发乎情，民之性也；止乎礼义，先王之泽也。
-            vernacular: xxxx
-          - ancient: 是以一国之事，系一人之本，谓之风；言天下之事，形四方之风，谓之雅。
-            vernacular: xxxx
+            vernacular: 所以“变风”是发于内心的情感，但并不超越礼义的规范。
+          - ancient: 发乎情，民之性也；
+            vernacular: 发于内心的情感是人的天性；
+          - ancient: 止乎礼义，先王之泽也。
+            vernacular: 不超越礼义，是先王教化的恩泽久远。
+          - ancient: 是以一国之事，系一人之本，谓之风；
+            vernacular: 因此，如果诗吟咏一个邦国的事，通过一个人的心意表现出来，就叫作“风”；
+          - ancient: 言天下之事，形四方之风，谓之雅。
+            vernacular: 反映天下的事，表现的是包括各国的风俗，就叫作“雅”。
           - ancient: 雅者，正也，言王政之所由废兴也。
-            vernacular: xxxx
+            vernacular: “雅”，是正的意思，说的是王朝政教兴衰的缘由。
           - ancient: 政有小大，故有小雅焉，有大雅焉。
-            vernacular: xxxx
+            vernacular: 政事有小大之分，所以有的叫“小雅”，有的叫“大雅”。
           - ancient: 颂者，美盛德之形容，以其成功告于神明者也。
-            vernacular: xxxx
+            vernacular: “颂”，就是赞美君王盛德，并将他的成功的事业禀告神灵的。
           - ancient: 是谓四始，诗之至也。
-            vernacular: xxxx
+            vernacular: （“风”“小雅”“大雅”“颂”）这就是“四始”，是诗中最高的了。
       - paragraph: 然则
         url: https://baike.baidu.com/item/%E6%AF%9B%E8%AF%97%E5%BA%8F/10970271
         sentences:
           - ancient: 然则《关雎》《麟趾》之化，王者之风，故系之周公。
-            vernacular: xxxx
+            vernacular: 既然如此，那么《关雎》《麟趾》的教化，原是周文王时的“风”，所以记在周公的名下。
           - ancient: 南，言化自北而南也。
-            vernacular: xxxx
-          - ancient: 《鹊巢》《驺虞》之德，诸侯之风也，先王之所以教，故系之召公。
-            vernacular: xxxx
+            vernacular: “南”的意思，是说教化是从北方到南方的。
+          - ancient: 《鹊巢》《驺虞》之德，诸侯之风也，
+            vernacular: 《鹊巢》《驺虞》的德行，本是邦国诸侯的“风”，
+          - ancient: 先王之所以教，故系之召公。
+            vernacular: 先王用它来教化，所以就记在召公的名下。
           - ancient: 《周南》《召南》，正始之道，王化之基。
-            vernacular: xxxx
-          - ancient: 是以《关雎》乐得淑女，以配君子，忧在进贤，不淫其色；哀窈窕，思贤才，而无伤善之心焉。
-            vernacular: xxxx
+            vernacular: 《周南》《召南》，是规范最初时的标准，是王道教化的基础。
+          - ancient: 是以《关雎》乐得淑女，以配君子，
+            vernacular: 因此，《关雎》是赞美得到贤淑的女子，来匹配给君子的，
+          - ancient: 忧在进贤，不淫其色；
+            vernacular: 忧虑的是如何进举贤才，并非贪恋女色；
+          - ancient: 哀窈窕，思贤才，而无伤善之心焉。
+            vernacular: 怜爱静雅的美女，思念贤良的人才，却没有伤风败俗的邪念。
           - ancient: 是《关雎》之义也。
-            vernacular: xxxx
+            vernacular: 这就是《关雎》的要义。
   - poem: 典论·论文
     type: 古代文论选段
     author: 曹丕
