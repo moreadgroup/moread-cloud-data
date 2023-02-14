@@ -2386,132 +2386,177 @@ poems:
         url: https://baike.baidu.com/item/%E6%BB%95%E7%8E%8B%E9%98%81%E5%BA%8F/480325
         sentences:
           - ancient: 豫章故郡，洪都新府。
-            vernacular: xxxx
+            vernacular: 这里是汉代的南昌郡城，如今是洪州都督府，
           - ancient: 星分翼轸，地接衡庐。
-            vernacular: xxxx
+            vernacular: 天上的方位属于翼、轸两星宿的分野，地上连结着衡山和庐山。
           - ancient: 襟三江而带五湖，控蛮荆而引瓯越。
-            vernacular: xxxx
-          - ancient: 物华天宝，龙光射牛斗之墟；人杰地灵，徐孺下陈蕃之榻。
-            vernacular: xxxx
+            vernacular: 以三江为衣襟，以五湖为衣带，控制楚地，连接闽越。
+          - ancient: 物华天宝，龙光射牛斗之墟；
+            vernacular: 这里有物类精华、天产珍宝，宝剑的光芒直冲上牛、斗二星之间。
+          - ancient: 人杰地灵，徐孺下陈蕃之榻。
+            vernacular: 人中有英杰，大地有灵气，陈蕃专为徐孺设下几榻。
           - ancient: 雄州雾列，俊采星驰。
-            vernacular: xxxx
+            vernacular: 雄伟的洪州城，房屋像雾般罗列，英俊的人才，像繁星一样活跃。
           - ancient: 台隍枕夷夏之交，宾主尽东南之美。
-            vernacular: xxxx
-          - ancient: 都督阎公之雅望，棨戟遥临；宇文新州之懿范，襜帷暂驻。
-            vernacular: xxxx
-          - ancient: 十旬休假，胜友如云；千里逢迎，高朋满座。
-            vernacular: xxxx
-          - ancient: 腾蛟起凤，孟学士之词宗；紫电青霜，王将军之武库。
-            vernacular: xxxx
-          - ancient: 家君作宰，路出名区；童子何知，躬逢胜饯。
-            vernacular: xxxx
+            vernacular: 城池座落在夷夏交界之地，主人与宾客，汇集了东南地区的青年才俊。
+          - ancient: 都督阎公之雅望，棨戟遥临；
+            vernacular: 都督阎公，享有崇高的名望，远道来到洪州坐镇；
+          - ancient: 宇文新州之懿范，襜帷暂驻。
+            vernacular: 宇文州牧，是美德的楷模，赴任途中在此暂留。
+          - ancient: 十旬休假，胜友如云；
+            vernacular: 正逢十旬休假的日子，杰出的朋友云集，
+          - ancient: 千里逢迎，高朋满座。
+            vernacular: 高贵的宾客，也都不远千里来此聚会，
+          - ancient: 腾蛟起凤，孟学士之词宗；
+            vernacular: 文坛领袖孟学士，其文采像腾起的蛟龙、飞舞的彩凤，
+          - ancient: 紫电青霜，王将军之武库。
+            vernacular: 王将军的武库里，藏有像紫电、青霜一样锋利的宝剑。
+          - ancient: 家君作宰，路出名区；
+            vernacular: 父亲在交趾做县令，我在探亲途中路过这方宝地；
+          - ancient: 童子何知，躬逢胜饯。
+            vernacular: 我年幼无知，竟然有幸亲自参加了这次盛大的宴会。
       - paragraph: 时维
         url: https://baike.baidu.com/item/%E6%BB%95%E7%8E%8B%E9%98%81%E5%BA%8F/480325
         sentences:
           - ancient: 时维九月，序属三秋。
-            vernacular: xxxx
+            vernacular: 时值九月深秋，
           - ancient: 潦水尽而寒潭清，烟光凝而暮山紫。
-            vernacular: xxxx
+            vernacular: 积水消尽，潭水清澈，云烟凝结在暮霭中，山峦呈现一片紫色。
           - ancient: 俨骖騑（𬴂）于上路，访风景于崇阿。
-            vernacular: xxxx
+            vernacular: 在高高的山路上驾着马车，在崇山峻岭中访求风景，
           - ancient: 临帝子之长洲，得天人之旧馆。
-            vernacular: xxxx
-          - ancient: 层峦耸翠，上出重霄；飞阁流丹，下临无地。
-            vernacular: xxxx
-          - ancient: 鹤汀凫渚，穷岛屿之萦回；桂殿兰宫，即冈峦之体势。
-            vernacular: xxxx
+            vernacular: 来到昔日帝子的长洲，找到仙人居住过的宫殿，
+          - ancient: 层峦耸翠，上出重霄；
+            vernacular: 这里山峦重叠，山峰耸入云霄。
+          - ancient: 飞阁流丹，下临无地。
+            vernacular: 凌空的楼阁，红色的阁道犹如飞翔在天空，从阁上看深不见底
+          - ancient: 鹤汀凫渚，穷岛屿之萦回；
+            vernacular: 白鹤、野鸭栖息的小洲，极尽岛屿的迂折回环之势，
+          - ancient: 桂殿兰宫，即冈峦之体势。
+            vernacular: 威严的宫殿，依照起伏的山峦而建。
+
       - paragraph: 披绣
         url: https://baike.baidu.com/item/%E6%BB%95%E7%8E%8B%E9%98%81%E5%BA%8F/480325
         sentences:
           - ancient: 披绣闼，俯雕甍，山原旷其盈视，川泽纡其骇瞩。
-            vernacular: xxxx
-          - ancient: 闾阎扑地，钟鸣鼎食之家；舸舰弥津，青雀黄龙之舳。
-            vernacular: xxxx
+            vernacular: 打开雕花的阁门，俯视华美的屋脊。山峰平原尽收眼底，湖川曲折令人惊叹。
+          - ancient: 闾阎扑地，钟鸣鼎食之家；
+            vernacular: 房屋密集，不少富贵人家，
+          - ancient: 舸舰弥津，青雀黄龙之舳。
+            vernacular: 船只塞满了渡口，都是雕刻着青雀黄龙花纹的大船。
           - ancient: 云销雨霁，彩彻区明。
-            vernacular: xxxx
+            vernacular: 雨过天晴，虹消云散，阳光朗照。
           - ancient: 落霞与孤鹜齐飞，秋水共长天一色。
-            vernacular: xxxx
-          - ancient: 渔舟唱晚，响穷彭蠡之滨，雁阵惊寒，声断衡阳之浦。
-            vernacular: xxxx
+            vernacular: 落霞与孤雁一起飞翔，秋水长天连成一片。
+          - ancient: 渔舟唱晚，响穷彭蠡之滨，
+            vernacular: 傍晚渔舟中传来歌声，响彻彭蠡湖滨，
+          - ancient: 雁阵惊寒，声断衡阳之浦。
+            vernacular: 雁群因寒意而长鸣，到衡阳岸边方止。
       - paragraph: 遥襟
         url: https://baike.baidu.com/item/%E6%BB%95%E7%8E%8B%E9%98%81%E5%BA%8F/480325
         sentences:
           - ancient: 遥襟甫畅，逸兴遄飞。
-            vernacular: xxxx
+            vernacular: 放眼远望，心胸顿时舒畅，兴致兴起，
           - ancient: 爽籁发而清风生，纤歌凝而白云遏。
-            vernacular: xxxx
-          - ancient: 睢园绿竹，气凌彭泽之樽；邺水朱华，光照临川之笔。
-            vernacular: xxxx
+            vernacular: 排箫的音响引来了清风，柔缓的歌声令白云陶醉，
+          - ancient: 睢园绿竹，气凌彭泽之樽；
+            vernacular: 像在睢园竹林的聚会，宴会上的人酒量超过陶渊明，
+          - ancient: 邺水朱华，光照临川之笔。
+            vernacular: 像在邺水赞咏莲花，席上人的文采胜过谢灵运。
           - ancient: 四美具，二难并。
-            vernacular: xxxx
+            vernacular: 良辰、美景、赏心、乐事这四种美好的事物都已经齐备，贤主、嘉宾千载难逢。
           - ancient: 穷睇眄于中天，极娱游于暇日。
-            vernacular: xxxx
-          - ancient: 天高地迥，觉宇宙之无穷；兴尽悲来，识盈虚之有数。
-            vernacular: xxxx
+            vernacular: 向天空中远眺，在假日里尽享欢娱，
+          - ancient: 天高地迥，觉宇宙之无穷；
+            vernacular: 天高地远，令人感到宇宙的无穷。
+          - ancient: 兴尽悲来，识盈虚之有数。
+            vernacular: 欢乐逝去，悲哀袭来，我想到了事物的兴衰成败是有定数的。
           - ancient: 望长安于日下，目吴会于云间。
-            vernacular: xxxx
+            vernacular: 远望长安，东看吴会，
           - ancient: 地势极而南溟深，天柱高而北辰远。
-            vernacular: xxxx
-          - ancient: 关山难越，谁悲失路之人；萍水相逢，尽是他乡之客。
-            vernacular: xxxx
+            vernacular: 陆地的尽头是深不可测的大海，北斗星多么遥远，天柱山高不可攀。
+          - ancient: 关山难越，谁悲失路之人；
+            vernacular: 关山重重难以跨越，有谁同情不得志的人？
+          - ancient: 萍水相逢，尽是他乡之客。
+            vernacular: 萍水相逢，大家都是异乡之客。
           - ancient: 怀帝阍而不见，奉宣室以何年？
-            vernacular: xxxx
+            vernacular: 心系朝廷，却不被召见，什么时候才能像贾谊那样去侍奉君王呢？
       - paragraph: 嗟乎
         url: https://baike.baidu.com/item/%E6%BB%95%E7%8E%8B%E9%98%81%E5%BA%8F/480325
         sentences:
           - ancient: 嗟乎！时运不齐，命途多舛。
-            vernacular: xxxx
+            vernacular: 唉！命运不顺，路途艰险。
           - ancient: 冯唐易老，李广难封。
-            vernacular: xxxx
-          - ancient: 屈贾谊于长沙，非无圣主；窜梁鸿于海曲，岂乏明时？
-            vernacular: xxxx
+            vernacular: 冯唐容易老，李广封侯难。
+          - ancient: 屈贾谊于长沙，非无圣主；
+            vernacular: 把贾谊贬到长沙，并不是没有贤明的君主：
+          - ancient: 窜梁鸿于海曲，岂乏明时？
+            vernacular: 梁鸿到海边隐居，难道不是在政治昌明的时代吗？
           - ancient: 所赖君子见机，达人知命。
-            vernacular: xxxx
-          - ancient: 老当益壮，宁移白首之心？穷且益坚，不坠青云之志。
-            vernacular: xxxx
+            vernacular: 不过是君子能够察觉事物的先兆，通达的人知道自己的命数罢了。
+          - ancient: 老当益壮，宁移白首之心？
+            vernacular: 年纪大了应当更有壮志，哪能在白发苍苍时改变自己的心志？
+          - ancient: 穷且益坚，不坠青云之志。
+            vernacular: 处境艰难反该更加坚强，不能放弃凌云之志。
           - ancient: 酌贪泉而觉爽，处涸辙以犹欢。
-            vernacular: xxxx
-          - ancient: 北海虽赊，扶摇可接；东隅已逝，桑榆非晚。
-            vernacular: xxxx
-          - ancient: 孟尝高洁，空余报国之情；阮籍猖狂，岂效穷途之哭！
-            vernacular: xxxx
+            vernacular: 这样即使喝了贪泉的水。仍然觉得心清无尘；处在干涸的车辙中，还能乐观开朗、
+          - ancient: 北海虽赊，扶摇可接；
+            vernacular: 北海虽然遥远，乘着旋风还是可以到达；
+          - ancient: 东隅已逝，桑榆非晚。
+            vernacular: 过去的时光虽然已经消逝，珍惜将来的日子还不算晚。
+          - ancient: 孟尝高洁，空余报国之情；
+            vernacular: 孟尝品行高洁，却空有报国之心；
+          - ancient: 阮籍猖狂，岂效穷途之哭！
+            vernacular: 阮籍狂放不羁，怎能效仿他在无路可走时便恸哭而返？
       - paragraph: 勃，
         url: https://baike.baidu.com/item/%E6%BB%95%E7%8E%8B%E9%98%81%E5%BA%8F/480325
         sentences:
           - ancient: 勃，三尺微命，一介书生。
-            vernacular: xxxx
-          - ancient: 无路请缨，等终军之弱冠；有怀投笔，慕宗悫之长风。
-            vernacular: xxxx
+            vernacular: 我，地位卑微，一个书生，
+          - ancient: 无路请缨，等终军之弱冠；
+            vernacular: 虽然和终军的年龄相同却没有报国的机会；
+          - ancient: 有怀投笔，慕宗悫之长风。
+            vernacular: 像班超那样有投笔从戎的豪情，也有宗悫“乘风破浪”的壮志。
           - ancient: 舍簪笏于百龄，奉晨昏于万里。
-            vernacular: xxxx
+            vernacular: 而今放弃一生的功名，到万里之外去侍奉父亲，
           - ancient: 非谢家之宝树，接孟氏之芳邻。
-            vernacular: xxxx
-          - ancient: 他日趋庭，叨陪鲤对；今兹捧袂，喜托龙门。
-            vernacular: xxxx
-          - ancient: 杨意不逢，抚凌云而自惜；钟期既遇，奏流水以何惭？
-            vernacular: xxxx
+            vernacular: 不是谢玄那样的人才，却结识了诸位名家。
+          - ancient: 他日趋庭，叨陪鲤对；
+            vernacular: 过些天到父亲那里聆听教诲，一定像孔鲤那样有礼；
+          - ancient: 今兹捧袂，喜托龙门。
+            vernacular: 今天有幸参加宴会，如登龙门。
+          - ancient: 杨意不逢，抚凌云而自惜；
+            vernacular: 司马相如倘若没有杨得意的引荐，虽有文才也只能独自叹惋。
+          - ancient: 钟期既遇，奏流水以何惭？
+            vernacular: 既然遇到钟子期那样的知音，演奏高山流水的乐曲又有什么羞愧的呢？
       - paragraph: 呜乎
         url: https://baike.baidu.com/item/%E6%BB%95%E7%8E%8B%E9%98%81%E5%BA%8F/480325
         sentences:
-          - ancient: 呜乎！胜地不常，盛筵难再；兰亭已矣，梓泽丘墟。
-            vernacular: xxxx
-          - ancient: 临别赠言，幸承恩于伟饯；登高作赋，是所望于群公。
-            vernacular: xxxx
-          - ancient: 敢竭鄙怀，恭疏短引；一言均赋，四韵俱成。
-            vernacular: xxxx
+          - ancient: 呜乎！胜地不常，盛筵难再；
+            vernacular: 唉！名胜不能长存，盛宴难逢。
+          - ancient: 兰亭已矣，梓泽丘墟。
+            vernacular: 兰亭集会的盛况已成陈迹，繁华的金谷园也变为废墟。
+          - ancient: 临别赠言，幸承恩于伟饯；
+            vernacular: 有幸参加这次盛宴，故写小文以纪念；
+          - ancient: 登高作赋，是所望于群公。
+            vernacular: 登高作赋，那就指望在座诸公了。
+          - ancient: 敢竭鄙怀，恭疏短引；
+            vernacular: 竭尽心力，恭敬地写下这篇小序，
+          - ancient: 一言均赋，四韵俱成。
+            vernacular: 我的一首四韵小诗也已写成
           - ancient: 请洒潘江，各倾陆海云尔。
-            vernacular: xxxx
-      - paragraph: xxxx
+            vernacular: 请各位像潘岳、陆机那样，展现江海般的文才吧。
+      - paragraph: 滕王
         url: https://baike.baidu.com/item/%E6%BB%95%E7%8E%8B%E9%98%81%E5%BA%8F/480325
         sentences:
           - ancient: 滕王高阁临江渚，佩玉鸣鸾罢歌舞。
-            vernacular: xxxx
+            vernacular: 巍然高大的滕王阁建在江渚之滨，当年滕王宴饮的场面已不再呈现。
           - ancient: 画栋朝飞南浦云，珠帘暮卷西山雨。
-            vernacular: xxxx
+            vernacular: 南浦轻云早晨掠过滕王阁的画栋，西山烟雨傍晚卷起滕王阁的珠帘。
           - ancient: 闲云潭影日悠悠，物换星移几度秋。
-            vernacular: xxxx
+            vernacular: 悠闲的云朵映在潭水上悠然渡过，变换的景物在星空下历数着春秋。
           - ancient: 阁中帝子今何在？槛外长江空自流。
-            vernacular: xxxx
+            vernacular: 修建这滕王阁的帝子在什么地方？只有槛外的长江水滚滚向东流淌。
   - poem: 黄冈竹楼记
     type: 文言文选修
     author: 王禹偁
