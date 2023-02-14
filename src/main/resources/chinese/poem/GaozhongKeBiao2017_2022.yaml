@@ -3946,13 +3946,13 @@ poems:
         url: https://baike.baidu.com/item/%E8%8F%A9%E8%90%A8%E8%9B%AE%C2%B7%E4%B9%A6%E6%B1%9F%E8%A5%BF%E9%80%A0%E5%8F%A3%E5%A3%81
         sentences:
           - ancient: 郁孤台下清江水，中间多少行人泪。
-            vernacular: xxxx
+            vernacular: 郁孤台下这赣江的水，水中有多少行人的眼泪。
           - ancient: 西北望长安，可怜无数山。
-            vernacular: xxxx
+            vernacular: 我举头眺望西北的长安，可惜只看到无数青山。
           - ancient: 青山遮不住，毕竟东流去。
-            vernacular: xxxx
+            vernacular: 但青山怎能把江水挡住？江水毕竟还会向东流去。
           - ancient: 江晚正愁余，山深闻鹧鸪。
-            vernacular: xxxx
+            vernacular: 夕阳西下我正满怀愁绪，听到深山里传来鹧鸪的鸣叫声。
   - poem: 青玉案·元夕
     type: 诗词曲
     author: 辛弃疾
@@ -3962,24 +3962,24 @@ poems:
         url: https://baike.baidu.com/item/%E9%9D%92%E7%8E%89%E6%A1%88%C2%B7%E5%85%83%E5%A4%95/2582543
         sentences:
           - ancient: 东风夜放花千树。
-            vernacular: xxxx
+            vernacular: 像春风吹开了千树银花，
           - ancient: 更吹落，星如雨。
-            vernacular: xxxx
+            vernacular: 又像满天繁星雨点般落下。
           - ancient: 宝马雕车香满路。
-            vernacular: xxxx
+            vernacular: 宝马拉着的彩车奇香四溢，都是来观灯的富贵人家。
           - ancient: 凤箫声动，玉壶光转，一夜鱼龙舞。
-            vernacular: xxxx
+            vernacular: 悠扬的箫声四处回荡，皎洁的明月渐渐西斜，鱼龙彩灯欢快飞舞，通宵达旦不觉困乏。
       - paragraph: 蛾儿
         url: https://baike.baidu.com/item/%E9%9D%92%E7%8E%89%E6%A1%88%C2%B7%E5%85%83%E5%A4%95/2582543
         sentences:
           - ancient: 蛾儿雪柳黄金缕。
-            vernacular: xxxx
+            vernacular: 女子们打扮得似玉如花，蛾儿雪柳头上遍插，
           - ancient: 笑语盈盈暗香去。
-            vernacular: xxxx
+            vernacular: 笑语盈盈地走过，一路上香气飘洒。
           - ancient: 众里寻他千百度。
-            vernacular: xxxx
+            vernacular: 我焦急地把她寻找，在人群中找了千百回也不见她。
           - ancient: 蓦然回首，那人却在，灯火阑珊处。
-            vernacular: xxxx
+            vernacular: 突然间我一回头，不经意间却在灯火稀疏之处发现了她。
   - poem: 贺新郎·国脉微如缕
     type: 诗词曲
     author: 刘克庄
