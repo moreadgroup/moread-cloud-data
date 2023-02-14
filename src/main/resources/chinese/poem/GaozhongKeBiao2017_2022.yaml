@@ -3809,15 +3809,19 @@ poems:
         url: https://baike.baidu.com/item/%E8%8B%8F%E5%B9%95%E9%81%AE%C2%B7%E7%87%8E%E6%B2%88%E9%A6%99/6528191
         sentences:
           - ancient: 燎沈香，消溽暑。
-            vernacular: xxxx
+            vernacular: 细焚沉香，来消除夏天闷热潮湿的暑气。
           - ancient: 鸟雀呼晴，侵晓窥檐语。
-            vernacular: xxxx
+            vernacular: 鸟雀鸣叫呼唤着晴天，拂晓时分鸟儿东张西望的在屋檐下的“言语”。
           - ancient: 叶上初阳干宿雨，水面清圆，一一风荷举。
-            vernacular: xxxx
-          - ancient: 故乡遥，何日去？家住吴门，久作长安旅。
-            vernacular: xxxx
-          - ancient: 五月渔郎相忆否？小楫轻舟，梦入芙蓉浦。
-            vernacular: xxxx
+            vernacular: 荷叶上初出的阳光晒干了昨夜的雨，水面上的荷花清润圆正，荷叶迎着晨风，每一片荷叶都挺出水面。
+          - ancient: 故乡遥，何日去？
+            vernacular: 看到这风景，我想到遥远的故乡，何日才能回去啊？
+          - ancient: 家住吴门，久作长安旅。
+            vernacular: 我家本在吴越一带，长久地客居长安。
+          - ancient: 五月渔郎相忆否？
+            vernacular: 五月，我故乡的小时候的伙伴是否在想我，
+          - ancient: 小楫轻舟，梦入芙蓉浦。
+            vernacular: 划着一叶扁舟，在我的梦中来到了过去的杭州西湖荷花塘。
   - poem: 声声慢·寻寻觅觅
     type: 诗词曲
     author: 李清照
@@ -3827,26 +3831,26 @@ poems:
         url: https://baike.baidu.com/item/%E5%A3%B0%E5%A3%B0%E6%85%A2%C2%B7%E5%AF%BB%E5%AF%BB%E8%A7%85%E8%A7%85/10912390
         sentences:
           - ancient: 寻寻觅觅，冷冷清清，凄凄惨惨戚戚。
-            vernacular: xxxx
+            vernacular: 苦苦地寻寻觅觅，却只见冷冷清清，让人凄凄惨惨戚戚。
           - ancient: 乍暖还寒时候，最难将息。
-            vernacular: xxxx
+            vernacular: 忽寒忽暖季节，最难调养安息。
           - ancient: 三杯两盏淡酒，怎敌他、晚来风急？
-            vernacular: xxxx
+            vernacular: 喝三两杯淡酒，怎么抵得住晚上风急？
           - ancient: 雁过也，正伤心，却是旧时相识。
-            vernacular: xxxx
+            vernacular: 正伤心的时候，大雁过去了，它却是我旧日的相识。
       - paragraph: 满地
         url: https://baike.baidu.com/item/%E5%A3%B0%E5%A3%B0%E6%85%A2%C2%B7%E5%AF%BB%E5%AF%BB%E8%A7%85%E8%A7%85/10912390
         sentences:
           - ancient: 满地黄花堆积。
-            vernacular: xxxx
+            vernacular: 菊花谢落，满地堆积，
           - ancient: 憔悴损，如今有谁堪摘？
-            vernacular: xxxx
+            vernacular: 憔悴枯黄，如今有谁还会来摘？
           - ancient: 守着窗儿，独自怎生得黑？
-            vernacular: xxxx
+            vernacular: 守着窗户，一个人怎么能捱到天黑？
           - ancient: 梧桐更兼细雨，到黄昏、点点滴滴。
-            vernacular: xxxx
+            vernacular: 更加上细雨落在梧桐叶上，到黄昏还点点滴滴不停息。
           - ancient: 这次第，怎一个愁字了得！
-            vernacular: xxxx
+            vernacular: 这光景，怎么能用一个愁字了结！
   - poem: 书愤
     type: 诗词曲
     author: 陆游
