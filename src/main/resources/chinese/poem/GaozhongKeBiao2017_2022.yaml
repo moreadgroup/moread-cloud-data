@@ -2192,66 +2192,116 @@ poems:
         url: https://baike.baidu.com/item/%E8%B0%8F%E9%80%90%E5%AE%A2%E4%B9%A6
         sentences:
           - ancient: 臣闻吏议逐客，窃以为过矣。
-            vernacular: xxxx
-          - ancient: 昔穆公求士，西取由余于戎，东得百里奚于宛，迎蹇叔于宋，来丕豹、公孙支于晋。
-            vernacular: xxxx
+            vernacular: 臣听说官吏议论驱逐列国入秦的游说之士，私下认为这是错误的。
+          - ancient: 昔穆公求士，西取由余于戎，
+            vernacular: 从前穆公访求贤士，西面从西戎得到了由余，
+          - ancient: 东得百里奚于宛，
+            vernacular: 东面从宛地得到了百里奚，
+          - ancient: 迎蹇叔于宋，
+            vernacular: 从宋国迎来了蹇叔，
+          - ancient: 来丕豹、公孙支于晋。
+            vernacular: 从晋国得来了丕豹、公孙支。
           - ancient: 此五子者，不产于秦，而穆公用之，并国二十，遂霸西戎。
-            vernacular: xxxx
-          - ancient: 孝公用商鞅之法，移风易俗，民以殷盛，国以富强，百姓乐用，诸侯亲服，获楚、魏之师，举地千里，至今治强。
-            vernacular: xxxx
-          - ancient: 惠王用张仪之计，拔三川之地，西并巴蜀，北收上郡，南取汉中，包九夷，制鄢郢，东据成皋之险，割膏腴之壤，遂散六国之从，使之西面事秦，功施到今。
-            vernacular: xxxx
+            vernacular: 这五位人物，不出生在秦国，但穆公重用他们，兼并了二十个诸侯国，于是称霸西戎。
+          - ancient: 孝公用商鞅之法，移风易俗，民以殷盛，国以富强，
+            vernacular: 孝公采用商鞅的法令，移风易俗，人民因此富裕丰盛，国家因此富足强盛，
+          - ancient: 百姓乐用，诸侯亲服，
+            vernacular: 百姓乐于效力，诸侯亲近顺服，
+          - ancient: 获楚、魏之师，举地千里，至今治强。
+            vernacular: 俘获楚魏军队，攻占土地千里，国家至今安定强盛。
+          - ancient: 惠王用张仪之计，拔三川之地，
+            vernacular: 惠王采用张仪计谋，攻克三川之地，
+          - ancient: 西并巴蜀，北收上郡，南取汉中，
+            vernacular: 西面兼并巴蜀，北面收受上郡，南面轻取汉中，
+          - ancient: 包九夷，制鄢郢，东据成皋之险，割膏腴之壤，
+            vernacular: 统揽九夷之地，控制楚之鄢郢，东面占有成皋之险，割取肥美土地，
+          - ancient: 遂散六国之从，使之西面事秦，功施到今。
+            vernacular: 六国联盟罢休，迫使西来侍奉秦国，功绩延续到今天。
           - ancient: 昭王得范雎，废穰侯，逐华阳，强公室，杜私门，蚕食诸侯，使秦成帝业。
-            vernacular: xxxx
+            vernacular: 昭王得到范雎，废掉穰侯，放逐华阳君，加强国家权力，杜绝权豪之门，蚕食诸候国家，使秦国成就帝王之业。
           - ancient: 此四君者，皆以客之功。
-            vernacular: xxxx
+            vernacular: 这四位国君，都是依靠客卿的功劳。
           - ancient: 由此观之，客何负于秦哉！
-            vernacular: xxxx
+            vernacular: 由此看来，客卿有什么对不起秦国的呢？
           - ancient: 向使四君却客而不内，疏士而不用，是使国无富利之实，而秦无强大之名也。
-            vernacular: xxxx
+            vernacular: 假使四位国君拒绝客卿而不接纳，疏远贤士而不重用，这会使秦国没有富庶之实和强大之名了。
       - paragraph: 今陛
         url: https://baike.baidu.com/item/%E8%B0%8F%E9%80%90%E5%AE%A2%E4%B9%A6
         sentences:
-          - ancient: 今陛下致昆山之玉，有随和之宝，垂明月之珠，服太阿之剑，乘纤离之马，建翠凤之旗，树灵鼍之鼓。
-            vernacular: xxxx
+          - ancient: 今陛下致昆山之玉，有随和之宝，
+            vernacular: 如今陛下得到了昆仑山的美玉，拥有随侯珠、和氏璧这样的宝物，
+          - ancient: 垂明月之珠，服太阿之剑，
+            vernacular: 悬挂着夜间光如明月的宝珠，佩戴着太阿宝剑，
+          - ancient: 乘纤离之马，建翠凤之旗，
+            vernacular: 骑着纤离骏马，立起用翠羽编成凤鸟形状所装饰的旗帜，
+          - ancient: 树灵鼍之鼓。
+            vernacular: 架起用灵鼍皮蒙成的鼓。
           - ancient: 此数宝者，秦不生一焉，而陛下说之，何也？
-            vernacular: xxxx
-          - ancient: 必秦国之所生然后可，则是夜光之璧，不饰朝廷；犀象之器，不为玩好；郑、卫之女不充后宫，而骏良駃騠不实外厩，江南金锡不为用，西蜀丹青不为采。
-            vernacular: xxxx
-          - ancient: 所以饰后宫，充下陈，娱心意，说耳目者，必出于秦然后可，则是宛珠之簪，傅玑之珥，阿缟之衣，锦绣之饰不进于前，而随俗雅化，佳冶窈窕，赵女不立于侧也。
-            vernacular: xxxx
-          - ancient: 夫击瓮叩缶弹筝搏髀，而歌呼呜呜快耳者，真秦之声也；郑卫桑间、韶虞、武象者，异国之乐也。
-            vernacular: xxxx
+            vernacular: 这些宝物，秦国不出产一样，而陛下却喜欢它，为什么呢？
+          - ancient: 必秦国之所生然后可，则是夜光之璧，不饰朝廷；
+            vernacular: 一定要秦国出产的东西才可以用，那么夜光璧不能装饰朝廷；
+          - ancient: 犀象之器，不为玩好；
+            vernacular: 犀角、象牙做的器物不能成为赏玩嗜好之物；
+          - ancient: 郑、卫之女不充后宫，而骏良駃騠不实外厩，
+            vernacular: 郑国、卫国的女子不能充斥后宫；骏马驴骡不会充满外马房；
+          - ancient: 江南金锡不为用，西蜀丹青不为采。
+            vernacular: 江南的金器锡器不会被使用，西蜀的丹青不会作为绘画的颜料。
+          - ancient: 所以饰后宫，充下陈，娱心意，说耳目者，必出于秦然后可，
+            vernacular: 所以装饰后宫、充塞堂下、娱乐心情、好听好看的东西，一定要秦国出产的才可以，
+          - ancient: 则是宛珠之簪，傅玑之珥，阿缟之衣，锦绣之饰不进于前，
+            vernacular: 那么宛地珍珠装饰的头簪、附着珠玑的耳饰、东阿丝绸做成的衣服、织锦刺绣的饰品不会进献到您的面前；
+          - ancient: 而随俗雅化，佳冶窈窕，赵女不立于侧也。
+            vernacular: 而化俗为雅、宁静美丽的赵国女子不会站在您的身边。
+          - ancient: 夫击瓮叩缶弹筝搏髀，而歌呼呜呜快耳者，真秦之声也；
+            vernacular: 那敲打着瓦器、弹着秦筝、拍着大腿呜呜唱歌呼叫而悦耳的，才是真正的秦国音乐。
+          - ancient: 郑卫桑间、韶虞、武象者，异国之乐也。
+            vernacular: 《郑》《卫》《桑间》《韶虞》《武象》这类乐曲，都是别国的音乐。
           - ancient: 今弃击瓮叩缶而就郑卫，退弹筝而取韶虞，若是者何也？
-            vernacular: xxxx
+            vernacular: 现在抛弃了敲击瓦器而接受《郑》《卫》之音，屏退弹筝而求取《韶虞》，这样做是为什么呢？
           - ancient: 快意当前，适观而已矣。
-            vernacular: xxxx
+            vernacular: 为了舒适称心于眼前，适合观赏罢了。
           - ancient: 今取人则不然。
-            vernacular: xxxx
+            vernacular: 如今选取人才则不然，
           - ancient: 不问可否，不论曲直，非秦者去，为客者逐。
-            vernacular: xxxx
+            vernacular: 不问可用不可用，不论是非曲直，不是秦国人都得离去，是客卿的一律驱逐。
           - ancient: 然则是所重者在乎色乐珠玉，而所轻者在乎人民也。
-            vernacular: xxxx
+            vernacular: 这样看来，所重视的是美色、音乐、珍珠、玉器，而所轻视的是人民。
           - ancient: 此非所以跨海内、制诸侯之术也。
-            vernacular: xxxx
+            vernacular: 这不是用来据有天下、控制诸侯的策略。
       - paragraph: 臣闻地
         url: https://baike.baidu.com/item/%E8%B0%8F%E9%80%90%E5%AE%A2%E4%B9%A6
         sentences:
           - ancient: 臣闻地广者粟多，国大者人众，兵强则士勇。
-            vernacular: xxxx
-          - ancient: 是以太山不让土壤，故能成其大；河海不择细流，故能就其深；王者不却众庶，故能明其德。
-            vernacular: xxxx
-          - ancient: 是以地无四方，民无异国，四时充美，鬼神降福，此五帝三王之所以无敌也。
-            vernacular: xxxx
-          - ancient: 今乃弃黔首以资敌国，却宾客以业诸侯，使天下之士退而不敢西向，裹足不入秦，此所谓“藉寇兵而赍盗粮”者也。
-            vernacular: xxxx
+            vernacular: 臣听说地域辽阔粮食就多，国家广大人口就多，军队强大士兵就勇敢。
+          - ancient: 是以太山不让土壤，故能成其大；
+            vernacular: 因此泰山不拒绝泥土，所以形成了它的高大；
+          - ancient: 河海不择细流，故能就其深；
+            vernacular: 河海不挑拣细流，所以成就了它的深广；
+          - ancient: 王者不却众庶，故能明其德。
+            vernacular: 帝王不拒绝众多的百姓，所以能使他的功德昭著。
+          - ancient: 是以地无四方，民无异国，
+            vernacular: 因此，地域不论东西南北，百姓不论异国他乡，
+          - ancient: 四时充美，鬼神降福，此五帝三王之所以无敌也。
+            vernacular: 一年四季充实美好，鬼神降恩赐福，这就是五帝三王之所以无敌的原因。
+          - ancient: 今乃弃黔首以资敌国，却宾客以业诸侯，
+            vernacular: 现在却抛弃百姓以帮助敌国，拒绝宾客去为诸侯成就功业，
+          - ancient: 使天下之士退而不敢西向，裹足不入秦，
+            vernacular: 让天下的贤士退却而不敢向西而来，裹足不前进入秦国，
+          - ancient: 此所谓“藉寇兵而赍盗粮”者也。
+            vernacular: 这就是所谓“借给敌人武器，送给盗贼粮食”。
       - paragraph: 夫物
         url: https://baike.baidu.com/item/%E8%B0%8F%E9%80%90%E5%AE%A2%E4%B9%A6
         sentences:
-          - ancient: 夫物不产于秦，可宝者多；士不产于秦，而愿忠者众。
-            vernacular: xxxx
-          - ancient: 今逐客以资敌国，损民以益雠，内自虚而外树怨于诸侯，求国无危，不可得也。
-            vernacular: xxxx
+          - ancient: 夫物不产于秦，可宝者多；
+            vernacular: 东西不是秦国出产的，可珍贵之物很多；
+          - ancient: 士不产于秦，而愿忠者众。
+            vernacular: 贤士不是秦国出生的，而愿效忠的很多。
+          - ancient: 今逐客以资敌国，损民以益雠，
+            vernacular: 如今驱逐客卿去帮助敌国，减少人民而对仇敌有益，
+          - ancient: 内自虚而外树怨于诸侯，求国无危，
+            vernacular: 使自己内部空虚而外部又跟诸侯结怨，要想国家没有危险，
+          - ancient: 不可得也。
+            vernacular: 那是不可能的。
   - poem: 兰亭集序
     type: 文言文选修
     author: 王羲之
