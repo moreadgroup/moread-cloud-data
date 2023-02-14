@@ -2127,29 +2127,20 @@ poems:
         url: https://baike.baidu.com/item/%E6%95%A2%E9%97%AE%E5%A4%AB%E5%AD%90%E6%81%B6%E4%B9%8E%E9%95%BF
         sentences:
           - ancient: “何谓知言？”
-            vernacular: xxxx
-          - ancient: 曰：“辞知其所蔽，淫辞知其所陷，邪辞知其所离，遁辞知其所穷——生于其心，害于其政；发于其政，害于其事。
-            vernacular: xxxx
+            vernacular: 公孙丑问：“怎样才算善于分析别人的言语呢？”
+          - ancient: 曰：“辞知其所蔽，
+            vernacular: 孟子回答说：“偏颇的言语知道它片面在哪里；
+          - ancient: 淫辞知其所陷，
+            vernacular: 夸张的言语知道它过分在哪里；
+          - ancient: 邪辞知其所离，
+            vernacular: 怪僻的言语知道它离奇在哪里；
+          - ancient: 遁辞知其所穷——生于其心，害于其政；
+            vernacular: 躲闪的言语知道它理穷在哪里。－－从心里产生，必然会对政治造成危害，
+          - ancient: 发于其政，害于其事。
+            vernacular: 用于政治，必然会对国家大事造成危害。
           - ancient: 圣人复起，必从吾言矣。”
-            vernacular: xxxx
-          - ancient: “宰我、子贡善为说辞，冉牛、闵子、颜渊善言德行。
-            vernacular: xxxx
-          - ancient: 孔子兼之，曰：‘我于辞命，则不能也。’
-            vernacular: xxxx
-          - ancient: 然则夫子既圣矣乎？”
-            vernacular: xxxx
-          - ancient: 曰：“恶！是何言也？
-            vernacular: xxxx
-          - ancient: 昔者子贡问于孔子曰：‘夫子圣矣乎？’
-            vernacular: xxxx
-          - ancient: 孔子曰：‘圣则吾不能，我学不厌而教不倦也。’
-            vernacular: xxxx
-          - ancient: 子贡曰：‘学不厌，智也；教不倦，仁也。
-            vernacular: xxxx
-          - ancient: 仁且智，夫子既圣矣。’
-            vernacular: xxxx
-          - ancient: 夫圣，孔子不居——是何言也？”
-            vernacular: xxxx
+            vernacular: 如果圣人再世，也一定会同意我的话。”
+
   - poem: 逍遥游《庄子》
     type: 文言文选修
     author: 庄周
