@@ -2150,31 +2150,39 @@ poems:
         url: https://baike.baidu.com/item/%E9%80%8D%E9%81%A5%E6%B8%B8/1506
         sentences:
           - ancient: 惠子谓庄子曰：“魏王贻我大瓠之种，我树之成，而实五石。
-            vernacular: xxxx
+            vernacular: 惠子对庄子说：“魏王送给我大葫芦的种子，我种下后结出的葫芦大得可以容纳五石。
           - ancient: 以盛水浆，其坚不能自举也。
-            vernacular: xxxx
+            vernacular: 用它来盛水，它却因质地太脆无法提举。
           - ancient: 剖之以为瓢，则瓠落无所容。
-            vernacular: xxxx
+            vernacular: 切开它当瓠，又大而平浅无法容纳东西。
           - ancient: 非不呺然大也，吾为其无用而掊之。”
-            vernacular: xxxx
+            vernacular: 我不是嫌它不大，只是因为它无用，我把它砸了。”
           - ancient: 庄子曰：“夫子固拙于用大矣。
-            vernacular: xxxx
+            vernacular: 庄子说：“你真不善于使用大的物件。
           - ancient: 宋人有善为不龟手之药者，世世以洴澼絖为事。
-            vernacular: xxxx
+            vernacular: 宋国有个人善于制作防止手冻裂的药，他家世世代代都以漂洗丝絮为职业。
           - ancient: 客闻之，请买其方百金。
-            vernacular: xxxx
-          - ancient: 聚族而谋曰：‘我世世为洴澼絖，不过数金，今一朝而鬻技百金，请与之。’
-            vernacular: xxxx
+            vernacular: 有个客人听说了，请求用一百金来买他的药方。
+          - ancient: 聚族而谋曰：‘我世世为洴澼絖，不过数金，
+            vernacular: 这个宋国人召集全家商量说：‘我家世世代代靠这种药从事漂洗丝絮，一年所得不过数金；
+          - ancient: 今一朝而鬻技百金，请与之。’
+            vernacular: 现在一旦卖掉这个药方马上可得百金，请大家答应我卖掉它。’
           - ancient: 客得之，以说吴王。
-            vernacular: xxxx
+            vernacular: 这个客人买到药方，就去游说吴王。
           - ancient: 越有难，吴王使之将，冬，与越人水战，大败越人。
-            vernacular: xxxx
+            vernacular: 那时正逢越国有难，吴王就命他为将，在冬天跟越国人展开水战，大败越人，
           - ancient: 裂地而封之。
-            vernacular: xxxx
-          - ancient: 能不龟手一也，或以封，或不免于洴澼絖，则所用之异也。
-            vernacular: xxxx
-          - ancient: 今子有五石之瓠，何不虑以为大樽，而浮于江湖，而忧其瓠落无所容？则夫子犹有蓬之心也夫！”
-            vernacular: xxxx
+            vernacular: 吴王就割地封侯来奖赏他。
+          - ancient: 能不龟手一也，或以封，
+            vernacular: 同样是一帖防止手冻裂的药方，有人靠它得到封赏，
+          - ancient: 或不免于洴澼絖，则所用之异也。
+            vernacular: 有人却只会用于漂洗丝絮，这是因为使用方法不同啊。
+          - ancient: 今子有五石之瓠，何不虑以为大樽，而浮于江湖，
+            vernacular: 现在你有可容五石东西的大葫芦，为什么不把它系在身上作为腰舟而浮游于江湖呢？
+          - ancient: 而忧其瓠落无所容？
+            vernacular: 却担忧它大而无处可容纳，
+          - ancient: 则夫子犹有蓬之心也夫！”
+            vernacular: 可见你的心地过于浅陋狭隘了！”
   - poem: 谏逐客书 李斯
     type: 文言文选修
     author: 李斯
