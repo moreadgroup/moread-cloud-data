@@ -3221,13 +3221,13 @@ poems:
         url: https://baike.baidu.com/item/%E5%B1%B1%E5%B1%85%E7%A7%8B%E6%9A%9D/2794200
         sentences:
           - ancient: 空山新雨后，天气晚来秋。
-            vernacular: xxxx
+            vernacular: 空旷的群山沐浴了一场新雨，夜晚降临使人感到已是初秋。
           - ancient: 明月松间照，清泉石上流。
-            vernacular: xxxx
+            vernacular: 皎皎明月从松隙间洒下清光，清清泉水在山石上淙淙淌流。
           - ancient: 竹喧归浣女，莲动下渔舟。
-            vernacular: xxxx
+            vernacular: 竹林喧响知是洗衣姑娘归来，莲叶轻摇想是上游荡下轻舟。
           - ancient: 随意春芳歇，王孙自可留。
-            vernacular: xxxx
+            vernacular: 春日的芳菲不妨任随它消歇，秋天的山中王孙自可以久留。
   - poem: 蜀道难
     type: 诗词曲
     author: 李白
