@@ -3860,13 +3860,13 @@ poems:
         url: https://baike.baidu.com/item/%E4%B9%A6%E6%84%A4/1059791
         sentences:
           - ancient: 早岁那知世事艰，中原北望气如山。
-            vernacular: xxxx
+            vernacular: 年轻时就立志北伐中原， 哪想到竟然是如此艰难。我常常北望那中原大地， 热血沸腾啊怨气如山啊。
           - ancient: 楼船夜雪瓜洲渡，铁马秋风大散关。
-            vernacular: xxxx
+            vernacular: 记得在瓜州渡痛击金兵， 雪夜里飞奔着楼船战舰。秋风中跨战马纵横驰骋， 收复了大散关捷报频传。
           - ancient: 塞上长城空自许，镜中衰鬓已先斑。
-            vernacular: xxxx
+            vernacular: 想当初我自比万里长城， 立壮志为祖国扫除边患。到如今垂垂老鬓发如霜， 盼北伐盼恢复都成空谈。
           - ancient: 出师一表真名世，千载谁堪伯仲间！
-            vernacular: xxxx
+            vernacular: 不由人缅怀那诸葛孔明， 出师表真可谓名不虚传，有谁像诸葛亮鞠躬尽瘁， 率三军复汉室北定中原！ 
   - poem: 临安春雨初霁
     type: 诗词曲
     author: 陆游
@@ -3876,13 +3876,13 @@ poems:
         url: https://baike.baidu.com/item/%E4%B8%B4%E5%AE%89%E6%98%A5%E9%9B%A8%E5%88%9D%E9%9C%81
         sentences:
           - ancient: 世味年来薄似纱，谁令骑马客京华？
-            vernacular: xxxx
+            vernacular: 近年来做官的兴味淡淡的像一层薄纱，谁又让我乘马来到京都作客沾染繁华？
           - ancient: 小楼一夜听春雨，深巷明朝卖杏花。
-            vernacular: xxxx
+            vernacular: 住在小楼听尽了一夜的春雨淅沥滴答，清早会听到小巷深处在一声声叫卖杏花。
           - ancient: 矮纸斜行闲作草，晴窗细乳戏分茶。
-            vernacular: xxxx
-          - ancient: 素衣⒀莫起风尘叹，犹及清明可到家。
-            vernacular: xxxx
+            vernacular: 铺开小纸从容地斜写行行草草，字字有章法，晴日窗前细细地煮水、沏茶、撇沫，试着品名茶。
+          - ancient: 素衣莫起风尘叹，犹及清明可到家。
+            vernacular: 呵，不要叹息那京都的尘土会弄脏洁白的衣衫，清明时节还来得及回到镜湖边的山阴故家。
   - poem: 念奴娇·过洞庭
     type: 诗词曲
     author: 张孝祥
