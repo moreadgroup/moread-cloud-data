@@ -2844,11 +2844,17 @@ poems:
         url: https://baike.baidu.com/item/%E5%85%B8%E8%AE%BA%C2%B7%E8%AE%BA%E6%96%87/7013652
         sentences:
           - ancient: 盖文章，经国之大业，不朽之盛事。
-            vernacular: xxxx
-          - ancient: 年寿有时而尽，荣乐止乎其身，二者必至之常期，未若文章之无穷。
-            vernacular: xxxx
-          - ancient: 是以古之作者，寄身于翰墨，见意于篇籍，不假良史之辞，不托飞驰之势，而声名自传于后。
-            vernacular: xxxx
+            vernacular: 文章是关系到治理国家的伟大功业，是可以流传后世而不朽的盛大事业。
+          - ancient: 年寿有时而尽，荣乐止乎其身，
+            vernacular: 人的年龄寿夭有时间的限制，荣誉欢乐也只能终于一身，
+          - ancient: 二者必至之常期，未若文章之无穷。
+            vernacular: 二者都终止于一定的期限，不能像文章那样永久流传，没有穷期。
+          - ancient: 是以古之作者，寄身于翰墨，
+            vernacular: 因此，古代的作者，投身于写作，
+          - ancient: 见意于篇籍，不假良史之辞，
+            vernacular: 把自己的思想意见表现在文章书籍中，就不必借史家的言辞，
+          - ancient: 不托飞驰之势，而声名自传于后。
+            vernacular: 也不必托高官的权势，而声名自然能流传后世。
   - poem: 诗品序
     type: 古代文论选段
     author: 锺嵘
