@@ -2870,7 +2870,9 @@ poems:
           - ancient: 至于楚臣去境，汉妾辞宫。
             vernacular: 至于楚国臣子离开国都，汉朝的嫔妃辞别宫廷。
           - ancient: 或骨横朔野，魂逐飞蓬。
+            vernacular: xxxx
           - ancient: 或负戈外戍，杀气雄边。
+            vernacular: xxxx
           - ancient: 塞客衣单，孀闺泪尽。
             vernacular: 在边关的客子衣裳单薄，闺中寡居的妇女眼泪哭尽。
           - ancient: 或士有解佩出朝，一去忘返。
@@ -2895,9 +2897,9 @@ poems:
         url: https://baike.baidu.com/item/%E4%B8%8E%E5%85%83%E4%B9%9D%E4%B9%A6/8973034
         sentences:
           - ancient: 感人心者，莫先乎情，莫始乎言，莫切乎声，莫深乎义。
-            vernacular: xxxx
+            vernacular: 能够感化人心的事物，没有比情先的，没有比言早的，没有比声近的，没有比义深的。
           - ancient: 诗者，根情，苗言，华声，实义。
-            vernacular: xxxx
+            vernacular: 所谓诗，就是以情为根，以诗为苗，以声为花，以义为实的。
   - poem: 题画·江馆清秋
     type: 古代文论选段
     author: 郑燮
@@ -2907,19 +2909,21 @@ poems:
         url: http://www.guoxuemeng.com/gushici/445203.html
         sentences:
           - ancient: 江馆清秋，晨起看竹，烟光日影露气，皆浮动于疏枝密叶之间。
-            vernacular: xxxx
+            vernacular: 在江边的私塾教书，每逢清秋，早晨常起来观察竹子，这时，烟光、日影、露气，都在疏枝密叶之间飘浮流动。
           - ancient: 胸中勃勃，遂有画意。
-            vernacular: xxxx
+            vernacular: 于是，胸中情致勃动，就有了作画的意念。
           - ancient: 其中胸中之竹，并不是眼中之竹。
-            vernacular: xxxx
-          - ancient: 因而磨墨展纸，落笔倏作变相，手中之竹又不是胸中之竹也。
-            vernacular: xxxx
+            vernacular: 其实，这时在脑海里映现的竹子，已经不是眼睛所看到的竹子了，
+          - ancient: 因而磨墨展纸，落笔倏作变相，
+            vernacular: 于是赶快取砚磨墨，展开画纸，乘兴落笔，尽情挥毫，迅即呵成一幅幅图画。
+          - ancient: 手中之竹又不是胸中之竹也。
+            vernacular: 这时，笔下所画出来的竹子又不是脑海里映现的竹子了。
           - ancient: 总之，意在笔先者，定则也。
-            vernacular: xxxx
+            vernacular: 总之，意念产生在落笔之前，这是无可置疑的法则;
           - ancient: 趣在法外者，化机也。
-            vernacular: xxxx
+            vernacular: 但情趣流溢在法则之外，则全凭个人的运化之功了。
           - ancient: 独画云乎哉?
-            vernacular: xxxx
+            vernacular: 难道仅仅作画是这样吗?
   - poem: 人间词话
     type: 古代文论选段
     author: 王国维
@@ -2929,31 +2933,31 @@ poems:
         url: http://www.guoxuemeng.com/mingju/445210.html
         sentences:
           - ancient: 词以境界为最上，有境界则自成高格，自有名句。
-            vernacular: xxxx
+            vernacular: 词是要以境界为最高标准的。有境界的词，就会有很高的格调，自然会出现有名的句子。
       - paragraph: 境非
         url: http://www.guoxuemeng.com/mingju/445210.html
         sentences:
           - ancient: 境非独谓景物也，喜怒哀乐，亦人心中之一境界。
-            vernacular: xxxx
+            vernacular: 境界并不是只指景物，喜怒哀乐等情感也是人心中的地种境界。
           - ancient: 故能写真景物、真感情者，谓之有境界。
-            vernacular: xxxx
+            vernacular: 所以(文章)能够描写真实的景物，真实的情感的，就称为有境界，
           - ancient: 否则谓之无境界。
-            vernacular: xxxx
+            vernacular: 否则就称为没有境界。
       - paragraph: 古今
         url: http://www.guoxuemeng.com/mingju/445210.html
         sentences:
           - ancient: 古今之成大事业、大学问者，必经过三种之境界：
-            vernacular: xxxx
+            vernacular: 从古至今，那些做成大事业，大学问的人，没有不经历三种境界的：
           - ancient: “昨夜西风凋碧树。独上高楼，望尽天涯路。” 此第一境也。
-            vernacular: xxxx
+            vernacular: “昨夜西风凋碧树。独上高楼，望尽天涯路。”这是第一境界。
           - ancient: “衣带渐宽终不悔，为伊消得人憔悴。” 此第二境也。
-            vernacular: xxxx
+            vernacular: “衣带渐宽终不悔，为伊消得人憔悴。”这是第二境界。
           - ancient: “众里寻他千百度，回头蓦见，那人正在，灯火阑珊处。” 此第三境也。
-            vernacular: xxxx
+            vernacular: “众里寻他千百度，蓦然回首，那人却在，灯火阑珊处。”这是第三境界。
           - ancient: 此等语皆非大词人不能道。
-            vernacular: xxxx
+            vernacular: 这些话都是大词人才能作出来。
           - ancient: 然遽以此意解释诸词，恐为晏、欧诸公所不许也。
-            vernacular: xxxx
+            vernacular: 但是根据这个意思解释诗词，恐怕晏同叔和欧阳修等人是不会赞同的。
   - poem: 邶风·静女
     type: 诗词曲
     author: 《诗经·邶风》
@@ -2963,17 +2967,17 @@ poems:
         url: https://baike.baidu.com/item/%E9%82%B6%E9%A3%8E%C2%B7%E9%9D%99%E5%A5%B3/3183014
         sentences:
           - ancient: 静女其姝，俟我于城隅。
-            vernacular: xxxx
+            vernacular: 娴静姑娘真可爱，约我城角楼上来。
           - ancient: 爱而不见，搔首踟蹰。
-            vernacular: xxxx
+            vernacular: 故意躲藏让我找，急得抓耳又挠腮。
           - ancient: 静女其娈，贻我彤管。
-            vernacular: xxxx
+            vernacular: 娴静姑娘好容颜，送我一枝红彤管。
           - ancient: 彤管有炜，说怿女美。
-            vernacular: xxxx
+            vernacular: 鲜红彤管有光彩，爱它颜色真鲜艳。
           - ancient: 自牧归荑，洵美且异。
-            vernacular: xxxx
+            vernacular: 郊野采荑送给我，荑草美好又珍异。
           - ancient: 匪女之为美，美人之贻。
-            vernacular: xxxx
+            vernacular: 不是荑草长得美，美人相赠厚情意。
   - poem: 秦风·无衣
     type: 诗词曲
     author: 《诗经·秦风》
@@ -2983,17 +2987,17 @@ poems:
         url: https://baike.baidu.com/item/%E7%A7%A6%E9%A3%8E%C2%B7%E6%97%A0%E8%A1%A3/2468699
         sentences:
           - ancient: 岂曰无衣？与子同袍
-            vernacular: xxxx
+            vernacular: 谁说我们没衣穿？与你同穿那长袍。
           - ancient: 王于兴师，修我戈矛，与子同仇！
-            vernacular: xxxx
+            vernacular: 君王发兵去交战，修整我那戈与矛，杀敌与你同目标。
           - ancient: 岂曰无衣？与子同泽。
-            vernacular: xxxx
+            vernacular: 谁说我们没衣穿？与你同穿那内衣。
           - ancient: 王于兴师，修我矛戟，与子偕作！
-            vernacular: xxxx
+            vernacular: 君王发兵去交战，修整我那矛与戟，出发与你在一起。
           - ancient: 岂曰无衣？与子同裳。
-            vernacular: xxxx
+            vernacular: 谁说我们没衣穿？与你同穿那战裙。
           - ancient: 王于兴师，修我甲兵，与子偕行！
-            vernacular: xxxx
+            vernacular: 君王发兵去交战，修整甲胄与刀兵，杀敌与你共前进。
   - poem: 离骚
     type: 诗词曲
     author: 屈原
