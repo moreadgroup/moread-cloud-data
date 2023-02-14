@@ -3644,12 +3644,14 @@ poems:
       - paragraph: xxx
         url: https://baike.baidu.com/item/%E8%99%9E%E7%BE%8E%E4%BA%BA%C2%B7%E6%98%A5%E8%8A%B1%E7%A7%8B%E6%9C%88%E4%BD%95%E6%97%B6%E4%BA%86/10926799
         sentences:
-          - ancient: 春花秋月何时了，往事知多少？小楼昨夜又东风，故国不堪回首月明中！
-            vernacular: xxxx
+          - ancient: 春花秋月何时了，往事知多少？
+            vernacular: 春花年年开放，秋月年年明亮，时光什么时候才能了结呢？
+          - ancient: 小楼昨夜又东风，故国不堪回首月明中！
+            vernacular: 小楼昨夜又有东风吹来，登楼望月又忍不住回首故国。
           - ancient: 雕栏玉砌应犹在，只是朱颜改。
-            vernacular: xxxx
+            vernacular: 旧日金陵城里精雕细刻的栏杆、玉石砌成的台阶应该还都在吧，只不过里面住的人已经换了。
           - ancient: 问君能有几多愁？恰似一江春水向东流。
-            vernacular: xxxx
+            vernacular: 要问心中的愁恨有多少，大概就像东流的滔滔春水一样，无穷无尽。
   - poem: 望海潮·东南形胜
     type: 诗词曲
     author: 柳永
