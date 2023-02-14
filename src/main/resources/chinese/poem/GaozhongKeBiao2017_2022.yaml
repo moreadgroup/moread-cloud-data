@@ -3694,24 +3694,26 @@ poems:
         url: https://baike.baidu.com/item/%E6%A1%82%E6%9E%9D%E9%A6%99%C2%B7%E9%87%91%E9%99%B5%E6%80%80%E5%8F%A4
         sentences:
           - ancient: 登临送目，正故国晚秋，天气初肃。
-            vernacular: xxxx
+            vernacular: 我登上城楼放眼远望，故都金陵正是深秋，天气已变得飒爽清凉。
           - ancient: 千里澄江似练，翠峰如簇。
-            vernacular: xxxx
+            vernacular: 千里澄江宛如一条白练，青翠山峰像箭簇耸立前方。
           - ancient: 归帆去棹残阳里，背西风，酒旗斜矗。
-            vernacular: xxxx
+            vernacular: 帆船在夕阳往来穿梭，西风起处，斜插的酒旗在小街飘扬。
           - ancient: 彩舟云淡，星河鹭起，画图难足。
-            vernacular: xxxx
+            vernacular: 画船如同在淡云中浮游，白鹭好像在银河里飞舞，丹青妙笔也难描画这壮美风光。
       - paragraph: 念往
         url: https://baike.baidu.com/item/%E6%A1%82%E6%9E%9D%E9%A6%99%C2%B7%E9%87%91%E9%99%B5%E6%80%80%E5%8F%A4
         sentences:
-          - ancient: 念往昔，繁华竞逐，叹门外楼头，悲恨相续。
-            vernacular: xxxx
+          - ancient: 念往昔，繁华竞逐，
+            vernacular: 遥想当年，故都金陵何等繁盛堂皇。
+          - ancient: 叹门外楼头，悲恨相续。
+            vernacular: 可叹在朱雀门外结绮阁楼，六朝君主一个个地相继败亡。
           - ancient: 千古凭高，对此谩嗟荣辱。
-            vernacular: xxxx
+            vernacular: 自古多少人在此登高怀古，无不对历代荣辱喟叹感伤。
           - ancient: 六朝旧事随流水，但寒烟芳草凝绿。
-            vernacular: xxxx
+            vernacular: 六朝旧事已随流水消逝，剩下的只有寒烟惨淡、绿草衰黄。
           - ancient: 至今商女，时时犹唱，后庭遗曲。
-            vernacular: xxxx
+            vernacular: 时至今日，商女们时时地还把《后庭花》遗曲吟唱。
   - poem: 江城子·乙卯正月二十日夜记梦
     type: 诗词曲
     author: 苏轼
