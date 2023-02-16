@@ -1,0 +1,270 @@
+---
+words:
+  - word: firm
+    tags:
+      - 高中
+    phonetic: 【fɜːm】
+    trans: adj.坚固的；坚定的
+    samples:
+      - 例 Tom works in a big firm.汤姆在一家大公司工作。
+      - 例 a firm belief坚定的信念
+    derive: 派 abandonment(n.放弃，遗弃)
+  - word: like
+    tags:
+      - 小学
+    phonetic: 【laɪk】
+    trans: n.爱好prep.像，跟…一样v.喜欢，喜爱
+    distinguish: 辨 like，as 两个词都有“像…”之意，但用法不同，不可以互换。like一般用作介 词，其后接名词或代词，不接从句。如：He cried like a baby.他哭得像 个小孩。而as用作连词，其后往往接从句，如：Do exactly as I say.严格 照我说的办。另外as也可用作介词，但意思是“作为；以…的身份”，如：He used his umbrella as a walking-stick.他把雨伞当做手杖用。
+  - word: diet
+    tags:
+      - 高中
+    phonetic: 【ˈdaɪət】
+    trans: n.饮食；节食v.节食
+    tips: 记 联想记忆：过度节食(diet)会死(die)人的
+    samples:
+      - 例 the traditional diet传统饮食
+      - 例 Both the diet and the exercise will help us to lose weight.节食和锻炼将有助于我们减肥。
+  - word: pressure
+    tags:
+      - 高中
+    phonetic: 【ˈpreʃə】
+    trans: n.压；压力；压强
+    tips: 记 词根记忆：press(压)＋ure(表行为及行为结果)→压；压力；压强
+    samples:
+      - 例 The public put pressure on the local government to cut the tax.公众向当地政府施压，要求减少税收。
+  - word: activity
+    tags:
+      - 初中
+    phonetic: 【ækˈtɪvəti】
+    trans: n.活动
+    tips: 记 词根记忆：act(活动)＋ivity(名词后缀)→活动
+    samples:
+      - 例 social activities社会活动
+  - word: accept
+    tags:
+      - 初中
+    phonetic: 【əkˈsept】
+    trans: v.接受
+    tips: 记 词根记忆：ac＋cept(拿，抓)→拿住→接受；同根词有： except(prep.除…之外)；conception(n.概念)
+    samples:
+      - 例 Please accept my apologies.请接受我的道歉。
+    distinguish: 辨 accept，receive，accept表示主观上“接受”，而receive表示客观上“收到”，如：She received a birthday present from a boy but did not accept it.她收到一个男孩送的生日礼物，但没有接受。
+    reference: 参 acceptable(adj.可接受的)
+  - word: defeat
+    tags:
+      - 高中
+    phonetic: 【dɪˈfiːt】
+    trans: vt.击败；战胜
+    samples:
+      - 例 The Rockets defeated the Bulls by 92 to 87.火箭队以92比87战胜了公牛队。
+    reference: 参 undefeated(adj.不可战胜的)
+  - word: relay
+    tags:
+      - 高中
+    phonetic: 【rɪˈleɪ】
+    trans: n.接力；接替 v.接替；转运
+    tips: 记 词根记忆：re(重新)＋lay(放置)→重新放置→转运
+    samples:
+      - 例 new relays of troops新接班的部队
+  - word: evidence
+    tags:
+      - 高中
+    phonetic: 【ˈevɪdəns】
+    trans: n.证据
+    tips: 记 词根记忆：e＋vid(看见)＋ence(名词后缀)→眼见为实→证据
+    samples:
+      - 例 This evidence cannot prove the defendant's guilt.这一证据不能证明被告有罪。
+  - word: imagine
+    tags:
+      - 初中
+    phonetic: 【ɪˈmædʒɪn】
+    trans: v.想象，设想
+    usage: 用 1．imagine＋doing...想象做…：I can't imagine becoming rich.我无法想象变得富有。注意：imagine后需要跟动词时只能用doing而不能用to do的形式。2．imagine＋从句，如：I can imagine what you told me about the forest.我可以想象出你告诉我的关于那片森林的情况。
+  - word: relation
+    tags:
+      - 初中
+    phonetic: 【rɪˈleɪʃn】
+    trans: n.关系；亲属
+    samples:
+      - 例 Relation between the two countries has reached a crisis point.这两个国家间的关系已经达到了危机点。
+    test: 考 in/with relation to...与…相关；涉及…：in relation to the murder涉嫌谋杀
+  - word: freedom
+    tags:
+      - 高中
+    phonetic: 【ˈfriːdəm】
+    trans: n.自由
+    tips: 记 词根记忆：free(自由的)＋ dom(名词后缀)→自由
+    samples:
+      - 例 The black slaves in America fought for their freedom and respect in the 19th century.19世纪，美国的黑奴为了他们的自由和尊严而战。
+  - word: breakthrough
+    tags:
+      - 高中
+    phonetic: 【ˈbreɪkθruː】
+    trans: n.突破
+    tips: 记 联想记忆：break(打破)＋through(通过)→突破
+    samples:
+      - 例 a scientific breakthrough科学突破
+  - word: left
+    tags:
+      - 小学
+    phonetic: 【left】
+    trans: adj.左边的 adv.向左边，在左边 n.左，左边
+    tips: 记 联想记忆：非常浪漫的文艺电影Turn Left，Turn Right《向左走，向右走》
+    samples:
+      - 例 The old man walked along the street and then turned left at the corner. 那位老人沿着街道走，然后在拐角处向左转。
+  - word: confirm
+    tags:
+      - 高中
+    phonetic: 【kənˈfɜːm】
+    trans: vt.确定；批准
+    tips: 记 词根记忆：con(表加强)＋firm(坚定)→十分坚定→确定
+    samples:
+      - 例 Please confirm our reservations at the hotel.请确认一下我们在旅店的预订情况。
+  - word: ability
+    tags:
+      - 初中
+    phonetic: 【əˈbɪləti】
+    trans: n.能力；才能
+    tips: 记 来自able(adj.能够的)
+    test: 考 ability to do...有做…的能力：I don't doubt your ability to do the work.我不怀疑你做这项工作的能力。
+    reference: 参 disability(n.残疾；无能)
+  - word: member
+    tags:
+      - 初中
+    phonetic: 【ˈmembə】
+    trans: n.成员，会员
+    samples:
+      - 例 All the members of the company are asked to be present at the party.要求所有的公司员工都出席晚会。
+    reference: 参 membership(n.会员资格)
+  - word: climate
+    tags:
+      - 高中
+    phonetic: 【ˈklaɪmət】
+    trans: n.气候；风气；环境气氛
+    samples:
+      - 例 a mild climate温和的气候
+      - 例 a climate of unrest不安的气氛
+  - word: stupid
+    tags:
+      - 初中
+    phonetic: 【ˈstjuːpɪd】
+    trans: adj.愚蠢的，笨的
+    samples:
+      - 例 Getting involved in this is the manager's stupid decision.参与这件事是经理作出的愚蠢决定。
+    distinguish: 辨 stupid，foolish，silly stupid既可以指智力或能力低下，即“笨的”，也可以指“糊涂的，欠考虑的”；foolish指行为或行动缺乏判断力、没有头脑的；silly则指让人感到滑稽可笑的。
+  - word: organise
+    tags:
+      - 高中
+    phonetic: 【ˈɔːɡənaɪz】
+    trans: (美organize)v.组织
+    samples:
+      - 例 I'm organising the evening party.我正在筹备晚会。
+    reference: 参 organisation(n.组织)；organiser(n.组织者，创办者)
+  - word: decorate
+    tags:
+      - 高中
+    phonetic: 【ˈdekəreɪt】
+    trans: v.装饰，修饰
+    tips: 记 词根记忆：decor(装饰)＋ate(动词后缀)→装饰，修饰
+    samples:
+      - 例 Every Christmas，we decorate a Christmas tree.每年圣诞节，我们都装饰一棵圣诞树。
+    reference: 参 decoration(n.装饰，修饰)
+  - word: wage
+    tags:
+      - 高中
+    phonetic: 【weɪdʒ】
+    trans: n.工资，报酬
+    samples:
+      - 例 How can I keep a family on such a low wage？就这么点工资，我怎么养家？
+    reference: 参 salary(n.工资，薪水)
+  - word: target
+    tags:
+      - 高中
+    phonetic: 【ˈtɑːɡɪt】
+    trans: n.目标，对象；靶子
+    samples:
+      - 例 She became the target of most of our jokes.我们总是拿她开玩笑。
+  - word: beg
+    exchange: (begged，begged，begging)  
+    tags:
+      - 高中
+    phonetic: 【beɡ】
+    trans: v.请求，乞求
+    usage: 用 beg sb.to do sth.恳求某人做某事
+    test: 考 1．beg one's pardon请求某人的原谅2．beg for sth.乞求某物
+    reference: 参 beggar(n.乞丐)      
+  - word: abandon
+    phonetic: 【əˈbændən】
+    trans: vt.放弃,遗弃
+    tips: 记 联想记忆：a+band(乐队)+on→乐队解散,放弃演出→放弃
+    samples:
+      - 例 She and her tribe had to abandon their lands and retreat to Canada.她和她的部落被迫放弃了土地,退到加拿大。
+    derive: 派 abandonment(n.放弃,遗弃)
+  - word: abate
+    phonetic: 【əˈbeɪt】
+    trans: v.减轻,降价
+    tips: 记 联想记忆：a(表加强)+bate(减弱,减少)→减轻
+    samples:
+      - 例 After the closedown of the airport,noise pollution abated.机场关闭后,噪音污染减轻了。
+  - word: abhorrent 
+    phonetic: 【əbˈhɒrənt】
+    trans: a.可恶的,可恨的
+    tips: 记 词根记忆：ab(表加强)+horr(发抖)+ent(形容词后缀)→让人发抖的→可恶的,可恨的
+    samples: 
+      - 例 As far as I'm concerned,the practice of killing rare wild animals for food and money is utterly abhorrent and should be punished bylaw.我认为,为获取食物和金钱而猎杀珍稀野生动物的行径可恶至极,应该受到法律的制裁。
+  - word: abide 
+    phonetic: 【əˈbaɪd】
+    trans: v.停留,逗留,容忍,忍受
+    tips: 记 词根记忆：a+bide(停留)→停留,逗留 搭 abide by 遵守,遵循
+    samples: 
+      - 例 Anyone can abide by what he or she said,but it doesn't mean all of them are correct.任何人都可以坚持自己所说的话,但这并不意味着他们全都是正确的。
+  - word: ability
+    tags: [常见]
+    phonetic: 【əˈbɪləti】
+    trans: n.能力,本领,才能
+    usage: 搭 have the ability to do sth.有做…的能力,to the best of one's ability 尽全力
+    samples: 
+      - 例 Classes are organised according to abilitylevel.根据能力水平进行分班。
+  - word: abode
+    tags: [常见]
+    phonetic: 【əˈbəʊd】
+    trans: n.房屋,家,住所
+    usage: 搭 right of abode 居住权,fixed abode 固定住所,permanent abode 永久住所
+    samples: 
+      - 例 I do not dare to linger in that gloom-hiddenabode.我不敢在那个隐没于黑暗中的房屋里逗留。
+  - word: abolish 
+    phonetic: 【əˈbɒlɪʃ】
+    trans: vt.废止,废除
+    samples: 
+      - 例 The ancient Olympics were abolished by the Roman Emperor Theodosius in 393 AD,after Greece lost its independence.在希腊丧失主权之后,罗马皇帝狄奥多西于公元393 年废除了古代奥林匹克运动会。
+    synonyms: 同 annul(vt.废除,取消),destroy(vt.破坏,消灭)
+  - word: abound
+    tags: [常见]
+    phonetic: 【əˈbaʊnd】
+    trans: vi.富于,充满
+    tips: 记 联想记忆：a(一个)+bound(界限,范围)→所有物品都在一个范围内→富于,充满
+    samples: 
+      - 例 The mountain streams abound with fish.山溪里有许多鱼。
+  - word: absent
+    tags: [常见]
+    phonetic: 【ˈæbsənt】
+    trans: a.不在场的,心不在焉的
+    tips: 记 词根记忆：ab(离去)+sent(送)→送走→不在场的
+    samples: 
+      - 例 Why were you absent from my birthday partyyesterday? 你昨天怎么没来参加我的生日派对呢？
+    derive: 派 absence(n.缺席,不在,缺乏)
+  - word: absenteeism
+    tags: [常见]
+    phonetic: 【ˌæbsənˈtiːɪzəm】
+    trans: n.旷课,旷工
+    tips: 记 联想记忆：absent(缺席)+ee(表人)+ism→旷课,旷工
+    samples: 
+      - 例 In an attempt to reduce the level of absenteeism amongst employees,the companyintroduced three different strategies.该公司采用了三种不同的策略,希望以此降低员工的旷工率。
+  - word: absolute
+    tags: [常见]
+    phonetic: 【ˈæbsəluːt】
+    trans: a.完全的,绝对的,纯粹的
+    tips: 记 词根记忆：ab(表加强)+solut(松开)+e→完全松开→完全的,绝对的,纯粹的
+    usage: 搭 absolute trust 绝对信任,absolute zero 绝对零度
+    samples: 
+      - 例 There is no absolute standard for beauty.美 没有绝对的标准。      
