@@ -1,0 +1,130 @@
+---
+words:
+  - word: 安【动词】
+    tags:
+      - 高中
+    phonetic: an1
+    samples:
+      - trans: ❶使安定。
+        sentences:
+          - ancient: 【例句】夫如是，故远人不服，则修文德以来之；既来之，则安之。（《季氏将伐颛臾》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 丨诚能见可欲，则思知足以自戒;将有作，则思知止以安人。（《谏太宗十思疏》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】其间岂无刚直之人，而弗胜龃龉，多不能安其身。（《明史•陈登云传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷安抚;抚慰。
+        sentences:
+          - ancient: 【例句】时时为安慰,久久莫相忘！（《孔雀东南飞》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 丨若备与彼协心，上下齐同，则宜抚安，与结盟好。（《资治通鉴•汉纪五十七》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸安置。
+        sentences:
+          - ancient: 【例句】探马报曰："离山十里有王平安营。"（《三国演义》九十五回）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 丨今水大而急，不得安柱。（三国•诸葛亮《与兄瑾书》）
+            url: xxxx
+            vernacular: xxxx
+
+  - word: 安【形容词】
+    tags:
+      - 高中
+    phonetic: an1
+    samples:
+      - trans: ❶安稳;安全（与"危"相对）。
+        sentences:
+          - ancient: 【例句】风雨不动安如山。（《茅屋为秋风所破歌》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 丨谢庄遂安。（《冯婉贞》）丨何方圜之能周兮？夫孰异道而相安？（《离骚》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 丨且陛下春秋高，法令亡常，大臣亡罪夷灭者数十安家，安危不可知，子卿尚复谁为乎？（《苏武传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷安定;安逸。
+        sentences:
+          - ancient: 【例句】倚南窗以寄傲，审容膝之易安。（《归去来兮辞》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 丨今日割五城，明日割十城，然后得一夕安寝。（《六国论》）
+            url: xxxx
+            vernacular: xxxx
+
+  - word: 安【代词】
+    tags:
+      - 高中
+    phonetic: an1
+    samples:
+      - trans: 哪里；哪儿。
+        sentences:
+          - ancient: 【例句】项王曰："沛公安在？"（《鸿门宴》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 丨将军迎操，欲安所归乎？（《资治通鉴•汉纪五十七》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 丨方其破荆州，下江陵，顺流而东也，舳舻千里，旌旗蔽空，酾酒临江,横槊赋诗，固一世之雄也,而今安在哉？（《赤壁赋》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 丨信不足，安有不信。（《老子》十七章）
+            url: xxxx
+            vernacular: xxxx
+
+  - word: 安【副词】
+    tags:
+      - 高中
+    phonetic: an1
+    samples:
+      - trans: 怎么；哪里。
+        sentences:
+          - ancient: 【例句】嗟乎，燕雀安知鸿鹄之志哉！（《陈涉世家》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 丨臣死且不避，卮（zhi1,古代酒器）酒安足辞！（《鸿门宴》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 丨终不得归汉，空自苦亡人之地，信义安所见乎？（《苏武传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 丨不然，令五人者保其首领，以老于户牖之下，则尽其天年，人皆得以隶使之，安能屈豪杰之流，扼腕墓道,发其志士之悲哉？（《五人墓碑记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 丨安能以身之察察，受物之汶汶者乎？（《渔父》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 丨自为歌诗曰："大风起兮云飞扬，威加海内兮归故乡，安得猛士兮守四方!"（《史记•高祖本纪》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 丨孔子曰:"有是乎！由，譬使仁者而必信，安有伯夷、叔齐？使知者而必行，安有王子比干？"（《史记•孔子世家》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 丨安能摧眉折腰事权贵，使我不得开心颜！（《梦游天姥吟留别》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】夫台谏为天下持是非，而使人贱辱至此，安望其抗颜宜绳，为国家锄大奸、歼巨蠹哉！（《明史•陈登云传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 丨燧谓："东西异路,不当与，然安忍于旧治坐视?.（《宋史•萧燧传》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 安【连词】
+    tags:
+      - 高中
+    phonetic: an1
+    samples:
+      - trans: 乃;就;于是。
+        sentences:
+          - ancient: 【【例句】既而皆入其地，王安挺志。（《国语•吴语》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 丨因久坐，安从容谈三国之相怨。（《战国策•魏策一》）
+            url: xxxx
+            vernacular: xxxx
