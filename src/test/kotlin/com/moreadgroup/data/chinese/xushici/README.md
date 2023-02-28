@@ -1,0 +1,2 @@
+# 高考高频文言实词虚词详解词典.pdf
+https://pan.baidu.com/disk/pdfview?path=%2F%E5%AD%A6%E4%B9%A0%E7%A7%91%E5%AD%A6CONAN%2FChinese%2F%E9%AB%98%E8%80%83%E9%AB%98%E9%A2%91%E6%96%87%E8%A8%80%E5%AE%9E%E8%AF%8D%E8%99%9A%E8%AF%8D%E8%AF%A6%E8%A7%A3%E8%AF%8D%E5%85%B8.pdf

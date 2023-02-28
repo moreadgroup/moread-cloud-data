@@ -1,6 +1,7 @@
 ---
 words:
-  - word: 何 【代词】
+  - word: 何
+    type: 【代词】
     phonetic: he2
     tags:
       - 高中
@@ -15,7 +16,7 @@ words:
             url: xxxx
             vernacular: xxxx
 
-          - ancient: 【高考题例】不能肃清凶逆，遂令王室至此，抱恨泉壤,知复何言！（《北史•来护儿传》）
+          - ancient: 【高考题例】不能肃清凶逆，遂令王室至此，抱恨泉壤，知复何言！（《北史•来护儿传》）
       - trans: ❷怎么；为什么。
         sentences:
           - ancient: 彼，丈夫也;我，丈夫也。吾何畏彼哉？（《孟子•滕文公上》）
@@ -23,8 +24,9 @@ words:
           - ancient: 徐公何能及君也？（《邹忌讽齐王纳谏》）
           - ancient: 长桥卧波，未云何龙？复道行空，不霁何虹？（《阿房宫赋》）
           - ancient: 独五人之皦皦jiao3，何也？（《五人墓碑记》）
-          - ancient: 昔取之而有余，今守之而不足,何也？（《谏太宗十思疏》）
-  - word: 何 【副词】   
+          - ancient: 昔取之而有余，今守之而不足，何也？（《谏太宗十思疏》）
+  - word: 何
+    type: 【副词】
     phonetic: he2
     tags:
       - 高中
