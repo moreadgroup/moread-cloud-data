@@ -1,9 +1,9 @@
 ---
 words:
   - word: 何 【代词】
+    phonetic: he2
     tags:
       - 高中
-    phonetic: he2
     samples:
       - trans: ❶哪里;什么。
         sentences:
@@ -25,9 +25,9 @@ words:
           - ancient: 独五人之皦皦jiao3，何也？（《五人墓碑记》）
           - ancient: 昔取之而有余，今守之而不足,何也？（《谏太宗十思疏》）
   - word: 何 【副词】   
+    phonetic: he2
     tags:
       - 高中
-    phonetic: he2
     samples:
       - trans: 多么。
         sentences:

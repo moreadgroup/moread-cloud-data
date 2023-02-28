@@ -1,18 +1,18 @@
 ---
 words:
   - word: 而 【代词】
+    phonetic: er2
     tags:
       - 高中
-    phonetic: er2
     samples:
       - trans: 你;你的。
         sentences:
           - ancient: 某所,而母立于兹。（《项脊轩志》）
           - ancient: 官命促尔耕，勖（xu4,勉励）尔植,督尔获，早缫而绪，早织而缕，字而幼孩,遂而鸡豚。（《种树郭橐驼传》）
   - word: 而 【连词】
+    phonetic: er2
     tags:
       - 高中
-    phonetic: er2
     samples:
       - trans: ❶表示前后两个词或短语、分句是并列关系。相当于"而且""和""并"等。
         sentences:
@@ -55,9 +55,9 @@ words:
           - ancient: 有能助寡人谋而退吴者，吾与之共知越国之政。（《勾践灭吴》）
           - ancient: 遏其生气，以求重价，而江浙之梅皆病。（《病梅馆记》）
   - word: 而 【助词】语气词。
+    phonetic: er2
     tags:
       - 高中
-    phonetic: er2
     samples:
       - trans: 啊。
         sentences:      

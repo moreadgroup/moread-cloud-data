@@ -1,9 +1,9 @@
 ---
 words:
   - word: 毕 【动词】
+    phonetic: bi4
     tags:
       - 高中
-    phonetic: bi4
     samples:
       - trans: 完毕;结束。
         sentences:
@@ -20,9 +20,9 @@ words:
             url: xxxx
             vernacular: xxxx          
   - word: 毕 【副词】    
+    phonetic: bi4
     tags:
       - 高中
-    phonetic: bi4
     samples:
       - trans: 完全;都。
         sentences:

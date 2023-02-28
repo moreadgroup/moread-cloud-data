@@ -1,9 +1,9 @@
 ---
 words:
   - word: 乎 【介词】
+    phonetic: hu1
     tags:
       - 高中
-    phonetic: hu1
     samples:
       - trans: 用在句中。相当于"在""于""比''等。
         sentences:
@@ -13,9 +13,9 @@ words:
           - ancient: 君子博学而日参省乎己，则知明而行无过矣。（《劝学》）
           - ancient: 【高考题例】今四海一统，万里同轨，熙熙兆庶,同休息乎太和之中。（《晋书•虞溥传》）
   - word: 乎 【助词】
+    phonetic: hu1
     tags:
       - 高中
-    phonetic: hu1
     samples:
       - trans:   ❶用在句末，表示疑问或反问。相当于"吗""呢"。
         sentences:

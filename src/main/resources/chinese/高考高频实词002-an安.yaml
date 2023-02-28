@@ -1,9 +1,9 @@
 ---
 words:
   - word: 安【动词】
+    phonetic: an1
     tags:
       - 高中
-    phonetic: an1
     samples:
       - trans: ❶使安定。
         sentences:
@@ -34,9 +34,9 @@ words:
             vernacular: xxxx
 
   - word: 安【形容词】
+    phonetic: an1
     tags:
       - 高中
-    phonetic: an1
     samples:
       - trans: ❶安稳;安全（与"危"相对）。
         sentences:
@@ -62,9 +62,9 @@ words:
             vernacular: xxxx
 
   - word: 安【代词】
+    phonetic: an1
     tags:
       - 高中
-    phonetic: an1
     samples:
       - trans: 哪里；哪儿。
         sentences:
@@ -82,9 +82,9 @@ words:
             vernacular: xxxx
 
   - word: 安【副词】
+    phonetic: an1
     tags:
       - 高中
-    phonetic: an1
     samples:
       - trans: 怎么；哪里。
         sentences:
@@ -119,9 +119,9 @@ words:
             url: xxxx
             vernacular: xxxx
   - word: 安【连词】
+    phonetic: an1
     tags:
       - 高中
-    phonetic: an1
     samples:
       - trans: 乃;就;于是。
         sentences:

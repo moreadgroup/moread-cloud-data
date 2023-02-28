@@ -1,9 +1,9 @@
 ---
 words:
   - word: xxxx 【xx词】
+    phonetic: xx1
     tags:
       - 高中
-    phonetic: xx1
     samples:
       - trans: ❶xxxx
         sentences:

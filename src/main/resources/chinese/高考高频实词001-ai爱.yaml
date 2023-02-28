@@ -1,9 +1,9 @@
 ---
 words:
   - word: 爱【名词】
+    phonetic: ai4
     tags:
       - 高中
-    phonetic: ai4
     samples:
       - trans: 恩惠。
         sentences:
@@ -11,9 +11,9 @@ words:
             url: https://hanyu.baidu.com/shici/detail?pid=9b04e453a49f4d55bcb635eef97a2132
             vernacular: 等到子产逝世，孔子听说了，哭泣道：“（他）是古代圣贤继承人啊。(【子产继承了】古人仁爱的遗风啊)”
   - word: 爱【动词】
+    phonetic: ai4
     tags:
       - 高中
-    phonetic: ai4
     samples:
       - trans: ❶喜爱;爱护。
         sentences:
@@ -61,9 +61,9 @@ words:
             url: https://baike.baidu.com/item/%E9%82%B6%E9%A3%8E%C2%B7%E9%9D%99%E5%A5%B3
             vernacular: 故意躲藏让我找，急得抓耳又挠腮。
   - word: 爱【形容词】
+    phonetic: ai4          
     tags:
       - 高中
-    phonetic: ai4          
     samples: 
       - trans: 吝啬。
         sentences:

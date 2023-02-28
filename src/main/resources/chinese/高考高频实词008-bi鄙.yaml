@@ -6,9 +6,9 @@ words:
         sentences:
           - ancient: 【例句】蜀之鄙有二僧：其一贫，其一富。（《为学》）丨臣，东鄙之贱人也，开罪于楚、魏，遁逃来奔。（《战国策•秦策三》）
   - word: 鄙 【动词】
+    phonetic: bi3
     tags:
       - 高中
-    phonetic: bi3
     samples:
       - trans: ❶使……成为边邑。
         sentences:
@@ -17,9 +17,9 @@ words:
         sentences:
           - ancient: 【例句】过我而不假（借）道，鄙我也。（《左传•宣公十四年》）丨僧仲镂簋（gui3,盛食物的器具）朱紘（hong2,帽子上的带子），山节藻棁（zhuo1,梁上短柱），孔字鄙其小器。（《训俭示康》）
   - word: 鄙 【形容词】
+    phonetic: bi3
     tags:
       - 高中
-    phonetic: bi3
     samples:  
       - trans: ❶浅陋;粗俗。
         sentences:

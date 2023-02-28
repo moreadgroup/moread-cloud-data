@@ -1,9 +1,9 @@
 ---
 words:
   - word: 比 【动词】
+    phonetic: bi3
     tags:
       - 高中
-    phonetic: bi3
     samples:
       - trans: ❶并排;紧挨着。
         sentences:
@@ -32,9 +32,9 @@ words:
         sentences:
           - ancient: 【例句】故夫知效一官，行比一乡，德合一君,而征一国者,其自视也，亦若此矣。（《逍遥游》）
   - word: 比 【副词】
+    phonetic: bi3
     tags:
       - 高中
-    phonetic: bi3
     samples:  
       - trans: ❶接连地。
         sentences:
@@ -43,9 +43,9 @@ words:
         sentences:
           - ancient: 【例句】比阴阳错谬，日月薄食（缺蚀）。（《后汉书•光武帝纪》）丨汝去年书云："比得软脚病，往往而剧。"（《祭十二郎文》）
   - word: 比 【介词】
+    phonetic: bi3
     tags:
       - 高中
-    phonetic: bi3
     samples:  
       - trans: ❶等到。
         sentences:

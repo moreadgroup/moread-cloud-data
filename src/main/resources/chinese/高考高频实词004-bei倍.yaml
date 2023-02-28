@@ -1,9 +1,9 @@
 ---
 words:
   - word: 倍 【动词】
+    phonetic: bei4
     tags:
       - 高中
-    phonetic: bei4
     samples:
       - trans: ❶通"背"。背叛;违背。
         sentences:
@@ -27,18 +27,18 @@ words:
           - ancient: 【例句】焉用亡郑以倍邻？邻之厚，君之薄也。（《烛之武退秦师》）
           - ancient: 丨子为我召之，吾倍其室。（《国语•楚语上》）
   - word: 倍 【量词】
+    phonetic: bei4
     tags:
       - 高中
-    phonetic: bei4
     samples:
       - trans: 一倍。
         sentences:
           - ancient: 【例句】尝以十倍之地，百万之众，叩关而攻秦。（《过秦论》）
           - ancient: 丨诸侯之所亡（失去），与战败而亡者，其实亦百倍。（《六国论》）,
   - word: 倍 【副词】
+    phonetic: bei4
     tags:
       - 高中
-    phonetic: bei4
     samples:
       - trans: 加倍。
         sentences:
