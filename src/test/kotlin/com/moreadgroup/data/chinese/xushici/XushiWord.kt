@@ -54,9 +54,9 @@ data class XushiWordTransSentence(
             url: xxxx
             vernacular: xxxx
      */
-    val ancient: String,
-    val url: String?,
-    val vernacular: String?,
+    var ancient: String,
+    var url: String?,
+    var vernacular: String?,
 ) {
     constructor() : this("", null, null)
     constructor(ancient: String) : this(

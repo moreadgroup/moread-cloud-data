@@ -6,6 +6,7 @@ import com.fasterxml.jackson.dataformat.yaml.YAMLGenerator
 import com.moreadgroup.data.english.YasiYuminghong
 import org.junit.Test
 import java.io.File
+import java.util.regex.Pattern
 
 /**
  * @Author conan8chan@yahoo.com
@@ -20,7 +21,7 @@ class XushiWordTest {
     private val destFolder = ROOT_FOLDER + "chinese/xushici/out/"
 
     @Test
-    fun testCheckXushiWordAllThenOK() {
+    fun testGenerateXushiWordQuizzesAllThenOK() {
         val objectMapper = ObjectMapper(
             YAMLFactory()
                 .configure(YAMLGenerator.Feature.MINIMIZE_QUOTES, true)
@@ -63,7 +64,7 @@ class XushiWordTest {
 
             allXushiWordQuizzes.quizzes.addAll(xushiWordQuizzes.quizzes)
         }
-        allXushiWordQuizzes.quizzes.shuffle()
+//        allXushiWordQuizzes.quizzes.shuffle()
         objectMapper.writeValue(File(destFolder +"Quiz高考高频虚词000-全部.yaml" ), allXushiWordQuizzes);
 
     }
@@ -89,5 +90,83 @@ class XushiWordTest {
         }
         return result
     }
+
+
+
+    @Test
+    fun testFixXushiWordAllThenOK() {
+        val objectMapper = ObjectMapper(
+            YAMLFactory()
+                .configure(YAMLGenerator.Feature.MINIMIZE_QUOTES, true)
+                .configure(YAMLGenerator.Feature.SPLIT_LINES, false)
+        ).findAndRegisterModules()
+
+        listOf<String>(
+            "高考高频虚词001-而er.yaml",
+            "高考高频虚词002-何he.yaml",
+            "高考高频虚词003-乎hu.yaml",
+            "高考高频虚词004-乃nai.yaml",
+            "高考高频虚词005-其qi.yaml",
+            "高考高频虚词006-且qie.yaml",
+            "高考高频虚词007-若ruo4.yaml",
+            "高考高频虚词008-所suo3.yaml",
+            "高考高频虚词009-为wei.yaml",
+            "高考高频虚词010-焉yan1.yaml",
+            "高考高频虚词011-也ye3.yaml",
+            "高考高频虚词012-以yi3.yaml",
+            "高考高频虚词013-因yin1.yaml",
+            "高考高频虚词014-于yu2.yaml",
+            "高考高频虚词015-与yu.yaml",
+            "高考高频虚词016-则ze2.yaml",
+            "高考高频虚词017-者zhe3.yaml",
+            "高考高频虚词018-之zhi1.yaml",
+
+            ).forEach { fileName ->
+
+            val xushiWords: GushiwenXushiWords = objectMapper.readValue(
+                File(srcFolder + fileName),
+                GushiwenXushiWords::class.java
+            )
+
+            println("${fileName} Words=${xushiWords.words.size}")
+            val xushiWordsFixed = fixSentenceWithAnchor(xushiWords);
+            // We write the `employee` into `person2.yaml`
+            objectMapper.writeValue(File(destFolder +fileName ), xushiWordsFixed);
+        }
+    }
+
+
+    private fun fixSentenceWithAnchor( xushiWords: GushiwenXushiWords):GushiwenXushiWords {
+        xushiWords.words.forEach { word ->
+            word.samples?.forEach { trans ->
+                trans.sentences?.forEach { sentence ->
+                    if (!sentence.ancient.contains("<${word.word}>")){
+
+                        val matcher = Pattern.compile("${word.word}").matcher(sentence.ancient)
+                        var counter = 0
+
+                        while (matcher.find()) {
+                            counter++
+                        }
+
+                        if (counter > 1){
+                            println("please fix: [${sentence.ancient}]")
+                        }else{
+                            sentence.ancient =  sentence.ancient.replace("${word.word}","<${word.word}>")
+                        }
+                    }
+                    if (sentence.url==null){
+                        sentence.url="xxxx"
+                    }
+                    if (sentence.vernacular == null){
+                        sentence.vernacular = "xxxx"
+                    }
+                }
+            }
+        }
+        return xushiWords
+    }
+
+
 
 }
