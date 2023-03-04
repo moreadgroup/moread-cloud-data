@@ -1,6 +1,7 @@
 ---
 words:
-  - word: 安【动词】
+  - word: 安
+    type: 【动词】
     phonetic: an1
     tags:
       - 高中
@@ -33,7 +34,8 @@ words:
             url: xxxx
             vernacular: xxxx
 
-  - word: 安【形容词】
+  - word: 安
+    type: 【形容词】
     phonetic: an1
     tags:
       - 高中
@@ -61,7 +63,8 @@ words:
             url: xxxx
             vernacular: xxxx
 
-  - word: 安【代词】
+  - word: 安
+    type: 【代词】
     phonetic: an1
     tags:
       - 高中
@@ -81,7 +84,8 @@ words:
             url: xxxx
             vernacular: xxxx
 
-  - word: 安【副词】
+  - word: 安
+    type: 【副词】
     phonetic: an1
     tags:
       - 高中
@@ -118,7 +122,8 @@ words:
           - ancient: 丨燧谓："东西异路,不当与，然安忍于旧治坐视?.（《宋史•萧燧传》）
             url: xxxx
             vernacular: xxxx
-  - word: 安【连词】
+  - word: 安
+    type: 【连词】
     phonetic: an1
     tags:
       - 高中

@@ -1,6 +1,7 @@
 ---
 words:
-  - word: 辟 【名词】
+  - word: 辟
+    type: 【名词】
     phonetic: bi4
     tags:
       - 高中
@@ -15,8 +16,9 @@ words:
       - trans: ❸罪过。
         sentences:
           - ancient: 土不备垦，辟在司寇。（《国语•周语上》）
-  - word: 辟 【动词】
-    phonetic: bi4 
+  - word: 辟
+    type: 【动词】
+    phonetic: bi4
     tags:
       - 高中
     samples:
@@ -33,7 +35,8 @@ words:
       - trans: ❸通"璧"。腿瘸。
         sentences:
           - ancient: 王梁、造父者，天下之善驭者也，不能以辟马毁舆致远。（《荀子•正论》）
-  - word: 辟 【动词】
+  - word: 辟
+    type: 【动词】
     phonetic: pi4
     tags:
       - 高中
@@ -59,7 +62,8 @@ words:
       - trans: ❺通"譬"。比喻。
         sentences:
           - ancient: 辟也者举他物而以明之也。（《墨子•小取》）
-  - word: 辟 【形容词】
+  - word: 辟
+    type: 【形容词】
     phonetic: pi4
     tags:
       - 高中
@@ -76,4 +80,3 @@ words:
       - trans: ❸通"僻"。偏斜。
         sentences:
           - ancient: 行三里，辟矛戟，结幡旗。（汉•曹操《军令》）
-            

@@ -1,6 +1,7 @@
 ---
 words:
-  - word: 壁 【名词】
+  - word: 壁
+    type: 【名词】
     phonetic: bi4
     tags:
       - 高中
@@ -18,7 +19,8 @@ words:
           - ancient: 帝晨驰入韩信、张耳壁，夺之军。（《汉书•高帝纪上》）
           - ancient: 及楚击秦，诸将皆从壁上观。（《史记•项羽本纪》）
           - ancient: 汉王复入壁，深堑而守之。（《史记•高祖本纪》）
-  - word: 壁 【动词】
+  - word: 壁
+    type: 【动词】
     phonetic: bi4
     tags:
       - 高中
@@ -26,4 +28,4 @@ words:
       - trans: 筑营驻扎。
         sentences:
           - ancient: 魏王恐，使人止晋鄙，留军壁邺，名为救赵，实持两端以观望。（《史记•魏公子列传》）
-          - ancient: 项王军壁垓下，兵少食尽。（《项羽之死》）            
+          - ancient: 项王军壁垓下，兵少食尽。（《项羽之死》）

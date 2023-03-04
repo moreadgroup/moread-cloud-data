@@ -1,6 +1,7 @@
 ---
 words:
-  - word: 懊【动词】
+  - word: 懊
+    type: 【动词】
     phonetic: ao4
     tags:
       - 高中
@@ -13,7 +14,8 @@ words:
           - ancient: 丨善善不汲汲，后时徒悔懊。（唐•韩愈《荐士》）
             url: xxxx
             vernacular: 以善为善却不赶快去做， 过后只有后悔懊恼。善善： 以善为善。汲汲： 急切的样子。徒： 白白地。
-  - word: 懊【形容词】
+  - word: 懊
+    type: 【形容词】
     phonetic: ao4
     tags:
       - 高中

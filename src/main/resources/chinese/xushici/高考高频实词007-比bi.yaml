@@ -1,6 +1,7 @@
 ---
 words:
-  - word: 比 【动词】
+  - word: 比
+    type: 【动词】
     phonetic: bi3
     tags:
       - 高中
@@ -31,25 +32,27 @@ words:
       - trans: ❽合,适合。
         sentences:
           - ancient: 【例句】故夫知效一官，行比一乡，德合一君,而征一国者,其自视也，亦若此矣。（《逍遥游》）
-  - word: 比 【副词】
+  - word: 比
+    type: 【副词】
     phonetic: bi3
     tags:
       - 高中
-    samples:  
+    samples:
       - trans: ❶接连地。
         sentences:
           - ancient: 【例句】比三年日蚀。（《汉书•外戚传》）丨自赵广汉诛后,比零（更换）守尹（地方长官）。（《汉书•张敞传》）
       - trans: ❷近来。
         sentences:
           - ancient: 【例句】比阴阳错谬，日月薄食（缺蚀）。（《后汉书•光武帝纪》）丨汝去年书云："比得软脚病，往往而剧。"（《祭十二郎文》）
-  - word: 比 【介词】
+  - word: 比
+    type: 【介词】
     phonetic: bi3
     tags:
       - 高中
-    samples:  
+    samples:
       - trans: ❶等到。
         sentences:
           - ancient: 【例句】比至陈，车六七百乘，骑千余，卒数万人。（《陈涉世家》）丨比去，以手阖门，自语曰："吾家读书久不效,儿之成，则可待乎！"（《项脊轩志》）丨由也为之，比及三年，可使有勇，且知方也。（《子路、曾晳、冉有、公西华侍坐》）
       - trans: ❷依照。
         sentences:
-          - ancient: 【例句】食之，比门下之客。（《战国策•齐策四》）            
+          - ancient: 【例句】食之，比门下之客。（《战国策•齐策四》）

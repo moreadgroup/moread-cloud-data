@@ -1,6 +1,7 @@
 ---
 words:
-  - word: 毕 【动词】
+  - word: 毕
+    type: 【动词】
     phonetic: bi4
     tags:
       - 高中
@@ -9,17 +10,18 @@ words:
         sentences:
           - ancient: 【例句】若（你）入前为寿，寿毕，请以剑舞，因击沛公于坐，杀之。（《鸿门宴》）
             url: xxxx
-            vernacular: xxxx          
-          - ancient:  六王毕，四海一，蜀山兀，阿房出。（《阿房宫赋》）
+            vernacular: xxxx
+          - ancient: 六王毕，四海一，蜀山兀，阿房出。（《阿房宫赋》）
             url: xxxx
-            vernacular: xxxx          
-          - ancient:  愿大王少假借之，使毕使于前。（《荆轲刺秦王》）
+            vernacular: xxxx
+          - ancient: 愿大王少假借之，使毕使于前。（《荆轲刺秦王》）
             url: xxxx
-            vernacular: xxxx          
-          - ancient:  语未毕，余泣，妪亦泣。（《项脊轩志》）
+            vernacular: xxxx
+          - ancient: 语未毕，余泣，妪亦泣。（《项脊轩志》）
             url: xxxx
-            vernacular: xxxx          
-  - word: 毕 【副词】    
+            vernacular: xxxx
+  - word: 毕
+    type: 【副词】
     phonetic: bi4
     tags:
       - 高中
@@ -28,7 +30,7 @@ words:
         sentences:
           - ancient: 【例句】治乱之条贯，靡不毕见。（《史记•屈原贾生列传》）
             url: xxxx
-            vernacular: xxxx          
-          - ancient:  群贤毕至，少长咸（全，都）集。（《兰亭集序》） 
+            vernacular: xxxx
+          - ancient: 群贤毕至，少长咸（全，都）集。（《兰亭集序》）
             url: xxxx
-            vernacular: xxxx                     
+            vernacular: xxxx

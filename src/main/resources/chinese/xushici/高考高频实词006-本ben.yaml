@@ -1,6 +1,7 @@
 ---
 words:
-  - word: 本 【名词】
+  - word: 本
+    type: 【名词】
     phonetic: ben3
     tags:
       - 高中
@@ -10,7 +11,7 @@ words:
           - ancient: 【例句】臣闻求木之长者,必固其根本;欲流之远者,必浚其泉源。（《谏太宗十思疏》）
             url: xxxx
             vernacular: xxxxa
-          - ancient: 凡植木之性，其本欲舒,其培欲平。（《种树郭橐驼传》） 
+          - ancient: 凡植木之性，其本欲舒,其培欲平。（《种树郭橐驼传》）
             url: xxxx
             vernacular: xxxxa
       - trans: ❷根源;根本原因。
@@ -67,7 +68,8 @@ words:
           - ancient: 过期不赎，子本均,则没为奴婢。（《新唐书•柳宗元传》）
             url: xxxx
             vernacular: xxxxa
-  - word: 本 【动词】
+  - word: 本
+    type: 【动词】
     phonetic: ben3
     tags:
       - 高中
@@ -80,7 +82,8 @@ words:
           - ancient: 本治乱之所生，知得失之所在，然后从事。（《管子•正世》）
             url: xxxx
             vernacular: xxxxa
-  - word:  本 【量词】
+  - word: 本
+    type: 【量词】
     phonetic: ben3
     tags:
       - 高中
@@ -93,7 +96,8 @@ words:
           - ancient: 土中忽生芝草五本。（《论衡•验符》）
             url: xxxx
             vernacular: xxxxa
-  - word:  本 【副词】
+  - word: 本
+    type: 【副词】
     phonetic: ben3
     tags:
       - 高中

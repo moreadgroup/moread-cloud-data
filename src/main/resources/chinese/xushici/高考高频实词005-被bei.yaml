@@ -1,6 +1,7 @@
 ---
 words:
-  - word: 被【名词】
+  - word: 被
+    type: 【名词】
     phonetic: bei4
     tags:
       - 高中
@@ -16,7 +17,8 @@ words:
           - ancient: 丨晚著华堂醉，寒重绣被眠。（唐•杜甫《寄岳州贾司马六丈巴州严八使君两阁老五十韵》）
             url: https://baike.baidu.com/item/%E5%AF%84%E5%B2%B3%E5%B7%9E%E8%B4%BE%E5%8F%B8%E9%A9%AC%E5%85%AD%E4%B8%88%E5%B7%B4%E5%B7%9E%E4%B8%A5%E5%85%AB%E4%BD%BF%E5%90%9B%E4%B8%A4%E9%98%81%E8%80%81%E4%BA%94%E5%8D%81%E9%9F%B5
             vernacular: xxxx
-  - word: 被【动词】    
+  - word: 被
+    type: 【动词】
     phonetic: bei4
     tags:
       - 高中
@@ -37,7 +39,7 @@ words:
             vernacular: xxxx
           - ancient: 丨虐政用天下，而欲德教之被四海，故难成也。（《汉书•董仲舒传》）
             vernacular: xxxx
-      - trans: ❸加;加在……之上。	
+      - trans: ❸加;加在……之上。
         sentences:
           - ancient: 【例句】幸被齿发，何敢负德。（《柳毅传》）
             vernacular: 你的恩德加在我的身上，我怎么能够忘记你的恩德呢
@@ -53,7 +55,8 @@ words:
             vernacular: xxxx
           - ancient: 【高考题例】光武破寻、邑，憙被创,有战劳，还拜中郎将，封勇功侯。（《后汉书•赵憙传》）
             vernacular: xxxx
-  - word: 【介词】   
+  - word: 被
+    type: 【介词】
     phonetic: bei4
     tags:
       - 高中
@@ -66,7 +69,8 @@ words:
             vernacular: xxxx
           - ancient: 丨信而见疑，忠而被谤，能无怨乎？（《史记•屈原贾生列传》）
             vernacular: xxxx
-  - word: 被【名词】   
+  - word: 被
+    type: 【名词】
     phonetic: pi1
     tags:
       - 高中
@@ -75,7 +79,8 @@ words:
         sentences:
           - ancient: 【例句】王见之，去冠、被，舍鞭，与之语曰……。（《左传•昭公十二年》）
             vernacular: xxxx
-  - word: 被【动词】   
+  - word: 被
+    type: 【动词】
     phonetic: pi1
     tags:
       - 高中
