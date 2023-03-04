@@ -8,13 +8,13 @@ words:
     samples:
       - trans: 被子，睡眠时盖在身上的东西。
         sentences:
-          - ancient: 归家若到罗帏里，昨宵个绣衾香暖留春住,今夜个翠被生寒有梦知。（《长亭送别》）
+          - ancient: 归家若到罗帏里，昨宵个绣衾香暖留春住，今夜个翠被生寒有梦知。（《长亭送别》）
             url: https://baike.baidu.com/item/%E9%95%BF%E4%BA%AD%E9%80%81%E5%88%AB/580273
             vernacular: xxxx
-          - ancient: 丨一日昼寝帐中，落被于地，一近侍慌取覆盖。（《杨修之死》）
+          - ancient: 一日昼寝帐中，落被于地，一近侍慌取覆盖。（《杨修之死》）
             url: https://baike.baidu.com/item/%E6%9D%A8%E4%BF%AE%E4%B9%8B%E6%AD%BB
             vernacular: 有一次曹操白天在帐中睡觉，被子落到了地上，近侍慌忙取被为他覆盖。
-          - ancient: 丨晚著华堂醉，寒重绣被眠。（唐•杜甫《寄岳州贾司马六丈巴州严八使君两阁老五十韵》）
+          - ancient: 晚著华堂醉，寒重绣被眠。（唐•杜甫《寄岳州贾司马六丈巴州严八使君两阁老五十韵》）
             url: https://baike.baidu.com/item/%E5%AF%84%E5%B2%B3%E5%B7%9E%E8%B4%BE%E5%8F%B8%E9%A9%AC%E5%85%AD%E4%B8%88%E5%B7%B4%E5%B7%9E%E4%B8%A5%E5%85%AB%E4%BD%BF%E5%90%9B%E4%B8%A4%E9%98%81%E8%80%81%E4%BA%94%E5%8D%81%E9%9F%B5
             vernacular: xxxx
   - word: 被
@@ -27,33 +27,34 @@ words:
         sentences:
           - ancient: 祥风时雨，覆被远方。（《后汉书•鲁恭传》）
             vernacular: xxxx
-          - ancient: 丨幸大雪逾岭，被南越中数州。（《答韦中立论师道书》）
+          - ancient: 幸大雪逾岭，被南越中数州。（《答韦中立论师道书》）
             vernacular: xxxx
-          - ancient: 丨芙蓉覆水，秋兰被涯。（汉•张衡《东京赋》）
+          - ancient: 芙蓉覆水，秋兰被涯。（汉•张衡《东京赋》）
             vernacular: xxxx
-          - ancient: 丨成归，闻妻言，如被冰雪。（《促织》）
+          - ancient: 成归，闻妻言，如被冰雪。（《促织》）
             vernacular: xxxx
       - trans: ❷及;遍及。
         sentences:
-          - ancient: 东渐于海,西被于流沙。（《史记•夏本纪》）
+          - ancient: 东渐于海，西被于流沙。（《史记•夏本纪》）
             vernacular: xxxx
-          - ancient: 丨虐政用天下，而欲德教之被四海，故难成也。（《汉书•董仲舒传》）
+          - ancient: 虐政用天下，而欲德教之被四海，故难成也。（《汉书•董仲舒传》）
             vernacular: xxxx
       - trans: ❸加;加在……之上。
         sentences:
           - ancient: 幸被齿发，何敢负德。（《柳毅传》）
             vernacular: 你的恩德加在我的身上，我怎么能够忘记你的恩德呢
-          - ancient: 丨众谗人之嫉妒兮，被以不慈之伪名。（战国楚•屈原《九章•哀郢》）
+          - ancient: 众谗人之嫉妒兮，被以不慈之伪名。（战国楚•屈原《九章•哀郢》）
             vernacular: xxxx
       - trans: ❹蒙受;遭受。
         sentences:
-          - ancient: 久之，闻左公被炮烙，旦夕且死。（《左忠毅公逸事》）丨秦王复击轲，被八创。（《荆轲刺秦王》）
+          - ancient: 久之，闻左公<被>炮烙，旦夕且死。（《左忠毅公逸事》）
+          - ancient: 秦王复击轲，被八创。（《荆轲刺秦王》）
             vernacular: xxxx
-          - ancient: 丨其次关木索、被箠楚受辱。（《报任安书》）
+          - ancient: 其次关木索、被箠楚受辱。（《报任安书》）
             vernacular: xxxx
-          - ancient: 丨项王身亦被十余创。（《项羽之死》）
+          - ancient: 项王身亦被十余创。（《项羽之死》）
             vernacular: xxxx
-          - ancient: 【高考题例】光武破寻、邑，憙被创,有战劳，还拜中郎将，封勇功侯。（《后汉书•赵憙传》）
+          - ancient: 【高考题例】光武破寻、邑，憙被创，有战劳，还拜中郎将，封勇功侯。（《后汉书•赵憙传》）
             vernacular: xxxx
   - word: 被
     type: 【介词】
@@ -65,9 +66,9 @@ words:
         sentences:
           - ancient: 曲罢曾教善才服，妆成每被秋娘妒。（《琵琶行》）
             vernacular: xxxx
-          - ancient: 丨五人者，盖当蓼洲周公之被逮，激于义而死焉者也。（《五人墓碑记》）
+          - ancient: 五人者，盖当蓼洲周公之被逮，激于义而死焉者也。（《五人墓碑记》）
             vernacular: xxxx
-          - ancient: 丨信而见疑，忠而被谤，能无怨乎？（《史记•屈原贾生列传》）
+          - ancient: 信而见疑，忠而被谤，能无怨乎？（《史记•屈原贾生列传》）
             vernacular: xxxx
   - word: 被
     type: 【名词】
@@ -89,15 +90,15 @@ words:
         sentences:
           - ancient: 操吴戈兮被犀甲，车错毂兮短兵接。（战国楚•屈原《国殇》）
             vernacular: xxxx
-          - ancient: 丨将军身被坚执锐，伐无道,诛暴秦，复立楚国之社稷，功宜为王。（《陈涉世家》）
+          - ancient: 将军身被坚执锐，伐无道，诛暴秦，复立楚国之社稷，功宜为王。（《陈涉世家》）
             vernacular: xxxx
-          - ancient: 丨同舍生皆被绮绣,戴朱缨宝饰之帽。（《送东阳马生序》）
+          - ancient: 同舍生皆被绮绣，戴朱缨宝饰之帽。（《送东阳马生序》）
             vernacular: xxxx
       - trans: ❷通"披"。散开。
         sentences:
           - ancient: 屈原至于江滨，被发行吟泽畔，颜色憔悴，形容（容貌）枯槁。（《史记•屈原贾生列传》）
             vernacular: xxxx
-          - ancient: 丨公不少留我涕滂，翩然被发下大荒。（宋•苏轼《潮州韩文公庙碑》）
+          - ancient: 公不少留我涕滂，翩然被发下大荒。（宋•苏轼《潮州韩文公庙碑》）
             vernacular: xxxx
       - trans: ❸影响。
         sentences:
