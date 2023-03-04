@@ -1,65 +1,107 @@
 ---
 words:
-  - word: 比
-    type: 【动词】
-    phonetic: bi3
-    tags:
-      - 高中
-    samples:
-      - trans: ❶并排;紧挨着。
-        sentences:
-          - ancient: 东坡现右足，鲁直现左足，各微侧，其两膝相比者，各隐卷底衣褶中。（《核舟记》）
-          - ancient: 张袂成阴，挥汗成雨，比肩继踵而在，何为无人？（《晏子春秋•内篇杂下》）
-          - ancient: 愿举国为内臣，比诸侯之列，给贡职如郡县。（《荆轲刺秦王》）
-          - ancient: 【高考题例】儒者之荣，少有其比。（《旧唐书•于休烈传》）
-      - trans: ❷比较。
-        sentences:
-          - ancient: 今虽死乎此，比吾乡邻之死则已后矣。（《捕蛇者说》）
-      - trans: ❸比照;与……相当。
-        sentences:
-          - ancient: 东家有贤女，自名秦罗敷，可怜体无比，阿母为汝求。（《孔雀东南飞》）
-          - ancient: 于汉家勋可以比周、召、太公之徒，后世血食矣。（《史记•淮阴侯列传》）
-          - ancient: 【高考题例】固争之，遂下有司议，比劫禁物法，盗得不死。（《宋史•曾公亮传》）
-      - trans: ❹比作；比方。
-        sentences:
-          - ancient: 身长八尺，每自比于管仲、乐毅，时人莫之许也。（《隆中对》）
-      - trans: ❺同等对待。
-        sentences:
-          - ancient: 例句】而世又不与能死节者比，特以为智穷罪极，不能自免，卒就死耳。（《报任安书》）
-      - trans: ❻勾结。
-        sentences:
-          - ancient: 君子周（亲近）而不<比>，小人<比>而不周。（《论语•为政》）
-      - trans: ❼征缴。
-        sentences:
-          - ancient: 宰严限追比，旬余，杖至百，两股间脓血流离。（《促织》）
-      - trans: ❽合，适合。
-        sentences:
-          - ancient: 故夫知效一官，行比一乡，德合一君，而征一国者，其自视也，亦若此矣。（《逍遥游》）
-  - word: 比
-    type: 【副词】
-    phonetic: bi3
-    tags:
-      - 高中
-    samples:
-      - trans: ❶接连地。
-        sentences:
-          - ancient: 比三年日蚀。（《汉书•外戚传》）
-          - ancient: 自赵广汉诛后，比零（更换）守尹（地方长官）。（《汉书•张敞传》）
-      - trans: ❷近来。
-        sentences:
-          - ancient: 比阴阳错谬，日月薄食（缺蚀）。（《后汉书•光武帝纪》）
-          - ancient: 汝去年书云："比得软脚病，往往而剧。"（《祭十二郎文》）
-  - word: 比
-    type: 【介词】
-    phonetic: bi3
-    tags:
-      - 高中
-    samples:
-      - trans: ❶等到。
-        sentences:
-          - ancient: 比至陈，车六七百乘，骑千余，卒数万人。（《陈涉世家》）
-          - ancient: 比去，以手阖门，自语曰："吾家读书久不效，儿之成，则可待乎！"（《项脊轩志》）
-          - ancient: 由也为之，比及三年，可使有勇，且知方也。（《子路、曾晳、冉有、公西华侍坐》）
-      - trans: ❷依照。
-        sentences:
-          - ancient: 食之，比门下之客。（《战国策•齐策四》）
+- word: 比
+  type: 【动词】
+  phonetic: bi3
+  tags:
+  - 高中
+  samples:
+  - trans: ❶并排;紧挨着。
+    sentences:
+    - ancient: 东坡现右足，鲁直现左足，各微侧，其两膝相<比>者，各隐卷底衣褶中。（《核舟记》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 张袂成阴，挥汗成雨，<比>肩继踵而在，何为无人？（《晏子春秋•内篇杂下》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 愿举国为内臣，<比>诸侯之列，给贡职如郡县。（《荆轲刺秦王》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 【高考题例】儒者之荣，少有其<比>。（《旧唐书•于休烈传》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❷比较。
+    sentences:
+    - ancient: 今虽死乎此，<比>吾乡邻之死则已后矣。（《捕蛇者说》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❸比照;与……相当。
+    sentences:
+    - ancient: 东家有贤女，自名秦罗敷，可怜体无<比>，阿母为汝求。（《孔雀东南飞》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 于汉家勋可以<比>周、召、太公之徒，后世血食矣。（《史记•淮阴侯列传》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 【高考题例】固争之，遂下有司议，<比>劫禁物法，盗得不死。（《宋史•曾公亮传》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❹比作；比方。
+    sentences:
+    - ancient: 身长八尺，每自<比>于管仲、乐毅，时人莫之许也。（《隆中对》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❺同等对待。
+    sentences:
+    - ancient: 例句】而世又不与能死节者<比>，特以为智穷罪极，不能自免，卒就死耳。（《报任安书》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❻勾结。
+    sentences:
+    - ancient: 君子周（亲近）而不<比>，小人<比>而不周。（《论语•为政》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❼征缴。
+    sentences:
+    - ancient: 宰严限追<比>，旬余，杖至百，两股间脓血流离。（《促织》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❽合，适合。
+    sentences:
+    - ancient: 故夫知效一官，行<比>一乡，德合一君，而征一国者，其自视也，亦若此矣。（《逍遥游》）
+      url: xxxx
+      vernacular: xxxx
+- word: 比
+  type: 【副词】
+  phonetic: bi3
+  tags:
+  - 高中
+  samples:
+  - trans: ❶接连地。
+    sentences:
+    - ancient: <比>三年日蚀。（《汉书•外戚传》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 自赵广汉诛后，<比>零（更换）守尹（地方长官）。（《汉书•张敞传》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❷近来。
+    sentences:
+    - ancient: <比>阴阳错谬，日月薄食（缺蚀）。（《后汉书•光武帝纪》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 汝去年书云："<比>得软脚病，往往而剧。"（《祭十二郎文》）
+      url: xxxx
+      vernacular: xxxx
+- word: 比
+  type: 【介词】
+  phonetic: bi3
+  tags:
+  - 高中
+  samples:
+  - trans: ❶等到。
+    sentences:
+    - ancient: <比>至陈，车六七百乘，骑千余，卒数万人。（《陈涉世家》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: <比>去，以手阖门，自语曰："吾家读书久不效，儿之成，则可待乎！"（《项脊轩志》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 由也为之，<比>及三年，可使有勇，且知方也。（《子路、曾晳、冉有、公西华侍坐》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❷依照。
+    sentences:
+    - ancient: 食之，<比>门下之客。（《战国策•齐策四》）
+      url: xxxx
+      vernacular: xxxx

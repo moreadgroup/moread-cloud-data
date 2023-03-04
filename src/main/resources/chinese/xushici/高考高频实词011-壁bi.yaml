@@ -1,31 +1,49 @@
 ---
 words:
-  - word: 壁
-    type: 【名词】
-    phonetic: bi4
-    tags:
-      - 高中
-    samples:
-      - trans: ❶墙壁。
-        sentences:
-          - ancient: 徘徊四顾，见虫伏壁上。（《促织》）
-          - ancient: 其被轰击者，则断壁垝（gui3，残破）楼，或黔（熏黑）其庐，或赭（zhe3，烧红）其垣。（清•薛福成《观巴藜油画记》）
-      - trans: ❷陡峭的山崖。
-        sentences:
-          - ancient: 至莫（暮）夜月明，独与迈乘小舟，至绝壁下。（《石钟山记》）
-      - trans: ❸军营的围墙，引申为军营。
-        sentences:
-          - ancient: 诸侯军救镇鹿下者十余壁，莫敢纵兵。（《史记•项羽本纪》）
-          - ancient: 帝晨驰入韩信、张耳壁，夺之军。（《汉书•高帝纪上》）
-          - ancient: 及楚击秦，诸将皆从壁上观。（《史记•项羽本纪》）
-          - ancient: 汉王复入壁，深堑而守之。（《史记•高祖本纪》）
-  - word: 壁
-    type: 【动词】
-    phonetic: bi4
-    tags:
-      - 高中
-    samples:
-      - trans: 筑营驻扎。
-        sentences:
-          - ancient: 魏王恐，使人止晋鄙，留军壁邺，名为救赵，实持两端以观望。（《史记•魏公子列传》）
-          - ancient: 项王军壁垓下，兵少食尽。（《项羽之死》）
+- word: 壁
+  type: 【名词】
+  phonetic: bi4
+  tags:
+  - 高中
+  samples:
+  - trans: ❶墙壁。
+    sentences:
+    - ancient: 徘徊四顾，见虫伏<壁>上。（《促织》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 其被轰击者，则断<壁>垝（gui3，残破）楼，或黔（熏黑）其庐，或赭（zhe3，烧红）其垣。（清•薛福成《观巴藜油画记》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❷陡峭的山崖。
+    sentences:
+    - ancient: 至莫（暮）夜月明，独与迈乘小舟，至绝<壁>下。（《石钟山记》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❸军营的围墙，引申为军营。
+    sentences:
+    - ancient: 诸侯军救镇鹿下者十余<壁>，莫敢纵兵。（《史记•项羽本纪》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 帝晨驰入韩信、张耳<壁>，夺之军。（《汉书•高帝纪上》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 及楚击秦，诸将皆从<壁>上观。（《史记•项羽本纪》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 汉王复入<壁>，深堑而守之。（《史记•高祖本纪》）
+      url: xxxx
+      vernacular: xxxx
+- word: 壁
+  type: 【动词】
+  phonetic: bi4
+  tags:
+  - 高中
+  samples:
+  - trans: 筑营驻扎。
+    sentences:
+    - ancient: 魏王恐，使人止晋鄙，留军<壁>邺，名为救赵，实持两端以观望。（《史记•魏公子列传》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 项王军<壁>垓下，兵少食尽。（《项羽之死》）
+      url: xxxx
+      vernacular: xxxx
