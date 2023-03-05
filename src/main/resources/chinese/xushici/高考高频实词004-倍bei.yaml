@@ -1,86 +1,86 @@
 ---
 words:
-- word: 倍
-  type: 【动词】
-  phonetic: bei4
-  tags:
-  - 高中
-  samples:
-  - trans: ❶通"背"。背叛;违背。
-    sentences:
-    - ancient: 与宋致死，虽<倍>楚可也。子何惧焉？（《左传•襄公二十七年》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 愿伯具言臣之不敢<倍>德也。（《鸿门宴》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 且民有<倍>心者，君上之明有所不及也。（《韩非子•难三》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: <倍>其公法，损其正心，专听其大臣者，危主也。（《管子•任法》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 是遁天<倍>情，忘其所受。（《庄子•养生主》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: <倍>道而妄行，则天不能使之吉。（《荀子•天论》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❷通"背"。背向；背靠。
-    sentences:
-    - ancient: 兵法右<倍>山陵，前左水泽。（《史记•淮阴侯列传》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 不明于心术，而欲行令于人，犹<倍>招而必射之。（《管子•七法》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❸背诵。
-    sentences:
-    - ancient: 读书<倍>文，功力兼人。（汉•韩信《韩滂墓志铭》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 郑注:"<倍>文曰讽。"（《周礼•大司乐》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 牧六岁，则使就从兄受书，夜归，复亲督之<倍>讽。（清•刘大櫆《郑氏节母传》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❹增加。
-    sentences:
-    - ancient: 焉用亡郑以<倍>邻？邻之厚，君之薄也。（《烛之武退秦师》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 子为我召之，吾<倍>其室。（《国语•楚语上》）
-      url: xxxx
-      vernacular: xxxx
-- word: 倍
-  type: 【量词】
-  phonetic: bei4
-  tags:
-  - 高中
-  samples:
-  - trans: 一倍。
-    sentences:
-    - ancient: 尝以十<倍>之地，百万之众，叩关而攻秦。（《过秦论》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 诸侯之所亡（失去），与战败而亡者，其实亦百<倍>。（《六国论》），
-      url: xxxx
-      vernacular: xxxx
-- word: 倍
-  type: 【副词】
-  phonetic: bei4
-  tags:
-  - 高中
-  samples:
-  - trans: 加倍。
-    sentences:
-    - ancient: 江干（岸）上下十余里间，珠翠罗绮溢目，车马塞途，饮食百物皆<倍>穹常时。（《观潮》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 田家少闲月，五月人<倍>忙。（《观刈麦》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 独在异乡为异客，每逢佳节<倍>思亲。（《九月九日忆山东兄弟》）
-      url: xxxx
-      vernacular: xxxx
+  - word: 倍
+    type: 【动词】
+    phonetic: bei4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶通"背"。背叛;违背。
+        sentences:
+          - ancient: 与宋致死，虽<倍>楚可也，子何惧焉？（《左传•襄公二十七年》）
+            url: xxxx
+            vernacular: 和宋军一起誓死对抗，即使楚军增加一倍也是可以抵抗的，您有什么可害怕的呢？
+          - ancient: 愿伯具言臣之不敢<倍>德也。（《鸿门宴》）
+            url: xxxx
+            vernacular: 希望您全部告诉项王我不敢背叛恩德。
+          - ancient: 且民有<倍>心者，君上之明有所不及也。（《韩非子•难三》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <倍>其公法，损其正心，专听其大臣者，危主也。（《管子•任法》）
+            url: xxxx
+            vernacular: 违背公法，丧失正心，一味听大臣摆布的，是危产的君主。
+          - ancient: 是遁天<倍>情，忘其所受。（《庄子•养生主》）
+            url: xxxx
+            vernacular: 遁天：违背天理。倍情：背离性情。忘其所受：忘了自己原本的感受。
+          - ancient: <倍>道而妄行，则天不能使之吉。（《荀子•天论》）
+            url: xxxx
+            vernacular: 违背自然规律而胡作非为,那么天也不能使人吉利
+      - trans: ❷通"背"。背向；背靠。
+        sentences:
+          - ancient: 兵法右<倍>山陵，前左水泽。（《史记•淮阴侯列传》）
+            url: xxxx
+            vernacular: 右面靠着山陵,前方和左面靠着水泽。
+          - ancient: 不明于心术，而欲行令于人，犹<倍>招而必射之。（《管子•七法》）
+            url: xxxx
+            vernacular: 不了解心术而想对人们发号施令，就好比背着靶子射箭而一定希图命中一样。
+      - trans: ❸背诵。
+        sentences:
+          - ancient: 读书<倍>文，功力兼人。（汉•韩信《韩滂墓志铭》）
+            url: xxxx
+            vernacular: 读书、背书很厉害,功力超过其他或普通人。兼是胜过的意思。
+          - ancient: 郑注:"<倍>文曰讽。"（《周礼•大司乐》）
+            url: xxxx
+            vernacular: 郑玄注释着:背诵课文叫做讽
+          - ancient: 牧六岁，则使就从兄受书，夜归，复亲督之<倍>讽。（清•刘大櫆《郑氏节母传》）
+            url: xxxx
+            vernacular: 倍讽[bèi fěng] 背诵。倍，通“ 背 ”。
+      - trans: ❹增加。
+        sentences:
+          - ancient: 焉用亡郑以<倍>邻？邻之厚，君之薄也。（《烛之武退秦师》）
+            url: xxxx
+            vernacular: （您）为什么要灭掉郑国而给邻邦晋国增加土地呢？邻国越雄厚，您就越薄弱。
+          - ancient: 子为我召之，吾<倍>其室。（《国语•楚语上》）
+            url: xxxx
+            vernacular: 您替我召回他,我加倍给他家产。
+  - word: 倍
+    type: 【量词】
+    phonetic: bei4
+    tags:
+      - 高中
+    samples:
+      - trans: 一倍。
+        sentences:
+          - ancient: 尝以十<倍>之地，百万之众，叩关而攻秦。（《过秦论》）
+            url: xxxx
+            vernacular: 他们曾经用十倍于秦的土地，上百万的军队，攻打函谷关来攻打秦国。
+          - ancient: 诸侯之所亡（失去），与战败而亡者，其实亦百<倍>。（《六国论》），
+            url: xxxx
+            vernacular: 六国诸侯（贿赂秦国）所丧失的土地与战败所丧失的土地相比，实际也要多百倍。
+  - word: 倍
+    type: 【副词】
+    phonetic: bei4
+    tags:
+      - 高中
+    samples:
+      - trans: 加倍。
+        sentences:
+          - ancient: 江干（岸）上下十余里间，珠翠罗绮溢目，车马塞途，饮食百物皆<倍>穹常时。（《观潮》）
+            url: xxxx
+            vernacular: 江岸上下游十多里的地方，满眼都是穿着华丽的服饰的观众，车马堵塞道路，吃喝等各种物品（的价钱）比平时要高出很多倍。
+          - ancient: 田家少闲月，五月人<倍>忙。（《观刈麦》）
+            url: xxxx
+            vernacular: 农家很少有空闲的月份，五月到来人们更加繁忙。
+          - ancient: 独在异乡为异客，每逢佳节<倍>思亲。（《九月九日忆山东兄弟》）
+            url: xxxx
+            vernacular: 独自在异乡做异乡来的客子，每遇到佳节就加倍思念亲人。
