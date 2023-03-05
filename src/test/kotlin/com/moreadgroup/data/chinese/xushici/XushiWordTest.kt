@@ -19,6 +19,7 @@ class XushiWordTest {
 
     private val srcFolder = ROOT_FOLDER + "chinese/xushici/"
     private val destFolder = ROOT_FOLDER + "chinese/xushici/out/"
+    private val quizzesFolder = ROOT_FOLDER + "chinese/xushici/quizzes/"
 
     @Test
     fun testGenerateXuWordQuizzesAllThenOK() {
@@ -60,12 +61,12 @@ class XushiWordTest {
             println("${fileName} Words=${xushiWords.words.size}")
             val xushiWordQuizzes = convertFrom(xushiWords);
             // We write the `employee` into `person2.yaml`
-            objectMapper.writeValue(File(destFolder +"Quiz"+fileName ), xushiWordQuizzes);
+            objectMapper.writeValue(File(quizzesFolder +"Quiz"+fileName ), xushiWordQuizzes);
 
             allXushiWordQuizzes.quizzes.addAll(xushiWordQuizzes.quizzes)
         }
 //        allXushiWordQuizzes.quizzes.shuffle()
-        objectMapper.writeValue(File(destFolder +"Quiz高考高频虚词000-全部.yaml" ), allXushiWordQuizzes);
+        objectMapper.writeValue(File(quizzesFolder +"Quiz高考高频虚词000-全部.yaml" ), allXushiWordQuizzes);
 
     }
 
@@ -472,12 +473,12 @@ class XushiWordTest {
             println("${fileName} Words=${xushiWords.words.size}")
             val xushiWordQuizzes = convertFrom(xushiWords);
             // We write the `employee` into `person2.yaml`
-            objectMapper.writeValue(File(destFolder +"Quiz"+fileName ), xushiWordQuizzes);
+            objectMapper.writeValue(File(quizzesFolder +"Quiz"+fileName ), xushiWordQuizzes);
 
             allXushiWordQuizzes.quizzes.addAll(xushiWordQuizzes.quizzes)
         }
 //        allXushiWordQuizzes.quizzes.shuffle()
-        objectMapper.writeValue(File(destFolder +"Quiz高考高频虚词000-全部.yaml" ), allXushiWordQuizzes);
+        objectMapper.writeValue(File(quizzesFolder +"Quiz高考高频虚词000-全部.yaml" ), allXushiWordQuizzes);
 
     }
 
