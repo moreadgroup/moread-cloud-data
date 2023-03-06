@@ -8,10 +8,10 @@ words:
     sentences:
     - ancient: 蜀之<鄙>有二僧：其一贫，其一富。（《为学》）
       url: xxxx
-      vernacular: xxxx
+      vernacular: 四川边境有两个和尚，其中一个贫穷，其中一个富裕。
     - ancient: 臣，东<鄙>之贱人也，开罪于楚、魏，遁逃来奔。（《战国策•秦策三》）
       url: xxxx
-      vernacular: xxxx
+      vernacular: 臣只不过是东方乡间一草民，由于在楚魏犯了法，才逃到秦国来。
 - word: 鄙
   type: 【动词】
   phonetic: bi3
@@ -22,15 +22,15 @@ words:
     sentences:
     - ancient: 越国以<鄙>远，君知其难也。（《烛之武退秦师》）
       url: xxxx
-      vernacular: xxxx
+      vernacular: 越过邻国把远方的郑国作为（秦国的）东部边邑，您知道这是困难的。
   - trans: ❷看不起;轻视。
     sentences:
     - ancient: 过我而不假（借）道，<鄙>我也。（《左传•宣公十四年》）
       url: xxxx
-      vernacular: xxxx
-    - ancient: 僧仲镂簋（gui3，盛食物的器具）朱紘（hong2，帽子上的带子），山节藻棁（zhuo1，梁上短柱），孔字<鄙>其小器。（《训俭示康》）
+      vernacular: 经过我国而不向我们借路，这是把我们的国土当成了楚国的边邑。
+    - ancient: 管仲镂簋（gui3，盛食物的器具）朱紘（hong2，帽子上的带子），山节藻棁（zhuo1，梁上短柱），孔字<鄙>其小器。（《训俭示康》）
       url: xxxx
-      vernacular: xxxx
+      vernacular: 管仲使用的器具上都精雕细刻着多种花纹，戴的帽子上缀着红红的帽带，住的房屋里，连斗拱上都刻绘着山岳图形，连梁上短柱都用精美的图案装饰着。孔子看不起他，认为他不是一个大才。
 - word: 鄙
   type: 【形容词】
   phonetic: bi3
@@ -41,29 +41,29 @@ words:
     sentences:
     - ancient: 肉食者<鄙>，未能远谋。（《曹刿论战》）
       url: xxxx
-      vernacular: xxxx
+      vernacular: 当权者目光短浅，不能深谋远虑。
     - ancient: 先帝不以臣卑<鄙>，猥自枉屈，三顾臣于草庐之中。（《出师表》）
       url: xxxx
-      vernacular: xxxx
+      vernacular: 先帝不因为我身份卑微，屈尊下驾来看我，三次去我的茅庐拜访我
     - ancient: <鄙>贱之人，不知将军宽之至此也！（《廉颇蔺相如列传》）
       url: xxxx
-      vernacular: xxxx
+      vernacular: 我这个粗野卑贱的人，想不到将军的胸怀如此宽大啊！
     - ancient: 恨私心有所不尽，<鄙>陋没世，而文采不表于后也。（《报任安书》）
       url: xxxx
-      vernacular: xxxx
+      vernacular: 是遗憾我内心的志愿有未达到的，如果平平庸庸地死了，文章就不能在后世显露。
     - ancient: 敢竭<鄙>怀，恭疏短引，—言均赋，四韵俱成。（《滕王阁序》）
       url: xxxx
-      vernacular: xxxx
+      vernacular: 我只是冒昧地尽我微薄的心意，作了短短的引言。在座诸位都按各自分到的韵字赋诗，我已写成了四韵八句。
     - ancient: 北蛮夷之<鄙>人，未尝见天子，故振慑。（《荆轲刺秦王》）
       url: xxxx
-      vernacular: xxxx
+      vernacular: 北方边远地区的人，没有见过天子，所以有些害怕。
   - trans: ❷轻贱;下贱。
     sentences:
     - ancient: 人贱物亦<鄙>，不足迎后人。（《孔雀东南飞》）
       url: xxxx
-      vernacular: xxxx
+      vernacular: 人既然低贱东西自然也卑陋，不值得用它们来迎娶后来的新人。
   - trans: ❸粗野。
     sentences:
     - ancient: 子路性<鄙>，好勇力，志伉直，冠雄鸡，佩豭豚，陵暴孔子。（《史记•仲尼弟子列传》）
       url: xxxx
-      vernacular: xxxx
+      vernacular: 子路性情粗朴，喜欢逞勇斗力，志气刚强，性格直爽，头戴雄鸡式的帽子，佩戴着公猪皮装饰的宝剑，曾经欺凌孔子。
