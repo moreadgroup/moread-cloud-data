@@ -1,23 +1,23 @@
 ---
 quizzes:
-- word: 懊
-  type: 【动词】
-  phonetic: ao4
-  trans: 悔恨。
-  ancient: <懊>叹弥日。（《南史•顾觊之传》）
-  url: https://www.baidu.com/s?wd=%E6%87%8A%E5%8F%B9%E5%BC%A5%E6%97%A5
-  vernacular: 顾绰懊悔叹息了整整一天。
-- word: 懊
-  type: 【动词】
-  phonetic: ao4
-  trans: 悔恨。
-  ancient: 善善不汲汲，后时徒悔<懊>。（唐•韩愈《荐士》）
-  url: xxxx
-  vernacular: 以善为善却不赶快去做， 过后只有后悔懊恼。善善： 以善为善。汲汲： 急切的样子。徒： 白白地。
-- word: 懊
-  type: 【形容词】
-  phonetic: ao4
-  trans: 烦恼。
-  ancient: <懊>恼人心不如石，少时东去复西来。（唐•刘禹锡《竹枝词九首》之六）
-  url: https://baike.baidu.com/item/%E7%AB%B9%E6%9E%9D%E8%AF%8D%E4%B9%9D%E9%A6%96/7681586
-  vernacular: 懊恼的是人心还不如这石头，一会儿往东去，一会儿又朝西来。
+  - word: 懊
+    type: 【动词】
+    phonetic: ao4
+    trans: 悔恨。
+    ancient: <懊>叹弥日。（《南史•顾觊之传》）
+    url: https://www.baidu.com/s?wd=%E6%87%8A%E5%8F%B9%E5%BC%A5%E6%97%A5
+    vernacular: 顾绰懊悔叹息了整整一天。
+  - word: 懊
+    type: 【动词】
+    phonetic: ao4
+    trans: 悔恨。
+    ancient: 善善不汲汲，后时徒悔<懊>。（唐•韩愈《荐士》）
+    url: xxxx
+    vernacular: 以善为善却不赶快去做， 过后只有后悔懊恼。善善： 以善为善。汲汲： 急切的样子。徒： 白白地。
+  - word: 懊
+    type: 【形容词】
+    phonetic: ao4
+    trans: 烦恼。
+    ancient: <懊>恼人心不如石，少时东去复西来。（唐•刘禹锡《竹枝词九首》之六）
+    url: https://baike.baidu.com/item/%E7%AB%B9%E6%9E%9D%E8%AF%8D%E4%B9%9D%E9%A6%96/7681586
+    vernacular: 懊恼的是人心还不如这石头，一会儿往东去，一会儿又朝西来。

@@ -1,225 +1,225 @@
 ---
 words:
-- word: 为
-  type: 【名词】
-  phonetic: wei2
-  tags:
-  - 高中
-  samples:
-  - trans: 作为;政绩。
-    sentences:
-    - ancient: 未能助上大有<为>，以膏泽（恩惠）斯民。（宋•王安石《答司马谏议书》）
-      url: xxxx
-      vernacular: 没有能够帮助皇上大大地做一番事业，以此造福人民
-- word: 为
-  type: 【动词】
-  phonetic: wei2
-  tags:
-  - 高中
-  samples:
-  - trans: ❶做;干；当。
-    sentences:
-    - ancient: 不<为>者与不能者之形，何以异？（《齐桓晋文之事》）
-      url: xxxx
-      vernacular: 不肯干与不能干在表现上怎样区别？
-    - ancient: 非为织作迟,君家妇难<为>。（《孔雀东南飞》）
-      url: xxxx
-      vernacular: 不是因为织布织得慢,实在是你家的媳妇不好当。
-    - ancient: 臣之壮也，犹不如人;今老矣，无能<为>也已。（《烛之武退秦师》）
-      url: xxxx
-      vernacular: 我在壮年的时候，尚且不如别人；现在老了，无能为力啊。
-    - ancient: 沛公欲王关中，使子婴<为>相，珍宝尽有之。（《鸿门宴》）
-      url: xxxx
-      vernacular: 刘邦想要在关中称王，让子婴（ying）做丞相
-  - trans: ❷制作;建造。
-    sentences:
-    - ancient: 能以径寸之木<为>宫室、器皿、人物，以至鸟兽、木石。（《核舟记》）
-      url: xxxx
-      vernacular: (他)能用直径一寸的木头，雕刻出宫殿、器具、人物，还有飞鸟、走兽、树木、石头
-  - trans: ❸是;算。
-    sentences:
-    - ancient: 知之<为>知之，不知<为>不知，是知也。（《论语•为政》）
-      url: xxxx
-      vernacular: 知道就是知道，不知道就是不知道，这样才是真正的智慧。
-    - ancient: 亡羊而补牢（羊圈），未<为>迟也。（《战国策•楚策四》）
-      url: xxxx
-      vernacular: 在一些羊逃跑之后，立即去补修羊圈，也还不算太迟
-    - ancient: 共事二三年，始尔未<为>久，女行无偏斜，何意致不厚?（《孔雀东南飞》）
-      url: xxxx
-      vernacular: 我们共同生活才过了两三年，这种甜美的日子只是开头还不算长久。她的行为没有什么不正当，哪里知道竟会招致你的不满得不到慈爱亲厚。
-    - ancient: 吾令人望其气，皆<为>龙虎，成五采，此天子气也。（《鸿门宴》）
-      url: xxxx
-      vernacular: 我叫人观望他那里的气运，都是龙虎的形状，呈现五彩的颜色，这是天子的运气呀。
-  - trans: ❹当作。
-    sentences:
-    - ancient: 斩木<为>兵（兵器），揭竿<为>旗。（《过秦论》）
-      url: xxxx
-      vernacular: 砍下树木作武器，举起竹竿当旗帜
-    - ancient: 若舍郑以<为>东道主，行年之往来，共其乏困，君亦无所害。（《烛之武退秦师》）
-      url: xxxx
-      vernacular: 如果饶恕了郑国，并且把它做为东边大道上的主人，出使的人来来往往，（郑国可以随时）供给他们缺少的东西，对您也没有什么害处。
-  - trans: ❺叫作。
-    sentences:
-    - ancient: 北冥有鱼，其名<为>鲲。（《逍遥游》）
-      url: xxxx
-      vernacular: 北方的海里有一条大鱼，名字叫鲲。
-  - trans: ❻成为；变为。
-    sentences:
-    - ancient: 冰，水<为>之，而寒于水。（《劝学》）
-      url: xxxx
-      vernacular: 冰，是水凝结而成的，然而却比水更寒冷。
-    - ancient: 儿已薄禄相，幸复得此妇，结发同枕席，黄泉共<为>友。（《孔雀东南飞》）
-      url: xxxx
-      vernacular: 儿已经没有做高官享厚禄的福相，幸而娶得这样一个好媳妇。刚成年时我们便结成同床共枕的恩爱夫妻，并希望同生共死直到黄泉也相伴为伍。
-  - trans: ❼治理。
-    sentences:
-    - ancient: 善<为>国者，仓廩虽满，不偷（怠惰）于农。（《商君书•农战》）
-      url: xxxx
-      vernacular: 善于治理国家的人，粮仓即使充实，在农业上也绝不偷懒。
-    - ancient: <为>国者无使为积威之所劫哉！（《六国论》）
-      url: xxxx
-      vernacular: 治理国家的人不要被积久的威势所胁迫啊！
-  - trans: ❽创作;写作。
-    sentences:
-    - ancient: 因<为>长句，歌以赠之，凡六百一十六言。（《琵琶行》序）
-      url: xxxx
-      vernacular: 于是撰写了这首七言歌行,吟唱一番来赠送给她,一共有六百一十二字
-    - ancient: 余既<为>此志，后五年，吾妻来归。（《项脊轩志》）
-      url: xxxx
-      vernacular: 我作了这篇文章之后，过了五年，我的妻子嫁到我家来
-  - trans: ❾整理。
-    sentences:
-    - ancient: 以试人，血濡缕，人无不立死者。乃<为>装遣荆轲。（《荆轲刺秦王》）
-      url: xxxx
-      vernacular: 用人来试(那把用毒药水淬过的匕首)，血沾湿衣裳,人没有不立马死亡的。
-  - trans: ❿演奏。
-    sentences:
-    - ancient: 高渐离击筑，荆轲和而歌，<为>变徴之声，士皆垂泪涕泣。（《荆轲刺秦王》）
-      url: xxxx
-      vernacular: 高渐离敲着筑，荆轲和着节拍唱歌，发出悲凉的声音，众宾客都流着眼泪小声地哭。
-  - trans: 11 认为。
-    sentences:
-    - ancient: 窃<为>大王不取也！（《鸿门宴》）
-      url: xxxx
-      vernacular: 我以为大王不应该采取这种做法。
-- word: 为
-  type: 【介词】
-  phonetic: wei2
-  tags:
-  - 高中
-  samples:
-  - trans: 相当于"被"。常与"所"配合使用，引出施动者。
-    sentences:
-    - ancient: 身死人手，<为>天下笑者，何也？（《过秦论》）
-      url: xxxx
-      vernacular: 秦王子婴死在别人（项羽）手里，被天下人耻笑，这是为什么呢？
-    - ancient: 武父子亡功德，皆<为>陛下所成就。（《苏武传》）
-      url: xxxx
-      vernacular: 苏武父子无功劳和恩德，都是皇帝栽培提拔起来的
-    - ancient: 既自以心<为>形役，奚惆怅而独悲？（《归去来兮辞》）
-      url: xxxx
-      vernacular: 既然自己的心灵为形体所役使，为什么如此失意而独自伤悲？
-    - ancient: 有如此之势，而<为>秦人积威之所劫，日削月割，以趋于亡。（《六国论》）
-      url: xxxx
-      vernacular: 有这样的有利形势，却被秦国积久的威势所胁迫，天天割地，月月割地，以至于走向灭亡。
-    - ancient: 【高考题例】父<为>郭氾所害，芝襁褓流离。（《晋书•鲁芝传》）
-      url: xxxx
-      vernacular: 他的父亲被郭氾所害，鲁芝从小流离失所。
-- word: 为
-  type: 【助词】
-  phonetic: wei2
-  tags:
-  - 高中
-  samples:
-  - trans: ❶用于句末，表示疑问、感叹、反诘，可译为"呢"。
-    sentences:
-    - ancient: 如今人方为（是）刀俎，我为（是）鱼肉，何辞<为>?（《鸿门宴》）
-      url: xxxx
-      vernacular: 现在人家好比是菜刀和砧板，我们好比是鱼和肉，告辞干什么呢？
-    - ancient: 奚以之九万里而南<为>?（《逍遥游》）
-      url: xxxx
-      vernacular: 为什么要到九万里的高空再而向南飞呢？
-    - ancient: 何以伐<为>？（《季氏将伐颛臾》）
-      url: xxxx
-      vernacular: 为什么要讨伐它呢？
-    - ancient: 何故怀瑾握瑜（比喻有才能），而自令见放<为>？（《史记•屈原贾生列传》）
-      url: xxxx
-      vernacular: 为什么要怀抱美玉一般的品质，却使自己被放逐呢？
-  - trans: ❷宾语前置的标志，不译。
-    sentences:
-    - ancient: 其一人专心致志，惟弈秋之<为>听。（《孟子•告子上》）
-      url: xxxx
-      vernacular: 其中一人专心致志的学习，只听弈秋的教导
-    - ancient: 何以汝<为>见?（《苏武传》）
-      url: xxxx
-      vernacular: 我为什么要见你？
-    - ancient: 【高考题例】此事，申饬边臣岂不可，何以使<为>？（《宋史•许将传》）
-      url: xxxx
-      vernacular: 这件事，斥责守边疆的大臣难道不行，哪里用得着使者出面?
-- word: 为
-  type: 【介词】
-  phonetic: wei4
-  tags:
-  - 高中
-  samples:
-  - trans: ❶引出服务的对象。相当于"帮助"；"给”；"替"。
-    sentences:
-    - ancient: 于是<为>长安君约车百乘（sheng4，四马一车为一乘），质（留作保证的人）于齐。（《触龙说赵太后》）
-      url: xxxx
-      vernacular: 于是就替长安君准备了一百辆车子,送他到齐国去做人质。
-    - ancient: <为>之声义，敛赀财以送其行，哭声震动天地。（《五人墓碑记》）
-      url: xxxx
-      vernacular: 替他伸张正义，募集钱财送他起行，哭声震动天地。
-    - ancient: 于是六国之士，有宁越、徐尚、苏秦、杜赫之属<为>之谋。（《过秦论》）
-      url: xxxx
-      vernacular: 在这时，六国的士人，就有宁越、徐尚、苏秦等人沟通他们的意见
-    - ancient: 旦日飨士卒，<为>击破沛公军！（《鸿门宴》）
-      url: xxxx
-      vernacular: 明天犒劳士兵，给我打败刘邦的军队！
-  - trans: ❷引出动作、行为的原因。相当于"因为"。
-    sentences:
-    - ancient: 天行有常，不<为>尧存，不<为>桀亡。（《荀子•天论》）
-      url: xxxx
-      vernacular: 大自然的运行有其自身规律,这个规律不会因为尧的圣明或者桀的暴虐而改变。
-    - ancient: 夫子胡<为>忧也？（《晏子春秋•内篇杂上》）
-      url: xxxx
-      vernacular: 先前燕国客人在您身边，先生为何忧虑呢？
-    - ancient: 苏子愀然，正襟危坐而问客曰："何<为>其然也?"（《赤壁赋》）
-      url: xxxx
-      vernacular: 我的神色也愁惨起来，整好衣襟坐端正，向客人问道：“箫声为什么这样哀怨呢？”
-    - ancient: 其险也如此，嗟尔远道之人胡<为>乎来哉！（《蜀道难》）
-      url: xxxx
-      vernacular: 唉呀呀你这个远方而来的客人，为了什么而来到这险要的地方？
-  - trans: ❸引出动作、行为的目的。相当于"为了"。
-    sentences:
-    - ancient: 天下熙熙，皆<为>利来;天下攘攘，皆<为>利往。（《史记・货殖列传》）
-      url: xxxx
-      vernacular: 天下人为了利益而蜂拥而至，为了利益各奔东西。
-    - ancient: 盖<为>人与<为>己殊（不同）也。（唐•陆贽《翰苑集•奉天请罢琼林大盈二库状》
-      url: xxxx
-      vernacular: 盖为人与为己殊也:为别人(即为百姓)与为自己做事意义是不一样的。
-    - ancient: 慎勿<为>妇死，贵贱情何薄！（《孔雀东南飞》）
-      url: xxxx
-      vernacular: 千万不要为了一个妇人去寻死，贵贱不同你将她遗弃怎能算情薄？
-  - trans: 4 引出动作、行为所涉及的对象。相当于"跟""对"。
-    sentences:
-    - ancient: 如姬<为>公子泣，公子使客斩其仇头，敬进如姬。（《史记•魏公子列传》）
-      url: xxxx
-      vernacular: 如姬曾对公子哭诉，公子派门客斩了那个仇人的头，恭敬地献给如姬。
-    - ancient: 不足<为>外人道也。（《桃花源记》）
-      url: xxxx
-      vernacular: 不值得对外边的人说。
-- word: 为
-  type: 【连词】
-  phonetic: wei4
-  tags:
-  - 高中
-  samples:
-  - trans: 如果。
-    sentences:
-    - ancient: 秦<为>知之，必不救也。（《战国策•秦策四》）
-      url: xxxx
-      vernacular: 秦国如果知道了，一定是不会去救的。
-    - ancient: 王甚喜人之掩口也，<为>近王，必掩口。（《韩非子•内储说下》）
-      url: xxxx
-      vernacular: 大王很喜欢别人掩着嘴，为了接近大王，你必须要掩口。
+  - word: 为
+    type: 【名词】
+    phonetic: wei2
+    tags:
+      - 高中
+    samples:
+      - trans: 作为;政绩。
+        sentences:
+          - ancient: 未能助上大有<为>，以膏泽（恩惠）斯民。（宋•王安石《答司马谏议书》）
+            url: xxxx
+            vernacular: 没有能够帮助皇上大大地做一番事业，以此造福人民
+  - word: 为
+    type: 【动词】
+    phonetic: wei2
+    tags:
+      - 高中
+    samples:
+      - trans: ❶做;干；当。
+        sentences:
+          - ancient: 不<为>者与不能者之形，何以异？（《齐桓晋文之事》）
+            url: xxxx
+            vernacular: 不肯干与不能干在表现上怎样区别？
+          - ancient: 非为织作迟,君家妇难<为>。（《孔雀东南飞》）
+            url: xxxx
+            vernacular: 不是因为织布织得慢,实在是你家的媳妇不好当。
+          - ancient: 臣之壮也，犹不如人;今老矣，无能<为>也已。（《烛之武退秦师》）
+            url: xxxx
+            vernacular: 我在壮年的时候，尚且不如别人；现在老了，无能为力啊。
+          - ancient: 沛公欲王关中，使子婴<为>相，珍宝尽有之。（《鸿门宴》）
+            url: xxxx
+            vernacular: 刘邦想要在关中称王，让子婴（ying）做丞相
+      - trans: ❷制作;建造。
+        sentences:
+          - ancient: 能以径寸之木<为>宫室、器皿、人物，以至鸟兽、木石。（《核舟记》）
+            url: xxxx
+            vernacular: (他)能用直径一寸的木头，雕刻出宫殿、器具、人物，还有飞鸟、走兽、树木、石头
+      - trans: ❸是;算。
+        sentences:
+          - ancient: 知之<为>知之，不知<为>不知，是知也。（《论语•为政》）
+            url: xxxx
+            vernacular: 知道就是知道，不知道就是不知道，这样才是真正的智慧。
+          - ancient: 亡羊而补牢（羊圈），未<为>迟也。（《战国策•楚策四》）
+            url: xxxx
+            vernacular: 在一些羊逃跑之后，立即去补修羊圈，也还不算太迟
+          - ancient: 共事二三年，始尔未<为>久，女行无偏斜，何意致不厚?（《孔雀东南飞》）
+            url: xxxx
+            vernacular: 我们共同生活才过了两三年，这种甜美的日子只是开头还不算长久。她的行为没有什么不正当，哪里知道竟会招致你的不满得不到慈爱亲厚。
+          - ancient: 吾令人望其气，皆<为>龙虎，成五采，此天子气也。（《鸿门宴》）
+            url: xxxx
+            vernacular: 我叫人观望他那里的气运，都是龙虎的形状，呈现五彩的颜色，这是天子的运气呀。
+      - trans: ❹当作。
+        sentences:
+          - ancient: 斩木<为>兵（兵器），揭竿<为>旗。（《过秦论》）
+            url: xxxx
+            vernacular: 砍下树木作武器，举起竹竿当旗帜
+          - ancient: 若舍郑以<为>东道主，行年之往来，共其乏困，君亦无所害。（《烛之武退秦师》）
+            url: xxxx
+            vernacular: 如果饶恕了郑国，并且把它做为东边大道上的主人，出使的人来来往往，（郑国可以随时）供给他们缺少的东西，对您也没有什么害处。
+      - trans: ❺叫作。
+        sentences:
+          - ancient: 北冥有鱼，其名<为>鲲。（《逍遥游》）
+            url: xxxx
+            vernacular: 北方的海里有一条大鱼，名字叫鲲。
+      - trans: ❻成为；变为。
+        sentences:
+          - ancient: 冰，水<为>之，而寒于水。（《劝学》）
+            url: xxxx
+            vernacular: 冰，是水凝结而成的，然而却比水更寒冷。
+          - ancient: 儿已薄禄相，幸复得此妇，结发同枕席，黄泉共<为>友。（《孔雀东南飞》）
+            url: xxxx
+            vernacular: 儿已经没有做高官享厚禄的福相，幸而娶得这样一个好媳妇。刚成年时我们便结成同床共枕的恩爱夫妻，并希望同生共死直到黄泉也相伴为伍。
+      - trans: ❼治理。
+        sentences:
+          - ancient: 善<为>国者，仓廩虽满，不偷（怠惰）于农。（《商君书•农战》）
+            url: xxxx
+            vernacular: 善于治理国家的人，粮仓即使充实，在农业上也绝不偷懒。
+          - ancient: <为>国者无使为积威之所劫哉！（《六国论》）
+            url: xxxx
+            vernacular: 治理国家的人不要被积久的威势所胁迫啊！
+      - trans: ❽创作;写作。
+        sentences:
+          - ancient: 因<为>长句，歌以赠之，凡六百一十六言。（《琵琶行》序）
+            url: xxxx
+            vernacular: 于是撰写了这首七言歌行,吟唱一番来赠送给她,一共有六百一十二字
+          - ancient: 余既<为>此志，后五年，吾妻来归。（《项脊轩志》）
+            url: xxxx
+            vernacular: 我作了这篇文章之后，过了五年，我的妻子嫁到我家来
+      - trans: ❾整理。
+        sentences:
+          - ancient: 以试人，血濡缕，人无不立死者。乃<为>装遣荆轲。（《荆轲刺秦王》）
+            url: xxxx
+            vernacular: 用人来试(那把用毒药水淬过的匕首)，血沾湿衣裳,人没有不立马死亡的。
+      - trans: ❿演奏。
+        sentences:
+          - ancient: 高渐离击筑，荆轲和而歌，<为>变徴之声，士皆垂泪涕泣。（《荆轲刺秦王》）
+            url: xxxx
+            vernacular: 高渐离敲着筑，荆轲和着节拍唱歌，发出悲凉的声音，众宾客都流着眼泪小声地哭。
+      - trans: 11 认为。
+        sentences:
+          - ancient: 窃<为>大王不取也！（《鸿门宴》）
+            url: xxxx
+            vernacular: 我以为大王不应该采取这种做法。
+  - word: 为
+    type: 【介词】
+    phonetic: wei2
+    tags:
+      - 高中
+    samples:
+      - trans: 相当于"被"。常与"所"配合使用，引出施动者。
+        sentences:
+          - ancient: 身死人手，<为>天下笑者，何也？（《过秦论》）
+            url: xxxx
+            vernacular: 秦王子婴死在别人（项羽）手里，被天下人耻笑，这是为什么呢？
+          - ancient: 武父子亡功德，皆<为>陛下所成就。（《苏武传》）
+            url: xxxx
+            vernacular: 苏武父子无功劳和恩德，都是皇帝栽培提拔起来的
+          - ancient: 既自以心<为>形役，奚惆怅而独悲？（《归去来兮辞》）
+            url: xxxx
+            vernacular: 既然自己的心灵为形体所役使，为什么如此失意而独自伤悲？
+          - ancient: 有如此之势，而<为>秦人积威之所劫，日削月割，以趋于亡。（《六国论》）
+            url: xxxx
+            vernacular: 有这样的有利形势，却被秦国积久的威势所胁迫，天天割地，月月割地，以至于走向灭亡。
+          - ancient: 【高考题例】父<为>郭氾所害，芝襁褓流离。（《晋书•鲁芝传》）
+            url: xxxx
+            vernacular: 他的父亲被郭氾所害，鲁芝从小流离失所。
+  - word: 为
+    type: 【助词】
+    phonetic: wei2
+    tags:
+      - 高中
+    samples:
+      - trans: ❶用于句末，表示疑问、感叹、反诘，可译为"呢"。
+        sentences:
+          - ancient: 如今人方为（是）刀俎，我为（是）鱼肉，何辞<为>?（《鸿门宴》）
+            url: xxxx
+            vernacular: 现在人家好比是菜刀和砧板，我们好比是鱼和肉，告辞干什么呢？
+          - ancient: 奚以之九万里而南<为>?（《逍遥游》）
+            url: xxxx
+            vernacular: 为什么要到九万里的高空再而向南飞呢？
+          - ancient: 何以伐<为>？（《季氏将伐颛臾》）
+            url: xxxx
+            vernacular: 为什么要讨伐它呢？
+          - ancient: 何故怀瑾握瑜（比喻有才能），而自令见放<为>？（《史记•屈原贾生列传》）
+            url: xxxx
+            vernacular: 为什么要怀抱美玉一般的品质，却使自己被放逐呢？
+      - trans: ❷宾语前置的标志，不译。
+        sentences:
+          - ancient: 其一人专心致志，惟弈秋之<为>听。（《孟子•告子上》）
+            url: xxxx
+            vernacular: 其中一人专心致志的学习，只听弈秋的教导
+          - ancient: 何以汝<为>见?（《苏武传》）
+            url: xxxx
+            vernacular: 我为什么要见你？
+          - ancient: 【高考题例】此事，申饬边臣岂不可，何以使<为>？（《宋史•许将传》）
+            url: xxxx
+            vernacular: 这件事，斥责守边疆的大臣难道不行，哪里用得着使者出面?
+  - word: 为
+    type: 【介词】
+    phonetic: wei4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶引出服务的对象。相当于"帮助"；"给”；"替"。
+        sentences:
+          - ancient: 于是<为>长安君约车百乘（sheng4，四马一车为一乘），质（留作保证的人）于齐。（《触龙说赵太后》）
+            url: xxxx
+            vernacular: 于是就替长安君准备了一百辆车子,送他到齐国去做人质。
+          - ancient: <为>之声义，敛赀财以送其行，哭声震动天地。（《五人墓碑记》）
+            url: xxxx
+            vernacular: 替他伸张正义，募集钱财送他起行，哭声震动天地。
+          - ancient: 于是六国之士，有宁越、徐尚、苏秦、杜赫之属<为>之谋。（《过秦论》）
+            url: xxxx
+            vernacular: 在这时，六国的士人，就有宁越、徐尚、苏秦等人沟通他们的意见
+          - ancient: 旦日飨士卒，<为>击破沛公军！（《鸿门宴》）
+            url: xxxx
+            vernacular: 明天犒劳士兵，给我打败刘邦的军队！
+      - trans: ❷引出动作、行为的原因。相当于"因为"。
+        sentences:
+          - ancient: 天行有常，不<为>尧存，不<为>桀亡。（《荀子•天论》）
+            url: xxxx
+            vernacular: 大自然的运行有其自身规律,这个规律不会因为尧的圣明或者桀的暴虐而改变。
+          - ancient: 夫子胡<为>忧也？（《晏子春秋•内篇杂上》）
+            url: xxxx
+            vernacular: 先前燕国客人在您身边，先生为何忧虑呢？
+          - ancient: 苏子愀然，正襟危坐而问客曰："何<为>其然也?"（《赤壁赋》）
+            url: xxxx
+            vernacular: 我的神色也愁惨起来，整好衣襟坐端正，向客人问道：“箫声为什么这样哀怨呢？”
+          - ancient: 其险也如此，嗟尔远道之人胡<为>乎来哉！（《蜀道难》）
+            url: xxxx
+            vernacular: 唉呀呀你这个远方而来的客人，为了什么而来到这险要的地方？
+      - trans: ❸引出动作、行为的目的。相当于"为了"。
+        sentences:
+          - ancient: 天下熙熙，皆<为>利来;天下攘攘，皆<为>利往。（《史记・货殖列传》）
+            url: xxxx
+            vernacular: 天下人为了利益而蜂拥而至，为了利益各奔东西。
+          - ancient: 盖<为>人与<为>己殊（不同）也。（唐•陆贽《翰苑集•奉天请罢琼林大盈二库状》
+            url: xxxx
+            vernacular: 盖为人与为己殊也:为别人(即为百姓)与为自己做事意义是不一样的。
+          - ancient: 慎勿<为>妇死，贵贱情何薄！（《孔雀东南飞》）
+            url: xxxx
+            vernacular: 千万不要为了一个妇人去寻死，贵贱不同你将她遗弃怎能算情薄？
+      - trans: 4 引出动作、行为所涉及的对象。相当于"跟""对"。
+        sentences:
+          - ancient: 如姬<为>公子泣，公子使客斩其仇头，敬进如姬。（《史记•魏公子列传》）
+            url: xxxx
+            vernacular: 如姬曾对公子哭诉，公子派门客斩了那个仇人的头，恭敬地献给如姬。
+          - ancient: 不足<为>外人道也。（《桃花源记》）
+            url: xxxx
+            vernacular: 不值得对外边的人说。
+  - word: 为
+    type: 【连词】
+    phonetic: wei4
+    tags:
+      - 高中
+    samples:
+      - trans: 如果。
+        sentences:
+          - ancient: 秦<为>知之，必不救也。（《战国策•秦策四》）
+            url: xxxx
+            vernacular: 秦国如果知道了，一定是不会去救的。
+          - ancient: 王甚喜人之掩口也，<为>近王，必掩口。（《韩非子•内储说下》）
+            url: xxxx
+            vernacular: 大王很喜欢别人掩着嘴，为了接近大王，你必须要掩口。

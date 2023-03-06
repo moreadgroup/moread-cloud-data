@@ -1,283 +1,283 @@
 ---
 words:
-- word: 以
-  type: 【名词】
-  phonetic: xyi3
-  tags:
-  - 高中
-  samples:
-  - trans: 原因；缘由。
-    sentences:
-    - ancient: 宋人执而问其<以>。（《列子•周穆王》）
-      url: xxxx
-      vernacular: 宋国人把他捉住并问他为什么这样做。
-    - ancient: 古人思炳烛夜游，良有<以>也。（三国魏•曹丕《与吴质书》）
-      url: xxxx
-      vernacular: 古人想夜里拿着蜡烛游玩，确实很有道理啊。
-- word: 以
-  type: 【动词】
-  phonetic: xyi3
-  tags:
-  - 高中
-  samples:
-  - trans: ❶认为；以为。
-    sentences:
-    - ancient: 老臣<以>媪为长安君计（打算）短（不长远）也。（《触龙说赵太后》）
-      url: xxxx
-      vernacular: 我觉得您为长安君打算得太短了
-    - ancient: 臣之妻私臣，臣之妾畏，臣，臣之客欲有求于臣，皆<以>美于徐公。（《邹忌讽齐王纳谏》）
-      url: xxxx
-      vernacular: 我的妻子认为我美，是偏爱我；我的小妾认为我美，是惧怕我；客人赞美我美，是有事情要求于我。
-    - ancient: 【高考题例】帝<以>芝清忠履正，素无居宅，使军兵为作屋五十间。（《晋书•鲁芝传》）
-      url: xxxx
-      vernacular: 因为鲁芝为官清廉为臣正直，向来不置办田宅，于是武帝派军士为他造了一座有五十间房屋的宅院。
-  - trans: ❷使用；任用。
-    sentences:
-    - ancient: 不使大臣怨乎不<以>。（《论语•微子》）
-      url: xxxx
-      vernacular: 不要让大臣，报怨不被重用、不被任用这个意思。
-    - ancient: 忠不必用兮，贤不必<以>。（战国楚•屈原《涉江》）
-      url: xxxx
-      vernacular: 忠心的人啊，不被重用，贤明的人求进身也难成功。
-  - trans: ❸做;从事。
-    sentences:
-    - ancient: 如或知尔，则何<以>哉？（《子路、曾晳、冉有、公西华侍坐》）
-      url: xxxx
-      vernacular: 假如有人了解你们，那么（你们）打算做些什么事情呢？
-  - trans: ❹率领。
-    sentences:
-    - ancient: 欲<以>客往赴秦军，与赵俱死。（《史记•魏公子列传》）
-      url: xxxx
-      vernacular: 打算带着宾客赶到战场上去同秦军决一死战，与赵国人一起死难。
-    - ancient: 【高考题例】还驻太平，陈友谅<以>舟师来寇。（《明史•花云传》）
-      url: xxxx
-      vernacular: 花云回军驻扎在太平，陈友谅率领水军来攻城
-  - trans: ❺有。
-    sentences:
-    - ancient: 农夫<以>鬻（yu4，卖）子者，上无术以均之也。（《管子•治国》）
-      url: xxxx
-      vernacular: 农民卖儿卖女，其原因就在于君主没有办法均衡人们的收入。
-  - trans: ❻通"已"。停止。
-    sentences:
-    - ancient: 无<以>，则王乎？（《齐桓晋文之事》）
-      url: xxxx
-      vernacular: （如果）不能不说，那么还是说说行王道的事吧！
-    - ancient: 盖将自其变者而观之，则天地曾不能<以>一瞬。（《赤壁赋》）
-      url: xxxx
-      vernacular: 可见，从事物易变的一面看来，天地间没有一瞬间不发生变化
-- word: 以
-  type: 【代词】
-  phonetic: xyi3
-  tags:
-  - 高中
-  samples:
-  - trans: 用作疑问代词，与"何""用法相同，相当于"哪里""什么"等。
-    sentences:
-    - ancient: 于<以>采蘩（fan2，白蒿）？于沼之中。于<以>用之？公侯之宫。（《诗绣•召南•釆蘩》）
-      url: xxxx
-      vernacular: 什么地方采白蘩，沼泽旁边沙洲上。采来白蘩做何用？公侯之家祭祀用。
-    - ancient: 于<以>盛（cheng2）之?维筐及筥（ju3，圆形的竹筐）。于<以>湘（煮）去？维锜（qi2）及釜。（《涂经•召南•釆蘋》）
-      url: xxxx
-      vernacular:  用什么来装? 圆箩和方筐。 用什么来煮? 无腿有腿锅。 筐:方形盛物的竹器。 筥(音举):圆形竹筐。
-- word: 以
-  type: 【副词】
-  phonetic: xyi3
-  tags:
-  - 高中
-  samples:
-  - trans: ❶通"已"。已经。
-    sentences:
-    - ancient: 得鱼腹中书，固<以>怪之矣。（《陈涉世家＞）
-      url: xxxx
-      vernacular: 士兵们买鱼回来烹食，发现鱼肚子里面的帛书，本来已经对这事感到奇怪了。
-    - ancient: 日<以>尽矣，荆卿岂无意哉？（《荆轲刺秦王》）
-      url: xxxx
-      vernacular: 时间跨度不早了，您难道没有动身的意思吗？
-  - trans: ❷唯;只是。
-    sentences:
-    - ancient: 君家所寡有者<以>义耳。（《战国策•齐策四》）
-      url: xxxx
-      vernacular: 您家所缺少的只是‘义’罢了。
-- word: 以
-  type: 【介词】
-  phonetic: xyi3
-  tags:
-  - 高中
-  samples:
-  - trans: ❶介绍动作行为直接涉及的对象，相当于"把""拿"。
-    sentences:
-    - ancient: 至军中，具<以>沛公言报项王。（《鸿门宴》）
-      url: xxxx
-      vernacular: 回到军营里，把刘邦的话报告了项羽。
-    - ancient: 若舍郑<以>为东道主，行李之往来，共其乏困，君亦无所害。（《烛之武退秦师》）
-      url: xxxx
-      vernacular: 如果饶恕了郑国，并且把它做为东边大道上的主人，出使的人来来往往，（郑国可以随时）供给他们缺少的东西，对您也没有什么害处。
-    - ancient: 民生各有所乐兮，余独好修<以>为常。（《离骚》）
-      url: xxxx
-      vernacular: 人们各有自己的爱好啊，我独爱好修饰习以为常。
-  - trans: ❷介绍动作行为所赖以实现的工具、手段、前提等，相当于"用""拿""按""根据"等。
-    sentences:
-    - ancient: 百工为方<以>矩，为圆<以>规，直<以>绳，正<以>县。（《墨子•法仪》）
-      url: xxxx
-      vernacular: 工匠们用矩划成方形，用圆规划圆形，用绳墨划成直线，用悬锤定好偏正，(用水平器制好平面)。
-    - ancient: <以>所不睹不信人，若蝉之不知雪。（《盐铁论•相刺》）
-      url: xxxx
-      vernacular: 因为自己没有看见,就不相信别人,这就好像蝉不知道有雪一样。
-    - ancient: 扪参历井仰胁息，<以>手抚膺坐长叹。（《蜀道难》）
-      url: xxxx
-      vernacular: 屏住呼吸仰头过参井皆可触摸，用手抚胸惊恐不已徒长吁短叹。
-    - ancient: 秦王<以>十五城请易寡人之璧，可予不？（《廉颇蔺相如列传》）
-      url: xxxx
-      vernacular: 秦王用十五座城池请求交换我的和氏璧，能不能给他？
-    - ancient: 荆轲奉樊於期头函，而秦武阳奉地图匣，<以>次进。（《荆轲刺秦王》）
-      url: xxxx
-      vernacular: 荆轲捧着装了樊於期头颅的盒子，秦武阳捧着装有地图的匣子，依次进来。
-    - ancient: 斧斤<以>时入山林，材木不可胜用也。（《寡人之于国也》）
-      url: xxxx
-      vernacular: 砍伐林木有定时，那木材便用不尽。
-    - ancient: 【高考题例】令行于民期年，秦民之国都言初令之不便者<以>千数。（《史记•商君列传》）
-      url: xxxx
-      vernacular:  新法实行一年,来国都抱怨新法不便的秦国百姓数以千计。
-    - ancient: 而曜好臧否人物，曜每言论，弘微常<以>它语乱之。（《宋书•谢弘微传》）
-      url: xxxx
-      vernacular: 而谢曜喜爱褒贬人物,谢曜每每发表议论,弘微常说其他的事岔开话头。
-  - trans: ❸介绍动作行为发生的原因，相当于"因为"。
-    sentences:
-    - ancient: 赵王岂<以>一璧之故欺秦邪？（《廉颇蔺相如列传》）
-      url: xxxx
-      vernacular: 赵王难道会为了一块璧玉的缘故而欺骗秦国吗！
-    - ancient: 不赂者<以>赂者丧。（《六国论》）
-      url: xxxx
-      vernacular: 不贿赂秦国的，因为有贿赂秦国的国家而灭亡。
-    - ancient: 方急时，不及召下兵，<以>故荆轲逐秦王。（《荆轲刺秦王》）
-      url: xxxx
-      vernacular: 正在慌急之中，而且也来不及召来侍卫，所以荆轲追逐秦王
-  - trans: ❹介绍动作行为发生的时间，相当于"在""于"等。
-    sentences:
-    - ancient: 将<以>己丑焚公宫。（《国语•晋语四》）
-      url: xxxx
-      vernacular: 打算在己丑那天焚烧文公的宫殿
-    - ancient: 武<以>始元六年春至京师。（《苏武传》）
-      url: xxxx
-      vernacular: 苏武于汉昭帝始元六年（前81年）春回到长安。
-    - ancient: 孔子年七十三，<以>鲁哀公十六年四月己丑卒。（《史记•孔子世家》）
-      url: xxxx
-      vernacular:     孔子享年七十三岁，在鲁哀公十六年四月的己丑日逝世。
-  - trans: ❺介绍动作行为起始的地点，相当于"从""自"。
-    sentences:
-    - ancient: 今<以>长沙、豫章往，水道多绝，难行。（《汉书•西南一夷传》）
-      url: xxxx
-      vernacular: 如今从长沙和豫章郡前去，水路多半被阻绝，难以前行。
-  - trans: ❻介绍动作行为伴随的对象，相当于""跟""同"。
-    sentences:
-    - ancient: 不我<以>归，忧心有忡。（《诗经•耶风•击鼓》）
-      url: xxxx
-      vernacular: 不允许我回家，（使我）忧心忡忡。
-  - trans: ❼凭借，依靠。
-    sentences:
-    - ancient: 然秦<以>区区之地，致万乘之势，序八州而朝同列，百有余年矣。（《过秦论》）
-      url: xxxx
-      vernacular: 然而秦凭借着它的小小的地方，发展到兵车万乘的国势，管辖全国，使六国诸侯都来朝见，已经一百多年了
-    - ancient: 武，字子卿。少<以>父任，兄弟并为郎。（《苏武传》）
-      url: xxxx
-      vernacular: 苏武字子卿，年轻时，因为父亲职任的关系而被任用，兄弟都作了皇帝的侍从官。
-    - ancient: 【高考题例】贼攻三日不得入，<以>巨舟乘涨，缘舟尾攀堞而上。（《明史•花云传》）
-      url: xxxx
-      vernacular: 贼寇进攻三天不得入城，利用大船乘着涨水，沿着船尾攀爬城墙的垛口上去。 
-  - trans: ❽凭借……身份。
-    sentences:
-    - ancient: 武帝嘉（赞赏）其义，乃遣武<以>中郎将使持节送匈奴使留在汉者，因（趁机）厚赂单于，答其善意。（《苏武传》）
-      url: xxxx
-      vernacular: 汉武帝赞许他这种合乎情理的做法，于是派遣苏武以中郎将的身份出使，持旄节护送扣留在汉的匈奴使者回国，趁便送给单于很丰厚的礼物，以答谢他的好意。
-    - ancient: 是时<以>大中丞抚吴者为魏之私人毛一鹭，公之逮所由使也。（《五人墓碑记》）
-      url: xxxx
-      vernacular: 当时以大中丞职衔作应天府巡抚的是魏忠贤的党羽，周公被捕就是由他主使的。
-    - ancient: 于是，辞相印不拜，翌日，<以>资政殿学士行。（《〈指南录〉后序》）
-      url: xxxx
-      vernacular: 于是，辞去右丞相职位，第二天，以资政殿学士的身份前往。
-    - ancient: 【高考题例】<以>端明殿学士知郑州，为政有能声。（《宋史•曾公亮传》）
-      url: xxxx
-      vernacular: xxxx
-- word: 以
-  type: 【连词】
-  phonetic: xyi3
-  tags:
-  - 高中
-  samples:
-  - trans: ❶表示动作行为的目的，相当于""来""去""为了""以便"等。
-    sentences:
-    - ancient: 张廷蔚论定律令，明法<以>绳天下。（《盐铁论・轻重》）
-      url: xxxx
-      vernacular: 张廷尉修改法令，用严法来治理天下
-    - ancient: 属予作文<以>记之。（《岳阳楼记》）
-      url: xxxx
-      vernacular: 嘱托我写一篇文章来记述这件事情。
-    - ancient: 于是废先王之道，焚百家之言，<以>愚黔首。（《过秦论》）
-      url: xxxx
-      vernacular: 秦始皇接着就废除古代帝王的治世之道，焚烧诸子百家的著作，来使百姓愚蠢。
-    - ancient: 将有作，则思知止<以>安人。（《谏太宗十思疏》）
-      url: xxxx
-      vernacular: 将要兴建什么，就要想到适可而止来使百姓安定。
-    - ancient: 【高考题例】权留史馆修撰<以>下之，休烈恬然自持，殊不介意。《旧唐书•于休烈传》）
-      url: xxxx
-      vernacular: 暂且留在史馆从事修撰以贬低他，于休烈安然自处，毫不介意。
-  - trans: ❷表示原因。
-    sentences:
-    - ancient: 晋侯、秦伯围郑，<以>其无礼于晋，且贰于楚也。（《烛之武退秦师》）
-      url: xxxx
-      vernacular: 晋文公、秦穆公出兵围攻郑国，因为郑国曾对文公无礼，并且郑国同时依附于楚国与晋国。
-    - ancient: <以>其境过清，不可久居，乃记之而去。（《小石潭记》）
-      url: xxxx
-      vernacular: 因为这里的环境太凄清，不可长久停留，于是记下了这里的情景就离开了。
-  - trans: ❸表示动作行为的结果，相当于""才""以至于""等。
-    sentences:
-    - ancient: 百工居肆<以>成其事，君子学以致其道。（《论语•子张》）
-      url: xxxx
-      vernacular: 各行各业的工匠在作坊里完成他们的工作，君子则通过学习来掌握道。
-    - ancient: 太公相文、武<以>王天下，管仲相桓公<以>霸诸侯。（《盐铁论•刺复》）
-      url: xxxx
-      vernacular: 姜太公辅助周文王、周武王取得天下，管仲辅助齐桓公成为诸侯霸主。
-    - ancient: 中丞匿于溷藩<以>免。（《五人墓碑记》）
-      url: xxxx
-      vernacular: 这位大中丞藏在厕所里才得以逃脱。
-    - ancient: 思厥先祖父，暴霜露，斩荆棘，<以>有尺寸之地。（《六国论》）
-      url: xxxx
-      vernacular: 想到他们的祖辈父辈,冒着寒霜雨露,披荆斩棘,才有了很少的一点土地。
-  - trans: ❹表示动作行为的承接关系，相当于""而"。
-    sentences:
-    - ancient: 以舅犯之谋与楚人战<以>败之。（《韩非子•难一》）
-      url: xxxx
-      vernacular: 文公用舅犯的谋略和楚军作战，结果打败了敌人。
-    - ancient: 虏魏太子申<以>归。（《史记•孙子吴起列传》）
-      url: xxxx
-      vernacular: 俘虏魏太子申带回了齐国。
-  - trans: ❺表示动作行为的偏正关系，相当于""来""去""而""地"等。
-    sentences:
-    - ancient: 樊哙侧其盾<以>撞。（《鸿门宴》）
-      url: xxxx
-      vernacular: 樊哙侧着盾牌撞去。
-    - ancient: 武王继之，载尸<以>行，破商擒纣，遂成王业。（《盐铁论•复古》）
-      url: xxxx
-      vernacular: 周武王继承文王的事业，载着文王的牌位，灭了商朝，生擒商纣王，成就了帝王大业。
-    - ancient: 余与四人拥火<以>入，入之愈深，其进愈难，而其见愈奇。（《游褒禅山记》）
-      url: xxxx
-      vernacular: 我与四个人打着火把走进去，进去越深，前进越困难，而所见到的景象越奇妙。
-    - ancient: 吴之民方痛心焉，于是乘其厉声<以>呵，则噪而相（指代中丞）逐。（《五人墓碑记》）
-      url: xxxx
-      vernacular: 苏州的老百姓正在痛恨他，这时趁着他厉声呵骂的时候，就一齐喊叫着追赶他。
-  - trans: ❻连接""来""往""上""下""东""西""南""北"等词，表示时间、处所或范围，相当于""以""往"等。
-    sentences:
-    - ancient: 从此<以>往，永奉欢好，心无纤（细小）虑也。（《柳毅传》）
-      url: xxxx
-      vernacular: 从今以后，我们欢欢乐乐永远在一起，心里就没有一丝顾虑了。
-    - ancient: 由山<以>上五六里，有穴窈然（窈yao3，深远幽暗的样子）。（《游褒禅山记》）
-      url: xxxx
-      vernacular: 经由山路向上五六里，有个洞穴，一派幽深的样子。
-  - trans: ❼表示并列关系，相当于""又""而"。
-    sentences:
-    - ancient: 身既死兮神<以>灵，魂魄毅兮为鬼雄。
-      url: xxxx
-      vernacular: 人虽死亡而灵魂终究不泯， 魂魄刚毅不愧为鬼中英雄！
-    - ancient: 夫夷<以>近，则游者众；险<以>远，则至者少。（《游褒禅山记》）
-      url: xxxx
-      vernacular: 平坦而又近的地方，前来游览的人便多；危险而又远的地方，前来游览的人便少。
+  - word: 以
+    type: 【名词】
+    phonetic: xyi3
+    tags:
+      - 高中
+    samples:
+      - trans: 原因；缘由。
+        sentences:
+          - ancient: 宋人执而问其<以>。（《列子•周穆王》）
+            url: xxxx
+            vernacular: 宋国人把他捉住并问他为什么这样做。
+          - ancient: 古人思炳烛夜游，良有<以>也。（三国魏•曹丕《与吴质书》）
+            url: xxxx
+            vernacular: 古人想夜里拿着蜡烛游玩，确实很有道理啊。
+  - word: 以
+    type: 【动词】
+    phonetic: xyi3
+    tags:
+      - 高中
+    samples:
+      - trans: ❶认为；以为。
+        sentences:
+          - ancient: 老臣<以>媪为长安君计（打算）短（不长远）也。（《触龙说赵太后》）
+            url: xxxx
+            vernacular: 我觉得您为长安君打算得太短了
+          - ancient: 臣之妻私臣，臣之妾畏，臣，臣之客欲有求于臣，皆<以>美于徐公。（《邹忌讽齐王纳谏》）
+            url: xxxx
+            vernacular: 我的妻子认为我美，是偏爱我；我的小妾认为我美，是惧怕我；客人赞美我美，是有事情要求于我。
+          - ancient: 【高考题例】帝<以>芝清忠履正，素无居宅，使军兵为作屋五十间。（《晋书•鲁芝传》）
+            url: xxxx
+            vernacular: 因为鲁芝为官清廉为臣正直，向来不置办田宅，于是武帝派军士为他造了一座有五十间房屋的宅院。
+      - trans: ❷使用；任用。
+        sentences:
+          - ancient: 不使大臣怨乎不<以>。（《论语•微子》）
+            url: xxxx
+            vernacular: 不要让大臣，报怨不被重用、不被任用这个意思。
+          - ancient: 忠不必用兮，贤不必<以>。（战国楚•屈原《涉江》）
+            url: xxxx
+            vernacular: 忠心的人啊，不被重用，贤明的人求进身也难成功。
+      - trans: ❸做;从事。
+        sentences:
+          - ancient: 如或知尔，则何<以>哉？（《子路、曾晳、冉有、公西华侍坐》）
+            url: xxxx
+            vernacular: 假如有人了解你们，那么（你们）打算做些什么事情呢？
+      - trans: ❹率领。
+        sentences:
+          - ancient: 欲<以>客往赴秦军，与赵俱死。（《史记•魏公子列传》）
+            url: xxxx
+            vernacular: 打算带着宾客赶到战场上去同秦军决一死战，与赵国人一起死难。
+          - ancient: 【高考题例】还驻太平，陈友谅<以>舟师来寇。（《明史•花云传》）
+            url: xxxx
+            vernacular: 花云回军驻扎在太平，陈友谅率领水军来攻城
+      - trans: ❺有。
+        sentences:
+          - ancient: 农夫<以>鬻（yu4，卖）子者，上无术以均之也。（《管子•治国》）
+            url: xxxx
+            vernacular: 农民卖儿卖女，其原因就在于君主没有办法均衡人们的收入。
+      - trans: ❻通"已"。停止。
+        sentences:
+          - ancient: 无<以>，则王乎？（《齐桓晋文之事》）
+            url: xxxx
+            vernacular: （如果）不能不说，那么还是说说行王道的事吧！
+          - ancient: 盖将自其变者而观之，则天地曾不能<以>一瞬。（《赤壁赋》）
+            url: xxxx
+            vernacular: 可见，从事物易变的一面看来，天地间没有一瞬间不发生变化
+  - word: 以
+    type: 【代词】
+    phonetic: xyi3
+    tags:
+      - 高中
+    samples:
+      - trans: 用作疑问代词，与"何""用法相同，相当于"哪里""什么"等。
+        sentences:
+          - ancient: 于<以>采蘩（fan2，白蒿）？于沼之中。于<以>用之？公侯之宫。（《诗绣•召南•釆蘩》）
+            url: xxxx
+            vernacular: 什么地方采白蘩，沼泽旁边沙洲上。采来白蘩做何用？公侯之家祭祀用。
+          - ancient: 于<以>盛（cheng2）之?维筐及筥（ju3，圆形的竹筐）。于<以>湘（煮）去？维锜（qi2）及釜。（《涂经•召南•釆蘋》）
+            url: xxxx
+            vernacular: 用什么来装? 圆箩和方筐。 用什么来煮? 无腿有腿锅。 筐:方形盛物的竹器。 筥(音举):圆形竹筐。
+  - word: 以
+    type: 【副词】
+    phonetic: xyi3
+    tags:
+      - 高中
+    samples:
+      - trans: ❶通"已"。已经。
+        sentences:
+          - ancient: 得鱼腹中书，固<以>怪之矣。（《陈涉世家＞）
+            url: xxxx
+            vernacular: 士兵们买鱼回来烹食，发现鱼肚子里面的帛书，本来已经对这事感到奇怪了。
+          - ancient: 日<以>尽矣，荆卿岂无意哉？（《荆轲刺秦王》）
+            url: xxxx
+            vernacular: 时间跨度不早了，您难道没有动身的意思吗？
+      - trans: ❷唯;只是。
+        sentences:
+          - ancient: 君家所寡有者<以>义耳。（《战国策•齐策四》）
+            url: xxxx
+            vernacular: 您家所缺少的只是‘义’罢了。
+  - word: 以
+    type: 【介词】
+    phonetic: xyi3
+    tags:
+      - 高中
+    samples:
+      - trans: ❶介绍动作行为直接涉及的对象，相当于"把""拿"。
+        sentences:
+          - ancient: 至军中，具<以>沛公言报项王。（《鸿门宴》）
+            url: xxxx
+            vernacular: 回到军营里，把刘邦的话报告了项羽。
+          - ancient: 若舍郑<以>为东道主，行李之往来，共其乏困，君亦无所害。（《烛之武退秦师》）
+            url: xxxx
+            vernacular: 如果饶恕了郑国，并且把它做为东边大道上的主人，出使的人来来往往，（郑国可以随时）供给他们缺少的东西，对您也没有什么害处。
+          - ancient: 民生各有所乐兮，余独好修<以>为常。（《离骚》）
+            url: xxxx
+            vernacular: 人们各有自己的爱好啊，我独爱好修饰习以为常。
+      - trans: ❷介绍动作行为所赖以实现的工具、手段、前提等，相当于"用""拿""按""根据"等。
+        sentences:
+          - ancient: 百工为方<以>矩，为圆<以>规，直<以>绳，正<以>县。（《墨子•法仪》）
+            url: xxxx
+            vernacular: 工匠们用矩划成方形，用圆规划圆形，用绳墨划成直线，用悬锤定好偏正，(用水平器制好平面)。
+          - ancient: <以>所不睹不信人，若蝉之不知雪。（《盐铁论•相刺》）
+            url: xxxx
+            vernacular: 因为自己没有看见,就不相信别人,这就好像蝉不知道有雪一样。
+          - ancient: 扪参历井仰胁息，<以>手抚膺坐长叹。（《蜀道难》）
+            url: xxxx
+            vernacular: 屏住呼吸仰头过参井皆可触摸，用手抚胸惊恐不已徒长吁短叹。
+          - ancient: 秦王<以>十五城请易寡人之璧，可予不？（《廉颇蔺相如列传》）
+            url: xxxx
+            vernacular: 秦王用十五座城池请求交换我的和氏璧，能不能给他？
+          - ancient: 荆轲奉樊於期头函，而秦武阳奉地图匣，<以>次进。（《荆轲刺秦王》）
+            url: xxxx
+            vernacular: 荆轲捧着装了樊於期头颅的盒子，秦武阳捧着装有地图的匣子，依次进来。
+          - ancient: 斧斤<以>时入山林，材木不可胜用也。（《寡人之于国也》）
+            url: xxxx
+            vernacular: 砍伐林木有定时，那木材便用不尽。
+          - ancient: 【高考题例】令行于民期年，秦民之国都言初令之不便者<以>千数。（《史记•商君列传》）
+            url: xxxx
+            vernacular: 新法实行一年,来国都抱怨新法不便的秦国百姓数以千计。
+          - ancient: 而曜好臧否人物，曜每言论，弘微常<以>它语乱之。（《宋书•谢弘微传》）
+            url: xxxx
+            vernacular: 而谢曜喜爱褒贬人物,谢曜每每发表议论,弘微常说其他的事岔开话头。
+      - trans: ❸介绍动作行为发生的原因，相当于"因为"。
+        sentences:
+          - ancient: 赵王岂<以>一璧之故欺秦邪？（《廉颇蔺相如列传》）
+            url: xxxx
+            vernacular: 赵王难道会为了一块璧玉的缘故而欺骗秦国吗！
+          - ancient: 不赂者<以>赂者丧。（《六国论》）
+            url: xxxx
+            vernacular: 不贿赂秦国的，因为有贿赂秦国的国家而灭亡。
+          - ancient: 方急时，不及召下兵，<以>故荆轲逐秦王。（《荆轲刺秦王》）
+            url: xxxx
+            vernacular: 正在慌急之中，而且也来不及召来侍卫，所以荆轲追逐秦王
+      - trans: ❹介绍动作行为发生的时间，相当于"在""于"等。
+        sentences:
+          - ancient: 将<以>己丑焚公宫。（《国语•晋语四》）
+            url: xxxx
+            vernacular: 打算在己丑那天焚烧文公的宫殿
+          - ancient: 武<以>始元六年春至京师。（《苏武传》）
+            url: xxxx
+            vernacular: 苏武于汉昭帝始元六年（前81年）春回到长安。
+          - ancient: 孔子年七十三，<以>鲁哀公十六年四月己丑卒。（《史记•孔子世家》）
+            url: xxxx
+            vernacular: 孔子享年七十三岁，在鲁哀公十六年四月的己丑日逝世。
+      - trans: ❺介绍动作行为起始的地点，相当于"从""自"。
+        sentences:
+          - ancient: 今<以>长沙、豫章往，水道多绝，难行。（《汉书•西南一夷传》）
+            url: xxxx
+            vernacular: 如今从长沙和豫章郡前去，水路多半被阻绝，难以前行。
+      - trans: ❻介绍动作行为伴随的对象，相当于""跟""同"。
+        sentences:
+          - ancient: 不我<以>归，忧心有忡。（《诗经•耶风•击鼓》）
+            url: xxxx
+            vernacular: 不允许我回家，（使我）忧心忡忡。
+      - trans: ❼凭借，依靠。
+        sentences:
+          - ancient: 然秦<以>区区之地，致万乘之势，序八州而朝同列，百有余年矣。（《过秦论》）
+            url: xxxx
+            vernacular: 然而秦凭借着它的小小的地方，发展到兵车万乘的国势，管辖全国，使六国诸侯都来朝见，已经一百多年了
+          - ancient: 武，字子卿。少<以>父任，兄弟并为郎。（《苏武传》）
+            url: xxxx
+            vernacular: 苏武字子卿，年轻时，因为父亲职任的关系而被任用，兄弟都作了皇帝的侍从官。
+          - ancient: 【高考题例】贼攻三日不得入，<以>巨舟乘涨，缘舟尾攀堞而上。（《明史•花云传》）
+            url: xxxx
+            vernacular: 贼寇进攻三天不得入城，利用大船乘着涨水，沿着船尾攀爬城墙的垛口上去。
+      - trans: ❽凭借……身份。
+        sentences:
+          - ancient: 武帝嘉（赞赏）其义，乃遣武<以>中郎将使持节送匈奴使留在汉者，因（趁机）厚赂单于，答其善意。（《苏武传》）
+            url: xxxx
+            vernacular: 汉武帝赞许他这种合乎情理的做法，于是派遣苏武以中郎将的身份出使，持旄节护送扣留在汉的匈奴使者回国，趁便送给单于很丰厚的礼物，以答谢他的好意。
+          - ancient: 是时<以>大中丞抚吴者为魏之私人毛一鹭，公之逮所由使也。（《五人墓碑记》）
+            url: xxxx
+            vernacular: 当时以大中丞职衔作应天府巡抚的是魏忠贤的党羽，周公被捕就是由他主使的。
+          - ancient: 于是，辞相印不拜，翌日，<以>资政殿学士行。（《〈指南录〉后序》）
+            url: xxxx
+            vernacular: 于是，辞去右丞相职位，第二天，以资政殿学士的身份前往。
+          - ancient: 【高考题例】<以>端明殿学士知郑州，为政有能声。（《宋史•曾公亮传》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 以
+    type: 【连词】
+    phonetic: xyi3
+    tags:
+      - 高中
+    samples:
+      - trans: ❶表示动作行为的目的，相当于""来""去""为了""以便"等。
+        sentences:
+          - ancient: 张廷蔚论定律令，明法<以>绳天下。（《盐铁论・轻重》）
+            url: xxxx
+            vernacular: 张廷尉修改法令，用严法来治理天下
+          - ancient: 属予作文<以>记之。（《岳阳楼记》）
+            url: xxxx
+            vernacular: 嘱托我写一篇文章来记述这件事情。
+          - ancient: 于是废先王之道，焚百家之言，<以>愚黔首。（《过秦论》）
+            url: xxxx
+            vernacular: 秦始皇接着就废除古代帝王的治世之道，焚烧诸子百家的著作，来使百姓愚蠢。
+          - ancient: 将有作，则思知止<以>安人。（《谏太宗十思疏》）
+            url: xxxx
+            vernacular: 将要兴建什么，就要想到适可而止来使百姓安定。
+          - ancient: 【高考题例】权留史馆修撰<以>下之，休烈恬然自持，殊不介意。《旧唐书•于休烈传》）
+            url: xxxx
+            vernacular: 暂且留在史馆从事修撰以贬低他，于休烈安然自处，毫不介意。
+      - trans: ❷表示原因。
+        sentences:
+          - ancient: 晋侯、秦伯围郑，<以>其无礼于晋，且贰于楚也。（《烛之武退秦师》）
+            url: xxxx
+            vernacular: 晋文公、秦穆公出兵围攻郑国，因为郑国曾对文公无礼，并且郑国同时依附于楚国与晋国。
+          - ancient: <以>其境过清，不可久居，乃记之而去。（《小石潭记》）
+            url: xxxx
+            vernacular: 因为这里的环境太凄清，不可长久停留，于是记下了这里的情景就离开了。
+      - trans: ❸表示动作行为的结果，相当于""才""以至于""等。
+        sentences:
+          - ancient: 百工居肆<以>成其事，君子学以致其道。（《论语•子张》）
+            url: xxxx
+            vernacular: 各行各业的工匠在作坊里完成他们的工作，君子则通过学习来掌握道。
+          - ancient: 太公相文、武<以>王天下，管仲相桓公<以>霸诸侯。（《盐铁论•刺复》）
+            url: xxxx
+            vernacular: 姜太公辅助周文王、周武王取得天下，管仲辅助齐桓公成为诸侯霸主。
+          - ancient: 中丞匿于溷藩<以>免。（《五人墓碑记》）
+            url: xxxx
+            vernacular: 这位大中丞藏在厕所里才得以逃脱。
+          - ancient: 思厥先祖父，暴霜露，斩荆棘，<以>有尺寸之地。（《六国论》）
+            url: xxxx
+            vernacular: 想到他们的祖辈父辈,冒着寒霜雨露,披荆斩棘,才有了很少的一点土地。
+      - trans: ❹表示动作行为的承接关系，相当于""而"。
+        sentences:
+          - ancient: 以舅犯之谋与楚人战<以>败之。（《韩非子•难一》）
+            url: xxxx
+            vernacular: 文公用舅犯的谋略和楚军作战，结果打败了敌人。
+          - ancient: 虏魏太子申<以>归。（《史记•孙子吴起列传》）
+            url: xxxx
+            vernacular: 俘虏魏太子申带回了齐国。
+      - trans: ❺表示动作行为的偏正关系，相当于""来""去""而""地"等。
+        sentences:
+          - ancient: 樊哙侧其盾<以>撞。（《鸿门宴》）
+            url: xxxx
+            vernacular: 樊哙侧着盾牌撞去。
+          - ancient: 武王继之，载尸<以>行，破商擒纣，遂成王业。（《盐铁论•复古》）
+            url: xxxx
+            vernacular: 周武王继承文王的事业，载着文王的牌位，灭了商朝，生擒商纣王，成就了帝王大业。
+          - ancient: 余与四人拥火<以>入，入之愈深，其进愈难，而其见愈奇。（《游褒禅山记》）
+            url: xxxx
+            vernacular: 我与四个人打着火把走进去，进去越深，前进越困难，而所见到的景象越奇妙。
+          - ancient: 吴之民方痛心焉，于是乘其厉声<以>呵，则噪而相（指代中丞）逐。（《五人墓碑记》）
+            url: xxxx
+            vernacular: 苏州的老百姓正在痛恨他，这时趁着他厉声呵骂的时候，就一齐喊叫着追赶他。
+      - trans: ❻连接""来""往""上""下""东""西""南""北"等词，表示时间、处所或范围，相当于""以""往"等。
+        sentences:
+          - ancient: 从此<以>往，永奉欢好，心无纤（细小）虑也。（《柳毅传》）
+            url: xxxx
+            vernacular: 从今以后，我们欢欢乐乐永远在一起，心里就没有一丝顾虑了。
+          - ancient: 由山<以>上五六里，有穴窈然（窈yao3，深远幽暗的样子）。（《游褒禅山记》）
+            url: xxxx
+            vernacular: 经由山路向上五六里，有个洞穴，一派幽深的样子。
+      - trans: ❼表示并列关系，相当于""又""而"。
+        sentences:
+          - ancient: 身既死兮神<以>灵，魂魄毅兮为鬼雄。
+            url: xxxx
+            vernacular: 人虽死亡而灵魂终究不泯， 魂魄刚毅不愧为鬼中英雄！
+          - ancient: 夫夷<以>近，则游者众；险<以>远，则至者少。（《游褒禅山记》）
+            url: xxxx
+            vernacular: 平坦而又近的地方，前来游览的人便多；危险而又远的地方，前来游览的人便少。

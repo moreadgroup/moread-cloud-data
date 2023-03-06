@@ -1,156 +1,156 @@
 ---
 words:
-- word: 若
-  type: 【名词】
-  phonetic: ruo4
-  tags:
-  - 高中
-  samples:
-  - trans: 传说中的海神名。
-    sentences:
-    - ancient: 于是焉河伯始旋其面目，望洋向<若>而叹曰……（《庄子•秋水》）
-      url: xxxx
-      vernacular: xxxx
-- word: 若
-  type: 【动词】
-  phonetic: ruo4
-  tags:
-  - 高中
-  samples:
-  - trans: ❶如同;像。
-    sentences:
-    - ancient: 海内存知己，天涯<若>比邻。（《送杜少府之任蜀州》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 彼与彼年相<若>也，道相似也，位卑则足羞，官盛则近谀。（《师说》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❷选择。
-    sentences:
-    - ancient: 夫晋国之乱，吾谁使先，<若>夫二公子而立之，以为朝夕之急。（《国语•晋语二》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❸及；比得上。
-    sentences:
-    - ancient: 汝心之固，固不可彻，曾不<若>孀妻弱子。（《愚公移山》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 蔺相如固止之，曰："公之视廉将军孰与秦王？"曰:"不<若>也。"（《廉颇蔺相如列传》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❹顺从。
-    sentences:
-    - ancient: 天子是<若>，明命使赋。（《诗经•大雅•烝民》）
-      url: xxxx
-      vernacular: xxxx
-- word: 若
-  type: 【代词】
-  phonetic: ruo4
-  tags:
-  - 高中
-  samples:
-  - trans: ❶你;你们。
-    sentences:
-    - ancient: <若>入前为寿，寿毕，请以剑舞，因击沛公（指刘邦）于坐，杀之。（《鸿门宴》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: <若>知我不降明，欲令两国相攻，匈奴之祸，从我始矣。（《苏武传》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 力拔山兮气盖世！时不利兮唯不逝！雅不逝兮可奈何！虞兮虞兮奈<若>何！（《项羽之死》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 更<若>役，复<若>赋，则何如？（《捕蛇者说》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 【高考题例】城破，吾夫必死，吾义不独存，然不可使花氏无后，<若>等善抚之。（《明史•花云传》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❷指示代词。如此;这样。
-    sentences:
-    - ancient: 以<若>所为，求<若>所欲，犹缘木而求鱼也。（《齐桓晋文之事》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 君既<若>见录（记着我），不久望君来。（《孔雀东南飞》）
-      url: xxxx
-      vernacular: xxxx
-- word: 若
-  type: 【连词】
-  phonetic: ruo4
-  tags:
-  - 高中
-  samples:
-  - trans: ❶表示假设。如果。
-    sentences:
-    - ancient: 王<若>隐（怜恤）其无罪而就死地，则牛羊何择焉?（《孟子•梁惠王上》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 两情<若>是久长时，又岂在朝朝暮暮。（《鹊桥仙》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 国危矣，<若>使烛之武见秦君，师必退。（《烛之武退秦师》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 【高考题例】愚人村野无所知，<若>以叛逆蔽罪，恐辜好生之德。《宋史•范纯礼传》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❷表示选择。或者。
-    sentences:
-    - ancient: 时有军役，<若>遭水旱，民不困乏。（《汉书•食货志上》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❸表示并列。与;和。
-    sentences:
-    - ancient: 旅王<若>公。（《尚书•召诰》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 茕茕（qiong2，孤单的样子）老<若>幼，负戴行路旁。（清•姚燮《南辕杂诗》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❹表示他转。至于。
-    sentences:
-    - ancient: <若>臣，则不可以入矣。（《左传•哀公十四年》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: <若>其他背理而伤道者，难遍以疏举。（汉•贾谊《陈政事疏》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: <若>夫乘天地之正，而御六气之辩，以游无穷者，彼且恶乎待哉？（《逍遥游》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: <若>夫淫雨霏霏，连月不开，阴风怒号，浊浪排空。（《岳阳楼记》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 至<若>春和景明，波澜不惊，上下天光，一碧万顷。（《岳阳楼记》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❺表示承接。而。
-    sentences:
-    - ancient: 君子夬夬独行，遇雨<若>濡。（《周易•夬卦》）
-      url: xxxx
-      vernacular: xxxx
-- word: 若
-  type: 【副词】
-  phonetic: ruo4
-  tags:
-  - 高中
-  samples:
-  - trans: 乃;才。
-    sentences:
-    - ancient: 爱以身为天下者，<若>可以托天下。（《老子》十三章）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 必有忍也，<若>能有济也。（《国语•周语上》）
-      url: xxxx
-      vernacular: xxxx
-- word: 若
-  type: 【助词】
-  phonetic: ruo4
-  tags:
-  - 高中
-  samples:
-  - trans: 用在形容词后。……的样子。
-    sentences:
-    - ancient: 桑之未落，其叶沃<若>。（《诗经•卫风•氓》）
-      url: xxxx
-      vernacular: xxxx
+  - word: 若
+    type: 【名词】
+    phonetic: ruo4
+    tags:
+      - 高中
+    samples:
+      - trans: 传说中的海神名。
+        sentences:
+          - ancient: 于是焉河伯始旋其面目，望洋向<若>而叹曰……（《庄子•秋水》）
+            url: xxxx
+            vernacular: 于是河伯就转过他的脸，抬头看着海，对海若叹息说。
+  - word: 若
+    type: 【动词】
+    phonetic: ruo4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶如同;像。
+        sentences:
+          - ancient: 海内存知己，天涯<若>比邻。（《送杜少府之任蜀州》）
+            url: xxxx
+            vernacular: 只要有知心朋友，四海之内不觉遥远。即便在天涯海角，感觉就像近邻一样。
+          - ancient: 彼与彼年相<若>也，道相似也，位卑则足羞，官盛则近谀。（《师说》）
+            url: xxxx
+            vernacular: 他和他年龄差不多，道德学问也差不多，（以）地位低（的人为师），就觉得羞耻，（以）官职高（的人为师），就近乎谄媚了。
+      - trans: ❷选择。
+        sentences:
+          - ancient: 夫晋国之乱，吾谁使先，<若>夫二公子而立之，以为朝夕之急。（《国语•晋语二》）
+            url: xxxx
+            vernacular: 晋国动乱，我选派谁前去，选择二位公子中的一个立为新君，来解决晋国急迫的问题呢 ？
+      - trans: ❸及；比得上。
+        sentences:
+          - ancient: 汝心之固，固不可彻，曾不<若>孀妻弱子。（《愚公移山》）
+            url: xxxx
+            vernacular: 你的思想真顽固，顽固得没法开窍，连孤儿寡妇都比不上。
+          - ancient: 蔺相如固止之，曰："公之视廉将军孰与秦王？"曰:"不<若>也。"（《廉颇蔺相如列传》）
+            url: xxxx
+            vernacular: 蔺相如坚决地挽留他们，说：“诸位认为廉将军和秦王相比谁更厉害？”众人都说：“廉将军比不上秦王。”
+      - trans: ❹顺从。
+        sentences:
+          - ancient: 天子是<若>，明命使赋。（《诗经•大雅•烝民》）
+            url: xxxx
+            vernacular: 天子选他做大臣，颁布王命管施政。
+  - word: 若
+    type: 【代词】
+    phonetic: ruo4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶你;你们。
+        sentences:
+          - ancient: <若>入前为寿，寿毕，请以剑舞，因击沛公（指刘邦）于坐，杀之。（《鸿门宴》）
+            url: xxxx
+            vernacular: 你进去上前去祝寿，祝贺完毕之后，请求舞剑，并趁机击杀沛公-刘邦在他的座位，把他杀了。
+          - ancient: <若>知我不降明，欲令两国相攻，匈奴之祸，从我始矣。（《苏武传》）
+            url: xxxx
+            vernacular: 你明知道我决不会投降，想要使汉和匈奴互相攻打。匈奴灭亡的灾祸，将从我开始了！
+          - ancient: 力拔山兮气盖世！时不利兮唯不逝！雅不逝兮可奈何！虞兮虞兮奈<若>何！（《项羽之死》）
+            url: xxxx
+            vernacular: 力量能拔山啊，英雄气概举世无双，时运不济时骓马不再奔跑！骓马不奔跑可将怎么办，虞姬呀虞姬，（我）将怎么安排你才妥善？”
+          - ancient: 更<若>役，复<若>赋，则何如？（《捕蛇者说》）
+            url: xxxx
+            vernacular: "让他更换你的差事,恢复你的赋税,怎么样?"
+          - ancient: 【高考题例】城破，吾夫必死，吾义不独存，然不可使花氏无后，<若>等善抚之。（《明史•花云传》）
+            url: xxxx
+            vernacular: 城池被攻破，我的丈夫一定会死，我也坚守大义不独活于世，然而不能让花氏无后，你们这些人好好地抚养（我的孩子）。
+      - trans: ❷指示代词。如此;这样。
+        sentences:
+          - ancient: 以<若>所为，求<若>所欲，犹缘木而求鱼也。（《齐桓晋文之事》）
+            url: xxxx
+            vernacular: （但是）以这样的做法，去谋求这样的理想，就像爬到树上却要抓鱼一样。
+          - ancient: 君既<若>见录（记着我），不久望君来。（《孔雀东南飞》）
+            url: xxxx
+            vernacular: 既然承蒙你这样的记着我，不久之后我会殷切地盼望着你来。
+  - word: 若
+    type: 【连词】
+    phonetic: ruo4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶表示假设。如果。
+        sentences:
+          - ancient: 王<若>隐（怜恤）其无罪而就死地，则牛羊何择焉?（《孟子•梁惠王上》）
+            url: xxxx
+            vernacular: 因为）大王如果可怜牲畜无辜被杀，那么牛和羊有什么区别呢？
+          - ancient: 两情<若>是久长时，又岂在朝朝暮暮。（《鹊桥仙》）
+            url: xxxx
+            vernacular: 两颗心只要永远相爱不变，又何必一定要每一天厮陪相伴！
+          - ancient: 国危矣，<若>使烛之武见秦君，师必退。（《烛之武退秦师》）
+            url: xxxx
+            vernacular: 国家很危险了！如果派烛之武去见秦国的国君，秦国的军队必定撤退。
+          - ancient: 【高考题例】愚人村野无所知，<若>以叛逆蔽罪，恐辜好生之德。《宋史•范纯礼传》）
+            url: xxxx
+            vernacular: 愚钝之人粗鄙无知，如果以叛逆概括罪名，恐怕会辜负陛下爱惜生灵的仁德。
+      - trans: ❷表示选择。或者。
+        sentences:
+          - ancient: 时有军役，<若>遭水旱，民不困乏。（《汉书•食货志上》）
+            url: xxxx
+            vernacular: "即使有时有军队劳役,或者遭遇洪水旱灾,人民生活也不会穷困匮乏。"
+      - trans: ❸表示并列。与;和。
+        sentences:
+          - ancient: 旅王<若>公。（《尚书•召诰》）
+            url: xxxx
+            vernacular: 大王继续像周公那样 旅：古汉语中有遵循次序的意思； 王：大王，指周成王；若：像...那样 ；
+          - ancient: 茕茕（qiong2，孤单的样子）老<若>幼，负戴行路旁。（清•姚燮《南辕杂诗》）
+            url: xxxx
+            vernacular: 孤独无依靠的老人和小孩，背负或头顶重物在路上行走
+      - trans: ❹表示他转。至于。
+        sentences:
+          - ancient: <若>臣，则不可以入矣。（《左传•哀公十四年》）
+            url: xxxx
+            vernacular: 像我，那就不能再回来了。
+          - ancient: <若>其他背理而伤道者，难遍以疏举。（汉•贾谊《陈政事疏》）
+            url: xxxx
+            vernacular: 至于其他违背情理而伤害大道的事，很难在奏疏中一一列举。
+          - ancient: <若>夫乘天地之正，而御六气之辩，以游无穷者，彼且恶乎待哉？（《逍遥游》）
+            url: xxxx
+            vernacular: 人如果能够遵循自然的本性，把握“六气”即阴、阳、风、雨、晦、明等宇宙万物的规律变化，遨游于无穷无尽的境域，他还要凭借什么呢？
+          - ancient: <若>夫淫雨霏霏，连月不开，阴风怒号，浊浪排空。（《岳阳楼记》）
+            url: xxxx
+            vernacular: 像那阴雨连绵，接连几个月不放晴，寒风怒吼，浑浊的浪冲向天空；
+          - ancient: 至<若>春和景明，波澜不惊，上下天光，一碧万顷。（《岳阳楼记》）
+            url: xxxx
+            vernacular: 到了春风和煦，阳光明媚的时候，湖面平静，没有惊涛骇浪，天色湖光相连，一片碧绿，广阔无际
+      - trans: ❺表示承接。而。
+        sentences:
+          - ancient: 君子夬夬guai4独行，遇雨<若>濡。（《周易•夬卦》）
+            url: xxxx
+            vernacular: "君子果决,独自前行,遇雨沾湿衣服。"
+  - word: 若
+    type: 【副词】
+    phonetic: ruo4
+    tags:
+      - 高中
+    samples:
+      - trans: 乃;才。
+        sentences:
+          - ancient: 爱以身为天下者，<若>可以托天下。（《老子》十三章）
+            url: xxxx
+            vernacular: 爱惜自己的身体是为了治理天下，天下就可以依靠他了。
+          - ancient: 必有忍也，<若>能有济也。（《国语•周语上》）
+            url: xxxx
+            vernacular: 要懂得忍耐，就会有补益
+  - word: 若
+    type: 【助词】
+    phonetic: ruo4
+    tags:
+      - 高中
+    samples:
+      - trans: 用在形容词后。……的样子。
+        sentences:
+          - ancient: 桑之未落，其叶沃<若>。（《诗经•卫风•氓》）
+            url: xxxx
+            vernacular: 桑之未落：桑树成长的时候 其叶沃若：沃然，肥泽貌。叶子沃然茂盛。这句以桑叶肥泽，喻女子正在年轻美貌之时。

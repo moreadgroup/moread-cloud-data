@@ -1,102 +1,102 @@
 ---
 words:
-- word: 则
-  type: 【名词】
-  phonetic: ze2
-  tags:
-  - 高中
-  samples:
-  - trans: ❶准则;法则。
-    sentences:
-    - ancient: 愿依彭咸之遗<则>。（《离骚》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❷等级。
-    sentences:
-    - ancient: 坤作地势，高下九<则>。（《汉书•叙传》）
-      url: xxxx
-      vernacular: xxxx
-- word: 则
-  type: "【动词】"
-  phonetic: ze2
-  tags:
-  - 高中
-  samples:
-  - trans: 效法。
-    sentences:
-    - ancient: 河出图，洛出书，圣人则之。（《周易•系辞上》）
-      url: xxxx
-      vernacular: xxxx
-- word: 则
-  type: 【副词】
-  phonetic: ze2
-  tags:
-  - 高中
-  samples:
-  - trans: ❶乃;就（是）。
-    sentences:
-    - ancient: 此<则>岳阳楼之大观也，前人之述备矣。（《岳阳楼记》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 至于斟酌损益，进尽忠言，<则>攸之、祎、允之任也。（《出师表》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❷仅仅;只。
-    sentences:
-    - ancient: 口耳之间，<则>四寸耳，曷足以美七尺之躯哉！（《荀子•劝学》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❸立即。
-    sentences:
-    - ancient: 于是至<则>围王离。（《汉书•项籍传》）
-      url: xxxx
-      vernacular: xxxx
-- word: 则
-  type: 【连词】
-  phonetic: ze2
-  tags:
-  - 高中
-  samples:
-  - trans: ❶表示承接关系，相当于"就""便""那么"等。
-    sentences:
-    - ancient: 学而不思<则>罔（迷惘），思而不学<则>殆（危险）。（《论语•为政》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 故木受缰<则>直，金就砺<则>利，君子博学而曰参省乎己，<则>知明而行无过矣。（《劝学》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 盖将自其变者而观之，<则>天地曾不能以一瞬。（《赤壁赋》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 【高考题例】萍寄诸州，凡十五六年，其牧守稍薄，<则>又移居，故其迁徙者，盖十余州焉。（《旧唐书•李揆传》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❷表示对比关系，常用""则……则……"前后对比。
-    sentences:
-    - ancient: 小<则>获邑，大<则>得城。（《六国论》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 思<则>得之，不思<则>不得也。（《孟子•告子上》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❸表示转折关系，相当于""反而""然而""却""等。
-    sentences:
-    - ancient: 欲速<则>不达。（《论语•子路》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 爱其子，择师而教之；于其身也，<则>耻师焉，惑矣。（《师说》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 臣欲奉诏奔驰，<则>刘病日笃；欲苟顺私情，<则>告诉不许。（《陈情表》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❹表示出乎意料，相当于"原来""竟"。
-    sentences:
-    - ancient: 徐而察之，<则>山下皆石穴罅，不知其浅深，微波入焉，涵淡澎湃而为此也。（《石钟山记》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❺如果。
-    sentences:
-    - ancient: 今<则>来，沛公恐不得有此。（《史记•高祖本纪》）
-      url: xxxx
-      vernacular: xxxx
+  - word: 则
+    type: 【名词】
+    phonetic: ze2
+    tags:
+      - 高中
+    samples:
+      - trans: ❶准则;法则。
+        sentences:
+          - ancient: 虽不周于今之人兮，愿依彭咸之遗<则>。（《离骚》）
+            url: xxxx
+            vernacular: 我与现在的人虽不相容，我却愿依照彭咸的遗教。
+      - trans: ❷等级。
+        sentences:
+          - ancient: 坤作地势，高下九<则>。（《汉书•叙传》）
+            url: xxxx
+            vernacular: 坤卦显示出地势，好坏则分为九等。
+  - word: 则
+    type: 【动词】
+    phonetic: ze2
+    tags:
+      - 高中
+    samples:
+      - trans: 效法。
+        sentences:
+          - ancient: 河出图，洛出书，圣人<则>之。（《周易•系辞上》）
+            url: xxxx
+            vernacular: "黄河出“图”,洛水出“书”,“圣人”依此作卦。"
+  - word: 则
+    type: 【副词】
+    phonetic: ze2
+    tags:
+      - 高中
+    samples:
+      - trans: ❶乃;就（是）。
+        sentences:
+          - ancient: 此<则>岳阳楼之大观也，前人之述备矣。（《岳阳楼记》）
+            url: xxxx
+            vernacular: 这就是岳阳楼的雄伟景象，前人的记述（已经）很详尽了。
+          - ancient: 至于斟酌损益，进尽忠言，<则>攸之、祎、允之任也。（《出师表》）
+            url: xxxx
+            vernacular: 至于处理事务，斟酌情理，毫无保留地贡献忠言，那是郭攸之、费祎、董允的责任。
+      - trans: ❷仅仅;只。
+        sentences:
+          - ancient: 口耳之间，<则>四寸耳，曷足以美七尺之躯哉！（《荀子•劝学》）
+            url: xxxx
+            vernacular: 小人学习是从耳听从嘴出，相距不过四寸而已，怎么能够完美他的七尺之躯呢？
+      - trans: ❸立即。
+        sentences:
+          - ancient: 于是至<则>围王离。（《汉书•项籍传》）
+            url: xxxx
+            vernacular: 于是一到钜鹿就包围王离
+  - word: 则
+    type: 【连词】
+    phonetic: ze2
+    tags:
+      - 高中
+    samples:
+      - trans: ❶表示承接关系，相当于"就""便""那么"等。
+        sentences:
+          - ancient: 学而不思<则>罔（迷惘），思而不学<则>殆（危险）。（《论语•为政》）
+            url: xxxx
+            vernacular: "学习而不思考,等于白学,甚至越学越糊涂;思考而不学习,则是胡思乱想,还会导致危险。"
+          - ancient: 故木受缰<则>直，金就砺<则>利，君子博学而曰参省乎己，<则>知明而行无过矣。（《劝学》）
+            url: xxxx
+            vernacular: 木材经墨线划过， 用斧锯一加工就直了， 金属刀剑在磨刀石上磨过就锋利了。 君子广泛地学习而且每天多次省察自己， 就能智慧明达， 行为没有过错了。
+          - ancient: 盖将自其变者而观之，<则>天地曾不能以一瞬。（《赤壁赋》）
+            url: xxxx
+            vernacular: 可见，从事物易变的一面看来，天地间没有一瞬间不发生变化
+          - ancient: 【高考题例】萍寄诸州，凡十五六年，其牧守稍薄，<则>又移居，故其迁徙者，盖十余州焉。（《旧唐书•李揆传》）
+            url: xxxx
+            vernacular: 在各州间漂泊度日，这样的日子持续了十五六年，当地州郡长官稍有轻慢，就又迁居，所以他搬迁的地方，有十多个州。
+      - trans: ❷表示对比关系，常用""则……则……"前后对比。
+        sentences:
+          - ancient: 小<则>获邑，大<则>得城。（《六国论》）
+            url: xxxx
+            vernacular: 小的就获得邑镇，大的就获得城池。
+          - ancient: 思<则>得之，不思<则>不得也。（《孟子•告子上》）
+            url: xxxx
+            vernacular: "能思考则能得到事物的真谛,不思考便得不到"
+      - trans: ❸表示转折关系，相当于""反而""然而""却""等。
+        sentences:
+          - ancient: 欲速<则>不达。（《论语•子路》）
+            url: xxxx
+            vernacular: 性急求快反而不能达到目的。
+          - ancient: 爱其子，择师而教之；于其身也，<则>耻师焉，惑矣。（《师说》）
+            url: xxxx
+            vernacular: （人们）爱他们的孩子，就选择老师来教他；（但是）对于他自己呢，却以跟从老师（学习）为可耻，真是糊涂啊。
+          - ancient: 臣欲奉诏奔驰，<则>刘病日笃；欲苟顺私情，<则>告诉不许。（《陈情表》）
+            url: xxxx
+            vernacular: 我很想奉旨为皇上奔走效劳，但祖母刘氏的疾病一天比一天沉重，想要姑且顺从自己的私情，但报告申诉不被允许。
+      - trans: ❹表示出乎意料，相当于"原来""竟"。
+        sentences:
+          - ancient: 徐而察之，<则>山下皆石穴罅，不知其浅深，微波入焉，涵淡澎湃而为此也。（《石钟山记》）
+            url: xxxx
+            vernacular: 我慢慢地观察，山下都是石穴和缝隙，不知它们有多深，细微的水波涌进那里面，水波激荡因而发出这种声音。
+      - trans: ❺如果。
+        sentences:
+          - ancient: 今<则>来，沛公恐不得有此。（《史记•高祖本纪》）
+            url: xxxx
+            vernacular: "现在如果他到来,恐怕沛公就不能拥有关中一地了。"

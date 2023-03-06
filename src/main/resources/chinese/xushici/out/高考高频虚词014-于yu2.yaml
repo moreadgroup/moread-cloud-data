@@ -1,102 +1,102 @@
 ---
 words:
-- word: 于
-  type: 【介词】
-  phonetic: yu2
-  tags:
-  - 高中
-  samples:
-  - trans: ❶介绍出动作行为发生的时间、处所，相当于"在""到""从"等。
-    sentences:
-    - ancient: 千里之行，始<于>足下。（《老子》六十四章）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 庞涓死<于>此树之下。（《史记•孙子吴起列传》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 少焉，月出<于>东山之上，徘徊<于>斗牛之间。（《赤壁赋》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 不幸吕师孟构恶<于>前，贾余庆献谄<于>后，予羁縻不得还，国事遂不可收拾。（《〈指南录〉后序》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 青，取之<于>蓝。（《劝学》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 河内凶，则移其民<于>河东，移其粟<于>河内。（《寡人之于国也》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❷介绍出动作行为的施事者。
-    sentences:
-    - ancient: 臣诚恐见欺<于>王而负（对不起）赵。（《廉颇蔺相如列传》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 魏惠王兵数破<于>齐、秦。（《史记•商君列传》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❸介绍出动作行为的对象。
-    sentences:
-    - ancient: 故明<于>天人之分，则可谓至人矣。（《荀子•天论》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 上由此怨望（怨恨）<于>梁王。（《史记•梁孝王世家》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 晋侯、秦伯围郑，以其无礼<于>晋，且贰<于>楚也。（《烛之武退秦师》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 君子生非异也，善假<于>物也。（《劝学》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❹介绍出动作行为所涉及的对象，相当于"对跟""给""等
-    sentences:
-    - ancient: 余不爱衣食<于>民，不爱牲玉<于>神。（《国语•鲁语上》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 是臣尽节<于>陛下之日长，报养刘之日短也。（《陈情表》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 将请罪<于>君，君不许;请罪<于>母，母不许。（《〈指南录〉后序》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❺用在【形容词】之后，表示比较，介绍出比较的对象。相当于"比"。
-    sentences:
-    - ancient: 青，取之于蓝（一种叶子可以制成染料的草），而青<于>蓝;冰，水为之，而寒<于>水。（《劝学》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 田赞衣（yi4，穿）补衣而见荆王，荆王曰："先生之衣，何其恶（e3）也?"亩赞对曰："衣又有恶<于>此者也。"（《吕氏春秋•顺说》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 郡县逼迫，催臣上道;州司临门，急<于>星火。（《陈情表》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 是故弟子不必不如师，师不必贤<于>弟子，闻道有先后，术业有专攻，如是而已。（《师说》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❻由于。
-    sentences:
-    - ancient: 业精<于>勤，荒<于>嬉;行成<于>思，毁<于>随。（《进学解》）
-      url: xxxx
-      vernacular: xxxx
-- word: 于
-  type: 【连词】
-  phonetic: yu2
-  tags:
-  - 高中
-  samples:
-  - trans: 表示联合关系，相当于""与和"。
-    sentences:
-    - ancient: 不克敬<于>和，则无我怨。（《尚书•多方》）
-      url: xxxx
-      vernacular: xxxx
-- word: 于
-  type: 【助词】
-  phonetic: yu2
-  tags:
-  - 高中
-  samples:
-  - trans: 动词词头，无义。
-    sentences:
-    - ancient: 黄鸟<于>飞。（《诗经•周南•葛覃》）
-      url: xxxx
-      vernacular: xxxx
+  - word: 于
+    type: 【介词】
+    phonetic: yu2
+    tags:
+      - 高中
+    samples:
+      - trans: ❶介绍出动作行为发生的时间、处所，相当于"在""到""从"等。
+        sentences:
+          - ancient: 千里之行，始<于>足下。（《老子》六十四章）
+            url: xxxx
+            vernacular: 走千里远的路程，是从脚下迈第一步开始的
+          - ancient: 庞涓死<于>此树之下。（《史记•孙子吴起列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 少焉，月出<于>东山之上，徘徊<于>斗牛之间。（《赤壁赋》）
+            url: xxxx
+            vernacular: 不一会儿，明月从东山后升起，徘徊在斗宿与牛宿之间。
+          - ancient: 不幸吕师孟构恶<于>前，贾余庆献谄<于>后，予羁縻不得还，国事遂不可收拾。（《〈指南录〉后序》）
+            url: xxxx
+            vernacular: 可不幸的是，吕师孟早就同我结怨，贾余庆又紧跟着媚敌献计，于是我被拘留不能回国，国事就不可收拾了。
+          - ancient: 青，取之<于>蓝。（《劝学》）
+            url: xxxx
+            vernacular: "靛青是从蓝草里提取的,可是比蓝草的颜色更深"
+          - ancient: 河内凶，则移其民<于>河东，移其粟<于>河内。（《寡人之于国也》）
+            url: xxxx
+            vernacular: 河内遇到饥荒，就把那里的老百姓迁移到河东去，把河东的粮食转移到河内。
+      - trans: ❷介绍出动作行为的施事者。
+        sentences:
+          - ancient: 臣诚恐见欺<于>王而负（对不起）赵。（《廉颇蔺相如列传》）
+            url: xxxx
+            vernacular: 我实在怕受大王欺骗而对不起赵国
+          - ancient: 魏惠王兵数破<于>齐、秦。（《史记•商君列传》）
+            url: xxxx
+            vernacular: 魏惠王因军队屡次败于齐国、秦国
+      - trans: ❸介绍出动作行为的对象。
+        sentences:
+          - ancient: 故明<于>天人之分，则可谓至人矣。（《荀子•天论》）
+            url: xxxx
+            vernacular: 所以说，明辨了自然界的规律和人应采取的行动，就可以称得上圣人了。
+          - ancient: 上由此怨望（怨恨）<于>梁王。（《史记•梁孝王世家》）
+            url: xxxx
+            vernacular: 皇上因为此事而怨恨梁王。
+          - ancient: 晋侯、秦伯围郑，以其无礼<于>晋，且贰<于>楚也。（《烛之武退秦师》）
+            url: xxxx
+            vernacular: 晋文公、秦穆公出兵围攻郑国，因为郑国曾对文公无礼，并且郑国同时依附于楚国与晋国。
+          - ancient: 君子生非异也，善假<于>物也。（《劝学》）
+            url: xxxx
+            vernacular: 君子的资质秉性跟一般人没 什么 不同，（只是君子）善于借助外物罢了。
+      - trans: ❹介绍出动作行为所涉及的对象，相当于"对跟""给""等
+        sentences:
+          - ancient: 余不爱衣食<于>民，不爱牲玉<于>神。（《国语•鲁语上》）
+            url: xxxx
+            vernacular: 我对民众从来吝惜衣食， 对神不吝惜牺牲和圭璧。
+          - ancient: 是臣尽节<于>陛下之日长，报养刘之日短也。（《陈情表》）
+            url: xxxx
+            vernacular: 这样看来我在陛下面前尽忠尽节的日子还很长，而在祖母刘氏面前尽孝尽心的日子已经不多了。
+          - ancient: 将请罪<于>君，君不许;请罪<于>母，母不许。（《〈指南录〉后序》）
+            url: xxxx
+            vernacular: 将向国君请罪，国君不答应；向母亲请罪，母亲不答应
+      - trans: ❺用在【形容词】之后，表示比较，介绍出比较的对象。相当于"比"。
+        sentences:
+          - ancient: 青，取之于蓝（一种叶子可以制成染料的草），而青<于>蓝;冰，水为之，而寒<于>水。（《劝学》）
+            url: xxxx
+            vernacular: 靛青，是从蓝草里提取的，然而却比蓝草的颜色更青；冰，是水凝结而成的，然而却比水更寒冷。
+          - ancient: 田赞衣（yi4，穿）补衣而见荆王，荆王曰："先生之衣，何其恶（e3）也?"亩赞对曰："衣又有恶<于>此者也。"（《吕氏春秋•顺说》）
+            url: xxxx
+            vernacular: 田赞穿着很破旧的衣服去拜见楚王。楚王说：“先生的衣服，为什么这样破旧呢？”田赞回答道：“衣服还有比这个更破旧的。”
+          - ancient: 郡县逼迫，催臣上道;州司临门，急<于>星火。（《陈情表》）
+            url: xxxx
+            vernacular: 郡县长官逼迫我，催促我立刻上路；州县的长官登门督促，比流星坠落还要急迫。
+          - ancient: 是故弟子不必不如师，师不必贤<于>弟子，闻道有先后，术业有专攻，如是而已。（《师说》）
+            url: xxxx
+            vernacular: 因此学生不一定不如老师，老师不一定比学生贤能，听到的道理有早有晚，学问技艺各有专长，如此罢了。
+      - trans: ❻由于。
+        sentences:
+          - ancient: 业精<于>勤，荒<于>嬉;行成<于>思，毁<于>随。（《进学解》）
+            url: xxxx
+            vernacular: "学业由于勤奋而专精,由于玩乐而荒废;德行由于独立思考而有所成就,由于因循随俗而败坏。"
+  - word: 于
+    type: 【连词】
+    phonetic: yu2
+    tags:
+      - 高中
+    samples:
+      - trans: 表示联合关系，相当于""与和"。
+        sentences:
+          - ancient: 不克敬<于>和，则无我怨。（《尚书•多方》）
+            url: xxxx
+            vernacular: 好好地谋划你们的开始吧!若不能恭敬与和睦，那么你们就不要怨我了。
+  - word: 于
+    type: 【助词】
+    phonetic: yu2
+    tags:
+      - 高中
+    samples:
+      - trans: 动词词头，无义。
+        sentences:
+          - ancient: 黄鸟<于>飞。（《诗经•周南•葛覃》）
+            url: xxxx
+            vernacular: 山谷间飞起美丽的黄莺

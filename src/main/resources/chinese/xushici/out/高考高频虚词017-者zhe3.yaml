@@ -1,89 +1,89 @@
 ---
 words:
-- word: 者
-  type: 【代词】
-  phonetic: zhe3
-  tags:
-  - 高中
-  samples:
-  - trans: ❶指示代词。这。
-    sentences:
-    - ancient: 细想从来，断肠多处，不与<者>番同。（宋•晏几道《少年游•离多最是》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❷用在形容词或动词之后，指代人或事物。
-    sentences:
-    - ancient: 狂<者>东走，逐<者>亦东走。（《韩非子•说林上》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 死<者>长已矣。（《石壕吏》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 城北徐公，齐国之美丽<者>也。（《邹忌讽齐王纳谏》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 期年之后，虽欲言，无可进<者>。（《邹忌讽齐王纳谏》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 逝<者>如斯，而未尝往也;盈虚<者>如彼，而卒莫消长也。（《赤壁赋》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 【高考题例】有华生<者>，世家江北，备谙村落<者>也。（《村落嫁娶图记》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❸用在数词之后，指上文所说的几种人或事物。
-    sentences:
-    - ancient: 农、商、官三<者>，国之常官也。（《商君书•去强》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❹用在"今""昔"等表示时间的名词之后，表示某一段时间，相当于"……的时候"。
-    sentences:
-    - ancient: 今<者>有小人之言，令将军与臣有郤xi4。（《鸿门宴》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 夫颛臾，昔<者>先王以为东蒙主，且在邦域之中矣，是社稷之者臣也。（《季氏将伐颛臾》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 少卿足下:曩<者>辱赐书，教以慎于接物，推贤进士为务。（《报任安书》）
-      url: xxxx
-      vernacular: xxxx
-- word: 者
-  type: 【助词】
-  phonetic: zhe3
-  tags:
-  - 高中
-  samples:
-  - trans: ❶用在名词后，表示停顿并引出下文。
-    sentences:
-    - ancient: 北山愚公<者>，年且九十，面山而居。（《愚公移山》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 师<者>，所以传道受业解惑也。（《师说》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❷用于因果复句前一分句后，表示申述形成结果的原因或理由。
-    sentences:
-    - ancient: 蟹六跪而二螯，非蛇蜻之穴无可寄托<者>，用心躁也。（《劝学》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 吾妻之美我<者>，私我也：妾之美我<者>，畏我也；客之美我<者>，欲有求于我也。（《邹忌讽齐王纳谏》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❸用于句末，表示疑问语气。
-    sentences:
-    - ancient: 王曰："谁可使<者>？"（《廉颇蔺相如列传》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 何<者>？严大国之威以修敬也。（《廉颇蔺相如列传》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❹用在主语后，引出判断。
-    sentences:
-    - ancient: 楚左尹项伯<者>，项羽季父也，素善留侯张良。（《鸿门宴》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❺定语后置的标志。
-    sentences:
-    - ancient: 石之铿然有声<者>，所在皆是也。（《石钟山记》）
-      url: xxxx
-      vernacular: xxxx
+  - word: 者
+    type: 【代词】
+    phonetic: zhe3
+    tags:
+      - 高中
+    samples:
+      - trans: ❶指示代词。这。
+        sentences:
+          - ancient: 细想从来，断肠多处，不与<者>番同。（宋•晏几道《少年游•离多最是》）
+            url: xxxx
+            vernacular: 认真回想，让人断肠处多，却不与这次相同。
+      - trans: ❷用在形容词或动词之后，指代人或事物。
+        sentences:
+          - ancient: 狂<者>东走，逐<者>亦东走。（《韩非子•说林上》）
+            url: xxxx
+            vernacular: 疯子向东边跑；追赶的人也向东边跑。
+          - ancient: 死<者>长已矣。（《石壕吏》）
+            url: xxxx
+            vernacular: 死去的人就永远不会复生了！
+          - ancient: 城北徐公，齐国之美丽<者>也。（《邹忌讽齐王纳谏》）
+            url: xxxx
+            vernacular: 城北的徐公齐国的最美的男子。
+          - ancient: 期年之后，虽欲言，无可进<者>。（《邹忌讽齐王纳谏》）
+            url: xxxx
+            vernacular: 一年以后，即使想进言，也没有什么可说的了。
+          - ancient: 逝<者>如斯，而未尝往也;盈虚<者>如彼，而卒莫消长也。（《赤壁赋》）
+            url: xxxx
+            vernacular: 不断流逝的就像这江水，其实并没有真正逝去；时圆时缺的就像这月，但是最终并没有增加或减少。
+          - ancient: 【高考题例】有华生<者>，世家江北，备谙村落<者>也。（《村落嫁娶图记》）
+            url: xxxx
+            vernacular: "有个姓华的先生,世代家居江北,是十分熟悉乡村的人"
+      - trans: ❸用在数词之后，指上文所说的几种人或事物。
+        sentences:
+          - ancient: 农、商、官三<者>，国之常官也。（《商君书•去强》）
+            url: xxxx
+            vernacular: 农民、商人、官吏三种人是国家有经常职业的人。
+      - trans: ❹用在"今""昔"等表示时间的名词之后，表示某一段时间，相当于"……的时候"。
+        sentences:
+          - ancient: 今<者>有小人之言，令将军与臣有郤xi4。（《鸿门宴》）
+            url: xxxx
+            vernacular: 现在有小人的谣言，使您和我发生误会。
+          - ancient: 夫颛臾，昔<者>先王以为东蒙主，且在邦域之中矣，是社稷之者臣也。（《季氏将伐颛臾》）
+            url: xxxx
+            vernacular: 那颛臾，从前先王把他当作主管东蒙山祭祀的人，而且它地处鲁国境内。这是鲁国的臣属
+          - ancient: 少卿足下:曩<者>辱赐书，教以慎于接物，推贤进士为务。（《报任安书》）
+            url: xxxx
+            vernacular: 前不久承蒙您给我写信，用谨慎地待人接物教导我，以推举贤能、引荐人才为己任
+  - word: 者
+    type: 【助词】
+    phonetic: zhe3
+    tags:
+      - 高中
+    samples:
+      - trans: ❶用在名词后，表示停顿并引出下文。
+        sentences:
+          - ancient: 北山愚公<者>，年且九十，面山而居。（《愚公移山》）
+            url: xxxx
+            vernacular: 北山下面有个名叫愚公的人，年纪快到90岁了，在山的正对面居住。
+          - ancient: 师<者>，所以传道受业解惑也。（《师说》）
+            url: xxxx
+            vernacular: 老师，就是传授道理、教授学业、解释疑难问题的人。
+      - trans: ❷用于因果复句前一分句后，表示申述形成结果的原因或理由。
+        sentences:
+          - ancient: 蟹六跪而二螯，非蛇蜻之穴无可寄托<者>，用心躁也。（《劝学》）
+            url: xxxx
+            vernacular: 螃蟹有六条腿，两个蟹钳，（但是）如果没有蛇、鳝的洞穴它就无处存身，这是因为它用心浮躁啊
+          - ancient: 吾妻之美我<者>，私我也：妾之美我<者>，畏我也；客之美我<者>，欲有求于我也。（《邹忌讽齐王纳谏》）
+            url: xxxx
+            vernacular: 我的妻子认为我美，是偏爱我；我的小妾认为我美，是惧怕我；客人赞美我美，是有事情要求于我。
+      - trans: ❸用于句末，表示疑问语气。
+        sentences:
+          - ancient: 王曰："谁可使<者>？"（《廉颇蔺相如列传》）
+            url: xxxx
+            vernacular: 谁可以前往？
+          - ancient: 何<者>？严大国之威以修敬也。（《廉颇蔺相如列传》）
+            url: xxxx
+            vernacular: 为什么要这样呢？是尊重大国的威望以表示敬意呀。
+      - trans: ❹用在主语后，引出判断。
+        sentences:
+          - ancient: 楚左尹项伯<者>，项羽季父也，素善留侯张良。（《鸿门宴》）
+            url: xxxx
+            vernacular: 楚军的左尹项伯，是项羽的叔父，一向同留侯张良交好。
+      - trans: ❺定语后置的标志。
+        sentences:
+          - ancient: 石之铿然有声<者>，所在皆是也。（《石钟山记》）
+            url: xxxx
+            vernacular: 敲击后能发出声响的石头，到处都这样
