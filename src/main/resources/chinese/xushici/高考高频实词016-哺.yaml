@@ -1,13 +1,29 @@
 ---
 words:
-  - word: xxxx
-    type: 【xx词】
-    phonetic: xx1
+  - word: 哺
+    type: 【名词】
+    phonetic: bu3
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: 嘴里所含的食物。
         sentences:
-          - ancient: xxx
+          - ancient: 山不厌高，海不厌深。周公吐哺，天下归心。（《短歌行》）
+          - ancient: 汉王辍饭吐哺。（《汉书•高帝纪上》）
             url: xxxx
             vernacular: xxxx
+  - word: 哺
+    type: 【动词】
+    phonetic: bu3
+    tags:
+      - 高中
+    samples:
+      - trans: ❶咀嚼，吃。
+        sentences:
+          - ancient: 昔为编户人,秉耒甘哺糠。（唐•刘禹锡《武夫词》）
+          - ancient: 【高考题例】日待哺于东南之转饷，浙民已困，欲救此患，莫若屯田。（《宋史•廖刚传》）
+      - trans: ❷喂养。
+        sentences:
+          - ancient: 群鸟至今与哺雏。（唐•杜甫《杜鹃行》）
+          - ancient: 生男慎莫举,生女哺用脯。（汉•陈琳《饮马长城窟行》）
+          - ancient: 【高考题例】采莲实哺儿，七日不死。（《明史•花云传》）

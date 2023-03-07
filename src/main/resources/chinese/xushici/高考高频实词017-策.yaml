@@ -1,13 +1,41 @@
 ---
 words:
-  - word: xxxx
-    type: 【xx词】
-    phonetic: xx1
+  - word: 策
+    type: 【名词】
+    phonetic: ce4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶竹制的马鞭子。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 及至始皇,奋六世之余烈，振长策而御宇内。（《过秦论》）
+          - ancient: 执策而临之，曰："天下无马！"（《马说》）
+      - trans: ❷计策;策略。
+        sentences:
+          - ancient: 孝公既没，惠文、武、昭襄蒙故业，因遗策。（《过秦论》）
+          - ancient: 均之二策，宁许以负秦曲。（《廉颇蔺相如列传》）
+      - trans: ❸通""册"。古时把写有文字的竹片或木片编串在一起叫"策"。
+        sentences:
+          - ancient: 尽信书，则不如无书；吾于《武成》（《尚书》中的篇名）取二三策而已矣。（《孟子•尽心卞》）
+          - ancient: 大事书之于策，小事简牍而已。（晋•杜预《春秋经传集解序》）
+          - ancient: 乃如左丘无目，孙子断足，终不可用，退而论书策以舒其愤。（《报任安书》）
+      - trans: ❹汉代考试，将要求回答的问题写在竹简上，臣下按题回答叫""对策"。如汉•晁错《贤良对策》、贾谊《治安策》。
+      - trans: ❺手杖。
+        sentences:
+          - ancient: 夸父弃其策，是为邓林（它就变成了邓林）。（《淮南子•地形训》）
+
+  - word: 策
+    type: 【动词】
+    phonetic: ce4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶鞭打;鞭策。
+        sentences:
+          - ancient: 策之不以其道，食之不能尽其材。（《马说》）
+          - ancient: 策蹇（jian3,跛脚）驴，囊图书，夙行失道，望尘惊悸。（《中山狼传》）
+      - trans: ❷拄着（手杖）。
+        sentences:
+          - ancient: 策杖从我游。（三国魏•曹植《苦思行》）
+          - ancient: 策扶老（手杖）以流憩，时矫首而遐观。（《归去来兮辞》）
+

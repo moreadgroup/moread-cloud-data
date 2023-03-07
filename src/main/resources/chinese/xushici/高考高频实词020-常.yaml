@@ -1,13 +1,48 @@
 ---
 words:
-  - word: xxxx
-    type: 【xx词】
-    phonetic: xx1
+  - word: 常
+    type: 【名词】
+    phonetic: chang2
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: 常规。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 民生各有所乐兮，余独好修以为常。（《离骚》）
+          - ancient: 天行有常，不为尧存，不为桀亡。（《荀子•天论》）
+          - ancient: 且陛下春秋高，法令亡常，大臣亡罪夷灭者数十家，安危不可知，子卿尚复谁为乎？（《苏武传》）
+
+  - word: 常
+    type: 【形容词】
+    phonetic: chang2
+    tags:
+      - 高中
+    samples:
+      - trans: ❶经常的；固定不变的。
+        sentences:
+          - ancient: 故兵无常势，水无常形。（《孙子兵法•虚实》）
+          - ancient: 圣人无常师。（《师说》）
+          - ancient: 胜地不常，盛筵难再，兰亭已矣，梓泽丘墟。（《滕王阁序》）
+          - ancient: 【高考题例】雷霆霜雪,可暂不可常。（《明史•王祎传》）
+      - trans: ❷平常;普通。
+        sentences:
+          - ancient: “人间四月芳菲尽，山寺桃花始盛开。”盖常理也。（《梦溪笔谈•药议》）
+          - ancient: 珠翠罗绮溢目，车马塞途，饮食百物皆倍穹常时，而僦赁看幕，虽席地不容闲也。（《观潮》）
+          - ancient: 所以遣将守关者，备他盗之出入与非常也。（《鸿门宴》）
+      - trans: ❸通"长"（chang2）
+        sentences:
+          - ancient: 官无常，下怨上,而器械不功。（《管子•七法》）
+
+  - word: 常
+    type: 【副词】
+    phonetic: chang2
+    tags:
+      - 高中
+    samples:
+      - trans: ❶经常;时常。
+        sentences:
+          - ancient: 旦日视其书，乃太公兵法也。良因异之，常习诵读之。（《史记・留侯世家》）
+          - ancient: 项伯亦拔剑起舞，常以身翼蔽沛公。（《鸿门宴》）
+      - trans: ❷通"尝"。曾经。
+        sentences:
+          - ancient: 【高考题例】方朝廷用兵急人之时，常显用之。（《欧阳文忠公集•偃虹堤记》）

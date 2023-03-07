@@ -1,13 +1,58 @@
 ---
 words:
-  - word: xxxx
-    type: 【xx词】
-    phonetic: xx1
+  - word: 曾
+    type: 【动词】
+    phonetic: ceng2
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: 重叠。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 【例句】曾云无温夜,严霜有凝威。（晋•陆机《园葵》）
+          - ancient: 荡胸生曾云,决眦入归鸟。（《望岳》）
+  - word: 曾
+    type: 【副词】
+    phonetic: ceng2
+    tags:
+      - 高中
+    samples:
+      - trans: 曾经。
+        sentences:
+          - ancient: 【例句】而刘夙婴疾病，常在床蓐，臣侍汤药，未曾废离。（《陈情表》）
+          - ancient: 寻常巷陌，人道寄奴曾住。（《永遇乐•京口北固亭怀古》）
+  - word: 曾
+    type: 【名词】    
+    phonetic: zeng1
+    tags:
+      - 高中
+    samples:
+      - trans: 与自己隔两代的亲属
+        sentences:
+          - ancient: 【例句】是高曾时为一户者，至曾元时不分至十户不止。（清•洪亮吉《治平篇》）
+          - ancient: 禹之曾大父昌意及父稣皆不得在帝位，为人臣。（《史记•夏本纪》）
+          - ancient: 高曾之时，隙地未尽辟。（清•洪亮吉《治平篇》）
+          - ancient: 孝桓皇帝讳志，肃宗曾孙也。（《庐汉书•孝桓帝纪》）
+  - word: 曾
+    type: 【动词】
+    phonetic: zeng1
+    tags:
+      - 高中
+    samples:
+      - trans: ❶增加。通"增"。
+        sentences:
+          - ancient: 【例句】所以动心忍性，曾益其所不能。（《生于忧患，死于安乐》）
+      - trans: ❷重复。
+        sentences:
+          - ancient: 【例句】矫兹媚以私处兮，愿曾思而远身。（战国楚•屈原《九章•惜诵》）
+  - word: 曾
+    type: 【副词】
+    phonetic: zeng1
+    tags:
+      - 高中
+    samples:
+      - trans: 表示出乎意料，相当于"简直""连……""竟"。
+        sentences:
+          - ancient: 【例句】以残年余力，曾不能毁山之一毛，其如土石何?（《列子•汤问》）
+          - ancient: 盖将自其变者而观之，则天地曾不能以一瞬。（《赤壁赋》）
+          - ancient: 今吾且死而侯生曾无一言半辞送我,我岂有所失哉？（《史记•魏公子列传》）
+          - ancient: 【高考题例】而亲贤下士，推毂后进，虽位崇年高，曾无舱色。（《旧唐书•于休烈传》）

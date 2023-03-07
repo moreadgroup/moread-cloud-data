@@ -1,13 +1,69 @@
 ---
 words:
-  - word: xxxx
-    type: 【xx词】
-    phonetic: xx1
+  - word: 病
+    type: 【名词】
+    phonetic: bing4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶泛指疾病。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 君之病在肌肤，不治将益深。（《扁鹊见蔡桓公》）
+          - ancient: 臣少多疾病，九岁不行，零丁孤苦，至于成立。（《陈情表》）
+          - ancient: 君之病在肠胃，不治将益深。（《扁鹊见蔡桓公》）
+          - ancient: 血脉流通，病不得生。（《三国志•魏书•华佗传》）
+      - trans: ❷指病情加重。
+        sentences:
+          - ancient: 子疾病，子路请祷。（《论语•述而》）
+          - ancient: 子疾病，子路使门人为臣。（《论语•子罕》）
+      - trans: ❸弊病;缺点。
+        sentences:
+          - ancient: 不如舜，不如周公，吾之病也。（唐•韩愈《原毁》）
+          - ancient: 人皆嗤吾固陋，吾不以为病。（《训俭示康》）
+          - ancient: 学而不能行谓之病。（《庄子•让王》）
+      - trans: ❹羞辱。
+        sentences:
+          - ancient: 圣人非所与熙（开玩笑）也，寡人反取病焉。（《晏子舂秋•内篇杂下》）•
+
+  - word:  病
+    type: 【动词】
+    phonetic: bing4
+    tags:
+      - 高中
+    samples:    
+      - trans: ❶生病;有病。
+        sentences:
+          - ancient: 相如每朝时，常称病。（《廉颇蔺相如列传》）
+          - ancient: 其疾病而死，死而湮没不足道者，亦已众矣，况草野之无闻者欤！（《五人墓碑记》）
+      - trans: ❷伤害;损害。
+        sentences:
+          - ancient: 以夭梅、病梅为业，以求钱也。（《病梅馆记》）
+          - ancient: 君若欲害之，不若一为下水，以病其所种。（《战国策•东周策》）
+      - trans: ❸担心;害怕。
+        sentences:
+          - ancient: 不容何病，不容然后见君子！（《史记•孔子世家》）
+          - ancient: 弗乎弗乎，君子病没世而名不称焉。（《史记•孔子世家》）
+          - ancient: 君子病无能焉，不病人之不己知也。（《论语•卫灵公》）
+      - trans: ❹怨恨。
+        sentences:
+          - ancient: 夫商衰而纣以不仁残天下，天下孰不病纣？（宋•王安石《伯夷》）
+      - trans: ❺责备。
+        sentences:
+          - ancient: 古人以俭为美德,今人乃以俭相诟病。（《训俭示康》）
+
+  - word:  病
+    type: 【形容词】   
+    phonetic: bing4
+    tags:
+      - 高中
+    samples:       
+      - trans: ❶疲倦;劳累。
+        sentences:
+          - ancient: 今日病矣,予助苗长矣！（《孟子•公孙丑上》）
+      - trans: ❷困苦；困乏。
+        sentences:
+          - ancient: 向（假如）吾不为斯役，则久已病矣。（《捕蛇者说》）
+          - ancient: 宋公肉袒执牺，委服告病。（《吕氏春秋•行论》）
+      - trans: ❸枯萎。
+        sentences:
+          - ancient: 沉舟侧畔千帆过，病树前头万木春。（《酬乐天扬州初逢席上见赠》）

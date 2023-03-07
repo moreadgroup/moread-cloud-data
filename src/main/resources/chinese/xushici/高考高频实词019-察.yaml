@@ -1,13 +1,40 @@
 ---
 words:
-  - word: xxxx
-    type: 【xx词】
-    phonetic: xx1
+  - word: 察
+    type: 【动词】
+    phonetic: cha2
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶观察。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 仰观宇宙之大，俯察品类之盛,所以游目骋怀，足以极视听之娱。（《兰亭集序》）
+          - ancient: 徐而察之，则山下皆石穴罅（xia4,缝隙），不知其浅深。（《石钟山记》）
+          - ancient: 悔相道之不察兮，延伫乎吾将反。（《离骚》）
+      - trans: ❷看清;明辨。
+        sentences:
+          - ancient: 明足以察秋毫之末，而不见舆薪。（《齐桓晋文之事》）
+      - trans: ❸知晓;明了。
+        sentences:
+          - ancient: 谋利而得害，犹弗察也。（《吕氏春秋•召类》）
+      - trans: ❹考察;审察。
+        sentences:
+          - ancient: 陛下亦宜自谋，以咨诹（诹ZOU1,咨询）善道,察纳雅言，深追先帝遗诏。（《出姉弟》）
+          - ancient: 向察众人之议，专欲误将军，不足与图大事。（《资治通鉴•汉纪五十七》）
+          - ancient: 察邻国之政,无如寡人之用心者。（《孟子•梁惠王上》）
+      - trans: ❺推荐、选拔官吏。
+        sentences:
+          - ancient: 严仲子乃察举吾弟困污之中而交之。（《史记•刺客列传》）
+          - ancient: 前太守臣逵，察臣孝廉;后刺史臣荣，举臣秀才。（《陈情表》）
+      - trans: ❻体察;理解。
+        sentences:
+          - ancient: 怨灵修之浩荡兮，终不察夫民心。（《离骚》）
+  - word: 察
+    type: 【形容词】
+    phonetic: cha2
+    tags:
+      - 高中
+    samples:
+      - trans: 精明。
+        sentences:
+          - ancient: 例句】水至清则无鱼，人至察则无徒。（汉.东方朔《答客难》）
