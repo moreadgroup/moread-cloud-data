@@ -10,7 +10,7 @@ words:
         sentences:
           - ancient: 露申、辛夷（植物名），死林<薄>兮。（战国楚•屈原《九章•渉江》
             url: xxxx
-            vernacular: xxxx
+            vernacular: 瑞香和辛夷啊，都死在林丛草间。
   - word: 薄
     type: 【动词】
     phonetic: bo2
@@ -21,31 +21,31 @@ words:
         sentences:
           - ancient: 但以刘日<薄>西山，气息奄奄，人命危浅，朝不虑夕。 （《陈情表》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 只是因为祖母刘氏寿命即将终了，气息微弱，生命垂危，早上不能想到晚上怎样。
           - ancient: 每<薄>暮下管键。（《狱中杂记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 每到傍晚，就上锁了。薄暮：傍晚。下管键：指落锁。
       - trans: ❷轻视;看不起。
         sentences:
           - ancient: 不宜妄自菲<薄>，引喻失义，以塞忠谏之路也。（《出师表》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 不应当随便看轻自己，说不恰当的话，以致于堵塞人们忠心地进行规劝的言路。
           - ancient: 父母配嫁泾川次子，而夫婿乐逸，为婢仆所惑，日以厌<薄>。（《柳毅传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 父母把我嫁给泾川龙王的二儿子，但丈夫喜欢放荡取乐，受到了奴仆们的迷惑，一天天厌弃、鄙薄我。
           - ancient: 卨xie4主和固位，无异于桧，士论益<薄>之。（《宋史•奸臣列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 万俟卨主张与金国议和以巩固自己的地位，与秦桧无异，更被众论所鄙薄。
       - trans: ❸混入;混杂。
         sentences:
           - ancient: 矢溺皆闭其中，与饮食之气相<薄>。（《狱中杂记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 大小便都在房间里，和吃饭喝水的气味混在一道。
       - trans: ❹减少。
         sentences:
           - ancient: <薄>赋敛，广蓄积，以实仓廩。（汉•晁错《论贵粟疏》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 减轻(他们的)赋税,大量贮备粮食,来使仓库充实
   - word: 薄
     type: 【形容词】
     phonetic: bo2
@@ -56,29 +56,29 @@ words:
         sentences:
           - ancient: 年少呵轻远别，情<薄>呵易弃掷。（《长亭送别》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 青春年少呵，把别离看得很轻，情意淡薄呵，容易遗弃对方。
       - trans: ❷微小;量少。
         sentences:
           - ancient: "轻辞天子，非高也，势<薄>也。（《韩非子•五蠹》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 古人轻易地辞去天子，并不是品德高尚，而是因为天子的权势太小了。
           - ancient: 不终岁，<薄>产累尽。（《促织》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 不到一年，微薄的家产逐渐耗尽。
           - ancient: 邻之厚，君之<薄>也。（《烛之武退秦师》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 邻国越雄厚，您就越薄弱。
           - ancient: 其俸禄虽<薄>，常不使有余。（《泷冈阡表》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 他的俸禄虽然微薄，常常不使有剩余。
       - trans: ❸厚度小（与"厚"相对）。
         sentences:
           - ancient: 战战兢兢，如临深渊，如履<薄>冰。（《诗经•小雅•小旻》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 面对政局我战兢，就像面临深深渊，就像脚踏薄薄冰。
           - ancient: 用胶泥刻字，<薄>如钱唇，每字为一印，火烧令坚。（《薈溪笔谈•技艺》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 用胶泥刻出字,笔画很细如图铜钱的边缘。 每个字就是一个印(章),用火烧印,从而使泥印变得坚硬。
   - word: 薄
     type: 【助词】
     phonetic: bo2
@@ -87,6 +87,6 @@ words:
     samples:
       - trans: 动词词头。
         sentences:
-          - ancient: <薄>伐玁狁。（《诗经•小雅•六月》）
+          - ancient: <薄>伐玁狁，至于大原。（《诗经•小雅•六月》）
             url: xxxx
             vernacular: 猛烈出击讨玁狁，进军太原敌胆丧。
