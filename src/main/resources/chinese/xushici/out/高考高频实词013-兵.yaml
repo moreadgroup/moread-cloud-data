@@ -1,13 +1,46 @@
 ---
 words:
-  - word: xxxx
-    type: 【xx词】
-    phonetic: xx1
+  - word: 兵
+    type: 【名词】
+    phonetic: bing1
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶兵器。
         sentences:
-          - ancient: xxx
+          - ancient: 【例句】弃甲曳<兵>而走。（《寡人之于国也》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 良将劲弩守要害之处，信臣精卒陈利<兵>而谁何。（《过秦论》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 六国破灭，非<兵>不利，战不善，弊在赂秦。（《六国论》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷士兵;军队。
+        sentences:
+          - ancient: 【例句】当是时，项羽<兵>四十万，在新丰鸿门；沛公<兵>十万，在霸上。（《鸿门宴》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 公子即合符，而晋鄙不授公子<兵>，而复请之，事必危矣，臣客屠者朱亥可与俱。（《史记•魏公子列传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸军事;战争。
+        sentences:
+          - ancient: 【例句】自胡马窥江去后，废池乔木，犹厌言<兵>。（《扬州慢》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <兵>旱相乘，天下大屈。（《论积贮疏》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <兵>者，国之大事也。（《孙子•计》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹兵法;战略战术
+        sentences:
+          - ancient: 【例句】上<兵>伐谋，其次伐交，其次伐兵，其下攻城。（《孙子兵法•谋攻》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 公不论<兵>，必大困。（《战国策•秦策二》
             url: xxxx
             vernacular: xxxx

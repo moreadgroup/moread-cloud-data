@@ -1,9 +1,72 @@
 ---
 quizzes:
-  - word: xxxx
-    type: 【xx词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+  - word: 兵
+    type: 【名词】
+    phonetic: bing1
+    trans: ❶兵器。
+    ancient: 弃甲曳<兵>而走。（《寡人之于国也》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 战败的扔掉盔甲拖着武器逃跑。
+  - word: 兵
+    type: 【名词】
+    phonetic: bing1
+    trans: ❶兵器。
+    ancient: 良将劲弩守要害之处，信臣精卒陈利<兵>而谁何。（《过秦论》）
+    url: xxxx
+    vernacular: 好的将领手执强弩，守卫着要害的地方，可靠的官员和精锐的士卒，拿着锋利的兵器，盘问过往行人。
+  - word: 兵
+    type: 【名词】
+    phonetic: bing1
+    trans: ❶兵器。
+    ancient: 六国破灭，非<兵>不利，战不善，弊在赂秦。（《六国论》）
+    url: xxxx
+    vernacular: 六国的灭亡，不是因为他们的武器不锋利，仗打得不好，弊端在于用土地来贿赂秦国。
+  - word: 兵
+    type: 【名词】
+    phonetic: bing1
+    trans: ❷士兵;军队。
+    ancient: 当是时，项羽<兵>四十万，在新丰鸿门；沛公<兵>十万，在霸上。（《鸿门宴》）
+    url: xxxx
+    vernacular: 在这时，项羽的军队有四十万，驻扎在新丰鸿门；沛公的军队有十万，驻扎在霸上。
+  - word: 兵
+    type: 【名词】
+    phonetic: bing1
+    trans: ❷士兵;军队。
+    ancient: 公子即合符，而晋鄙不授公子<兵>，而复请之，事必危矣，臣客屠者朱亥可与俱。（《史记•魏公子列传》）
+    url: xxxx
+    vernacular: 公子到那里即使两符相合，验明无误，可是晋鄙仍不交给公子兵权反而再请示魏王，那么事情就危险了。
+  - word: 兵
+    type: 【名词】
+    phonetic: bing1
+    trans: ❸军事;战争。
+    ancient: 自胡马窥江去后，废池乔木，犹厌言<兵>。（《扬州慢》）
+    url: xxxx
+    vernacular: 自从金兵侵略长江流域地区，洗劫扬州后，只留下残存的古树和废毁的池台，都不愿再谈论那残酷的战争。
+  - word: 兵
+    type: 【名词】
+    phonetic: bing1
+    trans: ❸军事;战争。
+    ancient: <兵>旱相乘，天下大屈。（《论积贮疏》）
+    url: xxxx
+    vernacular: 假若兵灾旱灾交互侵袭，国家财富极其缺乏。
+  - word: 兵
+    type: 【名词】
+    phonetic: bing1
+    trans: ❸军事;战争。
+    ancient: <兵>者，国之大事也。（《孙子•计》）
+    url: xxxx
+    vernacular: 战争是国家的大事
+  - word: 兵
+    type: 【名词】
+    phonetic: bing1
+    trans: ❹兵法;战略战术
+    ancient: 上<兵>伐谋，其次伐交，其次伐兵，其下攻城。（《孙子兵法•谋攻》）
+    url: xxxx
+    vernacular: 上等的军事行动是用谋略挫败敌方的战略意图或战争行为，其次就是用外交战胜敌人，再次是用武力击败敌军，最下之策是攻打敌人的城池。
+  - word: 兵
+    type: 【名词】
+    phonetic: bing1
+    trans: ❹兵法;战略战术
+    ancient: 公不论<兵>，必大困。（《战国策•秦策二》
+    url: xxxx
+    vernacular: 您如果不研究军事和兵法，就会陷入绝大的困境。
