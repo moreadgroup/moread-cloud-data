@@ -1,13 +1,64 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 察
+    type: 【动词】
+    phonetic: cha2
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶观察。
         sentences:
-          - ancient: xxx
+          - ancient: "仰观宇宙之大，俯<察>品类之盛,所以游目骋怀，足以极视听之娱。（《兰亭集序》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "徐而<察>之，则山下皆石穴罅（xia4,缝隙），不知其浅深。（《石钟山记》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 悔相道之不<察>兮，延伫乎吾将反。（《离骚》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷看清;明辨。
+        sentences:
+          - ancient: 明足以<察>秋毫之末，而不见舆薪。（《齐桓晋文之事》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸知晓;明了。
+        sentences:
+          - ancient: 谋利而得害，犹弗<察>也。（《吕氏春秋•召类》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹考察;审察。
+        sentences:
+          - ancient: "陛下亦宜自谋，以咨诹（诹ZOU1,咨询）善道,<察>纳雅言，深追先帝遗诏。（《出姉弟》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 向<察>众人之议，专欲误将军，不足与图大事。（《资治通鉴•汉纪五十七》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "<察>邻国之政,无如寡人之用心者。（《孟子•梁惠王上》）"
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❺推荐、选拔官吏。
+        sentences:
+          - ancient: 严仲子乃<察>举吾弟困污之中而交之。（《史记•刺客列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 前太守臣逵，<察>臣孝廉;后刺史臣荣，举臣秀才。（《陈情表》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❻体察;理解。
+        sentences:
+          - ancient: 怨灵修之浩荡兮，终不<察>夫民心。（《离骚》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 察
+    type: 【形容词】
+    phonetic: cha2
+    tags:
+      - 高中
+    samples:
+      - trans: 精明。
+        sentences:
+          - ancient: 例句】水至清则无鱼，人至<察>则无徒。（汉.东方朔《答客难》）
             url: xxxx
             vernacular: xxxx
