@@ -10,13 +10,13 @@ words:
         sentences:
           - ancient: "帝感其<诚>，命夸娥氏二子负二山，一厝（cuo4,通\"措\"，安置）朔东，一厝雍南。（《愚公移山》）"
             url: xxxx
-            vernacular: xxxx
-          - ancient: 慮陛下矜悯愚<诚>，听臣微志。（《陈情表》）
+            vernacular: 天帝被他的诚心所感动，命令大力神夸娥氏的两个儿子背负着两座山，一座放在朔东，一座放在雍南。
+          - ancient: 愿陛下矜悯愚<诚>，听臣微志。（《陈情表》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 希望陛下能怜悯我的诚心，满足我微不足道的心愿
           - ancient: "季父愈闻汝丧之七日，乃能衔哀致<诚>,使建中远具时羞之奠，告汝十二郎之灵。（《祭十二郎文》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 叔父韩愈在听说你去世后的第七天，才得以含着哀痛向你表达诚意，并派建中在远方备办了应时的鲜美食品作为祭品，告慰你十二郎的魂灵
   - word: 诚
     type: 【形容词】
     phonetic: cheng2
@@ -27,16 +27,16 @@ words:
         sentences:
           - ancient: 唯恐道途显晦，不相通达，致负<诚>托，又乖（违背）恳愿。（《柳毅传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 只怕人世和仙境有明暗之分，道路不通，以致辜负了你热忱的嘱托，违背了你恳切的愿望。
           - ancient: 千金、尺玉至贵，而不若一食、短褐之恶者，物时有所急也。<诚>哉言乎！（《齐民要术•序》）
             url: xxxx
             vernacular: xxxx
           - ancient: 陵见其至<诚>。（《苏武传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 李陵见苏武对朝廷如此真诚
           - ancient: 著<诚>去伪，礼之经也。（《荀子•乐论》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 彰明真诚、去掉虚伪, 是礼制的永恒原则。
   - word: 诚
     type: 【副词】
     phonetic: cheng2
@@ -47,22 +47,22 @@ words:
         sentences:
           - ancient: 臣<诚>知不如徐公美。（《邹忌讽齐王纳谏》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我的确知道自己确实比不上徐公美。
           - ancient: 且燕赵处秦革灭殆尽之际，可谓智力孤危，战败而亡，<诚>不得已。（《六国论》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 而且燕赵两国正处在秦国把其他国家快要消灭干净的时候，可以说它们的智谋和力量都很单薄，战败了而亡国，确实是不得已的事。
           - ancient: <诚>不自意返吾衣冠，重见日月。（《〈指南录〉后序》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 实在料不到我终于返回宋朝，重整衣冠，又见到皇帝、皇后
           - ancient: 今得杀身自效，虽蒙斧钺汤護，<诚>甘乐之。（《苏武传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 现在得到牺牲自己以效忠国家的机会，即使受到斧钺和汤镬这样的极刑，我也心甘情愿。
           - ancient: 燕王<诚>振怖大王之威，不敢兴兵以拒大王，愿举国为内臣。（《荆轲刺秦王》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 燕王确实非常害怕大王您的威风，不敢出兵来抗拒，愿意全国上下都做秦国的臣民
           - ancient: 臣<诚>恐见欺于王而负赵，故令人持璧归，间至赵矣。（《廉颇蔺相如列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我实在是害怕被大王欺骗而对不起赵王，所以派人带着宝璧回去，已从小路回到赵国了。
   - word: 诚
     type: 【连词】
     phonetic: cheng2
@@ -73,19 +73,19 @@ words:
         sentences:
           - ancient: "今<诚>以吾众诈自称公子扶苏、项燕，为天下唱,宜多应者。（《陈涉世家》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 现在如果把我们的人假称是公子扶苏项燕的队伍，作为天下首发，应当会有很多响应的人。
           - ancient: <诚>知其如此，虽万乘之公相，吾不以一日辍（离开）汝而就也。（《祭十二郎文》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 假如真的知道会这样，即使让我做高官厚禄的公卿宰相，我也不愿因此离开你一天而去赴任啊！
           - ancient: 仆<诚>以著此书，辙之名山，传之其人，通邑大都，则仆偿前辱之责，虽万被戮，岂有悔哉？（《报任安书》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我确实想完成这本书，把它（暂时）藏在名山之中，（以后）再传给跟自己志同道合的人，再让它广传于天下。那么，我便抵偿了以前所受的侮辱，即使受再多的侮辱，难道会后悔吗？
           - ancient: 君人者，<诚>能见可欲，则思知足以自戒。（《谏太宗十思疏》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 作为君主的人，如果真的能够做到一见到能引起（自己）喜好的东西，就想到该知足来警惕自己
           - ancient: <诚>能得樊将军首与燕督亢之地图献秦王，秦王必说见臣。（《荆轲刺秦王》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 果真能够得到樊将军的首级,及燕国督亢一带的地图献给秦王，秦王一定高兴地召见我
           - ancient: 【高考题例】郎中李梦阳进日:"公<诚>及此时率大臣固争，去"八虎"易易耳。"（《明史•韩文传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 郎中李梦阳进言说:“您果真能在此时率领大臣坚决抗争，除去‘八虎’也很容易的。”
