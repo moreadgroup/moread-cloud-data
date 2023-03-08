@@ -8,13 +8,23 @@ words:
     samples:
       - trans: ❶朝廷（与"野"相对）。
         sentences:
-          - ancient: 于是入朝见威王……（《邹忌讽齐王纳谏》）
-          - ancient: 既而以吴民之乱请于朝，按（查究）诛五人。（《五人墓碑记》）
+          - ancient: 于是入<朝>见威王……（《邹忌讽齐王纳谏》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 既而以吴民之乱请于<朝>，按（查究）诛五人。（《五人墓碑记》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷朝代。
         sentences:
-          - ancient: 折戟沉沙铁未销，自将磨洗认前朝。（《赤壁》）
-          - ancient: 三顾频烦天下计，两朝开济老臣心。（《蜀相》）
-          - ancient: 逮奉圣朝，沐浴清化。（《陈情表》）
+          - ancient: 折戟沉沙铁未销，自将磨洗认前<朝>。（《赤壁》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 三顾频烦天下计，两<朝>开济老臣心。（《蜀相》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 逮奉圣<朝>，沐浴清化。（《陈情表》）
+            url: xxxx
+            vernacular: xxxx
   - word: 朝
     type: 【动词】
     phonetic: chao2
@@ -23,21 +33,39 @@ words:
     samples:
       - trans: ❶朝见;朝拜（君主）。
         sentences:
-          - ancient: 燕、赵、韩、魏闻之，皆朝于齐。（《邹忌讽齐王纳谏》）
-          - ancient: 相如每朝时,常称病，不欲与廉颇争列。（《廉颇蔺相如列传》）
-          - ancient: 强国请服，弱国入朝。（《过秦论》）
+          - ancient: 燕、赵、韩、魏闻之，皆<朝>于齐。（《邹忌讽齐王纳谏》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "相如每<朝>时,常称病，不欲与廉颇争列。（《廉颇蔺相如列传》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 强国请服，弱国入<朝>。（《过秦论》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷使……朝见。
         sentences:
-          - ancient: 然秦以区区之地，致万乘之势，序八州而朝同列，百有余年矣。（《过秦论》）
-          - ancient: 武丁朝诸侯，有天下。（《孟子・公孙丑上》）
+          - ancient: 然秦以区区之地，致万乘之势，序八州而<朝>同列，百有余年矣。（《过秦论》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 武丁<朝>诸侯，有天下。（《孟子・公孙丑上》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸拜见（尊长）。
         sentences:
-          - ancient: 临邛令缪（miu4，诈，装作）为恭敬，日往朝相如。（《史记•司马相如列传》）
-          - ancient: 寡人将谁朝而可？（《战国策•燕策一））
+          - ancient: 临邛令缪（miu4，诈，装作）为恭敬，日往<朝>相如。（《史记•司马相如列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 寡人将谁<朝>而可？（《战国策•燕策一））
+            url: xxxx
+            vernacular: xxxx
       - trans: ❹向着;对着。
         sentences:
-          - ancient: 桂水分五岭,衡山朝九疑。（唐•李白《江西送友人之罗浮》）
-          - ancient: 银烛朝天紫陌长，禁城春色晓苍苍。（唐•贾至《早朝大明宫呈两省僚友》）
+          - ancient: "桂水分五岭,衡山<朝>九疑。（唐•李白《江西送友人之罗浮》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 银烛<朝>天紫陌长，禁城春色晓苍苍。（唐•贾至《早朝大明宫呈两省僚友》）
+            url: xxxx
+            vernacular: xxxx
   - word: 朝
     type: 【名词】
     phonetic: zhao1
@@ -46,13 +74,25 @@ words:
     samples:
       - trans: ❶早晨（与"暮""夕"相对）。
         sentences:
-          - ancient: 君不见高堂明镜悲白发，朝如青丝暮成雪。（《将进酒》）
-          - ancient: 朝歌夜弦，为秦宫人。（《阿房宫赋》）
-          - ancient: 朝济而夕设版焉。（《烛之武退秦师》）
+          - ancient: 君不见高堂明镜悲白发，<朝>如青丝暮成雪。（《将进酒》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <朝>歌夜弦，为秦宫人。（《阿房宫赋》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <朝>济而夕设版焉。（《烛之武退秦师》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷天；日。
         sentences:
-          - ancient: 夙兴（夙此,早起）夜寐，靡有朝矣。（《诗经•卫风•氓》） 
-          - ancient: 三战之所亡（失去的土地），一朝而复之。（《史记•鲁仲连邹阳列传》）
+          - ancient: "夙兴（夙此,早起）夜寐，靡有<朝>矣。（《诗经•卫风•氓》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 三战之所亡（失去的土地），一<朝>而复之。（《史记•鲁仲连邹阳列传》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸初。
         sentences:
-          - ancient: 孟春之朝，君自听朝，论爵赏校官，终五日。（《管子•立政》）
+          - ancient: 孟春之<朝>，君自听朝，论爵赏校官，终五日。（《管子•立政》）
+            url: xxxx
+            vernacular: xxxx

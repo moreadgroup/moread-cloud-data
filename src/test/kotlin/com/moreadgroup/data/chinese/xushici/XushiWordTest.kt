@@ -61,12 +61,12 @@ class XushiWordTest {
             println("${fileName} Words=${xushiWords.words.size}")
             val xushiWordQuizzes = convertFrom(xushiWords);
             // We write the `employee` into `person2.yaml`
-            objectMapper.writeValue(File(quizzesFolder +"Quiz"+fileName ), xushiWordQuizzes);
+            objectMapper.writeValue(File(quizzesFolder + "Quiz" + fileName), xushiWordQuizzes);
 
             allXushiWordQuizzes.quizzes.addAll(xushiWordQuizzes.quizzes)
         }
 //        allXushiWordQuizzes.quizzes.shuffle()
-        objectMapper.writeValue(File(quizzesFolder +"Quiz高考高频虚词000-全部.yaml" ), allXushiWordQuizzes);
+        objectMapper.writeValue(File(quizzesFolder + "Quiz高考高频虚词000-全部.yaml"), allXushiWordQuizzes);
 
     }
 
@@ -463,7 +463,7 @@ class XushiWordTest {
 //            "高考高频实词380-xxxx.yaml",
 
 
-            ).forEach { fileName ->
+        ).forEach { fileName ->
 
             val xushiWords: GushiwenXushiWords = objectMapper.readValue(
                 File(srcFolder + fileName),
@@ -473,12 +473,12 @@ class XushiWordTest {
             println("${fileName} Words=${xushiWords.words.size}")
             val xushiWordQuizzes = convertFrom(xushiWords);
             // We write the `employee` into `person2.yaml`
-            objectMapper.writeValue(File(quizzesFolder +"Quiz"+fileName ), xushiWordQuizzes);
+            objectMapper.writeValue(File(quizzesFolder + "Quiz" + fileName), xushiWordQuizzes);
 
             allXushiWordQuizzes.quizzes.addAll(xushiWordQuizzes.quizzes)
         }
 //        allXushiWordQuizzes.quizzes.shuffle()
-        objectMapper.writeValue(File(quizzesFolder +"Quiz高考高频虚词000-全部.yaml" ), allXushiWordQuizzes);
+        objectMapper.writeValue(File(quizzesFolder + "Quiz高考高频虚词000-全部.yaml"), allXushiWordQuizzes);
 
     }
 
@@ -503,7 +503,6 @@ class XushiWordTest {
         }
         return result
     }
-
 
 
     @Test
@@ -544,7 +543,7 @@ class XushiWordTest {
             println("${fileName} Words=${xushiWords.words.size}")
             val xushiWordsFixed = fixSentenceWithAnchor(xushiWords);
             // We write the `employee` into `person2.yaml`
-            objectMapper.writeValue(File(destFolder +fileName ), xushiWordsFixed);
+            objectMapper.writeValue(File(destFolder + fileName), xushiWordsFixed);
         }
     }
 
@@ -571,24 +570,24 @@ class XushiWordTest {
 //            "高考高频实词011-壁bi.yaml",
 //            "高考高频实词012-便.yaml",
 //            "高考高频实词013-兵.yaml",
-            "高考高频实词014-病.yaml",
-            "高考高频实词015-薄.yaml",
-            "高考高频实词016-哺.yaml",
-            "高考高频实词017-策.yaml",
-            "高考高频实词018-曾.yaml",
-            "高考高频实词019-察.yaml",
-            "高考高频实词020-常.yaml",
-//            "高考高频实词021-朝.yaml",
-//            "高考高频实词022-诚.yaml",
-//            "高考高频实词023-乘.yaml",
-//            "高考高频实词024-冲.yaml",
-//            "高考高频实词025-除.yaml",
-//            "高考高频实词026-创.yaml",
-//            "高考高频实词027-辞.yaml",
-//            "高考高频实词028-刺.yaml",
-//            "高考高频实词029-从.yaml",
-//            "高考高频实词030-卒.yaml",
-//            "高考高频实词031-数.yaml",
+//            "高考高频实词014-病.yaml",
+//            "高考高频实词015-薄.yaml",
+//            "高考高频实词016-哺.yaml",
+//            "高考高频实词017-策.yaml",
+//            "高考高频实词018-曾.yaml",
+//            "高考高频实词019-察.yaml",
+//            "高考高频实词020-常.yaml",
+            "高考高频实词021-朝.yaml",
+            "高考高频实词022-诚.yaml",
+            "高考高频实词023-乘.yaml",
+            "高考高频实词024-冲.yaml",
+            "高考高频实词025-除.yaml",
+            "高考高频实词026-创.yaml",
+            "高考高频实词027-辞.yaml",
+            "高考高频实词028-刺.yaml",
+            "高考高频实词029-从.yaml",
+            "高考高频实词030-卒.yaml",
+            "高考高频实词031-数.yaml",
 //            "高考高频实词032-殆.yaml",
 //            "高考高频实词033-待.yaml",
 //            "高考高频实词034-啖.yaml",
@@ -940,7 +939,7 @@ class XushiWordTest {
 //            "高考高频实词380-xxxx.yaml",
 
 
-            ).forEach { fileName ->
+        ).forEach { fileName ->
 
             val xushiWords: GushiwenXushiWords = objectMapper.readValue(
                 File(srcFolder + fileName),
@@ -950,16 +949,16 @@ class XushiWordTest {
             println("${fileName} Words=${xushiWords.words.size}")
             val xushiWordsFixed = fixSentenceWithAnchor(xushiWords);
             // We write the `employee` into `person2.yaml`
-            objectMapper.writeValue(File(destFolder +fileName ), xushiWordsFixed);
+            objectMapper.writeValue(File(destFolder + fileName), xushiWordsFixed);
         }
     }
 
 
-    private fun fixSentenceWithAnchor( xushiWords: GushiwenXushiWords):GushiwenXushiWords {
+    private fun fixSentenceWithAnchor(xushiWords: GushiwenXushiWords): GushiwenXushiWords {
         xushiWords.words.forEach { word ->
             word.samples?.forEach { trans ->
                 trans.sentences?.forEach { sentence ->
-                    if (!sentence.ancient.contains("<${word.word}>")){
+                    if (!sentence.ancient.contains("<${word.word}>")) {
 
                         val matcher = Pattern.compile("${word.word}").matcher(sentence.ancient)
                         var counter = 0
@@ -968,16 +967,16 @@ class XushiWordTest {
                             counter++
                         }
 
-                        if (counter > 1){
+                        if (counter > 1) {
                             println("please fix: [${sentence.ancient}]")
-                        }else{
-                            sentence.ancient =  sentence.ancient.replace("${word.word}","<${word.word}>")
+                        } else {
+                            sentence.ancient = sentence.ancient.replace("${word.word}", "<${word.word}>")
                         }
                     }
-                    if (sentence.url==null){
-                        sentence.url="xxxx"
+                    if (sentence.url == null) {
+                        sentence.url = "xxxx"
                     }
-                    if (sentence.vernacular == null){
+                    if (sentence.vernacular == null) {
                         sentence.vernacular = "xxxx"
                     }
                 }
@@ -985,7 +984,6 @@ class XushiWordTest {
         }
         return xushiWords
     }
-
 
 
 }

@@ -8,9 +8,15 @@ words:
     samples:
       - trans: 诚心;真诚。
         sentences:
-          - ancient: 帝感其诚，命夸娥氏二子负二山，一厝（cuo4,通"措"，安置）朔东，一厝雍南。（《愚公移山》）
-          - ancient: 慮陛下矜悯愚诚，听臣微志。（《陈情表》）
-          - ancient: 季父愈闻汝丧之七日，乃能衔哀致诚,使建中远具时羞之奠，告汝十二郎之灵。（《祭十二郎文》）
+          - ancient: "帝感其<诚>，命夸娥氏二子负二山，一厝（cuo4,通\"措\"，安置）朔东，一厝雍南。（《愚公移山》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 慮陛下矜悯愚<诚>，听臣微志。（《陈情表》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "季父愈闻汝丧之七日，乃能衔哀致<诚>,使建中远具时羞之奠，告汝十二郎之灵。（《祭十二郎文》）"
+            url: xxxx
+            vernacular: xxxx
   - word: 诚
     type: 【形容词】
     phonetic: cheng2
@@ -19,10 +25,18 @@ words:
     samples:
       - trans: 诚挚的;确实的。
         sentences:
-          - ancient: 唯恐道途显晦，不相通达，致负诚托，又乖（违背）恳愿。（《柳毅传》）
-          - ancient: 千金、尺玉至贵，而不若一食、短褐之恶者，物时有所急也。诚哉言乎！（《齐民要术•序》）
-          - ancient: 陵见其至诚。（《苏武传》）
-          - ancient: 著诚去伪，礼之经也。（《荀子•乐论》）
+          - ancient: 唯恐道途显晦，不相通达，致负<诚>托，又乖（违背）恳愿。（《柳毅传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 千金、尺玉至贵，而不若一食、短褐之恶者，物时有所急也。<诚>哉言乎！（《齐民要术•序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 陵见其至<诚>。（《苏武传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 著<诚>去伪，礼之经也。（《荀子•乐论》）
+            url: xxxx
+            vernacular: xxxx
   - word: 诚
     type: 【副词】
     phonetic: cheng2
@@ -31,12 +45,24 @@ words:
     samples:
       - trans: 实在;的确。
         sentences:
-          - ancient: 臣诚知不如徐公美。（《邹忌讽齐王纳谏》）
-          - ancient: 且燕赵处秦革灭殆尽之际，可谓智力孤危，战败而亡，诚不得已。（《六国论》）
-          - ancient: 诚不自意返吾衣冠，重见日月。（《〈指南录〉后序》）
-          - ancient: 今得杀身自效，虽蒙斧钺汤護，诚甘乐之。（《苏武传》）
-          - ancient: 燕王诚振怖大王之威，不敢兴兵以拒大王，愿举国为内臣。（《荆轲刺秦王》）
-          - ancient: 臣诚恐见欺于王而负赵，故令人持璧归，间至赵矣。（《廉颇蔺相如列传》）
+          - ancient: 臣<诚>知不如徐公美。（《邹忌讽齐王纳谏》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 且燕赵处秦革灭殆尽之际，可谓智力孤危，战败而亡，<诚>不得已。（《六国论》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <诚>不自意返吾衣冠，重见日月。（《〈指南录〉后序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 今得杀身自效，虽蒙斧钺汤護，<诚>甘乐之。（《苏武传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 燕王<诚>振怖大王之威，不敢兴兵以拒大王，愿举国为内臣。（《荆轲刺秦王》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 臣<诚>恐见欺于王而负赵，故令人持璧归，间至赵矣。（《廉颇蔺相如列传》）
+            url: xxxx
+            vernacular: xxxx
   - word: 诚
     type: 【连词】
     phonetic: cheng2
@@ -45,9 +71,21 @@ words:
     samples:
       - trans: 果真;如果。
         sentences:
-          - ancient: 今诚以吾众诈自称公子扶苏、项燕，为天下唱,宜多应者。（《陈涉世家》）
-          - ancient: 诚知其如此，虽万乘之公相，吾不以一日辍（离开）汝而就也。（《祭十二郎文》）
-          - ancient: 仆诚以著此书，辙之名山，传之其人，通邑大都，则仆偿前辱之责，虽万被戮，岂有悔哉？（《报任安书》）
-          - ancient: 君人者，诚能见可欲，则思知足以自戒。（《谏太宗十思疏》）
-          - ancient: 诚能得樊将军首与燕督亢之地图献秦王，秦王必说见臣。（《荆轲刺秦王》）
-          - ancient: 【高考题例】郎中李梦阳进日:"公诚及此时率大臣固争，去"八虎"易易耳。"（《明史•韩文传》）
+          - ancient: "今<诚>以吾众诈自称公子扶苏、项燕，为天下唱,宜多应者。（《陈涉世家》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <诚>知其如此，虽万乘之公相，吾不以一日辍（离开）汝而就也。（《祭十二郎文》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 仆<诚>以著此书，辙之名山，传之其人，通邑大都，则仆偿前辱之责，虽万被戮，岂有悔哉？（《报任安书》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 君人者，<诚>能见可欲，则思知足以自戒。（《谏太宗十思疏》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <诚>能得樊将军首与燕督亢之地图献秦王，秦王必说见臣。（《荆轲刺秦王》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】郎中李梦阳进日:"公<诚>及此时率大臣固争，去"八虎"易易耳。"（《明史•韩文传》）
+            url: xxxx
+            vernacular: xxxx

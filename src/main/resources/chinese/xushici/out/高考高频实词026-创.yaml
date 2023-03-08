@@ -1,13 +1,54 @@
 ---
 words:
-  - word: xxxx
+  - word: 创
     type: 【名词】
-    phonetic: xx1
+    phonetic: chuang1
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶伤口；创伤。
         sentences:
-          - ancient: xxx
+          - ancient: 秦王复击轲，被（遭受）八<创>。（《战国策•燕策 三》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 项王身亦被十余初。（《项羽之死》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "【高考题例】光武破寻、邑、熹被<创>,有战劳,还拜中郎将，封勇功侯。（《后汉书•赵毒传》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】背城拒战凡三日，被<创>，没于阵，年六十二。（《宋史•何灌传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】屡经战阵，身被七十<创>。（《宋史•康保裔传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷疮。
+        sentences:
+          - ancient: "管仲告诸侯,吾君背有疽<创>，不得妇人，<创>不衰愈。（《论衡.书虚》）"
+            url: xxxx
+            vernacular: xxxx
+  - word: 创
+    type: 【动词】
+    phonetic: chuang4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶开创。
+        sentences:
+          - ancient: "先帝<创>业未半而中道崩殂，今天下三分，益州疲弊,此诚危急存亡之秋也。（《出师表》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 我固为子孙<创>业也。（明•黄宗羲《原君》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷撰写。
+        sentences:
+          - ancient: 草<创>未就，会遭此祸，惜其不成，是以就极刑而无愠色。（《报任安书》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸惩治。
+        sentences:
+          - ancient: 予<创>若时，娶于涂山，辛壬癸甲。（《尚书•益稷》）
             url: xxxx
             vernacular: xxxx

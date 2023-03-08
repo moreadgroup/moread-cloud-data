@@ -8,37 +8,68 @@ words:
     samples:
       - trans: ❶乘坐交通工具。
         sentences:
-          - ancient: 公与之乘。（《曹刿论战》）
-          - ancient: 至莫（暮）夜月明，独与迈乘小舟，至绝壁下。（《石钟山记》）’
+          - ancient: 公与之<乘>。（《曹刿论战》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 至莫（暮）夜月明，独与迈<乘>小舟，至绝壁下。（《石钟山记》）’
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷驾。
         sentences:
-          - ancient: 有时朝发白帝，暮到江陵,其间千二百里，虽乘奔御乘风，不以疾也。（《三峡》）
-          - ancient: 既而尽奔腾分合五阵之势，并有乘骑弄旗标枪舞刀于水面者，如履平地。（《观潮》）
-          - ancient: 乘骐骥以驰骋兮，来吾道夫先路！（《离骚》）
+          - ancient: "有时朝发白帝，暮到江陵,其间千二百里，虽<乘>奔御风，不以疾也。（《三峡》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 既而尽奔腾分合五阵之势，并有<乘>骑弄旗标枪舞刀于水面者，如履平地。（《观潮》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <乘>骐骥以驰骋兮，来吾道夫先路！（《离骚》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸冒着。
         sentences:
-          - ancient: 余以乾隆三十九年十二月，自京师乘风雪……至于泰安。（《登泰山记》）
+          - ancient: 余以乾隆三十九年十二月，自京师<乘>风雪……至于泰安。（《登泰山记》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❹登上。
         sentences:
-          - ancient: 乘彼垝垣，以望复关（地名）。（《诗经•卫风•氓》）
-          - ancient: 秦师过周北门，左右免胄而下，超（跳上去）乘者三百乘（sheng4）o（《左传•僖公三十三年》
-          - ancient: 乘鄂渚而反顾兮，欸秋冬之绪风。（《涉江》）
-          - ancient: 一鼓而士毕乘之。（《吕氏春秋.贵直》）
+          - ancient: <乘>彼垝垣，以望复关（地名）。（《诗经•卫风•氓》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 秦师过周北门，左右免胄而下，超（跳上去）<乘>者三百乘（sheng4）。（《左传•僖公三十三年》
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <乘>鄂渚而反顾兮，欸秋冬之绪风。（《涉江》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 一鼓而士毕<乘>之。（《吕氏春秋.贵直》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❺顺应。
         sentences:
-          - ancient: 若夫乘天地之正,而御六气之辩，以游无穷者，彼且恶乎待哉？（《逍遥游》）
-          - ancient: 吴之民方痛心焉，于是乘其厉声以呵,则噪而相逐。（《五人墓碑记》）
-      - trans: ❻掩袭;追逐。	—
-
+          - ancient: "若夫<乘>天地之正,而御六气之辩，以游无穷者，彼且恶乎待哉？（《逍遥游》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "吴之民方痛心焉，于是<乘>其厉声以呵,则噪而相逐。（《五人墓碑记》）"
+            url: xxxx
+            vernacular: xxxx
+      - trans: "❻掩袭;追逐。\t—"
         sentences:
-          - ancient: 孔将军、费将军纵，楚兵不利，淮阴侯复乘之，大败垓下。（《史记•高祖本纪》）
-          - ancient: 吏士喜，大呼乘之。（《汉书•陈汤传》）
+          - ancient: 孔将军、费将军纵，楚兵不利，淮阴侯复<乘>之，大败垓下。（《史记•高祖本纪》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 吏士喜，大呼<乘>之。（《汉书•陈汤传》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❼连接;一个接一个。
         sentences:
-          - ancient: 兵旱相乘，天下大屈。（《论积贮疏》）
+          - ancient: 兵旱相<乘>，天下大屈。（《论积贮疏》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❽进行乘法运算。
         sentences:
-          - ancient: 道子画人物，如以灯取影，逆来顺往，旁见侧出，横斜平直，各相乘除，得自然之数，不差毫末。（宋•苏轼《书吴道子画后》）
+          - ancient: 道子画人物，如以灯取影，逆来顺往，旁见侧出，横斜平直，各相<乘>除，得自然之数，不差毫末。（宋•苏轼《书吴道子画后》）
+            url: xxxx
+            vernacular: xxxx
   - word: 乘
     type: 【介词】
     phonetic: cheng2
@@ -47,9 +78,15 @@ words:
     samples:
       - trans: 趁着;凭借。
         sentences:
-          - ancient: 因利乘便，宰割天下，分裂山河。（《过秦论》）
-          - ancient: 蔡之精兵皆在洄曲，及四境拒守，守州城者皆羸（lei2,瘦弱）老之卒,可以乘虚直抵其城。（《资治通鉴•唐纪五十六》）
-          - ancient: 千骑拥高牙，乘醉听箫鼓，吟赏烟霞。（宋•柳永《望海潮・东南形胜》）
+          - ancient: 因利<乘>便，宰割天下，分裂山河。（《过秦论》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "蔡之精兵皆在洄曲，及四境拒守，守州城者皆羸（lei2,瘦弱）老之卒,可以<乘>虚直抵其城。（《资治通鉴•唐纪五十六》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 千骑拥高牙，<乘>醉听箫鼓，吟赏烟霞。（宋•柳永《望海潮・东南形胜》）
+            url: xxxx
+            vernacular: xxxx
   - word: 乘
     type: 【介词】
     phonetic: sheng4
@@ -58,8 +95,12 @@ words:
     samples:
       - trans: 【名词】车;兵车。
         sentences:
-          - ancient: 然秦以区区之地，致万乘之势，序八州而朝同列，百有余年矣。（《过秦论》）
-          - ancient: 诚知其如此,虽万乘之公相，吾不以一日辍汝而就也。（《祭十二郎文》）
+          - ancient: 然秦以区区之地，致万<乘>之势，序八州而朝同列，百有余年矣。（《过秦论》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "诚知其如此,虽万<乘>之公相，吾不以一日辍汝而就也。（《祭十二郎文》）"
+            url: xxxx
+            vernacular: xxxx
   - word: 乘
     type: 【数词】
     phonetic: sheng4
@@ -68,8 +109,12 @@ words:
     samples:
       - trans: 四。
         sentences:
-          - ancient: 以乘韦先，牛十二犒师。（《殽之战》）
-          - ancient: 叔于田，乘（cheng2）乘马。（《诗经•郑风•大叔于田》）
+          - ancient: 以<乘>韦先，牛十二犒师。（《殽之战》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 叔于田，乘（cheng2）<乘>马。（《诗经•郑风•大叔于田》）
+            url: xxxx
+            vernacular: xxxx
   - word: 乘
     type: 【量词】
     phonetic: sheng4
@@ -78,6 +123,12 @@ words:
     samples:
       - trans: 古代四马拉一车为一乘。
         sentences:
-          - ancient: 于是为长安君约车百乘，质于齐。（《触龙说赵太后》）
-          - ancient: 比至陈，车六七百乘，骑千余，卒数万人。（《陈涉世家》）
-          - ancient: 鲁君与之一乘车，两马，一竖子俱，适周问礼。（《史记•孔子世家》）
+          - ancient: 于是为长安君约车百<乘>，质于齐。（《触龙说赵太后》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 比至陈，车六七百<乘>，骑千余，卒数万人。（《陈涉世家》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 鲁君与之一<乘>车，两马，一竖子俱，适周问礼。（《史记•孔子世家》）
+            url: xxxx
+            vernacular: xxxx
