@@ -1,13 +1,37 @@
 ---
 words:
-  - word: xxxx
+  - word: 除
     type: 【名词】
-    phonetic: xx1
+    phonetic: chu2
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: 台阶。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 蔡侯静者意有余，清夜（寂静的深夜）置酒临前除。（唐•杜甫《送孔巢文谢病處游江东兼呈李白》）
+          - ancient: 黎明即起，洒扫庭除。（明•朱柏庐《朱子家训D）
+          - ancient: 扶辇下除，触柱折辕。（《苏武传》）
+          - ancient: 赵王扫除自迎，执主人之礼,引公子就西阶。（《史记•魏公子列传》）
+  - word: 除
+    type: 【动词】
+    phonetic: chu2
+    tags:
+      - 高中
+    samples:
+      - trans: ❶去掉;清除。
+        sentences:
+          - ancient: 举先王之政，以兴利除弊，不为生事。（宋•王安石《答司马谏议书》）
+          - ancient: 天下有公利而莫或兴之，有公害而莫或除之。（明•黄宗羲《原君》）
+          - ancient: 然则将军之仇报，而燕国见陵之耻除矣。（《荆轲刺秦王》）
+      - trans: ❷修整。
+        sentences:
+          - ancient: 至于今，郡之贤士大夫请于当道，即除魏阉废祠之址以葬之。（《五人墓碑记》）
+          - ancient: 父母闻之，清宫除道,张乐设饮,郊迎三十里。（《战国策•秦策一》）
+      - trans: ❸授予官职。
+        sentences:
+          - ancient: 诏书特下，拜臣郎中，寻（不久）蒙国恩，除臣洗马。（《陈情表》）
+          - ancient: 德祐二年二月十九日，予除右丞相兼枢密使,都督诸路军马。（《〈指南录〉后序》）
+          - ancient: 【高考题例】元载以罪诛，除揆睦州刺史,入拜国子祭酒、礼部尚书,为卢杞所恶。（《旧唐书•李揆传》）
+      - trans: ❹进行除法运算。
+        sentences:
+          - ancient: 道子画人物，如以灯取影,逆来顺往，旁见侧出，横斜平直，各相乘除，得自然之数，不差毫末。（宋•苏轼《书吴道子画后》）

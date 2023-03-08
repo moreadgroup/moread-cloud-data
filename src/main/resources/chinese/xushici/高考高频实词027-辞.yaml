@@ -1,13 +1,47 @@
 ---
 words:
-  - word: xxxx
+  - word: 辞
     type: 【名词】
-    phonetic: xx1
+    phonetic: ci2
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶言辞;语句。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 其次不辱理色，其次不辱辞令。（《报任安书》）
+          - ancient: 先达德隆望尊，门人弟子填其室，未尝稍降辞色。（《送东阳马生序》）
+          - ancient: 其文约，其辞微，其志洁，其行廉。（《史记•屈原贾生列传》）
+      - trans: ❷托词;借口。
+        sentences:
+          - ancient: 君子疾夫舍曰欲之而必为之辞。（《季氏将伐颛臾》）
+          - ancient: 称比干、子胥之忠而见杀，则疾强谏有辞。（《韩非子•饰邪》）
+      - trans: ❸讼词；口供。
+        sentences:
+          - ancient: 狱辞无谋、故者，经秋审入矜疑，即免死。（《狱中杂记》）
+          - ancient: 听其狱讼，察其辞。（《周礼•秋官•乡士》）
+      - trans: ❹古代的一种文体。如陶渊明《归去来兮辞》。
+  - word: 辞
+    type: 【动词】
+    phonetic: ci2
+    tags:
+      - 高中
+    samples:
+      - trans: ❶推辞。
+        sentences:
+          - ancient: 辞曰："臣之壮也,犹不如人;今老矣，无能为也已。"（《烛之武退秦师》）
+          - ancient: 臣死且不避，卮酒安足辞！（《鸿门宴》）
+      - trans: ❷审讯;审问。
+        sentences:
+          - ancient: 单于使卫律召武受辞。（《苏武传》）
+      - trans: ❸托词;辩解。
+        sentences:
+          - ancient: 孔子曰："求（指冉求）「君子疾夫舍曰"欲之"而必为之辞。"（《季氏将伐颛臾》）
+          - ancient: 吾意周公辅成王,宜以道，从容优乐，要归之大中而已，必不逢其失而为之辞。（《桐叶封弟辨》）
+      - trans: ❹计较;争。
+        sentences:
+          - ancient: 樊哙曰："大行不顾细谨，大礼不辞小让（小的谦让）。"（《鸿门宴》）
+      - trans: ❺告别。
+        sentences:
+          - ancient: 如今人方为刀俎，我为鱼肉，何辞为？（《鸿门宴》）
+          - ancient: 停数日，辞去。（《桃花源记》）
+          - ancient: 今太子迟之，请辞决矣！（《荆轲刺秦王》）

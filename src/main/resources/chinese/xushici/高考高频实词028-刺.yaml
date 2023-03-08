@@ -1,13 +1,52 @@
 ---
 words:
-  - word: xxxx
+  - word: 刺
     type: 【名词】
-    phonetic: xx1
+    phonetic: ci4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶兵器的锋刃。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 虽有戈矛之刺，不如恭俭之利也。（《荀子•荣辱》）
+          - ancient: 古之兵，弓剑而已矣,槽矛无击，修戟无刺。（《淮南子•氾论训》）
+      - trans: ❷尖利像针的东西。
+        sentences:
+          - ancient: 苦苣刺如针，马齿（植物名）叶亦繁。（唐•杜甫《园官送菜》）
+          - ancient: 宣帝始立，,谒见高庙，大将军光从骖乘,上内严惮之，若有芒刺在背。（《汉书•霍光传》）
+          - ancient: 外布芳菲虽笑日，中含芒刺欲伤人。（唐•陆龟蒙《蔷薇》）
+      - trans: ❸名帖。相当于后来的名片。
+        sentences:
+          - ancient: 即（即使）门者（守门的人）持刺入，而主者又不即出见。（明"•宗臣《堰刘一丈书》）
+          - ancient: 书姓字于奏上，曰书刺。（汉•刘熙《释名•释书契》）
+          - ancient: 性清高，未尝脩刺候人。（《后汉书•井丹传》）
+
+  - word: 刺
+    type: 【动词】
+    phonetic: ci4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶用有尖的东西扎进或穿透物体。
+        sentences:
+          - ancient: 是何异于刺人而杀之，曰"非我也，兵也"？（《寡人之于国也》）
+          - ancient: 武谓惠等："屈节辱命，虽生，何面目以归汉!"引佩刀自刺。（《苏武传》）
+          - ancient: 读书欲睡,引锥自刺其股，血流至足。（《战国策•秦策一》）
+      - trans: ❷暗杀。
+        sentences:
+          - ancient: 夫专诸之刺王僚也，彗星袭月。（《唐雎不辱使命》）
+      - trans: ❸指责;批评。
+        sentences:
+          - ancient: 群臣吏民能面刺寡人之过者，受上赏。（《邹忌讽齐王纳谏》）
+          - ancient: 面刺王过，王至掩耳起走。（《汉书•龚遂传》）
+      - trans: ❹讽刺。
+        sentences:
+          - ancient: 上称帝窖，下道齐桓，中述汤、武，以刺世事。（《史记•屈原贾生列传》）
+          - ancient: 孔子贤者，所刺讥皆中诸侯之疾。（《史记•孔子世家》）
+      - trans: ❺撑船。
+        sentences:
+          - ancient: 乃刺舟过舫,而喜可知矣。（《徐霞客游记•楚游日记十五》）
+          - ancient: 见一丈人，刺小船，方将渔。（《吕氏春秋•异宝》）
+      - trans: ❻担任州刺史或郡守。
+        sentences:
+          - ancient: 遇有以梦得事白上者，梦得于是改刺连州。（唐•韩愈《柳子厚墓志铭》）

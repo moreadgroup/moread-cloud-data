@@ -1,13 +1,70 @@
 ---
 words:
-  - word: xxxx
+  - word: 从
     type: 【名词】
-    phonetic: xx1
+    phonetic: cong2
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: 堂房亲属。旧读zong6
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 少与从弟劭俱知名。（《三国志•蜀书•许靖传》）
+          - ancient: （王羲之）深为从伯（王）敦、（王）导所器重。（《晋书•王羲之传》）
+          - ancient: 昇死，其印为予群从所得，至今保藏。（《活板》）
+  - word: 从
+    type: 【动词】
+    phonetic: cong2
+    tags:
+      - 高中
+    samples:
+      - trans: ❶跟从;随从。
+        sentences:
+          - ancient: 天下云集响应，赢粮而景（通""影"，像影子一样）从。（《过秦论》）
+          - ancient: —狼得骨止，一狼仍从。（《狼》）
+          - ancient: 但见悲鸟号古木，雄飞雌从绕林间。（《蜀道难》）
+      - trans: ❷使跟从。
+        sentences:
+          - ancient: 沛公旦日从百余骑来见项王。（《鸿门宴》）	
+      - trans: ❸挨着;靠着。
+        sentences:
+          - ancient: 樊哙从即张良）坐。（《鸿门宴》）
+      - trans: ❹听从；顺从。
+        sentences:
+          - ancient: 臣从其计，大王亦幸赦臣。（《廉颇蔺相如列传》）
+          - ancient: 乃诈称公子扶苏、项燕，从民欲也。（《陈涉世家》）
+          - ancient: 佚之狐言于郑伯曰："国危矣，若使烛之武见秦君，师必退。""公从之。（《烛之武退秦师》）
+      - trans: ❺参与。
+        sentences:
+          - ancient: 乃使之从政，则茫然不知其方。（宋•王安石《上皇帝万言书》）
+          - ancient: 高皇帝过鲁，以太牢祠焉。诸侯卿相至，常先谒然后从政。（《史记•孔子世家》）
+          - ancient: 弟走从军阿姨死，暮去朝来颜色故。（《琵琶行》）
+          - ancient: 家贫多故，二十七方从乡赋。（唐•白居易《与元九书》）
+      - trans: ❻追赶。
+        sentences:
+          - ancient: 佯北（败逃）勿从。（《孙子•军争》）
+  - word: 从
+    type: 【介词】
+    phonetic: cong2
+    tags:
+      - 高中
+    samples:
+      - trans: ❶由;自。
+        sentences:
+          - ancient: 从此道至吾军，不过二十里耳。（《鸿门宴》）
+          - ancient: 从小一丘西行百二十步，隔篁竹，闻水声，如鸣珮环，心乐之。（《小石潭记》）
+      - trans: ❷向。
+        sentences:
+          - ancient: 又患无硕师名人与游，尝趋百里外，从乡之先达执经叩问。（《送东阳马生序》）
+          - ancient: 召有司案图，指从此以往十五都予赵。（《廉颇蔺相如列传》）
+
+  - word: 从
+    type: 【名词】
+    phonetic: zong6
+    tags:
+      - 高中
+    samples:
+      - trans: 通"纵"。诸侯国间的联盟。
+        sentences:
+          - ancient: 诸侯恐惧,会盟而谋弱秦，不爱珍器重宝肥饶之地,以致天下之士，合从（纵）缔交,相与为一。（《过秦论》）
+          - ancient: 于是从散约败，争割地而赂秦。（《过秦论》）
+          - ancient: 尊贤而重士，约从离衡。（《过秦论》）

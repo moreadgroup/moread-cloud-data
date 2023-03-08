@@ -1,13 +1,37 @@
 ---
 words:
-  - word: xxxx
+  - word: 冲
     type: 【名词】
-    phonetic: xx1
+    phonetic: chong1
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: 交通要道。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 夫陈留，天下之冲，四通五达之郊也。（《汉书•郦食其传》）
+          - ancient: 天下有变，常为兵冲。（《后汉书•荀彧传》）	冲
+          - ancient: 【高考题例】及冬，则有边事，当涂（地名）兵之冲，上下震摇。 （《太平州学记》）	
+  - word: 冲
+    type: 【动词】
+    phonetic: chong1
+    tags:
+      - 高中
+    samples:
+      - trans: ❶快速直上。
+        sentences:
+          - ancient: 是鸟虽无飞，飞将冲天。（《吕氏春秋•重言》）
+          - ancient: 此鸟不飞则已，一飞冲天;不鸣则已，一鸣惊人。（《史记•滑稽列传》）
+      - trans: ❷冲击;冲撞。
+        sentences:      
+          - ancient: 相如因持璧却立，倚柱，怒发上冲冠。（《廉颇蔺相如列传》）
+          - ancient: 尝从行，有所冲陷折关及格猛兽。（《史记•李将军列传》）
+  - word: 冲
+    type: 【形容词】
+    phonetic: chong1
+    tags:
+      - 高中
+    samples:
+      - trans: 谦虚。
+        sentences:
+          - ancient: 念高危，则思谦冲而自牧。（《谏太宗十思疏》）
+          - ancient: 彧及攸并贵重，皆谦冲节俭。（《三国志•魏书•荀彧传》）
