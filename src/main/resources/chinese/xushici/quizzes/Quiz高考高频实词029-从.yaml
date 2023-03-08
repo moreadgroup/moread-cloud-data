@@ -1,9 +1,163 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 从
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: cong2
+    trans: 堂房亲属。旧读zong6
+    ancient: 少与<从>弟劭俱知名。（《三国志•蜀书•许靖传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 从
+    type: 【名词】
+    phonetic: cong2
+    trans: 堂房亲属。旧读zong6
+    ancient: （王羲之）深为<从>伯（王）敦、（王）导所器重。（《晋书•王羲之传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 从
+    type: 【名词】
+    phonetic: cong2
+    trans: 堂房亲属。旧读zong6
+    ancient: 昇死，其印为予群<从>所得，至今保藏。（《活板》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 从
+    type: 【动词】
+    phonetic: cong2
+    trans: ❶跟从;随从。
+    ancient: 天下云集响应，赢粮而景（通""影"，像影子一样）<从>。（《过秦论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 从
+    type: 【动词】
+    phonetic: cong2
+    trans: ❶跟从;随从。
+    ancient: —狼得骨止，一狼仍<从>。（《狼》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 从
+    type: 【动词】
+    phonetic: cong2
+    trans: ❶跟从;随从。
+    ancient: 但见悲鸟号古木，雄飞雌<从>绕林间。（《蜀道难》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 从
+    type: 【动词】
+    phonetic: cong2
+    trans: ❷使跟从。
+    ancient: 沛公旦日<从>百余骑来见项王。（《鸿门宴》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 从
+    type: 【动词】
+    phonetic: cong2
+    trans: ❸挨着;靠着。
+    ancient: 樊哙<从>即张良）坐。（《鸿门宴》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 从
+    type: 【动词】
+    phonetic: cong2
+    trans: ❹听从；顺从。
+    ancient: 臣<从>其计，大王亦幸赦臣。（《廉颇蔺相如列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 从
+    type: 【动词】
+    phonetic: cong2
+    trans: ❹听从；顺从。
+    ancient: 乃诈称公子扶苏、项燕，<从>民欲也。（《陈涉世家》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 从
+    type: 【动词】
+    phonetic: cong2
+    trans: ❹听从；顺从。
+    ancient: 佚之狐言于郑伯曰："国危矣，若使烛之武见秦君，师必退。""公<从>之。（《烛之武退秦师》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 从
+    type: 【动词】
+    phonetic: cong2
+    trans: ❺参与。
+    ancient: 乃使之<从>政，则茫然不知其方。（宋•王安石《上皇帝万言书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 从
+    type: 【动词】
+    phonetic: cong2
+    trans: ❺参与。
+    ancient: 高皇帝过鲁，以太牢祠焉。诸侯卿相至，常先谒然后<从>政。（《史记•孔子世家》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 从
+    type: 【动词】
+    phonetic: cong2
+    trans: ❺参与。
+    ancient: 弟走<从>军阿姨死，暮去朝来颜色故。（《琵琶行》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 从
+    type: 【动词】
+    phonetic: cong2
+    trans: ❺参与。
+    ancient: 家贫多故，二十七方<从>乡赋。（唐•白居易《与元九书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 从
+    type: 【动词】
+    phonetic: cong2
+    trans: ❻追赶。
+    ancient: 佯北（败逃）勿<从>。（《孙子•军争》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 从
+    type: 【介词】
+    phonetic: cong2
+    trans: ❶由;自。
+    ancient: <从>此道至吾军，不过二十里耳。（《鸿门宴》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 从
+    type: 【介词】
+    phonetic: cong2
+    trans: ❶由;自。
+    ancient: <从>小一丘西行百二十步，隔篁竹，闻水声，如鸣珮环，心乐之。（《小石潭记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 从
+    type: 【介词】
+    phonetic: cong2
+    trans: ❷向。
+    ancient: 又患无硕师名人与游，尝趋百里外，<从>乡之先达执经叩问。（《送东阳马生序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 从
+    type: 【介词】
+    phonetic: cong2
+    trans: ❷向。
+    ancient: 召有司案图，指<从>此以往十五都予赵。（《廉颇蔺相如列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 从
+    type: 【名词】
+    phonetic: zong6
+    trans: 通"纵"。诸侯国间的联盟。
+    ancient: "诸侯恐惧,会盟而谋弱秦，不爱珍器重宝肥饶之地,以致天下之士，合<从>（纵）缔交,相与为一。（《过秦论》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 从
+    type: 【名词】
+    phonetic: zong6
+    trans: 通"纵"。诸侯国间的联盟。
+    ancient: 于是<从>散约败，争割地而赂秦。（《过秦论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 从
+    type: 【名词】
+    phonetic: zong6
+    trans: 通"纵"。诸侯国间的联盟。
+    ancient: 尊贤而重士，约<从>离衡。（《过秦论》）
     url: xxxx
     vernacular: xxxx
