@@ -10,13 +10,13 @@ words:
         sentences:
           - ancient: 少与<从>弟劭俱知名。（《三国志•蜀书•许靖传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 他年轻时就与堂弟许劭一同成名
           - ancient: （王羲之）深为<从>伯（王）敦、（王）导所器重。（《晋书•王羲之传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 很受堂伯王敦、王导的器重。
           - ancient: 昇死，其印为予群<从>所得，至今保藏。（《活板》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 毕昇死后，他的字模被我的堂兄弟和侄辈取得，到今天还珍藏着。
   - word: 从
     type: 【动词】
     phonetic: cong2
@@ -27,53 +27,53 @@ words:
         sentences:
           - ancient: 天下云集响应，赢粮而景（通""影"，像影子一样）<从>。（《过秦论》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 天下的百姓像云彩一样聚集起来，像回声一样相应（陈胜）。人们挑着粮食像影子一样跟从着他。
           - ancient: —狼得骨止，一狼仍<从>。（《狼》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 一只狼得到骨头停止了，另一只狼仍然跟从他。
           - ancient: 但见悲鸟号古木，雄飞雌<从>绕林间。（《蜀道难》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 只见那悲鸟在古树上哀鸣啼叫，雄雌相随飞翔在原始森林之间。
       - trans: ❷使跟从。
         sentences:
           - ancient: 沛公旦日<从>百余骑来见项王。（《鸿门宴》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 刘邦第二天带领一百多人马来见项羽
       - trans: ❸挨着;靠着。
         sentences:
-          - ancient: 樊哙<从>即张良）坐。（《鸿门宴》）
+          - ancient: 樊哙<从>张良坐。（《鸿门宴》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 樊哙挨着张良坐下。
       - trans: ❹听从；顺从。
         sentences:
           - ancient: 臣<从>其计，大王亦幸赦臣。（《廉颇蔺相如列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 臣听从了他的意见，这样也许侥幸被赦免。
           - ancient: 乃诈称公子扶苏、项燕，<从>民欲也。（《陈涉世家》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: 佚之狐言于郑伯曰："国危矣，若使烛之武见秦君，师必退。""公<从>之。（《烛之武退秦师》）
+            vernacular: 于是就假称是公子扶苏、项燕的队伍，顺从人民的愿望。
+          - ancient: 佚之狐言于郑伯曰："国危矣，若使烛之武见秦君，师必退。"公<从>之。（《烛之武退秦师》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 佚之狐对郑文公说：“国家危险了，假如派烛之武去见秦穆公，秦国的军队一定会撤退。”郑文公同意了。
       - trans: ❺参与。
         sentences:
           - ancient: 乃使之<从>政，则茫然不知其方。（宋•王安石《上皇帝万言书》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 当让他们从政，那么茫然不知该何去何从
           - ancient: 高皇帝过鲁，以太牢祠焉。诸侯卿相至，常先谒然后<从>政。（《史记•孔子世家》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 高皇帝经过鲁地，用牛羊猪三牲祭祀孔子。诸侯、卿大夫、宰相一到任，常常先去拜谒孔子庙，然后才去处理政务。
           - ancient: 弟走<从>军阿姨死，暮去朝来颜色故。（《琵琶行》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 教坊的兄弟参军去了，当家的阿姨也死了，暮去朝来我也年老色衰。
           - ancient: 家贫多故，二十七方<从>乡赋。（唐•白居易《与元九书》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 家庭贫困而又多事故，二十七岁才应进士试。
       - trans: ❻追赶。
         sentences:
           - ancient: 佯北（败逃）勿<从>。（《孙子•军争》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 敌人伪装失败退却,切勿追赶
   - word: 从
     type: 【介词】
     phonetic: cong2
@@ -84,18 +84,18 @@ words:
         sentences:
           - ancient: <从>此道至吾军，不过二十里耳。（《鸿门宴》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: <从>小一丘西行百二十步，隔篁竹，闻水声，如鸣珮环，心乐之。（《小石潭记》）
+            vernacular: 从这条路到我们军营，不过二十里罢了
+          - ancient: <从>小丘西行百二十步，隔篁竹，闻水声，如鸣珮环，心乐之。（《小石潭记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我从小丘向西走一百二十多步，隔着竹林，可以听到水声，就像人身上佩带的佩环相碰击发出的声音，心里为之高兴。
       - trans: ❷向。
         sentences:
           - ancient: 又患无硕师名人与游，尝趋百里外，<从>乡之先达执经叩问。（《送东阳马生序》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 又苦于不能与学识渊博的老师和名人交往，曾经赶到数百里以外，拿着经书向乡里有道德学问的前辈请教。
           - ancient: 召有司案图，指<从>此以往十五都予赵。（《廉颇蔺相如列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 召来有司查看地图，指明从某地到某地的十五座城邑都给赵国。
   - word: 从
     type: 【名词】
     phonetic: zong6
@@ -106,10 +106,10 @@ words:
         sentences:
           - ancient: "诸侯恐惧,会盟而谋弱秦，不爱珍器重宝肥饶之地,以致天下之士，合<从>（纵）缔交,相与为一。（《过秦论》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 诸侯恐慌害怕，集会结盟，商议削弱秦国。不吝惜奇珍贵重的器物和肥沃富饶的土地，用来招纳天下的优秀人才，采用合纵的策略缔结盟约，互相援助，成为一体。
           - ancient: 于是<从>散约败，争割地而赂秦。（《过秦论》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 因此，纵约失败了，各诸侯国争着割地来贿赂秦国。
           - ancient: 尊贤而重士，约<从>离衡。（《过秦论》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 尊重贤才而重用士人，以合纵之约击破秦的连横之策

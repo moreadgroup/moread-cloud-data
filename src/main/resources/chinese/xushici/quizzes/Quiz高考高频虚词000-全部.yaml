@@ -1,299 +1,166 @@
 ---
 quizzes:
-  - word: 刺
-    type: 【名词】
-    phonetic: ci4
-    trans: ❶兵器的锋刃。
-    ancient: 虽有戈矛之<刺>，不如恭俭之利也。（《荀子•荣辱》）
-    url: xxxx
-    vernacular: 武器再锋利也比不上恭敬简朴的良好品质对人的影响威力。
-  - word: 刺
-    type: 【名词】
-    phonetic: ci4
-    trans: ❶兵器的锋刃。
-    ancient: "古之兵，弓剑而已矣,槽矛无击，修戟无<刺>。（《淮南子•氾论训》）"
-    url: xxxx
-    vernacular: 古时候的兵器，就只有弓和剑而已了，那时候的的矛没有左右槽，那时候的戟也没有刺。
-  - word: 刺
-    type: 【名词】
-    phonetic: ci4
-    trans: ❷尖利像针的东西。
-    ancient: 苦苣<刺>如针，马齿（植物名）叶亦繁。（唐•杜甫《园官送菜》）
-    url: xxxx
-    vernacular: xxxx
-  - word: 刺
-    type: 【名词】
-    phonetic: ci4
-    trans: ❷尖利像针的东西。
-    ancient: "宣帝始立，谒见高庙，大将军光从骖乘,上内严惮之，若有芒<刺>在背。（《汉书•霍光传》）"
-    url: xxxx
-    vernacular: 宣帝刚被立为皇上时，到高庙祭祀，大将军霍光以骖乘的身份跟从，皇上心里害怕他，像背上长了芒刺一样。
-  - word: 刺
-    type: 【名词】
-    phonetic: ci4
-    trans: ❷尖利像针的东西。
-    ancient: 外布芳菲虽笑日，中含芒<刺>欲伤人。（唐•陆龟蒙《蔷薇》）
-    url: xxxx
-    vernacular: 蔷薇花竞相开放，鲜艳可人，但谁要触摸它，那茎上的芒刺就会不客气地刺痛你。
-  - word: 刺
-    type: 【名词】
-    phonetic: ci4
-    trans: ❸名帖。相当于后来的名片。
-    ancient: 即（即使）门者（守门的人）持<刺>入，而主者又不即出见。（明"•宗臣《堰刘一丈书》）
-    url: xxxx
-    vernacular: "守门人拿着名帖进去之后,而主人又不立即出来接见"
-  - word: 刺
-    type: 【名词】
-    phonetic: ci4
-    trans: ❸名帖。相当于后来的名片。
-    ancient: 书姓字于奏上，曰书<刺>。（汉•刘熙《释名•释书契》）
-    url: xxxx
-    vernacular: 写名刺。书刺
-  - word: 刺
-    type: 【名词】
-    phonetic: ci4
-    trans: ❸名帖。相当于后来的名片。
-    ancient: 性清高，未尝脩<刺>候人。（《后汉书•井丹传》）
-    url: xxxx
-    vernacular: "性清高,从来没用名片问候过别人。"
-  - word: 刺
-    type: 【动词】
-    phonetic: ci4
-    trans: ❶用有尖的东西扎进或穿透物体。
-    ancient: 是何异于<刺>人而杀之，曰"非我也，兵也"？（《寡人之于国也》）
-    url: xxxx
-    vernacular: 这种说法与拿刀把人杀死后，说‘杀死人的不是我，是兵器’有什么不同？
-  - word: 刺
-    type: 【动词】
-    phonetic: ci4
-    trans: ❶用有尖的东西扎进或穿透物体。
-    ancient: 武谓惠等："屈节辱命，虽生，何面目以归汉!"引佩刀自<刺>。（《苏武传》）
-    url: xxxx
-    vernacular: 苏武对常惠说：“丧失气节、玷辱使命，即使活着，还有什么脸面回到家乡去呢！”说着拔出佩带的刀自刎
-  - word: 刺
-    type: 【动词】
-    phonetic: ci4
-    trans: ❶用有尖的东西扎进或穿透物体。
-    ancient: "读书欲睡,引锥自<刺>其股，血流至足。（《战国策•秦策一》）"
-    url: xxxx
-    vernacular: 读到昏昏欲睡时，就拿针刺自己的大腿，鲜血一直流到脚跟
-  - word: 刺
-    type: 【动词】
-    phonetic: ci4
-    trans: ❷暗杀。
-    ancient: 夫专诸之<刺>王僚也，彗星袭月。（《唐雎不辱使命》）
-    url: xxxx
-    vernacular: 专诸刺杀吴王僚的时候，彗星的尾巴扫过月亮
-  - word: 刺
-    type: 【动词】
-    phonetic: ci4
-    trans: ❸指责;批评。
-    ancient: 群臣吏民能面<刺>寡人之过者，受上赏。（《邹忌讽齐王纳谏》）
-    url: xxxx
-    vernacular: 臣、官吏、百姓，能够当面批评我的过错的，可得上等奖赏
-  - word: 刺
-    type: 【动词】
-    phonetic: ci4
-    trans: ❸指责;批评。
-    ancient: 面<刺>王过，王至掩耳起走。（《汉书•龚遂传》）
-    url: xxxx
-    vernacular: 当面指责昌邑王的过错，以至昌邑王捂着耳朵起身离开
-  - word: 刺
-    type: 【动词】
-    phonetic: ci4
-    trans: ❹讽刺。
-    ancient: 上称帝喾，下道齐桓，中述汤、武，以<刺>世事。（《史记•屈原贾生列传》）
-    url: xxxx
-    vernacular: （他）远古提到帝喾，近古提到齐桓公，中古提到商汤、周武王，利用古代帝王这些事用来讽刺当世社会。
-  - word: 刺
-    type: 【动词】
-    phonetic: ci4
-    trans: ❹讽刺。
-    ancient: 孔子贤者，所<刺>讥皆中诸侯之疾。（《史记•孔子世家》）
-    url: xxxx
-    vernacular: 孔子是当今的圣贤之士，他所揭露与嘲讽的事还有社会现状，都是切中要害，也都是各诸侯国出现的问题。
-  - word: 刺
-    type: 【动词】
-    phonetic: ci4
-    trans: ❺撑船。
-    ancient: "乃<刺>舟过舫,而喜可知矣。（《徐霞客游记•楚游日记十五》）"
-    url: xxxx
-    vernacular: 于是叫船夫把渔船撑向前，我们过到所乘的船上，心中的喜悦可想而知了。
-  - word: 刺
-    type: 【动词】
-    phonetic: ci4
-    trans: ❺撑船。
-    ancient: 见一丈人，<刺>小船，方将渔。（《吕氏春秋•异宝》）
-    url: xxxx
-    vernacular: 他看到一位老人，撑着小船，正要打渔。
-  - word: 刺
-    type: 【动词】
-    phonetic: ci4
-    trans: ❻担任州刺史或郡守。
-    ancient: 遇有以梦得事白上者，梦得于是改<刺>连州。（唐•韩愈《柳子厚墓志铭》）
-    url: xxxx
-    vernacular: 此时正好又有人将梦得的事报告了朝廷，梦得于是改为连州刺史。
   - word: 从
     type: 【名词】
     phonetic: cong2
     trans: 堂房亲属。旧读zong6
     ancient: 少与<从>弟劭俱知名。（《三国志•蜀书•许靖传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 他年轻时就与堂弟许劭一同成名
   - word: 从
     type: 【名词】
     phonetic: cong2
     trans: 堂房亲属。旧读zong6
     ancient: （王羲之）深为<从>伯（王）敦、（王）导所器重。（《晋书•王羲之传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 很受堂伯王敦、王导的器重。
   - word: 从
     type: 【名词】
     phonetic: cong2
     trans: 堂房亲属。旧读zong6
     ancient: 昇死，其印为予群<从>所得，至今保藏。（《活板》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 毕昇死后，他的字模被我的堂兄弟和侄辈取得，到今天还珍藏着。
   - word: 从
     type: 【动词】
     phonetic: cong2
     trans: ❶跟从;随从。
     ancient: 天下云集响应，赢粮而景（通""影"，像影子一样）<从>。（《过秦论》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 天下的百姓像云彩一样聚集起来，像回声一样相应（陈胜）。人们挑着粮食像影子一样跟从着他。
   - word: 从
     type: 【动词】
     phonetic: cong2
     trans: ❶跟从;随从。
     ancient: —狼得骨止，一狼仍<从>。（《狼》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 一只狼得到骨头停止了，另一只狼仍然跟从他。
   - word: 从
     type: 【动词】
     phonetic: cong2
     trans: ❶跟从;随从。
     ancient: 但见悲鸟号古木，雄飞雌<从>绕林间。（《蜀道难》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 只见那悲鸟在古树上哀鸣啼叫，雄雌相随飞翔在原始森林之间。
   - word: 从
     type: 【动词】
     phonetic: cong2
     trans: ❷使跟从。
     ancient: 沛公旦日<从>百余骑来见项王。（《鸿门宴》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 刘邦第二天带领一百多人马来见项羽
   - word: 从
     type: 【动词】
     phonetic: cong2
     trans: ❸挨着;靠着。
-    ancient: 樊哙<从>即张良）坐。（《鸿门宴》）
+    ancient: 樊哙<从>张良坐。（《鸿门宴》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 樊哙挨着张良坐下。
   - word: 从
     type: 【动词】
     phonetic: cong2
     trans: ❹听从；顺从。
     ancient: 臣<从>其计，大王亦幸赦臣。（《廉颇蔺相如列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 臣听从了他的意见，这样也许侥幸被赦免。
   - word: 从
     type: 【动词】
     phonetic: cong2
     trans: ❹听从；顺从。
     ancient: 乃诈称公子扶苏、项燕，<从>民欲也。（《陈涉世家》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 于是就假称是公子扶苏、项燕的队伍，顺从人民的愿望。
   - word: 从
     type: 【动词】
     phonetic: cong2
     trans: ❹听从；顺从。
-    ancient: 佚之狐言于郑伯曰："国危矣，若使烛之武见秦君，师必退。""公<从>之。（《烛之武退秦师》）
+    ancient: 佚之狐言于郑伯曰："国危矣，若使烛之武见秦君，师必退。"公<从>之。（《烛之武退秦师》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 佚之狐对郑文公说：“国家危险了，假如派烛之武去见秦穆公，秦国的军队一定会撤退。”郑文公同意了。
   - word: 从
     type: 【动词】
     phonetic: cong2
     trans: ❺参与。
     ancient: 乃使之<从>政，则茫然不知其方。（宋•王安石《上皇帝万言书》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 当让他们从政，那么茫然不知该何去何从
   - word: 从
     type: 【动词】
     phonetic: cong2
     trans: ❺参与。
     ancient: 高皇帝过鲁，以太牢祠焉。诸侯卿相至，常先谒然后<从>政。（《史记•孔子世家》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 高皇帝经过鲁地，用牛羊猪三牲祭祀孔子。诸侯、卿大夫、宰相一到任，常常先去拜谒孔子庙，然后才去处理政务。
   - word: 从
     type: 【动词】
     phonetic: cong2
     trans: ❺参与。
     ancient: 弟走<从>军阿姨死，暮去朝来颜色故。（《琵琶行》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 教坊的兄弟参军去了，当家的阿姨也死了，暮去朝来我也年老色衰。
   - word: 从
     type: 【动词】
     phonetic: cong2
     trans: ❺参与。
     ancient: 家贫多故，二十七方<从>乡赋。（唐•白居易《与元九书》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 家庭贫困而又多事故，二十七岁才应进士试。
   - word: 从
     type: 【动词】
     phonetic: cong2
     trans: ❻追赶。
     ancient: 佯北（败逃）勿<从>。（《孙子•军争》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "敌人伪装失败退却,切勿追赶"
   - word: 从
     type: 【介词】
     phonetic: cong2
     trans: ❶由;自。
     ancient: <从>此道至吾军，不过二十里耳。（《鸿门宴》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 从这条路到我们军营，不过二十里罢了
   - word: 从
     type: 【介词】
     phonetic: cong2
     trans: ❶由;自。
-    ancient: <从>小一丘西行百二十步，隔篁竹，闻水声，如鸣珮环，心乐之。（《小石潭记》）
+    ancient: <从>小丘西行百二十步，隔篁竹，闻水声，如鸣珮环，心乐之。（《小石潭记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 我从小丘向西走一百二十多步，隔着竹林，可以听到水声，就像人身上佩带的佩环相碰击发出的声音，心里为之高兴。
   - word: 从
     type: 【介词】
     phonetic: cong2
     trans: ❷向。
     ancient: 又患无硕师名人与游，尝趋百里外，<从>乡之先达执经叩问。（《送东阳马生序》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 又苦于不能与学识渊博的老师和名人交往，曾经赶到数百里以外，拿着经书向乡里有道德学问的前辈请教。
   - word: 从
     type: 【介词】
     phonetic: cong2
     trans: ❷向。
     ancient: 召有司案图，指<从>此以往十五都予赵。（《廉颇蔺相如列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 召来有司查看地图，指明从某地到某地的十五座城邑都给赵国。
   - word: 从
     type: 【名词】
     phonetic: zong6
     trans: 通"纵"。诸侯国间的联盟。
     ancient: "诸侯恐惧,会盟而谋弱秦，不爱珍器重宝肥饶之地,以致天下之士，合<从>（纵）缔交,相与为一。（《过秦论》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 诸侯恐慌害怕，集会结盟，商议削弱秦国。不吝惜奇珍贵重的器物和肥沃富饶的土地，用来招纳天下的优秀人才，采用合纵的策略缔结盟约，互相援助，成为一体。
   - word: 从
     type: 【名词】
     phonetic: zong6
     trans: 通"纵"。诸侯国间的联盟。
     ancient: 于是<从>散约败，争割地而赂秦。（《过秦论》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 因此，纵约失败了，各诸侯国争着割地来贿赂秦国。
   - word: 从
     type: 【名词】
     phonetic: zong6
     trans: 通"纵"。诸侯国间的联盟。
     ancient: 尊贤而重士，约<从>离衡。（《过秦论》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 尊重贤才而重用士人，以合纵之约击破秦的连横之策
   - word: xxxx
     type: 【名词】
     phonetic: xx1
