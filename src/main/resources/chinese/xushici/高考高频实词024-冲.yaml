@@ -10,13 +10,13 @@ words:
         sentences:
           - ancient: 夫陈留，天下之<冲>，四通五达之郊也。（《汉书•郦食其传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 陈留是天下的交通要道，四通八达的地方
           - ancient: 天下有变，常为兵<冲>。（《后汉书•荀彧传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 天下一旦有变乱，往往成为用兵交战的要冲之地
           - ancient: 【高考题例】及冬，则有边事，当涂（地名）兵之<冲>，上下震摇。 （《太平州学记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 到了冬天,又有战事发生,当涂是兵家必争之地,朝野一片震惊
   - word: 冲
     type: 【动词】
     phonetic: chong1
@@ -30,15 +30,15 @@ words:
             vernacular: xxxx
           - ancient: 此鸟不飞则已，一飞<冲>天;不鸣则已，一鸣惊人。（《史记•滑稽列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 这种鸟，不飞则已，一飞将要冲天；不鸣则已，一鸣将要惊人。
       - trans: ❷冲击;冲撞。
         sentences:
           - ancient: 相如因持璧却立，倚柱，怒发上<冲>冠。（《廉颇蔺相如列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 相如于是手持璧玉退后几步，靠在柱子上，怒发冲冠
           - ancient: 尝从行，有所<冲>陷折关及格猛兽。（《史记•李将军列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 李广曾随从皇帝出行，常有冲锋陷阵、抵御敌人，以及格杀猛兽的事
   - word: 冲
     type: 【形容词】
     phonetic: chong1
@@ -49,7 +49,7 @@ words:
         sentences:
           - ancient: 念高危，则思谦<冲>而自牧。（《谏太宗十思疏》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 想到帝位高高在上，就想到要谦虚并加强自我约束。
           - ancient: 彧及攸并贵重，皆谦<冲>节俭。（《三国志•魏书•荀彧传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 荀彧、荀攸均权重显贵，但都谦虚节俭

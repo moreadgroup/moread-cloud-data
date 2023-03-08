@@ -1,208 +1,26 @@
 ---
 quizzes:
-  - word: 乘
-    type: 【名词】
-    phonetic: cheng2
-    trans: ❶乘坐交通工具。
-    ancient: 公与之<乘>，战于长勺。（《曹刿论战》）
-    url: xxxx
-    vernacular: 鲁庄公和他共坐一辆战车，在长勺和齐军作战。
-  - word: 乘
-    type: 【名词】
-    phonetic: cheng2
-    trans: ❶乘坐交通工具。
-    ancient: 至莫（暮）夜月明，独与迈<乘>小舟，至绝壁下。（《石钟山记》）’
-    url: xxxx
-    vernacular: 到了晚上月光明亮，特地和苏迈坐着小船到断壁下面。
-  - word: 乘
-    type: 【名词】
-    phonetic: cheng2
-    trans: ❷驾。
-    ancient: "有时朝发白帝，暮到江陵,其间千二百里，虽<乘>奔御风，不以疾也。（《三峡》）"
-    url: xxxx
-    vernacular: 这时只要早晨从白帝城出发，傍晚就到了江陵，这中间有一千二百里，即使骑上飞奔的马，驾着疾风，也不如它快。
-  - word: 乘
-    type: 【名词】
-    phonetic: cheng2
-    trans: ❷驾。
-    ancient: 既而尽奔腾分合五阵之势，并有<乘>骑弄旗标枪舞刀于水面者，如履平地。（《观潮》）
-    url: xxxx
-    vernacular: 一会儿全部的战舰都往前疾驶，一会儿分开；一会儿聚合，形成五种阵势，并有人骑着马匹耍弄旗帜标枪，舞弄大刀于水面之上，就好像步行在平地一般。
-  - word: 乘
-    type: 【名词】
-    phonetic: cheng2
-    trans: ❷驾。
-    ancient: <乘>骐骥以驰骋兮，来吾道夫先路！（《离骚》）
-    url: xxxx
-    vernacular: 乘上千里马纵横驰骋吧，来呀，我在前引导开路！
-  - word: 乘
-    type: 【名词】
-    phonetic: cheng2
-    trans: ❸冒着。
-    ancient: 余以乾隆三十九年十二月，自京师<乘>风雪，历齐河、长清，穿泰山西北谷，越长城之限，至于泰安。（《登泰山记》）
-    url: xxxx
-    vernacular: 我在乾隆三十九年十二月从京城里出发，冒着风雪启程，经过齐河县、长清县，穿过泰山西北面的山谷，跨过长城的城墙，到达泰安。
-  - word: 乘
-    type: 【名词】
-    phonetic: cheng2
-    trans: ❹登上。
-    ancient: <乘>彼垝垣，以望复关（地名）。（《诗经•卫风•氓》）
-    url: xxxx
-    vernacular: 登上那倒塌的墙壁，遥向复关凝神望。
-  - word: 乘
-    type: 【名词】
-    phonetic: cheng2
-    trans: ❹登上。
-    ancient: 秦师过周北门，左右免胄而下，超（跳上去）<乘>者三百乘（sheng4）。（《左传•僖公三十三年》
-    url: xxxx
-    vernacular: 秦军经过周都城的北门。左右两边的战士都脱下战盔，下车致敬，接着有三百辆兵车的战士跳跃着登上战车。
-  - word: 乘
-    type: 【名词】
-    phonetic: cheng2
-    trans: ❹登上。
-    ancient: <乘>鄂渚而反顾兮，欸秋冬之绪风。（《涉江》）
-    url: xxxx
-    vernacular: 登上鄂渚我回头眺望啊，唉，丝丝寒风凄苦悲凉。
-  - word: 乘
-    type: 【名词】
-    phonetic: cheng2
-    trans: ❹登上。
-    ancient: 一鼓而士毕<乘>之。（《吕氏春秋.贵直》）
-    url: xxxx
-    vernacular: 只击鼓一次士卒就全都登上了城墙
-  - word: 乘
-    type: 【名词】
-    phonetic: cheng2
-    trans: ❺顺应。
-    ancient: "若夫<乘>天地之正,而御六气之辩，以游无穷者，彼且恶乎待哉？（《逍遥游》）"
-    url: xxxx
-    vernacular: 倘若顺应天地万物的本性，驾驭着六气的变化，遨游于无穷的境地，他还要凭借什么呢？
-  - word: 乘
-    type: 【名词】
-    phonetic: cheng2
-    trans: ❺顺应。
-    ancient: "吴之民方痛心焉，于是<乘>其厉声以呵,则噪而相逐。（《五人墓碑记》）"
-    url: xxxx
-    vernacular: 苏州的老百姓正在痛恨他，这时趁着他厉声呵骂的时候，就一齐喊叫着追赶他。
-  - word: 乘
-    type: 【名词】
-    phonetic: cheng2
-    trans: ❻掩袭；追逐。
-    ancient: 孔将军、费将军纵，楚兵不利，淮阴侯复<乘>之，大败垓下。（《史记•高祖本纪》）
-    url: xxxx
-    vernacular: "孔将军、费将军从左右两边纵兵攻上去,楚军不利,淮阴侯乘势再次攻上去,大败楚军于垓下。"
-  - word: 乘
-    type: 【名词】
-    phonetic: cheng2
-    trans: ❻掩袭；追逐。
-    ancient: 吏士喜，大呼<乘>之。（《汉书•陈汤传》）
-    url: xxxx
-    vernacular: 士卒们十分高兴，大声叫喊，铜钲战鼓声惊天动地。
-  - word: 乘
-    type: 【名词】
-    phonetic: cheng2
-    trans: ❼连接;一个接一个。
-    ancient: 兵旱相<乘>，天下大屈。（《论积贮疏》）
-    url: xxxx
-    vernacular: 假若兵灾旱灾交互侵袭，国家财富极其缺乏
-  - word: 乘
-    type: 【名词】
-    phonetic: cheng2
-    trans: ❽进行乘法运算。
-    ancient: 道子画人物，如以灯取影，逆来顺往，旁见侧出，横斜平直，各相<乘>除，得自然之数，不差毫末。（宋•苏轼《书吴道子画后》）
-    url: xxxx
-    vernacular: 吴道子画人物，好似看着灯烛能描绘出影子，笔锋往来自如，笔势不拘一格，横竖笔画互相增减补充，这是得到了自然之法啊
-  - word: 乘
-    type: 【介词】
-    phonetic: cheng2
-    trans: 趁着;凭借。
-    ancient: 因利<乘>便，宰割天下，分裂山河。（《过秦论》）
-    url: xxxx
-    vernacular: 秦国凭借这有利的形势，割取天下的土地，重新划分山河的区域。
-  - word: 乘
-    type: 【介词】
-    phonetic: cheng2
-    trans: 趁着;凭借。
-    ancient: "蔡之精兵皆在洄曲，及四境拒守，守州城者皆羸（lei2,瘦弱）老之卒,可以<乘>虚直抵其城。（《资治通鉴•唐纪五十六》）"
-    url: xxxx
-    vernacular: 蔡州的精锐部队都在洄曲以及四周把守，守卫州城的都是老弱士卒。可以乘着蔡州城空虚的防守直取蔡州城。
-  - word: 乘
-    type: 【介词】
-    phonetic: cheng2
-    trans: 趁着;凭借。
-    ancient: 千骑拥高牙，<乘>醉听箫鼓，吟赏烟霞。（宋•柳永《望海潮・东南形胜》）
-    url: xxxx
-    vernacular: 千名骑兵簇拥着长官，乘醉听吹箫击鼓，观赏、吟唱烟霞风光。
-  - word: 乘
-    type: 【介词】
-    phonetic: sheng4
-    trans: 【名词】车;兵车。
-    ancient: 然秦以区区之地，致万<乘>之势，序八州而朝同列，百有余年矣。（《过秦论》）
-    url: xxxx
-    vernacular: 然而秦凭借着它的小小的地方，发展到兵车万乘的国势，管辖全国，使六国诸侯都来朝见，已经一百多年了
-  - word: 乘
-    type: 【介词】
-    phonetic: sheng4
-    trans: 【名词】车;兵车。
-    ancient: "诚知其如此,虽万<乘>之公相，吾不以一日辍汝而就也。（《祭十二郎文》）"
-    url: xxxx
-    vernacular: 假如真的知道会这样，即使让我做高官厚禄的公卿宰相，我也不愿因此离开你一天而去赴任啊!
-  - word: 乘
-    type: 【数词】
-    phonetic: sheng4
-    trans: 四。
-    ancient: 以<乘>韦先，牛十二犒师。（《殽之战》）
-    url: xxxx
-    vernacular: 先送上四张熟牛皮，再送十二头牛慰劳秦军。
-  - word: 乘
-    type: 【数词】
-    phonetic: sheng4
-    trans: 四。
-    ancient: 叔于田，乘（cheng2）<乘>马。（《诗经•郑风•大叔于田》）
-    url: xxxx
-    vernacular: 三哥出发去打猎，驾起大车四马奔。
-  - word: 乘
-    type: 【量词】
-    phonetic: sheng4
-    trans: 古代四马拉一车为一乘。
-    ancient: 于是为长安君约车百<乘>，质于齐。（《触龙说赵太后》）
-    url: xxxx
-    vernacular: 址为长安君备车一百乘，到齐国去作人质。
-  - word: 乘
-    type: 【量词】
-    phonetic: sheng4
-    trans: 古代四马拉一车为一乘。
-    ancient: 比至陈，车六七百<乘>，骑千余，卒数万人。（《陈涉世家》）
-    url: xxxx
-    vernacular: 等到到达陈县，已有战车六七百辆，骑兵一千多，士兵好几万。
-  - word: 乘
-    type: 【量词】
-    phonetic: sheng4
-    trans: 古代四马拉一车为一乘。
-    ancient: 鲁君与之一<乘>车，两马，一竖子俱，适周问礼。（《史记•孔子世家》）
-    url: xxxx
-    vernacular: 鲁昭公给他们一辆车、两匹马，还有一名童仆同行，前往周京洛邑询问周礼
   - word: 冲
     type: 【名词】
     phonetic: chong1
     trans: 交通要道。
     ancient: 夫陈留，天下之<冲>，四通五达之郊也。（《汉书•郦食其传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 陈留是天下的交通要道，四通八达的地方
   - word: 冲
     type: 【名词】
     phonetic: chong1
     trans: 交通要道。
     ancient: 天下有变，常为兵<冲>。（《后汉书•荀彧传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 天下一旦有变乱，往往成为用兵交战的要冲之地
   - word: 冲
     type: 【名词】
     phonetic: chong1
     trans: 交通要道。
     ancient: 【高考题例】及冬，则有边事，当涂（地名）兵之<冲>，上下震摇。 （《太平州学记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "到了冬天,又有战事发生,当涂是兵家必争之地,朝野一片震惊"
   - word: 冲
     type: 【动词】
     phonetic: chong1
@@ -216,35 +34,35 @@ quizzes:
     trans: ❶快速直上。
     ancient: 此鸟不飞则已，一飞<冲>天;不鸣则已，一鸣惊人。（《史记•滑稽列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 这种鸟，不飞则已，一飞将要冲天；不鸣则已，一鸣将要惊人。
   - word: 冲
     type: 【动词】
     phonetic: chong1
     trans: ❷冲击;冲撞。
     ancient: 相如因持璧却立，倚柱，怒发上<冲>冠。（《廉颇蔺相如列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 相如于是手持璧玉退后几步，靠在柱子上，怒发冲冠
   - word: 冲
     type: 【动词】
     phonetic: chong1
     trans: ❷冲击;冲撞。
     ancient: 尝从行，有所<冲>陷折关及格猛兽。（《史记•李将军列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 李广曾随从皇帝出行，常有冲锋陷阵、抵御敌人，以及格杀猛兽的事
   - word: 冲
     type: 【形容词】
     phonetic: chong1
     trans: 谦虚。
     ancient: 念高危，则思谦<冲>而自牧。（《谏太宗十思疏》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 想到帝位高高在上，就想到要谦虚并加强自我约束。
   - word: 冲
     type: 【形容词】
     phonetic: chong1
     trans: 谦虚。
     ancient: 彧及攸并贵重，皆谦<冲>节俭。（《三国志•魏书•荀彧传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 荀彧、荀攸均权重显贵，但都谦虚节俭
   - word: 除
     type: 【名词】
     phonetic: chu2
