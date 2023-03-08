@@ -1,159 +1,96 @@
 ---
 quizzes:
-  - word: 冲
-    type: 【名词】
-    phonetic: chong1
-    trans: 交通要道。
-    ancient: 夫陈留，天下之<冲>，四通五达之郊也。（《汉书•郦食其传》）
-    url: xxxx
-    vernacular: 陈留是天下的交通要道，四通八达的地方
-  - word: 冲
-    type: 【名词】
-    phonetic: chong1
-    trans: 交通要道。
-    ancient: 天下有变，常为兵<冲>。（《后汉书•荀彧传》）
-    url: xxxx
-    vernacular: 天下一旦有变乱，往往成为用兵交战的要冲之地
-  - word: 冲
-    type: 【名词】
-    phonetic: chong1
-    trans: 交通要道。
-    ancient: 【高考题例】及冬，则有边事，当涂（地名）兵之<冲>，上下震摇。 （《太平州学记》）
-    url: xxxx
-    vernacular: "到了冬天,又有战事发生,当涂是兵家必争之地,朝野一片震惊"
-  - word: 冲
-    type: 【动词】
-    phonetic: chong1
-    trans: ❶快速直上。
-    ancient: 是鸟虽无飞，飞将<冲>天。（《吕氏春秋•重言》）
-    url: xxxx
-    vernacular: xxxx
-  - word: 冲
-    type: 【动词】
-    phonetic: chong1
-    trans: ❶快速直上。
-    ancient: 此鸟不飞则已，一飞<冲>天;不鸣则已，一鸣惊人。（《史记•滑稽列传》）
-    url: xxxx
-    vernacular: 这种鸟，不飞则已，一飞将要冲天；不鸣则已，一鸣将要惊人。
-  - word: 冲
-    type: 【动词】
-    phonetic: chong1
-    trans: ❷冲击;冲撞。
-    ancient: 相如因持璧却立，倚柱，怒发上<冲>冠。（《廉颇蔺相如列传》）
-    url: xxxx
-    vernacular: 相如于是手持璧玉退后几步，靠在柱子上，怒发冲冠
-  - word: 冲
-    type: 【动词】
-    phonetic: chong1
-    trans: ❷冲击;冲撞。
-    ancient: 尝从行，有所<冲>陷折关及格猛兽。（《史记•李将军列传》）
-    url: xxxx
-    vernacular: 李广曾随从皇帝出行，常有冲锋陷阵、抵御敌人，以及格杀猛兽的事
-  - word: 冲
-    type: 【形容词】
-    phonetic: chong1
-    trans: 谦虚。
-    ancient: 念高危，则思谦<冲>而自牧。（《谏太宗十思疏》）
-    url: xxxx
-    vernacular: 想到帝位高高在上，就想到要谦虚并加强自我约束。
-  - word: 冲
-    type: 【形容词】
-    phonetic: chong1
-    trans: 谦虚。
-    ancient: 彧及攸并贵重，皆谦<冲>节俭。（《三国志•魏书•荀彧传》）
-    url: xxxx
-    vernacular: 荀彧、荀攸均权重显贵，但都谦虚节俭
   - word: 除
     type: 【名词】
     phonetic: chu2
     trans: 台阶。
     ancient: 蔡侯静者意有余，清夜（寂静的深夜）置酒临前<除>。（唐•杜甫《送孔巢文谢病處游江东兼呈李白》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 蔡侯是淡薄名利的人，趁凉夜庭中摆酒饯行。
   - word: 除
     type: 【名词】
     phonetic: chu2
     trans: 台阶。
-    ancient: 黎明即起，洒扫庭<除>。（明•朱柏庐《朱子家训D）
+    ancient: 黎明即起，洒扫庭<除>。（明•朱柏庐《朱子家训）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 每天早晨黎明就要起床，先用水来洒湿庭堂内外的地面然后扫地
   - word: 除
     type: 【名词】
     phonetic: chu2
     trans: 台阶。
     ancient: 扶辇下<除>，触柱折辕。（《苏武传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 扶着皇帝的车驾下殿阶，碰到柱子，折断了车辕。
   - word: 除
     type: 【名词】
     phonetic: chu2
     trans: 台阶。
-    ancient: "赵王扫<除>自迎，执主人之礼,引公子就西阶。（《史记•魏公子列传》）"
+    ancient: "赵王埽<除>自迎，执主人之礼,引公子就西阶。（《史记•魏公子列传》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 赵王打扫了殿堂台阶，亲自到门口迎接贵客，并执行主人的礼节，领着公子走进殿堂的西边台阶。
   - word: 除
     type: 【动词】
     phonetic: chu2
     trans: ❶去掉;清除。
     ancient: 举先王之政，以兴利<除>弊，不为生事。（宋•王安石《答司马谏议书》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 实行古代贤明君主的政策，用它来兴办（对天下）有利的事业、消除（种种）弊病，（这）不能算是制造事端
   - word: 除
     type: 【动词】
     phonetic: chu2
     trans: ❶去掉;清除。
     ancient: 天下有公利而莫或兴之，有公害而莫或<除>之。（明•黄宗羲《原君》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 世上有公共的利益却没有人去兴办；有公共的祸害却没有人去革除。
   - word: 除
     type: 【动词】
     phonetic: chu2
     trans: ❶去掉;清除。
     ancient: 然则将军之仇报，而燕国见陵之耻<除>矣。（《荆轲刺秦王》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 这样，将军的仇报了，燕国被欺侮的耻辱也除掉了。
   - word: 除
     type: 【动词】
     phonetic: chu2
     trans: ❷修整。
     ancient: 至于今，郡之贤士大夫请于当道，即<除>魏阉废祠之址以葬之。（《五人墓碑记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 到了现在，本郡有声望的士大夫们向有关当局请求，就清理已被废除的魏忠贤生祠旧址来安葬他们
   - word: 除
     type: 【动词】
     phonetic: chu2
     trans: ❷修整。
     ancient: "父母闻之，清宫<除>道,张乐设饮,郊迎三十里。（《战国策•秦策一》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 父母听到消息，收拾房屋，打扫街道，设置音乐，准备酒席，到三十里外郊野去迎接。
   - word: 除
     type: 【动词】
     phonetic: chu2
     trans: ❸授予官职。
     ancient: 诏书特下，拜臣郎中，寻（不久）蒙国恩，<除>臣洗马。（《陈情表》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 朝廷又特地下了诏书，任命我为郎中，不久又蒙受国家恩命，任命我为洗马。
   - word: 除
     type: 【动词】
     phonetic: chu2
     trans: ❸授予官职。
     ancient: "德祐二年二月十九日，予<除>右丞相兼枢密使,都督诸路军马。（《〈指南录〉后序》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 德祐二年二月十九日，我受任右丞相兼枢密使，统率全国各路兵马。
   - word: 除
     type: 【动词】
     phonetic: chu2
     trans: ❸授予官职。
     ancient: "【高考题例】元载以罪诛，<除>揆睦州刺史,入拜国子祭酒、礼部尚书,为卢杞所恶。（《旧唐书•李揆传》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 元载因罪被杀后，朝廷任命李揆为睦州刺史，又入京担任国子祭酒、礼部尚书，被宰相卢杞所嫉恨。
   - word: 除
     type: 【动词】
     phonetic: chu2
     trans: ❹进行除法运算。
     ancient: "道子画人物，如以灯取影,逆来顺往，旁见侧出，横斜平直，各相乘<除>，得自然之数，不差毫末。（宋•苏轼《书吴道子画后》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 吴道子画人物，好似看着灯烛能描绘出影子，笔锋往来自如，笔势不拘一格，横竖笔画互相增减补充，这是得到了自然之法啊
   - word: 创
     type: 【名词】
     phonetic: chuang1
