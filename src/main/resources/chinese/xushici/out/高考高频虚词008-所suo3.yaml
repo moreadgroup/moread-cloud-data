@@ -10,7 +10,7 @@ words:
         sentences:
           - ancient: 某<所>，而母立于兹。（《项脊轩志》）
             url: xxxx
-            vernacular: "这个地方,是你母亲曾经站立的地方。"
+            vernacular: 这个地方，是你母亲曾经站立的地方。
       - trans: ❷适当的位置;应有的结果。
         sentences:
           - ancient: 必能使行阵和睦，优劣得<所>。（《出师表》）
@@ -63,7 +63,7 @@ words:
             vernacular: 如能相告呀，说出丑死了呀。
           - ancient: <所>不与舅氏同心者，有如白水。（《左传•僖公二十四年》）
             url: xxxx
-            vernacular: "如果不和舅舅一条心的话,有白水为证。"
+            vernacular: 如果不和舅舅一条心的话，有白水为证。
   - word: 所
     type: 【助词】
     phonetic: suo3
@@ -77,7 +77,7 @@ words:
             vernacular: xxxx
           - ancient: 父去里<所>，复还。（《史记•留侯世家》）
             url: xxxx
-            vernacular: "就是张良碰到一个老头,这老头,“去里所”,就是离开了一里地左右,“复还”就又回来了,这就是左右的意思。"
+            vernacular: 就是张良碰到一个老头，这老头，“去里所”，就是离开了一里地左右，“复还”就又回来了，这就是左右的意思。
       - trans: ❷与动词组合成名词性词组，指代人或事物。
         sentences:
           - ancient: 较秦之<所>得，与战胜而得者，其实百倍;诸侯之<所>亡，与战败而亡者，其实亦百倍。（《六国论》）
@@ -107,7 +107,7 @@ words:
             vernacular: 治理国家的人不要被积久的威势所胁迫啊！
           - ancient: 其后楚日以削，数十年竟为秦<所>灭。（《史记•屈原贾生列传》）
             url: xxxx
-            vernacular: "从那时起,楚国日益削弱,数十年后,(楚国)最终被秦国消灭了。"
+            vernacular: 从那时起，楚国日益削弱，数十年后，(楚国)最终被秦国消灭了。
           - ancient: 【高考题例】父为郭氾<所>害，芝襁褓流离。（《晋书•鲁芝传》）
             url: xxxx
             vernacular: 他的父亲被郭氾所害，鲁芝从小流离失所。

@@ -478,7 +478,7 @@ class XushiWordTest {
             allXushiWordQuizzes.quizzes.addAll(xushiWordQuizzes.quizzes)
         }
 //        allXushiWordQuizzes.quizzes.shuffle()
-        objectMapper.writeValue(File(quizzesFolder + "Quiz高考高频虚词000-全部.yaml"), allXushiWordQuizzes);
+        objectMapper.writeValue(File(quizzesFolder + "Quiz高考高频实词000-全部.yaml"), allXushiWordQuizzes);
 
     }
 

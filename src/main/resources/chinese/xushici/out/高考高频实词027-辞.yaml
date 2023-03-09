@@ -42,7 +42,7 @@ words:
     samples:
       - trans: ❶推辞。
         sentences:
-          - ancient: "<辞>曰：\"臣之壮也,犹不如人;今老矣，无能为也已。\"（《烛之武退秦师》）"
+          - ancient: "<辞>曰：\"臣之壮也，犹不如人;今老矣，无能为也已。\"（《烛之武退秦师》）"
             url: xxxx
             vernacular: xxxx
           - ancient: 臣死且不避，卮酒安足<辞>！（《鸿门宴》）
@@ -58,7 +58,7 @@ words:
           - ancient: 孔子曰："求（指冉求）「君子疾夫舍曰"欲之"而必为之<辞>。"（《季氏将伐颛臾》）
             url: xxxx
             vernacular: xxxx
-          - ancient: "吾意周公辅成王,宜以道，从容优乐，要归之大中而已，必不逢其失而为之<辞>。（《桐叶封弟辨》）"
+          - ancient: "吾意周公辅成王，宜以道，从容优乐，要归之大中而已，必不逢其失而为之<辞>。（《桐叶封弟辨》）"
             url: xxxx
             vernacular: xxxx
       - trans: ❹计较;争。
