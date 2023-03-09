@@ -8,82 +8,82 @@ words:
     samples:
       - trans: ❶道路。
         sentences:
-          - ancient: "【例句】会天大雨,<道>不通，度已失期。（《陈涉世家》）"
+          - ancient: "会天大雨,<道>不通，度已失期。（《陈涉世家》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 恰巧遇到天下大雨，道路不通，估计已经误期。
           - ancient: 伐竹取<道>，下见小潭，水尤清冽。（《小石潭记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 砍倒竹子，开辟出一条道路（走过去），沿路走下去看见一个小潭，潭水格外清凉。
           - ancient: 何方圜之能周兮？夫孰异<道>而相安？（《离骚》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 方和圆怎能够互相配合，志向不同何能彼此相安。
       - trans: ❷儒家推崇的仁政、王道。
         sentences:
-          - ancient: 【例句】得<道>者多助，失<道>者寡助。（《得道多助，失道寡助》）
+          - ancient: 得<道>者多助，失<道>者寡助。（《得道多助，失道寡助》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 能施行“仁政”的君王，帮助支持他的人就多；不能施行“仁政”的君主，支持帮助他的人就少。
           - ancient: 养生丧死无憾，王<道>之始也。（《寡人之于国也》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 老百姓养生送死没有缺憾，这正是王道的开始。
       - trans: ❸方法。
         sentences:
-          - ancient: 【例句】得天下有<道>:得其民，斯得天下矣。（《孟子•离娄上》）
+          - ancient: 得天下有<道>:得其民，斯得天下矣。（《孟子•离娄上》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 得天下必先得民，得民必先得民心。
           - ancient: 策之不以其<道>。（《马说》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 不按照（驱使千里马的）正确方法鞭打它
       - trans: ❹道理;规律。
         sentences:
-          - ancient: 【例句】臣之所好者<道>也，进乎技矣。（《庄子•养生主》）
+          - ancient: 臣之所好者<道>也，进乎技矣。（《庄子•养生主》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 臣下所探求的是道（即事物的规律），这已经超过了对于宰牛技术的追求。
           - ancient: 师者，所以传<道>受业解惑也。（《师说》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 老师，是用来传授道理、教授儒家经典、解释疑难问题的人。
           - ancient: 赂秦而力亏，破灭之<道>也。（《六国论》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 拿土地贿赂秦国亏损了自己的力量，（这就）是灭亡的原因。
       - trans: ❺道德。
         sentences:
-          - ancient: 【例句】余嘉其能行古<道>，作《师说》以贻（折，赠送）之。 （《师说》）
+          - ancient: 余嘉其能行古<道>，作《师说》以贻（折，赠送）之。 （《师说》）
             url: xxxx
             vernacular: xxxx
       - trans: ❻主张;思想;学说。
         sentences:
-          - ancient: 【例句】吾<道>一以贯之。（《论语•里仁》）
+          - ancient: 吾<道>一以贯之。（《论语•里仁》）
             url: xxxx
             vernacular: xxxx
           - ancient: 于是废先王之<道>，焚百家之言，以愚黔首。（《过秦论》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我赞许他能够遵行古人从师的途径，写这篇《师说》来赠送他。
           - ancient: 彼与彼年相若也，<道>相似也。（《师说》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 他和他年龄差不多，道德学问也差不多
           - ancient: "君子能修其<道>，纲而纪之，统而理之,而不能为容。（《史记•孔子世家》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 君子能认真研究和完善自己的思想和主张，制定法度来规范社会和治理人民，却不一定能被世人接受
           - ancient: 夫<道>之不修也，是吾丑也。夫<道>既已大修而不用，是有国者之丑也。（《史记•孔子世家》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 夫子之道（指真理，仁智之道）我们没有掌握，是我们的耻辱。我们掌握了真理而没有被采纳重用，是那些治国之人（当权派和皇帝）他们的耻辱。
           - ancient: 【高考题例】延熹中，桓帝事黄老<道>。（《后汉书•王淡传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 延熹年间，桓帝事奉黄老学说
       - trans: ❼风尚。
         sentences:
-          - ancient: 【例句】呜呼！师<道>之不复，可知矣。（《师说》）
+          - ancient: 呜呼！师<道>之不复，可知矣。（《师说》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 唉!（古代那种）跟从老师学习的风尚不能恢复，（从这些话里就）可以明白了。
       - trans: ❽古代行政区域名。汉代在某些少数民族聚居区所设的县称道;唐代分全国为十五道;清朝在省与府州之间设道。
         sentences:
-          - ancient: 【例句】（县）有蛮夷曰<道>。（《汉书•百官公卿表上》）
+          - ancient: （县）有蛮夷曰<道>。（《汉书•百官公卿表上》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 据此来看，则两者的区别在于辖境内有无“蛮夷”分布。若有，则名之曰“道”。
       - trans: ❾道家;道教。
         sentences:
-          - ancient: 【例句】祖父陵，客蜀，学<道>鹄（hu2）鸣山中。（《三国志•魏书•张鲁传》）
+          - ancient: 祖父陵，客蜀，学<道>鹄（hu2）鸣山中。（《三国志•魏书•张鲁传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 其祖父张陵，客居蜀地，在山中修道学鹤叫
   - word: 道
     type: 【动词】
     phonetic: dao4
@@ -92,27 +92,27 @@ words:
     samples:
       - trans: ❶取道。
         sentences:
-          - ancient: "【例句】沛公则置（放弃）车骑，脱身独骑,与樊哙、夏侯婴、靳强、纪信等四人持剑盾步走，从郦山下，<道>芷阳间（jian4,从小路）行。（《鸿门宴》）"
+          - ancient: "沛公则置（放弃）车骑，脱身独骑,与樊哙、夏侯婴、靳强、纪信等四人持剑盾步走，从郦山下，<道>芷阳间（jian4,从小路）行。（《鸿门宴》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 刘邦就留下车辆和随从人马，独自骑马脱身，和樊哙、夏侯婴、靳强、纪信四人拿着剑和盾牌徒步逃跑，从郦山脚下，取道芷阳，抄小路走。
       - trans: ❷走路;赶路。
         sentences:
-          - ancient: 【例句】闻操已向荆州，晨夜兼<道>。（《赤壁之战》）
+          - ancient: 闻操已向荆州，晨夜兼<道>。（《赤壁之战》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 听说曹操已向荆州进军，就日夜兼程
       - trans: ❸说。
         sentences:
-          - ancient: 【例句】后世之谬其传而莫能名者，何可胜<道>也哉！（《游褒禅山记》）
+          - ancient: 后世之谬其传而莫能名者，何可胜<道>也哉！（《游褒禅山记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 后世讹传而无人弄清其真相的事，哪能说得完呢？
           - ancient: "夫十有一月之中，凡富贵之子，慷慨得志之徒,其疾病而死，死而湮没不足<道>者，亦已众矣。（《五人墓碑记》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 在这十一个月当中，那班富贵之士和志得意满，官运亨通的人，他们患病而死，死了而埋没不足称道的，也太多了
           - ancient: 然此可为智者<道>，难为俗人言也！（《报任安书》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 然而这些话只能对智者去说，却很难向世俗之人讲清楚啊！
       - trans: ❹称道。
         sentences:
-          - ancient: 【例句】仲尼之徒无<道>桓文之事者，是以后世无传焉，臣未之闻也。（《齐桓晋文之事》）
+          - ancient: 仲尼之徒，无<道>桓、文之事者，是以后世无传焉，臣未之闻也。（《齐桓晋文之事》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 孔子这些人中没有讲述齐桓公、晋文公的事情的人，因此后世没有流传。我没有听说过这事。
