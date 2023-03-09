@@ -1,9 +1,86 @@
 ---
 quizzes:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+  - word: 殆
+    type: 【形容词】
+    phonetic: dai4
+    trans: ❶危险。
+    ancient: 【例句】知己知彼，百战不<殆>。（《孙子兵法•谋攻》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 殆
+    type: 【形容词】
+    phonetic: dai4
+    trans: ❶危险。
+    ancient: 今我睹子之难穷也，吾非至于子之门，则<殆>矣。（《秋水》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 殆
+    type: 【形容词】
+    phonetic: dai4
+    trans: ❶危险。
+    ancient: 所求乎为子，以父母之遗体行<殆>而死有余责。（《〈指南录〉后序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 殆
+    type: 【形容词】
+    phonetic: dai4
+    trans: ❷通"怠"。懒惰;松懈。
+    ancient: 【例句】农者<殆>则土地荒。（《商君书•农战》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 殆
+    type: 【形容词】
+    phonetic: dai4
+    trans: ❸疑惑。
+    ancient: 【例句】学而不思则罔，思而不学则<殆>。（《论语•为政》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 殆
+    type: 【副词】
+    phonetic: dai4
+    trans: ❶将近;几乎。
+    ancient: 【例句】且燕赵处秦革灭<殆>尽之际，可谓智力孤危，战败而亡，诚不得已。（《六国论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 殆
+    type: 【副词】
+    phonetic: dai4
+    trans: ❶将近;几乎。
+    ancient: 扬州城下，进退不由，<殆>例送死。（《〈指南录〉后序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 殆
+    type: 【副词】
+    phonetic: dai4
+    trans: ❶将近;几乎。
+    ancient: "【高考题例】时中原荡覆，典章<殆>尽,无史籍检寻。（《旧唐书•于休烈传》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 殆
+    type: 【副词】
+    phonetic: dai4
+    trans: ❷大概;恐怕。
+    ancient: 【例句】郦元之所见闻，<殆>与余同，而言之不详。（《石钟山记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 殆
+    type: 【副词】
+    phonetic: dai4
+    trans: ❷大概;恐怕。
+    ancient: 轩凡四遭火，得不焚，<殆>有神护者。（《项脊轩志》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 殆
+    type: 【副词】
+    phonetic: dai4
+    trans: ❷大概;恐怕。
+    ancient: 古人所以重施刑于大夫者，<殆>为此也。（《报任安书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 殆
+    type: 【副词】
+    phonetic: dai4
+    trans: ❷大概;恐怕。
+    ancient: 【高考题例】公亮报，吾境不藏盗，<殆>从者之度耳，索之，果然。（《宋史•曾公亮传》）
     url: xxxx
     vernacular: xxxx

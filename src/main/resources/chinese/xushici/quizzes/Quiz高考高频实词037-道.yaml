@@ -1,9 +1,184 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 道
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: dao4
+    trans: ❶道路。
+    ancient: "【例句】会天大雨,<道>不通，度已失期。（《陈涉世家》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 道
+    type: 【名词】
+    phonetic: dao4
+    trans: ❶道路。
+    ancient: 伐竹取<道>，下见小潭，水尤清冽。（《小石潭记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 道
+    type: 【名词】
+    phonetic: dao4
+    trans: ❶道路。
+    ancient: 何方圜之能周兮？夫孰异<道>而相安？（《离骚》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 道
+    type: 【名词】
+    phonetic: dao4
+    trans: ❷儒家推崇的仁政、王道。
+    ancient: 【例句】得<道>者多助，失<道>者寡助。（《得道多助，失道寡助》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 道
+    type: 【名词】
+    phonetic: dao4
+    trans: ❷儒家推崇的仁政、王道。
+    ancient: 养生丧死无憾，王<道>之始也。（《寡人之于国也》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 道
+    type: 【名词】
+    phonetic: dao4
+    trans: ❸方法。
+    ancient: 【例句】得天下有<道>:得其民，斯得天下矣。（《孟子•离娄上》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 道
+    type: 【名词】
+    phonetic: dao4
+    trans: ❸方法。
+    ancient: 策之不以其<道>。（《马说》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 道
+    type: 【名词】
+    phonetic: dao4
+    trans: ❹道理;规律。
+    ancient: 【例句】臣之所好者<道>也，进乎技矣。（《庄子•养生主》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 道
+    type: 【名词】
+    phonetic: dao4
+    trans: ❹道理;规律。
+    ancient: 师者，所以传<道>受业解惑也。（《师说》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 道
+    type: 【名词】
+    phonetic: dao4
+    trans: ❹道理;规律。
+    ancient: 赂秦而力亏，破灭之<道>也。（《六国论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 道
+    type: 【名词】
+    phonetic: dao4
+    trans: ❺道德。
+    ancient: 【例句】余嘉其能行古<道>，作《师说》以贻（折，赠送）之。 （《师说》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 道
+    type: 【名词】
+    phonetic: dao4
+    trans: ❻主张;思想;学说。
+    ancient: 【例句】吾<道>一以贯之。（《论语•里仁》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 道
+    type: 【名词】
+    phonetic: dao4
+    trans: ❻主张;思想;学说。
+    ancient: 于是废先王之<道>，焚百家之言，以愚黔首。（《过秦论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 道
+    type: 【名词】
+    phonetic: dao4
+    trans: ❻主张;思想;学说。
+    ancient: 彼与彼年相若也，<道>相似也。（《师说》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 道
+    type: 【名词】
+    phonetic: dao4
+    trans: ❻主张;思想;学说。
+    ancient: "君子能修其<道>，纲而纪之，统而理之,而不能为容。（《史记•孔子世家》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 道
+    type: 【名词】
+    phonetic: dao4
+    trans: ❻主张;思想;学说。
+    ancient: 夫<道>之不修也，是吾丑也。夫<道>既已大修而不用，是有国者之丑也。（《史记•孔子世家》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 道
+    type: 【名词】
+    phonetic: dao4
+    trans: ❻主张;思想;学说。
+    ancient: 【高考题例】延熹中，桓帝事黄老<道>。（《后汉书•王淡传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 道
+    type: 【名词】
+    phonetic: dao4
+    trans: ❼风尚。
+    ancient: 【例句】呜呼！师<道>之不复，可知矣。（《师说》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 道
+    type: 【名词】
+    phonetic: dao4
+    trans: ❽古代行政区域名。汉代在某些少数民族聚居区所设的县称道;唐代分全国为十五道;清朝在省与府州之间设道。
+    ancient: 【例句】（县）有蛮夷曰<道>。（《汉书•百官公卿表上》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 道
+    type: 【名词】
+    phonetic: dao4
+    trans: ❾道家;道教。
+    ancient: 【例句】祖父陵，客蜀，学<道>鹄（hu2）鸣山中。（《三国志•魏书•张鲁传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 道
+    type: 【动词】
+    phonetic: dao4
+    trans: ❶取道。
+    ancient: "【例句】沛公则置（放弃）车骑，脱身独骑,与樊哙、夏侯婴、靳强、纪信等四人持剑盾步走，从郦山下，<道>芷阳间（jian4,从小路）行。（《鸿门宴》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 道
+    type: 【动词】
+    phonetic: dao4
+    trans: ❷走路;赶路。
+    ancient: 【例句】闻操已向荆州，晨夜兼<道>。（《赤壁之战》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 道
+    type: 【动词】
+    phonetic: dao4
+    trans: ❸说。
+    ancient: 【例句】后世之谬其传而莫能名者，何可胜<道>也哉！（《游褒禅山记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 道
+    type: 【动词】
+    phonetic: dao4
+    trans: ❸说。
+    ancient: "夫十有一月之中，凡富贵之子，慷慨得志之徒,其疾病而死，死而湮没不足<道>者，亦已众矣。（《五人墓碑记》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 道
+    type: 【动词】
+    phonetic: dao4
+    trans: ❸说。
+    ancient: 然此可为智者<道>，难为俗人言也！（《报任安书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 道
+    type: 【动词】
+    phonetic: dao4
+    trans: ❹称道。
+    ancient: 【例句】仲尼之徒无<道>桓文之事者，是以后世无传焉，臣未之闻也。（《齐桓晋文之事》）
     url: xxxx
     vernacular: xxxx

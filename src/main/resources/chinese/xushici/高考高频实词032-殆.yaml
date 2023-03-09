@@ -8,15 +8,25 @@ words:
     samples:
       - trans: ❶危险。
         sentences:
-          - ancient: 【例句】知己知彼，百战不殆。（《孙子兵法•谋攻》）
-          - ancient: 今我睹子之难穷也，吾非至于子之门，则殆矣。（《秋水》）
-          - ancient: 所求乎为子，以父母之遗体行殆而死有余责。（《〈指南录〉后序》）
+          - ancient: 【例句】知己知彼，百战不<殆>。（《孙子兵法•谋攻》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 今我睹子之难穷也，吾非至于子之门，则<殆>矣。（《秋水》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 所求乎为子，以父母之遗体行<殆>而死有余责。（《〈指南录〉后序》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷通"怠"。懒惰;松懈。
         sentences:
-          - ancient: 【例句】农者殆则土地荒。（《商君书•农战》）
+          - ancient: 【例句】农者<殆>则土地荒。（《商君书•农战》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸疑惑。
         sentences:
-          - ancient: 【例句】学而不思则罔，思而不学则殆。（《论语•为政》）
+          - ancient: 【例句】学而不思则罔，思而不学则<殆>。（《论语•为政》）
+            url: xxxx
+            vernacular: xxxx
   - word: 殆
     type: 【副词】
     phonetic: dai4
@@ -25,12 +35,26 @@ words:
     samples:
       - trans: ❶将近;几乎。
         sentences:
-          - ancient: 【例句】且燕赵处秦革灭殆尽之际，可谓智力孤危，战败而亡，诚不得已。（《六国论》）
-          - ancient: 扬州城下，进退不由，殆例送死。（《〈指南录〉后序》）
-          - ancient: 【高考题例】时中原荡覆，典章殆尽,无史籍检寻。（《旧唐书•于休烈传》）
+          - ancient: 【例句】且燕赵处秦革灭<殆>尽之际，可谓智力孤危，战败而亡，诚不得已。（《六国论》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 扬州城下，进退不由，<殆>例送死。（《〈指南录〉后序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "【高考题例】时中原荡覆，典章<殆>尽,无史籍检寻。（《旧唐书•于休烈传》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷大概;恐怕。
         sentences:
-          - ancient: 【例句】郦元之所见闻，殆与余同，而言之不详。（《石钟山记》）
-          - ancient: 轩凡四遭火，得不焚，殆有神护者。（《项脊轩志》）
-          - ancient: 古人所以重施刑于大夫者，殆为此也。（《报任安书》）
-          - ancient: 【高考题例】公亮报，吾境不藏盗，殆从者之度耳，索之，果然。（《宋史•曾公亮传》）
+          - ancient: 【例句】郦元之所见闻，<殆>与余同，而言之不详。（《石钟山记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 轩凡四遭火，得不焚，<殆>有神护者。（《项脊轩志》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 古人所以重施刑于大夫者，<殆>为此也。（《报任安书》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】公亮报，吾境不藏盗，<殆>从者之度耳，索之，果然。（《宋史•曾公亮传》）
+            url: xxxx
+            vernacular: xxxx

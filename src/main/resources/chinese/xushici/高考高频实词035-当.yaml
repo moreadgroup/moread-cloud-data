@@ -8,45 +8,88 @@ words:
     samples:
       - trans: ❶阻挡;抵挡。
         sentences:
-          - ancient: 【例句】料大王士卒足以当项王乎？（《鸿门宴》）
-          - ancient: 【高考题例】金人困都城，傅日夜亲当矢石。（《宋史•孙傅传》）
+          - ancient: 【例句】料大王士卒足以<当>项王乎？（《鸿门宴》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】金人困都城，傅日夜亲<当>矢石。（《宋史•孙傅传》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷处在（某个地方、时间）。
         sentences:
-          - ancient: 【例句】舟回至两山间，将入港口，有大石当中流。（《石钟山记》）
-          - ancient: 今所经中岭及山巅，崖限当道者，世皆谓之天门云。（《登泰山记》）
-          - ancient: 《易》之兴也，其当殷之末世，周之盛德邪？（《周易•系辞下》）
+          - ancient: 【例句】舟回至两山间，将入港口，有大石<当>中流。（《石钟山记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 今所经中岭及山巅，崖限<当>道者，世皆谓之天门云。（《登泰山记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 《易》之兴也，其<当>殷之末世，周之盛德邪？（《周易•系辞下》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸掌管;主持。
         sentences:
-          - ancient: 【例句】人君当神器之重，居域中之大。（《谏太宗十思疏》）
-          - ancient: 至于今，郡之贤士大夫请于当道，即除魏阉废祠之址以葬之。（《五人墓碑记》）
-          - ancient: 会使辙交驰，北邀当国者相见。（《〈指南录〉后序》）
-          - ancient: 猥以微贱，当侍东宫，非臣陨首所能上报。（《陈情表》）
-          - ancient: 【高考题例】及当大事，毅然执持,人不能夺，卒以此忤权幸去。（《明史•傳珪传》）
+          - ancient: 【例句】人君<当>神器之重，居域中之大。（《谏太宗十思疏》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 至于今，郡之贤士大夫请于<当>道，即除魏阉废祠之址以葬之。（《五人墓碑记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 会使辙交驰，北邀<当>国者相见。（《〈指南录〉后序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 猥以微贱，<当>侍东宫，非臣陨首所能上报。（《陈情表》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "【高考题例】及<当>大事，毅然执持,人不能夺，卒以此忤权幸去。（《明史•傳珪传》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❹承受;承当。
         sentences:
-          - ancient: 【高考题例】救荒如救焚，有罪，吾自当之。（《明史•韩文传》）
+          - ancient: 【高考题例】救荒如救焚，有罪，吾自<当>之。（《明史•韩文传》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❺顶;抵。
         sentences:
-          - ancient: 【例句】以一（张）仪而当汉中地，臣请往如楚。（《史记•屈原贾生列传》）
-          - ancient: 募有能捕之者，当其租入。（《捕蛇者说》）
+          - ancient: 【例句】以一（张）仪而<当>汉中地，臣请往如楚。（《史记•屈原贾生列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 募有能捕之者，<当>其租入。（《捕蛇者说》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❻占着;把着。
         sentences:
-          - ancient: 【例句】一夫当关，万夫莫开。（《蜀道难》）
+          - ancient: 【例句】一夫<当>关，万夫莫开。（《蜀道难》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❼符合。
         sentences:
-          - ancient: 【例句】将献公堂，惴惴恐不当意，思试之斗以觇（chan1,窥视,观察）之。（《促织》）
+          - ancient: "【例句】将献公堂，惴惴恐不<当>意，思试之斗以觇（chan1,窥视,观察）之。（《促织》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❽应当。
         sentences:
-          - ancient: 【例句】古公曰："我世当有兴者，其在（姬）昌乎?"（《史记•周本纪》）
+          - ancient: 【例句】古公曰："我世<当>有兴者，其在（姬）昌乎?"（《史记•周本纪》）
+            url: xxxx
+            vernacular: xxxx
           - ancient: 吾闻二世少子也，不<当>立，<当>立者乃公子扶苏。（《陈涉世家》）
-          - ancient: 诸将吏敢复有言当迎操者，与此案同。（《赤壁之战》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 诸将吏敢复有言<当>迎操者，与此案同。（《赤壁之战》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❾判决;判罪。
         sentences:
-          - ancient: 【例句】吏当广所失亡多，为虏所生得。（《史记•李将军列传》）
-          - ancient: 汉使张胜谋杀单于近臣，当死。（《苏武传》）
-          - ancient: 【高考题例】密州民田产银，或盗取之,大理当以强。（《宋史・曾公亮传》）
-          - ancient: 芝坐爽下狱，当死，而□不讼直，志不苟免，宣帝嘉之，赦而不诛。（《晋书•鲁芝传》）
-
+          - ancient: 【例句】吏<当>广所失亡多，为虏所生得。（《史记•李将军列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 汉使张胜谋杀单于近臣，<当>死。（《苏武传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "【高考题例】密州民田产银，或盗取之,大理<当>以强。（《宋史・曾公亮传》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 芝坐爽下狱，<当>死，而□不讼直，志不苟免，宣帝嘉之，赦而不诛。（《晋书•鲁芝传》）
+            url: xxxx
+            vernacular: xxxx
   - word: 当
     type: 【副词】
     phonetic: dang1
@@ -55,14 +98,23 @@ words:
     samples:
       - trans: ❶将要;就要;就会。
         sentences:
-          - ancient: 【例句】卿与子敬、程公便在前发，孤当续发人众，多载资粮，为卿后援。（《资治通鉴•汉纪五十七》）
-          - ancient: 既欲留之，当减三年寿数，乃可与君相终始，君愿之乎？（《聊斋志异•石清虚》）
-          - ancient: 此吾祖太常公宣德间执此以朝，他日汝当用之!（《项脊轩志》）
-          - ancient: 今当远离，临表涕零，不知所言。（《出师表》）
+          - ancient: 【例句】卿与子敬、程公便在前发，孤<当>续发人众，多载资粮，为卿后援。（《资治通鉴•汉纪五十七》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 既欲留之，<当>减三年寿数，乃可与君相终始，君愿之乎？（《聊斋志异•石清虚》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 此吾祖太常公宣德间执此以朝，他日汝<当>用之!（《项脊轩志》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 今<当>远离，临表涕零，不知所言。（《出师表》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷必定;一定。
         sentences:
-          - ancient: 【例句】不久当归还,还必相迎取。（《孔雀东南飞》）
-
+          - ancient: "【例句】不久<当>归还,还必相迎取。（《孔雀东南飞》）"
+            url: xxxx
+            vernacular: xxxx
   - word: 当
     type: 【介词】
     phonetic: dang1
@@ -71,15 +123,26 @@ words:
     samples:
       - trans: ❶对着。
         sentences:
-          - ancient: 【例句】盛夏之时，当风而立。（《论衡•变动》）
-          - ancient: 唧唧复唧唧,木兰当户织。（《木兰诗》）
+          - ancient: 【例句】盛夏之时，<当>风而立。（《论衡•变动》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "唧唧复唧唧,木兰<当>户织。（《木兰诗》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷处在某个时候。
         sentences:
-          - ancient: 【例句】当是时也，商君佐之。（《过秦论》）
-          - ancient: 当是时，妇手拍儿声，口中呜声，儿含乳啼声，......一齐凑发，众妙毕备。（《口技》）
-          - ancient: 当是时，项王军在鸿门下,沛公军在霸上，相去四十里。（《鸿门宴》）
-          - ancient: 陈康肃公善射，当世无双，公亦以此自矜。（《卖油翁》）
-
+          - ancient: 【例句】<当>是时也，商君佐之。（《过秦论》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <当>是时，妇手拍儿声，口中呜声，儿含乳啼声，......一齐凑发，众妙毕备。（《口技》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "<当>是时，项王军在鸿门下,沛公军在霸上，相去四十里。（《鸿门宴》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 陈康肃公善射，<当>世无双，公亦以此自矜。（《卖油翁》）
+            url: xxxx
+            vernacular: xxxx
   - word: 当
     type: 【连词】
     phonetic: dang1
@@ -88,8 +151,9 @@ words:
     samples:
       - trans: 如果;假使。
         sentences:
-          - ancient: 【例句】先祖当贤，后子孙必早（显赫）。（《荀子•君子》）
-
+          - ancient: 【例句】先祖<当>贤，后子孙必早（显赫）。（《荀子•君子》）
+            url: xxxx
+            vernacular: xxxx
   - word: 当
     type: 【名词】
     phonetic: dang4
@@ -98,8 +162,9 @@ words:
     samples:
       - trans: 器物的底部。
         sentences:
-          - ancient: 【例句】今有千金之玉卮而无当，可以盛水乎？（《韩非子•外储说右上》）
-
+          - ancient: 【例句】今有千金之玉卮而无<当>，可以盛水乎？（《韩非子•外储说右上》）
+            url: xxxx
+            vernacular: xxxx
   - word: 当
     type: 【动词】
     phonetic: dang4
@@ -109,11 +174,16 @@ words:
       - trans: ❶当作。
         sentences:
           - ancient: 【例句】晩食以<当>肉，安步以<当>车，无罪以<当>贵，清静贞正以自虞。（《战国策•齐策四》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷抵押。
         sentences:
-          - ancient: 【例句】走笔还诗债,抽衣当药钱。（唐•白居易《自咏老身示诸家属》）
-          - ancient: 匈奴留汉使郭吉、路充国等,前后十余辈。匈奴使来，汉亦留之以相当。（《苏武传》）
-
+          - ancient: "【例句】走笔还诗债,抽衣<当>药钱。（唐•白居易《自咏老身示诸家属》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "匈奴留汉使郭吉、路充国等,前后十余辈。匈奴使来，汉亦留之以相<当>。（《苏武传》）"
+            url: xxxx
+            vernacular: xxxx
   - word: 当
     type: 【形容词】
     phonetic: dang4
@@ -122,10 +192,15 @@ words:
     samples:
       - trans: 适当;恰当。
         sentences:
-          - ancient: 【例句】赏罚无当，赋敛无度。（《过秦论》）
-          - ancient: 古法采草药多用二月、八月，此殊未当。（《梦溪笔谈•药议》）
-          - ancient: 驼闻之，曰："甚善。名我固当。"（《种树郭橐驼传》）
-
+          - ancient: 【例句】赏罚无<当>，赋敛无度。（《过秦论》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 古法采草药多用二月、八月，此殊未<当>。（《梦溪笔谈•药议》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 驼闻之，曰："甚善。名我固<当>。"（《种树郭橐驼传》）
+            url: xxxx
+            vernacular: xxxx
   - word: 当
     type: 【动词】
     phonetic: tang3
@@ -134,4 +209,6 @@ words:
     samples:
       - trans: 通"倘"。如果;假使。
         sentences:
-          - ancient: 【例句】则胜负之数，存亡之理，当与秦相较，或未易量。（《六国论》）
+          - ancient: 【例句】则胜负之数，存亡之理，<当>与秦相较，或未易量。（《六国论》）
+            url: xxxx
+            vernacular: xxxx

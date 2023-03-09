@@ -8,19 +8,39 @@ words:
     samples:
       - trans: ❶等候;等待。
         sentences:
-          - ancient: 【例句】今沛公先破秦入咸阳，毫毛不敢有所近，封闭宫室,还军霸上，以待大王来。（《鸿门宴》）
-          - ancient: 与子颖坐日观亭，待日出。（《登泰山记》）
-          - ancient: 吾入关，秋毫不敢有所近，籍吏民,封府库，而待将军。（《鸿门宴》）
-          - ancient: 待圣人之出而投綴道路,不可谓非五人之力也。（《五人墓碑记》）
+          - ancient: "【例句】今沛公先破秦入咸阳，毫毛不敢有所近，封闭宫室,还军霸上，以<待>大王来。（《鸿门宴》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 与子颖坐日观亭，<待>日出。（《登泰山记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "吾入关，秋毫不敢有所近，籍吏民,封府库，而<待>将军。（《鸿门宴》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "<待>圣人之出而投綴道路,不可谓非五人之力也。（《五人墓碑记》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷对待。
         sentences:
-          - ancient: 【例句】古之君子，其责己也重以周（全面），其待人也轻以约（简约）。（唐•韩愈《原毁》）
-          - ancient: 葢在殷忧,必竭诚以待下；成得志，则纵情以傲物。（《谏太宗十思疏》）
+          - ancient: 【例句】古之君子，其责己也重以周（全面），其<待>人也轻以约（简约）。（唐•韩愈《原毁》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "葢在殷忧,必竭诚以<待>下；成得志，则纵情以傲物。（《谏太宗十思疏》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸防备。
         sentences:
-          - ancient: 【例句】，今城郭不完，兵甲不备,不可以待不虞（意外的事）。（《韩非子•外储说左上》）
-          - ancient: 赵亦盛设兵以待寨，秦不敢动。（《廉颇蔺相如列传》）
+          - ancient: "【例句】，今城郭不完，兵甲不备,不可以<待>不虞（意外的事）。（《韩非子•外储说左上》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 赵亦盛设兵以<待>寨，秦不敢动。（《廉颇蔺相如列传》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❹凭借;依靠。
         sentences:
           - ancient: 【例句】彼于致福者，未数数然（数Shuo4拼命追求的样子）也。此虽免乎行，犹有南将者也。（《逍遥游》）
-          - ancient: 盖闻王者莫高于周文，伯（通"霸"）者莫高于齐桓，皆待贤人而成名。（《汉书•高帝,纪下》）	
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "盖闻王者莫高于周文，伯（通\"霸\"）者莫高于齐桓，皆<待>贤人而成名。（《汉书•高帝,纪下》）"
+            url: xxxx
+            vernacular: xxxx
