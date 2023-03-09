@@ -1,13 +1,47 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 啖
+    type: 【动词】
+    phonetic: dan4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶吃;给……吃。
         sentences:
-          - ancient: xxx
+          - ancient: 【例句】樊哙覆其盾于地，加彘肩上，拔剑切而<啖>之。（《鴻门宴》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 先生既墨者，摩顶放踵，思一利天下，又何吝一躯<啖>我而全微命乎？（《中山狼传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 时座上有健<啖>客，貌甚寝。（《大铁椎传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 置之华屋之下，席以露床，<啖>以枣脯。（《史记•滑稽列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "异日，与君游于果园，食桃而甘，不尽,以其半<啖>君。（《韩非子•说难》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "【高考题例】副使崔应麟见民<啖>泽中雁矢，囊示登云,登云即进之于朝。（《明史•陈登云传》）"
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷引诱。
+        sentences:
+          - ancient: "【例句】乃用张良计,使郦生、陆贾往说秦将，<啖>以利，因袭攻武关，破之。（《史记•高祖本纪》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】贼大惧，以利<啖>守兵，得登城。（《宋史•朱昭传》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 啖
+    type: 【形容词】
+    phonetic: dan4
+    tags:
+      - 高中
+    samples:
+      - trans: 通"淡"。味薄;清淡。
+        sentences:
+          - ancient: 【例句】今太子仁孝，天下皆闻之，吕后与陛下攻苦食<啖>，其可背哉！（《史记•刘敬叔孙通列传》）
             url: xxxx
             vernacular: xxxx
