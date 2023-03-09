@@ -1,13 +1,67 @@
 ---
 words:
-  - word: xxxx
+  - word: 道
     type: 【名词】
-    phonetic: xx1
+    phonetic: dao4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶道路。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 【例句】会天大雨,道不通，度已失期。（《陈涉世家》）
+          - ancient: 伐竹取道，下见小潭，水尤清冽。（《小石潭记》）
+          - ancient: 何方圜之能周兮？夫孰异道而相安？（《离骚》）
+      - trans:  ❷儒家推崇的仁政、王道。
+        sentences:
+          - ancient: 【例句】得道者多助，失道者寡助。（《得道多助，失道寡助》）
+          - ancient: 养生丧死无憾，王道之始也。（《寡人之于国也》）
+      - trans:  ❸方法。
+        sentences:
+          - ancient: 【例句】得天下有道:得其民，斯得天下矣。（《孟子•离娄上》）
+          - ancient: 策之不以其道。（《马说》）
+      - trans:  ❹道理;规律。
+        sentences:
+          - ancient: 【例句】臣之所好者道也，进乎技矣。（《庄子•养生主》）
+          - ancient: 师者，所以传道受业解惑也。（《师说》）
+          - ancient: 赂秦而力亏，破灭之道也。（《六国论》）
+      - trans:  ❺道德。
+        sentences:
+          - ancient: 【例句】余嘉其能行古道，作《师说》以贻（折，赠送）之。 （《师说》）
+      - trans:  ❻主张;思想;学说。
+        sentences:
+          - ancient: 【例句】吾道一以贯之。（《论语•里仁》）
+          - ancient: 于是废先王之道，焚百家之言，以愚黔首。（《过秦论》）
+          - ancient: 彼与彼年相若也，道相似也。（《师说》）
+          - ancient: 君子能修其道，纲而纪之，统而理之,而不能为容。（《史记•孔子世家》）
+          - ancient: 夫道之不修也，是吾丑也。夫道既已大修而不用，是有国者之丑也。（《史记•孔子世家》）
+          - ancient: 【高考题例】延熹中，桓帝事黄老道。（《后汉书•王淡传》）
+      - trans:  ❼风尚。
+        sentences:
+          - ancient: 【例句】呜呼！师道之不复，可知矣。（《师说》）
+      - trans:  ❽古代行政区域名。汉代在某些少数民族聚居区所设的县称道;唐代分全国为十五道;清朝在省与府州之间设道。
+        sentences:
+          - ancient: 【例句】（县）有蛮夷曰道。（《汉书•百官公卿表上》）
+      - trans:  ❾道家;道教。
+        sentences:
+          - ancient: 【例句】祖父陵，客蜀，学道鹄（hu2）鸣山中。（《三国志•魏书•张鲁传》）	
+
+  - word: 道
+    type: 【动词】     
+    phonetic: dao4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶取道。
+        sentences:
+          - ancient: 【例句】沛公则置（放弃）车骑，脱身独骑,与樊哙、夏侯婴、靳强、纪信等四人持剑盾步走，从郦山下，道芷阳间（jian4,从小路）行。（《鸿门宴》）
+      - trans: ❷走路;赶路。
+        sentences:
+          - ancient: 【例句】闻操已向荆州，晨夜兼道。（《赤壁之战》）
+      - trans: ❸说。
+        sentences:
+          - ancient: 【例句】后世之谬其传而莫能名者，何可胜道也哉！（《游褒禅山记》）
+          - ancient: 夫十有一月之中，凡富贵之子，慷慨得志之徒,其疾病而死，死而湮没不足道者，亦已众矣。（《五人墓碑记》）
+          - ancient: 然此可为智者道，难为俗人言也！（《报任安书》）
+      - trans: ❹称道。
+        sentences:
+          - ancient: 【例句】仲尼之徒无道桓文之事者，是以后世无传焉，臣未之闻也。（《齐桓晋文之事》）

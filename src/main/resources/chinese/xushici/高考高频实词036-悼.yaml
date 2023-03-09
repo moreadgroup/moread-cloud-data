@@ -1,13 +1,18 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 悼
+    type: 【动词】
+    phonetic: dao4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶悲伤。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 【例句】每览昔人兴感之由，若合一契，未尝不临文嗟悼，不能喻之于怀。（《兰亭集序》）
+          - ancient: 静言思之，躬自悼矣。（《诗经•卫风•氓》）
+          - ancient: 天子既临河决，悼功之不成。（《史记•河渠书》）
+          - ancient: 【高考题例】昔者楚欲攻宋，墨子闻而悼之。（《淮南子•修务；训》）
+      - trans: ❷追念（死者）。
+        sentences:
+          - ancient: 【例句】潘岳悼亡犹费词。（唐•元稹《遣悲怀》）
+
