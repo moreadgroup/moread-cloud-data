@@ -1,0 +1,2001 @@
+words:
+  - seq: "1"
+    word: 阿
+  - seq: "2"
+    word: 啊
+  - seq: "3"
+    word: 哎
+  - seq: "4"
+    word: 哀
+  - seq: "5"
+    word: 唉
+  - seq: "6"
+    word: 埃
+  - seq: "7"
+    word: 挨
+  - seq: "8"
+    word: 癌
+  - seq: "9"
+    word: 矮
+  - seq: "10"
+    word: 艾
+  - seq: "11"
+    word: 爱
+  - seq: "12"
+    word: 碍
+  - seq: "13"
+    word: 安
+  - seq: "14"
+    word: 氨
+  - seq: "15"
+    word: 俺
+  - seq: "16"
+    word: 岸
+  - seq: "17"
+    word: 按
+  - seq: "18"
+    word: 案
+  - seq: "19"
+    word: 暗
+  - seq: "20"
+    word: 昂
+  - seq: "21"
+    word: 凹
+  - seq: "22"
+    word: 熬
+  - seq: "23"
+    word: 傲
+  - seq: "24"
+    word: 奥
+  - seq: "25"
+    word: 澳
+  - seq: "26"
+    word: 八
+  - seq: "27"
+    word: 巴
+  - seq: "28"
+    word: 叭
+  - seq: "29"
+    word: 吧
+  - seq: "30"
+    word: 拔
+  - seq: "31"
+    word: 把
+  - seq: "32"
+    word: 坝
+  - seq: "33"
+    word: 爸
+  - seq: "34"
+    word: 罢
+  - seq: "35"
+    word: 霸
+  - seq: "36"
+    word: 白
+  - seq: "37"
+    word: 百
+  - seq: "38"
+    word: 柏
+  - seq: "39"
+    word: 摆
+  - seq: "40"
+    word: 败
+  - seq: "41"
+    word: 拜
+  - seq: "42"
+    word: 班
+  - seq: "43"
+    word: 般
+  - seq: "44"
+    word: 颁
+  - seq: "45"
+    word: 斑
+  - seq: "46"
+    word: 搬
+  - seq: "47"
+    word: 板
+  - seq: "48"
+    word: 版
+  - seq: "49"
+    word: 办
+  - seq: "50"
+    word: 半
+  - seq: "51"
+    word: 伴
+  - seq: "52"
+    word: 扮
+  - seq: "53"
+    word: 瓣
+  - seq: "54"
+    word: 邦
+  - seq: "55"
+    word: 帮
+  - seq: "56"
+    word: 膀
+  - seq: "57"
+    word: 傍
+  - seq: "58"
+    word: 棒
+  - seq: "59"
+    word: 包
+  - seq: "60"
+    word: 胞
+  - seq: "61"
+    word: 宝
+  - seq: "62"
+    word: 饱
+  - seq: "63"
+    word: 保
+  - seq: "64"
+    word: 堡
+  - seq: "65"
+    word: 报
+  - seq: "66"
+    word: 抱
+  - seq: "67"
+    word: 豹
+  - seq: "68"
+    word: 暴
+  - seq: "69"
+    word: 爆
+  - seq: "70"
+    word: 卑
+  - seq: "71"
+    word: 杯
+  - seq: "72"
+    word: 悲
+  - seq: "73"
+    word: 碑
+  - seq: "74"
+    word: 北
+  - seq: "75"
+    word: 贝
+  - seq: "76"
+    word: 备
+  - seq: "77"
+    word: 背
+  - seq: "78"
+    word: 倍
+  - seq: "79"
+    word: 被
+  - seq: "80"
+    word: 辈
+  - seq: "81"
+    word: 奔
+  - seq: "82"
+    word: 本
+  - seq: "83"
+    word: 崩
+  - seq: "84"
+    word: 逼
+  - seq: "85"
+    word: 鼻
+  - seq: "86"
+    word: 比
+  - seq: "87"
+    word: 彼
+  - seq: "88"
+    word: 笔
+  - seq: "89"
+    word: 币
+  - seq: "90"
+    word: 必
+  - seq: "91"
+    word: 毕
+  - seq: "92"
+    word: 闭
+  - seq: "93"
+    word: 辟
+  - seq: "94"
+    word: 碧
+  - seq: "95"
+    word: 蔽
+  - seq: "96"
+    word: 壁
+  - seq: "97"
+    word: 避
+  - seq: "98"
+    word: 臂
+  - seq: "99"
+    word: 边
+  - seq: "100"
+    word: 编
+  - seq: "101"
+    word: 蝙
+  - seq: "102"
+    word: 鞭
+  - seq: "103"
+    word: 扁
+  - seq: "104"
+    word: 便
+  - seq: "105"
+    word: 变
+  - seq: "106"
+    word: 遍
+  - seq: "107"
+    word: 辨
+  - seq: "108"
+    word: 辩
+  - seq: "109"
+    word: 标
+  - seq: "110"
+    word: 表
+  - seq: "111"
+    word: 别
+  - seq: "112"
+    word: 宾
+  - seq: "113"
+    word: 滨
+  - seq: "114"
+    word: 冰
+  - seq: "115"
+    word: 兵
+  - seq: "116"
+    word: 丙
+  - seq: "117"
+    word: 柄
+  - seq: "118"
+    word: 饼
+  - seq: "119"
+    word: 并
+  - seq: "120"
+    word: 病
+  - seq: "121"
+    word: 拨
+  - seq: "122"
+    word: 波
+  - seq: "123"
+    word: 玻
+  - seq: "124"
+    word: 剥
+  - seq: "125"
+    word: 播
+  - seq: "126"
+    word: 脖
+  - seq: "127"
+    word: 伯
+  - seq: "128"
+    word: 驳
+  - seq: "129"
+    word: 泊
+  - seq: "130"
+    word: 勃
+  - seq: "131"
+    word: 博
+  - seq: "132"
+    word: 搏
+  - seq: "133"
+    word: 膊
+  - seq: "134"
+    word: 薄
+  - seq: "135"
+    word: 卜
+  - seq: "136"
+    word: 补
+  - seq: "137"
+    word: 捕
+  - seq: "138"
+    word: 不
+  - seq: "139"
+    word: 布
+  - seq: "140"
+    word: 步
+  - seq: "141"
+    word: 部
+  - seq: "142"
+    word: 擦
+  - seq: "143"
+    word: 猜
+  - seq: "144"
+    word: 才
+  - seq: "145"
+    word: 材
+  - seq: "146"
+    word: 财
+  - seq: "147"
+    word: 裁
+  - seq: "148"
+    word: 釆
+  - seq: "149"
+    word: 彩
+  - seq: "150"
+    word: 踩
+  - seq: "151"
+    word: 菜
+  - seq: "152"
+    word: 蔡
+  - seq: "153"
+    word: 参
+  - seq: "154"
+    word: 餐
+  - seq: "155"
+    word: 残
+  - seq: "156"
+    word: 蚕
+  - seq: "157"
+    word: 惨
+  - seq: "158"
+    word: 灿
+  - seq: "159"
+    word: 仓
+  - seq: "160"
+    word: 苍
+  - seq: "161"
+    word: 舱
+  - seq: "162"
+    word: 藏
+  - seq: "163"
+    word: 操
+  - seq: "164"
+    word: 曹
+  - seq: "165"
+    word: 槽
+  - seq: "166"
+    word: 草
+  - seq: "167"
+    word: 册
+  - seq: "168"
+    word: 侧
+  - seq: "169"
+    word: 测
+  - seq: "170"
+    word: 策
+  - seq: "171"
+    word: 层
+  - seq: "172"
+    word: 叉
+  - seq: "173"
+    word: 插
+  - seq: "174"
+    word: 查
+  - seq: "175"
+    word: 茶
+  - seq: "176"
+    word: 察
+  - seq: "177"
+    word: 差
+  - seq: "178"
+    word: 拆
+  - seq: "179"
+    word: 柴
+  - seq: "180"
+    word: 缠
+  - seq: "181"
+    word: 产
+  - seq: "182"
+    word: 阐
+  - seq: "183"
+    word: 颤
+  - seq: "184"
+    word: 昌
+  - seq: "185"
+    word: 长
+  - seq: "186"
+    word: 肠
+  - seq: "187"
+    word: 尝
+  - seq: "188"
+    word: 偿
+  - seq: "189"
+    word: 常
+  - seq: "190"
+    word: 厂
+  - seq: "191"
+    word: 场
+  - seq: "192"
+    word: 畅
+  - seq: "193"
+    word: 倡
+  - seq: "194"
+    word: 唱
+  - seq: "195"
+    word: 抄
+  - seq: "196"
+    word: 超
+  - seq: "197"
+    word: 巢
+  - seq: "198"
+    word: 朝
+  - seq: "199"
+    word: 潮
+  - seq: "200"
+    word: 吵
+  - seq: "201"
+    word: 炒
+  - seq: "202"
+    word: 车
+  - seq: "203"
+    word: 扯
+  - seq: "204"
+    word: 彻
+  - seq: "205"
+    word: 撤
+  - seq: "206"
+    word: 尘
+  - seq: "207"
+    word: 臣
+  - seq: "208"
+    word: 沉
+  - seq: "209"
+    word: 陈
+  - seq: "210"
+    word: 晨
+  - seq: "211"
+    word: 衬
+  - seq: "212"
+    word: 称
+  - seq: "213"
+    word: 趁
+  - seq: "214"
+    word: 撑
+  - seq: "215"
+    word: 成
+  - seq: "216"
+    word: 呈
+  - seq: "217"
+    word: 承
+  - seq: "218"
+    word: 诚
+  - seq: "219"
+    word: 城
+  - seq: "220"
+    word: 乘
+  - seq: "221"
+    word: 惩
+  - seq: "222"
+    word: 程
+  - seq: "223"
+    word: 橙
+  - seq: "224"
+    word: 吃
+  - seq: "225"
+    word: 池
+  - seq: "226"
+    word: 驰
+  - seq: "227"
+    word: 迟
+  - seq: "228"
+    word: 持
+  - seq: "229"
+    word: 匙
+  - seq: "230"
+    word: 尺
+  - seq: "231"
+    word: 齿
+  - seq: "232"
+    word: 斥
+  - seq: "233"
+    word: 赤
+  - seq: "234"
+    word: 翅
+  - seq: "235"
+    word: 充
+  - seq: "236"
+    word: 冲
+  - seq: "237"
+    word: 虫
+  - seq: "238"
+    word: 崇
+  - seq: "239"
+    word: 抽
+  - seq: "240"
+    word: 仇
+  - seq: "241"
+    word: 绸
+  - seq: "242"
+    word: 愁
+  - seq: "243"
+    word: 筹
+  - seq: "244"
+    word: 酬
+  - seq: "245"
+    word: 丑
+  - seq: "246"
+    word: 瞅
+  - seq: "247"
+    word: 臭
+  - seq: "248"
+    word: 出
+  - seq: "249"
+    word: 初
+  - seq: "250"
+    word: 除
+  - seq: "251"
+    word: 厨
+  - seq: "252"
+    word: 础
+  - seq: "253"
+    word: 储
+  - seq: "254"
+    word: 楚
+  - seq: "255"
+    word: 处
+  - seq: "256"
+    word: 触
+  - seq: "257"
+    word: 川
+  - seq: "258"
+    word: 穿
+  - seq: "259"
+    word: 传
+  - seq: "260"
+    word: 船
+  - seq: "261"
+    word: 喘
+  - seq: "262"
+    word: 串
+  - seq: "263"
+    word: 窗
+  - seq: "264"
+    word: 床
+  - seq: "265"
+    word: 闯
+  - seq: "266"
+    word: 创
+  - seq: "267"
+    word: 吹
+  - seq: "268"
+    word: 垂
+  - seq: "269"
+    word: 锤
+  - seq: "270"
+    word: 春
+  - seq: "271"
+    word: 纯
+  - seq: "272"
+    word: 唇
+  - seq: "273"
+    word: 醇
+  - seq: "274"
+    word: 词
+  - seq: "275"
+    word: 瓷
+  - seq: "276"
+    word: 慈
+  - seq: "277"
+    word: 辞
+  - seq: "278"
+    word: 磁
+  - seq: "279"
+    word: 雌
+  - seq: "280"
+    word: 此
+  - seq: "281"
+    word: 次
+  - seq: "282"
+    word: 刺
+  - seq: "283"
+    word: 匆
+  - seq: "284"
+    word: 葱
+  - seq: "285"
+    word: 聪
+  - seq: "286"
+    word: 从
+  - seq: "287"
+    word: 丛
+  - seq: "288"
+    word: 凑
+  - seq: "289"
+    word: 粗
+  - seq: "290"
+    word: 促
+  - seq: "291"
+    word: 催
+  - seq: "292"
+    word: 脆
+  - seq: "293"
+    word: 翠
+  - seq: "294"
+    word: 村
+  - seq: "295"
+    word: 存
+  - seq: "296"
+    word: 寸
+  - seq: "297"
+    word: 措
+  - seq: "298"
+    word: 错
+  - seq: "299"
+    word: 搭
+  - seq: "300"
+    word: 达
+  - seq: "301"
+    word: 答
+  - seq: "302"
+    word: 打
+  - seq: "303"
+    word: 大
+  - seq: "304"
+    word: 呆
+  - seq: "305"
+    word: 代
+  - seq: "306"
+    word: 带
+  - seq: "307"
+    word: 待
+  - seq: "308"
+    word: 袋
+  - seq: "309"
+    word: 逮
+  - seq: "310"
+    word: 戴
+  - seq: "311"
+    word: 丹
+  - seq: "312"
+    word: 单
+  - seq: "313"
+    word: 担
+  - seq: "314"
+    word: 胆
+  - seq: "315"
+    word: 旦
+  - seq: "316"
+    word: 但
+  - seq: "317"
+    word: 诞
+  - seq: "318"
+    word: 弹
+  - seq: "319"
+    word: 淡
+  - seq: "320"
+    word: 蛋
+  - seq: "321"
+    word: 氮
+  - seq: "322"
+    word: 当
+  - seq: "323"
+    word: 挡
+  - seq: "324"
+    word: 党
+  - seq: "325"
+    word: 荡
+  - seq: "326"
+    word: 刀
+  - seq: "327"
+    word: 导
+  - seq: "328"
+    word: 岛
+  - seq: "329"
+    word: 倒
+  - seq: "330"
+    word: 蹈
+  - seq: "331"
+    word: 到
+  - seq: "332"
+    word: 盗
+  - seq: "333"
+    word: 道
+  - seq: "334"
+    word: 稻
+  - seq: "335"
+    word: 得
+  - seq: "336"
+    word: 德
+  - seq: "337"
+    word: 的
+  - seq: "338"
+    word: 灯
+  - seq: "339"
+    word: 登
+  - seq: "340"
+    word: 等
+  - seq: "341"
+    word: 邓
+  - seq: "342"
+    word: 凳
+  - seq: "343"
+    word: 瞪
+  - seq: "344"
+    word: 低
+  - seq: "345"
+    word: 堤
+  - seq: "346"
+    word: 滴
+  - seq: "347"
+    word: 迪
+  - seq: "348"
+    word: 敌
+  - seq: "349"
+    word: 笛
+  - seq: "350"
+    word: 底
+  - seq: "351"
+    word: 抵
+  - seq: "352"
+    word: 地
+  - seq: "353"
+    word: 弟
+  - seq: "354"
+    word: 帝
+  - seq: "355"
+    word: 递
+  - seq: "356"
+    word: 第
+  - seq: "357"
+    word: 颠
+  - seq: "358"
+    word: 典
+  - seq: "359"
+    word: 点
+  - seq: "360"
+    word: 电
+  - seq: "361"
+    word: 店
+  - seq: "362"
+    word: 垫
+  - seq: "363"
+    word: 淀
+  - seq: "364"
+    word: 殿
+  - seq: "365"
+    word: 雕
+  - seq: "366"
+    word: 吊
+  - seq: "367"
+    word: 钓
+  - seq: "368"
+    word: 调
+  - seq: "369"
+    word: 掉
+  - seq: "370"
+    word: 爹
+  - seq: "371"
+    word: 跌
+  - seq: "372"
+    word: 叠
+  - seq: "373"
+    word: 蝶
+  - seq: "374"
+    word: 丁
+  - seq: "375"
+    word: 叮
+  - seq: "376"
+    word: 盯
+  - seq: "377"
+    word: 钉
+  - seq: "378"
+    word: 顶
+  - seq: "379"
+    word: 订
+  - seq: "380"
+    word: 定
+  - seq: "381"
+    word: 丢
+  - seq: "382"
+    word: 东
+  - seq: "383"
+    word: 冬
+  - seq: "384"
+    word: 懂
+  - seq: "385"
+    word: 动
+  - seq: "386"
+    word: 冻
+  - seq: "387"
+    word: 洞
+  - seq: "388"
+    word: 都
+  - seq: "389"
+    word: 斗
+  - seq: "390"
+    word: 抖
+  - seq: "391"
+    word: 陡
+  - seq: "392"
+    word: 豆
+  - seq: "393"
+    word: 督
+  - seq: "394"
+    word: 毒
+  - seq: "395"
+    word: 读
+  - seq: "396"
+    word: 独
+  - seq: "397"
+    word: 堵
+  - seq: "398"
+    word: 赌
+  - seq: "399"
+    word: 杜
+  - seq: "400"
+    word: 肚
+  - seq: "401"
+    word: 度
+  - seq: "402"
+    word: 渡
+  - seq: "403"
+    word: 端
+  - seq: "404"
+    word: 短
+  - seq: "405"
+    word: 段
+  - seq: "406"
+    word: 断
+  - seq: "407"
+    word: 锻
+  - seq: "408"
+    word: 堆
+  - seq: "409"
+    word: 队
+  - seq: "410"
+    word: 对
+  - seq: "411"
+    word: 吨
+  - seq: "412"
+    word: 敦
+  - seq: "413"
+    word: 蹲
+  - seq: "414"
+    word: 盾
+  - seq: "415"
+    word: 顿
+  - seq: "416"
+    word: 多
+  - seq: "417"
+    word: 夺
+  - seq: "418"
+    word: 朵
+  - seq: "419"
+    word: 躲
+  - seq: "420"
+    word: 俄
+  - seq: "421"
+    word: 鹅
+  - seq: "422"
+    word: 额
+  - seq: "423"
+    word: 恶
+  - seq: "424"
+    word: 饿
+  - seq: "425"
+    word: 鳄
+  - seq: "426"
+    word: 恩
+  - seq: "427"
+    word: 儿
+  - seq: "428"
+    word: 而
+  - seq: "429"
+    word: 尔
+  - seq: "430"
+    word: 耳
+  - seq: "431"
+    word: 二
+  - seq: "432"
+    word: 发
+  - seq: "433"
+    word: 乏
+  - seq: "434"
+    word: 伐
+  - seq: "435"
+    word: 罚
+  - seq: "436"
+    word: 阀
+  - seq: "437"
+    word: 法
+  - seq: "438"
+    word: 帆
+  - seq: "439"
+    word: 番
+  - seq: "440"
+    word: 翻
+  - seq: "441"
+    word: 凡
+  - seq: "442"
+    word: 烦
+  - seq: "443"
+    word: 繁
+  - seq: "444"
+    word: 反
+  - seq: "445"
+    word: 返
+  - seq: "446"
+    word: 犯
+  - seq: "447"
+    word: 泛
+  - seq: "448"
+    word: 饭
+  - seq: "449"
+    word: 范
+  - seq: "450"
+    word: 贩
+  - seq: "451"
+    word: 方
+  - seq: "452"
+    word: 坊
+  - seq: "453"
+    word: 芳
+  - seq: "454"
+    word: 防
+  - seq: "455"
+    word: 妨
+  - seq: "456"
+    word: 房
+  - seq: "457"
+    word: 肪
+  - seq: "458"
+    word: 仿
+  - seq: "459"
+    word: 访
+  - seq: "460"
+    word: 纺
+  - seq: "461"
+    word: 放
+  - seq: "462"
+    word: 飞
+  - seq: "463"
+    word: 非
+  - seq: "464"
+    word: 啡
+  - seq: "465"
+    word: 菲
+  - seq: "466"
+    word: 肥
+  - seq: "467"
+    word: 废
+  - seq: "468"
+    word: 沸
+  - seq: "469"
+    word: 肺
+  - seq: "470"
+    word: 费
+  - seq: "471"
+    word: 分
+  - seq: "472"
+    word: 纷
+  - seq: "473"
+    word: 芬
+  - seq: "474"
+    word: 坟
+  - seq: "475"
+    word: 粉
+  - seq: "476"
+    word: 份
+  - seq: "477"
+    word: 奋
+  - seq: "478"
+    word: 愤
+  - seq: "479"
+    word: 粪
+  - seq: "480"
+    word: 丰
+  - seq: "481"
+    word: 风
+  - seq: "482"
+    word: 枫
+  - seq: "483"
+    word: 封
+  - seq: "484"
+    word: 疯
+  - seq: "485"
+    word: 峰
+  - seq: "486"
+    word: 锋
+  - seq: "487"
+    word: 蜂
+  - seq: "488"
+    word: 冯
+  - seq: "489"
+    word: 逢
+  - seq: "490"
+    word: 缝
+  - seq: "491"
+    word: 凤
+  - seq: "492"
+    word: 奉
+  - seq: "493"
+    word: 佛
+  - seq: "494"
+    word: 否
+  - seq: "495"
+    word: 夫
+  - seq: "496"
+    word: 肤
+  - seq: "497"
+    word: 孵
+  - seq: "498"
+    word: 弗
+  - seq: "499"
+    word: 伏
+  - seq: "500"
+    word: 扶
+  - seq: "501"
+    word: 服
+  - seq: "502"
+    word: 浮
+  - seq: "503"
+    word: 符
+  - seq: "504"
+    word: 幅
+  - seq: "505"
+    word: 福
+  - seq: "506"
+    word: 辐
+  - seq: "507"
+    word: 蝠
+  - seq: "508"
+    word: 抚
+  - seq: "509"
+    word: 府
+  - seq: "510"
+    word: 辅
+  - seq: "511"
+    word: 腐
+  - seq: "512"
+    word: 父
+  - seq: "513"
+    word: 付
+  - seq: "514"
+    word: 妇
+  - seq: "515"
+    word: 负
+  - seq: "516"
+    word: 附
+  - seq: "517"
+    word: 复
+  - seq: "518"
+    word: 赴
+  - seq: "519"
+    word: 副
+  - seq: "520"
+    word: 傅
+  - seq: "521"
+    word: 富
+  - seq: "522"
+    word: 赋
+  - seq: "523"
+    word: 腹
+  - seq: "524"
+    word: 覆
+  - seq: "525"
+    word: 该
+  - seq: "526"
+    word: 改
+  - seq: "527"
+    word: 钙
+  - seq: "528"
+    word: 盖
+  - seq: "529"
+    word: 溉
+  - seq: "530"
+    word: 概
+  - seq: "531"
+    word: 干
+  - seq: "532"
+    word: 甘
+  - seq: "533"
+    word: 杆
+  - seq: "534"
+    word: 肝
+  - seq: "535"
+    word: 赶
+  - seq: "536"
+    word: 敢
+  - seq: "537"
+    word: 感
+  - seq: "538"
+    word: 刚
+  - seq: "539"
+    word: 纲
+  - seq: "540"
+    word: 缸
+  - seq: "541"
+    word: 钢
+  - seq: "542"
+    word: 岗
+  - seq: "543"
+    word: 港
+  - seq: "544"
+    word: 高
+  - seq: "545"
+    word: 搞
+  - seq: "546"
+    word: 稿
+  - seq: "547"
+    word: 告
+  - seq: "548"
+    word: 戈
+  - seq: "549"
+    word: 哥
+  - seq: "550"
+    word: 胳
+  - seq: "551"
+    word: 鸽
+  - seq: "552"
+    word: 割
+  - seq: "553"
+    word: 歌
+  - seq: "554"
+    word: 阁
+  - seq: "555"
+    word: 革
+  - seq: "556"
+    word: 格
+  - seq: "557"
+    word: 隔
+  - seq: "558"
+    word: 葛
+  - seq: "559"
+    word: 个
+  - seq: "560"
+    word: 各
+  - seq: "561"
+    word: 给
+  - seq: "562"
+    word: 根
+  - seq: "563"
+    word: 跟
+  - seq: "564"
+    word: 更
+  - seq: "565"
+    word: 耕
+  - seq: "566"
+    word: 工
+  - seq: "567"
+    word: 弓
+  - seq: "568"
+    word: 公
+  - seq: "569"
+    word: 功
+  - seq: "570"
+    word: 攻
+  - seq: "571"
+    word: 供
+  - seq: "572"
+    word: 官
+  - seq: "573"
+    word: 恭
+  - seq: "574"
+    word: 巩
+  - seq: "575"
+    word: 拱
+  - seq: "576"
+    word: 共
+  - seq: "577"
+    word: 贡
+  - seq: "578"
+    word: 勾
+  - seq: "579"
+    word: 沟
+  - seq: "580"
+    word: 钩
+  - seq: "581"
+    word: 狗
+  - seq: "582"
+    word: 构
+  - seq: "583"
+    word: 购
+  - seq: "584"
+    word: 够
+  - seq: "585"
+    word: 估
+  - seq: "586"
+    word: 咕
+  - seq: "587"
+    word: 姑
+  - seq: "588"
+    word: 孤
+  - seq: "589"
+    word: 菇
+  - seq: "590"
+    word: 古
+  - seq: "591"
+    word: 谷
+  - seq: "592"
+    word: 股
+  - seq: "593"
+    word: 骨
+  - seq: "594"
+    word: 鼓
+  - seq: "595"
+    word: 固
+  - seq: "596"
+    word: 故
+  - seq: "597"
+    word: 顾
+  - seq: "598"
+    word: 瓜
+  - seq: "599"
+    word: 刮
+  - seq: "600"
+    word: 挂
+  - seq: "601"
+    word: 拐
+  - seq: "602"
+    word: 怪
+  - seq: "603"
+    word: 关
+  - seq: "604"
+    word: 观
+  - seq: "605"
+    word: 官
+  - seq: "606"
+    word: 冠
+  - seq: "607"
+    word: 馆
+  - seq: "608"
+    word: 管
+  - seq: "609"
+    word: 贯
+  - seq: "610"
+    word: 惯
+  - seq: "611"
+    word: 灌
+  - seq: "612"
+    word: 罐
+  - seq: "613"
+    word: 光
+  - seq: "614"
+    word: 广
+  - seq: "615"
+    word: 归
+  - seq: "616"
+    word: 龟
+  - seq: "617"
+    word: 规
+  - seq: "618"
+    word: 硅
+  - seq: "619"
+    word: 轨
+  - seq: "620"
+    word: 鬼
+  - seq: "621"
+    word: 柜
+  - seq: "622"
+    word: 贵
+  - seq: "623"
+    word: 桂
+  - seq: "624"
+    word: 滚
+  - seq: "625"
+    word: 棍
+  - seq: "626"
+    word: 郭
+  - seq: "627"
+    word: 锅
+  - seq: "628"
+    word: 国
+  - seq: "629"
+    word: 果
+  - seq: "630"
+    word: 裹
+  - seq: "631"
+    word: 过
+  - seq: "632"
+    word: 哈
+  - seq: "633"
+    word: 孩
+  - seq: "634"
+    word: 海
+  - seq: "635"
+    word: 害
+  - seq: "636"
+    word: 含
+  - seq: "637"
+    word: 函
+  - seq: "638"
+    word: 寒
+  - seq: "639"
+    word: 韩
+  - seq: "640"
+    word: 罕
+  - seq: "641"
+    word: 喊
+  - seq: "642"
+    word: 汉
+  - seq: "643"
+    word: 汗
+  - seq: "644"
+    word: 旱
+  - seq: "645"
+    word: 杭
+  - seq: "646"
+    word: 航
+  - seq: "647"
+    word: 毫
+  - seq: "648"
+    word: 豪
+  - seq: "649"
+    word: 好
+  - seq: "650"
+    word: 号
+  - seq: "651"
+    word: 浩
+  - seq: "652"
+    word: 耗
+  - seq: "653"
+    word: 呵
+  - seq: "654"
+    word: 喝
+  - seq: "655"
+    word: 合
+  - seq: "656"
+    word: 何
+  - seq: "657"
+    word: 和
+  - seq: "658"
+    word: 河
+  - seq: "659"
+    word: 核
+  - seq: "660"
+    word: 荷
+  - seq: "661"
+    word: 盒
+  - seq: "662"
+    word: 贺
+  - seq: "663"
+    word: 褐
+  - seq: "664"
+    word: 赫
+  - seq: "665"
+    word: 鹤
+  - seq: "666"
+    word: 黑
+  - seq: "667"
+    word: 嘿
+  - seq: "668"
+    word: 痕
+  - seq: "669"
+    word: 很
+  - seq: "670"
+    word: 狠
+  - seq: "671"
+    word: 恨
+  - seq: "672"
+    word: 哼
+  - seq: "673"
+    word: 恒
+  - seq: "674"
+    word: 横
+  - seq: "675"
+    word: 衡
+  - seq: "676"
+    word: 轰
+  - seq: "677"
+    word: 哄
+  - seq: "678"
+    word: 红
+  - seq: "679"
+    word: 宏
+  - seq: "680"
+    word: 洪
+  - seq: "681"
+    word: 虹
+  - seq: "682"
+    word: 鸿
+  - seq: "683"
+    word: 侯
+  - seq: "684"
+    word: 喉
+  - seq: "685"
+    word: 猴
+  - seq: "686"
+    word: 吼
+  - seq: "687"
+    word: 后
+  - seq: "688"
+    word: 厚
+  - seq: "689"
+    word: 候
+  - seq: "690"
+    word: 乎
+  - seq: "691"
+    word: 呼
+  - seq: "692"
+    word: 忽
+  - seq: "693"
+    word: 狐
+  - seq: "694"
+    word: 胡
+  - seq: "695"
+    word: 壶
+  - seq: "696"
+    word: 湖
+  - seq: "697"
+    word: 葫
+  - seq: "698"
+    word: 糊
+  - seq: "699"
+    word: 蝴
+  - seq: "700"
+    word: 虎
+  - seq: "701"
+    word: 互
+  - seq: "702"
+    word: 户
+  - seq: "703"
+    word: 护
+  - seq: "704"
+    word: 花
+  - seq: "705"
+    word: 华
+  - seq: "706"
+    word: 哗
+  - seq: "707"
+    word: 滑
+  - seq: "708"
+    word: 化
+  - seq: "709"
+    word: 划
+  - seq: "710"
+    word: 画
+  - seq: "711"
+    word: 话
+  - seq: "712"
+    word: 桦
+  - seq: "713"
+    word: 怀
+  - seq: "714"
+    word: 淮
+  - seq: "715"
+    word: 坏
+  - seq: "716"
+    word: 欢
+  - seq: "717"
+    word: 还
+  - seq: "718"
+    word: 环
+  - seq: "719"
+    word: 缓
+  - seq: "720"
+    word: 幻
+  - seq: "721"
+    word: 唤
+  - seq: "722"
+    word: 换
+  - seq: "723"
+    word: 患
+  - seq: "724"
+    word: 荒
+  - seq: "725"
+    word: 慌
+  - seq: "726"
+    word: 皇
+  - seq: "727"
+    word: 黄
+  - seq: "728"
+    word: 煌
+  - seq: "729"
+    word: 晃
+  - seq: "730"
+    word: 灰
+  - seq: "731"
+    word: 恢
+  - seq: "732"
+    word: 挥
+  - seq: "733"
+    word: 辉
+  - seq: "734"
+    word: 徽
+  - seq: "735"
+    word: 回
+  - seq: "736"
+    word: 毁
+  - seq: "737"
+    word: 悔
+  - seq: "738"
+    word: 汇
+  - seq: "739"
+    word: 会
+  - seq: "740"
+    word: 绘
+  - seq: "741"
+    word: 惠
+  - seq: "742"
+    word: 慧
+  - seq: "743"
+    word: 昏
+  - seq: "744"
+    word: 婚
+  - seq: "745"
+    word: 浑
+  - seq: "746"
+    word: 魂
+  - seq: "747"
+    word: 混
+  - seq: "748"
+    word: 活
+  - seq: "749"
+    word: 火
+  - seq: "750"
+    word: 伙
+  - seq: "751"
+    word: 或
+  - seq: "752"
+    word: 货
+  - seq: "753"
+    word: 获
+  - seq: "754"
+    word: 祸
+  - seq: "755"
+    word: 惑
+  - seq: "756"
+    word: 霍
+  - seq: "757"
+    word: 击
+  - seq: "758"
+    word: 饥
+  - seq: "759"
+    word: 圾
+  - seq: "760"
+    word: 机
+  - seq: "761"
+    word: 肌
+  - seq: "762"
+    word: 鸡
+  - seq: "763"
+    word: 积
+  - seq: "764"
+    word: 基
+  - seq: "765"
+    word: 绩
+  - seq: "766"
+    word: 激
+  - seq: "767"
+    word: 及
+  - seq: "768"
+    word: 吉
+  - seq: "769"
+    word: 级
+  - seq: "770"
+    word: 即
+  - seq: "771"
+    word: 极
+  - seq: "772"
+    word: 急
+  - seq: "773"
+    word: 疾
+  - seq: "774"
+    word: 集
+  - seq: "775"
+    word: 辑
+  - seq: "776"
+    word: 籍
+  - seq: "777"
+    word: 几
+  - seq: "778"
+    word: 己
+  - seq: "779"
+    word: 挤
+  - seq: "780"
+    word: 脊
+  - seq: "781"
+    word: 计
+  - seq: "782"
+    word: 记
+  - seq: "783"
+    word: 纪
+  - seq: "784"
+    word: 迹
+  - seq: "785"
+    word: 技
+  - seq: "786"
+    word: 际
+  - seq: "787"
+    word: 剂
+  - seq: "788"
+    word: 季
+  - seq: "789"
+    word: 既
+  - seq: "790"
+    word: 济
+  - seq: "791"
+    word: 继
+  - seq: "792"
+    word: 寂
+  - seq: "793"
+    word: 寄
+  - seq: "794"
+    word: 忌
+  - seq: "795"
+    word: 加
+  - seq: "796"
+    word: 夹
+  - seq: "797"
+    word: 佳
+  - seq: "798"
+    word: 家
+  - seq: "799"
+    word: 嘉
+  - seq: "800"
+    word: 甲
+  - seq: "801"
+    word: 贾
+  - seq: "802"
+    word: 钾
+  - seq: "803"
+    word: 价
+  - seq: "804"
+    word: 驾
+  - seq: "805"
+    word: 架
+  - seq: "806"
+    word: 假
+  - seq: "807"
+    word: 嫁
+  - seq: "808"
+    word: 稼
+  - seq: "809"
+    word: 尖
+  - seq: "810"
+    word: 坚
+  - seq: "811"
+    word: 间
+  - seq: "812"
+    word: 肩
+  - seq: "813"
+    word: 艰
+  - seq: "814"
+    word: 兼
+  - seq: "815"
+    word: 监
+  - seq: "816"
+    word: 减
+  - seq: "817"
+    word: 剪
+  - seq: "818"
+    word: 检
+  - seq: "819"
+    word: 简
+  - seq: "820"
+    word: 碱
+  - seq: "821"
+    word: 见
+  - seq: "822"
+    word: 件
+  - seq: "823"
+    word: 建
+  - seq: "824"
+    word: 剑
+  - seq: "825"
+    word: 健
+  - seq: "826"
+    word: 舰
+  - seq: "827"
+    word: 渐
+  - seq: "828"
+    word: 践
+  - seq: "829"
+    word: 鉴
+  - seq: "830"
+    word: 键
+  - seq: "831"
+    word: 箭
+  - seq: "832"
+    word: 江
+  - seq: "833"
+    word: 姜
+  - seq: "834"
+    word: 将
+  - seq: "835"
+    word: 浆
+  - seq: "836"
+    word: 僵
+  - seq: "837"
+    word: 疆
+  - seq: "838"
+    word: 讲
+  - seq: "839"
+    word: 奖
+  - seq: "840"
+    word: 蒋
+  - seq: "841"
+    word: 匠
+  - seq: "842"
+    word: 降
+  - seq: "843"
+    word: 交
+  - seq: "844"
+    word: 郊
+  - seq: "845"
+    word: 娇
+  - seq: "846"
+    word: 浇
+  - seq: "847"
+    word: 骄
+  - seq: "848"
+    word: 胶
+  - seq: "849"
+    word: 焦
+  - seq: "850"
+    word: 礁
+  - seq: "851"
+    word: 角
+  - seq: "852"
+    word: 脚
+  - seq: "853"
+    word: 搅
+  - seq: "854"
+    word: 叫
+  - seq: "855"
+    word: 轿
+  - seq: "856"
+    word: 较
+  - seq: "857"
+    word: 教
+  - seq: "858"
+    word: 阶
+  - seq: "859"
+    word: 皆
+  - seq: "860"
+    word: 接
+  - seq: "861"
+    word: 揭
+  - seq: "862"
+    word: 街
+  - seq: "863"
+    word: 节
+  - seq: "864"
+    word: 劫
+  - seq: "865"
+    word: 杰
+  - seq: "866"
+    word: 洁
+  - seq: "867"
+    word: 结
+  - seq: "868"
+    word: 捷
+  - seq: "869"
+    word: 截
+  - seq: "870"
+    word: 竭
+  - seq: "871"
+    word: 姐
+  - seq: "872"
+    word: 解
+  - seq: "873"
+    word: 介
+  - seq: "874"
+    word: 戒
+  - seq: "875"
+    word: 届
+  - seq: "876"
+    word: 界
+  - seq: "877"
+    word: 借
+  - seq: "878"
+    word: 巾
+  - seq: "879"
+    word: 今
+  - seq: "880"
+    word: 斤
+  - seq: "881"
+    word: 金
+  - seq: "882"
+    word: 津
+  - seq: "883"
+    word: 筋
+  - seq: "884"
+    word: 仅
+  - seq: "885"
+    word: 紧
+  - seq: "886"
+    word: 锦
+  - seq: "887"
+    word: 尽
+  - seq: "888"
+    word: 劲
+  - seq: "889"
+    word: 近
+  - seq: "890"
+    word: 进
+  - seq: "891"
+    word: 晋
+  - seq: "892"
+    word: 浸
+  - seq: "893"
+    word: 禁
+  - seq: "894"
+    word: 京
+  - seq: "895"
+    word: 经
+  - seq: "896"
+    word: 茎
+  - seq: "897"
+    word: 惊
+  - seq: "898"
+    word: 晶
+  - seq: "899"
+    word: 睛
+  - seq: "900"
+    word: 精
+  - seq: "901"
+    word: 鲸
+  - seq: "902"
+    word: 井
+  - seq: "903"
+    word: 颈
+  - seq: "904"
+    word: 景
+  - seq: "905"
+    word: 警
+  - seq: "906"
+    word: 净
+  - seq: "907"
+    word: 径
+  - seq: "908"
+    word: 竞
+  - seq: "909"
+    word: 竟
+  - seq: "910"
+    word: 敬
+  - seq: "911"
+    word: 境
+  - seq: "912"
+    word: 静
+  - seq: "913"
+    word: 镜
+  - seq: "914"
+    word: 纠
+  - seq: "915"
+    word: 究
+  - seq: "916"
+    word: 九
+  - seq: "917"
+    word: 久
+  - seq: "918"
+    word: 酒
+  - seq: "919"
+    word: 旧
+  - seq: "920"
+    word: 救
+  - seq: "921"
+    word: 就
+  - seq: "922"
+    word: 舅
+  - seq: "923"
+    word: 居
+  - seq: "924"
+    word: 局
+  - seq: "925"
+    word: 菊
+  - seq: "926"
+    word: 橘
+  - seq: "927"
+    word: 举
+  - seq: "928"
+    word: 矩
+  - seq: "929"
+    word: 句
+  - seq: "930"
+    word: 巨
+  - seq: "931"
+    word: 拒
+  - seq: "932"
+    word: 具
+  - seq: "933"
+    word: 俱
+  - seq: "934"
+    word: 剧
+  - seq: "935"
+    word: 惧
+  - seq: "936"
+    word: 据
+  - seq: "937"
+    word: 距
+  - seq: "938"
+    word: 聚
+  - seq: "939"
+    word: 卷
+  - seq: "940"
+    word: 倦
+  - seq: "941"
+    word: 决
+  - seq: "942"
+    word: 绝
+  - seq: "943"
+    word: 觉
+  - seq: "944"
+    word: 掘
+  - seq: "945"
+    word: 嚼
+  - seq: "946"
+    word: 军
+  - seq: "947"
+    word: 君
+  - seq: "948"
+    word: 均
+  - seq: "949"
+    word: 菌
+  - seq: "950"
+    word: 俊
+  - seq: "951"
+    word: 峻
+  - seq: "952"
+    word: 卡
+  - seq: "953"
+    word: 开
+  - seq: "954"
+    word: 凯
+  - seq: "955"
+    word: 慨
+  - seq: "956"
+    word: 刊
+  - seq: "957"
+    word: 堪
+  - seq: "958"
+    word: 砍
+  - seq: "959"
+    word: 看
+  - seq: "960"
+    word: 康
+  - seq: "961"
+    word: 抗
+  - seq: "962"
+    word: 炕
+  - seq: "963"
+    word: 考
+  - seq: "964"
+    word: 烤
+  - seq: "965"
+    word: 靠
+  - seq: "966"
+    word: 科
+  - seq: "967"
+    word: 棵
+  - seq: "968"
+    word: 颗
+  - seq: "969"
+    word: 壳
+  - seq: "970"
+    word: 咳
+  - seq: "971"
+    word: 可
+  - seq: "972"
+    word: 渴
+  - seq: "973"
+    word: 克
+  - seq: "974"
+    word: 刻
+  - seq: "975"
+    word: 客
+  - seq: "976"
+    word: 课
+  - seq: "977"
+    word: 肯
+  - seq: "978"
+    word: 坑
+  - seq: "979"
+    word: 空
+  - seq: "980"
+    word: 孔
+  - seq: "981"
+    word: 恐
+  - seq: "982"
+    word: 控
+  - seq: "983"
+    word: 口
+  - seq: "984"
+    word: 扣
+  - seq: "985"
+    word: 枯
+  - seq: "986"
+    word: 哭
+  - seq: "987"
+    word: 苦
+  - seq: "988"
+    word: 库
+  - seq: "989"
+    word: 裤
+  - seq: "990"
+    word: 酷
+  - seq: "991"
+    word: 夸
+  - seq: "992"
+    word: 跨
+  - seq: "993"
+    word: 块
+  - seq: "994"
+    word: 快
+  - seq: "995"
+    word: 宽
+  - seq: "996"
+    word: 款
+  - seq: "997"
+    word: 狂
+  - seq: "998"
+    word: 况
+  - seq: "999"
+    word: 矿
+  - seq: "1000"
+    word: 亏

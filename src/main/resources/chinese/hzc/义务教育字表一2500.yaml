@@ -3152,7 +3152,7 @@ words:
 - seq: '1576'
   word: 赏
 - seq: '1577'
-  word: ±
+  word: 上 
 - seq: '1578'
   word: 尚
 - seq: '1579'
@@ -3658,7 +3658,7 @@ words:
 - seq: '1829'
   word: 屠
 - seq: '1830'
-  word: ±
+  word: 土
 - seq: '1831'
   word: 吐
 - seq: '1832'
@@ -3910,7 +3910,7 @@ words:
 - seq: '1955'
   word: 霞
 - seq: '1956'
-  word: T
+  word: 下
 - seq: '1957'
   word: 吓
 - seq: '1958'
@@ -4288,7 +4288,7 @@ words:
 - seq: '2144'
   word: 液
 - seq: '2145'
-  word: —
+  word: 一 
 - seq: '2146'
   word: 伊
 - seq: '2147'
