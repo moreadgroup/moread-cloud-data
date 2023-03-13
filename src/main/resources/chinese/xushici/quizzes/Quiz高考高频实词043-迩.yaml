@@ -1,9 +1,23 @@
 ---
 quizzes:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+  - word: 迩
+    type: 【形容词】
+    phonetic: er
+    trans: ❶近。
+    ancient: 其称文小而其指极大，举类<迩>而见义远。（《史记・屈原贾生列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 迩
+    type: 【形容词】
+    phonetic: er
+    trans: ❶近。
+    ancient: "<迩>年狱讼,情稍重，京兆、五城即不敢专决。（《狱中杂记》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 迩
+    type: 【形容词】
+    phonetic: er
+    trans: ❷浅近。
+    ancient: 以大知（通"智"）而察及<迩>言，非苟为谦，诚取善之弘也。（清•刘开《问说》）
     url: xxxx
     vernacular: xxxx

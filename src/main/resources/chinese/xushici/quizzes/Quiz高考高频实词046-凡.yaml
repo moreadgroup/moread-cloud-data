@@ -1,9 +1,100 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 凡
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: fan2
+    trans: 尘世，宗教、神话等所指的人世间。
+    ancient: "地灵连海岱,境胜隔仙<凡>。（元•王悻《灵岩寺二十六韵》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 凡
+    type: 【形容词】
+    phonetic: fan2
+    trans: 平常;普通。
+    ancient: 巨（吴巨）是<凡>人，偏在远郡，行将为人所并，岂足托乎！（《密治通鉴•汉纪五十七》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 凡
+    type: 【副词】
+    phonetic: fan2
+    trans: ❶凡是;一切。
+    ancient: 如使人之所欲莫甚于生，则<凡>可以得生者何不用也？（《鱼我所欲也》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 凡
+    type: 【副词】
+    phonetic: fan2
+    trans: ❶凡是;一切。
+    ancient: <凡>所应有，无所不有。（《口技》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 凡
+    type: 【副词】
+    phonetic: fan2
+    trans: ❶凡是;一切。
+    ancient: <凡>在故老，犹蒙矜育。（《陈情表》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 凡
+    type: 【副词】
+    phonetic: fan2
+    trans: ❶凡是;一切。
+    ancient: 以为<凡>是州之山水有异态者，皆我有也，而未始知西山之怪特。（《始得西山宴游记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 凡
+    type: 【副词】
+    phonetic: fan2
+    trans: ❷总共;共计;一共。
+    ancient: "由是先主遂诣（yi4,拜访）亮，<凡>三往,乃见。（《隆中对》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 凡
+    type: 【副词】
+    phonetic: fan2
+    trans: ❷总共;共计;一共。
+    ancient: 因为长句，歌以赠之，<凡>六百一十六言。（《琵琶行》序）
+    url: xxxx
+    vernacular: xxxx
+  - word: 凡
+    type: 【副词】
+    phonetic: fan2
+    trans: ❷总共;共计;一共。
+    ancient: "为十表，本纪十二,书八章，世家三十，列传七十，<凡>百三十篇。（《报任安书》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 凡
+    type: 【副词】
+    phonetic: fan2
+    trans: ❷总共;共计;一共。
+    ancient: 武留匈奴<凡>十九岁，始以强壮出，及还，须发尽白。（《苏武传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 凡
+    type: 【副词】
+    phonetic: fan2
+    trans: ❷总共;共计;一共。
+    ancient: 轩<凡>四遭火，得不焚，殆有神护者。（《项脊轩志》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 凡
+    type: 【副词】
+    phonetic: fan2
+    trans: ❷总共;共计;一共。
+    ancient: "道海安、如皋，<凡>三百里,北与寇往来其间，无日而非可死。（《〈指南录〉后序》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 凡
+    type: 【副词】
+    phonetic: fan2
+    trans: ❷总共;共计;一共。
+    ancient: "【高考题例】今自去秋来,地震天鸣，雹降星殒，龙虎出见，地裂山崩,<凡>四十有二。（《明史•傅珪传》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 凡
+    type: 【副词】
+    phonetic: fan2
+    trans: ❷总共;共计;一共。
+    ancient: 在朝<凡>三十余年，历掌清要，家无僵石之蓄。（《旧唐书•于休烈传》）
     url: xxxx
     vernacular: xxxx

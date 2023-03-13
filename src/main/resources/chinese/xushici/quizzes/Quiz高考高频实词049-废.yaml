@@ -1,9 +1,79 @@
 ---
 quizzes:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+  - word: 废
+    type: 【动词】
+    phonetic: fei4
+    trans: ❶倒塌。
+    ancient: "往古之时,四极<废>，九州裂。（《淮南子•览冥训》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 废
+    type: 【动词】
+    phonetic: fei4
+    trans: ❷停止;废弃。如成语"半途而废"。
+    ancient: 君子不以言举人，不以人<废>言。（《论语•卫灵公》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 废
+    type: 【动词】
+    phonetic: fei4
+    trans: ❷停止;废弃。如成语"半途而废"。
+    ancient: 而刘夙婴疾病，常在床蓐，臣侍汤药，未曾<废>离。（《陈情表》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 废
+    type: 【动词】
+    phonetic: fei4
+    trans: ❷停止;废弃。如成语"半途而废"。
+    ancient: 杞国有人忧天地崩坠，身亡所寄，<废>寝食者。（《杞人忧天》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 废
+    type: 【动词】
+    phonetic: fei4
+    trans: ❷停止;废弃。如成语"半途而废"。
+    ancient: "【高考题例】援不至，遂没焉,时车驾驻大名，闻之震悼,<废>朝二日，赠侍中。（《宋史•康保裔传》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 废
+    type: 【动词】
+    phonetic: fei4
+    trans: ❸荒废;废弃。
+    ancient: 何可<废>也？以羊易（代替）之。（《齐桓晋文之事》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 废
+    type: 【动词】
+    phonetic: fei4
+    trans: ❸荒废;废弃。
+    ancient: 越明年（到了第二年），政通人和，百<废>具兴。（《岳阳楼》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 废
+    type: 【动词】
+    phonetic: fei4
+    trans: ❸荒废;废弃。
+    ancient: 予在患难中，间以诗记所遭，今存其本不忍<废>。（《〈指南录〉后序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 废
+    type: 【动词】
+    phonetic: fei4
+    trans: ❸荒废;废弃。
+    ancient: 于是<废>先王之道，焚百家之言，以愚黔首。（《过秦论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 废
+    type: 【动词】
+    phonetic: fei4
+    trans: ❹废黜；罢免。
+    ancient: 老贼欲<废>汉自立久矣，徒忌二袁、吕布、刘表与孤耳。（《资治通鉴•汉纪五十七》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 废
+    type: 【动词】
+    phonetic: fei4
+    trans: ❺残废。
+    ancient: "荆轲<废>，乃引（举起）匕首提（di3,投，抛）秦王,不中,中柱。（《战国策•燕策三》）"
     url: xxxx
     vernacular: xxxx

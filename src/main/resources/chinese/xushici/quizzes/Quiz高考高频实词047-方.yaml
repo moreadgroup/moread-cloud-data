@@ -1,9 +1,226 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 方
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: fang1
+    trans: ❶四方形或六个面都是四方形的六面体。
+    ancient: "磐石<方>且厚,可以卒千年。（《孔雀东南飞》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 方
+    type: 【名词】
+    phonetic: fang1
+    trans: ❶四方形或六个面都是四方形的六面体。
+    ancient: "视之,形若土狗（即蟻姑，一种小虫），梅花翅，<方>首，长胫，意似良。（《促织》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 方
+    type: 【名词】
+    phonetic: fang1
+    trans: ❶四方形或六个面都是四方形的六面体。
+    ancient: 何<方>圜之能周兮？夫孰异道而相安？（《离骚》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 方
+    type: 【名词】
+    phonetic: fang1
+    trans: ❷纵横（指称面积）。
+    ancient: 太行、王屋二山，<方>七百里，高万仞。（《愚公移山》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 方
+    type: 【名词】
+    phonetic: fang1
+    trans: ❷纵横（指称面积）。
+    ancient: 今齐地<方>千里，百二十城。（《邹忌讽齐王纳谏》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 方
+    type: 【名词】
+    phonetic: fang1
+    trans: ❷纵横（指称面积）。
+    ancient: <方>六七十，如五六十，求也为之，比及三年，可使足民。（《子路、曾晳、冉有、公西华侍坐》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 方
+    type: 【名词】
+    phonetic: fang1
+    trans: ❸方向；方位。
+    ancient: "自此以后,乃令史官记地动所从<方>起。（《张衡传》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 方
+    type: 【名词】
+    phonetic: fang1
+    trans: ❸方向；方位。
+    ancient: "曹公,豺虎也，挟天子以征四<方>。（《资治通鉴•汉纪五十七》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 方
+    type: 【名词】
+    phonetic: fang1
+    trans: ❸方向；方位。
+    ancient: 相与枕藉乎舟中，不知东<方>之既白。（《赤壁赋》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 方
+    type: 【名词】
+    phonetic: fang1
+    trans: ❹方面;地方。
+    ancient: 有朋自远<方>来，不亦乐乎？（《论语•学而》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 方
+    type: 【名词】
+    phonetic: fang1
+    trans: "❺边,一面"
+    ancient: "所谓伊人，在水一<方>。（《诗经•秦风•兼葭》）\t\t❻道理。"
+    url: xxxx
+    vernacular: xxxx
+  - word: 方
+    type: 【名词】
+    phonetic: fang1
+    trans: "❺边,一面"
+    ancient: 吾将长见笑于大<方>之家（修养很高、明白道理的人）。（《秋水》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 方
+    type: 【名词】
+    phonetic: fang1
+    trans: "❺边,一面"
+    ancient: 由也为芝，化友三年，可使有勇，且知<方>也。（《子路、曾晳、冉有、公西华侍坐》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 方
+    type: 【名词】
+    phonetic: fang1
+    trans: ❼方法;办法。
+    ancient: 与之为无<方>，则危吾国；与之为有<方>，则危吾身。（《庄子•人间世》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 方
+    type: 【名词】
+    phonetic: fang1
+    trans: ❼方法;办法。
+    ancient: "而十四司正副郎好事者及书吏、狱官、禁卒，皆利系者之多，少有连,必多<方>钩致。（《狱中杂记》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 方
+    type: 【名词】
+    phonetic: fang1
+    trans: ❽原则。
+    ancient: 处（处理）心有道（道德），行（行动）己有<方>。（《答李翊书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 方
+    type: 【动词】
+    phonetic: fang1
+    trans: ❶比拟;相比较。
+    ancient: 论功则汤武不足<方>;语德则尧舜未为远。（唐•魏徵《十渐疏》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 方
+    type: 【动词】
+    phonetic: fang1
+    trans: ❷并排，并列。
+    ancient: 今井陉xing2之道，车不得<方>轨，骑不得成列，行数百里，其势粮食必在其后。（《史记•淮阴侯列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 方
+    type: 【形容词】
+    phonetic: fang1
+    trans: 正直。
+    ancient: "屈平疾王听之不聪也，谗谄之蔽明也，邪曲之害公也,<方>正之不容也，故忧愁幽思而作《离骚》。（《史记•屈原贾生列传》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 方
+    type: 【副词】
+    phonetic: fang1
+    trans: ❶正在；正。
+    ancient: 如今人<方>为刀俎，我为鱼肉，何辞为？（《鸿门宴》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 方
+    type: 【副词】
+    phonetic: fang1
+    trans: ❶正在；正。
+    ancient: <方>欲行，转视积薪后，一狼洞其中，意将隧入以攻其后也。（《狼》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 方
+    type: 【副词】
+    phonetic: fang1
+    trans: ❶正在；正。
+    ancient: <方>欲发使送武等，会缑王与长水虞常等谋反匈奴中。（《苏武传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 方
+    type: 【副词】
+    phonetic: fang1
+    trans: ❶正在；正。
+    ancient: 吴之民<方>痛心焉，于是乘其厉声以呵，则噪而相逐。（《五人墓碑记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 方
+    type: 【副词】
+    phonetic: fang1
+    trans: ❶正在；正。
+    ancient: 【高考题例】灌言："水浅不胜舟，陆当用车八千乘，沿边<方>登麦，愿以运费增价就籴之。"（《宋史•何灌传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 方
+    type: 【副词】
+    phonetic: fang1
+    trans: ❷才；刚。
+    ancient: 向（不久之前）见雷将军，<方>知足下军令矣。（《资治通鉴•唐纪三十四》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 方
+    type: 【副词】
+    phonetic: fang1
+    trans: ❷才；刚。
+    ancient: "予出使至磁州锻坊（作坊）观炼铁,<方>识真钢。（《梦溪笔谈•辨证一》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 方
+    type: 【副词】
+    phonetic: fang1
+    trans: ❸将要。.
+    ancient: 然轼<方>过临江，当往游焉。（宋•苏轼《答谢民师推官书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 方
+    type: 【副词】
+    phonetic: fang1
+    trans: ❸将要。.
+    ancient: 余<方>心动欲还，而大声发于水上，噌吰如钟鼓不绝。（《石钟山记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 方
+    type: 【介词】
+    phonetic: fang1
+    trans: 当；正在。
+    ancient: <方>今之务，莫若使民务农而已矣。（汉•晁错《论贵粟疏》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 方
+    type: 【介词】
+    phonetic: fang1
+    trans: 当；正在。
+    ancient: <方>是时，余之力尚足以入，火尚足以明也。（《游褒禅山记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 方
+    type: 【介词】
+    phonetic: fang1
+    trans: 当；正在。
+    ancient: <方>急时，不及召下兵，以故荆轲逐秦王。（《荆轲刺秦王》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 方
+    type: 【介词】
+    phonetic: fang1
+    trans: 当；正在。
+    ancient: 【高考题例】文日:"主少国疑，大臣未附，百姓不信，<方>是之时;属之于子乎？属之于我乎?"（《史记•孙子吴起列传》）
     url: xxxx
     vernacular: xxxx
