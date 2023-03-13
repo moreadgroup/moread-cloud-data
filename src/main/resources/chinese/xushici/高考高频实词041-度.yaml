@@ -8,45 +8,81 @@ words:
     samples:
       - trans: ❶尺寸;计量长短的标准。
         sentences:
-          - ancient: 已得履，乃曰："吾忘持度。"（《韩非子•外储说左上》）
-          - ancient: 遂见东方君长，合时月正日，同律度量衡。（《史记・五帝本纪》）
+          - ancient: 已得履，乃曰："吾忘持<度>。"（《韩非子•外储说左上》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 遂见东方君长，合时月正日，同律<度>量衡。（《史记・五帝本纪》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷限度；尺度。
         sentences:
-          - ancient: 生之有时而用之亡度，则物力必屈（尽）。（《论积贮疏》）
-          - ancient: 乐盘游则思三驱以为度。（《谏太宗十思疏》）
+          - ancient: 生之有时而用之亡<度>，则物力必屈（尽）。（《论积贮疏》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 乐盘游则思三驱以为<度>。（《谏太宗十思疏》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸制度;法度。
         sentences:
-          - ancient: 夫子知度与礼矣。（《左传•昭公十年》）
-          - ancient: 有司言淮南王长废先帝法，不听天子诏，居处毋度，出入拟于天子。（《史记•孝文本纪》）
-          - ancient: 当是时也，商君佐之，内立法度。（《过秦论》）
-          - ancient: 背绳墨以追曲兮，竞周容以为度。（《离骚》）
-          - ancient: 仓廩实而知礼节，衣食足而知荣辱，上服度则六亲固。（《史记•管仲列传》）
+          - ancient: 夫子知<度>与礼矣。（《左传•昭公十年》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 有司言淮南王长废先帝法，不听天子诏，居处毋<度>，出入拟于天子。（《史记•孝文本纪》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 当是时也，商君佐之，内立法<度>。（《过秦论》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 背绳墨以追曲兮，竞周容以为<度>。（《离骚》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 仓廩实而知礼节，衣食足而知荣辱，上服<度>则六亲固。（《史记•管仲列传》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❹气度;胸襟。
         sentences:
-          - ancient: 高祖为人……常有大度,不事家人生产作业。（《汉书•高帝纪》）
-          - ancient: 父完，沈深有大度。（《后汉书•献帝伏皇后纪》）
-          - ancient: 以小舟涉鲸波出，无可奈何,而死固付之度外矣。（《〈指南录〉后序》）
+          - ancient: "高祖为人……常有大<度>,不事家人生产作业。（《汉书•高帝纪》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 父完，沈深有大<度>。（《后汉书•献帝伏皇后纪》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "以小舟涉鲸波出，无可奈何,而死固付之<度>外矣。（《〈指南录〉后序》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❺气质;态度。
         sentences:
-          - ancient: 皇览揆余于初度兮，肇锡余以嘉名。（《离骚》）
-          - ancient: 群臣惊愕，卒起不意，尽失其度。（《荆轲刺秦王》）
+          - ancient: 皇览揆余于初<度>兮，肇锡余以嘉名。（《离骚》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 群臣惊愕，卒起不意，尽失其<度>。（《荆轲刺秦王》）
+            url: xxxx
+            vernacular: xxxx
   - word: 度
     type: 【动词】
     phonetic: du4
     tags:
       - 高中
     samples:
-      - trans:
+      - { }
       - trans: ❶越过;度过。
         sentences:
-          - ancient: 我欲因之梦吴越，一夜飞度镜湖月。（《梦游天姥吟留别》）
-          - ancient: 今年欢笑复明年，秋月春风等闲度。（《琵琶行》）
+          - ancient: 我欲因之梦吴越，一夜飞<度>镜湖月。（《梦游天姥吟留别》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 今年欢笑复明年，秋月春风等闲<度>。（《琵琶行》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷依音节唱。
         sentences:
-          - ancient: 一夫登场，四座屏息，音若细发，响彻云际，每度一字，几尽一刻，飞鸟为之徘徊，壮士听而下泪矣。（明•袁宏道《虎丘记》）
+          - ancient: 一夫登场，四座屏息，音若细发，响彻云际，每<度>一字，几尽一刻，飞鸟为之徘徊，壮士听而下泪矣。（明•袁宏道《虎丘记》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸创作（乐曲）。
         sentences:
-          - ancient: 予怀怆然，感慨今昔,因自度此曲。（《扬州慢》序）
+          - ancient: "予怀怆然，感慨今昔,因自<度>此曲。（《扬州慢》序）"
+            url: xxxx
+            vernacular: xxxx
   - word: 度
     type: 【量词】
     phonetic: du4
@@ -55,27 +91,45 @@ words:
     samples:
       - trans: 次;回
         sentences:
-          - ancient: 岐王宅里寻常见，崔九堂前几度闻。（唐•杜甫《江南逢李龟年》）
+          - ancient: 岐王宅里寻常见，崔九堂前几<度>闻。（唐•杜甫《江南逢李龟年》）
+            url: xxxx
+            vernacular: xxxx
   - word: 度
     type: 【动词】
     phonetic: duo2
     tags:
       - 高中
     samples:
-      - trans:
+      - { }
       - trans: ❶计量长短。
         sentences:
-          - ancient: 郑人有欲买履者，先自度其足而置之其坐。（《韩非子•外储说左上》）
-          - ancient: 权，然后知轻重；度，然后知长短。（《齐桓晋文之事》）
+          - ancient: 郑人有欲买履者，先自<度>其足而置之其坐。（《韩非子•外储说左上》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 权，然后知轻重；<度>，然后知长短。（《齐桓晋文之事》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷计算。
         sentences:
-          - ancient: 试使山东之国与陈涉度长絜（xie2,用绳围着量）大，比权量力，则不可同年而语矣。（《过秦论》）
+          - ancient: "试使山东之国与陈涉<度>长絜（xie2,用绳围着量）大，比权量力，则不可同年而语矣。（《过秦论》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸估计;揣测。
         sentences:
-          - ancient: 度我至军中，公乃入。（《鸿门宴》）
-          - ancient: 度道里会遇之礼毕，还，不过三十日。（《廉颇蔺相如列传》）
-          - ancient: 相如度秦王特以诈佯为予赵城，实不可得。（《廉颇蔺相如列传》）
+          - ancient: <度>我至军中，公乃入。（《鸿门宴》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <度>道里会遇之礼毕，还，不过三十日。（《廉颇蔺相如列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 相如<度>秦王特以诈佯为予赵城，实不可得。（《廉颇蔺相如列传》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❹考虑;衡量。
         sentences:
           - ancient: 权（用秤称），然后知轻重；度（用尺量），然后知长短;物皆然，心为甚。王请<度>之。（《齐桓晋文之事》）
-          - ancient: 度义而后动，是而不见可悔故也。（宋•王安石《答司马谏议书》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <度>义而后动，是而不见可悔故也。（宋•王安石《答司马谏议书》）
+            url: xxxx
+            vernacular: xxxx

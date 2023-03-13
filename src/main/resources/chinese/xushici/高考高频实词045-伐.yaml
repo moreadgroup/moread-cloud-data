@@ -8,10 +8,18 @@ words:
     samples:
       - trans: 功业。
         sentences:
-          - ancient: 公子诚一开口请如姬，如姬必许诺，则得虎符夺晋鄙军，北救赵而西却秦，此五霸之伐也。（《史记•魏公子列传》）
-          - ancient: 怀王者，吾家项梁所立耳，非有功伐,何以得主约!（《史记•高祖本纪》）
-          - ancient: 自矜功伐，奋其私智而不师古。（《史记•项羽本纪》）
-          - ancient: 北救赵而西却秦，此五霸之伐也。（《史记•魏公子列传》）
+          - ancient: 公子诚一开口请如姬，如姬必许诺，则得虎符夺晋鄙军，北救赵而西却秦，此五霸之<伐>也。（《史记•魏公子列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "怀王者，吾家项梁所立耳，非有功<伐>,何以得主约!（《史记•高祖本纪》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 自矜功<伐>，奋其私智而不师古。（《史记•项羽本纪》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 北救赵而西却秦，此五霸之<伐>也。（《史记•魏公子列传》）
+            url: xxxx
+            vernacular: xxxx
   - word: 伐
     type: 【动词】
     phonetic: fa2
@@ -20,15 +28,31 @@ words:
     samples:
       - trans: ❶砍伐。
         sentences:
-          - ancient: 卖炭翁，伐薪烧炭南山中。（唐•白居易《卖炭翁》）
-          - ancient: 斯亦伐根以求木茂,塞源而欲流长者也。（《谏太宗十思疏》）
+          - ancient: 卖炭翁，<伐>薪烧炭南山中。（唐•白居易《卖炭翁》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "斯亦<伐>根以求木茂,塞源而欲流长者也。（《谏太宗十思疏》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷讨伐;进攻。
         sentences:
-          - ancient: 十年春，齐师伐我。（《曹刿论战》）
-          - ancient: 将军身被坚执锐，伐无道,诛暴秦，复立楚国之社稷，功宜为王。（《陈涉世家》）
-          - ancient: 其后秦伐赵，拔石城。（《廉颇蔺相如列传》）
+          - ancient: 十年春，齐师<伐>我。（《曹刿论战》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "将军身被坚执锐，<伐>无道,诛暴秦，复立楚国之社稷，功宜为王。（《陈涉世家》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 其后秦<伐>赵，拔石城。（《廉颇蔺相如列传》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸自夸;炫耀。
         sentences:
-          - ancient: 自伐者无功。（《庄子•山木》）
-          - ancient: 每一令出，平（屈原,名平）伐其功，曰以为"非我莫能为"也。（《史记•,屈原贾生列传》）
-          - ancient: 假令韩信学道谦让，不伐己功，不矜其能，则庶几哉。（《史记•淮阴侯列传》）
+          - ancient: 自<伐>者无功。（《庄子•山木》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "每一令出，平（屈原,名平）<伐>其功，曰以为\"非我莫能为\"也。（《史记•,屈原贾生列传》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 假令韩信学道谦让，不<伐>己功，不矜其能，则庶几哉。（《史记•淮阴侯列传》）
+            url: xxxx
+            vernacular: xxxx

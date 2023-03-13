@@ -8,25 +8,47 @@ words:
     samples:
       - trans: ❶非难;否定。
         sentences:
-          - ancient: 故成汤讨桀而夏民喜悦；周武伐纣而殷人不非。（《吴子•图国》）
-          - ancient: 天下不以非郑尹而快孙子,何哉？（《答韦中立论师道书》）
-          - ancient: 且举世誉之而不加劝，举世非之而不加沮。（《逍遥游》）
-          - ancient: 【高考题例】揆在相位，决事献替，虽甚博辨，性锐于名利，深为物议所非。（《旧唐书•李揆传》）
-          - ancient: 反古者不可非，而循礼者不足多。（《史记•商君列传》）
+          - ancient: 故成汤讨桀而夏民喜悦；周武伐纣而殷人不<非>。（《吴子•图国》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "天下不以<非>郑尹而快孙子,何哉？（《答韦中立论师道书》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 且举世誉之而不加劝，举世<非>之而不加沮。（《逍遥游》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】揆在相位，决事献替，虽甚博辨，性锐于名利，深为物议所<非>。（《旧唐书•李揆传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 反古者不可<非>，而循礼者不足多。（《史记•商君列传》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷违背。
         sentences:
           - ancient: <非>天时，虽十尧不能冬生一穗。（《韩非子•功名》）
-          - ancient: <非>礼勿视,<非>礼勿听，<非>礼勿言，<非>礼勿动。（《论语•颜渊》）
-      - trans: ❸无,没有。
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "<非>礼勿视,<非>礼勿听，<非>礼勿言，<非>礼勿动。（《论语•颜渊》）"
+            url: xxxx
+            vernacular: xxxx
+      - trans: "❸无,没有。"
         sentences:
-          - ancient: 登高而招，臂非加长也，而见者远。（《劝学》）
-          - ancient: 夫子则非罪。（《史记•孔子世家》）
+          - ancient: 登高而招，臂<非>加长也，而见者远。（《劝学》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 夫子则<非>罪。（《史记•孔子世家》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❹诋毁。
         sentences:
-          - ancient: 有人不得则非其上矣。（《孟子•梁惠王下》）
+          - ancient: 有人不得则<非>其上矣。（《孟子•梁惠王下》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❺通"诽"，诽谤。
         sentences:
-          - ancient: 入则心非，出则巷议。（《史记•李斯列传》）
+          - ancient: 入则心<非>，出则巷议。（《史记•李斯列传》）
+            url: xxxx
+            vernacular: xxxx
   - word: 非
     type: 【形容词】
     phonetic: fei1
@@ -35,9 +57,15 @@ words:
     samples:
       - trans: 不对;错误（与"是"相对）。
         sentences:
-          - ancient: 实迷途其未远，觉今是而昨非。（《归去来兮辞》）
-          - ancient: 《春秋》辩是非，故长于治人。（《史记•太史公自序》）
-          - ancient: 【高考题例】夫台谏为天下持是非，而使人贱辱至此，安望其抗颜直绳，为国家锄大奸、歼巨黩哉！（《明史•陈登云传》）
+          - ancient: 实迷途其未远，觉今是而昨<非>。（《归去来兮辞》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 《春秋》辩是<非>，故长于治人。（《史记•太史公自序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】夫台谏为天下持是<非>，而使人贱辱至此，安望其抗颜直绳，为国家锄大奸、歼巨黩哉！（《明史•陈登云传》）
+            url: xxxx
+            vernacular: xxxx
   - word: 非
     type: 【副词】
     phonetic: fei1
@@ -46,8 +74,12 @@ words:
     samples:
       - trans: 表示否定。相当于"不""不是"。
         sentences:
-          - ancient: 已行，非弗思也,祭祀必祝之。（《触龙说赵太后》）
-          - ancient: 臣非能动地,地固将动也。（《晏子春秋•外篇》）
+          - ancient: "已行，<非>弗思也,祭祀必祝之。（《触龙说赵太后》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "臣<非>能动地,地固将动也。（《晏子春秋•外篇》）"
+            url: xxxx
+            vernacular: xxxx
   - word: 非
     type: 【连词】
     phonetic: fei1
@@ -56,4 +88,6 @@ words:
     samples:
       - trans: 除非;除了。
         sentences:
-          - ancient: 非刘豫州（刘备）莫可以当（抵御）曹操者。（《资治通鉴•汉纪五十七》）
+          - ancient: <非>刘豫州（刘备）莫可以当（抵御）曹操者。（《资治通鉴•汉纪五十七》）
+            url: xxxx
+            vernacular: xxxx

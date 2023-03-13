@@ -8,19 +8,37 @@ words:
     samples:
       - trans: ❶人称代词。相当于""你（们）""你（们）的"。
         sentences:
-          - ancient: 官命促<尔>耕，勖（Xu4,勉励）<尔>植。（《种树郭橐驼传》）
+          - ancient: "官命促<尔>耕，勖（Xu4,勉励）<尔>植。（《种树郭橐驼传》）"
+            url: xxxx
+            vernacular: xxxx
           - ancient: 与<尔>三矢，<尔>其羌忘乃父之志！（《伶官传序》）
-          - ancient: 以尔车来，以我贿迁。（《诗经•卫风•氓》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 以<尔>车来，以我贿迁。（《诗经•卫风•氓》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷指示代词。相当于"这个""这样"。
         sentences:
-          - ancient: 子贡曰："夫子何善（称赞）尔也?"（《礼记•檀弓上》）
-          - ancient: 同是被逼迫,君尔妾亦然。（《孔雀东南飞》）
-          - ancient: 府吏再拜还，长叹空房中，作计乃尔立。（《孔雀东南飞》）
-          - ancient: 问君何能尔,心远地自偏。（《饮酒》）
-          - ancient: 【高考题例】后怒解，方被引入,谓日："公意乃尔,朕复何望!"护儿因不敢言。（《北史•来护儿传》）
+          - ancient: 子贡曰："夫子何善（称赞）<尔>也?"（《礼记•檀弓上》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "同是被逼迫,君<尔>妾亦然。（《孔雀东南飞》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 府吏再拜还，长叹空房中，作计乃<尔>立。（《孔雀东南飞》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "问君何能<尔>,心远地自偏。（《饮酒》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "【高考题例】后怒解，方被引入,谓日：\"公意乃<尔>,朕复何望!\"护儿因不敢言。（《北史•来护儿传》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸指示代词。相当于"这""那"。
         sentences:
-          - ancient: 尔来四万八千岁，不与秦塞通人烟。（《蜀道难》）
+          - ancient: <尔>来四万八千岁，不与秦塞通人烟。（《蜀道难》）
+            url: xxxx
+            vernacular: xxxx
   - word: 尔
     type: 【助词】
     phonetic: er3
@@ -29,11 +47,23 @@ words:
     samples:
       - trans: ❶用作【形容词】、副词词尾。相当于"的""地""着"。
         sentences:
-          - ancient: 子路率尔而对曰	.....（《子路、曾晳、冉有、公西华侍坐》）
-          - ancient: 鼓瑟希（稀疏），铿尔，舍瑟而作（起身）。（《子路、曾晳、冉有、公,西华侍坐》）
-          - ancient: 渔父莞尔而笑，鼓槌而去。（《渔父》）
-          - ancient: 佁然不动，俶尔远逝，往来翕忽。（《小石潭记》）
+          - ancient: "子路率<尔>而对曰\t.....（《子路、曾晳、冉有、公西华侍坐》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "鼓瑟希（稀疏），铿<尔>，舍瑟而作（起身）。（《子路、曾晳、冉有、公,西华侍坐》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 渔父莞<尔>而笑，鼓槌而去。（《渔父》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 佁然不动，俶<尔>远逝，往来翕忽。（《小石潭记》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷通"耳"。相当于"了""而已"或""罢了"。
         sentences:
-          - ancient: 君若用臣之谋，则今曰取郭（通"虢"，国名），而明日取虞（国名）尔，君何忧焉？（《公辛传•僖公二年》）
-          - ancient: 叶公子高（人名）入据楚，诛白公,定楚国，如反手尔。（《荀子・非相》）
+          - ancient: 君若用臣之谋，则今曰取郭（通"虢"，国名），而明日取虞（国名）<尔>，君何忧焉？（《公辛传•僖公二年》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "叶公子高（人名）入据楚，诛白公,定楚国，如反手<尔>。（《荀子・非相》）"
+            url: xxxx
+            vernacular: xxxx
