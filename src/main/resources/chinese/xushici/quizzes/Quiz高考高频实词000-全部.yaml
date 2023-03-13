@@ -1,131 +1,26 @@
 ---
 quizzes:
-  - word: 尔
-    type: 【代词】
-    phonetic: er3
-    trans: ❶人称代词。相当于""你（们）""你（们）的"。
-    ancient: 官命促<尔>耕，勖（Xu4，勉励）<尔>植。（《种树郭橐驼传》）
-    url: xxxx
-    vernacular: 长官命令：催促你们耕地，勉励你们种植
-  - word: 尔
-    type: 【代词】
-    phonetic: er3
-    trans: ❶人称代词。相当于""你（们）""你（们）的"。
-    ancient: 与<尔>三矢，<尔>其羌忘乃父之志！（《伶官传序》）
-    url: xxxx
-    vernacular: 交给你三支箭，你不要忘记你父亲报仇的志向。
-  - word: 尔
-    type: 【代词】
-    phonetic: er3
-    trans: ❶人称代词。相当于""你（们）""你（们）的"。
-    ancient: 以<尔>车来，以我贿迁。（《诗经•卫风•氓》）
-    url: xxxx
-    vernacular: 赶着你的车子来，为我搬运好嫁妆。以，指用;尔，就是‘你’的意思;车，指这个就好理解了;来，有‘来接’的意思;我，可以翻译为我的;贿，指嫁妆.迁，指接走.
-  - word: 尔
-    type: 【代词】
-    phonetic: er3
-    trans: ❷指示代词。相当于"这个""这样"。
-    ancient: 子贡曰："夫子何善（称赞）<尔>也?"（《礼记•檀弓上》）
-    url: xxxx
-    vernacular: 老师为什么称赞这件丧事办得好呢？
-  - word: 尔
-    type: 【代词】
-    phonetic: er3
-    trans: ❷指示代词。相当于"这个""这样"。
-    ancient: 同是被逼迫，君<尔>妾亦然。（《孔雀东南飞》）
-    url: xxxx
-    vernacular: 两人同样是被逼迫，你是这样我也是这样受熬煎。
-  - word: 尔
-    type: 【代词】
-    phonetic: er3
-    trans: ❷指示代词。相当于"这个""这样"。
-    ancient: 府吏再拜还，长叹空房中，作计乃<尔>立。（《孔雀东南飞》）
-    url: xxxx
-    vernacular: 府吏再拜之后转身走回去，在空房中长叹不已，他的决心就这样定下了。
-  - word: 尔
-    type: 【代词】
-    phonetic: er3
-    trans: ❷指示代词。相当于"这个""这样"。
-    ancient: 问君何能<尔>，心远地自偏。（《饮酒》）
-    url: xxxx
-    vernacular: 问我如何能做到这样，只要心中所想远离世俗，自然就会觉得所处地方僻静了。
-  - word: 尔
-    type: 【代词】
-    phonetic: er3
-    trans: ❷指示代词。相当于"这个""这样"。
-    ancient: 【高考题例】后怒解，方被引入，谓日：“公意乃<尔>，朕复何望!“护儿因不敢言。（《北史•来护儿传》）
-    url: xxxx
-    vernacular: 后来，炀帝怒气消解，才令人领来护儿入见，说：“公竟然有这样的意思，朕还有什么指望？”来护儿于是不敢再说话。
-  - word: 尔
-    type: 【代词】
-    phonetic: er3
-    trans: ❸指示代词。相当于"这""那"。
-    ancient: <尔>来四万八千岁，不与秦塞通人烟。（《蜀道难》）
-    url: xxxx
-    vernacular: 自从那时至今约有四万八千年，秦蜀被秦岭所阻从不沟通往返。
-  - word: 尔
-    type: 【助词】
-    phonetic: er3
-    trans: ❶用作【形容词】、副词词尾。相当于"的""地""着"。
-    ancient: 子路率<尔>而对曰.....（《子路、曾晳、冉有、公西华侍坐》）
-    url: xxxx
-    vernacular: "子路轻率而急忙地回答说。率尔是轻率,急忙的意思,对是回答。"
-  - word: 尔
-    type: 【助词】
-    phonetic: er3
-    trans: ❶用作【形容词】、副词词尾。相当于"的""地""着"。
-    ancient: 鼓瑟希（稀疏），铿<尔>，舍瑟而作（起身）。（《子路、曾晳、冉有、公，西华侍坐》）
-    url: xxxx
-    vernacular: "曾皙弹瑟的声音渐渐稀疏下来,铿的一声,放下瑟站起身来 。"
-  - word: 尔
-    type: 【助词】
-    phonetic: er3
-    trans: ❶用作【形容词】、副词词尾。相当于"的""地""着"。
-    ancient: 渔父莞<尔>而笑，鼓槌而去。（《渔父》）
-    url: xxxx
-    vernacular: "渔父听了,微微一笑,他举桨划船离去"
-  - word: 尔
-    type: 【助词】
-    phonetic: er3
-    trans: ❶用作【形容词】、副词词尾。相当于"的""地""着"。
-    ancient: 佁然不动，俶<尔>远逝，往来翕忽。（《小石潭记》）
-    url: xxxx
-    vernacular: 呆呆地（停在那里）一动不动，忽然间(又)向远处游去了，来来往往，轻快敏捷。
-  - word: 尔
-    type: 【助词】
-    phonetic: er3
-    trans: ❷通"耳"。相当于"了""而已"或""罢了"。
-    ancient: 君若用臣之谋，则今曰取郭（通"虢"，国名），而明日取虞（国名）<尔>，君何忧焉？（《公辛传•僖公二年》）
-    url: xxxx
-    vernacular: 大王如果采用我的计谋，则可以今天攻取虢国，明天攻取虞国，大王有什么好忧虑的呢？
-  - word: 尔
-    type: 【助词】
-    phonetic: er3
-    trans: ❷通"耳"。相当于"了""而已"或""罢了"。
-    ancient: 叶公子高（人名）入据楚，诛白公，定楚国，如反手<尔>。（《荀子・非相》）
-    url: xxxx
-    vernacular: 叶公子高却领兵入楚，杀掉白公，安定楚国，就像把手掌翻过来似的一样容易。
   - word: 迩
     type: 【形容词】
     phonetic: er
     trans: ❶近。
     ancient: 其称文小而其指极大，举类<迩>而见义远。（《史记・屈原贾生列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 就其文字来看，不过是寻常事情，但是它的旨趣是极大的，列举的是近事，而表达的意思却十分深远。
   - word: 迩
     type: 【形容词】
     phonetic: er
     trans: ❶近。
     ancient: "<迩>年狱讼,情稍重，京兆、五城即不敢专决。（《狱中杂记》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 近几年来打官司，凡情节比较重的，顺天府尹和五城御史便不敢做主
   - word: 迩
     type: 【形容词】
     phonetic: er
     trans: ❷浅近。
     ancient: 以大知（通"智"）而察及<迩>言，非苟为谦，诚取善之弘也。（清•刘开《问说》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 以（他们的）大智却注意到浅常的意见，不是偶然的谦虚，实在是要从多方面听取有益的意见。
   - word: 发
     type: 【动词】
     phonetic: fa1
