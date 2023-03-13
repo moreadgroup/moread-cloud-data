@@ -64,7 +64,6 @@ words:
     tags:
       - 高中
     samples:
-      - { }
       - trans: ❶越过;度过。
         sentences:
           - ancient: 我欲因之梦吴越，一夜飞<度>镜湖月。（《梦游天姥吟留别》）
@@ -100,7 +99,7 @@ words:
     tags:
       - 高中
     samples:
-      - { }
+      - trans: ""
       - trans: ❶计量长短。
         sentences:
           - ancient: 郑人有欲买履者，先自<度>其足而置之其坐。（《韩非子•外储说左上》）
