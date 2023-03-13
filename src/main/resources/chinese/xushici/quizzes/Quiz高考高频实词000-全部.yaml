@@ -1,198 +1,79 @@
 ---
 quizzes:
-  - word: 非
-    type: 【动词】
-    phonetic: fei1
-    trans: ❶非难;否定。
-    ancient: 故成汤讨桀而夏民喜悦；周武伐纣而殷人不<非>。（《吴子•图国》）
-    url: xxxx
-    vernacular: 所以，商汤讨伐夏桀夏民很高兴，周武王讨伐殷纣殷人却不反对。
-  - word: 非
-    type: 【动词】
-    phonetic: fei1
-    trans: ❶非难;否定。
-    ancient: 天下不以<非>郑尹而快孙子，何哉？（《答韦中立论师道书》）
-    url: xxxx
-    vernacular: 天下的人不因此去责难京兆尹郑叔则，反而嘲笑孙昌胤，这是为什么呢？
-  - word: 非
-    type: 【动词】
-    phonetic: fei1
-    trans: ❶非难;否定。
-    ancient: 且举世誉之而不加劝，举世<非>之而不加沮。（《逍遥游》）
-    url: xxxx
-    vernacular: 宋荣子是那种世上的人们都赞誉他也不会让他感到鼓舞，世上所有的人都诽谤他，他也并不因此就感到沮丧
-  - word: 非
-    type: 【动词】
-    phonetic: fei1
-    trans: ❶非难;否定。
-    ancient: 【高考题例】揆在相位，决事献替，虽甚博辨，性锐于名利，深为物议所<非>。（《旧唐书•李揆传》）
-    url: xxxx
-    vernacular: 李揆在宰相职位上，决断大事，提出兴利除弊、官吏进退的主张，虽然非常博学善辩，但他生性热衷于追名逐利，深受人们非议。
-  - word: 非
-    type: 【动词】
-    phonetic: fei1
-    trans: ❶非难;否定。
-    ancient: 反古者不可<非>，而循礼者不足多。（《史记•商君列传》）
-    url: xxxx
-    vernacular: 反对旧法的人不能非难，而沿袭旧礼的人不值得赞扬。
-  - word: 非
-    type: 【动词】
-    phonetic: fei1
-    trans: ❷违背。
-    ancient: <非>天时，虽十尧不能冬生一穗。（《韩非子•功名》）
-    url: xxxx
-    vernacular: 不顺天时，即使十个尧也不能让庄稼在冬天里结成一个穗子
-  - word: 非
-    type: 【动词】
-    phonetic: fei1
-    trans: ❷违背。
-    ancient: <非>礼勿视，<非>礼勿听，<非>礼勿言，<非>礼勿动。（《论语•颜渊》）
-    url: xxxx
-    vernacular: 违反礼的事不看，违反礼的事不听，违反礼的事不说，违反礼的事不做。
-  - word: 非
-    type: 【动词】
-    phonetic: fei1
-    trans: ❸无，没有。
-    ancient: 登高而招，臂<非>加长也，而见者远。（《劝学》）
-    url: xxxx
-    vernacular: 登到高处招手，手臂并没有加长，可是远处的人却能看见
-  - word: 非
-    type: 【动词】
-    phonetic: fei1
-    trans: ❸无，没有。
-    ancient: 夫子则<非>罪。（《史记•孔子世家》）
-    url: xxxx
-    vernacular: 先生您是没有过错的。
-  - word: 非
-    type: 【动词】
-    phonetic: fei1
-    trans: ❹诋毁。
-    ancient: 有。人不得，则<非>其上矣。（《孟子•梁惠王下》）
-    url: xxxx
-    vernacular: 是的。人有爱好而不能满足的话，就往往会责备他的君王。
-  - word: 非
-    type: 【动词】
-    phonetic: fei1
-    trans: ❺通"诽"，诽谤。
-    ancient: 入则心<非>，出则巷议。（《史记•李斯列传》）
-    url: xxxx
-    vernacular: 在官府里便心中不满，出门则在街头巷尾纷纷议论
-  - word: 非
-    type: 【形容词】
-    phonetic: fei1
-    trans: 不对;错误（与"是"相对）。
-    ancient: 实迷途其未远，觉今是而昨<非>。（《归去来兮辞》）
-    url: xxxx
-    vernacular: 确实走入了迷途大概还不远，觉悟到今天的做法正确，之前的错误。
-  - word: 非
-    type: 【形容词】
-    phonetic: fei1
-    trans: 不对;错误（与"是"相对）。
-    ancient: 《春秋》辩是<非>，故长于治人。（《史记•太史公自序》）
-    url: xxxx
-    vernacular: 《春秋》明辨是非，所以长于治理百姓。
-  - word: 非
-    type: 【形容词】
-    phonetic: fei1
-    trans: 不对;错误（与"是"相对）。
-    ancient: 【高考题例】夫台谏为天下持是<非>，而使人贱辱至此，安望其抗颜直绳，为国家锄大奸、歼巨黩哉！（《明史•陈登云传》）
-    url: xxxx
-    vernacular: 台谏是为天下主持是非的，而使人践踏到这种地步，怎能希望他不顾情面，正直地处理事情，为国除掉奸人、消灭败类呢！
-  - word: 非
-    type: 【副词】
-    phonetic: fei1
-    trans: 表示否定。相当于"不""不是"。
-    ancient: 已行，<非>弗思也，祭祀必祝之。（《触龙说赵太后》）
-    url: xxxx
-    vernacular: 她出嫁以后，您也并不是不想念她，可您祭祀时，一定为她祝告说
-  - word: 非
-    type: 【副词】
-    phonetic: fei1
-    trans: 表示否定。相当于"不""不是"。
-    ancient: 臣<非>能动地，地固将动也。（《晏子春秋•外篇》）
-    url: xxxx
-    vernacular: 不是我能动地，而是地本来就要动啊。
-  - word: 非
-    type: 【连词】
-    phonetic: fei1
-    trans: 除非;除了。
-    ancient: <非>刘豫州（刘备）莫可以当（抵御）曹操者。（《资治通鉴•汉纪五十七》）
-    url: xxxx
-    vernacular: "除了刘备,没有可以挡住曹操的人。"
-  - word: 废
-    type: 【动词】
-    phonetic: fei4
-    trans: ❶倒塌。
-    ancient: "往古之时,四极<废>，九州裂。（《淮南子•览冥训》）"
-    url: xxxx
-    vernacular: xxxx
-  - word: 废
-    type: 【动词】
-    phonetic: fei4
-    trans: ❷停止;废弃。如成语"半途而废"。
-    ancient: 君子不以言举人，不以人<废>言。（《论语•卫灵公》）
-    url: xxxx
-    vernacular: xxxx
-  - word: 废
-    type: 【动词】
-    phonetic: fei4
-    trans: ❷停止;废弃。如成语"半途而废"。
-    ancient: 而刘夙婴疾病，常在床蓐，臣侍汤药，未曾<废>离。（《陈情表》）
-    url: xxxx
-    vernacular: xxxx
-  - word: 废
-    type: 【动词】
-    phonetic: fei4
-    trans: ❷停止;废弃。如成语"半途而废"。
-    ancient: 杞国有人忧天地崩坠，身亡所寄，<废>寝食者。（《杞人忧天》）
-    url: xxxx
-    vernacular: xxxx
-  - word: 废
-    type: 【动词】
-    phonetic: fei4
-    trans: ❷停止;废弃。如成语"半途而废"。
-    ancient: "【高考题例】援不至，遂没焉,时车驾驻大名，闻之震悼,<废>朝二日，赠侍中。（《宋史•康保裔传》）"
-    url: xxxx
-    vernacular: xxxx
-  - word: 废
-    type: 【动词】
-    phonetic: fei4
-    trans: ❸荒废;废弃。
-    ancient: 何可<废>也？以羊易（代替）之。（《齐桓晋文之事》）
-    url: xxxx
-    vernacular: xxxx
-  - word: 废
-    type: 【动词】
-    phonetic: fei4
-    trans: ❸荒废;废弃。
-    ancient: 越明年（到了第二年），政通人和，百<废>具兴。（《岳阳楼》）
-    url: xxxx
-    vernacular: xxxx
-  - word: 废
-    type: 【动词】
-    phonetic: fei4
-    trans: ❸荒废;废弃。
-    ancient: 予在患难中，间以诗记所遭，今存其本不忍<废>。（《〈指南录〉后序》）
-    url: xxxx
-    vernacular: xxxx
-  - word: 废
-    type: 【动词】
-    phonetic: fei4
-    trans: ❸荒废;废弃。
-    ancient: 于是<废>先王之道，焚百家之言，以愚黔首。（《过秦论》）
-    url: xxxx
-    vernacular: xxxx
-  - word: 废
-    type: 【动词】
-    phonetic: fei4
-    trans: ❹废黜；罢免。
-    ancient: 老贼欲<废>汉自立久矣，徒忌二袁、吕布、刘表与孤耳。（《资治通鉴•汉纪五十七》）
-    url: xxxx
-    vernacular: xxxx
-  - word: 废
-    type: 【动词】
-    phonetic: fei4
-    trans: ❺残废。
-    ancient: "荆轲<废>，乃引（举起）匕首提（di3,投，抛）秦王,不中,中柱。（《战国策•燕策三》）"
-    url: xxxx
-    vernacular: xxxx
+- word: 废
+  type: 【动词】
+  phonetic: fei4
+  trans: ❶倒塌。
+  ancient: "往古之时,四极<废>，九州裂。（《淮南子•览冥训》）"
+  url: xxxx
+  vernacular: 以往古代的时候，四根天柱倾折，大地陷裂
+- word: 废
+  type: 【动词】
+  phonetic: fei4
+  trans: ❷停止;废弃。如成语"半途而废"。
+  ancient: 君子不以言举人，不以人<废>言。（《论语•卫灵公》）
+  url: xxxx
+  vernacular: 君子不因为某人的话说得好就推举他，也不因为某人不好就否定他的一切。
+- word: 废
+  type: 【动词】
+  phonetic: fei4
+  trans: ❷停止;废弃。如成语"半途而废"。
+  ancient: 而刘夙婴疾病，常在床蓐，臣侍汤药，未曾<废>离。（《陈情表》）
+  url: xxxx
+  vernacular: 但祖母刘氏又早被疾病缠绕，常年卧床不起，我侍奉她吃饭喝药，从来就没有离开她。
+- word: 废
+  type: 【动词】
+  phonetic: fei4
+  trans: ❷停止;废弃。如成语"半途而废"。
+  ancient: 杞国有人忧天地崩坠，身亡所寄，<废>寝食者。（《杞人忧天》）
+  url: xxxx
+  vernacular: 杞国有个人担忧天会塌地会陷，自己无处存身，便整天睡不好觉，吃不下饭。
+- word: 废
+  type: 【动词】
+  phonetic: fei4
+  trans: ❷停止;废弃。如成语"半途而废"。
+  ancient: "【高考题例】援不至，遂没焉,时车驾驻大名，闻之震悼,<废>朝二日，赠侍中。（《宋史•康保裔传》）"
+  url: xxxx
+  vernacular: 但援兵还是没有来，于是就牺牲在那里。当时皇上的车驾停驻在大名，皇上听到康保裔牺牲的消息，震惊哀悼，停止上朝了两天，并赠予保裔侍中之职。
+- word: 废
+  type: 【动词】
+  phonetic: fei4
+  trans: ❸荒废;废弃。
+  ancient: 何可<废>也？以羊易（代替）之。（《齐桓晋文之事》）
+  url: xxxx
+  vernacular: 怎么可以废除呢？用羊来换它吧。
+- word: 废
+  type: 【动词】
+  phonetic: fei4
+  trans: ❸荒废;废弃。
+  ancient: 越明年（到了第二年），政通人和，百<废>具兴。（《岳阳楼》）
+  url: xxxx
+  vernacular: 到了第二年，政事顺利，百姓和乐，各种荒废的事业都兴办起来了。
+- word: 废
+  type: 【动词】
+  phonetic: fei4
+  trans: ❸荒废;废弃。
+  ancient: 予在患难中，间以诗记所遭，今存其本不忍<废>。（《〈指南录〉后序》）
+  url: xxxx
+  vernacular: "我在患难中,有时用诗记述遭遇的事情,一直保留着那些诗稿舍不得丢掉。"
+- word: 废
+  type: 【动词】
+  phonetic: fei4
+  trans: ❸荒废;废弃。
+  ancient: 于是<废>先王之道，焚百家之言，以愚黔首。（《过秦论》）
+  url: xxxx
+  vernacular: 秦始皇接着就废除古代帝王的治世之道，焚烧诸子百家的著作，来使百姓愚蠢
+- word: 废
+  type: 【动词】
+  phonetic: fei4
+  trans: ❹废黜；罢免。
+  ancient: 老贼欲<废>汉自立久矣，徒忌二袁、吕布、刘表与孤耳。（《资治通鉴•汉纪五十七》）
+  url: xxxx
+  vernacular: 曹操老贼早就想要废掉汉朝皇帝，自己篡位了，只是顾忌袁绍、袁术、吕布、刘表与我孙权。
+- word: 废
+  type: 【动词】
+  phonetic: fei4
+  trans: ❺残废。
+  ancient: "荆轲<废>，乃引（举起）匕首提（di3,投，抛）秦王,不中,中柱。（《战国策•燕策三》）"
+  url: xxxx
+  vernacular: 荆轲倒下了，就举起他的匕首投击秦王，没有击中，击中了柱子。
