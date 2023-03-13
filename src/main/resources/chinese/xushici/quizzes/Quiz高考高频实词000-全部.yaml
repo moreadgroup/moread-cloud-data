@@ -1,348 +1,124 @@
 ---
 quizzes:
-  - word: 方
-    type: 【名词】
-    phonetic: fang1
-    trans: ❶四方形或六个面都是四方形的六面体。
-    ancient: "磐石<方>且厚,可以卒千年。（《孔雀东南飞》）"
-    url: xxxx
-    vernacular: 大石方正又坚厚，可以千年都不变。
-  - word: 方
-    type: 【名词】
-    phonetic: fang1
-    trans: ❶四方形或六个面都是四方形的六面体。
-    ancient: "视之,形若土狗（即蟻姑，一种小虫），梅花翅，<方>首，长胫，意似良。（《促织》）"
-    url: xxxx
-    vernacular: "看起来外形像蝼蛄(土狗),翅膀如梅花瓣,脑袋方形,腿很长,似乎是只(好蟋蟀)"
-  - word: 方
-    type: 【名词】
-    phonetic: fang1
-    trans: ❶四方形或六个面都是四方形的六面体。
-    ancient: 何<方>圜之能周兮？夫孰异道而相安？（《离骚》）
-    url: xxxx
-    vernacular: 方和圆怎能够互相配合，志向不同何能彼此相安。
-  - word: 方
-    type: 【名词】
-    phonetic: fang1
-    trans: ❷纵横（指称面积）。
-    ancient: 太行、王屋二山，<方>七百里，高万仞。（《愚公移山》）
-    url: xxxx
-    vernacular: 传说中的太行、王屋两座山，周围七百里，高七八千丈
-  - word: 方
-    type: 【名词】
-    phonetic: fang1
-    trans: ❷纵横（指称面积）。
-    ancient: 今齐地<方>千里，百二十城。（《邹忌讽齐王纳谏》）
-    url: xxxx
-    vernacular: 如今齐国有方圆千里的疆土，一百二十座城池。
-  - word: 方
-    type: 【名词】
-    phonetic: fang1
-    trans: ❷纵横（指称面积）。
-    ancient: <方>六七十，如五六十，求也为之，比及三年，可使足民。（《子路、曾晳、冉有、公西华侍坐》）
-    url: xxxx
-    vernacular: 一个纵横六七十里、或者五六十里的地方，如果让我去治理，等到三年，就可以使老百姓富足起来。
-  - word: 方
-    type: 【名词】
-    phonetic: fang1
-    trans: ❸方向；方位。
-    ancient: "自此以后,乃令史官记地动所从<方>起。（《张衡传》）"
-    url: xxxx
-    vernacular: 从此以后，朝廷就责成史官根据地动仪记载每次地震发生的方位。
-  - word: 方
-    type: 【名词】
-    phonetic: fang1
-    trans: ❸方向；方位。
-    ancient: "曹公,豺虎也，挟天子以征四<方>。（《资治通鉴•汉纪五十七》）"
-    url: xxxx
-    vernacular: 曹操是豺狼虎豹，他挟持皇帝到处攻打，动不动就以朝廷的名义作借口
-  - word: 方
-    type: 【名词】
-    phonetic: fang1
-    trans: ❸方向；方位。
-    ancient: 相与枕藉乎舟中，不知东<方>之既白。（《赤壁赋》）
-    url: xxxx
-    vernacular: （苏子与同伴）在船里互相枕着垫着睡去，不知不觉天边已经显出白色（指天明了）。
-  - word: 方
-    type: 【名词】
-    phonetic: fang1
-    trans: ❹方面;地方。
-    ancient: 有朋自远<方>来，不亦乐乎？（《论语•学而》）
-    url: xxxx
-    vernacular: 有志同道合的人从远方来，不也很高兴吗？
-  - word: 方
-    type: 【名词】
-    phonetic: fang1
-    trans: "❺边,一面"
-    ancient: 所谓伊人，在水一<方>。（《诗经•秦风•兼葭》）
-    url: xxxx
-    vernacular: 意中之人在何处?就在河水那一方
-  - word: 方
-    type: 【名词】
-    phonetic: fang1
-    trans: ❻道理。
-    ancient: 吾将长见笑于大<方>之家（修养很高、明白道理的人）。（《秋水》）
-    url: xxxx
-    vernacular: 我会永远被明白大道理的人所讥笑
-  - word: 方
-    type: 【名词】
-    phonetic: fang1
-    trans: ❻道理。
-    ancient: 由也为之，比及三年，可使有勇，且知<方>也。（《子路、曾晳、冉有、公西华侍坐》）
-    url: xxxx
-    vernacular: "子路去治理它,只要三年,就可以使那里人人有勇气、个个懂道义。"
-  - word: 方
-    type: 【名词】
-    phonetic: fang1
-    trans: ❼方法;办法。
-    ancient: 与之为无<方>，则危吾国；与之为有<方>，则危吾身。（《庄子•人间世》）
-    url: xxxx
-    vernacular: 如果任其自然，就会危害国家；如用法度约束，就会危及自身
-  - word: 方
-    type: 【名词】
-    phonetic: fang1
-    trans: ❼方法;办法。
-    ancient: "而十四司正副郎好事者及书吏、狱官、禁卒，皆利系者之多，少有连,必多<方>钩致。（《狱中杂记》）"
-    url: xxxx
-    vernacular: 而十四司的郎史、员外郎当中的那些喜欢多事的，以及官署内管文书的小史、典狱官、看守们，都以关押的人越多越有利可图，稍微有点牵连的，就一定用尽方法捉来。
-  - word: 方
-    type: 【名词】
-    phonetic: fang1
-    trans: ❽原则。
-    ancient: 处（处理）心有道（道德），行（行动）己有<方>。（《答李翊书》）
-    url: xxxx
-    vernacular: 思考问题本着仁义原则，自己行事有一定规范
-  - word: 方
-    type: 【动词】
-    phonetic: fang1
-    trans: ❶比拟;相比较。
-    ancient: 论功则汤武不足<方>;语德则尧舜未为远。（唐•魏徵《十渐疏》）
-    url: xxxx
-    vernacular: 论功则商汤、周武也不能与您并列，论德则距尧、舜并不算远。
-  - word: 方
-    type: 【动词】
-    phonetic: fang1
-    trans: ❷并排，并列。
-    ancient: 今井陉xing2之道，车不得<方>轨，骑不得成列，行数百里，其势粮食必在其后。（《史记•淮阴侯列传》）
-    url: xxxx
-    vernacular: 眼下井陉这条道路，两辆战车不能并行，骑兵不能排成行列，行进的军队迤逦数百里，运粮食的队伍势必远远地落到后边
-  - word: 方
-    type: 【形容词】
-    phonetic: fang1
-    trans: 正直。
-    ancient: "屈平疾王听之不聪也，谗谄之蔽明也，邪曲之害公也,<方>正之不容也，故忧愁幽思而作《离骚》。（《史记•屈原贾生列传》）"
-    url: xxxx
-    vernacular: 屈原痛心于楚怀王耳朵听不到正确的意见，眼睛也被谗言谄媚所遮蔽，邪恶之人侵害公道，正直之人不为小人所容，所以忧心忡忡，写下《离骚》这样一首诗。
-  - word: 方
-    type: 【副词】
-    phonetic: fang1
-    trans: ❶正在；正。
-    ancient: 如今人<方>为刀俎，我为鱼肉，何辞为？（《鸿门宴》）
-    url: xxxx
-    vernacular: 。现在人家好比是菜刀和砧板，我们好比是鱼和肉，告辞干什么呢？
-  - word: 方
-    type: 【副词】
-    phonetic: fang1
-    trans: ❶正在；正。
-    ancient: <方>欲行，转视积薪后，一狼洞其中，意将隧入以攻其后也。（《狼》）
-    url: xxxx
-    vernacular: 屠户正想要走，转身看柴草堆后面，一只狼在其中打洞，意图想要钻洞进入柴草堆来攻击屠户的后面。
-  - word: 方
-    type: 【副词】
-    phonetic: fang1
-    trans: ❶正在；正。
-    ancient: <方>欲发使送武等，会缑王与长水虞常等谋反匈奴中。（《苏武传》）
-    url: xxxx
-    vernacular: 匈奴正要派送苏武等人的时候，适逢缑王与长水校尉虞常等人在匈奴内部谋反。
-  - word: 方
-    type: 【副词】
-    phonetic: fang1
-    trans: ❶正在；正。
-    ancient: 吴之民<方>痛心焉，于是乘其厉声以呵，则噪而相逐。（《五人墓碑记》）
-    url: xxxx
-    vernacular: 苏州的老百姓正对他痛恨到极点，于是趁他严厉地高声呵叱的时候，就呼叫着追击他。
-  - word: 方
-    type: 【副词】
-    phonetic: fang1
-    trans: ❶正在；正。
-    ancient: 【高考题例】灌言："水浅不胜舟，陆当用车八千乘，沿边<方>登麦，愿以运费增价就籴之。"（《宋史•何灌传》）
-    url: xxxx
-    vernacular: 河水太浅不能走水路，如果用陆路运输要用马车八千乘，工作量太大。这时沿边麦子正熟，可以用运输粮草的费用就地加价收购麦子。
-  - word: 方
-    type: 【副词】
-    phonetic: fang1
-    trans: ❷才；刚。
-    ancient: 向（不久之前）见雷将军，<方>知足下军令矣。（《资治通鉴•唐纪三十四》）
-    url: xxxx
-    vernacular: 刚才看见雷将军，才知道您的军令是多么森严了
-  - word: 方
-    type: 【副词】
-    phonetic: fang1
-    trans: ❷才；刚。
-    ancient: "予出使至磁州锻坊（作坊）观炼铁,<方>识真钢。（《梦溪笔谈•辨证一》）"
-    url: xxxx
-    vernacular: 我曾经出使前往河北的磁州锻坊观看炼铁的过程，才认识到了真钢。
-  - word: 方
-    type: 【副词】
-    phonetic: fang1
-    trans: ❸将要。.
-    ancient: 然轼<方>过临江，当往游焉。（宋•苏轼《答谢民师推官书》）
-    url: xxxx
-    vernacular: 然而我正好要经过临江，当往游惠力寺。
-  - word: 方
-    type: 【副词】
-    phonetic: fang1
-    trans: ❸将要。.
-    ancient: 余<方>心动欲还，而大声发于水上，噌吰如钟鼓不绝。（《石钟山记》）
-    url: xxxx
-    vernacular: 我正心惊想要回去，忽然巨大的声音从水上发出，声音洪亮像不断地敲钟击鼓。
-  - word: 方
-    type: 【介词】
-    phonetic: fang1
-    trans: 当；正在。
-    ancient: <方>今之务，莫若使民务农而已矣。（汉•晁错《论贵粟疏》）
-    url: xxxx
-    vernacular: 当今的迫切任务，没有比使人民务农更为重要的了。
-  - word: 方
-    type: 【介词】
-    phonetic: fang1
-    trans: 当；正在。
-    ancient: <方>是时，余之力尚足以入，火尚足以明也。（《游褒禅山记》）
-    url: xxxx
-    vernacular: 当决定从洞内退出时，我的体力还足够前进，火把还能够继续照明。
-  - word: 方
-    type: 【介词】
-    phonetic: fang1
-    trans: 当；正在。
-    ancient: <方>急时，不及召下兵，以故荆轲逐秦王。（《荆轲刺秦王》）
-    url: xxxx
-    vernacular: 正在慌急之中，而且也来不及召来侍卫，所以荆轲追逐秦王
-  - word: 方
-    type: 【介词】
-    phonetic: fang1
-    trans: 当；正在。
-    ancient: 【高考题例】文日:"主少国疑，大臣未附，百姓不信，<方>是之时;属之于子乎？属之于我乎?"（《史记•孙子吴起列传》）
-    url: xxxx
-    vernacular: 田文说：“国君还年轻，国人疑虑不安，大臣不亲附，百姓不信任，正当处在这个时候，是把政事托付给您呢，还是应当托付给我？”
   - word: 非
     type: 【动词】
     phonetic: fei1
     trans: ❶非难;否定。
     ancient: 故成汤讨桀而夏民喜悦；周武伐纣而殷人不<非>。（《吴子•图国》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 所以，商汤讨伐夏桀夏民很高兴，周武王讨伐殷纣殷人却不反对。
   - word: 非
     type: 【动词】
     phonetic: fei1
     trans: ❶非难;否定。
-    ancient: "天下不以<非>郑尹而快孙子,何哉？（《答韦中立论师道书》）"
+    ancient: 天下不以<非>郑尹而快孙子，何哉？（《答韦中立论师道书》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 天下的人不因此去责难京兆尹郑叔则，反而嘲笑孙昌胤，这是为什么呢？
   - word: 非
     type: 【动词】
     phonetic: fei1
     trans: ❶非难;否定。
     ancient: 且举世誉之而不加劝，举世<非>之而不加沮。（《逍遥游》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 宋荣子是那种世上的人们都赞誉他也不会让他感到鼓舞，世上所有的人都诽谤他，他也并不因此就感到沮丧
   - word: 非
     type: 【动词】
     phonetic: fei1
     trans: ❶非难;否定。
     ancient: 【高考题例】揆在相位，决事献替，虽甚博辨，性锐于名利，深为物议所<非>。（《旧唐书•李揆传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 李揆在宰相职位上，决断大事，提出兴利除弊、官吏进退的主张，虽然非常博学善辩，但他生性热衷于追名逐利，深受人们非议。
   - word: 非
     type: 【动词】
     phonetic: fei1
     trans: ❶非难;否定。
     ancient: 反古者不可<非>，而循礼者不足多。（《史记•商君列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 反对旧法的人不能非难，而沿袭旧礼的人不值得赞扬。
   - word: 非
     type: 【动词】
     phonetic: fei1
     trans: ❷违背。
     ancient: <非>天时，虽十尧不能冬生一穗。（《韩非子•功名》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 不顺天时，即使十个尧也不能让庄稼在冬天里结成一个穗子
   - word: 非
     type: 【动词】
     phonetic: fei1
     trans: ❷违背。
-    ancient: "<非>礼勿视,<非>礼勿听，<非>礼勿言，<非>礼勿动。（《论语•颜渊》）"
+    ancient: <非>礼勿视，<非>礼勿听，<非>礼勿言，<非>礼勿动。（《论语•颜渊》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 违反礼的事不看，违反礼的事不听，违反礼的事不说，违反礼的事不做。
   - word: 非
     type: 【动词】
     phonetic: fei1
-    trans: "❸无,没有。"
+    trans: ❸无，没有。
     ancient: 登高而招，臂<非>加长也，而见者远。（《劝学》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 登到高处招手，手臂并没有加长，可是远处的人却能看见
   - word: 非
     type: 【动词】
     phonetic: fei1
-    trans: "❸无,没有。"
+    trans: ❸无，没有。
     ancient: 夫子则<非>罪。（《史记•孔子世家》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 先生您是没有过错的。
   - word: 非
     type: 【动词】
     phonetic: fei1
     trans: ❹诋毁。
-    ancient: 有人不得则<非>其上矣。（《孟子•梁惠王下》）
+    ancient: 有。人不得，则<非>其上矣。（《孟子•梁惠王下》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 是的。人有爱好而不能满足的话，就往往会责备他的君王。
   - word: 非
     type: 【动词】
     phonetic: fei1
     trans: ❺通"诽"，诽谤。
     ancient: 入则心<非>，出则巷议。（《史记•李斯列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 在官府里便心中不满，出门则在街头巷尾纷纷议论
   - word: 非
     type: 【形容词】
     phonetic: fei1
     trans: 不对;错误（与"是"相对）。
     ancient: 实迷途其未远，觉今是而昨<非>。（《归去来兮辞》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 确实走入了迷途大概还不远，觉悟到今天的做法正确，之前的错误。
   - word: 非
     type: 【形容词】
     phonetic: fei1
     trans: 不对;错误（与"是"相对）。
     ancient: 《春秋》辩是<非>，故长于治人。（《史记•太史公自序》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 《春秋》明辨是非，所以长于治理百姓。
   - word: 非
     type: 【形容词】
     phonetic: fei1
     trans: 不对;错误（与"是"相对）。
     ancient: 【高考题例】夫台谏为天下持是<非>，而使人贱辱至此，安望其抗颜直绳，为国家锄大奸、歼巨黩哉！（《明史•陈登云传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 台谏是为天下主持是非的，而使人践踏到这种地步，怎能希望他不顾情面，正直地处理事情，为国除掉奸人、消灭败类呢！
   - word: 非
     type: 【副词】
     phonetic: fei1
     trans: 表示否定。相当于"不""不是"。
-    ancient: "已行，<非>弗思也,祭祀必祝之。（《触龙说赵太后》）"
+    ancient: 已行，<非>弗思也，祭祀必祝之。（《触龙说赵太后》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 她出嫁以后，您也并不是不想念她，可您祭祀时，一定为她祝告说
   - word: 非
     type: 【副词】
     phonetic: fei1
     trans: 表示否定。相当于"不""不是"。
-    ancient: "臣<非>能动地,地固将动也。（《晏子春秋•外篇》）"
+    ancient: 臣<非>能动地，地固将动也。（《晏子春秋•外篇》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 不是我能动地，而是地本来就要动啊。
   - word: 非
     type: 【连词】
     phonetic: fei1
     trans: 除非;除了。
     ancient: <非>刘豫州（刘备）莫可以当（抵御）曹操者。（《资治通鉴•汉纪五十七》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "除了刘备,没有可以挡住曹操的人。"
   - word: 废
     type: 【动词】
     phonetic: fei4

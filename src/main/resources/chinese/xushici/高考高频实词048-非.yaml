@@ -10,45 +10,45 @@ words:
         sentences:
           - ancient: 故成汤讨桀而夏民喜悦；周武伐纣而殷人不<非>。（《吴子•图国》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "天下不以<非>郑尹而快孙子,何哉？（《答韦中立论师道书》）"
+            vernacular: 所以，商汤讨伐夏桀夏民很高兴，周武王讨伐殷纣殷人却不反对。
+          - ancient: "天下不以<非>郑尹而快孙子，何哉？（《答韦中立论师道书》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 天下的人不因此去责难京兆尹郑叔则，反而嘲笑孙昌胤，这是为什么呢？
           - ancient: 且举世誉之而不加劝，举世<非>之而不加沮。（《逍遥游》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 宋荣子是那种世上的人们都赞誉他也不会让他感到鼓舞，世上所有的人都诽谤他，他也并不因此就感到沮丧
           - ancient: 【高考题例】揆在相位，决事献替，虽甚博辨，性锐于名利，深为物议所<非>。（《旧唐书•李揆传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 李揆在宰相职位上，决断大事，提出兴利除弊、官吏进退的主张，虽然非常博学善辩，但他生性热衷于追名逐利，深受人们非议。
           - ancient: 反古者不可<非>，而循礼者不足多。（《史记•商君列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 反对旧法的人不能非难，而沿袭旧礼的人不值得赞扬。
       - trans: ❷违背。
         sentences:
           - ancient: <非>天时，虽十尧不能冬生一穗。（《韩非子•功名》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "<非>礼勿视,<非>礼勿听，<非>礼勿言，<非>礼勿动。（《论语•颜渊》）"
+            vernacular: 不顺天时，即使十个尧也不能让庄稼在冬天里结成一个穗子
+          - ancient: "<非>礼勿视，<非>礼勿听，<非>礼勿言，<非>礼勿动。（《论语•颜渊》）"
             url: xxxx
-            vernacular: xxxx
-      - trans: "❸无,没有。"
+            vernacular: 违反礼的事不看，违反礼的事不听，违反礼的事不说，违反礼的事不做。
+      - trans: "❸无，没有。"
         sentences:
           - ancient: 登高而招，臂<非>加长也，而见者远。（《劝学》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 登到高处招手，手臂并没有加长，可是远处的人却能看见
           - ancient: 夫子则<非>罪。（《史记•孔子世家》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 先生您是没有过错的。
       - trans: ❹诋毁。
         sentences:
-          - ancient: 有人不得则<非>其上矣。（《孟子•梁惠王下》）
+          - ancient: 有。人不得，则<非>其上矣。（《孟子•梁惠王下》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 是的。人有爱好而不能满足的话，就往往会责备他的君王。
       - trans: ❺通"诽"，诽谤。
         sentences:
           - ancient: 入则心<非>，出则巷议。（《史记•李斯列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 在官府里便心中不满，出门则在街头巷尾纷纷议论
   - word: 非
     type: 【形容词】
     phonetic: fei1
@@ -59,13 +59,13 @@ words:
         sentences:
           - ancient: 实迷途其未远，觉今是而昨<非>。（《归去来兮辞》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 确实走入了迷途大概还不远，觉悟到今天的做法正确，之前的错误。
           - ancient: 《春秋》辩是<非>，故长于治人。（《史记•太史公自序》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 《春秋》明辨是非，所以长于治理百姓。
           - ancient: 【高考题例】夫台谏为天下持是<非>，而使人贱辱至此，安望其抗颜直绳，为国家锄大奸、歼巨黩哉！（《明史•陈登云传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 台谏是为天下主持是非的，而使人践踏到这种地步，怎能希望他不顾情面，正直地处理事情，为国除掉奸人、消灭败类呢！
   - word: 非
     type: 【副词】
     phonetic: fei1
@@ -74,12 +74,12 @@ words:
     samples:
       - trans: 表示否定。相当于"不""不是"。
         sentences:
-          - ancient: "已行，<非>弗思也,祭祀必祝之。（《触龙说赵太后》）"
+          - ancient: "已行，<非>弗思也，祭祀必祝之。（《触龙说赵太后》）"
             url: xxxx
-            vernacular: xxxx
-          - ancient: "臣<非>能动地,地固将动也。（《晏子春秋•外篇》）"
+            vernacular: 她出嫁以后，您也并不是不想念她，可您祭祀时，一定为她祝告说
+          - ancient: "臣<非>能动地，地固将动也。（《晏子春秋•外篇》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 不是我能动地，而是地本来就要动啊。
   - word: 非
     type: 【连词】
     phonetic: fei1
@@ -90,4 +90,4 @@ words:
         sentences:
           - ancient: <非>刘豫州（刘备）莫可以当（抵御）曹操者。（《资治通鉴•汉纪五十七》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 除了刘备,没有可以挡住曹操的人。
