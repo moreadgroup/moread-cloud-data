@@ -1,334 +1,89 @@
 ---
 quizzes:
-  - word: 发
-    type: 【动词】
-    phonetic: fa1
-    trans: ❶射箭;发射。
-    ancient: 控弦破左的，右<发>摧月支。（三国魏•曹植《白马篇》）
-    url: xxxx
-    vernacular: 拉开弓如满月左右射击，一箭箭中靶心不差毫厘。
-  - word: 发
-    type: 【动词】
-    phonetic: fa1
-    trans: ❶射箭;发射。
-    ancient: 见其<发>矢十中八九，但微颔之。（《卖油翁》）
-    url: xxxx
-    vernacular: 卖油的老翁看他射十箭中了八九成，只是微微点点头。
-  - word: 发
-    type: 【动词】
-    phonetic: fa1
-    trans: ❶射箭;发射。
-    ancient: 简子唾手登车，援乌号之弓，挟肃慎之矢，一<发>饮羽，狼失声而逋（bu1逃跑）。（《中山狼传》）
-    url: xxxx
-    vernacular: 简子吐口唾沫到手上跳上车子，拿起宝弓，搭上利箭，一箭射到羽毛都陷入肉中，狼号叫着逃跑。
-  - word: 发
-    type: 【动词】
-    phonetic: fa1
-    trans: ❶射箭;发射。
-    ancient: 于是众枪齐<发>，敌人纷堕如落叶。（《冯婉贞》）
-    url: xxxx
-    vernacular: 于是所有的一齐发射，敌人象落叶似的纷纷跌下马来。
-  - word: 发
-    type: 【动词】
-    phonetic: fa1
-    trans: ❷出发。
-    ancient: 忽闻水上琵琶声，主人忘归客不<发>。（《琵琶行》）
-    url: xxxx
-    vernacular: 忽听得江面上传来琵琶清脆声，我忘却了回归客人也不想动身。
-  - word: 发
-    type: 【动词】
-    phonetic: fa1
-    trans: ❷出发。
-    ancient: 留恋处，兰舟催<发>。（《雨霖铃》）
-    url: xxxx
-    vernacular: 正在依依不舍的时候，船上的人已催着出发。
-  - word: 发
-    type: 【动词】
-    phonetic: fa1
-    trans: ❷出发。
-    ancient: 顷之未<发>，太子迟之，疑其有改悔。（《荆轲刺秦王》）
-    url: xxxx
-    vernacular: 过了一阵还没动身，太子嫌荆轲走晚了，怀疑他有改变初衷和后悔的念头
-  - word: 发
-    type: 【动词】
-    phonetic: fa1
-    trans: ❷出发。
-    ancient: "<发>北关外,历吴门、毗陵，渡瓜洲，复还京口，为一卷。（《〈指南录〉后序》）"
-    url: xxxx
-    vernacular: 从北门外出发，经过吴门、毗陵，渡过瓜洲，又回到京口的，作为一卷。
-  - word: 发
-    type: 【动词】
-    phonetic: fa1
-    trans: ❸派遣;征发。
-    ancient: 二世元年七月，<发>闾左谪戍渔阳九百人，屯大泽乡。（《陈涉世家》）
-    url: xxxx
-    vernacular: 二世元年七月，发闾左适戍渔阳，九百人屯大泽乡。翻译为秦二世元年七月，朝廷征发贫苦人民去驻守渔阳，九百人驻扎在大泽乡。
-  - word: 发
-    type: 【动词】
-    phonetic: fa1
-    trans: ❸派遣;征发。
-    ancient: 孤当续<发>人众，多载资粮，为卿后援。（《资治通鉴•汉纪五十七》）
-    url: xxxx
-    vernacular: "我会后续给你派遣众多人员,让他们多多运载物资粮草,作为你的后援。"
-  - word: 发
-    type: 【动词】
-    phonetic: fa1
-    trans: ❸派遣;征发。
-    ancient: 方欲<发>使送武等，会缑王与长水虞常等谋反匈奴中。（《苏武传》）
-    url: xxxx
-    vernacular: 单于正要派使者护送苏武等人归汉，适逢缑王与长水人虞常等人在匈奴内部谋反。
-  - word: 发
-    type: 【动词】
-    phonetic: fa1
-    trans: ❸派遣;征发。
-    ancient: "<发>沛中儿得百二十人,教之歌。（《史记•高祖本纪》）"
-    url: xxxx
-    vernacular: 挑选沛中儿童一百二十人，教他们唱歌。
-  - word: 发
-    type: 【动词】
-    phonetic: fa1
-    trans: ❹发动。
-    ancient: 虞常等七十余人欲<发>。其一人夜亡（逃走），告之（告发这件事）。（《史记•李广苏建传》）
-    url: xxxx
-    vernacular: 虞常等七十余人将要起事，其中一人夜晚逃走，告发了这件事。
-  - word: 发
-    type: 【动词】
-    phonetic: fa1
-    trans: ❹发动。
-    ancient: "大阉亦逡巡畏义，非常之谋（篡夺帝位的阴谋）难于猝<发>。（《五人墓碑记》）’,’’"
-    url: xxxx
-    vernacular: 魏阉也迟疑不决，害怕正义，篡位的阴谋难于立刻发动。
-  - word: 发
-    type: 【动词】
-    phonetic: fa1
-    trans: ❺打幵;挖开。
-    ancient: 轲既取图奉之，<发>图，图穷而匕首见。（《战国策•燕策三》）
-    url: xxxx
-    vernacular: 打开地图，地图全部打开，匕首就露了出来。
-  - word: 发
-    type: 【动词】
-    phonetic: fa1
-    trans: ❺打幵;挖开。
-    ancient: 成（成名，人名）有子九岁，窥父不在，窃<发>盆。（《促织》）
-    url: xxxx
-    vernacular: 成名有个儿子，年九岁，看到爸爸不在（家），偷偷打开盆子来看。
-  - word: 发
-    type: 【动词】
-    phonetic: fa1
-    trans: ❺打幵;挖开。
-    ancient: 【高考题例】贬谪元祐诸臣，奏<发>司马光墓。（《宋史•许将传》）
-    url: xxxx
-    vernacular: 贬谪元佑时的大臣，上奏挖司马光的墓。
-  - word: 发
-    type: 【动词】
-    phonetic: fa1
-    trans: ❻发现;发觉。
-    ancient: 奔走遐（远）方，自迷正途，又安能<发>狼踪以指示夫子之鹰犬也？（《中山狼传》）
-    url: xxxx
-    vernacular: 奔走远方，自己迷失了道路，又怎么能发现狼的踪迹来指示给你的鹰犬呢？
-  - word: 发
-    type: 【动词】
-    phonetic: fa1
-    trans: ❼发作;抒发。
-    ancient: 此三子者，皆布衣之士也，怀怒未<发>，休祲（吉凶的征兆）降于天，与臣而将四矣。（《唐雎不雇使命》）
-    url: xxxx
-    vernacular: (专诸、聂政、要离)这三个人都是普通百姓中有胆有识的人，心中的怒气还没有发作出来，上天就降下了征兆，(今天)加上我就将成为四个人了。
-  - word: 发
-    type: 【动词】
-    phonetic: fa1
-    trans: ❼发作;抒发。
-    ancient: 安能屈豪杰之流，扼腕墓道，<发>其志士之悲哉？（《五人墓碑记》）
-    url: xxxx
-    vernacular: 又怎么能让豪杰们屈身下拜，在墓道上扼腕惋惜，抒发他们有志之士的悲叹呢？
-  - word: 发
-    type: 【动词】
-    phonetic: fa1
-    trans: ❽发出。
-    ancient: 征于色，<发>于声，而后喻。（《生于忧患，死于安乐》）
-    url: xxxx
-    vernacular: 表现在脸色上，流露在言谈中，才能被人们了解。
-  - word: 发
-    type: 【动词】
-    phonetic: fa1
-    trans: ❽发出。
-    ancient: 爽籁<发>而清风生，纤歌凝而白云遏。（《滕王阁序》）
-    url: xxxx
-    vernacular: 超逸的兴致立即兴起，排箫的音响引来的徐徐清风，柔缓的歌声吸引住飘动的白云。
-  - word: 发
-    type: 【动词】
-    phonetic: fa1
-    trans: ❽发出。
-    ancient: 每念斯耻，汗未尝不<发>背沾衣也。（《报任安书》）
-    url: xxxx
-    vernacular: 每当想到这件耻辱的事，冷汗没有不从脊背上冒出来而沾湿衣襟的。
-  - word: 发
-    type: 【动词】
-    phonetic: fa1
-    trans: ❾兴起。
-    ancient: "舜<发>于畎亩（quan3,田地），傅说举于版筑之间。 （《生于忧患，死于安乐》）"
-    url: xxxx
-    vernacular: 舜从田野耕作之中被起用，傅说从筑墙的劳作之中被起用
-  - word: 发
-    type: 【动词】
-    phonetic: fa1
-    trans: ❿发布。
-    ancient: 今王<发>政施仁，使天下仕者皆欲立于王之朝，耕者皆欲耕于王之野。（《齐桓晋文之事》）
-    url: xxxx
-    vernacular: 现在大王发布政令，施行仁政，使天下的仁义之士都想在您的朝中效力。种田的都想到您的田野来耕作
-  - word: 发
-    type: 【动词】
-    phonetic: fa1
-    trans: ⑪ 拿出。
-    ancient: "有贤士大夫<发>五十金，买五人之脰（dou4,头）而函之，卒与尸合。（《五人墓碑记》）"
-    url: xxxx
-    vernacular: 有位有名望的人拿出五十两银子，买下五个人的头并用木匣装起来，最终与尸体合到了一起。
-  - word: 发
-    type: 【动词】
-    phonetic: fa1
-    trans: ⑫ 送出。
-    ancient: 大王欲得璧，使人<发>书至赵王。（《廉颇蔺相如列传》）
-    url: xxxx
-    vernacular: 大王想要得到和氏璧，派人送信给赵王。
-  - word: 发
-    type: 【动词】
-    phonetic: fa1
-    trans: ⑬发起;提出。
-    ancient: 【高考题例】诸律令所更定，及列侯悉就国，其说皆自贾生<发>之。（《史记•屈原贾生列传》）
-    url: xxxx
-    vernacular: 但此后各项法令的更改，以及诸侯必须到封地去上任等事，这都是贾谊的主张。
-  - word: 发
-    type: 【动词】
-    phonetic: fa1
-    trans: ⑬发起;提出。
-    ancient: 庆典霈泽，丁钱减半，亦自燧<发>之。（《宋史•萧燧传》）
-    url: xxxx
-    vernacular: 庆典时推布恩泽（沛泽，盛大的恩泽），丁钱减免一半，也是从萧燧发起的。
-  - word: 发
-    type: 【动词】
-    phonetic: fa1
-    trans: ⑭开放。
-    ancient: 野芳<发>而幽香，佳木秀而繁阴。（《醉翁亭记》）
-    url: xxxx
-    vernacular: 野花开了，有一股清幽的香味；好的树木枝繁叶茂，形成一片浓密的绿荫。
-  - word: 发
-    type: 【动词】
-    phonetic: fa1
-    trans: ⑮特指开仓赈民。
-    ancient: 狗彘食人食而不知检，涂有饿莩而不知<发>。（《寡人之于国也》）
-    url: xxxx
-    vernacular: 猪狗吃的是人吃的食物而不知道设法制止，路上出现饿死的人而不知道赈济饥民
-  - word: 发
-    type: 【动词】
-    phonetic: fa1
-    trans: ⑮特指开仓赈民。
-    ancient: 【高考题例】为请诸朝，<发>太仓米振之。（《宋史•萧燧传》）
-    url: xxxx
-    vernacular: 为此向朝廷请求，发放皇粮来救济百姓。
-  - word: 发
-    type: 【动词】
-    phonetic: fa1
-    trans: ⑯揭露;揭发。
-    ancient: 单于使卫律治其事，张胜闻之，恐前语<发>，以状语武。（《苏武传》）
-    url: xxxx
-    vernacular: 单于派卫律审理这一案件。张胜听到这个消息，担心他和虞常私下所说的那些话被揭发，便把事情经过告诉了苏武。
-  - word: 发
-    type: 【动词】
-    phonetic: fa1
-    trans: ⑯揭露;揭发。
-    ancient: 博辩广大危其身者，<发>人之恶者也。（《史记•孔子世家》）
-    url: xxxx
-    vernacular: 博洽善辩宽广弘大反而危及其身，是因为抉发别人丑恶的缘故。
-  - word: 发
-    type: 【量词】
-    phonetic: fa1
-    trans: 用于箭、枪弹、炮弹等。
-    ancient: 君当解去兹带，束以他物，然后叩树三<发>，当有应者。（《柳毅传》）。
-    url: xxxx
-    vernacular: 您（到了那里）要解下腰带，束上别的东西，在树干上敲三下，就会有人出来招呼您。
   - word: 伐
     type: 【名词】
     phonetic: fa2
     trans: 功业。
     ancient: 公子诚一开口请如姬，如姬必许诺，则得虎符夺晋鄙军，北救赵而西却秦，此五霸之<伐>也。（《史记•魏公子列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "公子果真一开口请求如姬帮忙,如姬必定答应,那么就能得到虎符而夺了晋鄙的军权,北边可救赵国,西边能抵御秦国,这是像春秋五霸那样的功业啊."
   - word: 伐
     type: 【名词】
     phonetic: fa2
     trans: 功业。
     ancient: "怀王者，吾家项梁所立耳，非有功<伐>,何以得主约!（《史记•高祖本纪》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 怀王这个人，我家项梁所立，没有什么功劳，凭什么主持约定
   - word: 伐
     type: 【名词】
     phonetic: fa2
     trans: 功业。
     ancient: 自矜功<伐>，奋其私智而不师古。（《史记•项羽本纪》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 自己夸耀功劳，独逞个人的私欲，而不效法古人
   - word: 伐
     type: 【名词】
     phonetic: fa2
     trans: 功业。
     ancient: 北救赵而西却秦，此五霸之<伐>也。（《史记•魏公子列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "北边可救赵国,西边能抵御秦国,这是像春秋五霸那样的功业啊."
   - word: 伐
     type: 【动词】
     phonetic: fa2
     trans: ❶砍伐。
     ancient: 卖炭翁，<伐>薪烧炭南山中。（唐•白居易《卖炭翁》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 有位卖炭的老翁，整年在南山里砍柴烧炭。
   - word: 伐
     type: 【动词】
     phonetic: fa2
     trans: ❶砍伐。
     ancient: "斯亦<伐>根以求木茂,塞源而欲流长者也。（《谏太宗十思疏》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 这就像砍伐树木的根却要求树木茂盛，阻塞水的源头却希望水流得长远一样啊！
   - word: 伐
     type: 【动词】
     phonetic: fa2
     trans: ❷讨伐;进攻。
     ancient: 十年春，齐师<伐>我。（《曹刿论战》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 鲁庄公十年的春天，齐国军队攻打鲁国。
   - word: 伐
     type: 【动词】
     phonetic: fa2
     trans: ❷讨伐;进攻。
     ancient: "将军身被坚执锐，<伐>无道,诛暴秦，复立楚国之社稷，功宜为王。（《陈涉世家》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: "将军亲自穿着铁甲,手里拿锐利的武器,讨伐昏庸无道的暴君,诛灭凶残暴虐的秦王,重建楚国,论功劳应当称王。"
   - word: 伐
     type: 【动词】
     phonetic: fa2
     trans: ❷讨伐;进攻。
     ancient: 其后秦<伐>赵，拔石城。（《廉颇蔺相如列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 此后秦国攻打赵国，夺取了石城。
   - word: 伐
     type: 【动词】
     phonetic: fa2
     trans: ❸自夸;炫耀。
-    ancient: 自<伐>者无功。（《庄子•山木》）
+    ancient: 自<伐>者无功；功成者堕，名成者亏。。（《庄子•山木》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 自吹自擂的人不会成就功业；功业成就了而不知退隐的人必定会毁败，名声彰显而不知韬光隐晦的必定会遭到损伤。
   - word: 伐
     type: 【动词】
     phonetic: fa2
     trans: ❸自夸;炫耀。
     ancient: "每一令出，平（屈原,名平）<伐>其功，曰以为\"非我莫能为\"也。（《史记•,屈原贾生列传》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 每出一道法令，屈原就炫耀自己的功劳，说：‘除了我，没有人能制定法令了’。
   - word: 伐
     type: 【动词】
     phonetic: fa2
     trans: ❸自夸;炫耀。
     ancient: 假令韩信学道谦让，不<伐>己功，不矜其能，则庶几哉。（《史记•淮阴侯列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 假如韩信懂得谦卑谦下，不自我炫耀功劳，不骄傲自己的能力，差不多可平安无事，保其余生。
   - word: 凡
     type: 【名词】
     phonetic: fan2
