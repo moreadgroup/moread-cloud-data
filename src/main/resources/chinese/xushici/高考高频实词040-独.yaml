@@ -10,13 +10,13 @@ words:
         sentences:
           - ancient: 老而无子曰<独>。（《孟子•梁惠王下》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 年老而没有子女的叫“独”
           - ancient: 恤鳏寡，存（关怀）孤<独>（年老没有儿子）。（《史记・司马相如列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 抚恤鳏寡，慰问孤儿和无子的老人。
           - ancient: 使老有所终，壮有所用，幼有所长，矜、寡、孤、<独>、废疾者皆有所养。（《大道之行也》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 使天下的老人都有善终,使壮年人都有用武之地,使孩子们都能健康成长。老而无妻、老而无夫、幼而无父、老而无子以及身有残疾的人都能得到供养。
   - word: 独
     type: 【形容词】
     phonetic: du2
@@ -25,12 +25,12 @@ words:
     samples:
       - trans: 单独的;单一的。
         sentences:
-          - ancient: <独>木不林。（《后汉书•崔驱传》）
+          - ancient: 盖高树靡阴，<独>木不林。（《后汉书•崔驱传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 树太高了没有树荫,一棵树成不了森林。
           - ancient: <独>夫之心，日益骄固。（《阿房宫赋》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 可是失尽人心的秦始皇的思想，一天天更加骄傲顽固。
   - word: 独
     type: 【副词】
     phonetic: du2
@@ -41,38 +41,38 @@ words:
         sentences:
           - ancient: 沛公则置车骑，脱身<独>骑。（《鸿门宴》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 刘邦就留下车辆和随从人马，独自骑马脱身
           - ancient: 至莫（暮）夜月明，<独>与迈乘小舟，至绝壁下。（《石钟山记》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: 向大王有意督过之，脱身<独>去，已至军矣。（《鸿门宴》）
+            vernacular: 到了晚上月光明亮，特地单独和苏迈坐着小船到断壁下面。
+          - ancient: 闻大王有意督过之，脱身<独>去，已至军矣。（《鸿门宴》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 听说大王有意要责备他，脱身独自离开，已经回到军营了。
           - ancient: 既自以心为形役，奚惆怅而<独>悲？（《归去来兮辞》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "【高考题例】城破，吾夫必死，吾义不<独>存，然不可使花氏无后，若等善抚之。（《明史•花云传》）\t；"
+            vernacular: 既然自己的心灵为形体所役使，为什么如此失意而独自伤悲？
+          - ancient: 【高考题例】城破，吾夫必死，吾义不<独>存，然不可使花氏无后，若等善抚之。（《明史•花云传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 一旦城被攻破，我丈夫必死无疑。我坚守道义决不独自活在世上，但是不能让花家断了后代，你们好好抚养他长大吧。
       - trans: ❷仅;只;唯独。
         sentences:
           - ancient: 举世混浊而我<独>清，众人皆醉而我<独>醒，是以见放（被流放）。（《史记•屈原贾生列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 天下都是浑浊不堪只有我清澈透明（不同流合污），世人都迷醉了唯独我清醒，因此被放逐。
           - ancient: 予<独>爱莲之出淤泥而不染，濯清涟而不妖。（《爱莲说》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我唯独喜爱莲花,它从淤泥中长出来,却不沾染污秽,在清水里洗涤过但是不显得妖媚。
           - ancient: 臣之辛苦，非<独>蜀之人士及二州牧伯所见明知，皇天后土，实所共鉴。（《陈情度表》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我的辛酸苦楚,并不仅仅被蜀地的百姓及益州、梁州的长官所亲眼目睹、内心明白,连天地神明也都看得清清楚楚。
       - trans: ❸难道。
         sentences:
           - ancient: 丘虽不吾誉（称赞我），吾<独>不自知邪？（《庄子•盗跖》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 你孔丘即使不当面吹捧我，我难道不知道吗？
           - ancient: 相如虽驽（才能低劣），<独>畏廉将军哉？（《廉颇蔺相如列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我蔺相如虽然无能，难道会害怕廉将军吗！
           - ancient: 纵江东父兄怜而王我，我何面目见之？纵彼不言，籍<独>不愧于心乎？（《项羽之死》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 纵使江东父老兄弟怜爱我让我做王，我又有什么脸面去见他们？纵使他们不说什么，我项籍难道心中没有愧吗？
