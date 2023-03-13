@@ -1,13 +1,34 @@
 ---
 words:
-  - word: xxxx
+  - word: 伐
     type: 【名词】
-    phonetic: xx1
+    phonetic: fa2
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: 功业。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 【例句】公子诚一开口请如姬，如姬必许诺，则得虎符夺晋鄙军，北救赵而西却秦，此五霸之伐也。（《史记•魏公子列传》）
+          - ancient: 怀王者，吾家项梁所立耳，非有功伐,何以得主约!（《史记•高祖本纪》）
+          - ancient: 自矜功伐，奋其私智而不师古。（《史记•项羽本纪》）
+          - ancient: 北救赵而西却秦，此五霸之伐也。（《史记•魏公子列传》）
+  - word: 伐
+    type: 【动词】
+    phonetic: fa2
+    tags:
+      - 高中
+    samples:
+      - trans: ❶砍伐。
+        sentences:
+          - ancient: 【例句】卖炭翁，伐薪烧炭南山中。（唐•白居易《卖炭翁》）
+          - ancient: 斯亦伐根以求木茂,塞源而欲流长者也。（《谏太宗十思疏》）
+      - trans: ❷讨伐;进攻。
+        sentences:
+          - ancient: 【例句】十年春，齐师伐我。（《曹刿论战》）
+          - ancient: 将军身被坚执锐，伐无道,诛暴秦，复立楚国之社稷，功宜为王。（《陈涉世家》）
+          - ancient: 其后秦伐赵，拔石城。（《廉颇蔺相如列传》）
+      - trans: ❸自夸;炫耀。
+        sentences:
+          - ancient: 【例句】自伐者无功。（《庄子•山木》）
+          - ancient: 每一令出，平（屈原,名平）伐其功，曰以为"非我莫能为"也。（《史记•,屈原贾生列传》）
+          - ancient: 假令韩信学道谦让，不伐己功，不矜其能，则庶几哉。（《史记•淮阴侯列传》）
