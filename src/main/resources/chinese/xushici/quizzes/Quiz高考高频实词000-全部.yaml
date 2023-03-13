@@ -1,299 +1,110 @@
 ---
 quizzes:
-  - word: 度
-    type: 【名词】
-    phonetic: du4
-    trans: ❶尺寸;计量长短的标准。
-    ancient: 已得履，乃曰："吾忘持<度>。"（《韩非子•外储说左上》）
-    url: xxxx
-    vernacular: 已经拿到鞋子，却说：“我忘记带量好的尺码了。”
-  - word: 度
-    type: 【名词】
-    phonetic: du4
-    trans: ❶尺寸;计量长短的标准。
-    ancient: 遂见东方君长，合时月正日，同律<度>量衡。（《史记・五帝本纪》）
-    url: xxxx
-    vernacular: 他就召见东方各诸侯，协调校正四时节气、月之大小、日之甲乙，统一音律和长度、容量、重量的标准
-  - word: 度
-    type: 【名词】
-    phonetic: du4
-    trans: ❷限度；尺度。
-    ancient: 生之有时而用之亡<度>，则物力必屈（尽）。（《论积贮疏》）
-    url: xxxx
-    vernacular: 生产东西有时节的限制，而消费它却没有限度，那么社会财富一定会缺乏。
-  - word: 度
-    type: 【名词】
-    phonetic: du4
-    trans: ❷限度；尺度。
-    ancient: 乐盘游，则思三驱以为<度>。（《谏太宗十思疏》）
-    url: xxxx
-    vernacular: 喜爱狩猎，就想到网三面留一面
-  - word: 度
-    type: 【名词】
-    phonetic: du4
-    trans: ❸制度;法度。
-    ancient: 夫子知<度>与礼矣，我实纵欲而不能自克也。（《左传•昭公十年》）
-    url: xxxx
-    vernacular: （子产）他是知律令底线和人伦底线的，（而）我真是纵欲无度而不自醒啊。
-  - word: 度
-    type: 【名词】
-    phonetic: du4
-    trans: ❸制度;法度。
-    ancient: 有司言淮南王长废先帝法，不听天子诏，居处毋<度>，出入拟于天子。（《史记•孝文本纪》）
-    url: xxxx
-    vernacular: 主管大臣报告淮南王刘长废弃先帝的法律，不听从皇帝的诏令，宫室居所超过规定的限度，出入车马仪仗比拟天子
-  - word: 度
-    type: 【名词】
-    phonetic: du4
-    trans: ❸制度;法度。
-    ancient: 当是时也，商君佐之，内立法<度>。（《过秦论》）
-    url: xxxx
-    vernacular: 在那时候，有商鞅辅佐他，对内确立法律制度
-  - word: 度
-    type: 【名词】
-    phonetic: du4
-    trans: ❸制度;法度。
-    ancient: 背绳墨以追曲兮，竞周容以为<度>。（《离骚》）
-    url: xxxx
-    vernacular: 违背是非标准追求邪曲，争着苟合取悦作为法则。
-  - word: 度
-    type: 【名词】
-    phonetic: du4
-    trans: ❸制度;法度。
-    ancient: 仓廩实而知礼节，衣食足而知荣辱，上服<度>则六亲固。（《史记•管仲列传》）
-    url: xxxx
-    vernacular: 仓库储备充实了，百姓才懂得礼节;衣食丰足了，百姓才能分辨荣辱;统治者的作为合乎礼节法度，六亲才会得以稳固。
-  - word: 度
-    type: 【名词】
-    phonetic: du4
-    trans: ❹气度;胸襟。
-    ancient: 高祖为人...宽仁爱人，意豁如也。常有大<度>，不事家人生产作业。（《汉书•高帝纪》）
-    url: xxxx
-    vernacular: 高祖宽厚仁爱，胸襟十分开朗。平时不拘小节，不很安心从事一般生产劳动。
-  - word: 度
-    type: 【名词】
-    phonetic: du4
-    trans: ❹气度;胸襟。
-    ancient: 父完，沉深有大<度>。（《后汉书•献帝伏皇后纪》）
-    url: xxxx
-    vernacular: 父伏完，沉着器度大
-  - word: 度
-    type: 【名词】
-    phonetic: du4
-    trans: ❹气度;胸襟。
-    ancient: 以小舟涉鲸波出，无可奈何，而死固付之<度>外矣。（《〈指南录〉后序》）
-    url: xxxx
-    vernacular: "靠了一条小船渡过惊涛骇浪,实在无可奈何,对于死本已置之度外了!考查知识点：翻译思路分析与延伸： 以：用、靠了，介词。涉：渡过，渡河。鲸波：惊涛骇浪。 2.固：本来。度：考虑。付之度外：付之考虑之外。"
-  - word: 度
-    type: 【名词】
-    phonetic: du4
-    trans: ❺气质;态度。
-    ancient: 皇览揆余于初<度>兮，肇锡余以嘉名。（《离骚》）
-    url: xxxx
-    vernacular: 父亲仔细揣测我的生辰，于是赐给我相应的美名。
-  - word: 度
-    type: 【名词】
-    phonetic: du4
-    trans: ❺气质;态度。
-    ancient: 群臣惊愕，卒起不意，尽失其<度>。（《荆轲刺秦王》）
-    url: xxxx
-    vernacular: 秦国的君臣都惊呆了，事情突然发生，意料不到，大家都失去了常态。
-  - word: 度
-    type: 【动词】
-    phonetic: du4
-    trans: ❶越过;度过。
-    ancient: 我欲因之梦吴越，一夜飞<度>镜湖月。（《梦游天姥吟留别》）
-    url: xxxx
-    vernacular: 我根据越人说的话梦游到吴越，一天夜晚飞渡过明月映照下的镜湖。
-  - word: 度
-    type: 【动词】
-    phonetic: du4
-    trans: ❶越过;度过。
-    ancient: 今年欢笑复明年，秋月春风等闲<度>。（《琵琶行》）
-    url: xxxx
-    vernacular: 年复一年都在欢笑打闹中度过；秋去春来美好的时光白白消磨。
-  - word: 度
-    type: 【动词】
-    phonetic: du4
-    trans: ❷依音节唱。
-    ancient: 一夫登场，四座屏息，音若细发，响彻云际，每<度>一字，几尽一刻，飞鸟为之徘徊，壮士听而下泪矣。（明•袁宏道《虎丘记》）
-    url: xxxx
-    vernacular: 一个人登场，四围的人屏住声息，声音如细而直上的毛发，响彻云端，每吐一字，几乎拖长达一刻之久，飞鸟听了为之回翔盘旋，壮士听了感动得流下眼泪。
-  - word: 度
-    type: 【动词】
-    phonetic: du4
-    trans: ❸创作（乐曲）。
-    ancient: 予怀怆然，感慨今昔，因自<度>此曲。（《扬州慢》序）
-    url: xxxx
-    vernacular: 我内心悲凉，感慨于扬州城今昔的变化，于是自创了这支曲子。
-  - word: 度
-    type: 【量词】
-    phonetic: du4
-    trans: 次;回
-    ancient: 岐王宅里寻常见，崔九堂前几<度>闻。（唐•杜甫《江南逢李龟年》）
-    url: xxxx
-    vernacular: 当年我经常在岐王与崔九的住宅里见到你并听到你的歌声。
-  - word: 度
-    type: 【动词】
-    phonetic: duo2
-    trans: ❶计量长短。
-    ancient: 郑人有欲买履者，先自<度>其足而置之其坐。（《韩非子•外储说左上》）
-    url: xxxx
-    vernacular: 郑国有个想买鞋子的人，他先量好自己脚的尺码，然后把量出的尺码放在自己的座位上。
-  - word: 度
-    type: 【动词】
-    phonetic: duo2
-    trans: ❶计量长短。
-    ancient: 权，然后知轻重；<度>，然后知长短。（《齐桓晋文之事》）
-    url: xxxx
-    vernacular: 用秤称，才能知道轻重；用尺量，才能知道长短
-  - word: 度
-    type: 【动词】
-    phonetic: duo2
-    trans: ❷计算。
-    ancient: 试使山东之国与陈涉<度>长絜（xie2，用绳围着量）大，比权量力，则不可同年而语矣。（《过秦论》）
-    url: xxxx
-    vernacular: 假使拿崤山函谷关以东各国诸侯来跟陈涉量量长短，比比大小，比较一下他们的权威，衡量衡量他们的实力，那简直不能够同年而语，相提并论。
-  - word: 度
-    type: 【动词】
-    phonetic: duo2
-    trans: ❸估计;揣测。
-    ancient: <度>我至军中，公乃入。（《鸿门宴》）
-    url: xxxx
-    vernacular: 估计我回到军营里，你才进去。
-  - word: 度
-    type: 【动词】
-    phonetic: duo2
-    trans: ❸估计;揣测。
-    ancient: <度>道里会遇之礼毕，还，不过三十日。（《廉颇蔺相如列传》）
-    url: xxxx
-    vernacular: 估计路程和会谈结束，再加上返回的时间，不会超过三十天。
-  - word: 度
-    type: 【动词】
-    phonetic: duo2
-    trans: ❸估计;揣测。
-    ancient: 相如<度>秦王特以诈佯为予赵城，实不可得。（《廉颇蔺相如列传》）
-    url: xxxx
-    vernacular: 相如估计秦王只不过用欺诈手段假装给赵国城邑，实际上赵国根本不可能得到
-  - word: 度
-    type: 【动词】
-    phonetic: duo2
-    trans: ❹考虑;衡量。
-    ancient: 权（用秤称），然后知轻重；度（用尺量），然后知长短;物皆然，心为甚。王请<度>之。（《齐桓晋文之事》）
-    url: xxxx
-    vernacular: 用秤称，才能知道轻重；用尺量，才能知道长短，任何事物都是如此，人心更是这样。大王，您请思量一下吧！
-  - word: 度
-    type: 【动词】
-    phonetic: duo2
-    trans: ❹考虑;衡量。
-    ancient: <度>义而后动，是而不见可悔故也。（宋•王安石《答司马谏议书》）
-    url: xxxx
-    vernacular: （这是他）考虑到（迁都）合理，然后坚决行动；认为对（就）看不出有什么可以后悔的缘故啊。
   - word: 尔
     type: 【代词】
     phonetic: er3
     trans: ❶人称代词。相当于""你（们）""你（们）的"。
-    ancient: "官命促<尔>耕，勖（Xu4,勉励）<尔>植。（《种树郭橐驼传》）"
+    ancient: 官命促<尔>耕，勖（Xu4，勉励）<尔>植。（《种树郭橐驼传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 长官命令：催促你们耕地，勉励你们种植
   - word: 尔
     type: 【代词】
     phonetic: er3
     trans: ❶人称代词。相当于""你（们）""你（们）的"。
     ancient: 与<尔>三矢，<尔>其羌忘乃父之志！（《伶官传序》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 交给你三支箭，你不要忘记你父亲报仇的志向。
   - word: 尔
     type: 【代词】
     phonetic: er3
     trans: ❶人称代词。相当于""你（们）""你（们）的"。
     ancient: 以<尔>车来，以我贿迁。（《诗经•卫风•氓》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 赶着你的车子来，为我搬运好嫁妆。以，指用;尔，就是‘你’的意思;车，指这个就好理解了;来，有‘来接’的意思;我，可以翻译为我的;贿，指嫁妆.迁，指接走.
   - word: 尔
     type: 【代词】
     phonetic: er3
     trans: ❷指示代词。相当于"这个""这样"。
     ancient: 子贡曰："夫子何善（称赞）<尔>也?"（《礼记•檀弓上》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 老师为什么称赞这件丧事办得好呢？
   - word: 尔
     type: 【代词】
     phonetic: er3
     trans: ❷指示代词。相当于"这个""这样"。
-    ancient: "同是被逼迫,君<尔>妾亦然。（《孔雀东南飞》）"
+    ancient: 同是被逼迫，君<尔>妾亦然。（《孔雀东南飞》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 两人同样是被逼迫，你是这样我也是这样受熬煎。
   - word: 尔
     type: 【代词】
     phonetic: er3
     trans: ❷指示代词。相当于"这个""这样"。
     ancient: 府吏再拜还，长叹空房中，作计乃<尔>立。（《孔雀东南飞》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 府吏再拜之后转身走回去，在空房中长叹不已，他的决心就这样定下了。
   - word: 尔
     type: 【代词】
     phonetic: er3
     trans: ❷指示代词。相当于"这个""这样"。
-    ancient: "问君何能<尔>,心远地自偏。（《饮酒》）"
+    ancient: 问君何能<尔>，心远地自偏。（《饮酒》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 问我如何能做到这样，只要心中所想远离世俗，自然就会觉得所处地方僻静了。
   - word: 尔
     type: 【代词】
     phonetic: er3
     trans: ❷指示代词。相当于"这个""这样"。
-    ancient: "【高考题例】后怒解，方被引入,谓日：\"公意乃<尔>,朕复何望!\"护儿因不敢言。（《北史•来护儿传》）"
+    ancient: 【高考题例】后怒解，方被引入，谓日：“公意乃<尔>，朕复何望!“护儿因不敢言。（《北史•来护儿传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 后来，炀帝怒气消解，才令人领来护儿入见，说：“公竟然有这样的意思，朕还有什么指望？”来护儿于是不敢再说话。
   - word: 尔
     type: 【代词】
     phonetic: er3
     trans: ❸指示代词。相当于"这""那"。
     ancient: <尔>来四万八千岁，不与秦塞通人烟。（《蜀道难》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 自从那时至今约有四万八千年，秦蜀被秦岭所阻从不沟通往返。
   - word: 尔
     type: 【助词】
     phonetic: er3
     trans: ❶用作【形容词】、副词词尾。相当于"的""地""着"。
-    ancient: "子路率<尔>而对曰\t.....（《子路、曾晳、冉有、公西华侍坐》）"
+    ancient: 子路率<尔>而对曰.....（《子路、曾晳、冉有、公西华侍坐》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "子路轻率而急忙地回答说。率尔是轻率,急忙的意思,对是回答。"
   - word: 尔
     type: 【助词】
     phonetic: er3
     trans: ❶用作【形容词】、副词词尾。相当于"的""地""着"。
-    ancient: "鼓瑟希（稀疏），铿<尔>，舍瑟而作（起身）。（《子路、曾晳、冉有、公,西华侍坐》）"
+    ancient: 鼓瑟希（稀疏），铿<尔>，舍瑟而作（起身）。（《子路、曾晳、冉有、公，西华侍坐》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "曾皙弹瑟的声音渐渐稀疏下来,铿的一声,放下瑟站起身来 。"
   - word: 尔
     type: 【助词】
     phonetic: er3
     trans: ❶用作【形容词】、副词词尾。相当于"的""地""着"。
     ancient: 渔父莞<尔>而笑，鼓槌而去。（《渔父》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "渔父听了,微微一笑,他举桨划船离去"
   - word: 尔
     type: 【助词】
     phonetic: er3
     trans: ❶用作【形容词】、副词词尾。相当于"的""地""着"。
     ancient: 佁然不动，俶<尔>远逝，往来翕忽。（《小石潭记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 呆呆地（停在那里）一动不动，忽然间(又)向远处游去了，来来往往，轻快敏捷。
   - word: 尔
     type: 【助词】
     phonetic: er3
     trans: ❷通"耳"。相当于"了""而已"或""罢了"。
     ancient: 君若用臣之谋，则今曰取郭（通"虢"，国名），而明日取虞（国名）<尔>，君何忧焉？（《公辛传•僖公二年》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 大王如果采用我的计谋，则可以今天攻取虢国，明天攻取虞国，大王有什么好忧虑的呢？
   - word: 尔
     type: 【助词】
     phonetic: er3
     trans: ❷通"耳"。相当于"了""而已"或""罢了"。
-    ancient: "叶公子高（人名）入据楚，诛白公,定楚国，如反手<尔>。（《荀子・非相》）"
+    ancient: 叶公子高（人名）入据楚，诛白公，定楚国，如反手<尔>。（《荀子・非相》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 叶公子高却领兵入楚，杀掉白公，安定楚国，就像把手掌翻过来似的一样容易。
   - word: 迩
     type: 【形容词】
     phonetic: er
