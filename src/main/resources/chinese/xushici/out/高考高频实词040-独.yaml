@@ -1,13 +1,78 @@
 ---
 words:
-  - word: xxxx
+  - word: 独
     type: 【名词】
-    phonetic: xx1
+    phonetic: du2
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: 没有子女的老人。
         sentences:
-          - ancient: xxx
+          - ancient: 老而无子曰<独>。（《孟子•梁惠王下》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 恤鳏寡，存（关怀）孤<独>（年老没有儿子）。（《史记・司马相如列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 使老有所终，壮有所用，幼有所长，矜、寡、孤、<独>、废疾者皆有所养。（《大道之行也》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 独
+    type: 【形容词】
+    phonetic: du2
+    tags:
+      - 高中
+    samples:
+      - trans: 单独的;单一的。
+        sentences:
+          - ancient: <独>木不林。（《后汉书•崔驱传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <独>夫之心，日益骄固。（《阿房宫赋》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 独
+    type: 【副词】
+    phonetic: du2
+    tags:
+      - 高中
+    samples:
+      - trans: ❶单独;独自。
+        sentences:
+          - ancient: 沛公则置车骑，脱身<独>骑。（《鸿门宴》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 至莫（暮）夜月明，<独>与迈乘小舟，至绝壁下。（《石钟山记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 向大王有意督过之，脱身<独>去，已至军矣。（《鸿门宴》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 既自以心为形役，奚惆怅而<独>悲？（《归去来兮辞》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "【高考题例】城破，吾夫必死，吾义不<独>存，然不可使花氏无后，若等善抚之。（《明史•花云传》）\t；"
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷仅;只;唯独。
+        sentences:
+          - ancient: 举世混浊而我<独>清，众人皆醉而我<独>醒，是以见放（被流放）。（《史记•屈原贾生列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 予<独>爱莲之出淤泥而不染，濯清涟而不妖。（《爱莲说》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 臣之辛苦，非<独>蜀之人士及二州牧伯所见明知，皇天后土，实所共鉴。（《陈情度表》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸难道。
+        sentences:
+          - ancient: 丘虽不吾誉（称赞我），吾<独>不自知邪？（《庄子•盗跖》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 相如虽驽（才能低劣），<独>畏廉将军哉？（《廉颇蔺相如列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 纵江东父兄怜而王我，我何面目见之？纵彼不言，籍<独>不愧于心乎？（《项羽之死》）
             url: xxxx
             vernacular: xxxx
