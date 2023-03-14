@@ -10,16 +10,16 @@ words:
         sentences:
           - ancient: 微（假如没有）<夫>人之力不及此。（《烛之武退秦师》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: <夫>入不言，言必有中（合理）。（《论语•先进》）
+            vernacular: 如不是秦国国君的力量，就没有我的今天。
+          - ancient: <夫>人不言，言必有中（合理）。（《论语•先进》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 那个人平日不太说话, 但一开口就恰当中肯。
           - ancient: 客亦知<夫>水与月乎？（《赤壁碰》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 你可也知道这水与月？
           - ancient: 既其出，则或咎其欲出者，而余亦悔其随之而不得极<夫>游之乐也。（《游褒禅山记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我们出洞以后，就有人埋怨那主张退出的人，我也后悔跟他出来，而未能极尽游洞的乐趣。
   - word: 夫
     type: 【助词】语气助词。
     phonetic: fu2
@@ -30,41 +30,41 @@ words:
         sentences:
           - ancient: <夫>战，勇气也。（《曹刿论战》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 作战，是靠敢作敢为毫不畏惧的气概。
           - ancient: <夫>晋，何厌之有?（《烛之武退秦师》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 晋国，哪里有满足的时候呢？
           - ancient: <夫>夷以近，则游者众；险以远，则至者少。（《游褒禅山记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 平坦而又近的地方，前来游览的人便多；危险而又远的地方，前来游览的人便少。
           - ancient: "<夫>在殷忧，必竭诚以待下；既得志,则纵情以傲物。（《谏太宗十思疏》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 大凡在深重忧患当中必须竭尽诚意对待臣下，得志以后就放纵自己傲慢地对待一切人
           - ancient: 若<夫>淫雨霏霏，连月不开。（《岳阳楼记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 像那阴雨连绵，接连几个月不放晴
           - ancient: 且<夫>天地之间，物各有主，苟非吾之所有，虽一毫而莫取。（《赤壁赋》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 何况天地之间，凡物各有自己的归属，若不是自己应该拥有的，即令一分一毫也不能求取。
       - trans: ❷放在句中用以舒缓语气。
         sentences:
           - ancient: "予观<夫>巴陵胜状,在洞庭一湖。（《岳阳楼记》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我观看那巴陵郡的美好景色，全在洞庭湖上。
           - ancient: 乘骐骥以驰骋兮，来吾道<夫>先路！（《离骚》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 乘上千里马纵横驰骋吧，来呀，我在前引导开路！
       - trans: ❸放在句尾，表示感叹。相当于"吧""呵"。
         sentences:
           - ancient: 孟子曰："术不可不慎。"信<夫>！（《狱中杂记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 孟子“选择职业不可不慎重”的话，真是一点也不错！
           - ancient: "—人飞升，仙及鸡犬,信<夫>！（《促织》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 听说‘一人得道成仙，连鸡狗都可以上天。’这话真是一点不假啊！”
           - ancient: "后之视今，亦犹今之视昔,悲<夫>！（《兰亭集序》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 后人看待今人，也就像今人看待前人，可悲呀。
           - ancient: 子在川上曰："逝者如斯<夫>，不舍昼夜。"（《论语•子罕》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 孔子在河边说:“消逝的时光就像这河水一样啊,不分昼夜地向前流去。” 

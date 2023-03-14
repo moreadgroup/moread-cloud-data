@@ -1,278 +1,117 @@
 ---
 quizzes:
-  - word: 奉
-    type: 【动词】
-    phonetic: feng4
-    trans: ❶两手捧着。
-    ancient: 王必（假如）无人，臣愿<奉>璧往使。（《廉颇蔺相如列传》）
-    url: xxxx
-    vernacular: 大王如果无人可派，臣愿捧护宝璧前往出使。
-  - word: 奉
-    type: 【动词】
-    phonetic: feng4
-    trans: ❶两手捧着。
-    ancient: 沛公塞卮酒为寿，约为婚姻。（《鸿门宴》）
-    url: xxxx
-    vernacular: 刘邦捧上一杯酒向项伯祝酒，和项伯约定结为儿女亲家
-  - word: 奉
-    type: 【动词】
-    phonetic: feng4
-    trans: ❶两手捧着。
-    ancient: 荆轲<奉>樊於期头函，而秦武阳<奉>地图匣，以次进。（《荆轲刺秦王》）
-    url: xxxx
-    vernacular: 荆轲捧着装了樊於期头颅的盒子，秦武阳捧着地图匣子，按次序进宫
-  - word: 奉
-    type: 【动词】
-    phonetic: feng4
-    trans: ❶两手捧着。
-    ancient: 是时，侍医夏无且以其所<奉>药囊提轲。（《荆轲刺秦王》）
-    url: xxxx
-    vernacular: 这时，秦王的随从医官夏无且(jū)用他手里捧着的药袋投击荆轲。
-  - word: 奉
-    type: 【动词】
-    phonetic: feng4
-    trans: ❷接受，多指对上级或长辈。
-    ancient: 受任于败军之际，<奉>命于危难之间，尔来二十有一年矣。（《出师表》）
-    url: xxxx
-    vernacular: 后来遇到兵败，在兵败的时候接受任务，形势危急之时奉命出使，从这以来二十一年了。
-  - word: 奉
-    type: 【动词】
-    phonetic: feng4
-    trans: ❷接受，多指对上级或长辈。
-    ancient: 近者<奉>辞伐罪，旌麾南指，刘琮束手。（《资治通鉴•汉纪五十七》）
-    url: xxxx
-    vernacular: 近来我奉皇帝的命令讨伐有罪的人，大军南下，刘琮投降
-  - word: 奉
-    type: 【动词】
-    phonetic: feng4
-    trans: ❷接受，多指对上级或长辈。
-    ancient: "臣欲<奉>诏奔驰，则刘病日笃;欲苟顺私情,则告诉不许。（《陈情表》）"
-    url: xxxx
-    vernacular: 我很想奉旨为皇上奔走效劳，但祖母刘氏的疾病一天比一天沉重，想要姑且顺从自己的私情，但报告申诉不被允许。
-  - word: 奉
-    type: 【动词】
-    phonetic: feng4
-    trans: ❷接受，多指对上级或长辈。
-    ancient: 初，<奉>使往来，无留北者。（《〈指南录〉后序》）
-    url: xxxx
-    vernacular: 当初，使者奉命往来，并没有被扣留在北方的
-  - word: 奉
-    type: 【动词】
-    phonetic: feng4
-    trans: ❸供给。
-    ancient: 以<奉>我一人之淫乐，视为当然。（明•黄宗羲《原君》）
-    url: xxxx
-    vernacular: 以供个人放纵的享乐，（把这）看成应当如此
-  - word: 奉
-    type: 【动词】
-    phonetic: feng4
-    trans: ❹侍奉;尊奉。
-    ancient: 为宫室之美、妻妾之<奉>、所识穷乏者得我与？（《鱼我所欲也》）
-    url: xxxx
-    vernacular: 是为了住宅的华丽，妻妾的侍奉和熟识的穷人感激我吗？
-  - word: 奉
-    type: 【动词】
-    phonetic: feng4
-    trans: ❹侍奉;尊奉。
-    ancient: "怀帝阍（阍hun1,皇帝的宫门）而不见，<奉>宣室（汉代宫殿）以何年？（《滕王阁序》）"
-    url: xxxx
-    vernacular: 怀念着君王的宫门，但却不被召见，什么时候才能像贾谊那样到宣室侍奉君王呢？
-  - word: 奉
-    type: 【动词】
-    phonetic: feng4
-    trans: ❹侍奉;尊奉。
-    ancient: <奉>事循公姥，进止敢自专？（《孔雀东南飞》）
-    url: xxxx
-    vernacular: 侍奉公婆都顺着他们的心意，一举一动哪里敢自作主张不守本分？
-  - word: 奉
-    type: 【动词】
-    phonetic: feng4
-    trans: ❹侍奉;尊奉。
-    ancient: 舍簪笏于百龄，<奉>晨昏于万里。（《滕王阁序》）
-    url: xxxx
-    vernacular: 如今我抛弃了一生的功名，不远万里去朝夕侍奉父亲。
-  - word: 奉
-    type: 【动词】
-    phonetic: feng4
-    trans: ❹侍奉;尊奉。
-    ancient: 逮<奉>圣朝，沐浴清化。（《陈情表》）
-    url: xxxx
-    vernacular: 到了晋朝建立，我蒙受着清明的政治教化。
-  - word: 奉
-    type: 【动词】
-    phonetic: feng4
-    trans: ❺遵守;遵从。
-    ancient: 天子偶用一物，未必不过此已忘;而<奉>行者即为定例。（《促织》）
-    url: xxxx
-    vernacular: 皇帝偶尔使用一件东西，未必不是用过它就忘记了；然而下面执行的人却把它作为一成不变的惯例。
-  - word: 奉
-    type: 【动词】
-    phonetic: feng4
-    trans: ❺遵守;遵从。
-    ancient: <奉>法者强则国强。（《韩非子•有度》）
-    url: xxxx
-    vernacular: "执行法律的人依法行事,那么国家就强大。"
-  - word: 奉
-    type: 【动词】
-    phonetic: feng4
-    trans: ❺遵守;遵从。
-    ancient: 【高考题例】吏<奉>法，律不可枉也，更道它所欲。（《后汉书•赵憙传》）
-    url: xxxx
-    vernacular: "官吏奉行法典,律令是不可违犯的,再说说其他要求。"
-  - word: 奉
-    type: 【动词】
-    phonetic: feng4
-    trans: ❻通"俸"。俸禄。
-    ancient: 位尊而无功，<奉>厚而无劳，而挟重器多也。（《战国策-赵策四》）
-    url: xxxx
-    vernacular: 地位高贵却没有功，俸禄优厚却没有劳，而且拥有的贵重宝器太多了啊！
-  - word: 奉
-    type: 【动词】
-    phonetic: feng4
-    trans: ❼进献;献上。
-    ancient: 轲既取图<奉>之，发图，图穷而匕首见。（《荆轲刺秦王》）
-    url: xxxx
-    vernacular: 荆轲拿来地图之后捧着，打开地图，地图全部展开后露出了匕首。
-  - word: 奉
-    type: 【动词】
-    phonetic: feng4
-    trans: ❼进献;献上。
-    ancient: 诸侯之地有限，暴秦之欲无厌，<奉>之弥繁，侵之愈急。（《六国论》）
-    url: xxxx
-    vernacular: 既然这样，那么诸侯的土地有限，强暴的秦国的欲望永远不会满足，诸侯送给秦越多，秦侵犯六国就越急迫。
-  - word: 奉
-    type: 【动词】
-    phonetic: feng4
-    trans: ❽祭祀;供奉。
-    ancient: "愿举国为内臣，比诸侯之列，给贡职如郡县,而得<奉>守先王之宗庙。（《荆轲刺秦王》）"
-    url: xxxx
-    vernacular: 愿意全国上下都做秦国的臣民，排在诸侯的行列里(意为：燕国愿意同别的诸侯一起尊秦王为天子)像秦国的郡县那样贡纳赋税，俾能守住祖先的宗庙。
-  - word: 奉
-    type: 【动词】
-    phonetic: feng4
-    trans: ❽祭祀;供奉。
-    ancient: 【高考题例】民图像与庐，而<奉>之如神，名日"范公庵"。（《宋史.范纯礼传》）
-    url: xxxx
-    vernacular: 百姓在房中悬挂“他的”画像，把他像神仙一样供奉，叫 他为“范公庵”。
-  - word: 奉
-    type: 【副词】
-    phonetic: feng4
-    trans: 表示恭敬。
-    ancient: "此兴予非薄,何时得<奉>陪？（唐•杜牧《早春寄岳州李使君李善棋爱酒情地闲雅》）"
-    url: xxxx
-    vernacular: 奉陪到底意思就是坚持做好一件事，不中途放弃，以诚恳的敬意，来陪伴别人共度时光。出自唐·杜牧《早春寄岳州李使君》诗：“此兴予非薄，何时得奉陪？”
   - word: 夫
     type: 【代词】
     phonetic: fu2
     trans: 这（这些，这个）；那（那些，那个）。
     ancient: 微（假如没有）<夫>人之力不及此。（《烛之武退秦师》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 如不是秦国国君的力量，就没有我的今天。
   - word: 夫
     type: 【代词】
     phonetic: fu2
     trans: 这（这些，这个）；那（那些，那个）。
-    ancient: <夫>入不言，言必有中（合理）。（《论语•先进》）
+    ancient: <夫>人不言，言必有中（合理）。（《论语•先进》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "那个人平日不太说话, 但一开口就恰当中肯。"
   - word: 夫
     type: 【代词】
     phonetic: fu2
     trans: 这（这些，这个）；那（那些，那个）。
     ancient: 客亦知<夫>水与月乎？（《赤壁碰》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 你可也知道这水与月？
   - word: 夫
     type: 【代词】
     phonetic: fu2
     trans: 这（这些，这个）；那（那些，那个）。
     ancient: 既其出，则或咎其欲出者，而余亦悔其随之而不得极<夫>游之乐也。（《游褒禅山记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 我们出洞以后，就有人埋怨那主张退出的人，我也后悔跟他出来，而未能极尽游洞的乐趣。
   - word: 夫
     type: 【助词】语气助词。
     phonetic: fu2
     trans: ❶放在句首，提示下文或引起议论。
     ancient: <夫>战，勇气也。（《曹刿论战》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 作战，是靠敢作敢为毫不畏惧的气概。
   - word: 夫
     type: 【助词】语气助词。
     phonetic: fu2
     trans: ❶放在句首，提示下文或引起议论。
     ancient: <夫>晋，何厌之有?（《烛之武退秦师》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 晋国，哪里有满足的时候呢？
   - word: 夫
     type: 【助词】语气助词。
     phonetic: fu2
     trans: ❶放在句首，提示下文或引起议论。
     ancient: <夫>夷以近，则游者众；险以远，则至者少。（《游褒禅山记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 平坦而又近的地方，前来游览的人便多；危险而又远的地方，前来游览的人便少。
   - word: 夫
     type: 【助词】语气助词。
     phonetic: fu2
     trans: ❶放在句首，提示下文或引起议论。
     ancient: "<夫>在殷忧，必竭诚以待下；既得志,则纵情以傲物。（《谏太宗十思疏》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 大凡在深重忧患当中必须竭尽诚意对待臣下，得志以后就放纵自己傲慢地对待一切人
   - word: 夫
     type: 【助词】语气助词。
     phonetic: fu2
     trans: ❶放在句首，提示下文或引起议论。
     ancient: 若<夫>淫雨霏霏，连月不开。（《岳阳楼记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 像那阴雨连绵，接连几个月不放晴
   - word: 夫
     type: 【助词】语气助词。
     phonetic: fu2
     trans: ❶放在句首，提示下文或引起议论。
     ancient: 且<夫>天地之间，物各有主，苟非吾之所有，虽一毫而莫取。（《赤壁赋》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 何况天地之间，凡物各有自己的归属，若不是自己应该拥有的，即令一分一毫也不能求取。
   - word: 夫
     type: 【助词】语气助词。
     phonetic: fu2
     trans: ❷放在句中用以舒缓语气。
     ancient: "予观<夫>巴陵胜状,在洞庭一湖。（《岳阳楼记》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 我观看那巴陵郡的美好景色，全在洞庭湖上。
   - word: 夫
     type: 【助词】语气助词。
     phonetic: fu2
     trans: ❷放在句中用以舒缓语气。
     ancient: 乘骐骥以驰骋兮，来吾道<夫>先路！（《离骚》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 乘上千里马纵横驰骋吧，来呀，我在前引导开路！
   - word: 夫
     type: 【助词】语气助词。
     phonetic: fu2
     trans: ❸放在句尾，表示感叹。相当于"吧""呵"。
     ancient: 孟子曰："术不可不慎。"信<夫>！（《狱中杂记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 孟子“选择职业不可不慎重”的话，真是一点也不错！
   - word: 夫
     type: 【助词】语气助词。
     phonetic: fu2
     trans: ❸放在句尾，表示感叹。相当于"吧""呵"。
     ancient: "—人飞升，仙及鸡犬,信<夫>！（《促织》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 听说‘一人得道成仙，连鸡狗都可以上天。’这话真是一点不假啊！”
   - word: 夫
     type: 【助词】语气助词。
     phonetic: fu2
     trans: ❸放在句尾，表示感叹。相当于"吧""呵"。
     ancient: "后之视今，亦犹今之视昔,悲<夫>！（《兰亭集序》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 后人看待今人，也就像今人看待前人，可悲呀。
   - word: 夫
     type: 【助词】语气助词。
     phonetic: fu2
     trans: ❸放在句尾，表示感叹。相当于"吧""呵"。
     ancient: 子在川上曰："逝者如斯<夫>，不舍昼夜。"（《论语•子罕》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "孔子在河边说:“消逝的时光就像这河水一样啊,不分昼夜地向前流去。”"
   - word: 负
     type: 【动词】
     phonetic: fu4
