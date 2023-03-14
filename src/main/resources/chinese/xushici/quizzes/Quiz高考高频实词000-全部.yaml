@@ -1,215 +1,61 @@
 ---
 quizzes:
-  - word: 盖
-    type: 【名词】
-    phonetic: gai4
-    trans: ❶车盖;伞盖。
-    ancient: 劳不坐乘，暑不张<盖>。（《史记•商君列传》）
-    url: xxxx
-    vernacular: 劳累了不坐车，酷暑炎热不打伞 这是《史记·商君列传》中对商君卫鞅的描述
-  - word: 盖
-    type: 【名词】
-    phonetic: gai4
-    trans: ❶车盖;伞盖。
-    ancient: 庭有枇杷树，吾妻死之年所手植也，今已亭亭如<盖>矣。（《项脊轩志》）
-    url: xxxx
-    vernacular: 庭院中有一株枇杷树，是妻子去世那年我亲手种植的，如今已经高高挺立着，枝叶繁茂像伞一样了。
-  - word: 盖
-    type: 【名词】
-    phonetic: gai4
-    trans: ❷器物上的盖子。
-    ancient: 以精铜铸成，员径八尺，合<盖>隆起，形似酒尊。（《张衡传》）
-    url: xxxx
-    vernacular: 这个地动仪是用纯铜铸造的，直径有八尺，上下两部分相合盖住，中央凸起，样子像个大酒樽。
-  - word: 盖
-    type: 【动词】
-    phonetic: gai4
-    trans: ❶遮蔽;遮掩。
-    ancient: 日月欲明，而浮云<盖>之。（《淮南子•说林训》）
-    url: xxxx
-    vernacular: 日月想要明亮，浮云遮蔽了它们
-  - word: 盖
-    type: 【动词】
-    phonetic: gai4
-    trans: ❶遮蔽;遮掩。
-    ancient: 其牙机巧制，皆隐在尊中，覆<盖>周密无际。（《张衡传》）
-    url: xxxx
-    vernacular: 仪器的枢纽和机件制造得很精巧，都隐藏在酒尊形的仪器中，覆盖严密得没有一点缝隙。
-  - word: 盖
-    type: 【动词】
-    phonetic: gai4
-    trans: ❶遮蔽;遮掩。
-    ancient: "枝枝相覆<盖>,叶叶相交通。（《孔雀东南飞》）"
-    url: xxxx
-    vernacular: 各种树枝枝枝相覆盖，各种树叶叶叶相连通。
-  - word: 盖
-    type: 【动词】
-    phonetic: gai4
-    trans: ❷胜过;超过。
-    ancient: 威<盖>海内，功章万里之外。（《战国策•秦策三》）
-    url: xxxx
-    vernacular: "威权压倒全国,功业扬名万里之外"
-  - word: 盖
-    type: 【动词】
-    phonetic: gai4
-    trans: ❷胜过;超过。
-    ancient: 功<盖>五帝，泽及牛马。（《史记•秦始皇本纪》）
-    url: xxxx
-    vernacular: "秦始皇的功绩超过了传说中的五帝,连牛和羊都享受到他的恩泽。"
-  - word: 盖
-    type: 【动词】
-    phonetic: gai4
-    trans: ❷胜过;超过。
-    ancient: 力拔山兮气<盖>世！时不利兮骓不逝！（《项羽之死》）
-    url: xxxx
-    vernacular: 力量可以拔起大山，豪气世上无人能比，奈何时运不济，再名贵的宝马也再难奔驰。
-  - word: 盖
-    type: 【代词】
-    phonetic: gai4
-    trans: 通"盍"。何不，何。
-    ancient: "夫子之道至大也,故天下莫能容夫子。夫子<盖>少贬焉？（《史记•孔子世家》）"
-    url: xxxx
-    vernacular: 老师的学说极其弘大，所以天下没有国家能容得下您。老师是否可以稍微降低一点标准呢？
-  - word: 盖
-    type: 【代词】
-    phonetic: gai4
-    trans: 通"盍"。何不，何。
-    ancient: 嘻，善哉！技<盖>至此乎？（《庖丁解牛》）
-    url: xxxx
-    vernacular: 好啊！（你解牛的）技术怎么竟会高超到这种程度啊？
-  - word: 盖
-    type: 【副词】
-    phonetic: gai4
-    trans: 表示对事物进行判断。相当于"大概""大约"。
-    ancient: 今言"华"如"华实"之"华"者，<盖>音谬也。（《游褒禅山记》）
-    url: xxxx
-    vernacular: 如今将“华”读为“华实”的“华”，大概是读音上的错误。
-  - word: 盖
-    type: 【副词】
-    phonetic: gai4
-    trans: 表示对事物进行判断。相当于"大概""大约"。
-    ancient: 有善始者实繁，克终者<盖>寡。（《谏太宗十思疏》）
-    url: xxxx
-    vernacular: 有良好开端的人确实很多，但能够始终如一，坚持到最后的人，却十分少。
-  - word: 盖
-    type: 【副词】
-    phonetic: gai4
-    trans: 表示对事物进行判断。相当于"大概""大约"。
-    ancient: 孔子以诗书礼乐教，弟子<盖>三千焉，身通六艺者七十有二人。（《史记•孔子世家》）
-    url: xxxx
-    vernacular: 孔子以《诗》《书》《礼》《乐》教导学生，他的弟子有三千多人，其中精通六艺的只有七十二人。
-  - word: 盖
-    type: 【副词】
-    phonetic: gai4
-    trans: 表示对事物进行判断。相当于"大概""大约"。
-    ancient: "【高考题例】其牧守稍薄，则又移居,故其迁徙者,<盖>十余州焉。 （《旧唐书•李揆传》）"
-    url: xxxx
-    vernacular: 当地的郡守长官对他稍有轻薄，就又迁居，所以他搬迁的地方，大约有十多个州。
-  - word: 盖
-    type: 【连词】
-    phonetic: gai4
-    trans: 因为。
-    ancient: "屈平之作《离骚》,<盖>自怨生也。（《史记•屈原贾生列传》）"
-    url: xxxx
-    vernacular: 屈原之所以写《离骚》，其原因大概是怨愤引起的。
-  - word: 盖
-    type: 【连词】
-    phonetic: gai4
-    trans: 因为。
-    ancient: "<盖>在殷忧,必竭诚以待下；既得志，则纵情以傲物。（《谏太宗十思疏》）"
-    url: xxxx
-    vernacular: 原来是在打天下的时候，帝王对待臣民诚心诚意，一旦得志，便纵情傲物
-  - word: 盖
-    type: 【连词】
-    phonetic: gai4
-    trans: 因为。
-    ancient: 或曰：六国互丧，率赂秦耶？曰：不赂者以赂者丧。<盖>失强援，不能独完（保全）。故曰：弊在赂秦也。（《六国论》）
-    url: xxxx
-    vernacular: 有人问：“六国一个接一个的灭亡，难道全部是因为贿赂秦国吗？”（回答）说：“不贿赂秦国的国家因为有贿赂秦国的国家而灭亡。原因是不贿赂秦国的国家失掉了强有力的外援，不能独自保全。所以说：弊病在于贿赂秦国。”
-  - word: 盖
-    type: 【连词】
-    phonetic: gai4
-    trans: 因为。
-    ancient: 乃悟前狼假寐，<盖>以诱敌。（《狼》）
-    url: xxxx
-    vernacular: 屠户才明白之前的狼假装睡觉，原来是用来诱惑敌人。
-  - word: 盖
-    type: 【助词】
-    phonetic: gai4
-    trans: 用在全段或句子开头，无实义。
-    ancient: "五人者，<盖>当蓼洲周公之被逮,激于义而死焉者也。（《五人墓碑记》）"
-    url: xxxx
-    vernacular: （墓中的）五个人，就是当周蓼洲先生被捕的时候，激于义愤而死于这件事的。
-  - word: 盖
-    type: 【助词】
-    phonetic: gai4
-    trans: 用在全段或句子开头，无实义。
-    ancient: <盖>余之勤且艰若此。（《送东阳马生序》）
-    url: xxxx
-    vernacular: 我求学的辛勤和艰苦就是像这个样子。
-  - word: 盖
-    type: 【助词】
-    phonetic: gai4
-    trans: 用在全段或句子开头，无实义。
-    ancient: <盖>将自其变者而观之，则天地曾不能以一瞬。（《赤壁赋》）
-    url: xxxx
-    vernacular: 可见，从事物易变的一面看来，天地间没有一瞬间不发生变化
   - word: 敢
     type: 【动词】
     phonetic: gan3
     trans: ❶助动词。有胆量;有勇气。
-    ancient: 秦人开关延（迎战）敌，九国之师，遂巡而不<敢>进。（《过秦论》）
+    ancient: 秦人开关延（迎战）敌，九国之师，逡巡而不<敢>进。（《过秦论》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 秦人打开函谷关口迎战敌人，九国的军队有所顾虑徘徊不敢入关。
   - word: 敢
     type: 【动词】
     phonetic: gan3
     trans: ❶助动词。有胆量;有勇气。
-    ancient: "如曰与日当一切不事事,守前所为而已，则非某之所<敢>知。（宋•王安石《答司马谏议书》）"
+    ancient: "如曰今日当一切不事事,守前所为而已，则非某之所<敢>知。（宋•王安石《答司马谏议书》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 如果说现在应该什么事都不去做，墨守前人的陈规旧法就是了，那就不是我敢领教的了。
   - word: 敢
     type: 【动词】
     phonetic: gan3
     trans: ❷助动词。怎敢；岂敢。
     ancient: "长者虽有问,役夫<敢>申恨？（《兵车行》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 尽管长辈有疑问，服役的人们怎敢申诉怨恨？
   - word: 敢
     type: 【动词】
     phonetic: gan3
     trans: ❷助动词。怎敢；岂敢。
     ancient: "奉事循公姥,进止<敢>自专？（《孔雀东南飞》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 侍奉公婆都顺着他们的心意，一举一动哪里敢自作主张不守本分？
   - word: 敢
     type: 【动词】
     phonetic: gan3
     trans: ❷助动词。怎敢；岂敢。
     ancient: "【高考题例】勤王<敢>道远,私向梦中归。（唐•岑参《发临洗将赴北庭留别》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 为王事尽力岂敢说路远，只希望能从梦中返归。
   - word: 敢
     type: 【动词】
     phonetic: gan3
     trans: ❷助动词。怎敢；岂敢。
     ancient: 【高考题例】燧怒日："初仕<敢>欺心耶!"（《宋史•萧燧传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 萧燧生气说:(我)刚刚做官怎么敢欺骗自己的良心呢!
   - word: 敢
     type: 【副词】
     phonetic: gan3
     trans: 谦辞，有冒昧的意思。
     ancient: "若亡郑而有益于君,<敢>以烦执事。（《烛之武退秦师》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 假如灭掉郑国对您有好处，怎敢冒昧地拿这件事情来麻烦您。
   - word: 敢
     type: 【副词】
     phonetic: gan3
     trans: 谦辞，有冒昧的意思。
     ancient: <敢>竭鄙怀，恭疏短引，一言均赋，四韵俱成。（《滕王阁序》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 我只是冒昧地尽我微薄的心意，作了短短的引言。在座诸位都按各自分到的韵字赋诗，我已写成了四韵八句。
   - word: 膏
     type: 【名词】
     phonetic: gao1
