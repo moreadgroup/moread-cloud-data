@@ -1,264 +1,152 @@
 ---
 quizzes:
-  - word: 夫
-    type: 【代词】
-    phonetic: fu2
-    trans: 这（这些，这个）；那（那些，那个）。
-    ancient: 微（假如没有）<夫>人之力不及此。（《烛之武退秦师》）
-    url: xxxx
-    vernacular: 如不是秦国国君的力量，就没有我的今天。
-  - word: 夫
-    type: 【代词】
-    phonetic: fu2
-    trans: 这（这些，这个）；那（那些，那个）。
-    ancient: <夫>人不言，言必有中（合理）。（《论语•先进》）
-    url: xxxx
-    vernacular: "那个人平日不太说话, 但一开口就恰当中肯。"
-  - word: 夫
-    type: 【代词】
-    phonetic: fu2
-    trans: 这（这些，这个）；那（那些，那个）。
-    ancient: 客亦知<夫>水与月乎？（《赤壁碰》）
-    url: xxxx
-    vernacular: 你可也知道这水与月？
-  - word: 夫
-    type: 【代词】
-    phonetic: fu2
-    trans: 这（这些，这个）；那（那些，那个）。
-    ancient: 既其出，则或咎其欲出者，而余亦悔其随之而不得极<夫>游之乐也。（《游褒禅山记》）
-    url: xxxx
-    vernacular: 我们出洞以后，就有人埋怨那主张退出的人，我也后悔跟他出来，而未能极尽游洞的乐趣。
-  - word: 夫
-    type: 【助词】语气助词。
-    phonetic: fu2
-    trans: ❶放在句首，提示下文或引起议论。
-    ancient: <夫>战，勇气也。（《曹刿论战》）
-    url: xxxx
-    vernacular: 作战，是靠敢作敢为毫不畏惧的气概。
-  - word: 夫
-    type: 【助词】语气助词。
-    phonetic: fu2
-    trans: ❶放在句首，提示下文或引起议论。
-    ancient: <夫>晋，何厌之有?（《烛之武退秦师》）
-    url: xxxx
-    vernacular: 晋国，哪里有满足的时候呢？
-  - word: 夫
-    type: 【助词】语气助词。
-    phonetic: fu2
-    trans: ❶放在句首，提示下文或引起议论。
-    ancient: <夫>夷以近，则游者众；险以远，则至者少。（《游褒禅山记》）
-    url: xxxx
-    vernacular: 平坦而又近的地方，前来游览的人便多；危险而又远的地方，前来游览的人便少。
-  - word: 夫
-    type: 【助词】语气助词。
-    phonetic: fu2
-    trans: ❶放在句首，提示下文或引起议论。
-    ancient: "<夫>在殷忧，必竭诚以待下；既得志,则纵情以傲物。（《谏太宗十思疏》）"
-    url: xxxx
-    vernacular: 大凡在深重忧患当中必须竭尽诚意对待臣下，得志以后就放纵自己傲慢地对待一切人
-  - word: 夫
-    type: 【助词】语气助词。
-    phonetic: fu2
-    trans: ❶放在句首，提示下文或引起议论。
-    ancient: 若<夫>淫雨霏霏，连月不开。（《岳阳楼记》）
-    url: xxxx
-    vernacular: 像那阴雨连绵，接连几个月不放晴
-  - word: 夫
-    type: 【助词】语气助词。
-    phonetic: fu2
-    trans: ❶放在句首，提示下文或引起议论。
-    ancient: 且<夫>天地之间，物各有主，苟非吾之所有，虽一毫而莫取。（《赤壁赋》）
-    url: xxxx
-    vernacular: 何况天地之间，凡物各有自己的归属，若不是自己应该拥有的，即令一分一毫也不能求取。
-  - word: 夫
-    type: 【助词】语气助词。
-    phonetic: fu2
-    trans: ❷放在句中用以舒缓语气。
-    ancient: "予观<夫>巴陵胜状,在洞庭一湖。（《岳阳楼记》）"
-    url: xxxx
-    vernacular: 我观看那巴陵郡的美好景色，全在洞庭湖上。
-  - word: 夫
-    type: 【助词】语气助词。
-    phonetic: fu2
-    trans: ❷放在句中用以舒缓语气。
-    ancient: 乘骐骥以驰骋兮，来吾道<夫>先路！（《离骚》）
-    url: xxxx
-    vernacular: 乘上千里马纵横驰骋吧，来呀，我在前引导开路！
-  - word: 夫
-    type: 【助词】语气助词。
-    phonetic: fu2
-    trans: ❸放在句尾，表示感叹。相当于"吧""呵"。
-    ancient: 孟子曰："术不可不慎。"信<夫>！（《狱中杂记》）
-    url: xxxx
-    vernacular: 孟子“选择职业不可不慎重”的话，真是一点也不错！
-  - word: 夫
-    type: 【助词】语气助词。
-    phonetic: fu2
-    trans: ❸放在句尾，表示感叹。相当于"吧""呵"。
-    ancient: "—人飞升，仙及鸡犬,信<夫>！（《促织》）"
-    url: xxxx
-    vernacular: 听说‘一人得道成仙，连鸡狗都可以上天。’这话真是一点不假啊！”
-  - word: 夫
-    type: 【助词】语气助词。
-    phonetic: fu2
-    trans: ❸放在句尾，表示感叹。相当于"吧""呵"。
-    ancient: "后之视今，亦犹今之视昔,悲<夫>！（《兰亭集序》）"
-    url: xxxx
-    vernacular: 后人看待今人，也就像今人看待前人，可悲呀。
-  - word: 夫
-    type: 【助词】语气助词。
-    phonetic: fu2
-    trans: ❸放在句尾，表示感叹。相当于"吧""呵"。
-    ancient: 子在川上曰："逝者如斯<夫>，不舍昼夜。"（《论语•子罕》）
-    url: xxxx
-    vernacular: "孔子在河边说:“消逝的时光就像这河水一样啊,不分昼夜地向前流去。”"
   - word: 负
     type: 【动词】
     phonetic: fu4
     trans: ❶背（bei1）
     ancient: "帝感其诚，命夸娥氏二子<负>二山，一厝（cuo4,通\"\"措\"，放置）朔东，一厝雍南。（《愚公移山》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 天帝被愚公的诚心感动，命令大力神夸娥氏的两个儿子背走了那两座山，一座放在朔方的东边，一座放在雍州的南边。
   - word: 负
     type: 【动词】
     phonetic: fu4
     trans: ❶背（bei1）
     ancient: 烧其南门，民争<负>薪刍助之。（《资治通鉴•唐纪五十六》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 火烧牙城的南门，百姓争着背来柴草帮助官军
   - word: 负
     type: 【动词】
     phonetic: fu4
     trans: ❶背（bei1）
     ancient: 左右乃曰："王<负>剑！王<负>剑！"（《荆轲刺秦王》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 侍臣们就说：“大王背着剑！大王背着剑！”
   - word: 负
     type: 【动词】
     phonetic: fu4
     trans: ❶背（bei1）
     ancient: 谨庠序之教，申之以孝悌之义，颁白者不<负>戴于道路矣。（《寡人之于国也》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 认真地兴办学校教育，把孝悌的道理反复讲给百姓听。头发花白的老人不会在路上背着或顶着东西了。
   - word: 负
     type: 【动词】
     phonetic: fu4
     trans: ❶背（bei1）
     ancient: 廉颇闻之，肉袒<负>荆，因宾客至蔺相如门谢罪。（《廉颇蔺相如列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 廉颇听说了这些话，就脱去上衣，露出上身，背着荆鞭，由宾客引领，来到蔺相如的门前请罪
   - word: 负
     type: 【动词】
     phonetic: fu4
     trans: ❷背靠着。
     ancient: "四战（四面受敌）之国贵（重视）守战,<负>海之国贵攻战。（《高君书•兵守》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: "四面都有敌国的国家要注重防守,背靠大海的国家注重进攻。"
   - word: 负
     type: 【动词】
     phonetic: fu4
     trans: ❸担负;承担。
     ancient: 秦以城求璧而赵不许，曲（理亏）在赵;赵予璧而秦不予赵城，曲在秦。均之二策，宁许以<负>秦曲。（《廉颇蔺相如列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 秦国请求用城换璧，赵国如不答应，赵国理亏；赵国给了璧而秦国不给赵国城邑，秦国理亏。衡量一下两种对策，宁可答应，而让秦国承担理亏的责任。
   - word: 负
     type: 【动词】
     phonetic: fu4
     trans: ❸担负;承担。
     ancient: 使<负>栋之柱，多于南亩之农夫。（《阿房宫赋》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 致使承担栋梁的柱子，比田地里的农夫还多
   - word: 负
     type: 【动词】
     phonetic: fu4
     trans: ❸担负;承担。
     ancient: 【高考题例】或劝脱脱曰："王公素<负>重名，不可害。"（《明史•王祎传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 有人劝脱脱说：“王先生久负盛名，不能杀。”
   - word: 负
     type: 【动词】
     phonetic: fu4
     trans: ❹依仗;凭借。
     ancient: 张凭举孝廉，出都（到京城），<负>其才气，谓必参时彦。（《世说新语•文学》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 张凭被举荐为孝廉后，到京都去，他仗着自己有才气，认为必定能侧身于名流之列。①参：成为。时彦：当代有才德名望的人上。
   - word: 负
     type: 【动词】
     phonetic: fu4
     trans: ❹依仗;凭借。
     ancient: "夹岸高山，皆生寒树，<负>势竞上,互相轩（高）邈（远）。（《与朱元思书》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 夹江两岸的高山上，都长着绿的透出寒意的树，山峦凭依着高峻的山势
   - word: 负
     type: 【动词】
     phonetic: fu4
     trans: ❹依仗;凭借。
     ancient: "秦贪，<负>其强,以空言求璧，偿城恐不可得。（《廉颇蔺相如列传》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 秦国贪得无厌，倚仗它的强大，想用空话得到宝璧，说给我们城邑恐怕不可能。
   - word: 负
     type: 【动词】
     phonetic: fu4
     trans: ❺辜负;对不起。
     ancient: "臣诚恐见欺于王而<负>赵,故令人持璧归，间至赵矣。（《廉颇蔺相如列传》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 我实在是害怕被大王欺骗而对不起赵王，所以派人带着宝璧回去，已从小路回到赵国了。
   - word: 负
     type: 【动词】
     phonetic: fu4
     trans: ❺辜负;对不起。
     ancient: 先生曰："狼<负>我！狼<负>我!"狼曰:"吾非固（一定）欲<负>汝，天生汝辈，固需吾辈食也。"（《中山狼传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 先生说：“狼背叛我！狼背叛我！”狼说：“我本来不想背叛你的，（可）天生你等，本来就是需要我们吃的啊！”
   - word: 负
     type: 【动词】
     phonetic: fu4
     trans: ❺辜负;对不起。
     ancient: 吾今且赴府，不久当还归，誓天不相<负>！（《孔雀东南飞》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 我今日也暂且赶赴官府。不久我一定会回来，我向天发誓永远不会辜负你
   - word: 负
     type: 【动词】
     phonetic: fu4
     trans: ❻违背;背弃。
     ancient: "相如度秦王虽斋,决<负>约不偿城，乃使其从者衣褐,怀其璧，从径道（小路）亡（逃走），归璧于赵。（《廉颇蔺相如列传））"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 相如估计秦王虽然答应斋戒，也必定背约不给城邑，便派他的随从穿上粗麻布衣服，怀中藏好宝璧，从小路逃出，把宝璧送回赵国。
   - word: 负
     type: 【动词】
     phonetic: fu4
     trans: ❻违背;背弃。
-    ancient: <负>神明，而使汝夭。（《祭十二郎文》）
+    ancient: 吾行<负>神明，而使汝夭。（《祭十二郎文》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 我的行为辜负了神明，才使你这么早死去
   - word: 负
     type: 【动词】
     phonetic: fu4
     trans: ❼失败。
     ancient: 不知彼而知己，一胜一<负>。（《孙子兵法•谋攻》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "不了解对方但了解自己,胜负的机率各半;"
   - word: 负
     type: 【动词】
     phonetic: fu4
     trans: ❼失败。
     ancient: "向使三国各爱其地,齐人勿附于秦，刺客不行，良将犹在，则胜<负>之数，存亡之理，当与秦相较，或未易量。（《六国论》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 假使韩、魏、楚三国都爱惜他们的国土，齐国不依附秦国。燕国的刺客不去刺秦王，赵国的良将李牧还活着，那么胜败的命运，存亡的理数，倘若与秦国相较量，也许还不容易判断出高低来呢。
   - word: 负
     type: 【动词】
     phonetic: fu4
     trans: ❽蒙受。
     ancient: 这都是我做窦娥的没时没运，不明不暗，<负>屈衔冤。（《窦娥冤》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 这都是我窦娥生不逢时没有好运气，糊里糊涂，蒙冤又受屈。
   - word: 负
     type: 【动词】
     phonetic: fu4
     trans: ❾欠。
-    ancient: （邓）通家尚<负>等（债）数巨万。（《汉书•邓通传》）
+    ancient: 尽没入邓通家，（邓）通家尚<负>等（债）数巨万。（《汉书•邓通传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 把邓通家的钱财全部没收充公，还欠好几亿钱。
   - word: 复
     type: 【名词】
     phonetic: fu4
