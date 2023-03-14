@@ -10,7 +10,7 @@ words:
         sentences:
           - ancient: 君子于言，无所<苟>矣。（《论衡•问孔》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 君子对于自己的言行，是从不马马虎虎对待的。
   - word: 苟
     type: 【副词】
     phonetic: gou3
@@ -19,24 +19,24 @@ words:
     samples:
       - trans: 姑且;暂且。
         sentences:
-          - ancient: "臣本布衣,躬耕于南阳，<苟>全性命于乱世，不求闻达于诸侯。（《出师表＞）"
+          - ancient: "臣本布衣，躬耕于南阳，<苟>全性命于乱世，不求闻达于诸侯。（《出师表＞）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我本来是平民，在南阳亲自耕田，在乱世中苟且保全性命，不奢求在诸侯之中出名。
           - ancient: 一日之<苟>安，数百年之大患也。（宋•陈亮《上孝宗皇帝第一书》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "臣欲奉诏奔驰，则刘病日笃;欲<苟>顺私情,则告诉不许。（《陈情表》）"
+            vernacular: 一天的苟且安定，是几百年的大的隐患呀！
+          - ancient: "臣欲奉诏奔驰，则刘病日笃;欲<苟>顺私情，则告诉不许。（《陈情表》）"
             url: xxxx
-            vernacular: xxxx
-          - ancient: "虽董之以严刑，震之以威怒,终<苟>免而不怀仁，貌恭而不心服。（《谏太宗十思疏》）"
+            vernacular: 我很想奉旨为皇上奔走效劳，但祖母刘氏的疾病一天比一天沉重，想要姑且顺从自己的私情，但报告申诉不被允许。
+          - ancient: "虽董之以严刑，震之以威怒，终<苟>免而不怀仁，貌恭而不心服。（《谏太宗十思疏》）"
             url: xxxx
-            vernacular: xxxx
-          - ancient: "仆虽怯懦,欲<苟>活，亦颇识去就之分矣，何至自沉溺缧绁之辱哉！（《报任安书》）"
+            vernacular: 虽然可以用严刑来监督他们，用声威震慑他们，但是结果大家只图苟且免除罪罚，却不感念（皇上的）仁德，表面上恭顺而不是内心里悦服。
+          - ancient: "仆虽怯懦，欲<苟>活，亦颇识去就之分矣，何至自沉溺缧绁之辱哉！（《报任安书》）"
             url: xxxx
-            vernacular: xxxx
-          - ancient: "【高考题例】芝坐爽下狱，当死，而□不讼直，志不<苟>免,宣帝嘉之，赦而不诛。（《晋书•鲁芝传》）"
+            vernacular: 我虽然怯懦软弱，想苟活在人世，但也稍微懂得区分弃生就死的界限，哪会自甘沉溺于牢狱生活而忍受屈辱呢？
+          - ancient: "【高考题例】芝坐爽下狱，当死，而口不讼直，志不<苟>免，宣帝嘉之，赦而不诛。（《晋书•鲁芝传》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 鲁芝因曹爽而被捕入狱，论罪当死，但他不争辩曲直，不苟且求取赦免。宣帝赞许他，于是赦免而不杀他。
   - word: 苟
     type: 【连词】
     phonetic: gou3
@@ -47,27 +47,24 @@ words:
         sentences:
           - ancient: <苟>得闻子大夫之言，何后之有？（《勾践灭吴》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 如果能够让我听听您的高见，又有什么晚的呢？
           - ancient: <苟>富贵，无相忘。（《陈涉世家》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: 不吾知其亦已兮，<苟>余情其信芳。（《离骚》）
+            vernacular: 如果有谁富贵了，不要忘记大家呀。
+          - ancient: "<苟>以天下之大，下而从六国破亡之故事，是又在六国下矣。（《六国论》）"
             url: xxxx
-            vernacular: xxxx
-          - ancient: "<苟>以天下之大，下而从六国破亡之故事,是又在六国下矣。（《六国论》）"
+            vernacular: 假如我们凭仗着这样大的国家，而采取下策重蹈六国灭亡的老路，这就是又在六国之下了。
+          - ancient: "且夫天地之间，物各有主，<苟>非吾之所有，虽一毫而莫取。（《赤壁赋》）"
             url: xxxx
-            vernacular: xxxx
-          - ancient: "且夫天地之间，物各有主,<苟>非吾之所有，虽一毫而莫取。（《赤壁赋》）"
-            url: xxxx
-            vernacular: xxxx
+            vernacular: 何况天地之间，凡物各有自己的归属，若不是自己应该拥有的，即令一分一毫也不能求取。
           - ancient: 【高考题例】吾唯知吾君可帝中国尔，<苟>立异姓，吾当死之。 （《宋史•孙傅传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我只知道只有我们的君主能做中国的皇帝，如果立异姓人做皇帝，我就为此而死。
           - ancient: 【高考题例】圣人<苟>可以强国，不法其故;<苟>可以利民，不循其礼。（《史记•商君列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 所以圣明的人治理国家，如果能够使国家富强，就不必去沿用旧有的法度。如果能够是百姓得到益处，就不必去遵循旧的礼制。
       - trans: ❷只要。
         sentences:
           - ancient: 不吾知其亦已兮，<苟>余情其信芳。（《离骚》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 没有人了解我也就罢了，只要内心真正馥郁芳柔。
