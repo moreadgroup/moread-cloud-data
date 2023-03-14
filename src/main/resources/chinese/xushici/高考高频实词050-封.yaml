@@ -10,18 +10,18 @@ words:
         sentences:
           - ancient: 又欲肆其西<封>，若不阙秦，将焉取之？（《烛之武退秦师》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 又想要向西扩大边界。如果不使秦国土地亏损，将从哪里得到（他所奢求的土地）呢？
           - ancient: 然县越其<封>，郡逾其境。（宋•欧阳修《上范司谏书》）
             url: xxxx
             vernacular: xxxx
           - ancient: 越四<封>之内，亲吾君也，犹父母也。（《勾践灭吴》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 越国全国上下，爱戴国君您，就像爱自己的父母一样。
       - trans: ❷坟冢。
         sentences:
           - ancient: "而五人亦得以加其土<封>,列其姓名于大堤之上，凡四方之士无不有过而拜且泣者，斯固百世之遇也。（《五人墓碑记》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 而这五个人也能够修建一座大坟墓，在大堤之上立碑刻名，所有四方的有志之士经过这里没有不跪拜流泪的，这实在是百代难得的际遇啊。
   - word: 封
     type: 【动词】
     phonetic: feng1
@@ -30,39 +30,39 @@ words:
     samples:
       - trans: ❶使……成为疆界。
         sentences:
-          - ancient: 既东<封>郑。（《烛之武退秦师》）
+          - ancient: 既东<封>郑，又欲肆其西封。（《烛之武退秦师》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 现在它已经在东边使郑国成为它的边境，又想要向西扩大边界。
       - trans: ❷帝王授予臣子土地或爵位。
         sentences:
           - ancient: "劳苦而功高如此,未有<封>侯之赏，而听细说（小人的谗言），欲诛有功之人，此亡秦之续耳。（《鸿曲壹》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 这样劳苦功高，没有得到封侯的赏赐，反而听信小人的谗言，想杀有功的人，这只是灭亡了的秦朝的继续罢了。
           - ancient: 以赂秦之地，<封>天下之谋臣。（《六国论》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 如果六国诸侯用贿赂秦国的土地来封给天下的谋臣
           - ancient: 冯唐易老，李广难<封>。（《滕王阁序》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 冯唐容易衰老，李广立功无数却难得封侯。
           - ancient: 【高考题例】卫鞅既破魏还，秦<封>之於、商十五邑，号为商君。（《史记.商君列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 卫鞅打败魏军回来以后，秦孝公把於、商十五个邑封给了他，封号叫做商君。
       - trans: ❸封闭;封缄。
         sentences:
           - ancient: "吾入关，秋毫不敢有所近,籍吏民，<封>府库,而待将军。（《鸿门宴》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我进入关中，一点东西都不敢据为己有，登记了官吏、百姓，封闭了仓库等待将军到来。
           - ancient: 取案末独身无亲戚者二人易汝名，俟<封>奏时潜易之而已。（《狱中杂记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 只把案末单身没有亲戚的两个人换掉你们的名字，等到封奏时候，抽出真奏，换上此奏，就行了
           - ancient: "既已，无可奈何,乃遂收奉盛樊於期之首，函<封>之。（《荆轲刺秦王》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 但已经，是无可奈何的事了，于是收拾好樊於期的头，用盒子装好。
       - trans: ❹古代帝王在山上筑坛祭天。
         sentences:
           - ancient: "今天子接千岁之统,<封>泰山，而余不得从行,是命也夫，命也夫！（《史记•太史公自序》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 现在天子继承汉朝千年一统的大业，在泰山举行封禅典礼，而我不能随行，这是命啊，是命啊!
           - ancient: 元嘉草草，<封>狼居胥（山名），赢得仓皇北顾。（《永遇乐•京口北固亭怀古》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 元嘉帝兴兵北伐，想建立不朽战功封狼居胥，却落得仓皇逃命，北望追兵泪下无数。
