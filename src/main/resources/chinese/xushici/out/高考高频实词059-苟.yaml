@@ -1,13 +1,73 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 苟
+    type: 【形容词】
+    phonetic: gou3
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: 随便。
         sentences:
-          - ancient: xxx
+          - ancient: 君子于言，无所<苟>矣。（《论衡•问孔》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 苟
+    type: 【副词】
+    phonetic: gou3
+    tags:
+      - 高中
+    samples:
+      - trans: 姑且;暂且。
+        sentences:
+          - ancient: "臣本布衣,躬耕于南阳，<苟>全性命于乱世，不求闻达于诸侯。（《出师表＞）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 一日之<苟>安，数百年之大患也。（宋•陈亮《上孝宗皇帝第一书》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "臣欲奉诏奔驰，则刘病日笃;欲<苟>顺私情,则告诉不许。（《陈情表》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "虽董之以严刑，震之以威怒,终<苟>免而不怀仁，貌恭而不心服。（《谏太宗十思疏》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "仆虽怯懦,欲<苟>活，亦颇识去就之分矣，何至自沉溺缧绁之辱哉！（《报任安书》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "【高考题例】芝坐爽下狱，当死，而□不讼直，志不<苟>免,宣帝嘉之，赦而不诛。（《晋书•鲁芝传》）"
+            url: xxxx
+            vernacular: xxxx
+  - word: 苟
+    type: 【连词】
+    phonetic: gou3
+    tags:
+      - 高中
+    samples:
+      - trans: ❶如果;倘使。
+        sentences:
+          - ancient: <苟>得闻子大夫之言，何后之有？（《勾践灭吴》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <苟>富贵，无相忘。（《陈涉世家》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 不吾知其亦已兮，<苟>余情其信芳。（《离骚》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "<苟>以天下之大，下而从六国破亡之故事,是又在六国下矣。（《六国论》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "且夫天地之间，物各有主,<苟>非吾之所有，虽一毫而莫取。（《赤壁赋》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】吾唯知吾君可帝中国尔，<苟>立异姓，吾当死之。 （《宋史•孙傅传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】圣人<苟>可以强国，不法其故;<苟>可以利民，不循其礼。（《史记•商君列传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷只要。
+        sentences:
+          - ancient: 不吾知其亦已兮，<苟>余情其信芳。（《离骚》）
             url: xxxx
             vernacular: xxxx

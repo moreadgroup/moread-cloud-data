@@ -1,13 +1,44 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 敢
+    type: 【动词】
+    phonetic: gan3
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶助动词。有胆量;有勇气。
         sentences:
-          - ancient: xxx
+          - ancient: 秦人开关延（迎战）敌，九国之师，遂巡而不<敢>进。（《过秦论》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "如曰与日当一切不事事,守前所为而已，则非某之所<敢>知。（宋•王安石《答司马谏议书》）"
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷助动词。怎敢；岂敢。
+        sentences:
+          - ancient: "长者虽有问,役夫<敢>申恨？（《兵车行》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "奉事循公姥,进止<敢>自专？（《孔雀东南飞》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "【高考题例】勤王<敢>道远,私向梦中归。（唐•岑参《发临洗将赴北庭留别》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】燧怒日："初仕<敢>欺心耶!"（《宋史•萧燧传》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 敢
+    type: 【副词】
+    phonetic: gan3
+    tags:
+      - 高中
+    samples:
+      - trans: 谦辞，有冒昧的意思。
+        sentences:
+          - ancient: "若亡郑而有益于君,<敢>以烦执事。（《烛之武退秦师》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <敢>竭鄙怀，恭疏短引，一言均赋，四韵俱成。（《滕王阁序》）
             url: xxxx
             vernacular: xxxx

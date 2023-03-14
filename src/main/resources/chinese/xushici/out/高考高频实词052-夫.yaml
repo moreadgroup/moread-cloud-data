@@ -1,13 +1,70 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 夫
+    type: 【代词】
+    phonetic: fu2
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: 这（这些，这个）；那（那些，那个）。
         sentences:
-          - ancient: xxx
+          - ancient: 微（假如没有）<夫>人之力不及此。（《烛之武退秦师》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <夫>入不言，言必有中（合理）。（《论语•先进》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 客亦知<夫>水与月乎？（《赤壁碰》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 既其出，则或咎其欲出者，而余亦悔其随之而不得极<夫>游之乐也。（《游褒禅山记》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 夫
+    type: 【助词】语气助词。
+    phonetic: fu2
+    tags:
+      - 高中
+    samples:
+      - trans: ❶放在句首，提示下文或引起议论。
+        sentences:
+          - ancient: <夫>战，勇气也。（《曹刿论战》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <夫>晋，何厌之有?（《烛之武退秦师》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <夫>夷以近，则游者众；险以远，则至者少。（《游褒禅山记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "<夫>在殷忧，必竭诚以待下；既得志,则纵情以傲物。（《谏太宗十思疏》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 若<夫>淫雨霏霏，连月不开。（《岳阳楼记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 且<夫>天地之间，物各有主，苟非吾之所有，虽一毫而莫取。（《赤壁赋》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷放在句中用以舒缓语气。
+        sentences:
+          - ancient: "予观<夫>巴陵胜状,在洞庭一湖。（《岳阳楼记》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 乘骐骥以驰骋兮，来吾道<夫>先路！（《离骚》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸放在句尾，表示感叹。相当于"吧""呵"。
+        sentences:
+          - ancient: 孟子曰："术不可不慎。"信<夫>！（《狱中杂记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "—人飞升，仙及鸡犬,信<夫>！（《促织》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "后之视今，亦犹今之视昔,悲<夫>！（《兰亭集序》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 子在川上曰："逝者如斯<夫>，不舍昼夜。"（《论语•子罕》）
             url: xxxx
             vernacular: xxxx

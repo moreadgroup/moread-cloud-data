@@ -1,13 +1,120 @@
 ---
 words:
-  - word: xxxx
+  - word: 复
     type: 【名词】
-    phonetic: xx1
+    phonetic: fu4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: 夹衣。
         sentences:
-          - ancient: xxx
+          - ancient: "（管）宁常著阜（高）帽、布襦裤、布裙，随时单<复>，出入闺庭。（《三国志•,魏书•管宁传》）"
+            url: xxxx
+            vernacular: xxxx
+  - word: 复
+    type: 【动词】
+    phonetic: fu4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶回来。
+        sentences:
+          - ancient: 至今九年而不<复>。（战国楚•屈原《九章•哀郢》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 回朕车以<复>路兮，及行迷之未远。（《离骚》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷回答。
+        sentences:
+          - ancient: "阿母为汝求,便<复>在旦夕。（《孔雀东南飞》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "或遇其叱咄，色愈恭,礼愈至，不敢出一言以<复>。（《送东阳马生序》）"
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸恢复。
+        sentences:
+          - ancient: "余将告于莅事（管理政事）者，更若役,<复>若赋，则何如？（《捕蛇者说》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 呜呼！师道之不<复>，可知矣。（《师说》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 修我戈矛，从王于师，以为前驱，雪九庙之耻，<复>高祖之业。（《〈指南录〉后序》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹免除（赋税或劳役）。
+        sentences:
+          - ancient: 今令民有车骑马一匹者，<复>卒（免除兵役）三人。（汉•晁错《论贵粟疏》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 沛（地名）幸每<复>，丰（地名）未<复>。（《史记•高祖本纪》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❺重复。
+        sentences:
+          - ancient: 五帝不相<复>，三代不相袭（沿袭）。（《史记•秦始皇本纪》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❻报告。
+        sentences:
+          - ancient: 有<复>于王者曰……（《齐桓晋文之事》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: 7报复。
+        sentences:
+          - ancient: 充逋逃小臣，苟为奸讹，激怒圣朝，欲取必于万乘以<复>私怨。（《汉书.江充传》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 复
+    type: 【形容词】
+    phonetic: fu4
+    tags:
+      - 高中
+    samples:
+      - trans: 繁复；重叠。
+        sentences:
+          - ancient: <复>庙重屋，八达九房。（汉•张衡《东京赋》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 复
+    type: 【副词】
+    phonetic: fu4
+    tags:
+      - 高中
+    samples:
+      - { }
+      - trans: ❶重新。
+        sentences:
+          - ancient: 天生我材必有用，千金散尽还<复>来。（《将进酒》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 余久卧病无聊，乃使人<复>葺（修葺）南阁子。（《项脊轩志》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷再；又。
+        sentences:
+          - ancient: 扁鹊出，桓侯又不悦。居十日，扁鹊<复>见，曰："君之病在肠胃，不治将益深。"（《扁鹊见蔡桓公》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "虽欲强聒,终必不蒙见察，故略上报，不<复>一一自辨。（宋•王安石《答司马谏议书》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 今年欢笑<复>明年，秋月春风等闲度。（《琵琶行》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "风萧萧兮易水寒,壮士一去兮不<复>还！（《荆轲刺秦王》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "【高考题例】陛下忿选人之多诈，故欲杀之,而既知其不可，<复>断之以法，此乃忍小忿而存大信也。（《通鉴经事本末•贞观君臣论治》）"
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸仍旧；还。
+        sentences:
+          - ancient: "大人岂见覆巢之下,<复>有完卵乎？（《世说新语•言语》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "为我吊望诸君（战国时乐毅曾被封为望诸君）之墓,而观于其市,<复>有昔时屠狗者乎？（唐•韩愈《送董邵南游河北序》）"
             url: xxxx
             vernacular: xxxx

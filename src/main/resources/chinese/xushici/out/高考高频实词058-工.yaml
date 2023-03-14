@@ -1,13 +1,69 @@
 ---
 words:
-  - word: xxxx
+  - word: 工
     type: 【名词】
-    phonetic: xx1
+    phonetic: gong1
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶工匠。
         sentences:
-          - ancient: xxx
+          - ancient: 巫医乐师百<工>之人，不耻相师。（《师说》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 自王公卿相以至<工>艺杂流，凡有名者，往往留像于馆。（清•薛福成《观巴黎油画记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 至坐前有尺帛，且令<工>以为冠。（《战国策•赵策三》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷特指乐官或乐人。
+        sentences:
+          - ancient: "他<工>辈以程艺天下无双,欲以动上意。（宋•王说《唐语林.政事下》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 晋平公铸为大钟，使<工>听之，皆以为调矣。（《吕氏春秋•长见》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸官吏。
+        sentences:
+          - ancient: "论百工，审时事,辨功苦，尚完利,便备用，使雕琢文釆不敢专造于家,<工>师之事也。（《荀子•王制》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 比周邪伪之徒不得即<工>。（《汉书•谷永传》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 工
+    type: 【动词】
+    phonetic: gong1
+    tags:
+      - 高中
+    samples:
+      - trans: 善于;擅长。
+        sentences:
+          - ancient: <工>文学者非所用，用之则乱法。（《韩非子•五蠹》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "固时俗之<工>巧兮，偭（mian3,违背）规矩而改错（同\"措\"，措置，处分）。（《离盛》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "宋,怀庆青华镇人，<工>按击,七省好事者皆来学。（《大铁椎传》）"
+            url: xxxx
+            vernacular: xxxx
+  - word: 工
+    type: 【形容词】
+    phonetic: gong1
+    tags:
+      - 高中
+    samples:
+      - trans: 精致;精巧。
+        sentences:
+          - ancient: 纵豆蔻词<工>，青楼梦好，难赋深情。（宋•姜夔《扬州慢》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "其实湖光染翠之<工>，山岚设色之妙，皆在朝日始出，夕春未下,始极其浓媚。（明•袁宏道《西湖》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 然则非诗之能穷人，殆穷者而后<工>也。（《梅圣俞诗集序》）
             url: xxxx
             vernacular: xxxx
