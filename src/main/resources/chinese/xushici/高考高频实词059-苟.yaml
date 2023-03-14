@@ -1,13 +1,46 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 苟
+    type: 【形容词】
+    phonetic: gou3
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: 随便。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 君子于言，无所苟矣。（《论衡•问孔》）
+
+  - word: 苟
+    type: 【副词】
+    phonetic: gou3
+    tags:
+      - 高中
+    samples:
+      - trans: 姑且;暂且。
+        sentences:
+          - ancient: 臣本布衣,躬耕于南阳，苟全性命于乱世，不求闻达于诸侯。（《出师表＞）
+          - ancient: 一日之苟安，数百年之大患也。（宋•陈亮《上孝宗皇帝第一书》）
+          - ancient: 臣欲奉诏奔驰，则刘病日笃;欲苟顺私情,则告诉不许。（《陈情表》）
+          - ancient: 虽董之以严刑，震之以威怒,终苟免而不怀仁，貌恭而不心服。（《谏太宗十思疏》）
+          - ancient: 仆虽怯懦,欲苟活，亦颇识去就之分矣，何至自沉溺缧绁之辱哉！（《报任安书》）
+          - ancient: 【高考题例】芝坐爽下狱，当死，而□不讼直，志不苟免,宣帝嘉之，赦而不诛。（《晋书•鲁芝传》）
+
+  - word: 苟
+    type: 【连词】
+    phonetic: gou3
+    tags:
+      - 高中
+    samples:
+      - trans: ❶如果;倘使。
+        sentences:
+          - ancient: 苟得闻子大夫之言，何后之有？（《勾践灭吴》）
+          - ancient: 苟富贵，无相忘。（《陈涉世家》）
+          - ancient: 不吾知其亦已兮，苟余情其信芳。（《离骚》）
+          - ancient: 苟以天下之大，下而从六国破亡之故事,是又在六国下矣。（《六国论》）
+          - ancient: 且夫天地之间，物各有主,苟非吾之所有，虽一毫而莫取。（《赤壁赋》）
+          - ancient: 【高考题例】吾唯知吾君可帝中国尔，苟立异姓，吾当死之。 （《宋史•孙傅传》）
+          - ancient: 【高考题例】圣人苟可以强国，不法其故;苟可以利民，不循其礼。（《史记•商君列传》）
+      - trans: ❷只要。
+        sentences:
+          - ancient: 不吾知其亦已兮，苟余情其信芳。（《离骚》）
+

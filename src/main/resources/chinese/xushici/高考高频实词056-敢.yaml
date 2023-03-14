@@ -1,13 +1,28 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 敢
+    type: 【动词】
+    phonetic: gan3
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶助动词。有胆量;有勇气。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 秦人开关延（迎战）敌，九国之师，遂巡而不敢进。（《过秦论》）
+          - ancient: 如曰与日当一切不事事,守前所为而已，则非某之所敢知。（宋•王安石《答司马谏议书》）
+      - trans: ❷助动词。怎敢；岂敢。
+        sentences:
+          - ancient: 长者虽有问,役夫敢申恨？（《兵车行》）
+          - ancient: 奉事循公姥,进止敢自专？（《孔雀东南飞》）
+          - ancient: 【高考题例】勤王敢道远,私向梦中归。（唐•岑参《发临洗将赴北庭留别》）
+          - ancient: 【高考题例】燧怒日："初仕敢欺心耶!"（《宋史•萧燧传》）
+  - word: 敢
+    type: 【副词】
+    phonetic: gan3
+    tags:
+      - 高中
+    samples:
+      - trans: 谦辞，有冒昧的意思。
+        sentences:
+          - ancient: 若亡郑而有益于君,敢以烦执事。（《烛之武退秦师》）
+          - ancient: 敢竭鄙怀，恭疏短引，一言均赋，四韵俱成。（《滕王阁序》）

@@ -1,13 +1,55 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 奉
+    type: 【动词】
+    phonetic: feng4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶两手捧着。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 王必（假如）无人，臣愿奉璧往使。（《廉颇蔺相如列传》）
+          - ancient: 沛公塞卮酒为寿，约为婚姻。（《鸿门宴》）
+          - ancient: 荆轲奉樊於期头函，而秦武阳奉地图匣，以次进。（《荆轲刺秦王》）
+          - ancient: 是时，侍医夏无且以其所奉药囊提轲。（《荆轲刺秦王》）
+      - trans: ❷接受，多指对上级或长辈。
+        sentences:
+          - ancient: 受任于败军之际，奉命于危难之间，尔来二十有一年矣。（《出师表》）
+          - ancient: 近者奉辞伐罪，旌麾南指，刘琮束手。（《资治通鉴•汉纪五十七》）
+          - ancient: 臣欲奉诏奔驰，则刘病日笃;欲苟顺私情,则告诉不许。（《陈情表》）
+          - ancient: 初，奉使往来，无一留北者。（《〈指南录〉后序》）
+      - trans: ❸供给。
+        sentences:
+          - ancient: 以奉我一人之淫乐，视为当然。（明•黄宗羲《原君》）
+      - trans: ❹侍奉;尊奉。
+        sentences:
+          - ancient: 为宫室之美、妻妾之奉、所识穷乏者得我与？（《鱼我所欲也》）
+          - ancient: 怀帝阍（阍hun1,皇帝的宫门）而不见，奉宣室（汉代宫殿）以何年？（《滕王阁序》）
+          - ancient: 奉事循公姥，进止敢自专？（《孔雀东南飞》）
+          - ancient: 舍簪笏于百龄，奉晨昏于万里。（《滕王阁序》）
+          - ancient: 逮奉圣朝，沐浴清化。（《陈情表》）
+      - trans: ❺遵守;遵从。
+        sentences:
+          - ancient: 天子偶用一物，未必不过此已忘;而奉行者即为定例。（《促织》）
+          - ancient: 奉法者强则国强。（《韩非子•有度》）
+          - ancient: 【高考题例】吏奉法，律不可枉也，更道它所欲。（《后汉书•赵憙传》）
+      - trans: ❻通"俸"。俸禄。
+        sentences:
+          - ancient: 位尊而无功，奉厚而无劳，而挟重器多也。（《战国策-赵策四》）
+      - trans: ❼进献;献上。
+        sentences:
+          - ancient: 轲既取图奉之，发图，图穷而匕首见。（《荆轲刺秦王》）
+          - ancient: 诸侯之地有限，暴秦之欲无厌，奉之弥繁，侵之愈急。（《六国论》）
+      - trans: ❽祭祀;供奉。
+        sentences:
+          - ancient: 愿举国为内臣，比诸侯之列，给贡职如郡县,而得奉守先王之宗庙。（《荆轲刺秦王》）
+          - ancient: 【高考题例】民图像于点，而奉之如神，名日"范公庵"。（《宋史.范纯礼传》）
+  - word: 奉
+    type: 【副词】
+    phonetic: feng4
+    tags:
+      - 高中
+    samples:
+      - trans: 表示恭敬。
+        sentences:
+          - ancient: 此兴予非薄,何时得奉陪？（唐•杜牧《早春寄岳州李使君李善棋爱酒情地闲雅》）

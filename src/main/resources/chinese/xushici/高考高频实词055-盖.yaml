@@ -1,13 +1,80 @@
 ---
 words:
-  - word: xxxx
+  - word: 盖
     type: 【名词】
-    phonetic: xx1
+    phonetic: gai4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶车盖;伞盖。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 劳不坐乘，暑不张盖。（《史记•商君列传》）
+          - ancient: 庭有枇杷树，吾妻死之年所手植也，今已亭亭如盖矣。（《项脊轩志》）
+      - trans: ❷器物上的盖子。
+        sentences:
+          - ancient: 以精铜铸成，员径八尺，合盖隆起，形似酒尊。（《张衡传》）
+
+  - word: 盖
+    type: 【动词】
+    phonetic: gai4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶遮蔽;遮掩。
+        sentences:
+          - ancient: 日月欲明而浮云盖之。（《淮南子•说林训》）
+          - ancient: 其牙机巧制，皆隐在尊中，覆盖周密无际。（《张衡传》）
+          - ancient: 枝枝相覆盖,叶叶相交通。（《孔雀东南飞》）
+      - trans: ❷胜过;超过。
+        sentences:
+          - ancient: 威盖海内，功章万里之外。（《战国策•秦策三》）
+          - ancient: 功盖五帝，泽及牛马。（《史记•秦始皇本纪》）
+          - ancient: 力拔山兮气盖世！时不利兮驱不逝！（《项羽之死》）
+
+  - word: 盖
+    type: 【代词】
+    phonetic: gai4
+    tags:
+      - 高中
+    samples:
+      - trans: 通"盍"。何不，何。
+        sentences:
+          - ancient: 夫子之道至大也,故天下莫能容夫子。夫子盖少贬焉？（《史记•孔子世家》）
+          - ancient: 嘻，善哉！技盖至此乎？（《庖丁解牛》）
+
+  - word: 盖
+    type: 【副词】
+    phonetic: gai4
+    tags:
+      - 高中
+    samples:
+      - trans: 表示对事物进行判断。相当于"大概""大约"。
+        sentences:
+          - ancient: 今言"华"如"华实"之"华"者，盖音谬也。（《游褒禅山记》）
+          - ancient: 有善始者实繁，克终者盖寡。（《谏太宗十思疏》）
+          - ancient: 孔子以诗书礼乐教，弟子盖三千焉，身通六艺者七十有二人。（《史记•孔子世家》）
+          - ancient: 【高考题例】其牧守稍薄，则又移居,故其迁徙者,盖十余州焉。 （《旧唐书•李揆传》）
+  - word: 盖
+    type: 【连词】
+    phonetic: gai4
+    tags:
+      - 高中
+    samples:
+      - trans: 因为。
+        sentences:
+          - ancient: 屈平之作《离骚》,盖自怨生也。（《史记•屈原贾生列传》）
+          - ancient: 盖在殷忧,必竭诚以待下；既得志，则纵情以傲物。（《谏太宗十思疏》）
+          - ancient: 或曰：六国互丧，率赂秦耶？曰：不赂者以赂者丧。盖失强援，不能独完（保全）。故曰：弊在赂秦也。（《六国论》）
+          - ancient: 乃悟前狼假藤，盖以诱敌。（《狼》）
+  - word: 盖
+    type: 【助词】
+    phonetic: gai4
+    tags:
+      - 高中
+    samples:
+      - trans: 用在全段或句子开头，无实义。
+        sentences:
+          - ancient: 五人者，盖当蓼洲周公之被逮,激于义而死焉者也。（《五人墓碑记》）
+          - ancient: 盖余之勤且艰若此。（《送东阳马生序》）
+          - ancient: 盖将自其变者而观之，则天地曾不能以一瞬。（《赤壁赋》）
+
