@@ -1,9 +1,44 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 膏
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: gao1
+    trans: 油脂。
+    ancient: "养其根而竢（si4,等待）其实，加其<膏>而希其光。（《答李翊书》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 膏
+    type: 【名词】
+    phonetic: gao1
+    trans: 油脂。
+    ancient: "冬议豕<膏>涂身,厚数分，以御风寒。（《后汉书•东夷列传》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 膏
+    type: 【形容词】
+    phonetic: gao1
+    trans: 肥沃。
+    ancient: 关中自洲、雍以东至河、华，<膏>壤沃野千里。（《史记•货殖列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 膏
+    type: 【形容词】
+    phonetic: gao1
+    trans: 肥沃。
+    ancient: "众知<膏>瘠，不如原隰，众知芜平,不如浅深。（《农政全书•农本•诸家杂论下》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 膏
+    type: 【形容词】
+    phonetic: gao1
+    trans: 肥沃。
+    ancient: 南取汉中，西举巴、蜀，东割<膏>腴之地，北收要害之郡。（《过秦论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 膏
+    type: 【动词】
+    phonetic: gao4
+    trans: 滋润。
+    ancient: 空以身<膏>草野，谁复知之！（《苏武传》）
     url: xxxx
     vernacular: xxxx

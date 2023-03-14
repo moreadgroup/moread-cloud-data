@@ -1,9 +1,100 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 封
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: feng1
+    trans: ❶边界;疆界。
+    ancient: 又欲肆其西<封>，若不阙秦，将焉取之？（《烛之武退秦师》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 封
+    type: 【名词】
+    phonetic: feng1
+    trans: ❶边界;疆界。
+    ancient: 然县越其<封>，郡逾其境。（宋•欧阳修《上范司谏书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 封
+    type: 【名词】
+    phonetic: feng1
+    trans: ❶边界;疆界。
+    ancient: 越四<封>之内，亲吾君也，犹父母也。（《勾践灭吴》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 封
+    type: 【名词】
+    phonetic: feng1
+    trans: ❷坟冢。
+    ancient: "而五人亦得以加其土<封>,列其姓名于大堤之上，凡四方之士无不有过而拜且泣者，斯固百世之遇也。（《五人墓碑记》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 封
+    type: 【动词】
+    phonetic: feng1
+    trans: ❶使……成为疆界。
+    ancient: 既东<封>郑。（《烛之武退秦师》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 封
+    type: 【动词】
+    phonetic: feng1
+    trans: ❷帝王授予臣子土地或爵位。
+    ancient: "劳苦而功高如此,未有<封>侯之赏，而听细说（小人的谗言），欲诛有功之人，此亡秦之续耳。（《鸿曲壹》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 封
+    type: 【动词】
+    phonetic: feng1
+    trans: ❷帝王授予臣子土地或爵位。
+    ancient: 以赂秦之地，<封>天下之谋臣。（《六国论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 封
+    type: 【动词】
+    phonetic: feng1
+    trans: ❷帝王授予臣子土地或爵位。
+    ancient: 冯唐易老，李广难<封>。（《滕王阁序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 封
+    type: 【动词】
+    phonetic: feng1
+    trans: ❷帝王授予臣子土地或爵位。
+    ancient: 【高考题例】卫鞅既破魏还，秦<封>之於、商十五邑，号为商君。（《史记.商君列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 封
+    type: 【动词】
+    phonetic: feng1
+    trans: ❸封闭;封缄。
+    ancient: "吾入关，秋毫不敢有所近,籍吏民，<封>府库,而待将军。（《鸿门宴》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 封
+    type: 【动词】
+    phonetic: feng1
+    trans: ❸封闭;封缄。
+    ancient: 取案末独身无亲戚者二人易汝名，俟<封>奏时潜易之而已。（《狱中杂记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 封
+    type: 【动词】
+    phonetic: feng1
+    trans: ❸封闭;封缄。
+    ancient: "既已，无可奈何,乃遂收奉盛樊於期之首，函<封>之。（《荆轲刺秦王》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 封
+    type: 【动词】
+    phonetic: feng1
+    trans: ❹古代帝王在山上筑坛祭天。
+    ancient: "今天子接千岁之统,<封>泰山，而余不得从行,是命也夫，命也夫！（《史记•太史公自序》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 封
+    type: 【动词】
+    phonetic: feng1
+    trans: ❹古代帝王在山上筑坛祭天。
+    ancient: 元嘉草草，<封>狼居胥（山名），赢得仓皇北顾。（《永遇乐•京口北固亭怀古》）
     url: xxxx
     vernacular: xxxx

@@ -1,9 +1,149 @@
 ---
 quizzes:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+  - word: 负
+    type: 【动词】
+    phonetic: fu4
+    trans: ❶背（bei1）
+    ancient: "帝感其诚，命夸娥氏二子<负>二山，一厝（cuo4,通\"\"措\"，放置）朔东，一厝雍南。（《愚公移山》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 负
+    type: 【动词】
+    phonetic: fu4
+    trans: ❶背（bei1）
+    ancient: 烧其南门，民争<负>薪刍助之。（《资治通鉴•唐纪五十六》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 负
+    type: 【动词】
+    phonetic: fu4
+    trans: ❶背（bei1）
+    ancient: 左右乃曰："王<负>剑！王<负>剑！"（《荆轲刺秦王》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 负
+    type: 【动词】
+    phonetic: fu4
+    trans: ❶背（bei1）
+    ancient: 谨庠序之教，申之以孝悌之义，颁白者不<负>戴于道路矣。（《寡人之于国也》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 负
+    type: 【动词】
+    phonetic: fu4
+    trans: ❶背（bei1）
+    ancient: 廉颇闻之，肉袒<负>荆，因宾客至蔺相如门谢罪。（《廉颇蔺相如列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 负
+    type: 【动词】
+    phonetic: fu4
+    trans: ❷背靠着。
+    ancient: "四战（四面受敌）之国贵（重视）守战,<负>海之国贵攻战。（《高君书•兵守》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 负
+    type: 【动词】
+    phonetic: fu4
+    trans: ❸担负;承担。
+    ancient: 秦以城求璧而赵不许，曲（理亏）在赵;赵予璧而秦不予赵城，曲在秦。均之二策，宁许以<负>秦曲。（《廉颇蔺相如列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 负
+    type: 【动词】
+    phonetic: fu4
+    trans: ❸担负;承担。
+    ancient: 使<负>栋之柱，多于南亩之农夫。（《阿房宫赋》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 负
+    type: 【动词】
+    phonetic: fu4
+    trans: ❸担负;承担。
+    ancient: 【高考题例】或劝脱脱曰："王公素<负>重名，不可害。"（《明史•王祎传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 负
+    type: 【动词】
+    phonetic: fu4
+    trans: ❹依仗;凭借。
+    ancient: 张凭举孝廉，出都（到京城），<负>其才气，谓必参时彦。（《世说新语•文学》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 负
+    type: 【动词】
+    phonetic: fu4
+    trans: ❹依仗;凭借。
+    ancient: "夹岸高山，皆生寒树，<负>势竞上,互相轩（高）邈（远）。（《与朱元思书》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 负
+    type: 【动词】
+    phonetic: fu4
+    trans: ❹依仗;凭借。
+    ancient: "秦贪，<负>其强,以空言求璧，偿城恐不可得。（《廉颇蔺相如列传》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 负
+    type: 【动词】
+    phonetic: fu4
+    trans: ❺辜负;对不起。
+    ancient: "臣诚恐见欺于王而<负>赵,故令人持璧归，间至赵矣。（《廉颇蔺相如列传》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 负
+    type: 【动词】
+    phonetic: fu4
+    trans: ❺辜负;对不起。
+    ancient: 先生曰："狼<负>我！狼<负>我!"狼曰:"吾非固（一定）欲<负>汝，天生汝辈，固需吾辈食也。"（《中山狼传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 负
+    type: 【动词】
+    phonetic: fu4
+    trans: ❺辜负;对不起。
+    ancient: 吾今且赴府，不久当还归，誓天不相<负>！（《孔雀东南飞》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 负
+    type: 【动词】
+    phonetic: fu4
+    trans: ❻违背;背弃。
+    ancient: "相如度秦王虽斋,决<负>约不偿城，乃使其从者衣褐,怀其璧，从径道（小路）亡（逃走），归璧于赵。（《廉颇蔺相如列传））"
+    url: xxxx
+    vernacular: xxxx
+  - word: 负
+    type: 【动词】
+    phonetic: fu4
+    trans: ❻违背;背弃。
+    ancient: <负>神明，而使汝夭。（《祭十二郎文》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 负
+    type: 【动词】
+    phonetic: fu4
+    trans: ❼失败。
+    ancient: 不知彼而知己，一胜一<负>。（《孙子兵法•谋攻》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 负
+    type: 【动词】
+    phonetic: fu4
+    trans: ❼失败。
+    ancient: "向使三国各爱其地,齐人勿附于秦，刺客不行，良将犹在，则胜<负>之数，存亡之理，当与秦相较，或未易量。（《六国论》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 负
+    type: 【动词】
+    phonetic: fu4
+    trans: ❽蒙受。
+    ancient: 这都是我做窦娥的没时没运，不明不暗，<负>屈衔冤。（《窦娥冤》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 负
+    type: 【动词】
+    phonetic: fu4
+    trans: ❾欠。
+    ancient: （邓）通家尚<负>等（债）数巨万。（《汉书•邓通传》）
     url: xxxx
     vernacular: xxxx
