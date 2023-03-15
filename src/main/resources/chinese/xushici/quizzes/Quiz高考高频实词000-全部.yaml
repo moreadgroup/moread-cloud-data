@@ -1,292 +1,166 @@
 ---
 quizzes:
-  - word: 鼓
-    type: 【名词】
-    phonetic: gu3
-    trans: ❶一面或两面蒙着皮革的打击乐器。
-    ancient: 霾（通"埋"）两轮兮絷（zhi2用绳索拴住马足）四马，援玉枹（fu2，鼓槌）兮击鸣<鼓>。（战国楚•屈原《九歌•国殇》）
-    url: xxxx
-    vernacular: 兵车两轮深陷绊住四马，主帅举起鼓槌猛击战鼓。
-  - word: 鼓
-    type: 【名词】
-    phonetic: gu3
-    trans: ❶一面或两面蒙着皮革的打击乐器。
-    ancient: 余方心动欲还，而大声发于水上，噌吰（cheng1hong2，形容钟声）如钟<鼓>不绝。（《石钟山记》）
-    url: xxxx
-    vernacular: 我正心惊想要回去，忽然巨大的声音从水上发出，声音洪亮像不断地敲钟击鼓。
-  - word: 鼓
-    type: 【名词】
-    phonetic: gu3
-    trans: ❷鼓声。
-    ancient: 可堪回首，佛狸祠下，一片神鸦社<鼓>。（《永遇乐•京口北固亭怀古》）
-    url: xxxx
-    vernacular: 真是不堪回首，拓跋焘祠堂香火盛，乌鸦啄祭品，祭祀擂大鼓。
-  - word: 鼓
-    type: 【名词】
-    phonetic: gu3
-    trans: ❷鼓声。
-    ancient: 箫<鼓>追随春社近，衣冠简朴古风存。（《游山西村》）
-    url: xxxx
-    vernacular: 社日将近，一路上迎神的萧鼓声随处可闻，布衣素冠，淳朴的古代风俗依旧保留。
-  - word: 鼓
-    type: 【名词】
-    phonetic: gu3
-    trans: ❸更的代称。古代夜间击鼓计时，""一鼓""即"一更"，—夜击五次。
-    ancient: 四<鼓>，（李）愬(shuo4)至城下，无一人知者。（《资治通鉴•唐纪五十六》）
-    url: xxxx
-    vernacular: 四更天，李愬到达城下，没有一个人知道。
-  - word: 鼓
-    type: 【名词】
-    phonetic: gu3
-    trans: ❸更的代称。古代夜间击鼓计时，""一鼓""即"一更"，—夜击五次。
-    ancient: 戊申晦，五<鼓>，与子颖坐曰观亭，待曰出。（《登泰山记》）
-    url: xxxx
-    vernacular: 戊申这一天是月底，五更的时候，我和子颍坐在日观亭里，等待日出。
-  - word: 鼓
-    type: 【动词】
-    phonetic: gu3
-    trans: ❶弹奏;敲击（乐器）。
-    ancient: 秦王饮酒酣，曰："寡人窃闻赵王好音，请奏瑟。"赵王<鼓>瑟。（《廉颇蔺相如列传》）
-    url: xxxx
-    vernacular: 秦王饮到酒兴正浓时，说：“我私下里听说赵王爱好音乐，请您奏瑟一曲！”赵王就弹起瑟来。
-  - word: 鼓
-    type: 【动词】
-    phonetic: gu3
-    trans: ❶弹奏;敲击（乐器）。
-    ancient: 虎<鼓>瑟兮鸾回车，仙之人兮列如麻。（《梦游天姥吟留别》）
-    url: xxxx
-    vernacular: 老虎弹奏着琴瑟，鸾鸟驾着车，仙人们成群结队密密如麻。
-  - word: 鼓
-    type: 【动词】
-    phonetic: gu3
-    trans: ❶弹奏;敲击（乐器）。
-    ancient: 某年月日，秦王与赵王会饮，令赵王<鼓>瑟。（《廉颇蔺相如列传》）
-    url: xxxx
-    vernacular: 某年某月某日，秦王与赵王一起饮酒，令赵王弹瑟。
-  - word: 鼓
-    type: 【动词】
-    phonetic: gu3
-    trans: ❶弹奏;敲击（乐器）。
-    ancient: 呦呦鹿鸣，食野之苹。我有嘉宾，<鼓>瑟吹笙。（《短歌行》）
-    url: xxxx
-    vernacular: 一群鹿儿呦呦欢鸣，在那原野悠然自得的啃食艾蒿。一旦四方贤才光临舍下，我将奏瑟吹笙宴请宾客。
-  - word: 鼓
-    type: 【动词】
-    phonetic: gu3
-    trans: ❷敲击战鼓，发出进攻号令。
-    ancient: 公与之乘，战于长勺。公将<鼓>之。（《曹刿论战》）
-    url: xxxx
-    vernacular: 鲁庄公和他共坐一辆战车，在长勺和齐军作战。鲁庄公将要下令击鼓进军。
-  - word: 鼓
-    type: 【动词】
-    phonetic: gu3
-    trans: ❷敲击战鼓，发出进攻号令。
-    ancient: 填然（形容鼓声）<鼓>之，兵刃既接，弃甲曳兵而走。（《寡人之于国也》）
-    url: xxxx
-    vernacular: 战鼓咚咚敲响，交战激烈了，战败的士兵丢盔弃甲拖着武器逃跑
-  - word: 鼓
-    type: 【动词】
-    phonetic: gu3
-    trans: ❷敲击战鼓，发出进攻号令。
-    ancient: 夫战，勇气也。一<鼓>作气，再而衰，三而竭。（《曹刿论战》）
-    url: xxxx
-    vernacular: 作战，是靠敢作敢为毫不畏惧的气概。第一次击鼓能够振作士气。第二次击鼓士兵们的士气就开始低落了，第三次击鼓士兵们的士气就穷尽了。
-  - word: 鼓
-    type: 【动词】
-    phonetic: gu3
-    trans: ❸鼓起;凸出。
-    ancient: 遂<鼓>吻奋爪，以向先生。（《中山狼传》）
-    url: xxxx
-    vernacular: 便伸嘴舞爪，向先生（进攻）。
-  - word: 鼓
-    type: 【动词】
-    phonetic: gu3
-    trans: ❹振奋。
-    ancient: 吴儿善泅者数百，皆披发文身，手持十幅大彩旗，争先<鼓>勇，溯迎而上。（《观潮》）
-    url: xxxx
-    vernacular: 几百个善于泅水的吴地健儿，披散着头发，身上画着文彩，手里拿着十幅大彩旗，争先恐后，鼓足勇气，逆流迎着潮水而上
-  - word: 鼓
-    type: 【动词】
-    phonetic: gu3
-    trans: ❺击鼓奏乐。
-    ancient: 今王<鼓>乐于此，百姓闻王钟鼓之声，管籥（籥yue4，笙箫之类的乐器）之音，举疾首蹙额而相告。（《庄暴见孟子》）
-    url: xxxx
-    vernacular: 假如大王在奏乐，百姓们听到大王鸣钟击鼓、吹箫奏笛的音声，都愁眉苦脸地相互诉苦
-  - word: 鼓
-    type: 【动词】
-    phonetic: gu3
-    trans: ❻振动。
-    ancient: 郦元以为下临深潭，微风<鼓>浪，水石相搏，声如洪钟。（《石钟山记》）
-    url: xxxx
-    vernacular: 郦道元认为石钟山下面靠近深潭，微风振动波浪，水和石头互相拍打，发出的声音好像大钟一般。
-  - word: 鼓
-    type: 【名词】
-    phonetic: gu3
-    trans: 【量词】古代计量单位，四钧为一石，四石为一鼓。
-    ancient: 遂赋晋国一<鼓>铁，以铸刑鼎。（《左传•昭公二十九年》）
-    url: xxxx
-    vernacular: 于是向晋国的百姓征收了四百八十斤铁，用来铸造刑鼎
   - word: 固
     type: 【形容词】
     phonetic: gu4
     trans: ❶坚固。多形容城郭完坚或地势险要，易守难攻。
     ancient: 然后践华（华山）为城，因河为池，据亿丈之城，临不测之渊，以为<固>。（《过秦论》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 然后凭借华山为城墙，依据黄河为城池，凭借着高耸的华山，往下看着深不可测的黄河，认为这是险固的地方。
   - word: 固
     type: 【形容词】
     phonetic: gu4
     trans: ❶坚固。多形容城郭完坚或地势险要，易守难攻。
     ancient: 荆州与国邻接，江山险<固>，沃野万里，士民殷富。（《资治通鉴•汉纪五十七》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 荆州和（吴）国接壤，周围山水险要，防守坚固，百姓富裕
   - word: 固
     type: 【形容词】
     phonetic: gu4
     trans: ❶坚固。多形容城郭完坚或地势险要，易守难攻。
     ancient: 秦孝公据靖函之<固>，拥雍州之地。（《过秦论》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 秦孝公占据觳山与函谷关的险固关隘，拥有雍州的土地
   - word: 固
     type: 【形容词】
     phonetic: gu4
     trans: ❶坚固。多形容城郭完坚或地势险要，易守难攻。
     ancient: 今夫颛臾，<固>而近于费，今不取，后世必为子孙忧。（《季氏将伐颛臾》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 如今颛臾城墙坚固而且靠近费城，现在不夺取，后世一定会成为子孙们的忧虑。
   - word: 固
     type: 【形容词】
     phonetic: gu4
     trans: ❷顽固；固执。
     ancient: 汝心之<固>，<固>不可彻，曾不若孀妻弱子。（《愚公移山》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "你的思想真顽固,顽固得没法开窍,连孤儿寡妇都比不上。"
   - word: 固
     type: 【形容词】
     phonetic: gu4
     trans: ❷顽固；固执。
     ancient: 独夫之心，日益骄<固>。（《阿房宫赋》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: （可是）失尽人心的秦始皇的思想，一天天更加骄傲顽固。
   - word: 固
     type: 【形容词】
     phonetic: gu4
     trans: ❸固定;稳固。
-    ancient: 法莫如一而<固>。（《韩非子•五蠹》）
+    ancient: 法莫如一而<固>，使民知之。（《韩非子•五蠹》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 法令最好是一贯而且固定，使人们都能明白
   - word: 固
     type: 【形容词】
     phonetic: gu4
     trans: ❸固定;稳固。
     ancient: 天下已定，始皇之心，自以为关中之<固>，金城千里，子孙帝王万世之业也。（《过秦论》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 天下已经安定，始皇心里自己认为，这关中的险固地势、方圆千里的坚固的城防，是子子孙孙称帝称王直至万代的基业。
   - word: 固
     type: 【形容词】
     phonetic: gu4
     trans: ❸固定;稳固。
     ancient: 【高考题例】顾而谓吴起日："美哉乎山河之<固>，此魏国之宝也！"（《史记•孙子吴起列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 回过头来对吴起说：“山川是如此的险要、壮美哟，这是魏国的瑰宝啊！”
   - word: 固
     type: 【形容词】
     phonetic: gu4
     trans: ❹简陋;鄙陋。
     ancient: 奢则不孙（同"逊"，顺），俭则<固>。（《论语•述而》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "生活奢侈了人就不恭顺,节俭的人生活就简陋,"
   - word: 固
     type: 【形容词】
     phonetic: gu4
     trans: ❹简陋;鄙陋。
-    ancient: 鄙人<固>陋，不知怠讳。（汉•司马相如《上林赋》）
+    ancient: 鄙人<固>陋，不知忌讳。（汉•司马相如《上林赋》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 鄙人浅陋无知，不知顾忌
   - word: 固
     type: 【副词】
     phonetic: gu4
     trans: ❶坚决。
     ancient: 秦王恐其破璧，乃辞谢，<固>请，召有司案图（察看地图），指从此以往十五都予赵。（《廉颇蔺相如祝传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 秦王怕他撞碎和氏璧，就婉言道歉，坚决请求他不要把和氏璧撞碎，并召唤负责的官吏察看地图，指点着说要把从这里到那里的十五座城划归赵国
   - word: 固
     type: 【副词】
     phonetic: gu4
     trans: ❶坚决。
     ancient: 前朝恩封三子为侯，<固>辞不受。（汉•曹操《让县自明本志令》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 先前，朝庭恩封我的三个儿子为侯，我坚决推辞不接受
   - word: 固
     type: 【副词】
     phonetic: gu4
     trans: ❶坚决。
     ancient: 君臣<固>守以窥周室。（《过秦论》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 君臣牢固地守卫着这些地盘，以便伺机夺取衰弱的东周王朝
   - word: 固
     type: 【副词】
     phonetic: gu4
     trans: ❶坚决。
     ancient: 蔺相如<固>止之，曰："公之视廉将军孰与秦王？"（《廉颇蔺相如列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 蔺相如坚决地挽留他们，说：“诸位认为廉将军和秦王相比谁更厉害？”
   - word: 固
     type: 【副词】
     phonetic: gu4
     trans: ❶坚决。
     ancient: 【高考题例】郎中李梦阳进日："公诚及此时率大臣<固>争，去"八虎"易易耳。"（《明史•韩文传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 郎中李梦阳进言说:“您如果在此时率领大臣坚决抗争，除去‘八虎’也很容易的。”
   - word: 固
     type: 【副词】
     phonetic: gu4
     trans: ❷本来;原来。
     ancient: 人<固>有一死，或重于泰山，或轻于鸿毛，用之所趋异也。（《报任安书》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 人本来就有一死，但有的人死得比泰山还重，有的人死的却比鸿毛还轻，这是因为他们用死追求的目的不同啊！
   - word: 固
     type: 【副词】
     phonetic: gu4
     trans: ❷本来;原来。
     ancient: 至于颠覆，理<固>宜然。（《六国论》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "到了覆灭的地步,道理本来就是这样子的。"
   - word: 固
     type: 【副词】
     phonetic: gu4
     trans: ❷本来;原来。
     ancient: 伏清白以死直兮，<固>前圣之所厚。（《离骚》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 保持清白节操死于直道，这本为古代圣贤所称赞！
   - word: 固
     type: 【副词】
     phonetic: gu4
     trans: ❷本来;原来。
     ancient: <固>知一死生为虚诞，齐彭殓为妄作。（《兰亭集序》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 本来知道把生死等同的说法是不真实的，把长寿和短命等同起来的说法是妄造的。
   - word: 固
     type: 【副词】
     phonetic: gu4
     trans: ❷本来;原来。
     ancient: <固>一世之雄也，而今安在哉？（《赤壁赋》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 委实是当世的一代枭雄，而今天又在哪里呢？
   - word: 固
     type: 【副词】
     phonetic: gu4
     trans: ❸诚然。
     ancient: 子<固>仁者，然愚亦甚矣。（《中山狼传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 您的确是仁者，然而也够愚蠢的啊！
   - word: 固
     type: 【副词】
     phonetic: gu4
     trans: ❸诚然。
     ancient: 凡四方之士无有不过而拜且泣者，斯<固>百世之遇也。（《五人墓碑记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 所有四方的有志之士经过这里没有不跪拜流泪的，这实在是百代难得的际遇啊。
   - word: 故
     type: 【名词】
     phonetic: gu4
