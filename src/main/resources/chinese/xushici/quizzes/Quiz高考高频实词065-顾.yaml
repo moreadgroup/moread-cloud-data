@@ -1,9 +1,177 @@
 ---
 quizzes:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+  - word: 顾
+    type: 【动词】
+    phonetic: gu4
+    trans: ❶回头看。
+    ancient: 元嘉草草，封狼居胥，赢得仓皇北<顾>。（《永遇乐•京口北固亭怀古》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 顾
+    type: 【动词】
+    phonetic: gu4
+    trans: ❶回头看。
+    ancient: 柔情似水，佳期如梦，忍<顾>鹊桥归路。（《鹊桥仙》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 顾
+    type: 【动词】
+    phonetic: gu4
+    trans: ❶回头看。
+    ancient: 于是荆轲遂就车而去，终已不<顾>。（《荆轲刺秦王》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 顾
+    type: 【动词】
+    phonetic: gu4
+    trans: ❶回头看。
+    ancient: 【高考题例】<顾>而谓吴起日："美哉乎山河之固，此魏国之宝也！"（《史记•孙子吴起列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 顾
+    type: 【动词】
+    phonetic: gu4
+    trans: ❷看。
+    ancient: 先轸怒曰："武夫力而拘诸原（指战场），妇人暂（一下子）而免（赦免）诸国。堕（hui1，通，"隳’毁弃）军实（指战果）而长寇仇，亡无日矣！"不<顾>而唾。（《左传•僖公三十三年》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 顾
+    type: 【动词】
+    phonetic: gu4
+    trans: ❷看。
+    ancient: <顾>野有麦场，场主积薪其中，苫蔽成丘。（《狼》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 顾
+    type: 【动词】
+    phonetic: gu4
+    trans: ❷看。
+    ancient: 每移案，<顾>视无可置者。（《项脊轩志》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 顾
+    type: 【动词】
+    phonetic: gu4
+    trans: ❷看。
+    ancient: 君臣相<顾>，不知所归，至于誓天断发，泣下沾襟，何其衰也！（《伶官传序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 顾
+    type: 【动词】
+    phonetic: gu4
+    trans: ❸探望;拜访。
+    ancient: 先帝不以臣卑鄙，猥自枉屈，三<顾>臣于草庐之中。（《出师表》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 顾
+    type: 【动词】
+    phonetic: gu4
+    trans: ❸探望;拜访。
+    ancient: 此人可就见，不可屈致也。将军宜枉驾<顾>之。（《隆中对》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 顾
+    type: 【动词】
+    phonetic: gu4
+    trans: ❹顾惜;关心。
+    ancient: 夫人情莫不贪生恶死，念父母，<顾>妻子。（《报任安书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 顾
+    type: 【动词】
+    phonetic: gu4
+    trans: ❹顾惜;关心。
+    ancient: 子布、元表诸人，各<顾>妻子，挟持私虑，深失所望。（《资治通鉴•汉纪五十七》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 顾
+    type: 【动词】
+    phonetic: gu4
+    trans: ❺考虑;顾及。
+    ancient: 但欲求死，不复<顾>利害。（《〈指南录〉后序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 顾
+    type: 【动词】
+    phonetic: gu4
+    trans: ❺考虑;顾及。
+    ancient: 大行不<顾>细谨，大礼不辞小让。（《鸿门宴》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 顾
+    type: 【动词】
+    phonetic: gu4
+    trans: ❺考虑;顾及。
+    ancient: 汝为人臣子，不<顾>恩义，畔主背亲，为降虏于蛮夷，何以汝为见？（《苏武传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 顾
+    type: 【动词】
+    phonetic: gu4
+    trans: ❻返回。
+    ancient: 是时屈平既疏，不复在位，使于齐。<顾>反，谏怀王曰："何不杀张仪？"（《史记•屈原贾生列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 顾
+    type: 【副词】
+    phonetic: gu4
+    trans: ❶却;反而。
+    ancient: 若既得立，欲分吴国予我，我<顾>不敢望也。（《史记•伍子胥列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 顾
+    type: 【副词】
+    phonetic: gu4
+    trans: ❶却;反而。
+    ancient: 足反居上，首<顾>居下，倒县如此，莫之能解。（《汉书•贾谊传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 顾
+    type: 【副词】
+    phonetic: gu4
+    trans: ❶却;反而。
+    ancient: 【高考题例】臣父不能决胜而死，陛下不以罪其孥幸矣，臣等<顾>:蒙非常之恩！（《宋史•康保裔传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 顾
+    type: 【副词】
+    phonetic: gu4
+    trans: ❶却;反而。
+    ancient: 【高考题例】背公植党，遂嗜乞怜，如所谓"七豺""八狗"者，言路<顾>居其半。（《明史・陈登云传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 顾
+    type: 【副词】
+    phonetic: gu4
+    trans: ❷岂;难道。
+    ancient: 人之立志，<顾>不如蜀鄙（边远地区）之僧哉！（《为学》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 顾
+    type: 【副词】
+    phonetic: gu4
+    trans: ❷岂;难道。
+    ancient: 仆游扬足下之名于天卞，<顾>不重邪？（《史记•季布栾布列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 顾
+    type: 【连词】
+    phonetic: gu4
+    trans: 只是;不过。
+    ancient: 相如虽驽，独畏廉将军哉？<顾>吾念之，强秦之所以不敢加兵于赵者，徒以吾两人在也。（《廉颇蔺相如列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 顾
+    type: 【连词】
+    phonetic: gu4
+    trans: 只是;不过。
+    ancient: <顾>念蓄劣物终无所用，不如拼博一笑，因合纳斗盆。（《促织》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 顾
+    type: 【连词】
+    phonetic: gu4
+    trans: 只是;不过。
+    ancient: 吾每念，常痛于骨髓，<顾>计不知所出耳！（《荆轲刺秦王》）
     url: xxxx
     vernacular: xxxx

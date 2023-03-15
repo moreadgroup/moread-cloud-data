@@ -1,9 +1,114 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 国
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: guo2
+    trans: ❶国家；周代指诸侯国。
+    ancient: 夫大<国>，难测也，惧有伏（埋伏）焉。（《曹刿论战》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 国
+    type: 【名词】
+    phonetic: guo2
+    trans: ❶国家；周代指诸侯国。
+    ancient: 越<国>以鄙远（以遥远的地方做边境），君知其难也。（《烛之武退秦师》，）
+    url: xxxx
+    vernacular: xxxx
+  - word: 国
+    type: 【名词】
+    phonetic: guo2
+    trans: ❶国家；周代指诸侯国。
+    ancient: 人习于苟且非一日，士大夫多以不恤<国>事、同俗自媚于众为善。（宋•王安石《答司马谏议书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 国
+    type: 【名词】
+    phonetic: guo2
+    trans: ❶国家；周代指诸侯国。
+    ancient: 思<国>之安者，必积其德义。（《谏太宗十思疏》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 国
+    type: 【名词】
+    phonetic: guo2
+    trans: ❶国家；周代指诸侯国。
+    ancient: 小楼昨夜又东风，故<国>不堪回首月明中。（《虞美人•春花秋月何时了》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 国
+    type: 【名词】
+    phonetic: guo2
+    trans: ❶国家；周代指诸侯国。
+    ancient: 诏书特下，拜臣郎中，寻蒙<国>恩，除臣洗马。（《陈情表》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 国
+    type: 【名词】
+    phonetic: guo2
+    trans: ❷战国时公卿和汉以后王侯的封地。
+    ancient: 孟尝君就（前往）<国>于薛。（《战国策•齐策四》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 国
+    type: 【名词】
+    phonetic: guo2
+    trans: ❷战国时公卿和汉以后王侯的封地。
+    ancient: 汉兴，天子之政行午郡，不行于<国>。（唐•柳宗元《封建论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 国
+    type: 【名词】
+    phonetic: guo2
+    trans: ❷战国时公卿和汉以后王侯的封地。
+    ancient: 丘（孔子自称）也闻有<国>有家者，不患寡而患不均，不患贫而患不安。（《季氏将伐颛臾》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 国
+    type: 【名词】
+    phonetic: guo2
+    trans: ❷战国时公卿和汉以后王侯的封地。
+    ancient: 四月，兵罢戏下，诸侯各就<国>。（《史记•高祖本纪》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 国
+    type: 【名词】
+    phonetic: guo2
+    trans: ❸国都;京城。
+    ancient: 先王之制，大都不过参<国>之一。（《左传•隐公元年》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 国
+    type: 【名词】
+    phonetic: guo2
+    trans: ❸国都;京城。
+    ancient: <国>破山河在，城春草木深。（《春望》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 国
+    type: 【名词】
+    phonetic: guo2
+    trans: ❸国都;京城。
+    ancient: 登斯楼也，则有去<国>怀乡，忧谗畏讥，满目萧然，感极而悲者矣。（《岳阳楼记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 国
+    type: 【名词】
+    phonetic: guo2
+    trans: ❹地区;地域。
+    ancient: 逝将去女（通""汝"，你），适彼乐<国>。（《诗经•魏风•硕鼠》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 国
+    type: 【名词】
+    phonetic: guo2
+    trans: ❹地区;地域。
+    ancient: 荆见北据汉、沔，利尽南海，东连吴会，西通巴、蜀，此用武之<国>。（《隆中对》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 国
+    type: 【名词】
+    phonetic: guo2
+    trans: ❹地区;地域。
+    ancient: 红豆生南<国>，春来发几枝?（《相思》）
     url: xxxx
     vernacular: xxxx

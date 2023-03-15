@@ -1,9 +1,128 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 鼓
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: gu3
+    trans: ❶一面或两面蒙着皮革的打击乐器。
+    ancient: 霾（通"埋"）两轮兮絷（zhi2用绳索拴住马足）四马，援玉枹（fu2，鼓槌）兮击鸣<鼓>。（战国楚•屈原《九歌•国殇》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 鼓
+    type: 【名词】
+    phonetic: gu3
+    trans: ❶一面或两面蒙着皮革的打击乐器。
+    ancient: 余方心动欲还，而大声发于水上，噌吰（cheng1hong2，形容钟声）如钟<鼓>不绝。（《石钟山记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 鼓
+    type: 【名词】
+    phonetic: gu3
+    trans: ❷鼓声。
+    ancient: 可堪回首，佛狸祠下，一片神鸦社<鼓>。（《永遇乐•京口北固亭怀古》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 鼓
+    type: 【名词】
+    phonetic: gu3
+    trans: ❷鼓声。
+    ancient: 箫<鼓>追随春社近，衣冠简朴古风存。（《游山西村》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 鼓
+    type: 【名词】
+    phonetic: gu3
+    trans: ❸更的代称。古代夜间击鼓计时，""一鼓""即"一更"，—夜击五次。
+    ancient: 四<鼓>，（李）愬(shuo4)至城下，无一人知者。（《资治通鉴•唐纪五十六》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 鼓
+    type: 【名词】
+    phonetic: gu3
+    trans: ❸更的代称。古代夜间击鼓计时，""一鼓""即"一更"，—夜击五次。
+    ancient: 戊申晦，五<鼓>，与子颖坐曰观亭，待曰出。（《登泰山记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 鼓
+    type: 【动词】
+    phonetic: gu3
+    trans: ❶弹奏;敲击（乐器）。
+    ancient: 秦王饮酒酣，曰："寡人窃闻赵王好音，请奏瑟。"赵王<鼓>瑟。（《廉颇蔺相如列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 鼓
+    type: 【动词】
+    phonetic: gu3
+    trans: ❶弹奏;敲击（乐器）。
+    ancient: 虎<鼓>瑟兮鸾回车，仙之人兮列如麻。（《梦游天姥吟留别》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 鼓
+    type: 【动词】
+    phonetic: gu3
+    trans: ❶弹奏;敲击（乐器）。
+    ancient: 某年月日，秦王与赵王会饮，令赵王<鼓>瑟。（《廉颇蔺相如列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 鼓
+    type: 【动词】
+    phonetic: gu3
+    trans: ❶弹奏;敲击（乐器）。
+    ancient: 呦呦鹿鸣，食野之苹。我有嘉宾，<鼓>瑟吹笙。（《短歌行》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 鼓
+    type: 【动词】
+    phonetic: gu3
+    trans: ❷敲击战鼓，发出进攻号令。
+    ancient: 公与之乘，战于长勺。公将<鼓>之。（《曹刿论战》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 鼓
+    type: 【动词】
+    phonetic: gu3
+    trans: ❷敲击战鼓，发出进攻号令。
+    ancient: 填然（形容鼓声）<鼓>之，兵刃既接，弃甲曳兵而走。（《寡人之于国也》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 鼓
+    type: 【动词】
+    phonetic: gu3
+    trans: ❷敲击战鼓，发出进攻号令。
+    ancient: 夫战，勇气也。一<鼓>作气，再而衰，三而竭。（《曹刿论战》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 鼓
+    type: 【动词】
+    phonetic: gu3
+    trans: ❸鼓起;凸出。
+    ancient: 遂<鼓>吻奋爪以向先生。（《中山狼传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 鼓
+    type: 【动词】
+    phonetic: gu3
+    trans: ❹振奋。
+    ancient: "吴儿善泅者数百，皆披发文身，手持十幅大彩旗，争先<鼓>勇，溯迎而上。（《观潮》）\t固"
+    url: xxxx
+    vernacular: xxxx
+  - word: 鼓
+    type: 【动词】
+    phonetic: gu3
+    trans: ❺击鼓奏乐。
+    ancient: 今王<鼓>乐于此，百姓闻王钟鼓之声，管籥（籥yue4，笙箫之类的乐器）之音，举疾首蹙额而相告。（《庄暴见孟子》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 鼓
+    type: 【动词】
+    phonetic: gu3
+    trans: ❻振动。
+    ancient: 郦元以为下临深潭，微风<鼓>浪，水石相搏，声如洪钟。（《石钟山记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 鼓
+    type: 【名词】
+    phonetic: gu3
+    trans: 【量词】古代计量单位，四钧为一石，四石为一鼓。
+    ancient: 遂赋晋国一<鼓>铁，以铸刑鼎。（《左传•昭公二十九年》）
     url: xxxx
     vernacular: xxxx

@@ -1,9 +1,163 @@
 ---
 quizzes:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+  - word: 固
+    type: 【形容词】
+    phonetic: gu4
+    trans: ❶坚固。多形容城郭完坚或地势险要，易守难攻。
+    ancient: 然后践华（华山）为城，因河为池，据亿丈之城，临不测之渊，以为<固>。（《过秦论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 固
+    type: 【形容词】
+    phonetic: gu4
+    trans: ❶坚固。多形容城郭完坚或地势险要，易守难攻。
+    ancient: 荆州与国邻接，江山险<固>，沃野万里，士民殷富。（《资治通鉴•汉纪五十七》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 固
+    type: 【形容词】
+    phonetic: gu4
+    trans: ❶坚固。多形容城郭完坚或地势险要，易守难攻。
+    ancient: 秦孝公据靖函之<固>，拥雍州之地。（《过秦论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 固
+    type: 【形容词】
+    phonetic: gu4
+    trans: ❶坚固。多形容城郭完坚或地势险要，易守难攻。
+    ancient: 今夫颛臾，<固>而近于费，今不取，后世必为子孙忧。（《季氏将伐颛臾》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 固
+    type: 【形容词】
+    phonetic: gu4
+    trans: ❷顽固；固执。
+    ancient: 汝心之<固>，<固>不可彻，曾不若孀妻弱子。（《愚公移山》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 固
+    type: 【形容词】
+    phonetic: gu4
+    trans: ❷顽固；固执。
+    ancient: 独夫之心，日益骄<固>。（《阿房宫赋》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 固
+    type: 【形容词】
+    phonetic: gu4
+    trans: ❸固定;稳固。
+    ancient: 法莫如一而<固>。（《韩非子•五蠹》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 固
+    type: 【形容词】
+    phonetic: gu4
+    trans: ❸固定;稳固。
+    ancient: 天下已定，始皇之心，自以为关中之<固>，金城千里，子孙帝王万世之业也。（《过秦论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 固
+    type: 【形容词】
+    phonetic: gu4
+    trans: ❸固定;稳固。
+    ancient: 【高考题例】顾而谓吴起日："美哉乎山河之<固>，此魏国之宝也！"（《史记•孙子吴起列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 固
+    type: 【形容词】
+    phonetic: gu4
+    trans: ❹简陋;鄙陋。
+    ancient: 奢则不孙（同"逊"，顺），俭则<固>。（《论语•述而》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 固
+    type: 【形容词】
+    phonetic: gu4
+    trans: ❹简陋;鄙陋。
+    ancient: 鄙人<固>陋，不知怠讳。（汉•司马相如《上林赋》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 固
+    type: 【副词】
+    phonetic: gu4
+    trans: ❶坚决。
+    ancient: 秦王恐其破璧，乃辞谢，<固>请，召有司案图（察看地图），指从此以往十五都予赵。（《廉颇蔺相如祝传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 固
+    type: 【副词】
+    phonetic: gu4
+    trans: ❶坚决。
+    ancient: 前朝恩封三子为侯，<固>辞不受。（汉•曹操《让县自明本志令》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 固
+    type: 【副词】
+    phonetic: gu4
+    trans: ❶坚决。
+    ancient: 君臣<固>守以窥周室。（《过秦论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 固
+    type: 【副词】
+    phonetic: gu4
+    trans: ❶坚决。
+    ancient: 蔺相如<固>止之，曰："公之视廉将军孰与秦王？"（《廉颇蔺相如列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 固
+    type: 【副词】
+    phonetic: gu4
+    trans: ❶坚决。
+    ancient: 【高考题例】郎中李梦阳进日："公诚及此时率大臣<固>争，去"八虎"易易耳。"（《明史•韩文传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 固
+    type: 【副词】
+    phonetic: gu4
+    trans: ❷本来;原来。
+    ancient: 人<固>有一死，或重于泰山，或轻于鸿毛，用之所趋异也。（《报任安书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 固
+    type: 【副词】
+    phonetic: gu4
+    trans: ❷本来;原来。
+    ancient: 至于颠覆，理<固>宜然。（《六国论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 固
+    type: 【副词】
+    phonetic: gu4
+    trans: ❷本来;原来。
+    ancient: 伏清白以死直兮，<固>前圣之所厚。（《离骚》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 固
+    type: 【副词】
+    phonetic: gu4
+    trans: ❷本来;原来。
+    ancient: <固>知一死生为虚诞，齐彭殓为妄作。（《兰亭集序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 固
+    type: 【副词】
+    phonetic: gu4
+    trans: ❷本来;原来。
+    ancient: <固>一世之雄也，而今安在哉？（《赤壁赋》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 固
+    type: 【副词】
+    phonetic: gu4
+    trans: ❸诚然。
+    ancient: 子<固>仁者，然愚亦甚矣。（《中山狼传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 固
+    type: 【副词】
+    phonetic: gu4
+    trans: ❸诚然。
+    ancient: 凡四方之士无有不过而拜且泣者，斯<固>百世之遇也。（《五人墓碑记》）
     url: xxxx
     vernacular: xxxx

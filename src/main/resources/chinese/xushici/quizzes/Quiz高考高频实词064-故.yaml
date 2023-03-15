@@ -1,9 +1,149 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 故
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: gu4
+    trans: ❶旧的事物。
+    ancient: 子曰："温<故>而知新，可以为师矣。"（《论语.为政》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 故
+    type: 【名词】
+    phonetic: gu4
+    trans: ❷旧交。
+    ancient: 君安（怎么）与项伯有<故>？（《鸿门宴》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 故
+    type: 【名词】
+    phonetic: gu4
+    trans: ❸原因;缘故。
+    ancient: 有过于江上者，见人方引婴儿而欲投之江中，婴儿啼，人问其<故>。曰：""此其父善游。"（《吕氏春秋•察今》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 故
+    type: 【名词】
+    phonetic: gu4
+    trans: ❸原因;缘故。
+    ancient: 既克，公问其<故>。（《曹刿论战》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 故
+    type: 【名词】
+    phonetic: gu4
+    trans: ❸原因;缘故。
+    ancient: 以<故>其后名之曰""褒禅"。（《游褒禅山记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 故
+    type: 【名词】
+    phonetic: gu4
+    trans: ❸原因;缘故。
+    ancient: 而五人生于编伍之间，素不闻诗书之训，激昂大义，蹈死不顾，亦曷<故>哉？（《五人墓碑记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 故
+    type: 【动词】
+    phonetic: gu4
+    trans: ❶衰败;衰老。
+    ancient: 弟走从军阿姨死，暮去朝来颜色<故>。（《琵琶行》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 故
+    type: 【动词】
+    phonetic: gu4
+    trans: ❷死亡。
+    ancient: 若年老病<故>者，令其子弟依例荫叙。（《元史•选举志二》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 故
+    type: 【动词】
+    phonetic: gu4
+    trans: ❷死亡。
+    ancient: 单于召会武官属，前以降及物<故>，凡随武还者九人。（《苏武传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 故
+    type: 【形容词】
+    phonetic: gu4
+    trans: ❶旧的（与"新"相对）。
+    ancient: 凡植木之性，其本欲舒，其培欲平，其土欲<故>，其筑（捣土）欲密。（《种树郭橐驼传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 故
+    type: 【形容词】
+    phonetic: gu4
+    trans: ❷从前的;原来的。
+    ancient: 羁鸟恋旧林，池鱼思<故>渊。（《归园田居》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 故
+    type: 【形容词】
+    phonetic: gu4
+    trans: ❷从前的;原来的。
+    ancient: 孝公既没，惠文、武、昭襄蒙<故>业，因遗策，南取汉中，西举巴、蜀，东割膏腴之地。（《过秦论》）.
+    url: xxxx
+    vernacular: xxxx
+  - word: 故
+    type: 【副词】
+    phonetic: gu4
+    trans: ❶原来;本来。
+    ancient: 此物<故>非西产;有华阴令欲媚上官，以一头进，试使斗而才。（《促织》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 故
+    type: 【副词】
+    phonetic: gu4
+    trans: ❷仍然。
+    ancient: 三日断五匹，大人<故>嫌迟。（《孔雀东南飞》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 故
+    type: 【副词】
+    phonetic: gu4
+    trans: ❷仍然。
+    ancient: 交游士林，累官<故>不失州郡也。（《资治通鉴•汉纪五十七》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 故
+    type: 【副词】
+    phonetic: gu4
+    trans: ❸故意;特意。
+    ancient: 将尉醉，广<故>数言欲亡，忿恚（hui4，激怒）尉，令辱之，以激怒其众。（《陈涉世家》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 故
+    type: 【副词】
+    phonetic: gu4
+    trans: ❸故意;特意。
+    ancient: 公子往，数请之，朱亥<故>不复谢，公子怪之。（《史记•魏公子列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 故
+    type: 【副词】
+    phonetic: gu4
+    trans: ❸故意;特意。
+    ancient: 然嬴欲就公子之名，<故>久立公子车骑市中，过客以观公子，公子愈恭。（《史记•魏公子列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 故
+    type: 【副词】
+    phonetic: gu4
+    trans: ❹从前;以前。
+    ancient: 程不识<故>与李广俱以边太守将军屯。（《史记•李将军列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 故
+    type: 【连词】
+    phonetic: gu4
+    trans: 所以；因此。
+    ancient: 吾视其辙乱，望其旗靡（mi3，倒下），<故>逐之。（《曹刿论战》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 故
+    type: 【连词】
+    phonetic: gu4
+    trans: 所以；因此。
+    ancient: <故>不积跬步，无以至千里。（《劝学》）
     url: xxxx
     vernacular: xxxx
