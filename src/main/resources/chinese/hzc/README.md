@@ -6,8 +6,8 @@
 
 ## 资料
 
-- hzc1cnchar.csv 由 cnchar.csv裁剪出来
-- hzc2cnchar.csv 由 cnchar.csv裁剪出来
-- hzc3cnchar.csv 由 cnchar.csv裁剪出来
+- hzc甲表4000.csv 由 cnchar.csv裁剪出来
+- hzc乙表500.csv 由 cnchar.csv裁剪出来
+- hzc丙表1000.csv 由 cnchar.csv裁剪出来
 - cnchar.csv 由CnCharFixTest 整理而来
 -  
