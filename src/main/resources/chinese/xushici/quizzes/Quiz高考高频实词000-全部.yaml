@@ -1,292 +1,117 @@
 ---
 quizzes:
-  - word: 顾
-    type: 【动词】
-    phonetic: gu4
-    trans: ❶回头看。
-    ancient: 元嘉草草，封狼居胥，赢得仓皇北<顾>。（《永遇乐•京口北固亭怀古》）
-    url: xxxx
-    vernacular: "元嘉帝兴兵北伐,想建立不朽战功封狼居胥,却落得仓皇逃命,北望追兵泪下无数。"
-  - word: 顾
-    type: 【动词】
-    phonetic: gu4
-    trans: ❶回头看。
-    ancient: 柔情似水，佳期如梦，忍<顾>鹊桥归路。（《鹊桥仙》）
-    url: xxxx
-    vernacular: 缱绻的柔情像流水般绵绵不断，重逢的约会如梦影般缥缈虚幻，分别之时不忍去看那鹊桥路。
-  - word: 顾
-    type: 【动词】
-    phonetic: gu4
-    trans: ❶回头看。
-    ancient: 于是荆轲遂就车而去，终已不<顾>。（《荆轲刺秦王》）
-    url: xxxx
-    vernacular: 于是荆轲就上车而去，始终不曾回头看一眼。
-  - word: 顾
-    type: 【动词】
-    phonetic: gu4
-    trans: ❶回头看。
-    ancient: 【高考题例】<顾>而谓吴起日："美哉乎山河之固，此魏国之宝也！"（《史记•孙子吴起列传》）
-    url: xxxx
-    vernacular: 回过头来对吴起说：“山川是如此的险要、壮美哟，这是魏国的瑰宝啊！”
-  - word: 顾
-    type: 【动词】
-    phonetic: gu4
-    trans: ❷看。
-    ancient: 先轸怒曰："武夫力而拘诸原（指战场），妇人暂（一下子）而免（赦免）诸国。堕（hui1，通，"隳’毁弃）军实（指战果）而长寇仇，亡无日矣！"不<顾>而唾。（《左传•僖公三十三年》）
-    url: xxxx
-    vernacular: 先轸愤怒地说：“战士们花了很大的力气，才把他们从战场上抓回来，一个女人霎那间就把他们从国内赦免了，毁了自己的战果而助长了敌人的气焰，亡国没有几天了！”不回头就吐了口唾沫。
-  - word: 顾
-    type: 【动词】
-    phonetic: gu4
-    trans: ❷看。
-    ancient: <顾>野有麦场，场主积薪其中，苫蔽成丘。（《狼》）
-    url: xxxx
-    vernacular: 他往旁边看了看发现田野中有个麦场，麦场的主人把柴草堆积在里面，覆盖成小山似的。
-  - word: 顾
-    type: 【动词】
-    phonetic: gu4
-    trans: ❷看。
-    ancient: 每移案，<顾>视无可置者。（《项脊轩志》）
-    url: xxxx
-    vernacular: 我每次动书桌，环视四周都没有可以安置桌案的地方。
-  - word: 顾
-    type: 【动词】
-    phonetic: gu4
-    trans: ❷看。
-    ancient: 君臣相<顾>，不知所归，至于誓天断发，泣下沾襟，何其衰也！（《伶官传序》）
-    url: xxxx
-    vernacular: 君臣们你看着我，我看着你，不知道哪里去好；到了割下头发来对天发誓，抱头痛哭，眼泪沾湿衣襟的可怜地步，怎么那样的衰败差劲呢！
-  - word: 顾
-    type: 【动词】
-    phonetic: gu4
-    trans: ❸探望;拜访。
-    ancient: 先帝不以臣卑鄙，猥自枉屈，三<顾>臣于草庐之中。（《出师表》）
-    url: xxxx
-    vernacular: 先帝不因为我身份卑微，屈尊下驾来看我，三次去我的茅庐拜访我
-  - word: 顾
-    type: 【动词】
-    phonetic: gu4
-    trans: ❸探望;拜访。
-    ancient: 此人可就见，不可屈致也。将军宜枉驾<顾>之。（《隆中对》）
-    url: xxxx
-    vernacular: 这个人只能你去他那里拜访，不可以委屈他，将军你应该屈尊亲自去拜访他。
-  - word: 顾
-    type: 【动词】
-    phonetic: gu4
-    trans: ❹顾惜;关心。
-    ancient: 夫人情莫不贪生恶死，念父母，<顾>妻子。（《报任安书》）
-    url: xxxx
-    vernacular: 人之常情，没有谁不贪生怕死的，都挂念父母，顾虑妻室儿女
-  - word: 顾
-    type: 【动词】
-    phonetic: gu4
-    trans: ❹顾惜;关心。
-    ancient: 子布、元表诸人，各<顾>妻子，挟持私虑，深失所望。（《资治通鉴•汉纪五十七》）
-    url: xxxx
-    vernacular: 子布、元表等人只顾妻子儿女，夹杂着个人的打算，很让我失望
-  - word: 顾
-    type: 【动词】
-    phonetic: gu4
-    trans: ❺考虑;顾及。
-    ancient: 但欲求死，不复<顾>利害。（《〈指南录〉后序》）
-    url: xxxx
-    vernacular: 只要求死，不再考虑个人的利害。
-  - word: 顾
-    type: 【动词】
-    phonetic: gu4
-    trans: ❺考虑;顾及。
-    ancient: 大行不<顾>细谨，大礼不辞小让。（《鸿门宴》）
-    url: xxxx
-    vernacular: 做大事不必顾及小节，有大礼节不回避小的责备。
-  - word: 顾
-    type: 【动词】
-    phonetic: gu4
-    trans: ❺考虑;顾及。
-    ancient: 汝为人臣子，不<顾>恩义，畔主背亲，为降虏于蛮夷，何以汝为见？（《苏武传》）
-    url: xxxx
-    vernacular: 你做人家的臣下和儿子，不顾及恩德义理，背叛皇上、抛弃亲人，在异族那里做投降的奴隶，我为什么要见你！
-  - word: 顾
-    type: 【动词】
-    phonetic: gu4
-    trans: ❻返回。
-    ancient: 是时屈原既疏，不复在位，使于齐。<顾>反，谏怀王曰："何不杀张仪？"（《史记•屈原贾生列传》）
-    url: xxxx
-    vernacular: 这时屈原已被疏远，不在朝中任职，出使在齐国，回来后，劝谏怀王说：“为什么不杀张仪？”
-  - word: 顾
-    type: 【副词】
-    phonetic: gu4
-    trans: ❶却;反而。
-    ancient: 若既得立，欲分吴国予我，我<顾>不敢望也。（《史记•伍子胥列传》）
-    url: xxxx
-    vernacular: 如果你成功登上王位，即使是把吴国赏赐给我，我也不敢对此有所奢望。
-  - word: 顾
-    type: 【副词】
-    phonetic: gu4
-    trans: ❶却;反而。
-    ancient: 足反居上，首<顾>居下，倒县如此，莫之能解。（《汉书•贾谊传》）
-    url: xxxx
-    vernacular: 脚反而朝上，头反而朝下，这样头脚倒置，谁也不能解救
-  - word: 顾
-    type: 【副词】
-    phonetic: gu4
-    trans: ❶却;反而。
-    ancient: 【高考题例】臣父不能决胜而死，陛下不以罪其孥幸矣，臣等<顾>蒙非常之恩！（《宋史•康保裔传》）
-    url: xxxx
-    vernacular: 我父亲不能决胜而死，陛下不加罪于他的子孙已是幸运了，我等反而承蒙非常的恩惠！
-  - word: 顾
-    type: 【副词】
-    phonetic: gu4
-    trans: ❶却;反而。
-    ancient: 【高考题例】背公植党，遂嗜乞怜，如所谓"七豺""八狗"者，言路<顾>居其半。（《明史・陈登云传》）
-    url: xxxx
-    vernacular: 背着皇上，培植党羽，摇尾乞怜，像所谓‘七豺’、‘八狗’，御史占了一半。
-  - word: 顾
-    type: 【副词】
-    phonetic: gu4
-    trans: ❷岂;难道。
-    ancient: 人之立志，<顾>不如蜀鄙（边远地区）之僧哉！（《为学》）
-    url: xxxx
-    vernacular: "一个人立志求学,难道还不如四川边境的那个穷和尚吗?"
-  - word: 顾
-    type: 【副词】
-    phonetic: gu4
-    trans: ❷岂;难道。
-    ancient: 仆游扬足下之名于天卞，<顾>不重邪？（《史记•季布栾布列传》）
-    url: xxxx
-    vernacular: 我周游天下到处宣扬您的大名，您却不重视我吗？
-  - word: 顾
-    type: 【连词】
-    phonetic: gu4
-    trans: 只是;不过。
-    ancient: 相如虽驽，独畏廉将军哉？<顾>吾念之，强秦之所以不敢加兵于赵者，徒以吾两人在也。（《廉颇蔺相如列传》）
-    url: xxxx
-    vernacular: 我蔺相如虽然无能，难道会害怕廉将军吗！但是我想到，强大的秦国之所以不敢对赵国用兵，就是因为有我们两人在呀。
-  - word: 顾
-    type: 【连词】
-    phonetic: gu4
-    trans: 只是;不过。
-    ancient: <顾>念蓄劣物终无所用，不如拼博一笑，因合纳斗盆。（《促织》）
-    url: xxxx
-    vernacular: 但成名心想养着这样低劣的东西，终究没有什么用处，不如让它斗一斗，换得一笑了事，因而把两个蟋蟀放在一个斗盆里
-  - word: 顾
-    type: 【连词】
-    phonetic: gu4
-    trans: 只是;不过。
-    ancient: 吾每念，常痛于骨髓，<顾>计不知所出耳！（《荆轲刺秦王》）
-    url: xxxx
-    vernacular: 我常常想起来，常常恨入骨髓，只是想不出什么办法罢了。
   - word: 归
     type: 【动词】
     phonetic: gui1
     trans: ❶返回；回去。
     ancient: 将军百战死，壮士十年<归>。（《木兰诗》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "将士们身经百战有的为国捐躯,有的转战多年得胜归来。"
   - word: 归
     type: 【动词】
     phonetic: gui1
     trans: ❶返回；回去。
     ancient: 一屠晚<归>，担中肉尽，止有剩骨。（《狼》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 一个屠户傍晚回来，担子里的肉已经卖完了，只剩下骨头。
   - word: 归
     type: 【动词】
     phonetic: gui1
     trans: ❶返回；回去。
     ancient: 卿但暂还家，吾今且报府。不久当<归>还，还必相迎取。（《孔雀东南飞》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 但你只不过是暂时回到娘家去，现在我也暂且回到县官府。不久我就要从府中回家来，回来之后一定会去迎接你。
   - word: 归
     type: 【动词】
     phonetic: gui1
     trans: ❶返回；回去。
     ancient: 屈节辱命，虽生，何面目以<归>汉！（《苏武传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 丧失气节、玷辱使命，即使活着，还有什么脸面回到家乡去呢！
   - word: 归
     type: 【动词】
     phonetic: gui1
     trans: ❷归还;送回。
     ancient: 城入赵而璧留秦;城不入，臣请完璧<归>赵。（《廉颇蔺相如列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 城邑归属赵国了，就把宝璧留给秦国；城邑不能归赵国，我一定把和氏璧完好地带回赵国。
   - word: 归
     type: 【动词】
     phonetic: gui1
     trans: ❷归还;送回。
     ancient: 知幸与不幸，则其读书也必专，而其<归>书也必速。（《黄生借书说》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: （黄生）懂得了（借到书的）幸运和（借不到书的）不幸运，那么他读书一定会专心，而且他还书也一定会很快。
   - word: 归
     type: 【动词】
     phonetic: gui1
     trans: ❸归附；归属。
     ancient: 孙讨虏（指孙权）聪明仁惠，敬贤礼士，江表英豪，咸<归>附之。（《檎治通鉴•汉纪五十七》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 孙讨虏将军聪明仁惠，尊敬贤者，礼遇士人，江南的英雄豪杰都归附他
   - word: 归
     type: 【动词】
     phonetic: gui1
     trans: ❸归附；归属。
     ancient: 迩年狱讼，情稍重，京兆、五城即不敢专决；又九门提督所访缉纠诘，皆<归>刑部。（《狱中杂记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 近年来的诉讼案件，（只要）案情稍微重一点，顺天府、五城兵马御史衙门就不敢专擅判决；再加上掌管京城九门守卫工作的步兵统领访查、缉捕、检举、盘查出来的犯人，统统归刑部监狱关押
   - word: 归
     type: 【动词】
     phonetic: gui1
     trans: ❸归附；归属。
     ancient: 聊乘化以<归>尽，乐夫天命复奚疑！（《归去来兮辞》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 抱定乐安天命的主意，还有什么可犹疑的呢！
   - word: 归
     type: 【动词】
     phonetic: gui1
     trans: ❸归附；归属。
     ancient: 苏君，律前负汉<归>匈奴，幸蒙大恩，赐号称王。（《苏武传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 苏君，我卫律以前背弃汉廷，归顺匈奴，幸运地受到单于的大恩，赐我爵号，让我称王
   - word: 归
     type: 【动词】
     phonetic: gui1
     trans: ❹汇聚。
-    ancient: 况刘豫州（指刘备）王室之胄，英才盖世，众士慕仰，若水之<归>海。资治通鉴•汉纪五十七》）
+    ancient: 况刘豫州（指刘备）王室之胄，英才盖世，众士慕仰，若水之<归>海。（《资治通鉴•汉纪五十七》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 何况刘豫州乃大汉皇室的后裔，英才盖世，群士仰慕，犹如众水归海。
   - word: 归
     type: 【动词】
     phonetic: gui1
     trans: ❹汇聚。
     ancient: 大率用根者，若有宿根，须取无茎叶时釆，则津泽皆<归>其根。（《梦溪笔谈•药议》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 大略说来，用根作药的，如果有隔年老根，必须选取没有茎叶的时候采，那么这时植物的养分都集中在它的根部。
   - word: 归
     type: 【动词】
     phonetic: gui1
     trans: ❺出嫁。
     ancient: 余既为此志，后五年，吾妻来<归>。（《项脊轩志》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 我作了这篇文章之后，过了五年，我的妻子嫁到我家来
   - word: 归
     type: 【动词】
     phonetic: gui1
     trans: ❻称许。
     ancient: 【高考题例】其幸而恒处于有可慕、有可惧之地，则可以终其身而不至于坏，而世遂以全节<归>之。（明•唐顺之《赠郡侯郭文麓升副使序》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: (如果)他幸好一直处在有所羡慕又有所畏惧的地位，那么可以凭这一点终其一生而不致于败坏(声名)，因而世间就把保全大节的名号送给他。
   - word: 归
     type: 【动词】
     phonetic: kui4
     trans: 通"馈"。赠送。
     ancient: 自牧（野外）<归>荑，洵（的确）美且异。（《诗经•邶风•静女》"）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 郊野采荑送给我，荑草确实美好又珍异。
   - word: 归
     type: 【动词】
     phonetic: kui4
     trans: 通"馈"。赠送。
-    ancient: 阳货欲见孔字，孔子不见，<归>孔子豚。（《论语•阳货》）
+    ancient: 阳货欲见孔子，孔子不见，<归>孔子豚。（《论语•阳货》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 阳货想会见孔子，孔子不去见他。于是，阳货想了一个办法，给孔子送去蒸熟的小猪。
   - word: 国
     type: 【名词】
     phonetic: guo2
