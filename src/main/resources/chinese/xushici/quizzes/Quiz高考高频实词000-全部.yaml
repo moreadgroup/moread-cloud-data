@@ -1,268 +1,170 @@
 ---
 quizzes:
-  - word: 果
-    type: 【名词】
-    phonetic: guo3
-    trans: ❶果子;果实。
-    ancient: 民食<果>蓏（luo3）蚌蛤。（《韩非子•五蠹》）
-    url: xxxx
-    vernacular: 当时人民吃的是野生的瓜果和蚌蛤
-  - word: 果
-    type: 【名词】
-    phonetic: guo3
-    trans: ❷事情的结果。
-    ancient: 无因无<果>。（唐•柳宗元《东海若》）
-    url: xxxx
-    vernacular: xxxx
-  - word: 果
-    type: 【动词】
-    phonetic: guo3
-    trans: 成为事实;实现。
-    ancient: 南阳刘子骥，高士也，闻之，欣然规往。未<果>，寻（不久）病终。（《桃花源记》）
-    url: xxxx
-    vernacular: 南阳有个叫刘子骥的人，是一个高尚的读书人，他听到了这个消息，非常愉快地计划着前往桃花源。但没有实现，不久后就病死了
-  - word: 果
-    type: 【动词】
-    phonetic: guo3
-    trans: 成为事实;实现。
-    ancient: 明年，丞相薨，吾去汴州，汝不<果>来。（《祭十二郎文》）
-    url: xxxx
-    vernacular: 第二年，董丞相去世，我离开汴州，你没能来成。
-  - word: 果
-    type: 【动词】
-    phonetic: guo3
-    trans: 成为事实;实现。
-    ancient: 是年，吾佐戎徐州，使取汝者始行，吾又罢去，汝又不<果>来。（《祭十二郎文》）
-    url: xxxx
-    vernacular: 这一年，我在徐州任职，派去接你的人刚动身，我就被免职，你又没来成。
-  - word: 果
-    type: 【形容词】
-    phonetic: guo3
-    trans: ❶充实;饱。
-    ancient: 适莽苍者，三餐而反，腹犹<果>然。（《逍遥游》）
-    url: xxxx
-    vernacular: 到近郊去的人，只带当天吃的三餐粮食，回来肚子还是饱饱的
-  - word: 果
-    type: 【形容词】
-    phonetic: guo3
-    trans: ❷果敢。
-    ancient: <果>者，临敌不怀生。（《吴子•论将》）
-    url: xxxx
-    vernacular: 果敢，是说临阵对敌不考虑个人的死生
-  - word: 果
-    type: 【形容词】
-    phonetic: guo3
-    trans: ❸果断;坚决。
-    ancient: 言必信，行必<果>。（《论语•子路》）
-    url: xxxx
-    vernacular: 说出的话一定要算数，承诺的事要果断做到。
-  - word: 果
-    type: 【形容词】
-    phonetic: guo3
-    trans: ❸果断;坚决。
-    ancient: <果>行，国人皆劝（劝勉）。（《勾践灭吴》）
-    url: xxxx
-    vernacular: 伐吴行动果断开始了，越国的老百姓都互相鼓励。
-  - word: 果
-    type: 【副词】
-    phonetic: guo3
-    trans: ❶符合预料的情况;果然。
-    ancient: 将尉醉，广故数言欲亡，忿恚（hui4，激怒）尉，令辱之，以激怒其众。尉<果>笞广。（《陈涝世家》）
-    url: xxxx
-    vernacular: （一天）押送戍卒的将尉喝醉了，吴广故意多次说想要逃跑，使将尉恼怒，让他侮辱自己，以便激怒那些士兵们。将尉果真用竹板打吴广。
-  - word: 果
-    type: 【副词】
-    phonetic: guo3
-    trans: ❶符合预料的情况;果然。
-    ancient: <果>不如先愿，又非君所详。（《孔雀东南飞》）
-    url: xxxx
-    vernacular: 果然不能满足我们从前的心愿，内中的情由又不是你能了解端详。
-  - word: 果
-    type: 【副词】
-    phonetic: guo3
-    trans: ❷究竟。
-    ancient: 夫当今生民之患，<果>安在哉？（《教战守策》）
-    url: xxxx
-    vernacular: 现在人民的祸患究竟在哪里呢？
-  - word: 果
-    type: 【副词】
-    phonetic: guo3
-    trans: ❸的确。
-    ancient: 若然者，人<果>有如木之质，而有异木之知（知觉）矣。（《梁书•范缜传》）
-    url: xxxx
-    vernacular: 假如这样，那人果然是既有相同于木头的实体，又有不同于木头的知觉了。
-  - word: 果
-    type: 【副词】
-    phonetic: guo3
-    trans: ❹终于。
-    ancient: 晋侯在外十九年矣，而<果>得晋国。（《左传•僖公二十八年》）
-    url: xxxx
-    vernacular: 晋文公在外边，十九年了，而果然得到了晋国。
   - word: 过
     type: 【名词】
     phonetic: guo4
     trans: 错误;过失。
     ancient: 吾不能早用子，今急而求子，是寡人之<过>也。（《烛之武退秦师》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 我不能早早用你，现在由于情况危急因而求您，这是我的过错。
   - word: 过
     type: 【名词】
     phonetic: guo4
     trans: 错误;过失。
     ancient: 君臣吏民能面刺（指责）寡人之<过>者，受上赏。（《邹忌讽齐王纳谏》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 所有的大臣、官吏、百姓，能够当面批评我的过错的，可得上等奖赏
   - word: 过
     type: 【名词】
     phonetic: guo4
     trans: 错误;过失。
     ancient: 【高考题例】有德之君，不忘规<过>，臣不胜大庆。（《旧唐书•于休烈传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 有道德的君王，不忘改正过错，我深表庆贺。
   - word: 过
     type: 【动词】
     phonetic: guo4
     trans: ❶经过;通过。
     ancient: 雷霆乍惊，宫车<过>也。（《阿房宫赋》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 雷霆突然震响，这是宫车驶过去了
   - word: 过
     type: 【动词】
     phonetic: guo4
     trans: ❶经过;通过。
     ancient: 悉使羸兵负草填之，骑乃得<过>。（《资治通鉴•汉纪五十七》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 曹操就命令体弱的士兵都去背草填路，骑兵才得以通过。
   - word: 过
     type: 【动词】
     phonetic: guo4
     trans: ❶经过;通过。
     ancient: 黄鹤之飞尚不得<过>，猿猱欲度愁攀援。（《蜀道难》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 善于高飞的黄鹤尚且无法飞过，即使猢狲要想翻过也愁于攀援。
   - word: 过
     type: 【动词】
     phonetic: guo4
     trans: ❶经过;通过。
     ancient: 【高考题例】宣和末，高丽入贡，使者所<过>，调夫治舟，骚然烦费。（《宋史•孙傅传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 宣和末期，高丽入贡，使者所过之处，调发民夫修船，引起骚动，用度又颇多。
   - word: 过
     type: 【动词】
     phonetic: guo4
     trans: ❷超过。
     ancient: 今以实校之，彼所将中国（指中原地区）人不<过>十五六万，且已久疲。（《资治通喧•"汉纪五十七》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 现在按照实际情况对核他(的数字)，他所率领的中原军队不过十五六万，而且早已疲劳。
   - word: 过
     type: 【动词】
     phonetic: guo4
     trans: ❷超过。
     ancient: 时已<过>午，奴辈适至，立庵前，指点两峰。（明•徐霞客《游黄山日记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 时间已过午，仆人们才上来，大家站在文殊院前，指点着左右两座山峰。
   - word: 过
     type: 【动词】
     phonetic: guo4
     trans: ❷超过。
     ancient: 我腾跃而上，不<过>数仞而下，翱翔蓬蒿之间，此亦飞之至也。（《逍遥游》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 我奋力起飞，不过几丈高就落下来，盘旋于蓬蒿丛中，这也是我飞翔的极限了。
   - word: 过
     type: 【动词】
     phonetic: guo4
     trans: ❷超过。
     ancient: 从此道至吾军，不<过>二十里耳。度我至军中，公乃入。（《鸿门宴》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 从这条路到我们军营，不过二十里罢了，估计我回到军营里，你就进去。
   - word: 过
     type: 【动词】
     phonetic: guo4
     trans: ❷超过。
-    ancient: 【高考题例】吾久不死贾生，自以为<过>之，今不及也。（《史记•屈原贾生列传》）
+    ancient: 【高考题例】吾久不见贾生，自以为<过>之，今不及也。（《史记•屈原贾生列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 我好长时间没见贾谊了，自认为能超过他，现在看来还是不如他。
   - word: 过
     type: 【动词】
     phonetic: guo4
     trans: ❸去；拜访。
     ancient: 公子<过>谢侯生。（《史记•魏公子列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 公子去向侯先生辞行。
   - word: 过
     type: 【动词】
     phonetic: guo4
     trans: ❸去；拜访。
     ancient: 余自束发读书轩中，一日，大母<过>余曰……（《项脊轩志》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 我从十五岁起就在轩内读书，有一天，祖母来看我，说：
   - word: 过
     type: 【动词】
     phonetic: guo4
     trans: ❹犯错误。
     ancient: 此愚者之所以大<过>也。（《吕氏春秋•察传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 这是愚蠢的人犯大错误的原因。
   - word: 过
     type: 【动词】
     phonetic: guo4
     trans: ❹犯错误。
     ancient: <过>而能改，善莫大焉。（《左传•宣公二年》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 有了过错能够改正，就没有比这再好的事情了。
   - word: 过
     type: 【动词】
     phonetic: guo4
     trans: ❹犯错误。
     ancient: 人恒<过>，然后能改，困于心衡于虑而后作，征于色发于声而后喻。（《生于忧患死于安乐》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 人常常犯错，然后才能改正；内心忧困，思想阻塞，然后才能奋起；表现在脸色上，流露在言谈中，才能被人们了解。
   - word: 过
     type: 【动词】
     phonetic: guo4
     trans: ❺责备。
     ancient: 闻大王有意督<过>之，脱身独去，已至军矣。（《鸿门宴》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 听说大王有意要责备他，脱身独自离开，已经回到军营了。
   - word: 过
     type: 【动词】
     phonetic: guo4
     trans: ❺责备。
     ancient: 求！无乃尔是<过>与？（《季氏将伐颛臾》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 冉有！恐怕应该责备你们吧。
   - word: 过
     type: 【动词】
     phonetic: guo4
     trans: ❺责备。
     ancient: 阙然久不报，幸勿为<过>。（《报任安书》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 隔了很长的日子没有复信给您，希望您不要责怪。
   - word: 过
     type: 【形容词】
     phonetic: guo4
     trans: 不正确。
     ancient: 曰："君<过>矣，不若长安君之甚。"（《触龙说赵太后》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 您错了，不像疼爱长安君那样厉害。
   - word: 过
     type: 【形容词】
     phonetic: guo4
     trans: 不正确。
     ancient: 且尔言<过>矣，虎兕出于柙，龟玉毁于椟中，是谁之过（错误）与？（《季氏将伐颛臾》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 况且你的话错了，老虎和犀牛从笼子里跑出，龟甲和玉器在匣子里被毁坏，这是谁的过错呢？
   - word: 过
     type: 【副词】
     phonetic: guo4
     trans: 过分;过于。
     ancient: 以其境<过>清，不可久居，乃记之而去。（《小石潭记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 因为这里的环境太凄清，不可长久停留，于是记下了这里的情景就离开了。
   - word: 过
     type: 【副词】
     phonetic: guo4
     trans: 过分;过于。
     ancient: 今臣亡国贱俘，至微至陋，<过>蒙拔擢，宠命优渥，岂敢盘桓，有所希冀。（《陈情表》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 现在我是一个低贱的亡国俘虏，十分卑微浅陋，受到过分提拔，恩宠优厚，怎敢犹豫不决而有非分的企求呢？
