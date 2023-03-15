@@ -1,13 +1,88 @@
 ---
 words:
-  - word: xxxx
+  - word: 果
     type: 【名词】
-    phonetic: xx1
+    phonetic: guo3
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶果子;果实。
         sentences:
-          - ancient: xxx
+          - ancient: 民食<果>蓏（luo3）蚌蛤。（《韩非子•五蠹》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷事情的结果。
+        sentences:
+          - ancient: 无因无<果>。（唐•柳宗元《东海若》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 果
+    type: 【动词】
+    phonetic: guo3
+    tags:
+      - 高中
+    samples:
+      - trans: 成为事实;实现。
+        sentences:
+          - ancient: 南阳刘子骥，高士也，闻之，欣然规往。未<果>，寻（不久）病终。（《桃花源记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 明年，丞相薨，吾去汴州，汝不<果>来。（《祭十二郎文》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 是年，吾佐戎徐州，使取汝者始行，吾又罢去，汝又不<果>来。（《祭十二郎文》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 果
+    type: 【形容词】
+    phonetic: guo3
+    tags:
+      - 高中
+    samples:
+      - trans: ❶充实;饱。
+        sentences:
+          - ancient: 适莽苍者，三餐而反，腹犹<果>然。（《逍遥游》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷果敢。
+        sentences:
+          - ancient: <果>者临敌不怀生。（《吴子•论将》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸果断;坚决。
+        sentences:
+          - ancient: 言必信，行必<果>。（《论语•子路》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <果>行，国人皆劝（劝勉）。（《勾践灭吴》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 果
+    type: 【副词】
+    phonetic: guo3
+    tags:
+      - 高中
+    samples:
+      - trans: ❶符合预料的情况;果然。
+        sentences:
+          - ancient: 将尉醉，广故数言欲亡，忿恚（hui4，激怒）尉，令辱之，以激怒其众。尉<果>笞广。（《陈涝世家》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <果>不如先愿，又非君所详。（《孔雀东南飞》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷究竟。
+        sentences:
+          - ancient: 夫当今生民之患，<果>安在哉？（《教战守策》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸的确。
+        sentences:
+          - ancient: 若然者，人<果>有如木之质，而有异木之知（知觉）矣。（《梁书•范缜传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹终于。
+        sentences:
+          - ancient: 晋侯在外十九年矣，而<果>得晋国。（《左传•僖公二十八年》）
             url: xxxx
             vernacular: xxxx

@@ -1,13 +1,46 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 构
+    type: 【动词】
+    phonetic: gou4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶架。
         sentences:
-          - ancient: xxx
+          - ancient: <构>木为巢，以避群害。（《韩非子•五蠹》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 筑土<构>木以为宫室。（《淮南子.氾论训D）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 骊山北<构>而西折，直走（趋向）咸阳。（《阿房宫赋》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷连接;交会。 ❸结成;造成。
+        sentences:
+          - ancient: 抑（还是）王兴（发动）甲兵（战争），危士臣，<构>怨于诸侯，然后快于心与方（《齐桓晋文之事》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹谋划。
+        sentences:
+          - ancient: 纣醢（hai3，将人剁成肉酱的酷刑）梅伯，文王与诸侯<构>之。（《淮南子•说林训》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】值禄山<构>难，肃宗践祚，休烈迁太常少卿，知礼仪事，兼修国史。（《旧唐书•于休烈传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】及宇文化及<构>逆，深忌之。（《北史•来护儿传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "【高考题例】惧其重入，遂密令直省至諲管内<构>求諲过失。（《旧唐书•李揆传》）\t："
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❺挑拨。
+        sentences:
+          - ancient: 彼实（的确）<构>吾二君。寡君若得而食之，不厌（满足），君何辱（相当于屈尊）讨焉？（《左传•僖公三十三年》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 不幸吕师孟<构>恶于前，贾余庆献谄于后，予羁縻不得还，国事遂不可收拾。（《〈指南录〉后序》）
             url: xxxx
             vernacular: xxxx

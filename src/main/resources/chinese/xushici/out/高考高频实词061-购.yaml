@@ -1,13 +1,35 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 购
+    type: 【动词】
+    phonetic: gou4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶悬赏捕捉。
         sentences:
-          - ancient: xxx
+          - ancient: 吾闻汉<购>我头千金，邑万户。（《项羽之死》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 穷饿无聊，追<购>又急，天高地迥，号呼靡及。（《〈指南录〉后序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 夫今樊将军，秦王<购>之金千斤，邑万家。（《荆轲刺秦王》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】有人别收得《国史》《实录》，如送官司，重加<购>赏。（《旧唐书•于休烈传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷买。
+        sentences:
+          - ancient: 太宗尝出御府金帛<购>求王羲之书迹。（《旧唐书•褚遂良传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 予<购>三百盆，皆病者，无一完者。（《病梅馆记》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸通"媾";讲和。
+        sentences:
+          - ancient: 乃警公仲之行，将西<购>于秦。（《史记•韩世家》）
             url: xxxx
             vernacular: xxxx
