@@ -1,103 +1,47 @@
 ---
 quizzes:
-  - word: 胡
-    type: 【名词】
-    phonetic: hu2
-    trans: ❶兽颔下的垂肉。
-    ancient: 前虞（担忧）跋（踏）<胡>，后恐疐尾（zhi4，跌倒）尾，三纳之而未克，徘徊容与（徘徊不进的样子），追者益近。（《中山狼传》）
-    url: xxxx
-    vernacular: 先装前身怕碰伤狼的下巴肉，先装后身又唯恐压住狼的尾巴，一连几次都没能把狼装进去。正在犹豫不定、迟疑不决的时候，追赶的人越来越近了。
-  - word: 胡
-    type: 【名词】
-    phonetic: hu2
-    trans: ❷我国古代西北部民族的统称。
-    ancient: <胡>人不敢南下而牧马，士不敢弯弓而报怨。（《过秦论》）
-    url: xxxx
-    vernacular: 胡人不敢向下到南边来放牧，勇士不敢拉弓射箭来报仇。
-  - word: 胡
-    type: 【名词】
-    phonetic: hu2
-    trans: ❷我国古代西北部民族的统称。
-    ancient: 旦辞黄河去，暮至黑山头。不闻爷娘唤女声，但闻燕山<胡>骑鸣啾啾。（《木兰诗》）
-    url: xxxx
-    vernacular: 早上辞别黄河上路，晚上到达黑山（燕山）脚下，听不见父母呼唤女儿的声音，但能听到燕山胡兵战马啾啾的鸣叫声。
-  - word: 胡
-    type: 【代词】
-    phonetic: hu2
-    trans: 什么;怎么。
-    ancient: 即不幸有方二三千里之旱，国<胡>以相恤？（《论积贮疏》）
-    url: xxxx
-    vernacular: 假如不幸有纵横二三千里地方的大旱灾，国家用什么去救济灾区？
-  - word: 胡
-    type: 【代词】
-    phonetic: hu2
-    trans: 什么;怎么。
-    ancient: <胡>为乎遑遑欲何之？（《归去来兮辞》）
-    url: xxxx
-    vernacular: 为什么心神不定，还想去什么地方？
-  - word: 胡
-    type: 【代词】
-    phonetic: hu2
-    trans: 什么;怎么。
-    ancient: 不狩不猎，<胡>瞻尔庭有县貆（huan2，小貉）兮？（《诗经•魏风•伐檀》）
-    url: xxxx
-    vernacular: 不冬狩来不夜猎，为何见你庭院猪獾悬啊？
-  - word: 胡
-    type: 【代词】
-    phonetic: hu2
-    trans: 什么;怎么。
-    ancient: 归去来兮，田园将芜<胡>不归？（《归去来兮辞》）
-    url: xxxx
-    vernacular: 回家去吧！田园快要荒芜了，为什么不回去呢？
-  - word: 胡
-    type: 【代词】
-    phonetic: hu2
-    trans: 什么;怎么。
-    ancient: 其险也若此，嗟尔远道之人<胡>为乎来哉！（《蜀道难》）
-    url: xxxx
-    vernacular: 这样危险的地方，唉呀呀你这个远方而来的客人，为什么非要来这里不可呀！
   - word: 患
     type: 【名词】
     phonetic: huan4
     trans: ❶灾祸;忧患。
     ancient: 夫祸<患>常积于忽微，而智勇多困于所溺，岂独伶人也哉？（《伶官传序》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 祸患常常是由微小的事情积累而成的，聪明勇敢的人反而常被所溺爱的人或事困扰，难道只有宠爱伶人才会这样吗？
   - word: 患
     type: 【名词】
     phonetic: huan4
     trans: ❶灾祸;忧患。
     ancient: 今北土未平，马超、韩遂尚在关西，为（曹）操后<患>。（《资治通鉴•汉纪五十七》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 如今北方尚未完全平定，马超、韩遂还驻兵函谷关以西，是曹操的后患。
   - word: 患
     type: 【名词】
     phonetic: huan4
     trans: ❶灾祸;忧患。
     ancient: 阉竖恐终为其<患>，遂共谗之。（《张衡传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 但那些宦党终究害怕张衡成为祸患，于是一起诋毁他。
   - word: 患
     type: 【名词】
     phonetic: huan4
     trans: ❶灾祸;忧患。
     ancient: 轲曰："今有一言，可以解燕国之<患>，而报将军之仇者，何如？"（《荆轲刺秦王》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 现在有一个建议，可以用来解除燕国的忧患，报将军的深仇大恨，怎么样？
   - word: 患
     type: 【名词】
     phonetic: huan4
     trans: ❶灾祸;忧患。
     ancient: 【高考题例】贾生谏，以为<患>之兴自此起矣。（《史记•屈原贾生列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 贾谊劝谏，认为国家祸患的兴起就要从这里开始了。
   - word: 患
     type: 【名词】
     phonetic: huan4
     trans: ❷毛病;弊病。
     ancient: 孟子称"人之<患>在好为人师"。（《答韦中立论师道书》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 人们的毛病，在于喜欢充当别人的老师。
   - word: 患
     type: 【名词】
     phonetic: huan4
@@ -111,42 +55,42 @@ quizzes:
     trans: ❶忧虑;担忧。
     ancient: 不<患>其众之不足也，而<患>其志行之少耻也。（《勾践灭吴》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 不担心自己的人力不够用，担心的是自己缺少羞耻之心。
   - word: 患
     type: 【动词】
     phonetic: huan4
     trans: ❶忧虑;担忧。
     ancient: 欲勿予，即<患>秦兵之来。（《廉颇蔺相如列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 想不给吧，又担心秦兵打过来。
   - word: 患
     type: 【动词】
     phonetic: huan4
     trans: ❶忧虑;担忧。
     ancient: 丘也闻有国有家者，不<患>寡而<患>不均，不<患>贫而<患>不安。（《季氏将伐颛臾》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 我听说士大夫都有自己的封地，他们不怕财富不多而怕分配不均匀，不怕民众不多而怕不安定。
   - word: 患
     type: 【动词】
     phonetic: huan4
     trans: ❶忧虑;担忧。
     ancient: 则秦之所大欲，诸侯之所大<患>，固不在战矣。（《六国论》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 那么秦国最想要的，与六国诸侯最担心的，本来就不在于战争。
   - word: 患
     type: 【动词】
     phonetic: huan4
     trans: ❶忧虑;担忧。
     ancient: 【高考题例】诸侯<患>楚之强。故楚之贵戚尽欲害吴起。（《史记♦孙子吴起列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 诸侯各国对楚国的强大感到忧虑。以往被吴起停止供给的疏远王族都想谋害吴起。
   - word: 患
     type: 【动词】
     phonetic: huan4
     trans: ❷厌恶;痛恨。
     ancient: 周处年少时，凶强侠气，为乡里所<患>。（《世说新语・自新》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 周处年轻的时候，特别凶暴强悍，最爱和人搏斗，地方上的人把他当作祸害。
   - word: 回
     type: 【动词】
     phonetic: hui2
