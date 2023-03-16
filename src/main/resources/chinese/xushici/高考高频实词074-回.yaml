@@ -8,19 +8,37 @@ words:
     samples:
       - trans: ❶旋转；回旋。
         sentences:
-          - ancient: 春冬之时，则素湍绿潭，回清倒影。（《三峡》）
-          - ancient: 风急天高猿啸哀，渚清沙白鸟飞回。（《登高》）
-          - ancient: 虽累百世，垢弥甚耳！是以肠一日而九回。（《报任安书》）
+          - ancient: 春冬之时，则素湍绿潭，<回>清倒影。（《三峡》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 风急天高猿啸哀，渚清沙白鸟飞<回>。（《登高》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 虽累百世，垢弥甚耳！是以肠一日而九<回>。（《报任安书》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷掉转;运转。
         sentences:
-          - ancient: 虎鼓瑟兮鸾回车，仙之人兮列如麻。（《梦游天姥吟留别》）
-          - ancient: 手把文书口称敕，回车叱牛牵向北。（唐•白居易《卖炭翁》）
-          - ancient: 回朕车以复路兮，及行迷之未远。（《离骚》）
-          - ancient: 上有六龙回日之高标。（《蜀道难》）
+          - ancient: 虎鼓瑟兮鸾<回>车，仙之人兮列如麻。（《梦游天姥吟留别》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 手把文书口称敕，<回>车叱牛牵向北。（唐•白居易《卖炭翁》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <回>朕车以复路兮，及行迷之未远。（《离骚》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 上有六龙<回>日之高标。（《蜀道难》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸回来；回去。
         sentences:
-          - ancient: 君不见黄河之水天上来，奔流到海不复回。（《将进酒》）
-          - ancient: 舟回至两山间，将入港口，有大石当中流（水流的中心）。（《石钟山记》）
+          - ancient: 君不见黄河之水天上来，奔流到海不复<回>。（《将进酒》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 舟<回>至两山间，将入港口，有大石当中流（水流的中心）。（《石钟山记》）
+            url: xxxx
+            vernacular: xxxx
   - word: 回
     type: 【动词】
     phonetic: hui2
@@ -29,9 +47,15 @@ words:
     samples:
       - trans: 【形容词】曲折环绕。
         sentences:
-          - ancient: 鹤汀（ting1,水边平地）凫渚（zhu3，水中小洲），穷岛屿之萦回。’（《滕王阁序》）
-          - ancient: 五步二楼，十步一阁；廊腰绶回，檐牙高啄。（《阿房宫赋》）
-          - ancient: 入深林，穷回溪，幽泉怪石,无远不到。（《始得西山宴游记》）
+          - ancient: "鹤汀（ting1，水边平地）凫渚（zhu3，水中小洲），穷岛屿之萦<回>。’（《滕王阁序》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 五步二楼，十步一阁；廊腰绶<回>，檐牙高啄。（《阿房宫赋》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "入深林，穷<回>溪，幽泉怪石，无远不到。（《始得西山宴游记》）"
+            url: xxxx
+            vernacular: xxxx
   - word: 回
     type: 【动词】
     phonetic: hui2
@@ -40,4 +64,6 @@ words:
     samples:
       - trans: 【量词】表示动作行为的次数。
         sentences:
-          - ancient: 渐老逢春能几回？（唐•杜甫《绝句漫兴九首》）
+          - ancient: 渐老逢春能几<回>？（唐•杜甫《绝句漫兴九首》）
+            url: xxxx
+            vernacular: xxxx
