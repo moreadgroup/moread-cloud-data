@@ -1,0 +1,219 @@
+- seq: 121
+  word: 拨
+  pinyin: bō
+  definition: 用手指快速移动或旋转以改变位置或产生振动
+  words:
+    - 拨动
+    - 拨号
+  sentences:
+    - 小明拨了一下手表，准备离开。
+    - 他开始拨号，想给他的妈妈打电话。
+
+- seq: 122
+  word: 波
+  pinyin: bō
+  definition: 液体或气体在扩散或传播时形成的起伏的形态
+  words:
+    - 波浪
+    - 波动
+  sentences:
+    - 寒冷的海面上涌起了巨浪。
+    - 恭喜你，你通过了最难的波谷。
+
+- seq: 123
+  word: 玻
+  pinyin: bō
+  definition: 无色透明或半透明的玻璃状体
+  words:
+    - 玻璃
+    - 玻璃窗
+  sentences:
+    - 鲁迅故居里有一个玻璃茶壶。
+    - 窗户后面的小鸟撞到了玻璃。
+
+- seq: 124
+  word: 剥
+  pinyin: bō
+  definition: 去掉表皮或外层
+  words:
+    - 剥皮
+    - 剥落
+  sentences:
+    - 他在食堂里剥了一只鸡腿。
+    - 树叶在秋天觉得枯黄并从树上剥落下来。
+
+- seq: 125
+  word: 播
+  pinyin: bō
+  definition: 播送，播放等
+  words:
+    - 播放
+    - 播报
+  sentences:
+    - 他喜欢在晚上播放音乐放松。
+    - 现在我们开始播报七点钟的新闻。
+
+- seq: 126
+  word: 脖
+  pinyin: bó
+  definition: 人和动物颈部到胸部的部位
+  words:
+    - 脖子
+    - 长脖子
+  sentences:
+    - 小明轻轻摸了摸他的脖子。
+    - 这个长颈鹿的脖子比较长。
+
+- seq: 127
+  word: 伯
+  pinyin: bó
+  definition: 古时对年长的人的尊称；叔伯的“伯”
+  words:
+    - 伯父
+    - 大伯
+  sentences:
+    - 我的伯父是一位退休教授。
+    - 大家都称呼他为大伯。
+
+- seq: 128
+  word: 驳
+  pinyin: bó
+  definition: 指驳回或反驳，议论中有不同的意见
+  words:
+    - 驳回
+    - 驳论
+  sentences:
+    - 她因为资料不足被驳回了申请。
+    - 学生们在课堂上驳论了老师的看法。
+
+- seq: 129
+  word: 泊
+  pinyin: bó
+  definition: 停泊，停放，停留等
+  words:
+    - 泊车
+    - 停泊
+  sentences:
+    - 他在楼下的停车场泊了他的车。
+    - 海洋里停泊着各种各样的船只。
+
+- seq: 130
+  word: 勃
+  pinyin: bó
+  definition: 健壮挺立的样子
+  words:
+    - 勃起
+    - 勃勃生机
+  sentences:
+    - 小王突然勃起，吓到了他的女友。
+    - 年幼的树苗水灌之后，又长出了勃勃生机的芽。
+
+- seq: 131
+  word: 博
+  pinyin: bó
+  definition: 广泛的，博览群书的
+  words:
+    - 博客
+    - 博学
+  sentences:
+    - 他在博客上写了篇关于旅游的文章。
+    - 爷爷是一位博学的老人，对许多知识都很了解。
+
+- seq: 132
+  word: 搏
+  pinyin: bó
+  definition: 用力和对方斗争
+  words:
+    - 搏斗
+    - 搏击
+  sentences:
+    - 狗和猫在花园中搏斗了起来。
+    - 他练习搏击术已经超过了一年。
+
+- seq: 133
+  word: 膊
+  pinyin: bó
+  definition: 胳膊
+  words:
+    - 手膊
+    - 胳膊
+  sentences:
+    - 这个小女孩擦伤了她的手膊。
+    - 前天我做了手术，所以我的胳膊现在很痛。
+
+- seq: 134
+  word: 薄
+  pinyin: bó
+  definition: 可以通光的，不厚实的
+  words:
+    - 薄片
+    - 薄荷
+  sentences:
+    - 他把钢片削成了一块薄片。
+    - 这条薄荷糖非常的好吃。
+
+- seq: 135
+  word: 卜
+  pinyin: bǔ
+  definition: 古代一种占卜方法或算命术
+  words:
+    - 卜算子
+    - 占卜
+  sentences:
+    - 这个卜算子算出了我的命运。
+    - 我们可以使用某些占卜方法来预测未来。
+
+- seq: 136
+  word: 补
+  pinyin: bǔ
+  definition: 在有缺陷的地方添加或修复物品
+  words:
+    - 补丁
+    - 补偿
+  sentences:
+    - 外套上的补丁看起来像是新的一样。
+    - 因为车祸，他得到了10万元的补偿。
+
+- seq: 137
+  word: 捕
+  pinyin: bǔ
+  definition: 捕捉，抓住
+  words:
+    - 捕鱼
+    - 捕捉
+  sentences:
+    - 他出去捕鱼，但是没有抓到一条。
+    - 警察们经过连续的追赶和捕捉终于抓住了逃走的罪犯。
+
+- seq: 138
+  word: 不
+  pinyin: bù
+  definition: 表示否定、相反、反问等意思
+  words:
+    - 不是
+    - 不愧
+  sentences:
+    - 我的小猫不是很喜欢吃鱼。
+    - 经过了多年的磨砺，他不愧是一位优秀的作家。
+
+- seq: 139
+  word: 布
+  pinyin: bù
+  definition: 一种织物，也用于表示分布、宣布、规划等意思
+  words:
+    - 布料
+    - 布置
+  sentences:
+    - 这条裙子用的是非常舒服的布料。
+    - 婚礼的筹备已经开始了，正在布置现场。
+
+- seq: 140
+  word: 步
+  pinyin: bù
+  definition: 走路时的一次脚下
+  words:
+    - 步伐
+    - 步履
+  sentences:
+    - 我们在沙滩上踏着轻快的步伐行走。
+    - 他的步履轻盈，就像猫一样优雅。 

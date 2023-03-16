@@ -1,0 +1,159 @@
+- seq: 41
+  char: 拜
+  pinyin: bài
+  definition: 表示恭敬、顺从。
+  words:
+    - 拜年
+  sentence: 新年到了，我要拜访长辈们。
+
+- seq: 42
+  char: 班
+  pinyin: bān
+  definition: 集体、单位。
+  words:
+    - 班级
+  sentence: 我们的班级里有30个学生。
+
+- seq: 43
+  char: 般
+  pinyin: bān
+  definition: 类似，相仿。
+  words:
+    - 同船共济
+  sentence: 同船共济，我们要互相帮助。
+
+- seq: 44
+  char: 颁
+  pinyin: bān
+  definition: 颁布、公布。
+  words:
+    - 颁奖
+  sentence: 他凭借自己的努力，获得了颁发的奖项。
+
+- seq: 45
+  char: 斑
+  pinyin: bān
+  definition: 形容色彩不匀称的斑点。
+  words:
+    - 斑马
+  sentence: 斑马是一种非常美丽的动物。
+
+- seq: 46
+  char: 搬
+  pinyin: bān
+  definition: 把东西从一个地方移到另一个地方。
+  words:
+    - 搬家
+  sentence: 我们一家搬到了新家。
+
+- seq: 47
+  char: 板
+  pinyin: bǎn
+  definition: 平直、硬实的木头。
+  words:
+    - 木板
+  sentence: 我们要用木板来制作书桌。
+
+- seq: 48
+  char: 版
+  pinyin: bǎn
+  definition: 版本、样式。
+  words:
+    - 出版
+  sentence: 这本书已经出版了好几个版本。
+
+- seq: 49
+  char: 办
+  pinyin: bàn
+  definition: 完成某种工作或任务。
+  words:
+    - 办公室
+  sentence: 我每天都在办公室里工作。
+
+- seq: 50
+  char: 半
+  pinyin: bàn
+  definition: 一半。
+  words:
+    - 半夜
+  sentence: 快半夜了，你还不回家休息吗？
+
+- seq: 51
+  char: 伴
+  pinyin: bàn
+  definition: 陪伴、伙伴。
+  words:
+    - 搭伴
+  sentence: 我们一起搭伴走路。
+
+- seq: 52
+  char: 扮
+  pinyin: bàn
+  definition: 假扮，伪装。
+  words:
+    - 扮演
+  sentence: 我们要扮演好自己的角色。
+
+- seq: 53
+  char: 瓣
+  pinyin: bàn
+  definition: 物体的个体数目。
+  words:
+    - 风铃瓣
+  sentence: 这串风铃有七个瓣。
+
+- seq: 54
+  char: 邦
+  pinyin: bāng
+  definition: 国家、地区。
+  words:
+    - 联邦
+  sentence: 美国和德国都是联邦制国家。
+
+- seq: 55
+  char: 帮
+  pinyin: bāng
+  definition: 帮忙、协助。
+  words:
+    - 帮手
+  sentence: 他是我的好朋友，我可以向他求助。
+
+- seq: 56
+  char: 膀
+  pinyin: bǎng
+  definition: 上臂。
+  words:
+    - 肩膀
+  sentence: 他的肩膀很宽，适合做重体力劳动。
+
+- seq: 57
+  char: 傍
+  pinyin: bàng
+  definition: 靠近、旁边。
+  words:
+    - 靠傍
+  sentence: 只要有你靠傍，我就不会害怕。
+
+- seq: 58
+  char: 棒
+  pinyin: bàng
+  definition: 杆状的器具。
+  words:
+    - 棒球
+  sentence: 我非常喜欢打棒球。
+
+- seq: 59
+  char: 包
+  pinyin: bāo
+  definition: 盛放物品的物品。
+  words:
+    - 包子
+  sentence: 他买了几个包子，我们可以分享一下。
+
+- seq: 60
+  char: 胞
+  pinyin: bāo
+  definition: 细胞。
+  words:
+    - 血细胞
+  sentence: 这种疾病会破坏血细胞的正常功能。 
