@@ -1,187 +1,96 @@
 ---
 quizzes:
-  - word: 患
-    type: 【名词】
-    phonetic: huan4
-    trans: ❶灾祸;忧患。
-    ancient: 夫祸<患>常积于忽微，而智勇多困于所溺，岂独伶人也哉？（《伶官传序》）
-    url: xxxx
-    vernacular: 祸患常常是由微小的事情积累而成的，聪明勇敢的人反而常被所溺爱的人或事困扰，难道只有宠爱伶人才会这样吗？
-  - word: 患
-    type: 【名词】
-    phonetic: huan4
-    trans: ❶灾祸;忧患。
-    ancient: 今北土未平，马超、韩遂尚在关西，为（曹）操后<患>。（《资治通鉴•汉纪五十七》）
-    url: xxxx
-    vernacular: 如今北方尚未完全平定，马超、韩遂还驻兵函谷关以西，是曹操的后患。
-  - word: 患
-    type: 【名词】
-    phonetic: huan4
-    trans: ❶灾祸;忧患。
-    ancient: 阉竖恐终为其<患>，遂共谗之。（《张衡传》）
-    url: xxxx
-    vernacular: 但那些宦党终究害怕张衡成为祸患，于是一起诋毁他。
-  - word: 患
-    type: 【名词】
-    phonetic: huan4
-    trans: ❶灾祸;忧患。
-    ancient: 轲曰："今有一言，可以解燕国之<患>，而报将军之仇者，何如？"（《荆轲刺秦王》）
-    url: xxxx
-    vernacular: 现在有一个建议，可以用来解除燕国的忧患，报将军的深仇大恨，怎么样？
-  - word: 患
-    type: 【名词】
-    phonetic: huan4
-    trans: ❶灾祸;忧患。
-    ancient: 【高考题例】贾生谏，以为<患>之兴自此起矣。（《史记•屈原贾生列传》）
-    url: xxxx
-    vernacular: 贾谊劝谏，认为国家祸患的兴起就要从这里开始了。
-  - word: 患
-    type: 【名词】
-    phonetic: huan4
-    trans: ❷毛病;弊病。
-    ancient: 孟子称"人之<患>在好为人师"。（《答韦中立论师道书》）
-    url: xxxx
-    vernacular: 人们的毛病，在于喜欢充当别人的老师。
-  - word: 患
-    type: 【名词】
-    phonetic: huan4
-    trans: ❸疾病。
-    ancient: 余能理亡国之刓弊，愈膏肓之<患>难。（唐•柳宗元《愈膏肓赋》）
-    url: xxxx
-    vernacular: xxxx
-  - word: 患
-    type: 【动词】
-    phonetic: huan4
-    trans: ❶忧虑;担忧。
-    ancient: 不<患>其众之不足也，而<患>其志行之少耻也。（《勾践灭吴》）
-    url: xxxx
-    vernacular: 不担心自己的人力不够用，担心的是自己缺少羞耻之心。
-  - word: 患
-    type: 【动词】
-    phonetic: huan4
-    trans: ❶忧虑;担忧。
-    ancient: 欲勿予，即<患>秦兵之来。（《廉颇蔺相如列传》）
-    url: xxxx
-    vernacular: 想不给吧，又担心秦兵打过来。
-  - word: 患
-    type: 【动词】
-    phonetic: huan4
-    trans: ❶忧虑;担忧。
-    ancient: 丘也闻有国有家者，不<患>寡而<患>不均，不<患>贫而<患>不安。（《季氏将伐颛臾》）
-    url: xxxx
-    vernacular: 我听说士大夫都有自己的封地，他们不怕财富不多而怕分配不均匀，不怕民众不多而怕不安定。
-  - word: 患
-    type: 【动词】
-    phonetic: huan4
-    trans: ❶忧虑;担忧。
-    ancient: 则秦之所大欲，诸侯之所大<患>，固不在战矣。（《六国论》）
-    url: xxxx
-    vernacular: 那么秦国最想要的，与六国诸侯最担心的，本来就不在于战争。
-  - word: 患
-    type: 【动词】
-    phonetic: huan4
-    trans: ❶忧虑;担忧。
-    ancient: 【高考题例】诸侯<患>楚之强。故楚之贵戚尽欲害吴起。（《史记♦孙子吴起列传》）
-    url: xxxx
-    vernacular: 诸侯各国对楚国的强大感到忧虑。以往被吴起停止供给的疏远王族都想谋害吴起。
-  - word: 患
-    type: 【动词】
-    phonetic: huan4
-    trans: ❷厌恶;痛恨。
-    ancient: 周处年少时，凶强侠气，为乡里所<患>。（《世说新语・自新》）
-    url: xxxx
-    vernacular: 周处年轻的时候，特别凶暴强悍，最爱和人搏斗，地方上的人把他当作祸害。
   - word: 回
     type: 【动词】
     phonetic: hui2
     trans: ❶旋转；回旋。
     ancient: 春冬之时，则素湍绿潭，<回>清倒影。（《三峡》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 等到春天和冬天的时候，就可以看见白色的急流，回旋的清波，碧绿的潭水倒映着各种景物的影子。
   - word: 回
     type: 【动词】
     phonetic: hui2
     trans: ❶旋转；回旋。
     ancient: 风急天高猿啸哀，渚清沙白鸟飞<回>。（《登高》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 风急天高猿猴啼叫显得十分悲哀，水清沙白的河洲上有鸟儿在盘旋。
   - word: 回
     type: 【动词】
     phonetic: hui2
     trans: ❶旋转；回旋。
     ancient: 虽累百世，垢弥甚耳！是以肠一日而九<回>。（《报任安书》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 即使是到百代之后，这污垢和耻辱会更加深重啊！因此在肺腑中肠子里每日多次回转
   - word: 回
     type: 【动词】
     phonetic: hui2
     trans: ❷掉转;运转。
     ancient: 虎鼓瑟兮鸾<回>车，仙之人兮列如麻。（《梦游天姥吟留别》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 老虎弹奏着琴瑟鸾鸟拉着车，仙人们排成列多如密麻。
   - word: 回
     type: 【动词】
     phonetic: hui2
     trans: ❷掉转;运转。
     ancient: 手把文书口称敕，<回>车叱牛牵向北。（唐•白居易《卖炭翁》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 他们手里拿着文书嘴里称是皇帝的命令，吆喝着牛朝皇宫拉去。
   - word: 回
     type: 【动词】
     phonetic: hui2
     trans: ❷掉转;运转。
     ancient: <回>朕车以复路兮，及行迷之未远。（《离骚》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 调转我的车走回原路啊，趁着迷途未远赶快罢休。
   - word: 回
     type: 【动词】
     phonetic: hui2
     trans: ❷掉转;运转。
-    ancient: 上有六龙<回>日之高标。（《蜀道难》）
+    ancient: 上有六龙<回>日之高标，下有冲波逆折之回川。（《蜀道难》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 蜀中上有挡住太阳神六龙车的山巅，下有激浪排空迂回曲折的大川。
   - word: 回
     type: 【动词】
     phonetic: hui2
     trans: ❸回来；回去。
     ancient: 君不见黄河之水天上来，奔流到海不复<回>。（《将进酒》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 你难道看不见，那黄河之水从天上奔腾而来，波涛翻滚直奔东海，再也没有回来。
   - word: 回
     type: 【动词】
     phonetic: hui2
     trans: ❸回来；回去。
     ancient: 舟<回>至两山间，将入港口，有大石当中流（水流的中心）。（《石钟山记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 船回到两山之间，将要进入港口，有块大石头正对着水的中央
   - word: 回
-    type: 【动词】
+    type: 【形容词】
     phonetic: hui2
-    trans: 【形容词】曲折环绕。
-    ancient: 鹤汀（ting1，水边平地）凫渚（zhu3，水中小洲），穷岛屿之萦<回>。’（《滕王阁序》）
+    trans: 曲折环绕。
+    ancient: 鹤汀（ting1，水边平地）凫渚（zhu3，水中小洲），穷岛屿之萦<回>。（《滕王阁序》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 白鹤，野鸭停息的小洲，极尽岛屿的纡曲回环之势
   - word: 回
-    type: 【动词】
+    type: 【形容词】
     phonetic: hui2
-    trans: 【形容词】曲折环绕。
-    ancient: 五步二楼，十步一阁；廊腰绶<回>，檐牙高啄。（《阿房宫赋》）
+    trans: 曲折环绕。
+    ancient: 五步一楼，十步一阁；廊腰缦<回>，檐牙高啄。（《阿房宫赋》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 五步一座楼，十步一个阁；走廊如绸带般萦回，牙齿般排列的飞檐像鸟嘴向高处啄着。
   - word: 回
-    type: 【动词】
+    type: 【形容词】
     phonetic: hui2
-    trans: 【形容词】曲折环绕。
+    trans: 曲折环绕。
     ancient: 入深林，穷<回>溪，幽泉怪石，无远不到。（《始得西山宴游记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 钻深林，迂回曲折的山间小溪，深幽的泉水，怪异山石。无论多远，我们都去。
   - word: 回
-    type: 【动词】
+    type: 【量词】
     phonetic: hui2
-    trans: 【量词】表示动作行为的次数。
+    trans: 表示动作行为的次数。
     ancient: 渐老逢春能几<回>？（唐•杜甫《绝句漫兴九首》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 人渐渐老了，像这样的春天还能遇到几回？
   - word: 会
     type: 【名词】
     phonetic: hui4
