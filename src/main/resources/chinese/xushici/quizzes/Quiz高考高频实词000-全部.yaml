@@ -1,82 +1,61 @@
 ---
 quizzes:
-  - word: 恚
-    type: 【动词】
-    phonetic: hui4
-    trans: ❶使恼怒。
-    ancient: （吴）广故数言欲亡，忿<恚>尉。（《陈涉世家》）
-    url: xxxx
-    vernacular: 吴广故意多次说想要逃跑，使将尉恼怒
-  - word: 恚
-    type: 【动词】
-    phonetic: hui4
-    trans: ❷怨恨。
-    ancient: 【高考题例】被重刑厚罚而不怨<恚>，而巫之祸盘错深固不解矣。（元•揭俟斯《赠医者汤伯高序》）
-    url: xxxx
-    vernacular: 即使被处以沉重的刑罚，也不怨恨，因为巫术祸害已盘根错节，根深蒂固而难以解决。
-  - word: 恚
-    type: 【形容词】
-    phonetic: hui4
-    trans: 恼怒。
-    ancient: （洪）承畴大<恚>，急呼麾下驱出斩之。（《梅花岭记》）
-    url: xxxx
-    vernacular: 洪承畴（听后）非常恼怒，急忙叫部下（把他）推出去杀了。
   - word: 晦
     type: 【名词】
     phonetic: hui4
     trans: ❶农历每月的最后一天。
     ancient: 十一月<晦>，日有食之。（《史记•孝文本纪》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 在十一月的最后一天，会有一次日食。
   - word: 晦
     type: 【名词】
     phonetic: hui4
     trans: ❶农历每月的最后一天。
     ancient: 朝菌不知<晦>朔，蟪蛄不知春秋，此小年也。（《逍遥游》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 朝菌不知道有月初月末，寒蝉不知道有春天和秋天，这是活的短的。
   - word: 晦
     type: 【名词】
     phonetic: hui4
     trans: ❷黑夜。
     ancient: 自明及<晦>，所行几里？（战国楚•屈原《天问》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 打从天亮直到天黑，所走之路究竟几里？
   - word: 晦
     type: 【动词】
     phonetic: hui4
     trans: 隐藏。
     ancient: 天下有隐居行义、才德高远、<晦>迹丘园、不求闻达者，委所在长吏，具姓名闻奏，当备礼邀致。（唐•陆贽《奉天改元大赦制》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 在世间有些隐士，遵循正义，才学高卓，平凡生活在邱园之中，不渴望出名，他们的名字被地方官员奏报后，我们应该恭敬地请他们来到这里。
   - word: 晦
     type: 【形容词】
     phonetic: hui4
     trans: 昏暗。
     ancient: 山峻高以蔽日兮，下幽<晦>以多雨。（战国楚•屈原《九章•涉江》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 高峻的大山遮天蔽日啊，山下淫雨霏霏迷迷茫茫。
   - word: 晦
     type: 【形容词】
     phonetic: hui4
     trans: 昏暗。
     ancient: 唯恐道途显<晦>，不相通达，致负诚托，又乖（违背）恳愿。（《柳毅传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 只怕人世和仙境有明暗之分，道路不通，以致辜负了你热忱的嘱托，违背了你恳切的愿望。
   - word: 晦
     type: 【形容词】
     phonetic: hui4
     trans: 昏暗。
     ancient: 若夫日出而林霏开，云归而岩穴暝，<晦>明变化者，山间之朝暮也。（《醉翁亭记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 至于太阳的升起，山林里的雾气散了；烟云聚拢来，山谷就显得昏暗了；朝则自暗而明，暮则自明而暗，这就是山中的朝暮。
   - word: 晦
     type: 【形容词】
     phonetic: hui4
     trans: 昏暗。
     ancient: 是时雷电<晦>冥，太公往视，则见蛟龙于其上。（《史记•高祖本纪》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 这时雷电交作，天昏地暗，太公去看刘媪，见到一条蛟龙在她身上。
   - word: 或
     type: 【代词】
     phonetic: huo4
