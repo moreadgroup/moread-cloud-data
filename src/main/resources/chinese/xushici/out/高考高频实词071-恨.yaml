@@ -1,13 +1,52 @@
 ---
 words:
-  - word: xxxx
+  - word: 恨
     type: 【名词】
-    phonetic: xx1
+    phonetic: hen4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶怨恨。
         sentences:
-          - ancient: xxx
+          - ancient: 然而<恨>贯肌骨，亦何能愧避？（《柳毅传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 商女不知亡国<恨>，隔江犹唱后庭花。（唐•杜牧《泊秦淮》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 生人作死别，<恨><恨>那可论？（《孔雀东南飞》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 别有幽愁暗<恨>生，此时无声胜有声。（《琵琶行》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷遗憾。
+        sentences:
+          - ancient: 纤云弄巧，飞星传<恨>。（《鹊桥仙》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 恨
+    type: 【动词】
+    phonetic: hen4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶遗憾;不满。
+        sentences:
+          - ancient: 陈涉少时，尝与人佣耕，辍耕之（走到）垄上，怅<恨>久之。（《陈涉世家》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "先帝在时,每与宦论此事，未尝不叹息痛<恨>于桓、灵也。（《出师表》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 所以隐忍苟活，幽于粪土之中而不辞者，<恨>私心有所不尽。（《报任安书》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷怨恨;悲伤。
+        sentences:
+          - ancient: 艰难苦<恨>繁霜鬓，潦倒新停浊酒杯。（《登高》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <恨>相见得迟，怨归去得疾。……此<恨>谁知！（《长亭送别》）
             url: xxxx
             vernacular: xxxx
