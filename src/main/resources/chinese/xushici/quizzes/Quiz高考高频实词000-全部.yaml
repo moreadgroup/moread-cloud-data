@@ -1,159 +1,103 @@
 ---
 quizzes:
-  - word: 晦
-    type: 【名词】
-    phonetic: hui4
-    trans: ❶农历每月的最后一天。
-    ancient: 十一月<晦>，日有食之。（《史记•孝文本纪》）
-    url: xxxx
-    vernacular: 在十一月的最后一天，会有一次日食。
-  - word: 晦
-    type: 【名词】
-    phonetic: hui4
-    trans: ❶农历每月的最后一天。
-    ancient: 朝菌不知<晦>朔，蟪蛄不知春秋，此小年也。（《逍遥游》）
-    url: xxxx
-    vernacular: 朝菌不知道有月初月末，寒蝉不知道有春天和秋天，这是活的短的。
-  - word: 晦
-    type: 【名词】
-    phonetic: hui4
-    trans: ❷黑夜。
-    ancient: 自明及<晦>，所行几里？（战国楚•屈原《天问》）
-    url: xxxx
-    vernacular: 打从天亮直到天黑，所走之路究竟几里？
-  - word: 晦
-    type: 【动词】
-    phonetic: hui4
-    trans: 隐藏。
-    ancient: 天下有隐居行义、才德高远、<晦>迹丘园、不求闻达者，委所在长吏，具姓名闻奏，当备礼邀致。（唐•陆贽《奉天改元大赦制》）
-    url: xxxx
-    vernacular: 在世间有些隐士，遵循正义，才学高卓，平凡生活在邱园之中，不渴望出名，他们的名字被地方官员奏报后，我们应该恭敬地请他们来到这里。
-  - word: 晦
-    type: 【形容词】
-    phonetic: hui4
-    trans: 昏暗。
-    ancient: 山峻高以蔽日兮，下幽<晦>以多雨。（战国楚•屈原《九章•涉江》）
-    url: xxxx
-    vernacular: 高峻的大山遮天蔽日啊，山下淫雨霏霏迷迷茫茫。
-  - word: 晦
-    type: 【形容词】
-    phonetic: hui4
-    trans: 昏暗。
-    ancient: 唯恐道途显<晦>，不相通达，致负诚托，又乖（违背）恳愿。（《柳毅传》）
-    url: xxxx
-    vernacular: 只怕人世和仙境有明暗之分，道路不通，以致辜负了你热忱的嘱托，违背了你恳切的愿望。
-  - word: 晦
-    type: 【形容词】
-    phonetic: hui4
-    trans: 昏暗。
-    ancient: 若夫日出而林霏开，云归而岩穴暝，<晦>明变化者，山间之朝暮也。（《醉翁亭记》）
-    url: xxxx
-    vernacular: 至于太阳的升起，山林里的雾气散了；烟云聚拢来，山谷就显得昏暗了；朝则自暗而明，暮则自明而暗，这就是山中的朝暮。
-  - word: 晦
-    type: 【形容词】
-    phonetic: hui4
-    trans: 昏暗。
-    ancient: 是时雷电<晦>冥，太公往视，则见蛟龙于其上。（《史记•高祖本纪》）
-    url: xxxx
-    vernacular: 这时雷电交作，天昏地暗，太公去看刘媪，见到一条蛟龙在她身上。
   - word: 或
     type: 【代词】
     phonetic: huo4
     trans: 有人;有的。
     ancient: 兵刃既接，弃甲曳兵而走。<或>百步而后止，<或>五十步而后止。（《寡人之于国也》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 交战激烈了，战败的士兵丢盔弃甲拖着武器逃跑，有的跑了上百步才停下，有的跑了五十步就停了脚。
   - word: 或
     type: 【代词】
     phonetic: huo4
     trans: 有人;有的。
     ancient: <或>曰：六国互丧，率（全部）赂秦耶？（《六国论》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 有人问：“六国一个接一个的灭亡，难道全部是因为贿赂秦国吗？”
   - word: 或
     type: 【代词】
     phonetic: huo4
     trans: 有人;有的。
     ancient: <或>曰："梅以曲为美，直则无姿。"（《病梅馆记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 有人说：梅凭着弯曲的姿态被认为是美丽的，笔直了就没有风姿
   - word: 或
     type: 【代词】
     phonetic: huo4
     trans: 有人;有的。
     ancient: 句读之不知，惑之不解，<或>师焉，<或>不焉，小学而大遗，吾未见其明也。（《师说》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 不知句子停顿要问老师，有疑惑不能解决却不愿问老师；学习了小的却丢了大的。我没有看到他的明达。
   - word: 或
     type: 【代词】
     phonetic: huo4
     trans: 有人;有的。
     ancient: 【高考题例】密州民田产银，<或>盗取之，大理当以强。（《宋史・曾公亮传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 密州民田盛产银子，有人偷取银子，大理寺把他们当作强盗。
   - word: 或
     type: 【代词】
     phonetic: huo4
     trans: 有人;有的。
     ancient: 【高考题例】生数上疏，言诸侯<或>连数郡，非古之制，可稍削之。（《史记•屈原贾生列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 贾谊数次上奏，说到有些诸侯兼有数郡，这不是古代的体制，应当渐渐地削减他们的实力
   - word: 或
     type: 【副词】
     phonetic: huo4
     trans: ❶有时;偶或。
     ancient: 余既为此志，后五年，吾妻来归，时至轩中，从余问古事，<或>凭几（靠在桌案上）学书。（《项脊轩志》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 我作了这篇文章之后，过了五年，我的妻子嫁到我家来，她时常来到轩中，向我问一些旧时的事情，有时伏在桌旁学写字。
   - word: 或
     type: 【副词】
     phonetic: huo4
     trans: ❶有时;偶或。
-    ancient: <或>王命急宣，有府朝发白帝，暮到江陵。（《三峡》）
+    ancient: <或>王命急宣，有时朝发白帝，暮到江陵。（《三峡》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 有时候皇帝的命令要紧急传达，这时只要早晨从白帝城出发，傍晚就到了江陵
   - word: 或
     type: 【副词】
     phonetic: huo4
     trans: ❶有时;偶或。
-    ancient: 马之千里者，—食<或>尽粟一石。（《马说》）
+    ancient: 马之千里者，一食<或>尽粟一石。（《马说》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: （日行）千里的马，吃一顿有时能吃完一石粮食。
   - word: 或
     type: 【副词】
     phonetic: huo4
     trans: ❷也许;或许。
     ancient: 越人语天姥，云霞明灭<或>可睹。（《梦游天姥吟留别》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 吴越一带的人谈起天姥山，说是云霞忽明忽暗间，（天姥山）有时可以被看到。
   - word: 或
     type: 【副词】
     phonetic: huo4
     trans: ❷也许;或许。
     ancient: 莫如以吾所长攻敌所短，操刀挟盾，猱（nao2，像猴子—样）进鸷（像凶猛的鸟一样）击，<或>能免乎!（《冯婉贞》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 不如用我们的长处，去攻击敌人的短处，持着刀，拿着盾，象猿猴那样敏捷地进攻，象鸷鸟那样勇猛地搏击，或许能避免这场灾祸吧？
   - word: 或
     type: 【副词】
     phonetic: huo4
     trans: ❷也许;或许。
     ancient: 【高考题例】金人虽不吾索，吾当与之俱行，求见二酋面责之，庶<或>万一可济。（《宋史♦孙傅传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 金人虽然不索取我本人，我也应当跟太子一起去，求见两位酋长当面谴责我们，或者还有可能把事情办好
   - word: 或
     type: 【副词】
     phonetic: huo4
     trans: ❸倘若;倘或。
     ancient: 所守<或>匪亲，化为狼与豺。（《蜀道难》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 驻守的官员若不是自己的近亲；难免要变为豺狼踞此为非造反。
   - word: 或
     type: 【助词】
     phonetic: huo4
     trans: 常用在否定句中加强否定语气。
     ancient: 残贼公行，莫之<或>止。（《论积贮疏》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 这两种大祸害公然盛行，没有人去稍加制止；
   - word: xxxx
     type: 【名词】
     phonetic: xx1
