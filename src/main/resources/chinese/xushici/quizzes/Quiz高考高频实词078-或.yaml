@@ -1,9 +1,100 @@
 ---
 quizzes:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+  - word: 或
+    type: 【代词】
+    phonetic: huo4
+    trans: 有人;有的。
+    ancient: 兵刃既接，弃甲曳兵而走。<或>百步而后止，<或>五十步而后止。（《寡人之于国也》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 或
+    type: 【代词】
+    phonetic: huo4
+    trans: 有人;有的。
+    ancient: <或>曰：六国互丧，率（全部）赂秦耶？（《六国论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 或
+    type: 【代词】
+    phonetic: huo4
+    trans: 有人;有的。
+    ancient: <或>曰："梅以曲为美，直则无姿。"（《病梅馆记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 或
+    type: 【代词】
+    phonetic: huo4
+    trans: 有人;有的。
+    ancient: 句读之不知，惑之不解，<或>师焉，<或>不焉，小学而大遗，吾未见其明也。（《师说》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 或
+    type: 【代词】
+    phonetic: huo4
+    trans: 有人;有的。
+    ancient: 【高考题例】密州民田产银，<或>盗取之，大理当以强。（《宋史・曾公亮传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 或
+    type: 【代词】
+    phonetic: huo4
+    trans: 有人;有的。
+    ancient: 【高考题例】生数上疏，言诸侯<或>连数郡，非古之制，可稍削之。（《史记•屈原贾生列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 或
+    type: 【副词】
+    phonetic: huo4
+    trans: ❶有时;偶或。
+    ancient: 余既为此志，后五年，吾妻来归，时至轩中，从余问古事，<或>凭几（靠在桌案上）学书。（《项脊轩志》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 或
+    type: 【副词】
+    phonetic: huo4
+    trans: ❶有时;偶或。
+    ancient: <或>王命急宣，有府朝发白帝，暮到江陵。（《三峡》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 或
+    type: 【副词】
+    phonetic: huo4
+    trans: ❶有时;偶或。
+    ancient: 马之千里者，—食<或>尽粟一石。（《马说》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 或
+    type: 【副词】
+    phonetic: huo4
+    trans: ❷也许;或许。
+    ancient: 越人语天姥，云霞明灭<或>可睹。（《梦游天姥吟留别》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 或
+    type: 【副词】
+    phonetic: huo4
+    trans: ❷也许;或许。
+    ancient: 莫如以吾所长攻敌所短，操刀挟盾，猱（nao2，像猴子—样）进鸷（像凶猛的鸟一样）击，<或>能免乎!（《冯婉贞》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 或
+    type: 【副词】
+    phonetic: huo4
+    trans: ❷也许;或许。
+    ancient: 【高考题例】金人虽不吾索，吾当与之俱行，求见二酋面责之，庶<或>万一可济。（《宋史♦孙傅传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 或
+    type: 【副词】
+    phonetic: huo4
+    trans: ❸倘若;倘或。
+    ancient: 所守<或>匪亲，化为狼与豺。（《蜀道难》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 或
+    type: 【助词】
+    phonetic: huo4
+    trans: 常用在否定句中加强否定语气。
+    ancient: 残贼公行，莫之<或>止。（《论积贮疏》）
     url: xxxx
     vernacular: xxxx

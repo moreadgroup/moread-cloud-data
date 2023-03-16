@@ -1,9 +1,114 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 会
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: hui4
+    trans: ❶节奏。
+    ancient: 合于《桑林》之舞，乃中《经首》之<会>。（《庄子•养生主》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 会
+    type: 【名词】
+    phonetic: hui4
+    trans: ❷机会。
+    ancient: 此乃忠臣肝脑涂地之秋，烈士立功之<会>。（汉•陈琳《为袁绍檄豫州》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 会
+    type: 【动词】
+    phonetic: hui4
+    trans: ❶会合;会集。
+    ancient: 暮春之初，<会>于会稽山阴之兰亭，修禊（xi4，三月初在水边嬉游，以消除不祥）事也。（《兰亭集序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 会
+    type: 【动词】
+    phonetic: hui4
+    trans: ❶会合;会集。
+    ancient: 然则北通巫峡，南极（最远到达）潇湘，迁客骚人，多<会>于此，览物之情，得无异乎？（《岳阳楼记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 会
+    type: 【动词】
+    phonetic: hui4
+    trans: ❶会合;会集。
+    ancient: 诸侯恐惧，<会>盟而谋弱秦。（《六国论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 会
+    type: 【动词】
+    phonetic: hui4
+    trans: ❷体会;领会。
+    ancient: 每有<会>意，便欣然忘食。（《五柳先生传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 会
+    type: 【动词】
+    phonetic: hui4
+    trans: ❷体会;领会。
+    ancient: 把吴钩看了，栏杆拍遍，无人<会>，登临意。（《水龙吟•登建康赏心亭》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 会
+    type: 【动词】
+    phonetic: hui4
+    trans: ❸会见;会面。
+    ancient: 人贱物亦鄙，不足迎后人，留待作遗施（遗wei4，赠送的礼物），于今无<会>因。（《孔雀东南飞》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 会
+    type: 【动词】
+    phonetic: hui4
+    trans: ❸会见;会面。
+    ancient: 无由<会>晤，不任区区向往之至！（宋•王安石《答司马谏议书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 会
+    type: 【动词】
+    phonetic: hui4
+    trans: ❸会见;会面。
+    ancient: 秦王使使者告赵王，欲与王为好，<会>于西河外渑池。（《廉颇蔺相如列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 会
+    type: 【副词】
+    phonetic: hui4
+    trans: ❶恰巧;适逢。
+    ancient: <会>天大雨，道不通，度（duo2，估计）已失期（误期）。（《陈涉世家》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 会
+    type: 【副词】
+    phonetic: hui4
+    trans: ❶恰巧;适逢。
+    ancient: 草创未就，<会>遭此祸，惜其不成，是以就极刑而无愠色。（《报任安书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 会
+    type: 【副词】
+    phonetic: hui4
+    trans: ❶恰巧;适逢。
+    ancient: 方欲发使送武等，<会>缑王与长水虞常等谋反匈奴中。（《苏武传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 会
+    type: 【副词】
+    phonetic: hui4
+    trans: ❶恰巧;适逢。
+    ancient: 【高考题例】<会>户部尚书孙交亦以守正见忤，遂矫旨令二人致仕。（《明史•傅珪传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 会
+    type: 【副词】
+    phonetic: hui4
+    trans: ❷一定;应该。
+    ancient: 吾已失恩义，<会>不相从许。（《孔雀东南飞》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 会
+    type: 【副词】
+    phonetic: hui4
+    trans: ❷一定;应该。
+    ancient: 长风破浪<会>有时，直挂云帆济沧海。（《行路难•其—》）
     url: xxxx
     vernacular: xxxx

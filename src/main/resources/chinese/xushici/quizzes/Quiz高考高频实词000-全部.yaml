@@ -1,170 +1,611 @@
 ---
 quizzes:
-  - word: 过
+  - word: xxxx
     type: 【名词】
-    phonetic: guo4
-    trans: 错误;过失。
-    ancient: 吾不能早用子，今急而求子，是寡人之<过>也。（《烛之武退秦师》）
+    phonetic: xx1
+    trans: ❶xxxx
+    ancient: xxx
     url: xxxx
-    vernacular: 我不能早早用你，现在由于情况危急因而求您，这是我的过错。
-  - word: 过
+    vernacular: 见292页“行2”
+  - word: 恨
     type: 【名词】
-    phonetic: guo4
-    trans: 错误;过失。
-    ancient: 君臣吏民能面刺（指责）寡人之<过>者，受上赏。（《邹忌讽齐王纳谏》）
+    phonetic: hen4
+    trans: ❶怨恨。
+    ancient: 然而<恨>贯肌骨，亦何能愧避？（《柳毅传》）
     url: xxxx
-    vernacular: 所有的大臣、官吏、百姓，能够当面批评我的过错的，可得上等奖赏
-  - word: 过
+    vernacular: 但是我的怨恨铭心刻骨，又怎能觉得惭愧而回避不说呢？
+  - word: 恨
     type: 【名词】
-    phonetic: guo4
-    trans: 错误;过失。
-    ancient: 【高考题例】有德之君，不忘规<过>，臣不胜大庆。（《旧唐书•于休烈传》）
+    phonetic: hen4
+    trans: ❶怨恨。
+    ancient: 商女不知亡国<恨>，隔江犹唱后庭花。（唐•杜牧《泊秦淮》）
     url: xxxx
-    vernacular: 有道德的君王，不忘改正过错，我深表庆贺。
-  - word: 过
+    vernacular: 卖唱的歌女不知道什么是亡国之恨，隔着江水仍在高唱着《玉树后庭花》。
+  - word: 恨
+    type: 【名词】
+    phonetic: hen4
+    trans: ❶怨恨。
+    ancient: 生人作死别，<恨><恨>那可论？（《孔雀东南飞》）
+    url: xxxx
+    vernacular: 活着的人却要做死的离别，心中抱恨哪里能够说得完。
+  - word: 恨
+    type: 【名词】
+    phonetic: hen4
+    trans: ❶怨恨。
+    ancient: 别有幽愁暗<恨>生，此时无声胜有声。（《琵琶行》）
+    url: xxxx
+    vernacular: 像另有一种愁思幽恨暗暗滋生；此时闷闷无声却比有声更动人。
+  - word: 恨
+    type: 【名词】
+    phonetic: hen4
+    trans: ❷遗憾。
+    ancient: 纤云弄巧，飞星传<恨>。（《鹊桥仙》）
+    url: xxxx
+    vernacular: 纤薄的云彩在天空中变幻多端，天上的流星传递着相思的愁怨
+  - word: 恨
     type: 【动词】
-    phonetic: guo4
-    trans: ❶经过;通过。
-    ancient: 雷霆乍惊，宫车<过>也。（《阿房宫赋》）
+    phonetic: hen4
+    trans: ❶遗憾;不满。
+    ancient: 陈涉少时，尝与人佣耕，辍耕之（走到）垄上，怅<恨>久之。（《陈涉世家》）
     url: xxxx
-    vernacular: 雷霆突然震响，这是宫车驶过去了
-  - word: 过
+    vernacular: 陈涉年少的时候，曾经和别人一起被雇佣耕地，有一天他停止耕作走到田埂高地上休息，因失望而叹恨了好一阵子
+  - word: 恨
     type: 【动词】
-    phonetic: guo4
-    trans: ❶经过;通过。
-    ancient: 悉使羸兵负草填之，骑乃得<过>。（《资治通鉴•汉纪五十七》）
+    phonetic: hen4
+    trans: ❶遗憾;不满。
+    ancient: 先帝在时，每与臣论此事，未尝不叹息痛<恨>于桓、灵也。（《出师表》）
     url: xxxx
-    vernacular: 曹操就命令体弱的士兵都去背草填路，骑兵才得以通过。
-  - word: 过
+    vernacular: 先帝在世的时候，每逢跟我谈论这些事情，对于桓帝、灵帝没有一次不（发出叹息）感到痛心遗憾的。
+  - word: 恨
     type: 【动词】
-    phonetic: guo4
-    trans: ❶经过;通过。
-    ancient: 黄鹤之飞尚不得<过>，猿猱欲度愁攀援。（《蜀道难》）
+    phonetic: hen4
+    trans: ❶遗憾;不满。
+    ancient: 所以隐忍苟活，幽于粪土之中而不辞者，<恨>私心有所不尽。（《报任安书》）
     url: xxxx
-    vernacular: 善于高飞的黄鹤尚且无法飞过，即使猢狲要想翻过也愁于攀援。
-  - word: 过
+    vernacular: 我之所以忍受着屈辱苟且活下来，陷在污浊的监狱之中却不肯死，是遗憾我内心的志愿有未达到的
+  - word: 恨
     type: 【动词】
-    phonetic: guo4
-    trans: ❶经过;通过。
-    ancient: 【高考题例】宣和末，高丽入贡，使者所<过>，调夫治舟，骚然烦费。（《宋史•孙傅传》）
+    phonetic: hen4
+    trans: ❷怨恨;悲伤。
+    ancient: 艰难苦<恨>繁霜鬓，潦倒新停浊酒杯。（《登高》）
     url: xxxx
-    vernacular: 宣和末期，高丽入贡，使者所过之处，调发民夫修船，引起骚动，用度又颇多。
-  - word: 过
+    vernacular: 历尽了艰难苦恨白发长满了双鬓，衰颓满心偏又暂停了浇愁的酒杯。
+  - word: 恨
     type: 【动词】
-    phonetic: guo4
-    trans: ❷超过。
-    ancient: 今以实校之，彼所将中国（指中原地区）人不<过>十五六万，且已久疲。（《资治通喧•"汉纪五十七》）
+    phonetic: hen4
+    trans: ❷怨恨;悲伤。
+    ancient: <恨>相见得迟，怨归去得疾。……此<恨>谁知！（《长亭送别》）
     url: xxxx
-    vernacular: 现在按照实际情况对核他(的数字)，他所率领的中原军队不过十五六万，而且早已疲劳。
-  - word: 过
+    vernacular: 恨相见得太迟，怨离别得太快。... 这离愁别恨有谁能理解？
+  - word: 胡
+    type: 【名词】
+    phonetic: hu2
+    trans: ❶兽颔下的垂肉。
+    ancient: 前虞（担忧）跋（踏）<胡>，后恐疐尾（zhi4，跌倒）尾，三纳之而未克，徘徊容与（徘徊不进的样孚），追者益近。（《中山狼传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 胡
+    type: 【名词】
+    phonetic: hu2
+    trans: ❷我国古代西北部民族的统称。
+    ancient: <胡>人不敢南下而牧马，士不敢弯弓而报怨。（《过秦论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 胡
+    type: 【名词】
+    phonetic: hu2
+    trans: ❷我国古代西北部民族的统称。
+    ancient: 旦辞黄河去，暮至黑山头。不闻爷娘唤女声，但闻燕山<胡>骑鸣啾啾。（《木兰诗》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 胡
+    type: 【代词】
+    phonetic: hu2
+    trans: 什么;怎么。
+    ancient: 即不幸有方二三千里之旱，国<胡>以相恤？（《论积贮疏》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 胡
+    type: 【代词】
+    phonetic: hu2
+    trans: 什么;怎么。
+    ancient: <胡>为乎遑遑欲何之？（《归去来兮辞》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 胡
+    type: 【代词】
+    phonetic: hu2
+    trans: 什么;怎么。
+    ancient: 不狩不猎，<胡>瞻尔庭有县貆（huan2，小貉）兮？（《诗经•魏风•伐檀》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 胡
+    type: 【代词】
+    phonetic: hu2
+    trans: 什么;怎么。
+    ancient: 归去来兮，田园将芜<胡>不归？（《归去来兮辞》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 胡
+    type: 【代词】
+    phonetic: hu2
+    trans: 什么;怎么。
+    ancient: 其险也若此，嗟尔远道之人<胡>为乎来哉！（《蜀道难》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 患
+    type: 【名词】
+    phonetic: huan4
+    trans: ❶灾祸;忧患。
+    ancient: 夫祸<患>常积于忽微，而智勇多困于所溺，岂独伶人也哉？（《伶官传序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 患
+    type: 【名词】
+    phonetic: huan4
+    trans: ❶灾祸;忧患。
+    ancient: 今北土未平，马超、韩遂尚在关西，为（曹）操后<患>。（《资治通鉴•汉纪五十七》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 患
+    type: 【名词】
+    phonetic: huan4
+    trans: ❶灾祸;忧患。
+    ancient: 阉竖恐终为其<患>，遂共谗之。（《张衡传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 患
+    type: 【名词】
+    phonetic: huan4
+    trans: ❶灾祸;忧患。
+    ancient: 轲曰："今有一言，可以解燕国之<患>，而报将军之仇者，何如？"（《荆轲刺秦王》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 患
+    type: 【名词】
+    phonetic: huan4
+    trans: ❶灾祸;忧患。
+    ancient: 【高考题例】贾生谏，以为<患>之兴自此起矣。（《史记•屈原贾生列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 患
+    type: 【名词】
+    phonetic: huan4
+    trans: ❷毛病;弊病。
+    ancient: 孟子称"人之<患>在好为人师"。（《答韦中立论师道书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 患
+    type: 【名词】
+    phonetic: huan4
+    trans: ❸疾病。
+    ancient: 余能理亡国之刓弊，愈膏肓之<患>难。（唐•柳宗元《愈膏肓赋》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 患
     type: 【动词】
-    phonetic: guo4
-    trans: ❷超过。
-    ancient: 时已<过>午，奴辈适至，立庵前，指点两峰。（明•徐霞客《游黄山日记》）
+    phonetic: huan4
+    trans: ❶忧虑;担忧。
+    ancient: 不<患>其众之不足也，而<患>其志行之少耻也。（《勾践灭吴》）
     url: xxxx
-    vernacular: 时间已过午，仆人们才上来，大家站在文殊院前，指点着左右两座山峰。
-  - word: 过
+    vernacular: xxxx
+  - word: 患
     type: 【动词】
-    phonetic: guo4
-    trans: ❷超过。
-    ancient: 我腾跃而上，不<过>数仞而下，翱翔蓬蒿之间，此亦飞之至也。（《逍遥游》）
+    phonetic: huan4
+    trans: ❶忧虑;担忧。
+    ancient: 欲勿予，即<患>秦兵之来。（《廉颇蔺相如列传》）
     url: xxxx
-    vernacular: 我奋力起飞，不过几丈高就落下来，盘旋于蓬蒿丛中，这也是我飞翔的极限了。
-  - word: 过
+    vernacular: xxxx
+  - word: 患
     type: 【动词】
-    phonetic: guo4
-    trans: ❷超过。
-    ancient: 从此道至吾军，不<过>二十里耳。度我至军中，公乃入。（《鸿门宴》）
+    phonetic: huan4
+    trans: ❶忧虑;担忧。
+    ancient: 丘也闻有国有家者，不<患>寡而<患>不均，不<患>贫而<患>不安。（《季氏将伐颛臾》）
     url: xxxx
-    vernacular: 从这条路到我们军营，不过二十里罢了，估计我回到军营里，你就进去。
-  - word: 过
+    vernacular: xxxx
+  - word: 患
     type: 【动词】
-    phonetic: guo4
-    trans: ❷超过。
-    ancient: 【高考题例】吾久不见贾生，自以为<过>之，今不及也。（《史记•屈原贾生列传》）
+    phonetic: huan4
+    trans: ❶忧虑;担忧。
+    ancient: 则秦之所大欲，诸侯之所大<患>，固不在战矣。（《六国论》）
     url: xxxx
-    vernacular: 我好长时间没见贾谊了，自认为能超过他，现在看来还是不如他。
-  - word: 过
+    vernacular: xxxx
+  - word: 患
     type: 【动词】
-    phonetic: guo4
-    trans: ❸去；拜访。
-    ancient: 公子<过>谢侯生。（《史记•魏公子列传》）
+    phonetic: huan4
+    trans: ❶忧虑;担忧。
+    ancient: 【高考题例】诸侯<患>楚之强。故楚之贵戚尽欲害吴起。（《史记♦孙子吴起列传》）
     url: xxxx
-    vernacular: 公子去向侯先生辞行。
-  - word: 过
+    vernacular: xxxx
+  - word: 患
     type: 【动词】
-    phonetic: guo4
-    trans: ❸去；拜访。
-    ancient: 余自束发读书轩中，一日，大母<过>余曰……（《项脊轩志》）
+    phonetic: huan4
+    trans: ❷厌恶;痛恨。
+    ancient: 周处年少时，凶强侠气，为乡里所<患>。（《世说新语・自新》）
     url: xxxx
-    vernacular: 我从十五岁起就在轩内读书，有一天，祖母来看我，说：
-  - word: 过
+    vernacular: xxxx
+  - word: 回
     type: 【动词】
-    phonetic: guo4
-    trans: ❹犯错误。
-    ancient: 此愚者之所以大<过>也。（《吕氏春秋•察传》）
+    phonetic: hui2
+    trans: ❶旋转；回旋。
+    ancient: 春冬之时，则素湍绿潭，<回>清倒影。（《三峡》）
     url: xxxx
-    vernacular: 这是愚蠢的人犯大错误的原因。
-  - word: 过
+    vernacular: xxxx
+  - word: 回
     type: 【动词】
-    phonetic: guo4
-    trans: ❹犯错误。
-    ancient: <过>而能改，善莫大焉。（《左传•宣公二年》）
+    phonetic: hui2
+    trans: ❶旋转；回旋。
+    ancient: 风急天高猿啸哀，渚清沙白鸟飞<回>。（《登高》）
     url: xxxx
-    vernacular: 有了过错能够改正，就没有比这再好的事情了。
-  - word: 过
+    vernacular: xxxx
+  - word: 回
     type: 【动词】
-    phonetic: guo4
-    trans: ❹犯错误。
-    ancient: 人恒<过>，然后能改，困于心衡于虑而后作，征于色发于声而后喻。（《生于忧患死于安乐》）
+    phonetic: hui2
+    trans: ❶旋转；回旋。
+    ancient: 虽累百世，垢弥甚耳！是以肠一日而九<回>。（《报任安书》）
     url: xxxx
-    vernacular: 人常常犯错，然后才能改正；内心忧困，思想阻塞，然后才能奋起；表现在脸色上，流露在言谈中，才能被人们了解。
-  - word: 过
+    vernacular: xxxx
+  - word: 回
     type: 【动词】
-    phonetic: guo4
-    trans: ❺责备。
-    ancient: 闻大王有意督<过>之，脱身独去，已至军矣。（《鸿门宴》）
+    phonetic: hui2
+    trans: ❷掉转;运转。
+    ancient: 虎鼓瑟兮鸾<回>车，仙之人兮列如麻。（《梦游天姥吟留别》）
     url: xxxx
-    vernacular: 听说大王有意要责备他，脱身独自离开，已经回到军营了。
-  - word: 过
+    vernacular: xxxx
+  - word: 回
     type: 【动词】
-    phonetic: guo4
-    trans: ❺责备。
-    ancient: 求！无乃尔是<过>与？（《季氏将伐颛臾》）
+    phonetic: hui2
+    trans: ❷掉转;运转。
+    ancient: 手把文书口称敕，<回>车叱牛牵向北。（唐•白居易《卖炭翁》）
     url: xxxx
-    vernacular: 冉有！恐怕应该责备你们吧。
-  - word: 过
+    vernacular: xxxx
+  - word: 回
     type: 【动词】
-    phonetic: guo4
-    trans: ❺责备。
-    ancient: 阙然久不报，幸勿为<过>。（《报任安书》）
+    phonetic: hui2
+    trans: ❷掉转;运转。
+    ancient: <回>朕车以复路兮，及行迷之未远。（《离骚》）
     url: xxxx
-    vernacular: 隔了很长的日子没有复信给您，希望您不要责怪。
-  - word: 过
-    type: 【形容词】
-    phonetic: guo4
-    trans: 不正确。
-    ancient: 曰："君<过>矣，不若长安君之甚。"（《触龙说赵太后》）
+    vernacular: xxxx
+  - word: 回
+    type: 【动词】
+    phonetic: hui2
+    trans: ❷掉转;运转。
+    ancient: 上有六龙<回>日之高标。（《蜀道难》）
     url: xxxx
-    vernacular: 您错了，不像疼爱长安君那样厉害。
-  - word: 过
-    type: 【形容词】
-    phonetic: guo4
-    trans: 不正确。
-    ancient: 且尔言<过>矣，虎兕出于柙，龟玉毁于椟中，是谁之过（错误）与？（《季氏将伐颛臾》）
+    vernacular: xxxx
+  - word: 回
+    type: 【动词】
+    phonetic: hui2
+    trans: ❸回来；回去。
+    ancient: 君不见黄河之水天上来，奔流到海不复<回>。（《将进酒》）
     url: xxxx
-    vernacular: 况且你的话错了，老虎和犀牛从笼子里跑出，龟甲和玉器在匣子里被毁坏，这是谁的过错呢？
-  - word: 过
+    vernacular: xxxx
+  - word: 回
+    type: 【动词】
+    phonetic: hui2
+    trans: ❸回来；回去。
+    ancient: 舟<回>至两山间，将入港口，有大石当中流（水流的中心）。（《石钟山记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 回
+    type: 【动词】
+    phonetic: hui2
+    trans: 【形容词】曲折环绕。
+    ancient: 鹤汀（ting1，水边平地）凫渚（zhu3，水中小洲），穷岛屿之萦<回>。’（《滕王阁序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 回
+    type: 【动词】
+    phonetic: hui2
+    trans: 【形容词】曲折环绕。
+    ancient: 五步二楼，十步一阁；廊腰绶<回>，檐牙高啄。（《阿房宫赋》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 回
+    type: 【动词】
+    phonetic: hui2
+    trans: 【形容词】曲折环绕。
+    ancient: 入深林，穷<回>溪，幽泉怪石，无远不到。（《始得西山宴游记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 回
+    type: 【动词】
+    phonetic: hui2
+    trans: 【量词】表示动作行为的次数。
+    ancient: 渐老逢春能几<回>？（唐•杜甫《绝句漫兴九首》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 会
+    type: 【名词】
+    phonetic: hui4
+    trans: ❶节奏。
+    ancient: 合于《桑林》之舞，乃中《经首》之<会>。（《庄子•养生主》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 会
+    type: 【名词】
+    phonetic: hui4
+    trans: ❷机会。
+    ancient: 此乃忠臣肝脑涂地之秋，烈士立功之<会>。（汉•陈琳《为袁绍檄豫州》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 会
+    type: 【动词】
+    phonetic: hui4
+    trans: ❶会合;会集。
+    ancient: 暮春之初，<会>于会稽山阴之兰亭，修禊（xi4，三月初在水边嬉游，以消除不祥）事也。（《兰亭集序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 会
+    type: 【动词】
+    phonetic: hui4
+    trans: ❶会合;会集。
+    ancient: 然则北通巫峡，南极（最远到达）潇湘，迁客骚人，多<会>于此，览物之情，得无异乎？（《岳阳楼记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 会
+    type: 【动词】
+    phonetic: hui4
+    trans: ❶会合;会集。
+    ancient: 诸侯恐惧，<会>盟而谋弱秦。（《六国论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 会
+    type: 【动词】
+    phonetic: hui4
+    trans: ❷体会;领会。
+    ancient: 每有<会>意，便欣然忘食。（《五柳先生传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 会
+    type: 【动词】
+    phonetic: hui4
+    trans: ❷体会;领会。
+    ancient: 把吴钩看了，栏杆拍遍，无人<会>，登临意。（《水龙吟•登建康赏心亭》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 会
+    type: 【动词】
+    phonetic: hui4
+    trans: ❸会见;会面。
+    ancient: 人贱物亦鄙，不足迎后人，留待作遗施（遗wei4，赠送的礼物），于今无<会>因。（《孔雀东南飞》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 会
+    type: 【动词】
+    phonetic: hui4
+    trans: ❸会见;会面。
+    ancient: 无由<会>晤，不任区区向往之至！（宋•王安石《答司马谏议书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 会
+    type: 【动词】
+    phonetic: hui4
+    trans: ❸会见;会面。
+    ancient: 秦王使使者告赵王，欲与王为好，<会>于西河外渑池。（《廉颇蔺相如列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 会
     type: 【副词】
-    phonetic: guo4
-    trans: 过分;过于。
-    ancient: 以其境<过>清，不可久居，乃记之而去。（《小石潭记》）
+    phonetic: hui4
+    trans: ❶恰巧;适逢。
+    ancient: <会>天大雨，道不通，度（duo2，估计）已失期（误期）。（《陈涉世家》）
     url: xxxx
-    vernacular: 因为这里的环境太凄清，不可长久停留，于是记下了这里的情景就离开了。
-  - word: 过
+    vernacular: xxxx
+  - word: 会
     type: 【副词】
-    phonetic: guo4
-    trans: 过分;过于。
-    ancient: 今臣亡国贱俘，至微至陋，<过>蒙拔擢，宠命优渥，岂敢盘桓，有所希冀。（《陈情表》）
+    phonetic: hui4
+    trans: ❶恰巧;适逢。
+    ancient: 草创未就，<会>遭此祸，惜其不成，是以就极刑而无愠色。（《报任安书》）
     url: xxxx
-    vernacular: 现在我是一个低贱的亡国俘虏，十分卑微浅陋，受到过分提拔，恩宠优厚，怎敢犹豫不决而有非分的企求呢？
+    vernacular: xxxx
+  - word: 会
+    type: 【副词】
+    phonetic: hui4
+    trans: ❶恰巧;适逢。
+    ancient: 方欲发使送武等，<会>缑王与长水虞常等谋反匈奴中。（《苏武传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 会
+    type: 【副词】
+    phonetic: hui4
+    trans: ❶恰巧;适逢。
+    ancient: 【高考题例】<会>户部尚书孙交亦以守正见忤，遂矫旨令二人致仕。（《明史•傅珪传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 会
+    type: 【副词】
+    phonetic: hui4
+    trans: ❷一定;应该。
+    ancient: 吾已失恩义，<会>不相从许。（《孔雀东南飞》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 会
+    type: 【副词】
+    phonetic: hui4
+    trans: ❷一定;应该。
+    ancient: 长风破浪<会>有时，直挂云帆济沧海。（《行路难•其—》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 恚
+    type: 【动词】
+    phonetic: hui4
+    trans: ❶使恼怒。
+    ancient: （吴）广故数言欲亡，忿<恚>尉。（《陈涉世家》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 恚
+    type: 【动词】
+    phonetic: hui4
+    trans: ❷怨恨。
+    ancient: 【高考题例】被重刑厚罚而不怨<恚>，而巫之祸盘错深固不解矣。（元•揭俟斯《赠医者汤伯高序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 恚
+    type: 【形容词】
+    phonetic: hui4
+    trans: 恼怒。
+    ancient: （洪）承畴大<恚>，急呼麾下驱出斩之。（《梅花岭记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 晦
+    type: 【名词】
+    phonetic: hui4
+    trans: ❶农历每月的最后一天。
+    ancient: 十一月<晦>，日有食之。（《史记•孝文本纪》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 晦
+    type: 【名词】
+    phonetic: hui4
+    trans: ❶农历每月的最后一天。
+    ancient: 朝菌不知<晦>朔，蟪蛄不知春秋，此小年也。（《逍遥游》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 晦
+    type: 【名词】
+    phonetic: hui4
+    trans: ❷黑夜。
+    ancient: 自明及<晦>，所行几里？（战国楚•屈原《天问》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 晦
+    type: 【动词】
+    phonetic: hui4
+    trans: 隐藏。
+    ancient: 天下有隐居行义、才德高远、<晦>迹丘园、不求闻达者，委所在长吏，具姓名闻奏，当备礼邀致。（唐•陆贽《奉天改元大赦制》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 晦
+    type: 【形容词】
+    phonetic: hui4
+    trans: 昏暗。
+    ancient: 山峻高以蔽日兮，下幽<晦>以多雨。（战国楚•屈原《九章•涉江》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 晦
+    type: 【形容词】
+    phonetic: hui4
+    trans: 昏暗。
+    ancient: 唯恐道途显<晦>，不相通达，致负诚托，又乖（违背）恳愿。（《柳毅传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 晦
+    type: 【形容词】
+    phonetic: hui4
+    trans: 昏暗。
+    ancient: 若夫日出而林霏开，云归而岩穴暝，<晦>明变化者，山间之朝暮也。（《醉翁亭记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 晦
+    type: 【形容词】
+    phonetic: hui4
+    trans: 昏暗。
+    ancient: 是时雷电<晦>冥，太公往视，则见蛟龙于其上。（《史记•高祖本纪》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 或
+    type: 【代词】
+    phonetic: huo4
+    trans: 有人;有的。
+    ancient: 兵刃既接，弃甲曳兵而走。<或>百步而后止，<或>五十步而后止。（《寡人之于国也》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 或
+    type: 【代词】
+    phonetic: huo4
+    trans: 有人;有的。
+    ancient: <或>曰：六国互丧，率（全部）赂秦耶？（《六国论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 或
+    type: 【代词】
+    phonetic: huo4
+    trans: 有人;有的。
+    ancient: <或>曰："梅以曲为美，直则无姿。"（《病梅馆记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 或
+    type: 【代词】
+    phonetic: huo4
+    trans: 有人;有的。
+    ancient: 句读之不知，惑之不解，<或>师焉，<或>不焉，小学而大遗，吾未见其明也。（《师说》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 或
+    type: 【代词】
+    phonetic: huo4
+    trans: 有人;有的。
+    ancient: 【高考题例】密州民田产银，<或>盗取之，大理当以强。（《宋史・曾公亮传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 或
+    type: 【代词】
+    phonetic: huo4
+    trans: 有人;有的。
+    ancient: 【高考题例】生数上疏，言诸侯<或>连数郡，非古之制，可稍削之。（《史记•屈原贾生列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 或
+    type: 【副词】
+    phonetic: huo4
+    trans: ❶有时;偶或。
+    ancient: 余既为此志，后五年，吾妻来归，时至轩中，从余问古事，<或>凭几（靠在桌案上）学书。（《项脊轩志》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 或
+    type: 【副词】
+    phonetic: huo4
+    trans: ❶有时;偶或。
+    ancient: <或>王命急宣，有府朝发白帝，暮到江陵。（《三峡》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 或
+    type: 【副词】
+    phonetic: huo4
+    trans: ❶有时;偶或。
+    ancient: 马之千里者，—食<或>尽粟一石。（《马说》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 或
+    type: 【副词】
+    phonetic: huo4
+    trans: ❷也许;或许。
+    ancient: 越人语天姥，云霞明灭<或>可睹。（《梦游天姥吟留别》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 或
+    type: 【副词】
+    phonetic: huo4
+    trans: ❷也许;或许。
+    ancient: 莫如以吾所长攻敌所短，操刀挟盾，猱（nao2，像猴子—样）进鸷（像凶猛的鸟一样）击，<或>能免乎!（《冯婉贞》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 或
+    type: 【副词】
+    phonetic: huo4
+    trans: ❷也许;或许。
+    ancient: 【高考题例】金人虽不吾索，吾当与之俱行，求见二酋面责之，庶<或>万一可济。（《宋史♦孙傅传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 或
+    type: 【副词】
+    phonetic: huo4
+    trans: ❸倘若;倘或。
+    ancient: 所守<或>匪亲，化为狼与豺。（《蜀道难》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 或
+    type: 【助词】
+    phonetic: huo4
+    trans: 常用在否定句中加强否定语气。
+    ancient: 残贼公行，莫之<或>止。（《论积贮疏》）
+    url: xxxx
+    vernacular: xxxx
+  - word: xxxx
+    type: 【名词】
+    phonetic: xx1
+    trans: ❶xxxx
+    ancient: xxx
+    url: xxxx
+    vernacular: 见丨74页"奇㊁"。

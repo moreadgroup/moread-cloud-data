@@ -1,9 +1,93 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 患
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: huan4
+    trans: ❶灾祸;忧患。
+    ancient: 夫祸<患>常积于忽微，而智勇多困于所溺，岂独伶人也哉？（《伶官传序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 患
+    type: 【名词】
+    phonetic: huan4
+    trans: ❶灾祸;忧患。
+    ancient: 今北土未平，马超、韩遂尚在关西，为（曹）操后<患>。（《资治通鉴•汉纪五十七》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 患
+    type: 【名词】
+    phonetic: huan4
+    trans: ❶灾祸;忧患。
+    ancient: 阉竖恐终为其<患>，遂共谗之。（《张衡传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 患
+    type: 【名词】
+    phonetic: huan4
+    trans: ❶灾祸;忧患。
+    ancient: 轲曰："今有一言，可以解燕国之<患>，而报将军之仇者，何如？"（《荆轲刺秦王》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 患
+    type: 【名词】
+    phonetic: huan4
+    trans: ❶灾祸;忧患。
+    ancient: 【高考题例】贾生谏，以为<患>之兴自此起矣。（《史记•屈原贾生列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 患
+    type: 【名词】
+    phonetic: huan4
+    trans: ❷毛病;弊病。
+    ancient: 孟子称"人之<患>在好为人师"。（《答韦中立论师道书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 患
+    type: 【名词】
+    phonetic: huan4
+    trans: ❸疾病。
+    ancient: 余能理亡国之刓弊，愈膏肓之<患>难。（唐•柳宗元《愈膏肓赋》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 患
+    type: 【动词】
+    phonetic: huan4
+    trans: ❶忧虑;担忧。
+    ancient: 不<患>其众之不足也，而<患>其志行之少耻也。（《勾践灭吴》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 患
+    type: 【动词】
+    phonetic: huan4
+    trans: ❶忧虑;担忧。
+    ancient: 欲勿予，即<患>秦兵之来。（《廉颇蔺相如列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 患
+    type: 【动词】
+    phonetic: huan4
+    trans: ❶忧虑;担忧。
+    ancient: 丘也闻有国有家者，不<患>寡而<患>不均，不<患>贫而<患>不安。（《季氏将伐颛臾》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 患
+    type: 【动词】
+    phonetic: huan4
+    trans: ❶忧虑;担忧。
+    ancient: 则秦之所大欲，诸侯之所大<患>，固不在战矣。（《六国论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 患
+    type: 【动词】
+    phonetic: huan4
+    trans: ❶忧虑;担忧。
+    ancient: 【高考题例】诸侯<患>楚之强。故楚之贵戚尽欲害吴起。（《史记♦孙子吴起列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 患
+    type: 【动词】
+    phonetic: huan4
+    trans: ❷厌恶;痛恨。
+    ancient: 周处年少时，凶强侠气，为乡里所<患>。（《世说新语・自新》）
     url: xxxx
     vernacular: xxxx
