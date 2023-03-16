@@ -1,13 +1,26 @@
 ---
 words:
-  - word: xxxx
+  - word: 恨
     type: 【名词】
-    phonetic: xx1
+    phonetic: hen4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶怨恨。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 【例句】然而恨贯肌骨，亦何能愧避？（《柳毅传》）丨商女不知亡国恨，隔江犹唱后庭花。（唐•杜牧《泊秦淮》）丨生人作死别，恨恨那可论？（《孔雀东南飞》）丨别有幽愁暗恨生，此时无声胜有声。（《琵琶行》）
+      - trans: ❷遗憾。
+        sentences:
+          - ancient: 【例句】纤云弄巧，飞星传恨。（《鹊桥仙》）
+  - word: 恨
+    type: 【动词】
+    phonetic: hen4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶遗憾;不满。
+        sentences:
+          - ancient: 【例句】陈涉少时，尝与人佣耕，辍耕之（走到）垄上，怅恨久之。（《陈涉世家》）丨先帝在时,每与宦论此事，未尝不叹息痛恨于桓、灵也。（《出师表》）丨所以隐忍苟活，幽于粪土之中而不辞者，恨私心有所不尽。（《报任安书》）
+      - trans: ❷怨恨;悲伤。
+        sentences:
+          - ancient: 【例句】艰难苦恨繁霜鬓，潦倒新停浊酒杯。（《登高》）丨恨相见得迟，怨归去得疾。……此恨谁知！（《长亭送别》）

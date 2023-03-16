@@ -1,13 +1,32 @@
 ---
 words:
-  - word: xxxx
+  - word: 晦
     type: 【名词】
-    phonetic: xx1
+    phonetic: hui4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶农历每月的最后一天。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 【例句】十一月晦，日有食之。（《史记•孝文本纪》）丨朝菌不知晦朔,蟪蛄不知春秋，此小年也。（《逍遥游》）
+      - trans: ❷黑夜。
+        sentences:
+          - ancient: 【例句】自明及晦，所行几里？（战国楚•屈原《天问》）
+  - word: 晦
+    type: 【动词】
+    phonetic: hui4
+    tags:
+      - 高中
+    samples:
+      - trans: 隐藏。	
+        sentences:
+          - ancient: 【例句】天下有隐居行义、才德高远、晦迹丘园、不求闻达者，委所在长吏，具姓名闻奏，当备礼邀致。（唐•陆贽《奉天改元大赦制》）
+  - word: 晦
+    type: 【形容词】
+    phonetic: hui4
+    tags:
+      - 高中
+    samples:
+      - trans: 昏暗。
+        sentences:
+          - ancient: 【例句】山峻高以蔽日兮，下幽晦以多雨。（战国楚•屈原《九章•涉江》）丨唯恐道途显晦，不相通达，致负诚托，又乖（违背）恳愿。（《柳毅传》）丨若夫日出而林霏开，云归而岩穴暝，晦明变化者，山间之朝暮也。（《醉翁亭记》）丨是时雷电晦冥，太公往视，则见蛟龙于其上。（《史记•高祖本纪》）

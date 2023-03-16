@@ -1,13 +1,35 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 回
+    type: 【动词】
+    phonetic: hui2
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶旋转；回旋。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 【例句】春冬之时，则素湍绿潭，回清倒影。（《三峡》）丨风急天高猿啸哀，渚清沙白鸟飞回。（《登高》）丨虽累百世，垢弥甚耳！是以肠一日而九回。（《报任安书》）
+      - trans: ❷掉转;运转。
+        sentences:
+          - ancient: 【例句】虎鼓瑟兮鸾回车，仙之人兮列如麻。（《梦游天姥吟留别》）丨手把文书口称敕，回车叱牛牵向北。（唐•白居易《卖炭翁》）丨回朕车以复路兮，及行迷之未远。（《离骚》）丨上有六龙回日之高标。（《蜀道难》）
+      - trans: ❸回来；回去。
+        sentences:
+          - ancient: 【例句】君不见黄河之水天上来，奔流到海不复回。（《将进酒》）丨舟回至两山间，将入港口，有大石当中流（水流的中心）。（《石钟山记》）
+  - word: 回
+    type: 【动词】
+    phonetic: hui2
+    tags:
+      - 高中
+    samples:
+      - trans: 【形容词】曲折环绕。
+        sentences:
+          - ancient: 【例句】鹤汀（ting1,水边平地）凫渚（zhu3，水中小洲），穷岛屿之萦回。’（《滕王阁序》）丨五步二楼，十步一阁；廊腰绶回，檐牙高啄。（《阿房宫赋》）丨入深林，穷回溪，幽泉怪石,无远不到。（《始得西山宴游记》）
+  - word: 回
+    type: 【动词】
+    phonetic: hui2
+    tags:
+      - 高中
+    samples:
+      - trans: 【量词】表示动作行为的次数。
+        sentences:
+          - ancient: 【例句】渐老逢春能几回？（唐•杜甫《绝句漫兴九首》）
