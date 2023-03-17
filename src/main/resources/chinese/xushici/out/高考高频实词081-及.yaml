@@ -1,13 +1,133 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 及
+    type: 【动词】
+    phonetic: ji2
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶赶上。
         sentences:
-          - ancient: xxx
+          - ancient: 怀王悔，追张仪，不<及>。（《史记•屈原贾生列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 予之<及>于死者不知其几矣。（《〈指南录〉后序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 方急时，不<及>召下兵，以故荆轲逐秦王。（《荆轲刺秦王》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷到达。
+        sentences:
+          - ancient: 微（假如没有）夫人之力不<及>此。（《烛之武退秦师》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 火刻风猛，船往如箭，烧尽北船，延<及>岸上营落。（《资治通鉴•汉纪五十七》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 延<及>孝文王、庄襄王，享国之日浅，国家无事。（《过秦论》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】万一北人言<及>代州事，不有以折之，则伤国体。（《宋史•许将传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸涉及;推及。
+        sentences:
+          - ancient: 老吾老，以<及>人之老;幼吾幼，以<及>人之幼。（《齐桓晋文之事》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 一人飞升，仙<及>鸡犬。（《促织》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 罚所<及>，则思无因怒而滥刑。（《谏太宗十思疏》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹比得上。
+        sentences:
+          - ancient: 君美甚，徐公何能<及>君也？（《邹忌讽齐王纳谏》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 绑子之徒，其贤不<及>孔子。（《师说》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 才能不<及>中人，非有仲尼、墨翟之贤，陶朱、猗顿之富。（《过秦论》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 小知不<及>大知，小年不<及>大年。（《逍遥游》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】既罢，日："吾久不见贾生，自以为过之，今不<及>也。.（《史记•屈原贾生列传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❺赶得上;来得及。
+        sentences:
+          - ancient: 素衣莫起风尘叹，犹<及>清明可到家。（宋•陆游《临安春雨初霁》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 僻不当道者，皆不<及>往。（《登泰山记》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 及
+    type: 【介词】
+    phonetic: ji2
+    tags:
+      - 高中
+    samples:
+      - trans: ❶等到。
+        sentences:
+          - ancient: <及>反（通"返"），市罢，遂不得履。（《韩非子•外储说左上》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <及>至始皇，奋六世之余烈，振长策而御宇内。（《过秦论》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <及>其所之既倦，情随事迁，感慨系之矣。（《兰亭集序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 武留匈奴凡十九岁，始以强壮出，<及>还，须发尽白。（《苏武传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】贾生既辞往行<及>渡湘水，为赋以吊屈原。（《史记.屈原贾生列传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷到。
+        sentences:
+          - ancient: 谋（考虑）<及>子孙，可谓死君（置君于死地）乎？（《左传•僖公三十三年》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 逃未<及>远，市（买）者还。（《童区寄传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸跟;同。
+        sentences:
+          - ancient: 德音（诺言）莫违，<及>尔同死。（《诗经•鄢风•谷风》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <及>尔偕老，老使我怨。（《诗经•卫风•氓》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹当;趁。
+        sentences:
+          - ancient: 对曰："十五岁矣。虽少，愿<及>未填沟壑而托之。"（《触龙说赵太后》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 今媪尊长安君之位，而封之以膏腴之地，多予之重器，而不<及>今令有功于国。（《触龙说赵太后》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 回朕车以复路兮，<及>行迷之未远。（《离骚》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 及
+    type: 【连词】
+    phonetic: ji2
+    tags:
+      - 高中
+    samples:
+      - trans: 和;与。
+        sentences:
+          - ancient: 绍<及>操闻（赵）岐至，皆自将兵数百里奉迎。（《后汉书•赵岐传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 吏兵斩其使<及>从士三十余级。（《后汉书•班超传》）
             url: xxxx
             vernacular: xxxx

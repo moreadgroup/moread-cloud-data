@@ -1,13 +1,39 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 嘉
+    type: 【动词】
+    phonetic: jia1
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: 赞许;嘉奖。
         sentences:
-          - ancient: xxx
+          - ancient: 余<嘉>其能行古道，作《师说》以贻（yi2，赠送）之。（《师说》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 上大<嘉>悦，诏赐抚臣名马衣缎。（《促织》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 武帝<嘉>其义，乃遣武以中郎将使持节送匈奴使留在汉者。（《苏武传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】宣帝<嘉>之，赦而不诛，俄而起为并州刺史。（《晋书•鲁芝传》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 嘉
+    type: 【形容词】
+    phonetic: jia1
+    tags:
+      - 高中
+    samples:
+      - trans: 美好。
+        sentences:
+          - ancient: 我有<嘉>宾，鼓瑟吹笙。（《诗经•小雅•鹿鸣》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <嘉>木异石错（交错）置，皆山水之奇者，以予故，咸以愚辱焉。（唐•柳宗元《愚溪诗序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 皇览揆余于初度兮，肇锡余以<嘉>名。（《离骚》）
             url: xxxx
             vernacular: xxxx

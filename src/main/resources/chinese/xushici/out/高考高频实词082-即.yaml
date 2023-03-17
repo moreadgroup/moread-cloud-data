@@ -1,13 +1,97 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 即
+    type: 【动词】
+    phonetic: ji2
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶靠近;接近。
         sentences:
-          - ancient: xxx
+          - ancient: 夜半，童自转，以缚<即>炉火烧绝之，虽疮手勿惮。（《童区寄传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 白云在青天，可望不可<即>。（明•刘基《登卧龙山写怀二十八韵》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 氓之蚩蚩，抱布贸丝。匪来贸丝，来<即>我谋。（《诗经•卫风•氓》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷依着。
+        sentences:
+          - ancient: 鹤汀（ting1，水边平地）凫渚（zhu3，水中小洲），穷岛屿之萦回;桂殿兰宫，<即>冈峦之体剪。（《滕王阁序》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸登上（帝王之位）。
+        sentences:
+          - ancient: 高皇帝以明圣威武<即>天子位。（汉•贾谊《陈政事疏》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 昭帝<即>位，数年，匈奴与汉和亲。（《苏武传》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 即
+    type: 【副词】
+    phonetic: ji2
+    tags:
+      - 高中
+    samples:
+      - trans: ❶就;立即。
+        sentences:
+          - ancient: <即>使吏卒共抱大巫妪投之河中。（汉•褚少孙《西门豹治邺》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 赵奢许诺，<即>发万人趋之。（《史记•廉颇蔺相如列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 哙<即>带剑拥盾入军门。（《鸿门宴》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 郡之贤士大夫请于当道，<即>除逆阉废祠之址以葬之。（《五人墓碑记》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷就是。
+        sentences:
+          - ancient: 充<即>庐江人，所闻异于此。（《世说新语•方正》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <即>今之傫然（傫lei3，聚集的样子）在墓者也。（《五人墓碑记》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 即
+    type: 【连词】
+    phonetic: ji2
+    tags:
+      - 高中
+    samples:
+      - trans: ❶如果;假如。
+        sentences:
+          - ancient: <即>不幸有方二三千里之旱，国胡以相恤？（《论积贮疏》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 君<即>百岁（"死""的婉辞）后，谁可代君？（《汉书•萧何传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 左伊秩訾曰："<即>谋单于，何以复加？宜皆降之。"（《苏武传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 优旃曰："我<即>呼汝，汝疾应曰诺。"（《史记.滑稽列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 程婴曰："朔之妇有遗腹，若幸而男，吾奉之;<即>女也，吾徐死耳。"（《史记•赵世家》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】王<即>不听用鞅，必杀之，无令出境。（《史记•商君:列传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷即使。
+        sentences:
+          - ancient: 公子<即>合符，而晋鄙不授公子兵，而复请之，事必危矣。臣客屠者朱亥可与俱，此人力士。（《史记・魏公子列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <即>捕得三两头，又劣弱不中于款（规格）。（《促织》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】不但惠安遭其虐焰，<即>中宫与太后家亦谨避其锋矣。（《明史•陈登云传》）
             url: xxxx
             vernacular: xxxx
