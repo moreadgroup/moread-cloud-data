@@ -1,13 +1,52 @@
 ---
 words:
-  - word: xxxx
+  - word: 疾
     type: 【名词】
-    phonetic: xx1
+    phonetic: ji2
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶病。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 【例句】君有疾在腠理（皮肤的纹理和皮下肌肉之间的空隙），不治将恐深。（《"韩非子•喻老》）
+          - ancient: 其竟以此而殒其生乎？抑别有疾而至斯乎？（《祭十二郎文》）
+          - ancient: 而刘夙婴疾病，常在床蓐，臣侍汤药，未曾废离。（《陈情表》）
+      - trans: ❷缺点;毛病。
+        sentences:
+          - ancient: 【例句】必为有窃疾矣。（《公输》）
+          - ancient: 孔子贤者，所刺讥皆中诸侯之疾。（《史记•孔子世家》）
+  - word: 疾
+    type: 【动词】
+    phonetic: ji2
+    tags:
+      - 高中
+    samples: 
+      - trans: ❶痛心。
+        sentences:
+          - ancient: 【例句】屈平疾王听之不聪也，谗谄之蔽明也。（《史记•屈原贾生列传》）
+      - trans: ❷痛恨;厌恶。
+        sentences:
+          - ancient: 【例句】孔子曰："求，君子疾夫舍曰"欲之"而必为之辞。"（《季氏将伐颛臾》）
+          - ancient: 豹往到邺，会长老，问之民所疾苦。（汉•褚少孙《西门豹治邺》）
+          - ancient: 【高考题例】文司国计二年，力遏权幸,权幸深疾之。（《明史・韩文传》）
+      - trans: ❸妒忌。
+        sentences:
+          - ancient: 【例句】膑至，庞涓恐其贤于己，疾之，则以法刑断其两足而黥（qing2,在脸上刺上记号）之，欲隐勿见。（《史记•孙子吴起列传》）
+  - word: 疾
+    type: 【形容词】
+    phonetic: ji2
+    tags:
+      - 高中
+    samples: 
+      - trans: ❶疼痛。
+        sentences:
+          - ancient: 【例句】疾痛惨怛（da2,痛苦），未尝不呼父母也。（《史记・屈原贾生列传》
+      - trans: ❷快;敏捷。
+        sentences:
+          - ancient: 【例句】虽乘奔御风不以疾也。（《三峡》）
+          - ancient: 皆玄衣白刃，剽（敏捷）疾如猿猴。（《冯婉贞》）
+          - ancient: 恨相见得迟，怨归去得疾。（《长亭送别》）
+          - ancient: 优旃曰："我即呼汝，汝疾应曰诺。"（《史记•滑稽列传》）
+      - trans: ❸强。
+        sentences:
+          - ancient: 【例句】顺风而呼，声非加疾（声音宏大）也，而闻者彰。（《劝学》）

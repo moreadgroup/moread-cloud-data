@@ -1,13 +1,49 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 假
+    type: 【动词】
+    phonetic: jia3
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶借。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 【例句】以是人多以书假余，余因得遍观群书。（《送东阳马生序》）
+          - ancient: 非夫人之物而强假焉，必虑人逼取，而惴惴焉摩玩之不已。（《黄生借书说》）
+      - trans: ❷凭借;借助。
+        sentences:
+          - ancient: 【例句】君子生（xing4,同""性"）非异也，善假于物也。（《劝学》）
+          - ancient: 里胥猾黠,假此科敛丁口。（《促织》）
+      - trans: ❸给予。
+        sentences:
+          - ancient: 【例句】况阳春召我以烟景，大块假我以文章。（唐•李白《春夜宴从弟桃花园序》）
+          - ancient: 假我数年，若是，我于《易》则彬彬矣。（《史记•孔子世家》）
+          - ancient: 愿足下假臣奇兵三万人，从间道绝其辎重。（《史记•淮阴侯列传》）
+      - trans: ❹宽容。
+        sentences:
+          - ancient: 【例句】大臣犯法，无所宽假。（《北史.魏世祖纪》）
+          - ancient: 愿大王少假借之,使毕使于前。（《荆轲刺秦王》）
+
+  - word: 假
+    type: 【形容词】
+    phonetic: jia3
+    tags:
+      - 高中
+    samples:
+      - trans: ❶虚假;假的。
+        sentences:
+          - ancient: 【例句】假作真时真亦假，无为有处有还无。（《红楼梦》一回）
+      - trans: ❷非正式的;暂时代理的。
+        sentences:
+          - ancient: 【例句】乃相与共立羽为假上将军。（《史记•项羽本纪》）
+          - ancient: 武与副中郎将张胜及假吏常惠等募士斥候百余人俱。（《苏武传》）
+
+  - word: 假
+    type: 【连词】
+    phonetic: jia3
+    tags:
+      - 高中
+    samples:
+      - trans: 假如;如果。
+        sentences:
+          - ancient: 【例句】假令仆伏法受诛,若九牛亡一毛，与蝼蚁何以异?（《报任安书》）
