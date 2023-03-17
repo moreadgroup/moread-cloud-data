@@ -1,9 +1,100 @@
 ---
 quizzes:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+  - word: 既
+    type: 【动词】
+    phonetic: Ji4
+    trans: 穷尽;结束。
+    ancient: 吾与汝<既>其文（形式），未<既>其实（实质）。（《庄子・应帝王》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 既
+    type: 【动词】
+    phonetic: Ji4
+    trans: 穷尽;结束。
+    ancient: 言未<既>，看笑于列者曰••••••（唐•韩愈《进学解》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 既
+    type: 【副词】
+    phonetic: Ji4
+    trans: ❶……以后；已经。
+    ancient: 不见复关，泣涕涟涟。<既>见复关，载笑载言。（《诗经•卫风•氓》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 既
+    type: 【副词】
+    phonetic: Ji4
+    trans: ❶……以后；已经。
+    ancient: 孙武<既>死，后百余岁有孙膑。（《史记•孙子吴起列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 既
+    type: 【副词】
+    phonetic: Ji4
+    trans: ❶……以后；已经。
+    ancient: <既>至秦，持千金之资币物，厚遗秦王宠臣中庶子蒙嘉。（《荆轲刺秦王》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 既
+    type: 【副词】
+    phonetic: Ji4
+    trans: ❷不久;后来。
+    ancient: <既>又与汝就食（谋生）江南，零丁孤苦，未尝一日相离也。（《祭十二鮒戈》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 既
+    type: 【副词】
+    phonetic: Ji4
+    trans: ❸完全。
+    ancient: 宋人既成列，楚人未<既>济。（《左传•僖公二十二年》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 既
+    type: 【副词】
+    phonetic: Ji4
+    trans: ❹就;便。
+    ancient: 左右<既>前，斩荆轲。秦王目眩良久。（《荆轲刺秦王》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 既
+    type: 【连词】
+    phonetic: Ji4
+    trans: ❶既然。
+    ancient: 君<既>若见录，不久望君来。（《孔雀东南飞》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 既
+    type: 【连词】
+    phonetic: Ji4
+    trans: ❶既然。
+    ancient: <既>自以心为形役，奚惆怅而独悲？（《归去来兮辞》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 既
+    type: 【连词】
+    phonetic: Ji4
+    trans: ❶既然。
+    ancient: <既>来之，则安之。（《季氏将伐颛臾》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 既
+    type: 【连词】
+    phonetic: Ji4
+    trans: ❷表示并列。
+    ancient: 纷吾<既>有此内美兮，又重之以修能（修养才能）。（《离骚》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 既
+    type: 【连词】
+    phonetic: Ji4
+    trans: ❷表示并列。
+    ancient: 三军<既>惑且疑。（《孙子兵法•谋攻》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 既
+    type: 【连词】
+    phonetic: Ji4
+    trans: ❷表示并列。
+    ancient: <既>窈窕以寻壑，亦崎岖而经丘。（《归去来兮辞》）
     url: xxxx
     vernacular: xxxx

@@ -1,9 +1,114 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 疾
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: ji2
+    trans: ❶病。
+    ancient: 君有<疾>在腠理（皮肤的纹理和皮下肌肉之间的空隙），不治将恐深。（《韩非子•喻老》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 疾
+    type: 【名词】
+    phonetic: ji2
+    trans: ❶病。
+    ancient: 其竟以此而殒其生乎？抑别有<疾>而至斯乎？（《祭十二郎文》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 疾
+    type: 【名词】
+    phonetic: ji2
+    trans: ❶病。
+    ancient: 而刘夙婴<疾>病，常在床蓐，臣侍汤药，未曾废离。（《陈情表》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 疾
+    type: 【名词】
+    phonetic: ji2
+    trans: ❷缺点;毛病。
+    ancient: 必为有窃<疾>矣。（《公输》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 疾
+    type: 【名词】
+    phonetic: ji2
+    trans: ❷缺点;毛病。
+    ancient: 孔子贤者，所刺讥皆中诸侯之<疾>。（《史记•孔子世家》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 疾
+    type: 【动词】
+    phonetic: ji2
+    trans: ❶痛心。
+    ancient: 屈平<疾>王听之不聪也，谗谄之蔽明也。（《史记•屈原贾生列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 疾
+    type: 【动词】
+    phonetic: ji2
+    trans: ❷痛恨;厌恶。
+    ancient: 孔子曰："求，君子<疾>夫舍曰"欲之"而必为之辞。"（《季氏将伐颛臾》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 疾
+    type: 【动词】
+    phonetic: ji2
+    trans: ❷痛恨;厌恶。
+    ancient: 豹往到邺，会长老，问之民所<疾>苦。（汉•褚少孙《西门豹治邺》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 疾
+    type: 【动词】
+    phonetic: ji2
+    trans: ❷痛恨;厌恶。
+    ancient: 【高考题例】文司国计二年，力遏权幸，权幸深<疾>之。（《明史・韩文传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 疾
+    type: 【动词】
+    phonetic: ji2
+    trans: ❸妒忌。
+    ancient: 膑至，庞涓恐其贤于己，<疾>之，则以法刑断其两足而黥（qing2，在脸上刺上记号）之，欲隐勿见。（《史记•孙子吴起列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 疾
+    type: 【形容词】
+    phonetic: ji2
+    trans: ❶疼痛。
+    ancient: <疾>痛惨怛（da2，痛苦），未尝不呼父母也。（《史记・屈原贾生列传》
+    url: xxxx
+    vernacular: xxxx
+  - word: 疾
+    type: 【形容词】
+    phonetic: ji2
+    trans: ❷快;敏捷。
+    ancient: 虽乘奔御风不以<疾>也。（《三峡》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 疾
+    type: 【形容词】
+    phonetic: ji2
+    trans: ❷快;敏捷。
+    ancient: 皆玄衣白刃，剽（敏捷）<疾>如猿猴。（《冯婉贞》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 疾
+    type: 【形容词】
+    phonetic: ji2
+    trans: ❷快;敏捷。
+    ancient: 恨相见得迟，怨归去得<疾>。（《长亭送别》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 疾
+    type: 【形容词】
+    phonetic: ji2
+    trans: ❷快;敏捷。
+    ancient: 优旃曰："我即呼汝，汝<疾>应曰诺。"（《史记•滑稽列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 疾
+    type: 【形容词】
+    phonetic: ji2
+    trans: ❸强。
+    ancient: 顺风而呼，声非加<疾>（声音宏大）也，而闻者彰。（《劝学》）
     url: xxxx
     vernacular: xxxx

@@ -1,9 +1,170 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 见
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: jian4
+    trans: 见解;见识。
+    ancient: 谡大笑曰：汝真女子之<见>！兵法云："凭高视下，势如劈竹。"若魏兵到来，吾教他片甲不回！"（《三国演义》九十五回）
+    url: xxxx
+    vernacular: xxxx
+  - word: 见
+    type: 【动词】
+    phonetic: jian4
+    trans: ❶看到。
+    ancient: 屈平属（Zhu3，撰写）草稿未定，上官大夫<见>而欲夺之，屈平不与。（《史记•屈原贾生列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 见
+    type: 【动词】
+    phonetic: jian4
+    trans: ❶看到。
+    ancient: 虎<见>之，庞然大物也，以为神，蔽林间窥之。（《黔之驴》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 见
+    type: 【动词】
+    phonetic: jian4
+    trans: ❷见面;会面。
+    ancient: 移船相近邀相<见>，添酒回灯重开宴。（《琵琶行》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 见
+    type: 【动词】
+    phonetic: jian4
+    trans: ❸拜见;谒见。
+    ancient: 公将战，曹刿请<见>。（《曹刿论战》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 见
+    type: 【动词】
+    phonetic: jian4
+    trans: ❸拜见;谒见。
+    ancient: 孟子<见>梁惠王。（《孟子•梁惠王上》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 见
+    type: 【动词】
+    phonetic: jian4
+    trans: ❹召见;接见。
+    ancient: 于是<见>公输盘。（《公输》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 见
+    type: 【动词】
+    phonetic: jian4
+    trans: ❹召见;接见。
+    ancient: 秦王坐章台（秦国宫殿名）<见>相如。（《廉颇蔺相如列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 见
+    type: 【动词】
+    phonetic: jian4
+    trans: ❹召见;接见。
+    ancient: 愿得将军之首以献秦，秦王必喜而善<见>臣。（《荆轲刺秦王》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 见
+    type: 【动词】
+    phonetic: jian4
+    trans: ❺知道;懂得。
+    ancient: 齿豁头童方悟此，乃翁<见>事可怜迟。（宋•陆游《示儿》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 见
+    type: 【副词】
+    phonetic: jian4
+    trans: ❶在动词前，表示被动。相当于"被"。
+    ancient: 信而<见>疑，忠而被谤。（《史记•屈原贾生列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 见
+    type: 【副词】
+    phonetic: jian4
+    trans: ❶在动词前，表示被动。相当于"被"。
+    ancient: 欲予秦，秦城恐不可得，徒（白白地）<见>欺。（《廉颇蔺相如列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 见
+    type: 【副词】
+    phonetic: jian4
+    trans: ❶在动词前，表示被动。相当于"被"。
+    ancient: 事如此，此必及我，<见>犯乃死，重负国。（《苏武传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 见
+    type: 【副词】
+    phonetic: jian4
+    trans: ❶在动词前，表示被动。相当于"被"。
+    ancient: 然则将军之仇报，而燕国<见>陵之耻除矣。（《荆轲刺秦王》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 见
+    type: 【副词】
+    phonetic: jian4
+    trans: ❶在动词前，表示被动。相当于"被"。
+    ancient: 【高考题例】公居伊周（商伊尹和西周周公，后并称，指执掌朝:政的大臣）之位，一旦以罪<见>黜，虽欲牵黄犬（比喻过着悠闲的日子），复可得乎！（《晋书.鲁芝传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 见
+    type: 【副词】
+    phonetic: jian4
+    trans: ❷加在【动词】前用于指称自己，表示承受别人的某种动作行为。
+    ancient: 遍报诸所尝<见>德者。（《史记•苏秦列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 见
+    type: 【副词】
+    phonetic: jian4
+    trans: ❷加在【动词】前用于指称自己，表示承受别人的某种动作行为。
+    ancient: 生孩六月，慈父<见>背（弃我而死去）。（《陈情表》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 见
+    type: 【副词】
+    phonetic: jian4
+    trans: ❷加在【动词】前用于指称自己，表示承受别人的某种动作行为。
+    ancient: 君既若<见>录，不久望君来。（《孔雀东南飞》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 见
+    type: 【动词】
+    phonetic: xian2
+    trans: 同"现"。❶显现；出现。
+    ancient: （荆）轲既取图奏（进献）之，秦王发图，图穷而匕首<见>。（《史记•刺客列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 见
+    type: 【动词】
+    phonetic: xian2
+    trans: 同"现"。❶显现；出现。
+    ancient: 何时眼前突兀<见>此屋，吾庐独破受冻死亦足！（《茅屋为秋风所破歌》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 见
+    type: 【动词】
+    phonetic: xian2
+    trans: ❷表现。
+    ancient: 造父者，天下之善御者也，无舆马则无所<见>其能。（《荀子•儒效》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 见
+    type: 【动词】
+    phonetic: xian2
+    trans: ❷表现。
+    ancient: 退论书策以舒其愤，思垂空文以自<见>。（《报任安书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 见
+    type: 【动词】
+    phonetic: xian2
+    trans: ❸引见。
+    ancient: 子墨子曰："胡不<见>我于王？"（《公输》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 见
+    type: 【形容词】
+    phonetic: xian2
+    trans: 现成的。
+    ancient: 发近县<见>卒万六千人。（《汉书•文帝纪》）
     url: xxxx
     vernacular: xxxx
