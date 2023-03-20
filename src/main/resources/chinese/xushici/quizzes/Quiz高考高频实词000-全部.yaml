@@ -1,152 +1,54 @@
 ---
 quizzes:
-  - word: 既
-    type: 【动词】
-    phonetic: Ji4
-    trans: 穷尽;结束。
-    ancient: 吾与汝<既>其文（形式），未<既>其实（实质）。（《庄子・应帝王》）
-    url: xxxx
-    vernacular: 我传授给你的都只是外在的东西，还没有展现道的实质
-  - word: 既
-    type: 【动词】
-    phonetic: Ji4
-    trans: 穷尽;结束。
-    ancient: 言未<既>，有笑于列者曰••••••（唐•韩愈《进学解》）
-    url: xxxx
-    vernacular: "话没有说完,有人在行列里笑道"
-  - word: 既
-    type: 【副词】
-    phonetic: Ji4
-    trans: ❶……以后；已经。
-    ancient: 不见复关，泣涕涟涟。<既>见复关，载笑载言。（《诗经•卫风•氓》）
-    url: xxxx
-    vernacular: 复关没有见到盼望的人，眼泪簌簌掉下来。情郎即从复关来，又说又笑喜洋洋。
-  - word: 既
-    type: 【副词】
-    phonetic: Ji4
-    trans: ❶……以后；已经。
-    ancient: 孙武<既>死，后百余岁有孙膑。（《史记•孙子吴起列传》）
-    url: xxxx
-    vernacular: 孙武已死，过了一百多年又出了个孙膑。
-  - word: 既
-    type: 【副词】
-    phonetic: Ji4
-    trans: ❶……以后；已经。
-    ancient: <既>至秦，持千金之资币物，厚遗秦王宠臣中庶子蒙嘉。（《荆轲刺秦王》）
-    url: xxxx
-    vernacular: 到了秦国之后，带着价值千金的礼物，优厚地赠送给秦王的宠臣中庶子蒙嘉。
-  - word: 既
-    type: 【副词】
-    phonetic: Ji4
-    trans: ❷不久;后来。
-    ancient: <既>又与汝就食（谋生）江南，零丁孤苦，未尝一日相离也。（《祭十二郎文》）
-    url: xxxx
-    vernacular: 随后又和你到江南谋生，孤苦零丁，一天也没有分开过。
-  - word: 既
-    type: 【副词】
-    phonetic: Ji4
-    trans: ❸完全。
-    ancient: 宋人既成列，楚人未<既>济。（《左传•僖公二十二年》）
-    url: xxxx
-    vernacular: 宋军已经排成战斗的行列，楚国人没有全部渡过泓水。
-  - word: 既
-    type: 【副词】
-    phonetic: Ji4
-    trans: ❹就;便。
-    ancient: 左右<既>前，斩荆轲。秦王目眩良久。（《荆轲刺秦王》）
-    url: xxxx
-    vernacular: 秦王的侍卫上前，斩杀了荆轲。事后，秦王还头昏眼花了好长一段时间。
-  - word: 既
-    type: 【连词】
-    phonetic: Ji4
-    trans: ❶既然。
-    ancient: 君<既>若见录，不久望君来。（《孔雀东南飞》）
-    url: xxxx
-    vernacular: 既然承蒙你这样的记着我，不久之后我会殷切地盼望着你来。
-  - word: 既
-    type: 【连词】
-    phonetic: Ji4
-    trans: ❶既然。
-    ancient: <既>自以心为形役，奚惆怅而独悲？（《归去来兮辞》）
-    url: xxxx
-    vernacular: 既然自己的心灵为形体所役使，为什么如此失意而独自伤悲？
-  - word: 既
-    type: 【连词】
-    phonetic: Ji4
-    trans: ❶既然。
-    ancient: <既>来之，则安之。（《季氏将伐颛臾》）
-    url: xxxx
-    vernacular: 使他来了之后，就要使他安定下来。
-  - word: 既
-    type: 【连词】
-    phonetic: Ji4
-    trans: ❷表示并列。
-    ancient: 纷吾<既>有此内美兮，又重之以修能（修养才能）。（《离骚》）
-    url: xxxx
-    vernacular: 天赋给我很多良好素质，我不断加强自己的修养。
-  - word: 既
-    type: 【连词】
-    phonetic: Ji4
-    trans: ❷表示并列。
-    ancient: 三军<既>惑且疑，则诸侯之难至矣。（《孙子兵法•谋攻》）
-    url: xxxx
-    vernacular: 军队既无所适从，又疑虑重重，诸侯就会趁机兴兵作难。
-  - word: 既
-    type: 【连词】
-    phonetic: Ji4
-    trans: ❷表示并列。
-    ancient: <既>窈窕以寻壑，亦崎岖而经丘。（《归去来兮辞》）
-    url: xxxx
-    vernacular: 既要探寻那幽深的沟壑，又要走过那高低不平的山丘。
   - word: 嘉
     type: 【动词】
     phonetic: jia1
     trans: 赞许;嘉奖。
     ancient: 余<嘉>其能行古道，作《师说》以贻（yi2，赠送）之。（《师说》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 我赞许他能够遵行古人从师的途径，写这篇《师说》来赠送他。
   - word: 嘉
     type: 【动词】
     phonetic: jia1
     trans: 赞许;嘉奖。
     ancient: 上大<嘉>悦，诏赐抚臣名马衣缎。（《促织》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 皇帝更加喜欢，便下诏赏给巡抚好马和锦缎。
   - word: 嘉
     type: 【动词】
     phonetic: jia1
     trans: 赞许;嘉奖。
     ancient: 武帝<嘉>其义，乃遣武以中郎将使持节送匈奴使留在汉者。（《苏武传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 汉武帝赞许他这种通晓情理的做法，于是派遣苏武以中郎将的身份出使，持旄节护送扣留在汉的匈奴使者回国
   - word: 嘉
     type: 【动词】
     phonetic: jia1
     trans: 赞许;嘉奖。
     ancient: 【高考题例】宣帝<嘉>之，赦而不诛，俄而起为并州刺史。（《晋书•鲁芝传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 宣帝对于鲁芝的表现表示赞许和嘉奖，因此赦免他的罪行，并且不予处罚，不久后提拔他为并州刺史。
   - word: 嘉
     type: 【形容词】
     phonetic: jia1
     trans: 美好。
     ancient: 我有<嘉>宾，鼓瑟吹笙。（《诗经•小雅•鹿鸣》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 一旦四方贤才光临舍下，我将奏瑟吹笙宴请宾客。
   - word: 嘉
     type: 【形容词】
     phonetic: jia1
     trans: 美好。
     ancient: <嘉>木异石错（交错）置，皆山水之奇者，以予故，咸以愚辱焉。（唐•柳宗元《愚溪诗序》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 美好的树木和奇异的岩石参差错落。这些都是山水中瑰丽的景色，因为我的缘故都用愚字玷污了它们。
   - word: 嘉
     type: 【形容词】
     phonetic: jia1
     trans: 美好。
     ancient: 皇览揆余于初度兮，肇锡余以<嘉>名。（《离骚》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 父亲仔细揣度我的生辰，于是赐予我贞祥的美名：
   - word: 假
     type: 【动词】
     phonetic: jia3
