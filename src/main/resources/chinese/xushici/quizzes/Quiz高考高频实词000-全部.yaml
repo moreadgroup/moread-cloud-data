@@ -1,376 +1,152 @@
 ---
 quizzes:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
-    url: xxxx
-    vernacular: 见丨72页"期㊁"。
-  - word: 及
-    type: 【动词】
-    phonetic: ji2
-    trans: ❶赶上。
-    ancient: 怀王悔，追张仪，不<及>。（《史记•屈原贾生列传》）
-    url: xxxx
-    vernacular: 怀王后悔了，派人追赶张仪，没有追上。
-  - word: 及
-    type: 【动词】
-    phonetic: ji2
-    trans: ❶赶上。
-    ancient: 予之<及>于死者不知其几矣。（《〈指南录〉后序》）
-    url: xxxx
-    vernacular: 唉！我到达死亡的境地不知有多少次了！
-  - word: 及
-    type: 【动词】
-    phonetic: ji2
-    trans: ❶赶上。
-    ancient: 方急时，不<及>召下兵，以故荆轲逐秦王。（《荆轲刺秦王》）
-    url: xxxx
-    vernacular: 正在慌急之中，而且也来不及召来侍卫，所以荆轲追逐秦王
-  - word: 及
-    type: 【动词】
-    phonetic: ji2
-    trans: ❷到达。
-    ancient: 微（假如没有）夫人之力不<及>此。（《烛之武退秦师》）
-    url: xxxx
-    vernacular: 不行！如不是秦国国君的力量，就没有我的今天。
-  - word: 及
-    type: 【动词】
-    phonetic: ji2
-    trans: ❷到达。
-    ancient: 火刻风猛，船往如箭，烧尽北船，延<及>岸上营落。（《资治通鉴•汉纪五十七》）
-    url: xxxx
-    vernacular: 火势猛烈，风助燃烧，船只迅速前进，就像箭一样，火势烧毁了北方的船只，继而延烧到岸边的营房。
-  - word: 及
-    type: 【动词】
-    phonetic: ji2
-    trans: ❷到达。
-    ancient: 延<及>孝文王、庄襄王，享国之日浅，国家无事。（《过秦论》）
-    url: xxxx
-    vernacular: 延续到孝文王、庄襄王，统治的时间不长，秦国并没有什么大事发生。
-  - word: 及
-    type: 【动词】
-    phonetic: ji2
-    trans: ❷到达。
-    ancient: 【高考题例】万一北人言<及>代州事，不有以折之，则伤国体。（《宋史•许将传》）
-    url: xxxx
-    vernacular: 如果北方的人提到代州事件，如果没有适当回应，那将会损害国家体制。
-  - word: 及
-    type: 【动词】
-    phonetic: ji2
-    trans: ❸涉及;推及。
-    ancient: 老吾老，以<及>人之老;幼吾幼，以<及>人之幼。（《齐桓晋文之事》）
-    url: xxxx
-    vernacular: 尊敬自己的老人，进而推广到尊敬别人家的老人；爱护自己的孩子，进而推广到爱护别人家的孩子。
-  - word: 及
-    type: 【动词】
-    phonetic: ji2
-    trans: ❸涉及;推及。
-    ancient: 一人飞升，仙<及>鸡犬。（《促织》）
-    url: xxxx
-    vernacular: 一人得道成仙，连鸡狗都可以上天。
-  - word: 及
-    type: 【动词】
-    phonetic: ji2
-    trans: ❸涉及;推及。
-    ancient: 罚所<及>，则思无因怒而滥刑。（《谏太宗十思疏》）
-    url: xxxx
-    vernacular: 动用刑罚，就要想到不要因为一时发怒而滥用刑罚。
-  - word: 及
-    type: 【动词】
-    phonetic: ji2
-    trans: ❹比得上。
-    ancient: 君美甚，徐公何能<及>君也？（《邹忌讽齐王纳谏》）
-    url: xxxx
-    vernacular: 您美极了，徐公怎么能比得上您呢？
-  - word: 及
-    type: 【动词】
-    phonetic: ji2
-    trans: ❹比得上。
-    ancient: 郯子之徒，其贤不<及>孔子。（《师说》）
-    url: xxxx
-    vernacular: 郯子这些人，他们的贤能都比不上孔子。
-  - word: 及
-    type: 【动词】
-    phonetic: ji2
-    trans: ❹比得上。
-    ancient: 才能不<及>中人，非有仲尼、墨翟之贤，陶朱、猗顿之富。（《过秦论》）
-    url: xxxx
-    vernacular: 才能不如普通人，并没有孔丘，墨翟那样的贤德，也不像陶朱、猗顿那样富有
-  - word: 及
-    type: 【动词】
-    phonetic: ji2
-    trans: ❹比得上。
-    ancient: 小知不<及>大知，小年不<及>大年。（《逍遥游》）
-    url: xxxx
-    vernacular: 小智比不上大智，短命比不上长寿。
-  - word: 及
-    type: 【动词】
-    phonetic: ji2
-    trans: ❹比得上。
-    ancient: 【高考题例】既罢，日："吾久不见贾生，自以为过之，今不<及>也。.（《史记•屈原贾生列传》）
-    url: xxxx
-    vernacular: 听完之后，文帝慨叹道：“我好长时间没见贾谊了，自认为能超过他，现在看来还是不如他。”
-  - word: 及
-    type: 【动词】
-    phonetic: ji2
-    trans: ❺赶得上;来得及。
-    ancient: 素衣莫起风尘叹，犹<及>清明可到家。（宋•陆游《临安春雨初霁》）
-    url: xxxx
-    vernacular: 不要叹息那京都的尘土使洁白的衣衫变得污秽，清明时节还来得及回到镜湖边的山阴故家。
-  - word: 及
-    type: 【动词】
-    phonetic: ji2
-    trans: ❺赶得上;来得及。
-    ancient: 僻不当道者，皆不<及>往。（《登泰山记》）
-    url: xxxx
-    vernacular: 那些偏僻不对着道路的石刻，都赶不上去看了。
-  - word: 及
-    type: 【介词】
-    phonetic: ji2
-    trans: ❶等到。
-    ancient: <及>反（通"返"），市罢，遂不得履。（《韩非子•外储说左上》）
-    url: xxxx
-    vernacular: 等到他返回集市的时候，集市已经散了，最后郑国人没能买到鞋子。
-  - word: 及
-    type: 【介词】
-    phonetic: ji2
-    trans: ❶等到。
-    ancient: <及>至始皇，奋六世之余烈，振长策而御宇内。（《过秦论》）
-    url: xxxx
-    vernacular: 到始皇的时候，发展六世遗留下来的功业，以武力来统治各国
-  - word: 及
-    type: 【介词】
-    phonetic: ji2
-    trans: ❶等到。
-    ancient: <及>其所之既倦，情随事迁，感慨系之矣。（《兰亭集序》）
-    url: xxxx
-    vernacular: 等到对得到或喜爱的东西已经厌倦，感情随着事物的变化而变化，感慨随之产生。
-  - word: 及
-    type: 【介词】
-    phonetic: ji2
-    trans: ❶等到。
-    ancient: 武留匈奴凡十九岁，始以强壮出，<及>还，须发尽白。（《苏武传》）
-    url: xxxx
-    vernacular: 苏武被扣在匈奴共十九年，当初壮年出使，等到回来，胡须头发全都白了。
-  - word: 及
-    type: 【介词】
-    phonetic: ji2
-    trans: ❶等到。
-    ancient: 【高考题例】贾生既辞往行<及>渡湘水，为赋以吊屈原。（《史记.屈原贾生列传》）
-    url: xxxx
-    vernacular: 贾生告别家人开始他的旅途，并经过湘江，为写下悼念屈原的诗篇。
-  - word: 及
-    type: 【介词】
-    phonetic: ji2
-    trans: ❷到。
-    ancient: 谋（考虑）<及>子孙，可谓死君（置君于死地）乎？（《左传•僖公三十三年》）
-    url: xxxx
-    vernacular: 为后世子孙考虑，可说是为了已死的国君吧！
-  - word: 及
-    type: 【介词】
-    phonetic: ji2
-    trans: ❷到。
-    ancient: 逃未<及>远，市（买）者还。（《童区寄传》）
-    url: xxxx
-    vernacular: 区寄逃出去没多远，那个上集市谈买卖的强盗回来了
-  - word: 及
-    type: 【介词】
-    phonetic: ji2
-    trans: ❸跟;同。
-    ancient: 德音（诺言）莫违，<及>尔同死。（《诗经•鄢风•谷风》）
-    url: xxxx
-    vernacular: 往日良言休抛弃：到死与你不离分。
-  - word: 及
-    type: 【介词】
-    phonetic: ji2
-    trans: ❸跟;同。
-    ancient: <及>尔偕老，老使我怨。（《诗经•卫风•氓》）
-    url: xxxx
-    vernacular: 当初曾相约和你一同过到老，偕老之说徒然使我怨恨罢了。
-  - word: 及
-    type: 【介词】
-    phonetic: ji2
-    trans: ❹当;趁。
-    ancient: 对曰："十五岁矣。虽少，愿<及>未填沟壑而托之。"（《触龙说赵太后》）
-    url: xxxx
-    vernacular: 十五岁了。虽然还小，但想趁我未死之前来托付给您。
-  - word: 及
-    type: 【介词】
-    phonetic: ji2
-    trans: ❹当;趁。
-    ancient: 今媪尊长安君之位，而封之以膏腴之地，多予之重器，而不<及>今令有功于国。（《触龙说赵太后》）
-    url: xxxx
-    vernacular: 啊!现在您把长安君的地位提得很高，又封给他肥沃的土地，给他很多珍宝，而不趁现在这个时机让他为国立功
-  - word: 及
-    type: 【介词】
-    phonetic: ji2
-    trans: ❹当;趁。
-    ancient: 回朕车以复路兮，<及>行迷之未远。（《离骚》）
-    url: xxxx
-    vernacular: 调转我的车走回原路啊，趁着迷途未远赶快罢休。
-  - word: 及
-    type: 【连词】
-    phonetic: ji2
-    trans: 和;与。
-    ancient: 绍<及>操闻（赵）岐至，皆自将兵数百里奉迎。（《后汉书•赵岐传》）
-    url: xxxx
-    vernacular: 绍和操听说赵岐到达岐山后，各自率领军队数百里往迎接他。
-  - word: 及
-    type: 【连词】
-    phonetic: ji2
-    trans: 和;与。
-    ancient: 吏兵斩其使<及>从士三十余级。（《后汉书•班超传》）
-    url: xxxx
-    vernacular: 官兵斩杀匈奴使者和随从人员三十多颗头
   - word: 即
     type: 【动词】
     phonetic: ji2
     trans: ❶靠近;接近。
     ancient: 夜半，童自转，以缚<即>炉火烧绝之，虽疮手勿惮。（《童区寄传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 到了半夜，区寄自己转过身来，把捆绑的绳子就着炉火烧断了，虽然烧伤了手也不怕
   - word: 即
     type: 【动词】
     phonetic: ji2
     trans: ❶靠近;接近。
     ancient: 白云在青天，可望不可<即>。（明•刘基《登卧龙山写怀二十八韵》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 可以望到但无法接近
   - word: 即
     type: 【动词】
     phonetic: ji2
     trans: ❶靠近;接近。
     ancient: 氓之蚩蚩，抱布贸丝。匪来贸丝，来<即>我谋。（《诗经•卫风•氓》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 那个人老实忠厚，怀抱布匹来换丝。
   - word: 即
     type: 【动词】
     phonetic: ji2
     trans: ❷依着。
-    ancient: 鹤汀（ting1，水边平地）凫渚（zhu3，水中小洲），穷岛屿之萦回;桂殿兰宫，<即>冈峦之体剪。（《滕王阁序》）
+    ancient: 鹤汀（ting1，水边平地）凫渚（zhu3，水中小洲），穷岛屿之萦回;桂殿兰宫，<即>冈峦之体势。（《滕王阁序》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 白鹤，野鸭停息的小洲，极尽岛屿的纡曲回环之势，雅浩的宫殿，跟起伏的山峦配合有致。
   - word: 即
     type: 【动词】
     phonetic: ji2
     trans: ❸登上（帝王之位）。
     ancient: 高皇帝以明圣威武<即>天子位。（汉•贾谊《陈政事疏》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 高祖凭着他的明智威武，即位做了天子。登上（帝王之位）
   - word: 即
     type: 【动词】
     phonetic: ji2
     trans: ❸登上（帝王之位）。
     ancient: 昭帝<即>位，数年，匈奴与汉和亲。（《苏武传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 汉昭帝登位，几年后，匈奴和汉达成和议。
   - word: 即
     type: 【副词】
     phonetic: ji2
     trans: ❶就;立即。
     ancient: <即>使吏卒共抱大巫妪投之河中。（汉•褚少孙《西门豹治邺》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 就叫差役们一齐抱起大巫婆，把她抛到河中。
   - word: 即
     type: 【副词】
     phonetic: ji2
     trans: ❶就;立即。
     ancient: 赵奢许诺，<即>发万人趋之。（《史记•廉颇蔺相如列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 赵奢同意，立即派出一万人迅速奔上北面山头。
   - word: 即
     type: 【副词】
     phonetic: ji2
     trans: ❶就;立即。
     ancient: 哙<即>带剑拥盾入军门。（《鸿门宴》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 于是樊哙拿着剑，持着盾牌，冲入军门。
   - word: 即
     type: 【副词】
     phonetic: ji2
     trans: ❶就;立即。
     ancient: 郡之贤士大夫请于当道，<即>除逆阉废祠之址以葬之。（《五人墓碑记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 本郡有声望的士大夫们向有关当局请求，就清理已被废除的魏忠贤生祠旧址来安葬他们
   - word: 即
     type: 【副词】
     phonetic: ji2
     trans: ❷就是。
     ancient: 充<即>庐江人，所闻异于此。（《世说新语•方正》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 我何充就是庐江郡的人，我所听到的跟你所说的不一样。
   - word: 即
     type: 【副词】
     phonetic: ji2
     trans: ❷就是。
     ancient: <即>今之傫然（傫lei3，聚集的样子）在墓者也。（《五人墓碑记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 就是现在一起埋葬在墓中的这五个人。
   - word: 即
     type: 【连词】
     phonetic: ji2
     trans: ❶如果;假如。
     ancient: <即>不幸有方二三千里之旱，国胡以相恤？（《论积贮疏》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 假如不幸有纵横二三千里地方的大旱灾，国家用什么去救济灾区？
   - word: 即
     type: 【连词】
     phonetic: ji2
     trans: ❶如果;假如。
     ancient: 君<即>百岁（"死""的婉辞）后，谁可代君？（《汉书•萧何传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 您一旦死了，谁能替代您呢？
   - word: 即
     type: 【连词】
     phonetic: ji2
     trans: ❶如果;假如。
     ancient: 左伊秩訾曰："<即>谋单于，何以复加？宜皆降之。"（《苏武传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 左伊秩訾说：“假如是谋杀单于，又该用什么更严的刑法呢？应当都叫他们投降。”
   - word: 即
     type: 【连词】
     phonetic: ji2
     trans: ❶如果;假如。
     ancient: 优旃曰："我<即>呼汝，汝疾应曰诺。"（《史记.滑稽列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 优旃说：“如果我叫你们，你们要很快地答应我。”
   - word: 即
     type: 【连词】
     phonetic: ji2
     trans: ❶如果;假如。
     ancient: 程婴曰："朔之妇有遗腹，若幸而男，吾奉之;<即>女也，吾徐死耳。"（《史记•赵世家》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 程婴说：“赵朔的妻子有身孕，如果幸运的生了男孩，我就养活他；如果是女孩，我再安心死去。”
   - word: 即
     type: 【连词】
     phonetic: ji2
     trans: ❶如果;假如。
     ancient: 【高考题例】王<即>不听用鞅，必杀之，无令出境。（《史记•商君:列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 大王假如不任用公孙鞅，就一定要杀掉他，不要让他走出国境。
   - word: 即
     type: 【连词】
     phonetic: ji2
     trans: ❷即使。
     ancient: 公子<即>合符，而晋鄙不授公子兵，而复请之，事必危矣。臣客屠者朱亥可与俱，此人力士。（《史记・魏公子列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 公子到那里即使两符相合，验明无误，可是晋鄙仍不交给公子兵权反而再请示魏王，那么事情就危险了。我的朋友屠夫朱亥可以跟您一起前往，这个人是个大力士。
   - word: 即
     type: 【连词】
     phonetic: ji2
     trans: ❷即使。
     ancient: <即>捕得三两头，又劣弱不中于款（规格）。（《促织》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 即使捕捉到二、三只，也是又弱又小不符合规格。
   - word: 即
     type: 【连词】
     phonetic: ji2
     trans: ❷即使。
     ancient: 【高考题例】不但惠安遭其虐焰，<即>中宫与太后家亦谨避其锋矣。（《明史•陈登云传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 不仅惠安被他（指朱瞻基）的暴行所伤害，即使中宫和太后的家族也小心避免受到他的攻击或伤害。
   - word: 疾
     type: 【名词】
     phonetic: ji2
