@@ -10,25 +10,25 @@ words:
         sentences:
           - ancient: 虎见之，庞然大物也，以为神，蔽林<间>窥之。（《黔之驴》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 老虎看到它是个庞然大物，以为它是什么神物，就躲在树林里偷偷看它。
           - ancient: 月出于东山之上，徘徊于斗牛之<间>。（《赤壁赋》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 明月从东山后升起，徘徊在斗宿与牛宿之间。
       - trans: ❷期间。用于时间。
         sentences:
           - ancient: 受命于败军之际，奉命于危难之<间>，尔来二十有一年矣。（《出师表》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 后来遇到兵败，在兵败的时候接受任务，形势危急之时奉命出使，从这以来二十一年了。
       - trans: ❸不久;一会儿。
         sentences:
           - ancient: 有<间>，有所穆然深思焉，有所怡然高望而远志焉。（《史记•孔子世家》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 又过了一段时间,孔子神情俨然,仿佛进到新的境界：时而庄重穆然,若有所思,时而怡然高望,志意深远.
       - trans: ❹差别;不同。
         sentences:
           - ancient: "【高考题例】此禁物也，取之虽强，与盗物民家有<间>矣。（《宋史•曾公亮传》）\t；"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 这是禁物，偷取银子虽然是强盗行为，与从百姓家中盗取财物有区别。
   - word: 间
     type: 【量词】
     phonetic: jian1
@@ -39,10 +39,10 @@ words:
         sentences:
           - ancient: 方宅十余亩，草屋八九<间>。（《归园田居》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 绕房宅方圆有十余亩地，还有那茅屋草舍八九间。
           - ancient: 安得广厦千万<间>，大庇天下寒士俱欢颜！（《茅屋为秋风所破歌》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 如何能得到千万间宽敞高大的房子，普遍地庇覆天下间贫寒的读书人
   - word: 间
     type: 【副词】
     phonetic: jian1
@@ -53,7 +53,7 @@ words:
         sentences:
           - ancient: <间>闻足下迁（提升官职），惕然（忧惧的样子）不喜。（三国魏•嵇康《与山巨源绝交书》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 近来听说您升官了，我感到十分忧虑
   - word: 间
     type: 【名词】
     phonetic: jian4
@@ -64,33 +64,33 @@ words:
         sentences:
           - ancient: 彼节（骨节）者有<间>，而刀刃者无厚……（《庄子•养生主》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 因为那牛体的骨节有空隙，刀口却薄得像没有厚度
           - ancient: 晏子为齐相，出，其御之妻从门<间>而窥（同"窥"，从间缝隙里看）其夫。（《史记•管晏列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 晏子做齐国宰相时，一次坐车外出，车夫的妻子从门缝里偷偷地看她的丈夫。
       - trans: ❷隔阂。
         sentences:
-          - ancient: 诸侯有<间>矣。（《左传•昭公十三年》）
+          - ancient: 诸侯有<间>矣，不可以不示众。（《左传•昭公十三年》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 诸侯对晋国有嫌隙了，不能不向他们显示一下威力。
       - trans: ❸机会;空子。
         sentences:
           - ancient: 至京口，得<间>奔真州。（《〈指南录〉后序》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 到了京口，得到机会逃奔到真州
           - ancient: 【高考题例】臣在任已闻警，虑夏人必乘<间>盗边，愿选将设备（设置防备）。（《宋史•郭浩传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我在任时就听说警事,担忧夏人一定会乘机侵犯边境,希望挑选将领设防。
       - trans: ❹距离;差别。
         sentences:
           - ancient: 则美丑有<间>矣。（《淮南子•俶真训》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 美和丑之间是有差别的。
       - trans: ❺间谍。
         sentences:
           - ancient: 始臣为<间>，然渠成亦秦之利也。（《史记•河渠书》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 臣开始是为韩国做奸细而来，但渠成以后确实对秦国有利。
   - word: 间
     type: 【动饲】
     phonetic: jian4
@@ -99,34 +99,34 @@ words:
     samples:
       - trans: ❶间隔；隔离。
         sentences:
-          - ancient: 大川相<间>，小川相属。（《论衡•别通》）
+          - ancient: 大川相<间>，大川相间，小川相属，东流归海，故海大也。（《论衡•别通》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 大大小小的河流相互交、汇聚，最终注入大海，这就是海变得宽辽阔的原因。
       - trans: ❷挑拨离间。
         sentences:
           - ancient: 谗人<间>之，可谓穷（处境困难）矣。（《史记•屈原贾生列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 遭到小人离间，可以说是处境非常艰难了。
       - trans: ❸侦察。
         sentences:
           - ancient: 内<间>主之情以告外。（《韩非子•外储说右上》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 在宫内刺探君主的情况告诉宫外的同党
       - trans: ❹参与;介入。
         sentences:
           - ancient: 肉食者谋之，又何<间>焉？（《曹刿论战》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 打仗的事当权者自会谋划，你又何必参与呢？
       - trans: ❺夹杂。
         sentences:
           - ancient: 中<间>力拉崩倒之声，火爆声，呼呼风声，百千齐作。（《口技》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 其中夹杂着劈里啪啦，房屋倒塌的声音，烈火燃烧物品爆裂的声音，呼呼的风声，千百种声音一齐发出
       - trans: ❻走小路;走近路。
         sentences:
           - ancient: 沛公已去，<间>至军中。（《史记•项羽本纪》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 刘邦离去后，从小路回到军营里。
   - word: 间
     type: 【副词】
     phonetic: jian4
@@ -137,20 +137,20 @@ words:
         sentences:
           - ancient: 数月之后，时时而<间>进。（《邹忌讽齐王纳谏》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 几个月以后，还不时地有人进谏
       - trans: ❷间或;有时。
         sentences:
           - ancient: 予在患难中，<间>以诗记所遭，今存其本不忍废。（《〈指南录〉后序》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我在患难中,有时用诗记述遭遇的事情,一直保留着那些诗稿舍不得丢掉。
       - trans: ❸私下;暗地里。
         sentences:
           - ancient: 又<间>令吴广之次所旁丛祠中，夜篝火，狐鸣呼曰："大楚兴，陈胜王。"（《陈涉世家》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 陈胜又暗地里派吴广到驻地旁边丛林里的神庙中，在夜间提着灯笼，作狐狸嗥叫的凄厉的声音大喊：“大楚将兴，陈胜为王。”
           - ancient: 臣诚恐见欺于王而负赵，故令人持璧归，<间>至赵矣。（《廉颇蔺相如列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我实在是害怕被大王欺骗而对不起赵王，所以派人带着宝璧回去，已从小路回到赵国了。
           - ancient: 【高考题例】时邑多盗，群丐<间>作侦探，是以屡屡破获重要案件。（《虞初广志•卷八•记丐俠》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 当时邑中有很多盗寇,乞丐们悄悄地侦查刺探,因此破获了重要的案件。
