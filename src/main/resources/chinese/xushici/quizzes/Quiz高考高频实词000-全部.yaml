@@ -1,264 +1,117 @@
 ---
 quizzes:
-  - word: 即
-    type: 【动词】
-    phonetic: ji2
-    trans: ❶靠近;接近。
-    ancient: 夜半，童自转，以缚<即>炉火烧绝之，虽疮手勿惮。（《童区寄传》）
-    url: xxxx
-    vernacular: 到了半夜，区寄自己转过身来，把捆绑的绳子就着炉火烧断了，虽然烧伤了手也不怕
-  - word: 即
-    type: 【动词】
-    phonetic: ji2
-    trans: ❶靠近;接近。
-    ancient: 白云在青天，可望不可<即>。（明•刘基《登卧龙山写怀二十八韵》）
-    url: xxxx
-    vernacular: 可以望到但无法接近
-  - word: 即
-    type: 【动词】
-    phonetic: ji2
-    trans: ❶靠近;接近。
-    ancient: 氓之蚩蚩，抱布贸丝。匪来贸丝，来<即>我谋。（《诗经•卫风•氓》）
-    url: xxxx
-    vernacular: 那个人老实忠厚，怀抱布匹来换丝。
-  - word: 即
-    type: 【动词】
-    phonetic: ji2
-    trans: ❷依着。
-    ancient: 鹤汀（ting1，水边平地）凫渚（zhu3，水中小洲），穷岛屿之萦回;桂殿兰宫，<即>冈峦之体势。（《滕王阁序》）
-    url: xxxx
-    vernacular: 白鹤，野鸭停息的小洲，极尽岛屿的纡曲回环之势，雅浩的宫殿，跟起伏的山峦配合有致。
-  - word: 即
-    type: 【动词】
-    phonetic: ji2
-    trans: ❸登上（帝王之位）。
-    ancient: 高皇帝以明圣威武<即>天子位。（汉•贾谊《陈政事疏》）
-    url: xxxx
-    vernacular: 高祖凭着他的明智威武，即位做了天子。登上（帝王之位）
-  - word: 即
-    type: 【动词】
-    phonetic: ji2
-    trans: ❸登上（帝王之位）。
-    ancient: 昭帝<即>位，数年，匈奴与汉和亲。（《苏武传》）
-    url: xxxx
-    vernacular: 汉昭帝登位，几年后，匈奴和汉达成和议。
-  - word: 即
-    type: 【副词】
-    phonetic: ji2
-    trans: ❶就;立即。
-    ancient: <即>使吏卒共抱大巫妪投之河中。（汉•褚少孙《西门豹治邺》）
-    url: xxxx
-    vernacular: 就叫差役们一齐抱起大巫婆，把她抛到河中。
-  - word: 即
-    type: 【副词】
-    phonetic: ji2
-    trans: ❶就;立即。
-    ancient: 赵奢许诺，<即>发万人趋之。（《史记•廉颇蔺相如列传》）
-    url: xxxx
-    vernacular: 赵奢同意，立即派出一万人迅速奔上北面山头。
-  - word: 即
-    type: 【副词】
-    phonetic: ji2
-    trans: ❶就;立即。
-    ancient: 哙<即>带剑拥盾入军门。（《鸿门宴》）
-    url: xxxx
-    vernacular: 于是樊哙拿着剑，持着盾牌，冲入军门。
-  - word: 即
-    type: 【副词】
-    phonetic: ji2
-    trans: ❶就;立即。
-    ancient: 郡之贤士大夫请于当道，<即>除逆阉废祠之址以葬之。（《五人墓碑记》）
-    url: xxxx
-    vernacular: 本郡有声望的士大夫们向有关当局请求，就清理已被废除的魏忠贤生祠旧址来安葬他们
-  - word: 即
-    type: 【副词】
-    phonetic: ji2
-    trans: ❷就是。
-    ancient: 充<即>庐江人，所闻异于此。（《世说新语•方正》）
-    url: xxxx
-    vernacular: 我何充就是庐江郡的人，我所听到的跟你所说的不一样。
-  - word: 即
-    type: 【副词】
-    phonetic: ji2
-    trans: ❷就是。
-    ancient: <即>今之傫然（傫lei3，聚集的样子）在墓者也。（《五人墓碑记》）
-    url: xxxx
-    vernacular: 就是现在一起埋葬在墓中的这五个人。
-  - word: 即
-    type: 【连词】
-    phonetic: ji2
-    trans: ❶如果;假如。
-    ancient: <即>不幸有方二三千里之旱，国胡以相恤？（《论积贮疏》）
-    url: xxxx
-    vernacular: 假如不幸有纵横二三千里地方的大旱灾，国家用什么去救济灾区？
-  - word: 即
-    type: 【连词】
-    phonetic: ji2
-    trans: ❶如果;假如。
-    ancient: 君<即>百岁（"死""的婉辞）后，谁可代君？（《汉书•萧何传》）
-    url: xxxx
-    vernacular: 您一旦死了，谁能替代您呢？
-  - word: 即
-    type: 【连词】
-    phonetic: ji2
-    trans: ❶如果;假如。
-    ancient: 左伊秩訾曰："<即>谋单于，何以复加？宜皆降之。"（《苏武传》）
-    url: xxxx
-    vernacular: 左伊秩訾说：“假如是谋杀单于，又该用什么更严的刑法呢？应当都叫他们投降。”
-  - word: 即
-    type: 【连词】
-    phonetic: ji2
-    trans: ❶如果;假如。
-    ancient: 优旃曰："我<即>呼汝，汝疾应曰诺。"（《史记.滑稽列传》）
-    url: xxxx
-    vernacular: 优旃说：“如果我叫你们，你们要很快地答应我。”
-  - word: 即
-    type: 【连词】
-    phonetic: ji2
-    trans: ❶如果;假如。
-    ancient: 程婴曰："朔之妇有遗腹，若幸而男，吾奉之;<即>女也，吾徐死耳。"（《史记•赵世家》）
-    url: xxxx
-    vernacular: 程婴说：“赵朔的妻子有身孕，如果幸运的生了男孩，我就养活他；如果是女孩，我再安心死去。”
-  - word: 即
-    type: 【连词】
-    phonetic: ji2
-    trans: ❶如果;假如。
-    ancient: 【高考题例】王<即>不听用鞅，必杀之，无令出境。（《史记•商君:列传》）
-    url: xxxx
-    vernacular: 大王假如不任用公孙鞅，就一定要杀掉他，不要让他走出国境。
-  - word: 即
-    type: 【连词】
-    phonetic: ji2
-    trans: ❷即使。
-    ancient: 公子<即>合符，而晋鄙不授公子兵，而复请之，事必危矣。臣客屠者朱亥可与俱，此人力士。（《史记・魏公子列传》）
-    url: xxxx
-    vernacular: 公子到那里即使两符相合，验明无误，可是晋鄙仍不交给公子兵权反而再请示魏王，那么事情就危险了。我的朋友屠夫朱亥可以跟您一起前往，这个人是个大力士。
-  - word: 即
-    type: 【连词】
-    phonetic: ji2
-    trans: ❷即使。
-    ancient: <即>捕得三两头，又劣弱不中于款（规格）。（《促织》）
-    url: xxxx
-    vernacular: 即使捕捉到二、三只，也是又弱又小不符合规格。
-  - word: 即
-    type: 【连词】
-    phonetic: ji2
-    trans: ❷即使。
-    ancient: 【高考题例】不但惠安遭其虐焰，<即>中宫与太后家亦谨避其锋矣。（《明史•陈登云传》）
-    url: xxxx
-    vernacular: 不仅惠安被他（指朱瞻基）的暴行所伤害，即使中宫和太后的家族也小心避免受到他的攻击或伤害。
   - word: 疾
     type: 【名词】
     phonetic: ji2
     trans: ❶病。
     ancient: 君有<疾>在腠理（皮肤的纹理和皮下肌肉之间的空隙），不治将恐深。（《韩非子•喻老》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "您在肌肤纹理间有些小病,不医治恐怕会加重。"
   - word: 疾
     type: 【名词】
     phonetic: ji2
     trans: ❶病。
     ancient: 其竟以此而殒其生乎？抑别有<疾>而至斯乎？（《祭十二郎文》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: (谁知道)竟然会因此而丧了命呢?还是由于别的病而导致这样的不幸呢?
   - word: 疾
     type: 【名词】
     phonetic: ji2
     trans: ❶病。
     ancient: 而刘夙婴<疾>病，常在床蓐，臣侍汤药，未曾废离。（《陈情表》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 但祖母刘氏又早被疾病缠绕，常年卧床不起，我侍奉她吃饭喝药，从来就没有离开她。
   - word: 疾
     type: 【名词】
     phonetic: ji2
     trans: ❷缺点;毛病。
     ancient: 必为有窃<疾>矣。（《公输》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 这人一定患了偷窃病。
   - word: 疾
     type: 【名词】
     phonetic: ji2
     trans: ❷缺点;毛病。
     ancient: 孔子贤者，所刺讥皆中诸侯之<疾>。（《史记•孔子世家》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "孔子是当今的圣贤之士,他所揭露与嘲讽的事还有社会现状,都是切中要害,也都是各诸侯国出现的问题。"
   - word: 疾
     type: 【动词】
     phonetic: ji2
     trans: ❶痛心。
     ancient: 屈平<疾>王听之不聪也，谗谄之蔽明也。（《史记•屈原贾生列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 屈原痛心于楚怀王耳朵听不到正确的意见，眼睛也被谗言谄媚所遮蔽
   - word: 疾
     type: 【动词】
     phonetic: ji2
     trans: ❷痛恨;厌恶。
     ancient: 孔子曰："求，君子<疾>夫舍曰"欲之"而必为之辞。"（《季氏将伐颛臾》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 孔子说：“冉有！君子厌恶那些不肯说（自己）想要那样而偏要找借口的人。“
   - word: 疾
     type: 【动词】
     phonetic: ji2
     trans: ❷痛恨;厌恶。
     ancient: 豹往到邺，会长老，问之民所<疾>苦。（汉•褚少孙《西门豹治邺》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "西门豹去到邺县,会见年高德望的人,询问他们人民感到痛苦的事情。"
   - word: 疾
     type: 【动词】
     phonetic: ji2
     trans: ❷痛恨;厌恶。
     ancient: 【高考题例】文司国计二年，力遏权幸，权幸深<疾>之。（《明史・韩文传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 主持国家经济两年，竭力遏制权贵幸臣，权贵幸臣对他深恶痛絶。
   - word: 疾
     type: 【动词】
     phonetic: ji2
     trans: ❸妒忌。
     ancient: 膑至，庞涓恐其贤于己，<疾>之，则以法刑断其两足而黥（qing2，在脸上刺上记号）之，欲隐勿见。（《史记•孙子吴起列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 孙膑到了魏国，庞涓害怕他比自己贤能，忌恨他，就假借罪名砍去他的双脚并施以墨刑，想使他埋没于世不为人知。
   - word: 疾
     type: 【形容词】
     phonetic: ji2
     trans: ❶疼痛。
     ancient: <疾>痛惨怛（da2，痛苦），未尝不呼父母也。（《史记・屈原贾生列传》
     url: xxxx
-    vernacular: xxxx
+    vernacular: 遇到病痛或忧伤的时候，没有不叫父母的。
   - word: 疾
     type: 【形容词】
     phonetic: ji2
     trans: ❷快;敏捷。
     ancient: 虽乘奔御风不以<疾>也。（《三峡》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 即使骑上飞奔的马，驾着疾风，也不如它快
   - word: 疾
     type: 【形容词】
     phonetic: ji2
     trans: ❷快;敏捷。
     ancient: 皆玄衣白刃，剽（敏捷）<疾>如猿猴。（《冯婉贞》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 他们都穿着黑衣黑裤，手持雪亮的钢刀，行动敏捷得象猿猴一样。
   - word: 疾
     type: 【形容词】
     phonetic: ji2
     trans: ❷快;敏捷。
     ancient: 恨相见得迟，怨归去得<疾>。（《长亭送别》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 恨相见得太迟，怨离别得太快。
   - word: 疾
     type: 【形容词】
     phonetic: ji2
     trans: ❷快;敏捷。
     ancient: 优旃曰："我即呼汝，汝<疾>应曰诺。"（《史记•滑稽列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 优旃说：“如果我叫你们，你们要很快地答应我。”
   - word: 疾
     type: 【形容词】
     phonetic: ji2
     trans: ❸强。
     ancient: 顺风而呼，声非加<疾>（声音宏大）也，而闻者彰。（《劝学》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 顺着风呼叫，声音没有变得洪亮，可是听的人在远处也能听得很清楚。
   - word: 济
     type: 【动词】
     phonetic: ji4
