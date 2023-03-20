@@ -1,194 +1,103 @@
 ---
 quizzes:
-  - word: 济
-    type: 【动词】
-    phonetic: ji4
-    trans: ❶过河;渡水。
-    ancient: 朝<济>而夕设版（筑土墙用的夹板）焉，君之所知也。（《烛之武退秦师》）
-    url: xxxx
-    vernacular: 晋惠公早晨渡过河去，晚上就筑城来防备您，这是您知道的。
-  - word: 济
-    type: 【动词】
-    phonetic: ji4
-    trans: ❶过河;渡水。
-    ancient: 欲<济>无舟楫，端居耻圣明。（《望洞庭湖赠张丞相》）
-    url: xxxx
-    vernacular: 想要渡水却没有船只，闲居不仕，有愧于圣明天子。
-  - word: 济
-    type: 【动词】
-    phonetic: ji4
-    trans: ❷完成;成就。
-    ancient: 若事之不<济>，此乃天也，安能复为之下乎！（《资治通鉴•汉纪五十七》）
-    url: xxxx
-    vernacular: 如果事业不能成功，这只是天意，怎么能够再做曹操的下属呢？
-  - word: 济
-    type: 【动词】
-    phonetic: ji4
-    trans: ❷完成;成就。
-    ancient: 探石发穴，靡计不施，迄（qi4，始终）无<济>。（《促织》）
-    url: xxxx
-    vernacular: 挖石头，掏大洞，各种办法都用尽了，终究没有找到。
-  - word: 济
-    type: 【动词】
-    phonetic: ji4
-    trans: ❷完成;成就。
-    ancient: 鲍叔乃誓曰："事之<济>也，听我令;事之不<济>也，免公子者为上，死者为下。"（《管子•大匡》）
-    url: xxxx
-    vernacular: 接着鲍叔对众宣誓说：“事情成功，都听我的命令；事情如果不成，能使公子免祸者为上，死者为下“
-  - word: 济
-    type: 【动词】
-    phonetic: ji4
-    trans: ❷完成;成就。
-    ancient: 【高考题例】纵事勿<济>，吾年足死矣，不死不足报国。（《明史・韩文传》）
-    url: xxxx
-    vernacular: 即使这件事达不到目的，我的年龄足以到死的年龄了，不为这件事死去死，就不能用自己的死来证明自己是报国的。
-  - word: 济
-    type: 【动词】
-    phonetic: ji4
-    trans: ❷完成;成就。
-    ancient: 【高考题例】金人虽不吾索，吾当与之俱行，求见二酋面责之，庶或万一可<济>。（《宋史•孙傅传》）
-    url: xxxx
-    vernacular: 金人虽然不求索我，我应当与太子同行，求见两位敌帅当面责斥他们，也许万一可以成功。
-  - word: 济
-    type: 【动词】
-    phonetic: ji4
-    trans: ❸帮助;接济。
-    ancient: 三顾频烦天下计，两朝开<济>老臣心。（《蜀相》）
-    url: xxxx
-    vernacular: 定夺天下先主曾三顾茅庐拜访，辅佐两朝开国与继业忠诚满腔。
-  - word: 济
-    type: 【动词】
-    phonetic: ji4
-    trans: ❸帮助;接济。
-    ancient: 先生岂有志于<济>物哉？（《中山狼传》）
-    url: xxxx
-    vernacular: 先生是否有志于帮助天下之物呢?
-  - word: 济
-    type: 【动词】
-    phonetic: ji4
-    trans: ❹加上。
-    ancient: 若不胜狄，虽<济>其罪，可也。（《国语•晋语一》）
-    url: xxxx
-    vernacular: 如果他没有战胜皋落狄，即使以此作为他的罪过，也是可以的
-  - word: 济
-    type: 【动词】
-    phonetic: ji4
-    trans: ❹加上。
-    ancient: 【高考题例】今又<济>之以雪，岂亦表其高洁之志行也欤？（明•杜琼《雪屋记》）
-    url: xxxx
-    vernacular: 现在又加上下雪，这也是在表扬他高洁的志向品行啊。
-  - word: 济
-    type: 【动词】
-    phonetic: ji4
-    trans: ❺得益;补益。
-    ancient: 断木为杵，掘地为臼，臼杵之利，万民以<济>。（《周易•系辞下》）
-    url: xxxx
-    vernacular: 折断树木制作成杵，挖掘土地而成臼，用臼杵舂米(臼杵相适应的好处)，以供万民食济。
-  - word: 济
-    type: 【动词】
-    phonetic: ji4
-    trans: ❺得益;补益。
-    ancient: 【高考题例】宽猛相<济>，圣人之训。（《宋史•范纯礼传》）
-    url: xxxx
-    vernacular: 宽（宽松）猛（严苛）相济（相辅相成），是圣人所教导的。
   - word: 既
     type: 【动词】
     phonetic: Ji4
     trans: 穷尽;结束。
     ancient: 吾与汝<既>其文（形式），未<既>其实（实质）。（《庄子・应帝王》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 我传授给你的都只是外在的东西，还没有展现道的实质
   - word: 既
     type: 【动词】
     phonetic: Ji4
     trans: 穷尽;结束。
-    ancient: 言未<既>，看笑于列者曰••••••（唐•韩愈《进学解》）
+    ancient: 言未<既>，有笑于列者曰••••••（唐•韩愈《进学解》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "话没有说完,有人在行列里笑道"
   - word: 既
     type: 【副词】
     phonetic: Ji4
     trans: ❶……以后；已经。
     ancient: 不见复关，泣涕涟涟。<既>见复关，载笑载言。（《诗经•卫风•氓》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 复关没有见到盼望的人，眼泪簌簌掉下来。情郎即从复关来，又说又笑喜洋洋。
   - word: 既
     type: 【副词】
     phonetic: Ji4
     trans: ❶……以后；已经。
     ancient: 孙武<既>死，后百余岁有孙膑。（《史记•孙子吴起列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 孙武已死，过了一百多年又出了个孙膑。
   - word: 既
     type: 【副词】
     phonetic: Ji4
     trans: ❶……以后；已经。
     ancient: <既>至秦，持千金之资币物，厚遗秦王宠臣中庶子蒙嘉。（《荆轲刺秦王》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 到了秦国之后，带着价值千金的礼物，优厚地赠送给秦王的宠臣中庶子蒙嘉。
   - word: 既
     type: 【副词】
     phonetic: Ji4
     trans: ❷不久;后来。
-    ancient: <既>又与汝就食（谋生）江南，零丁孤苦，未尝一日相离也。（《祭十二鮒戈》）
+    ancient: <既>又与汝就食（谋生）江南，零丁孤苦，未尝一日相离也。（《祭十二郎文》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 随后又和你到江南谋生，孤苦零丁，一天也没有分开过。
   - word: 既
     type: 【副词】
     phonetic: Ji4
     trans: ❸完全。
     ancient: 宋人既成列，楚人未<既>济。（《左传•僖公二十二年》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 宋军已经排成战斗的行列，楚国人没有全部渡过泓水。
   - word: 既
     type: 【副词】
     phonetic: Ji4
     trans: ❹就;便。
     ancient: 左右<既>前，斩荆轲。秦王目眩良久。（《荆轲刺秦王》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 秦王的侍卫上前，斩杀了荆轲。事后，秦王还头昏眼花了好长一段时间。
   - word: 既
     type: 【连词】
     phonetic: Ji4
     trans: ❶既然。
     ancient: 君<既>若见录，不久望君来。（《孔雀东南飞》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 既然承蒙你这样的记着我，不久之后我会殷切地盼望着你来。
   - word: 既
     type: 【连词】
     phonetic: Ji4
     trans: ❶既然。
     ancient: <既>自以心为形役，奚惆怅而独悲？（《归去来兮辞》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 既然自己的心灵为形体所役使，为什么如此失意而独自伤悲？
   - word: 既
     type: 【连词】
     phonetic: Ji4
     trans: ❶既然。
     ancient: <既>来之，则安之。（《季氏将伐颛臾》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 使他来了之后，就要使他安定下来。
   - word: 既
     type: 【连词】
     phonetic: Ji4
     trans: ❷表示并列。
     ancient: 纷吾<既>有此内美兮，又重之以修能（修养才能）。（《离骚》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 天赋给我很多良好素质，我不断加强自己的修养。
   - word: 既
     type: 【连词】
     phonetic: Ji4
     trans: ❷表示并列。
-    ancient: 三军<既>惑且疑。（《孙子兵法•谋攻》）
+    ancient: 三军<既>惑且疑，则诸侯之难至矣。（《孙子兵法•谋攻》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 军队既无所适从，又疑虑重重，诸侯就会趁机兴兵作难。
   - word: 既
     type: 【连词】
     phonetic: Ji4
     trans: ❷表示并列。
     ancient: <既>窈窕以寻壑，亦崎岖而经丘。（《归去来兮辞》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 既要探寻那幽深的沟壑，又要走过那高低不平的山丘。
   - word: 嘉
     type: 【动词】
     phonetic: jia1
