@@ -26,9 +26,9 @@ class ChatgptTest {
     fun testSplitZibiao4ChatgptQuestionFilesThenOK() {
 
         var file_name = "义务教育字表一2500.csv";
-        file_name = "义务教育字表二1000.csv";
+        file_name = "义务教育字表一2500.csv";
         var split_file_prefix = "义务教育字表一";
-        split_file_prefix = "义务教育字表二";
+        split_file_prefix = "义务教育字表一";
         val page_size = 20;
         Files.newBufferedReader(Paths.get(srcFolder + file_name)).use { reader ->
             val strategy = ColumnPositionMappingStrategy<CnCharLine>()
@@ -59,7 +59,7 @@ class ChatgptTest {
                         "针对如下每个汉字填写对应的信息，words里的所有组词一定要有word本字，sentences里的所有例句一定也要有word本字： \n\n" + page_items +
 
                     "\n例如JSONL格式：\n\n"+
-                    "{\"seq\": 122, \"word\": 钟, \"pinyin\": zhōng, \"definition\": 用于计量和报告时间的设备，通常由一个圆形表盘和一个或多个指针组成, \"words\":[ \"时钟\", \"铃声\"], \"sentences\":[ \"这个房间里有一个大的墙上挂钟。\", \"我设置了三个不同的闹钟，因为我经常会睡过头。\" ] }"
+                    "{\"seq\": 122, \"word\": \"钟\", \"pinyin\": \"zhōng\", \"definition\": \"用于计量和报告时间的设备，通常由一个圆形表盘和一个或多个指针组成\", \"words\":[ \"时钟\", \"铃声\"], \"sentences\":[ \"这个房间里有一个大的墙上挂钟。\", \"我设置了三个不同的闹钟，因为我经常会睡过头。\" ] }\n"
                     )
                     count_start += page_size
                     page_items = "${wordLine.seq},${wordLine.word}"
@@ -69,7 +69,7 @@ class ChatgptTest {
             println("针对如下每个汉字填写对应的信息，words里的所有组词一定要有word本字，sentences里的所有例句一定也要有word本字：\n\n" + page_items +
 
             "\n例如JSONL格式：\n\n"+
-                    "{\"seq\": 122, \"word\": \"钟\", \"pinyin\": \"zhōng\", \"definition\": \"用于计量和报告时间的设备，通常由一个圆形表盘和一个或多个指针组成\", \"words\":[ \"时钟\", \"铃声\"], \"sentences\":[ \"这个房间里有一个大的墙上挂钟。\", \"我设置了三个不同的闹钟，因为我经常会睡过头。\" ] }"
+                    "{\"seq\": 122, \"word\": \"钟\", \"pinyin\": \"zhōng\", \"definition\": \"用于计量和报告时间的设备，通常由一个圆形表盘和一个或多个指针组成\", \"words\":[ \"时钟\", \"铃声\"], \"sentences\":[ \"这个房间里有一个大的墙上挂钟。\", \"我设置了三个不同的闹钟，因为我经常会睡过头。\" ] }\n"
             )
         }
     }
