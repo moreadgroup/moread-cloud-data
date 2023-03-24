@@ -1,4 +1,4 @@
-#,	汉字,	Unicode,	普通话读音
+seq,	word,	Unicode,pinyin
 0001,	一,	U+4E00,	yī
 0002,	乙,	U+4E59,	yǐ
 0003,	二,	U+4E8C,	èr
