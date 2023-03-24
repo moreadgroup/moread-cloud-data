@@ -1,25 +1,20 @@
-针对如下每个汉字填写对应的信息，words里的所有组词一定要有word本字，sentences里的所有例句一定也要有word本字：
-seq,word
-3701,呔
-3702,呖
-3704,旸
-3705,吡
-3706,町
-3709,吽
-3711,吲
-3714,岈
-3715,岘
-3718,兕
-3723,钌
-3724,迕
-3727,牤
-3741,坌
-3742,肟
-3745,劬
-3747,狁
-3751,饩
-3753,饫
-3756,庑
-例如JSONL格式：
-
-{"seq": 122, "word": "钟", "pinyin": "zhōng", "definition": "用于计量和报告时间的设备，通常由一个圆形表盘和一个或多个指针组成", "words":[ "时钟", "铃声"], "sentences":[ "这个房间里有一个大的墙上挂钟。", "我设置了三个不同的闹钟，因为我经常会睡过头。" ] }
+{"seq": 3701, "word": "呔", "pinyin": "dāi", "definition": "古代官员对于辅助工作人员的称呼", "words":["爪呔", "差役"], "sentences":["他是官员的呔，负责记录文书。"] }
+{"seq": 3702, "word": "呖", "pinyin": "lì", "definition": "古代兵器，箭头上有钩", "words":["呖镞", "呖矢"], "sentences":["在古代战场上，呖常常被用来攻击敌人。"] }
+{"seq": 3704, "word": "旸", "pinyin": "yáng", "definition": "早上日出之前的时刻，天色开始泛白", "words":["旸时", "旸茂"], "sentences":["我喜欢早上的旸时，在这个宁静的时间里可以做很多事情。"] }
+{"seq": 3705, "word": "吡", "pinyin": "pǐ", "definition": "有机化合物的一种，具有芳香味，常用于调味", "words":["吡咯", "吡喃"], "sentences":["在烹饪中，吡被广泛用于增加味道。"] }
+{"seq": 3706, "word": "町", "pinyin": "tīng", "definition": "古代镇上而设的行政区划", "words":["庙町", "官町"], "sentences":["这个村庄曾经是町的行政中心。"] }
+{"seq": 3709, "word": "吽", "pinyin": "hōng", "definition": "佛教用语，表示念诵咒语或礼佛", "words":["吽须佛", "吽咙"], "sentences":["他每天早上都要念诵一段吽。"] }
+{"seq": 3711, "word": "吲", "pinyin": "yǐn", "definition": "有机化合物的一种，具有抑制细胞器官生长的作用", "words":["吲哚", "吲酮"], "sentences":["吲被广泛用于药物制剂中的抗癌疗法。"] }
+{"seq": 3714, "word": "岈", "pinyin": "yá", "definition": "山地的狭窄山谷", "words":["岈山", "岈峦"], "sentences":["他住在一座位于岈的房子里。"] }
+{"seq": 3715, "word": "岘", "pinyin": "xiàn", "definition": "山坡边的小路", "words":["岘山", "岘岭"], "sentences":["在岘上，你可以看到美丽的风景。"] }
+{"seq": 3718, "word": "兕", "pinyin": "sì", "definition": "古代传说中一种神兽，形似牛", "words":["兕鱼", "兔死狐悲"], "sentences":["兕在很多文化中都被认为是象征着长寿和吉祥的动物。"] }
+{"seq": 3723, "word": "钌", "pinyin": "liǎo", "definition": "元素周期表中的一种化学物质，常用于制造合金材料", "words":["钌铂", "钌矿"], "sentences":["钌可以使合金比回原材料更具有抗腐蚀性能。"] }
+{"seq": 3724, "word": "迕", "pinyin": "wǔ", "definition": "违逆，不遵守规定或准则", "words":["迕法", "迕约"], "sentences":["迕反规定可能会导致不良后果。"] }
+{"seq": 3727, "word": "牤", "pinyin": "māng", "definition": "古代指驯良的牛", "words":["牤牛", "牤缇"], "sentences":["牤在古代被广泛地用于耕种和运输。"] }
+{"seq": 3741, "word": "坌", "pinyin": "běn", "definition": "土地坚实，不易耕种", "words":["坌陋", "坌坑"], "sentences":["他在这片坌地上遇到了很多困难。"] }
+{"seq": 3742, "word": "肟", "pinyin": "wò", "definition": "有机化合物的一种，具有毒性", "words":["氨肟", "氯肟"], "sentences":["肟的毒性可以对人体产生危害。"] }
+{"seq": 3745, "word": "劬", "pinyin": "qú", "definition": "费力地劳作或思考", "words":["劬劳", "劬重"], "sentences":["他用了很长时间才完成这项劬重的工作。"] }
+{"seq": 3747, "word": "狁", "pinyin": "yǔn", "definition": "古代北方民族的一种，善于狩猎", "words":["狁裘", "胡狁"], "sentences":["狁裘因为保暖而在古代极为受欢迎。"] }
+{"seq": 3751, "word": "饩", "pinyin": "xì", "definition": "军队中的粮食补给，亦指馈赠礼物", "words":["军饩", "馈饩"], "sentences":["士兵们都期待着下一份饩菜。"] }
+{"seq": 3753, "word": "饫", "pinyin": "yù", "definition": "饱餐、吃得饱足", "words":["饫饱", "饫觚"], "sentences":["他每天晚上都会饫完饭后再睡觉。"] }
+{"seq": 3756, "word": "庑", "pinyin": "wǔ", "definition": "房屋中的天井或前厅", "words":["庑殿", "后庑"], "sentences":["这个古老的寺庙里有一座很大的庑殿。"] }
