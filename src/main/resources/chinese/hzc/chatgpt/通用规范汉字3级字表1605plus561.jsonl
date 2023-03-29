@@ -1,25 +1,20 @@
-针对如下每个汉字填写对应的信息(格式：seq,word)：
-seq,word
-7061,浰
-7062,浟
-7063,浛
-7064,浼
-7065,浲
-7066,涘
-7067,悈
-7068,悃
-7069,悢
-7070,𬒈
-7071,宧
-7072,窅
-7073,窊
-7074,窎
-7075,扅
-7076,扆
-7077,袪
-7078,袗
-7079,袯
-7080,祧
-
-，返回JSONL格式如：
-{"seq": 122, "word": "钟", "pinyin": "zhōng", "definition": "用于计量和报告时间的设备，通常由一个圆形表盘和一个或多个指针组成", "words":[ "时钟", "铃声"], "sentences":[ "这个房间里有一个大的墙上挂钟。", "我设置了三个不同的闹钟，因为我经常会睡过头。" ] }
+{"seq": 7061, "word": "浰", "pinyin": "là", "definition": "浑浊的水", "words":[], "sentences":[ "河里的水非常浰，不能直接饮用。" ] }
+{"seq": 7062, "word": "浟", "pinyin": "yóu", "definition": "淤泥", "words":[], "sentences":[ "河底淤积了很多浟，需要清理。" ] }
+{"seq": 7063, "word": "浛", "pinyin": "hán", "definition": "水深", "words":[], "sentences":[ "这里的河水浛得只有小孩子才能游泳。" ] }
+{"seq": 7064, "word": "浼", "pinyin": "měi", "definition": "水的表面", "words":[], "sentences":[ "水的浼上漂着几朵白云。" ] }
+{"seq": 7065, "word": "浲", "pinyin": "féng", "definition": "水流的方向", "words":[], "sentences":[ "根据浲向，我们可以判断这里是河流的上游还是下游。" ] }
+{"seq": 7066, "word": "涘", "pinyin": "sì", "definition": "水声", "words":[], "sentences":[ "夜里听到涘声，让人感觉很安静。" ] }
+{"seq": 7067, "word": "悈", "pinyin": "jiè", "definition": "喜悦的样子", "words":[], "sentences":[ "听到好消息后，他的脸上露出了悈然的笑容。" ] }
+{"seq": 7068, "word": "悃", "pinyin": "kǔn", "definition": "老实，诚恳", "words":[], "sentences":[ "他是一个悃实的人，说话做事都很可靠。" ] }
+{"seq": 7069, "word": "悢", "pinyin": "liàng", "definition": "欢乐的样子", "words":[], "sentences":[ "他和朋友们在一起时，总是表现出悢然的神情。" ] }
+{"seq": 7070, "word": "𬒈", "pinyin": "lěng", "definition": "极寒", "words":[], "sentences":[ "冬天北风呼啸，让人感到万分𬒈冷。" ] }
+{"seq": 7071, "word": "宧", "pinyin": "yóu", "definition": "小屋，茅屋", "words":[], "sentences":[ "在山顶上有一座宧屋，可以供登山者休息。" ] }
+{"seq": 7072, "word": "窅", "pinyin": "yǎo", "definition": "幽深；阴暗。", "words":[], "sentences":[ "这座建筑的窅深气息让人不由得心生敬畏。" ] }
+{"seq": 7073, "word": "窊", "pinyin": "wā", "definition": "凹陷；低洼。", "words":[], "sentences":[ "他的脸上有一些窊陷的痕迹，显得有些瘦弱。" ] }
+{"seq": 7074, "word": "窎", "pinyin": "diào", "definition": "形容房屋的小巧玲珑。", "words":[], "sentences":[ "这间小屋虽然窎小，但是布置得非常温馨。" ] }
+{"seq": 7075, "word": "扅", "pinyin": "yí", "definition": "相隔远。", "words":[], "sentences":[ "两地相隔万里，他们之间的距离已经扅得让人觉得遥远。" ] }
+{"seq": 7076, "word": "扆", "pinyin": "yǐ", "definition": "闸门。", "words":[], "sentences":[ "他沿着河岸走，看到了一个扆闸，于是他走上去看看。" ] }
+{"seq": 7077, "word": "袪", "pinyin": "qū", "definition": "消除；去除。", "words":[], "sentences":[ "他用毛巾轻轻地袪去了妻子脸上的泪痕。" ] }
+{"seq": 7078, "word": "袗", "pinyin": "zhěn", "definition": "短衣袄。", "words":[], "sentences":[ "天气有点冷，他穿上了一件袗子。" ] }
+{"seq": 7079, "word": "袯", "pinyin": "bó", "definition": "古代士兵战时用的胸甲。", "words":[], "sentences":[ "他展示了他珍藏的一件古代战士使用的袯。" ] }
+{"seq": 7080, "word": "祧", "pinyin": "tiāo", "definition": "祖坟。", "words":[], "sentences":[ "每年清明节，他都会回到家乡，去祖先的祧前扫墓祭拜。"]}

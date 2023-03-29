@@ -55,9 +55,9 @@ class ChatgptTest {
                     count_items += 1
                 } else {
                     File(destFolder + "${split_file_prefix}${count_start}.jsonl").writeText(
-                        "针对如下每个汉字填写对应的信息，words里的所有组词一定要有word本字，sentences里的所有例句一定也要有word本字：\nseq,word\n" + page_items +
+                        "针对如下每个汉字填写对应的信息(格式：seq,word)：\nseq,word\n" + page_items +
 
-                                "\n例如JSONL格式：\n\n" +
+                                "\n，返回JSONL格式如：\n\n" +
                                 "{\"seq\": 122, \"word\": \"钟\", \"pinyin\": \"zhōng\", \"definition\": \"用于计量和报告时间的设备，通常由一个圆形表盘和一个或多个指针组成\", \"words\":[ \"时钟\", \"铃声\"], \"sentences\":[ \"这个房间里有一个大的墙上挂钟。\", \"我设置了三个不同的闹钟，因为我经常会睡过头。\" ] }\n"
                     )
                     count_start += page_size
@@ -66,9 +66,9 @@ class ChatgptTest {
                 }
             }
             println(
-                "针对如下每个汉字填写对应的信息，words里的所有组词一定要有word本字，sentences里的所有例句一定也要有word本字：\nseq,word\n" + page_items +
+                "针对如下每个汉字填写对应的信息(格式：seq,word)：\nseq,word\n" + page_items +
 
-                        "\n例如JSONL格式：\n\n" +
+                        "\n，返回JSONL格式如：\n\n" +
                         "{\"seq\": 122, \"word\": \"钟\", \"pinyin\": \"zhōng\", \"definition\": \"用于计量和报告时间的设备，通常由一个圆形表盘和一个或多个指针组成\", \"words\":[ \"时钟\", \"铃声\"], \"sentences\":[ \"这个房间里有一个大的墙上挂钟。\", \"我设置了三个不同的闹钟，因为我经常会睡过头。\" ] }\n"
             )
         }

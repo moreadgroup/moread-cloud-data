@@ -1,25 +1,21 @@
-针对如下每个汉字填写对应的信息(格式：seq,word)：
-seq,word
-7161,𬱖
-7162,趼
-7163,跂
-7164,蛃
-7165,蚲
-7166,𬟽
-7167,蚺
-7168,啴
-7169,䎃
-7170,崧
-7171,崟
-7172,崞
-7173,崒
-7174,崌
-7175,崡
-7176,铏
-7177,𫓯
-7178,𫟹
-7179,铕
-7180,𫟼
+{"seq": 7161, "word": "𬱖", "pinyin": "dí", "definition": "美好", "words":[], "sentences":[]}
+{"seq": 7162, "word": "趼", "pinyin": "jiǎn", "definition": "脚掌磨破生出的痛处", "words":["水泡","鞋子"], "sentences":["我今天穿的鞋子太紧了，足上磨出了一个趼。", "跑步时穿着长袜可以减少趼的发生。"]}
+{"seq": 7163, "word": "跂", "pinyin": "qí", "definition": "小步向前或向后移动", "words":["前进","后退"], "sentences":["他跂了一下，找到了保持平衡的方法。", "她跂了几步，以找到最佳位置踢足球。"]}
+{"seq": 7164, "word": "蛃", "pinyin": "bǐng", "definition": "一种类似蝗虫的昆虫", "words":["昆虫","飞行"], "sentences":["这种蛃在夏季很常见，可以看到它们在树荫下飞舞。", "这个蛃比较大，通常长约 10 厘米，并且经常穿过人们的花园。"]}
+{"seq": 7165, "word": "蚲", "pinyin": "píng", "definition": "一种松果状的软体动物", "words":["软体动物","海洋生物"], "sentences":["在海洋中，有很多蚲和其他珊瑚礁生物生活在一起。", "这种蚲味道咸咸的，可以加入到很多不同的海鲜食谱中。"]}
+{"seq": 7166, "word": "𬟽", "pinyin": "lüè", "definition": "古代用来盛酿造的青铜鬲", "words":["酿造","酒器"], "sentences":["这个博物馆里展示了一些古代饮酒器皿，其中包括几个𬟽。", "在那个时代，一些特别大的宴会上会使用很多个𬟽来奉酒。"]}
+{"seq": 7167, "word": "蚺", "pinyin": "rán", "definition": "毒蛇名，身体细长而有斑纹。", "words":[], "sentences":[ "这种蚺蛇的毒液极其危险，要小心。" ]}
+{"seq": 7168, "word": "啴", "pinyin": "tān", "definition": "喘气声，形容喘息、呼吸困难等。", "words":[], "sentences":[ "他跑着逃脱，很快就喘得很啴。" ]}
+{"seq": 7169, "word": "䎃", "pinyin": "xiǎo", "definition": "小虫子的通称。", "words":[], "sentences":[ "这个季节很多种类的䎃虫在飞。" ]}
+{"seq": 7170, "word": "崧", "pinyin": "sōng", "definition": "高山。传说中五岳之一泰山的别称。", "words":[], "sentences":[ "他爬到崧山顶，俯瞰了整个城市的美景。" ]}
+{"seq": 7171, "word": "崟", "pinyin": "yín", "definition": "山地沟壑。", "words":[], "sentences":[ "这里的路很崎岖，到处是崟崎怪石。" ]}
+{"seq": 7172, "word": "崞", "pinyin": "guō", "definition": "尾巴末端向下弯曲的猕猴。", "words":[], "sentences":[ "在深山中，可以看到很多崞猴在树枝间攀爬。" ]}
+{"seq": 7173, "word": "崒", "pinyin": "zú", "definition": "山间凸起的峰壁等。", "words":[], "sentences":[ "登上崒顶，你会领略到无边无际的美景。" ]}
+{"seq": 7174, "word": "崌", "pinyin": "jù", "definition": "山多峭壁。", "words":[], "sentences":[ "这里的崖壁陡峭，很难攀爬。" ]}
+{"seq": 7175, "word": "崡", "pinyin": "háng", "definition": "山名。又称黄山。在安徽省南部，为中国著名名山之一。", "words":[], "sentences":[ "夏天去崡山，可以避暑、观光。" ]}
+{"seq": 7176, "word": "铏", "pinyin": "xíng", "definition": "一种铜制的打击乐器，形状像锣但更扁，常用于京剧音乐伴奏。", "words":[], "sentences":[ "京剧表演中，铏常常用来打节奏。" ]}
+{"seq": 7177, "word": "𫓯", "pinyin": "jī", "definition": "", "words":[], "sentences":[] }
+{"seq": 7178, "word": "𫟹", "pinyin": "", "definition": "", "words":[], "sentences":[] }
+{"seq": 7179, "word": "铕", "pinyin": "yǒu", "definition": "化学元素符号。金属元素，质硬、有延展性，容易在空气中被氧化。", "words":[], "sentences":[ "铕元素的存在，对人体、自然环境等都具有一定的影响。" ]}
+{"seq": 7180, "word": "𫟼", "pinyin": "", "definition": "", "words":[], "sentences":[] }
 
-，返回JSONL格式如：
-{"seq": 122, "word": "钟", "pinyin": "zhōng", "definition": "用于计量和报告时间的设备，通常由一个圆形表盘和一个或多个指针组成", "words":[ "时钟", "铃声"], "sentences":[ "这个房间里有一个大的墙上挂钟。", "我设置了三个不同的闹钟，因为我经常会睡过头。" ] }

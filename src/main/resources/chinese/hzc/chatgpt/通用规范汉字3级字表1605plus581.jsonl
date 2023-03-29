@@ -1,25 +1,20 @@
-针对如下每个汉字填写对应的信息(格式：seq,word)：
-seq,word
-7081,隺
-7082,堲
-7083,疍
-7084,𨺙
-7085,陴
-7086,烝
-7087,砮
-7088,㛚
-7089,哿
-7090,翀
-7091,翂
-7092,剟
-7093,𬳿
-7094,𫄨
-7095,绤
-7096,骍
-7097,𬘫
-7098,䂮
-7099,琎
-7100,珸
-
-，返回JSONL格式如：
-{"seq": 122, "word": "钟", "pinyin": "zhōng", "definition": "用于计量和报告时间的设备，通常由一个圆形表盘和一个或多个指针组成", "words":[ "时钟", "铃声"], "sentences":[ "这个房间里有一个大的墙上挂钟。", "我设置了三个不同的闹钟，因为我经常会睡过头。" ] }
+{"seq": 7081, "word": "隺", "pinyin": "hé", "definition": "群中的鸟飞行成V字形而成的队形。", "words":[], "sentences":[ "大雁飞向南方时，总是排成隺字形，非常有规律。" ] }
+{"seq": 7082, "word": "堲", "pinyin": "jí", "definition": "介于河流和土地之间的岸边；河滩。", "words":[], "sentences":[ "他坐在堲边，看着河水慢慢流淌。" ] }
+{"seq": 7083, "word": "疍", "pinyin": "shàn", "definition": "一种传统狗肉料理。", "words":[], "sentences":[ "在一些地方，人们喜欢吃疍肉，它是当地的特色美食。" ] }
+{"seq": 7084, "word": "𨺙", "pinyin": "yíng", "definition": "一种鸟类，又称白鹭。", "words":[], "sentences":[ "在湖边，他看到了一只𨺙在岸边觅食。" ] }
+{"seq": 7085, "word": "陴", "pinyin": "pí", "definition": "山路；山脊。", "words":[], "sentences":[ "他爬上山顶，看到了一条曲折的陴路。" ] }
+{"seq": 7086, "word": "烝", "pinyin": "zhēng", "definition": "火热。", "words":[], "sentences":[ "烈日当头，让人感到刻骨的烝热。" ] }
+{"seq": 7087, "word": "砮", "pinyin": "nǔ", "definition": "一种用来夹取物品的器具。", "words":[], "sentences":[ "他用砮夹住了一只金鱼，将它放回了池塘。" ] }
+{"seq": 7088, "word": "㛚", "pinyin": "bàng", "definition": "虎的吼声。", "words":[], "sentences":[ "深山里传来了一声㛚声，让人不由得心生寒意。" ] }
+{"seq": 7089, "word": "哿", "pinyin": "gé", "definition": "愚笨，无知。", "words":[], "sentences":[ "他虽然年轻，却不愿意表现出哿态。" ] }
+{"seq": 7090, "word": "翀", "pinyin": "chōng", "definition": "翱翔。", "words":[], "sentences":[ "鹰在空中翀翔，展翅高飞。" ] }
+{"seq": 7091, "word": "翂", "pinyin": "fēn", "definition": "鸟飞行时拍打翅膀的声音。", "words":[], "sentences":[ "天空中传来了阵阵翂动的声音，原来有一群鸟在飞行。" ] }
+{"seq": 7092, "word": "剟", "pinyin": "duō", "definition": "凿开。", "words":[], "sentences":[ "他用锤子和凿子剟开了一块砖头。" ] }
+{"seq": 7093, "word": "𬳿", "pinyin": "zǎn", "definition": "古时用于蒸馏酒。", "words":[], "sentences":[ "在古代，人们用𬳿来制作美酒。" ] }
+{"seq": 7094, "word": "𫄨", "pinyin": "chī", "definition": "夏季服装用的细布。", "words":[ "夏季服装"], "sentences":[ "古代人们在夏天也注重穿着，所以发明了夏季服装用的𫄨细布。"] }
+{"seq": 7095, "word": "绤", "pinyin": "xì", "definition": "汉代张衡发明的计时仪器，旋转一周定为一日。", "words":[], "sentences":[ "绤是我国古代非常重要的计时仪器之一。" ] }
+{"seq": 7096, "word": "骍", "pinyin": "xīng", "definition": "马毛色偏红黄。", "words":[], "sentences":[ "这匹骏马骍色鲜艳，非常漂亮。" ] }
+{"seq": 7097, "word": "𬘫", "pinyin": "měng", "definition": "一种珍贵的木材。", "words":[], "sentences":[ "那家具上使用的是非常昂贵的𬘫木，质地非常坚硬。" ] }
+{"seq": 7098, "word": "䂮", "pinyin": "liú", "definition": "乱石堆成的山峦。", "words":[], "sentences":[ "他攀上了附近的一座䂮山，俯瞰整个山谷。" ] }
+{"seq": 7099, "word": "琎", "pinyin": "jīn", "definition": "一种玉石。", "words":[], "sentences":[ "他收藏了很多珍稀的琎石，非常珍贵。" ] }
+{"seq": 7100, "word": "珸", "pinyin": "wú", "definition": "一种肚脐上的穴位。", "words":[], "sentences":[ "按摩珸穴可以缓解腰痛。" ] }
