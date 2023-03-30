@@ -1,0 +1,49 @@
+针对如下每个汉字填写对应的信息(格式：seq,word)：
+seq,word
+7801,鲪
+7802,鲬
+7803,橥
+7804,觭
+7805,鹠
+7806,鹡
+7807,糇
+7808,糈
+7809,翦
+7810,鹢
+7811,鹣
+7812,熛
+7813,潖
+7814,潵
+7815,㵐
+7816,澂
+7817,澛
+7818,瑬
+7819,潽
+7820,潾
+
+，返回JSONL格式如：
+{"seq": 122, "word": "钟", "pinyin": "zhōng", "definition": "用于计量和报告时间的设备，通常由一个圆形表盘和一个或多个指针组成", "words":[ "时钟", "铃声"], "sentences":[ "这个房间里有一个大的墙上挂钟。", "我设置了三个不同的闹钟，因为我经常会睡过头。" ] }
+
+
+
+
+{"seq": 7801, "word": "鲪", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7802, "word": "鲬", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7803, "word": "橥", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7804, "word": "觭", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7805, "word": "鹠", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7806, "word": "鹡", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7807, "word": "糇", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7808, "word": "糈", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7809, "word": "翦", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7810, "word": "鹢", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7811, "word": "鹣", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7812, "word": "熛", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7813, "word": "潖", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7814, "word": "潵", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7815, "word": "㵐", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7816, "word": "澂", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7817, "word": "澛", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7818, "word": "瑬", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7819, "word": "潽", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7820, "word": "潾", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
