@@ -1,13 +1,77 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 绝
+    type: 【动词】
+    phonetic: jue2
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: 绝句。格律诗的一种，分五言、七言两种。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 但向我且高吟一绝。（《西厢记》一本三折）
+      - trans: ❶断开;截断。
+        sentences:
+          - ancient: 今滕，绝长补短，将五十里也，犹可以为善国。（《孟子•滕文公上》）
+          - ancient: 秦王惊，自引而起,绝袖。（《战国策•燕策三》）
+          - ancient: 如怨如慕，如泣如诉，余音袅袅，不绝如缕。（《赤壁赋》）
+          - ancient: 归去来兮，请息交以绝游。（《归去来兮辞》）
+      - trans: ❷经过;渡过。
+        sentences:
+          - ancient: 假舟楫者，非能水也，而绝江河。（《劝学》）
+          - ancient: 夏四月,卫青复将六将军绝幕（通"漠"，沙漠），大克获。（《汉书•武帝纪》）
+          - ancient: 西当太白有鸟"道，可以横绝峨眉巅。（《蜀道难》）
+          - ancient: 绝云气,负青天，然后图南,且适南冥也。（《逍遥游》）
+      - trans: ❸断;尽。
+        sentences:
+          - ancient: 孔子绝粮陈、蔡。（《论衡•逢遇》）
+      - trans: ❹绝命;死。
+        sentences:
+          - ancient: 虽萎绝其亦何伤兮，哀众芳之芜秽。（《离骚》）
+          - ancient: 我命绝今日，魂去尸长留！（《孔雀东南飞》）
+      - trans: ❺隔开；隔断。
+        sentences:
+          - ancient: 至于夏水襄陵，沿溯阻绝。（《三峡》）
+      - trans: ❻停止;止歇。
+        sentences:
+          - ancient: 冰泉冷涩弦凝<绝>，凝<绝>不通声暂歇。（《琵琶行》）
+          - ancient: 忽然抚尺一下，群响毕绝。（《口技》）
+          - ancient: 【高考题例】御经筵，绝游宴，停不急务。（《明史•马文升传》）
+      - trans: ❼断绝;停止来往。
+        sentences:
+          - ancient: 秦甚憎齐，齐与楚从亲（交往密切）；楚诚能绝齐，秦愿献商、於之地六百里。（《吏记•屈原贾生列传》）
+      - trans: ❽超过。
+        sentences:
+          - ancient: 博见强志，过绝于人。（《汉书•刘歆传》）
+  
+  - word: 绝
+    type: 【形容词】
+    phonetic: jue2
+    tags:
+      - 高中
+    samples:
+      - trans: ❶到极点的;不能超越的。
+        sentences:
+          - ancient: 奇山异水，天下独绝。（《与朱元思书》）
+          - ancient: 满坐宾客无不伸颈，侧目，微笑，默叹，以为妙绝。（《口技》）
+      - trans: ❷极远的。
+        sentences:
+          - ancient: 寡人地绝兵远，不能攻也。（《史记•苏秦列传》）
+      - trans: ❸隔绝的;封闭的。
+        sentences:
+          - ancient: 【动词】率妻子邑人来此绝境。（《桃花源记》）
+  
+  - word: 绝
+    type: 【副词】
+    phonetic: jue2
+    tags:
+      - 高中
+    samples:
+      - trans: ❶极其;非常。
+        sentences:
+          - ancient: 四顾奇峰错列，众壑纵横，真黄山绝胜处。（明•徐霞客《游黄山日记》）
+          - ancient: 最是一年春好处,绝胜烟柳满皇都。（唐•韩愈《早春呈水部张十八员外》）
+          - ancient: 【高考题例】济从骑有一马绝难乘，少能骑者。（《世说新语•家有名士》）
+  
+      - trans: ❷绝对;完全。
+        sentences:
+          - ancient: 而心目耳力俱穷，绝无踪响。（《促织》）

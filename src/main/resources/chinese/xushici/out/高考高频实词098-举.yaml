@@ -1,13 +1,146 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
-    tags:
-      - 高中
-    samples:
-      - trans: ❶xxxx
-        sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+- word: 举
+  type: 【动词】
+  phonetic: ju3
+  tags:
+  - 高中
+  samples:
+  - trans: ❶拾起;升起。
+    sentences:
+    - ancient: "<举>手长劳劳,二情同依依。（《孔雀东南飞》）"
+      url: xxxx
+      vernacular: xxxx
+    - ancient: <举>头望明月，低头思故乡。（唐•李白《静夜思》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: <举>所佩玉玦以示之者三。（《鸿门宴》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❷拿；用。
+    sentences:
+    - ancient: 吾不能<举>全吴之地，十万之众，受制于人。（《资治通鉴•汉纪五十七》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❸行动。
+    sentences:
+    - ancient: "此妇无礼节,<举>动自专由。（《孔雀东南飞》）"
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 乃治戎讲武，以俟（等待）大<举>。（《三国志•蜀书•诸葛亮传》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 何故景思高<举>，自令放为？（《渔父》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❹提出；举出。
+    sentences:
+    - ancient: "其称文小而其指（旨趣）极大，<举>类迩（er3,近）而见义远。（《史记•屈原贾笙列传》）"
+      url: xxxx
+      vernacular: xxxx
+    - ancient: "臣诚愚鄙，不达事机，略<举>所见十条,辄以上闻圣听。（唐•魏徵《十渐疏》）"
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 不愤不启，<举>一隅不以三隅反，则弗复也。（《史记•孔子世家》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❺推荐;举荐。
+    sentences:
+    - ancient: 前太守臣逵察臣孝廉，后刺史臣荣<举>臣秀才。（《陈情表》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 将军向宠……先帝称之曰能，是以众议<举>宠为督。（《出师表》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 永元中，<举>孝廉不行，连辟公府不就。（《张衡传》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 【高考题例】<举>孝廉，除郎中。（《晋书•鲁芝传》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❻提拔;任用。
+    sentences:
+    - ancient: 人君无愚、智、贤、不肖，莫不欲求忠以自为，<举>贤以自佐。（《史记•屈原贾生列传》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❼发动。
+    sentences:
+    - ancient: 远方之能疑者，并<举>而争起矣。（《论积贮疏》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 今亡亦死，<举>大计亦死，等死（同样是死），死国可乎？（《陈涉世家》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❽占领;攻下。
+    sentences:
+    - ancient: 南取汉中，西<举>巴、蜀，东割膏腴之地，北收要害之郡。（《过秦论》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 戍卒叫，函谷<举>，楚人一炬，可怜焦土！（《阿房宫赋》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❾举行;实行。
+    sentences:
+    - ancient: 德政不<举>，威刑不肃。（三国蜀•诸葛亮《答法正书》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❿科举考试;参加科举考试。
+    sentences:
+    - ancient: 有儒生柳毅者，应<举>下第。（《柳毅传》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 董生<举>进士，连不得志于有司。（唐•韩愈《送董邵南游河北序》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: 11养育;抚养。
+    sentences:
+    - ancient: "生男慎莫<举>,生女哺用脯。（汉，陈琳《饮马长城窟行》）"
+      url: xxxx
+      vernacular: xxxx
+  - trans: 12检举;揭发。
+    sentences:
+    - ancient: 恤孤寡，<举>阿党。（唐•柳宗元《时令论上》）
+      url: xxxx
+      vernacular: xxxx
+- word: 举
+  type: 【形容词】
+  phonetic: ju3
+  tags:
+  - 高中
+  samples:
+  - trans: ❶全;整个儿。
+    sentences:
+    - ancient: <举>世混浊而我独清，众人皆醉而我独醒，是以见放。（《史记•屈原贾生列传》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: "大喜，笼归，<举>家庆贺，虽连城拱璧不啻（chi4,止）也。（《促织》）"
+      url: xxxx
+      vernacular: xxxx
+    - ancient: "愿<举>国为内臣，比诸侯之列。（,《荆轲刺秦王》）"
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 且<举>世誉之而不加劝，<举>世非之而不加沮。（《逍遥游》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: "【高考题例】弘微少孤，事兄如父,兄弟友穆之至，<举>世莫及也。《宋书•谢弘微传》）"
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❷尽;完。
+    sentences:
+    - ancient: 杀人如不能<举>，刑人如恐不胜。（《史记•项羽本纪》）
+      url: xxxx
+      vernacular: xxxx
+- word: 举
+  type: 【副词】
+  phonetic: ju3
+  tags:
+  - 高中
+  samples:
+  - trans: 全；皆。
+    sentences:
+    - ancient: 君<举>不信群臣乎？（《左传•哀公六年》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 王如用予，则岂徒齐民安，天下之民<举>安。（《孟子•公孙丑下》）
+      url: xxxx
+      vernacular: xxxx

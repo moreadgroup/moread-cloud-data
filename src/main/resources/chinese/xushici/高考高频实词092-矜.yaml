@@ -1,13 +1,40 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 矜
+    type: 【动词】
+    phonetic: jin1
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶损耗。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 愁其五脏以为仁义,矜其血气以规法度。（《庄子・在宥》）
+      - trans:  ❷挥动。
+        sentences:
+          - ancient: 手足矜者,兵革之色也。（《吕氏春秋•重言》）
+      - trans:  ❸怜悯；同情。	
+        sentences:
+          - ancient: 伏惟圣朝以孝治天下，凡在故老，犹蒙矜育况臣孤苦，特为尤甚。（《陈情表》）
+          - ancient: 愿陛下矜悯愚诚，听臣微志，庶刘侥幸，保卒余年。（《陈情表》）
+          - ancient: 【高考题例】皆令门下覆视，有据法当死而情可矜者,录状以闻。（《通鉴经事本末•贞观君臣论治》）
+      - trans: ❹顾惜。
+        sentences:
+          - ancient: 不矜细行，终累大德。（《尚书•旅葵》）
+      - trans:  ❺自夸；自得。
+        sentences:
+          - ancient: 且臣少仕伪朝，历职郎署，本图宦达，不矜名节。（《陈情表》）
+          - ancient: 陈康肃公善射，当世无双，公亦以此自矜。（《卖油翁》）。
+          - ancient: 【高考题例】宰相李揆矜能忌贤，以休烈修国史与己斉列，嫉之，奏为国子祭酒。（《旧唐书•于休烈传》）
+  
+  - word: 矜
+    type: 【形容词】
+    phonetic: jin1
+    tags:
+      - 高中
+    samples:  
+      - trans:  ❶庄重;慎重。
+        sentences:
+          - ancient: 君子矜而不争，群而不党（结成团伙）。（《论语•卫灵公》）
+      - trans:  ❷得意的;骄傲的。
+        sentences:
+          - ancient: 未尝敢以矜气作之，惧其偃蹇而骄也。（《答韦中立论师道书》）
