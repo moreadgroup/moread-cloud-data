@@ -1,119 +1,119 @@
 ---
 words:
-- word: 解
-  type: 【名词】
-  phonetic: jie3
-  tags:
-  - 高中
-  samples:
-  - trans: ❶见识;见解。
-    sentences:
-    - ancient: 融玄义无师法，而神<解>过人。（《南史•张融传》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❷乐曲或诗歌的章节。
-    sentences:
-    - ancient: "《古今乐录》曰：\"伧（cang1,粗俗）歌以一句为一<解>，中国以一章为一<解>。（《乐府诗集•相和歌辞解题》）"
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 乃歌一<解>以送之。（唐•李贺《送沈亚之歌》并序）
-      url: xxxx
-      vernacular: xxxx
-- word: 解
-  type: 【动词】
-  phonetic: jie3
-  tags:
-  - 高中
-  samples:
-  - trans: ❶剖开;分割肢体。
-    sentences:
-    - ancient: 庖丁为文惠君<解>牛。（《庄子•养生主》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: "宰夫将<解>鼋（yuan2,大鳖）。（《左传•宣公四年》）"
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 虽体<解>吾犹未变会，岂余心之可惩？（《离骚》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 【高考题例】宁海民陈德仲支<解>黎异，异妻屡诉不得直。鼎乃逮德仲，鞠实，立正其罪。（《明史•熊鼎传》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❷分散；裂开。
-    sentences:
-    - ancient: 晋文公<解>曹地以分诸侯。（《国语•鲁语上》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: "秦之积衰，天下土崩瓦<解>,虽有周旦之材，无所复陈其巧。（《史记•秦始皇本纪》）"
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❸解开;解下。
-    sentences:
-    - ancient: "善结,无绳约（yue1,绳索）而不可<解>。（《老子》二十七章）"
-      url: xxxx
-      vernacular: xxxx
-    - ancient: <解>其棕缚，以五年为期，必复之全之。（《病梅馆记》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: "于是有缚广武君而致（送到）戏（旗帜）下者,信乃<解>其缚（绳索），东乡（向）坐，西乡对,师事（侍奉）之。（《史记•淮阴侯列传》）"
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❹解除;消除。
-    sentences:
-    - ancient: 挫其锐，<解>其纷（杂乱）。（《老子》五十六章）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 今有一言，可以<解>燕国之患而报将军之仇者，何如？（《战国策•燕策三》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: "【高考题例】后怒<解>，方被引入,谓日：\"公意乃尔,朕复何望!\" 护儿因不敢言。（《北史•来护儿传》）"
-      url: xxxx
-      vernacular: xxxx
-  - trans: "❺摆脱（困境）,认……中解脱。"
-    sentences:
-    - ancient: 沛公以樊哙、张良故，得<解>归。（《史记•高祖本纪》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❻溶解;溶化。
-    sentences:
-    - ancient: 于时冰皮始<解>，波色乍明。（《满井游记》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❼排解;调停。
-    sentences:
-    - ancient: 所贵于天下之士者，为人排患、释难、<解>纷乱而无所取也。（《战国策•赵策三》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❽解说;解析。
-    sentences:
-    - ancient: 孔子自<解>，安能<解>乎？（《论衡•问孔》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 师者，所以传道受业<解>惑也。（《师说》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❾懂得;理解。
-    sentences:
-    - ancient: 大惑者，终身不<解>。（《庄子•天地》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 好读书，不求甚<解>。（晋•陶渊明《五柳先生传》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 惑而不从师，其为惑也，终不<解>矣。（《师说》）
-      url: xxxx
-      vernacular: xxxx
-- word: 解
-  type: 【形容词】
-  phonetic: xie4
-  tags:
-  - 高中
-  samples:
-  - trans: 通"懈"。懈怠。
-    sentences:
-    - ancient: 秦人熹，秦军<解>，因大破之。（《史记•高祖本纪》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: "而（李）广身自以大黄（弓弩名）射其裨将，杀数人,胡虏益<解>。（《史记•李将荤列传》）"
-      url: xxxx
-      vernacular: xxxx
+  - word: 解
+    type: 【名词】
+    phonetic: jie3
+    tags:
+      - 高中
+    samples:
+      - trans: ❶见识;见解。
+        sentences:
+          - ancient: 融玄义无师法，而神<解>过人。（《南史•张融传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷乐曲或诗歌的章节。
+        sentences:
+          - ancient: "《古今乐录》曰：\"伧（cang1,粗俗）歌以一句为一<解>，中国以一章为一<解>。（《乐府诗集•相和歌辞解题》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 乃歌一<解>以送之。（唐•李贺《送沈亚之歌》并序）
+            url: xxxx
+            vernacular: xxxx
+  - word: 解
+    type: 【动词】
+    phonetic: jie3
+    tags:
+      - 高中
+    samples:
+      - trans: ❶剖开;分割肢体。
+        sentences:
+          - ancient: 庖丁为文惠君<解>牛。（《庄子•养生主》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "宰夫将<解>鼋（yuan2,大鳖）。（《左传•宣公四年》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 虽体<解>吾犹未变会，岂余心之可惩？（《离骚》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】宁海民陈德仲支<解>黎异，异妻屡诉不得直。鼎乃逮德仲，鞠实，立正其罪。（《明史•熊鼎传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷分散；裂开。
+        sentences:
+          - ancient: 晋文公<解>曹地以分诸侯。（《国语•鲁语上》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "秦之积衰，天下土崩瓦<解>,虽有周旦之材，无所复陈其巧。（《史记•秦始皇本纪》）"
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸解开;解下。
+        sentences:
+          - ancient: "善结,无绳约（yue1,绳索）而不可<解>。（《老子》二十七章）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <解>其棕缚，以五年为期，必复之全之。（《病梅馆记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "于是有缚广武君而致（送到）戏（旗帜）下者,信乃<解>其缚（绳索），东乡（向）坐，西乡对,师事（侍奉）之。（《史记•淮阴侯列传》）"
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹解除;消除。
+        sentences:
+          - ancient: 挫其锐，<解>其纷（杂乱）。（《老子》五十六章）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 今有一言，可以<解>燕国之患而报将军之仇者，何如？（《战国策•燕策三》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "【高考题例】后怒<解>，方被引入,谓日：\"公意乃尔,朕复何望!\" 护儿因不敢言。（《北史•来护儿传》）"
+            url: xxxx
+            vernacular: xxxx
+      - trans: "❺摆脱（困境）,认……中解脱。"
+        sentences:
+          - ancient: 沛公以樊哙、张良故，得<解>归。（《史记•高祖本纪》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❻溶解;溶化。
+        sentences:
+          - ancient: 于时冰皮始<解>，波色乍明。（《满井游记》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❼排解;调停。
+        sentences:
+          - ancient: 所贵于天下之士者，为人排患、释难、<解>纷乱而无所取也。（《战国策•赵策三》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❽解说;解析。
+        sentences:
+          - ancient: 孔子自<解>，安能<解>乎？（《论衡•问孔》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 师者，所以传道受业<解>惑也。（《师说》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❾懂得;理解。
+        sentences:
+          - ancient: 大惑者，终身不<解>。（《庄子•天地》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 好读书，不求甚<解>。（晋•陶渊明《五柳先生传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 惑而不从师，其为惑也，终不<解>矣。（《师说》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 解
+    type: 【形容词】
+    phonetic: xie4
+    tags:
+      - 高中
+    samples:
+      - trans: 通"懈"。懈怠。
+        sentences:
+          - ancient: 秦人熹，秦军<解>，因大破之。（《史记•高祖本纪》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "而（李）广身自以大黄（弓弩名）射其裨将，杀数人,胡虏益<解>。（《史记•李将荤列传》）"
+            url: xxxx
+            vernacular: xxxx

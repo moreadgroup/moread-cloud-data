@@ -8,32 +8,48 @@ words:
     samples:
       - trans: ❶景物;景致。
         sentences:
-          - ancient: 况阳春召我以烟景，大块假我以文章。（唐•李白《春夜宴从弟桃花园序》）
-          - ancient: 四时之景不同，而乐亦无穷也。（《醉翁亭记》）
-          - ancient: 细瞻景状，与村东大佛阁逼似（非常相似）。（《促织》）
+          - ancient: 况阳春召我以烟<景>，大块假我以文章。（唐•李白《春夜宴从弟桃花园序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 四时之<景>不同，而乐亦无穷也。（《醉翁亭记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 细瞻<景>状，与村东大佛阁逼似（非常相似）。（《促织》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷阳光。泛指日月的光辉。
         sentences:
-          - ancient: 景翳翳（yi4,昏暗）以将入，抚孤松而盘桓。（《归去来兮辞》）
-          - ancient: 薄日月，伏光景。（唐•韩愈《杂说一》）
-          - ancient: 至若春和景明，波澜不惊，上下天光，一碧万顷。（《岳阳楼记》）
-  
+          - ancient: "<景>翳翳（yi4,昏暗）以将入，抚孤松而盘桓。（《归去来兮辞》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 薄日月，伏光<景>。（唐•韩愈《杂说一》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 至若春和<景>明，波澜不惊，上下天光，一碧万顷。（《岳阳楼记》）
+            url: xxxx
+            vernacular: xxxx
   - word: 景
     type: 【动词】
     phonetic: jing3
     tags:
       - 高中
-    samples:  
+    samples:
       - trans: 景仰;崇敬。
         sentences:
-          - ancient: 后进之士，翕然（一致的样子）景慕。（唐•杨炯《〈王勃集〉序》）
-  
+          - ancient: 后进之士，翕然（一致的样子）<景>慕。（唐•杨炯《〈王勃集〉序》）
+            url: xxxx
+            vernacular: xxxx
   - word: 景
     type: 【形容词】
     phonetic: jing3
     tags:
       - 高中
-    samples: 
-      - trans:  大。
+    samples:
+      - trans: 大。
         sentences:
-          - ancient: 凡百元首，承天景命，善始者实繁，克终者盖寡。（《谏太宗十思疏》）
-          - ancient: 太史公曰:《诗》有之，"高山仰止，景行行止"。（《史记•孔子世家》）
+          - ancient: 凡百元首，承天<景>命，善始者实繁，克终者盖寡。（《谏太宗十思疏》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 太史公曰:《诗》有之，"高山仰止，<景>行行止"。（《史记•孔子世家》）
+            url: xxxx
+            vernacular: xxxx
