@@ -1,369 +1,215 @@
 ---
 quizzes:
-  - word: 就
-    type: 【动词】
-    phonetic: jiu4
-    trans: ❶接近;趋向。
-    ancient: 望之不似人君，<就>之而不见所畏焉。（《孟子•梁惠王上》）
-    url: xxxx
-    vernacular: （梁襄王）远远看上去不像个国君的样子，走近他也看不到有什么使人敬畏的地方。
-  - word: 就
-    type: 【动词】
-    phonetic: jiu4
-    trans: ❶接近;趋向。
-    ancient: 故木受绳则直，金<就>砺（li，磨刀石）则利。（《劝学》）
-    url: xxxx
-    vernacular: 所以木材用墨线量过再经斧锯加工就能取直，刀剑在磨刀石上磨过就能变得锋利
-  - word: 就
-    type: 【动词】
-    phonetic: jiu4
-    trans: ❶接近;趋向。
-    ancient: 三径<就>荒，松菊犹存。（《归去来兮辞》）
-    url: xxxx
-    vernacular: 院子里的小路快要荒芜了，松树菊花还长在那里
-  - word: 就
-    type: 【动词】
-    phonetic: jiu4
-    trans: ❶接近;趋向。
-    ancient: "诚如是也,民归之，由水之<就>下，沛然谁能御之？（《孟子见梁襄王》）"
-    url: xxxx
-    vernacular: 如果像这样，老百姓就归附他，就像水往低处流一样，这哗啦啦的汹涌势头，谁又能够阻挡得了呢？
-  - word: 就
-    type: 【动词】
-    phonetic: jiu4
-    trans: ❷登上;踏上。
-    ancient: 于是荆轲遂<就>车而去，终已不顾。（《荆轲刺秦王》）
-    url: xxxx
-    vernacular: 于是荆轲就上车离去，始终不曾回头看一眼。
-  - word: 就
-    type: 【动词】
-    phonetic: jiu4
-    trans: ❸前往。
-    ancient: 济沅湘以南征兮，<就>重华而陈词。（《离骚》）
-    url: xxxx
-    vernacular: "渡过沅水、湘江来向南求(圣明之道),来接近极其(鲜丽)的花朵并且向舜帝陈述言词。"
-  - word: 就
-    type: 【动词】
-    phonetic: jiu4
-    trans: ❸前往。
-    ancient: 特以为智穷罪极，不能自免，卒<就>死耳。（《报任安书》）
-    url: xxxx
-    vernacular: 只会认为我是智尽无能、罪大恶极，不能免于死刑，而终于走向死路的啊！
-  - word: 就
-    type: 【动词】
-    phonetic: jiu4
-    trans: ❸前往。
-    ancient: "仆虽怯懦,欲苟活，亦颇识去<就>之分矣，何至自沉溺缧绁之辱哉!（《报任安书》）"
-    url: xxxx
-    vernacular: 我虽然怯懦软弱，想苟活在人世，但也颇能区分弃生就死的界限，哪会自甘沉溺于牢狱生活而忍受屈辱呢？
-  - word: 就
-    type: 【动词】
-    phonetic: jiu4
-    trans: ❸前往。
-    ancient: 【高考题例】遣谒者内常侍吴承倩<就>私第宣慰。（《旧唐书-于休烈传》）
-    url: xxxx
-    vernacular: 派遣谒者内常侍吴承倩去宅第宣旨慰问。
-  - word: 就
-    type: 【动词】
-    phonetic: jiu4
-    trans: ❹承受;接受。
-    ancient: 臣具以表闻，辞不<就>职。（《陈情表》）
-    url: xxxx
-    vernacular: 臣因为供奉赡养祖母的事无人承担，辞谢不接受任命。
-  - word: 就
-    type: 【动词】
-    phonetic: jiu4
-    trans: ❹承受;接受。
-    ancient: 诚知其如此，虽万乘之公相，吾不以一日辍汝而<就>也。（《祭十二郎文》）
-    url: xxxx
-    vernacular: 假如真的知道会这样，即使让我做高官厚禄的公卿宰相，我也不愿因此离开你一天而去赴任啊!
-  - word: 就
-    type: 【动词】
-    phonetic: jiu4
-    trans: ❹承受;接受。
-    ancient: 臣知欺大王之罪当诛，臣请<就>汤镬。（《廉颇蔺相如列传》）
-    url: xxxx
-    vernacular: 我知道欺骗大王是应该被诛杀的，我愿意接受汤镬之刑
-  - word: 就
-    type: 【动词】
-    phonetic: jiu4
-    trans: ❹承受;接受。
-    ancient: 是以<就>极刑而无愠色。（《报任安书》）
-    url: xxxx
-    vernacular: 因此受到最残酷的刑罚也没有怨怒之色。
-  - word: 就
-    type: 【动词】
-    phonetic: jiu4
-    trans: ❺完成;形成。
-    ancient: 妖出，祸安得不<就>？（《论衡•异虚》）
-    url: xxxx
-    vernacular: 凶象出现，灾祸怎么能不成就？
-  - word: 就
-    type: 【动词】
-    phonetic: jiu4
-    trans: ❺完成;形成。
-    ancient: 草创未<就>，会遭此祸，惜其不成。（《报任安书》）
-    url: xxxx
-    vernacular: 刚开始草创还没有成书，恰恰遭遇到这场灾祸，我痛惜这部书不能完成
-  - word: 就
-    type: 【动词】
-    phonetic: jiu4
-    trans: ❺完成;形成。
-    ancient: 轲自知事不<就>，倚柱而笑。（《荆轲刺秦王》）
-    url: xxxx
-    vernacular: 荆轲自己知道事情不能成功了，靠着柱子笑着
-  - word: 就
-    type: 【动词】
-    phonetic: jiu4
-    trans: ❻就职;赴任。
-    ancient: 永元中，举孝廉不行，连辟公府不<就>。（《张衡传》）
-    url: xxxx
-    vernacular: 永元年间，他被推举为孝廉，却不应荐，屡次被公府征召，都没有就任。
-  - word: 就
-    type: 【动词】
-    phonetic: jiu4
-    trans: ❻就职;赴任。
-    ancient: 周任有言曰："陈力<就>列，不能者止。"（《季氏将伐颛臾》）
-    url: xxxx
-    vernacular: 周任有句话说：‘能施展其才能则就其职位，不能这样做就不就其职位。’
-  - word: 就
-    type: 【副词】
-    phonetic: jiu4
-    trans: "即；便。\t举"
-    ancient: "必以‘文武’为谥,请依何等,<就>加诏许之,谥曰‘忠武’。（《晋书•景帝纪》）"
-    url: xxxx
-    vernacular: xxxx
-  - word: 就
-    type: 【副词】
-    phonetic: jiu4
-    trans: "即；便。\t举"
-    ancient: 及扑入手，已股落腹裂，斯须（一会儿）<就>毙。（《促织》）
-    url: xxxx
-    vernacular: 等抓到手后，（蟋蟀）的腿已掉了，肚子也破了，一会儿就死了。
-  - word: 就
-    type: 【介词】
-    phonetic: jiu4
-    trans: 就着;根据。
-    ancient: 然<就>其不忘一芋，固已贤夫并老人而视芋之者。（清•周容《芋老人传》）
-    url: xxxx
-    vernacular: "从他能够不忘怀那顿芋头看来,应该是好过那些连老人都把他看成像芋头一样的人吧!"
-  - word: 就
-    type: 【连词】
-    phonetic: jiu4
-    trans: 假如；即使。
-    ancient: 法孝直若在，则能制主上令不东行;<就>复东行，必不倾危矣。（《三国志•蜀书•法正传》）
-    url: xxxx
-    vernacular: 若法正还活着，必能阻止刘备东征，就算东征了，法正也一定能让刘备，不至于败得这么彻底！
   - word: 举
     type: 【动词】
     phonetic: ju3
     trans: ❶拾起;升起。
     ancient: "<举>手长劳劳,二情同依依。（《孔雀东南飞》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 两人忧伤不止地举手告别，双方都依依不舍情意绵绵。
   - word: 举
     type: 【动词】
     phonetic: ju3
     trans: ❶拾起;升起。
     ancient: <举>头望明月，低头思故乡。（唐•李白《静夜思》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "我抬起头来,看那天窗外空中的明月,不由得低头沉思,想起远方的家乡。"
   - word: 举
     type: 【动词】
     phonetic: ju3
     trans: ❶拾起;升起。
     ancient: <举>所佩玉玦以示之者三。（《鸿门宴》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 举起（他）所佩带的玉玦向项羽示意多次
   - word: 举
     type: 【动词】
     phonetic: ju3
     trans: ❷拿；用。
     ancient: 吾不能<举>全吴之地，十万之众，受制于人。（《资治通鉴•汉纪五十七》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "我不能拿整个吴国的土地,(以及)数万民众,被别人控制。"
   - word: 举
     type: 【动词】
     phonetic: ju3
     trans: ❸行动。
     ancient: "此妇无礼节,<举>动自专由。（《孔雀东南飞》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 这个媳妇不懂得礼节，行动又是那样自专自由。
   - word: 举
     type: 【动词】
     phonetic: ju3
     trans: ❸行动。
     ancient: 乃治戎讲武，以俟（等待）大<举>。（《三国志•蜀书•诸葛亮传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "于是开始练兵习武,以待将来大举进军中原"
   - word: 举
     type: 【动词】
     phonetic: ju3
     trans: ❸行动。
     ancient: 何故景思高<举>，自令放为？（《渔父》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 为什么想得过深又自命清高，以至让自己落了个放逐的下场？
   - word: 举
     type: 【动词】
     phonetic: ju3
     trans: ❹提出；举出。
     ancient: "其称文小而其指（旨趣）极大，<举>类迩（er3,近）而见义远。（《史记•屈原贾笙列传》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 就其文字来看，不过是寻常事情，但是它的旨趣是极大的，列举的是近事，而表达的意思却十分深远。
   - word: 举
     type: 【动词】
     phonetic: ju3
     trans: ❹提出；举出。
     ancient: "臣诚愚鄙，不达事机，略<举>所见十条,辄以上闻圣听。（唐•魏徵《十渐疏》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 我确实愚笨无知，看不清事理机缘，大略举出所见十条，把它奏明圣上。
   - word: 举
     type: 【动词】
     phonetic: ju3
     trans: ❹提出；举出。
-    ancient: 不愤不启，<举>一隅不以三隅反，则弗复也。（《史记•孔子世家》）
+    ancient: 不愤不启，不悱不发。<举>一隅不以三隅反，则弗复也。（《史记•孔子世家》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 不到他想弄明白而不得的时候，不去开导他;不到他想出来却说不出来的时候，不去启发他。教给他一个方面的东西，他却不能由此而推知其他三个方面的东西，那就不再教他了。
   - word: 举
     type: 【动词】
     phonetic: ju3
     trans: ❺推荐;举荐。
     ancient: 前太守臣逵察臣孝廉，后刺史臣荣<举>臣秀才。（《陈情表》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 先有名叫逵的太守察举臣为孝廉，后又有名叫荣的刺史推举臣为优秀人才。
   - word: 举
     type: 【动词】
     phonetic: ju3
     trans: ❺推荐;举荐。
-    ancient: 将军向宠……先帝称之曰能，是以众议<举>宠为督。（《出师表》）
+    ancient: 将军向宠，先帝称之曰能，是以众议<举>宠为督。（《出师表》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "将军向宠,过去的皇上称赞他的才能,所以大家商量推荐他为都督。"
   - word: 举
     type: 【动词】
     phonetic: ju3
     trans: ❺推荐;举荐。
     ancient: 永元中，<举>孝廉不行，连辟公府不就。（《张衡传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 永元年间，他被推举为孝廉，却不应荐，屡次被公府征召，都没有就任。
   - word: 举
     type: 【动词】
     phonetic: ju3
     trans: ❺推荐;举荐。
     ancient: 【高考题例】<举>孝廉，除郎中。（《晋书•鲁芝传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 华歆被举荐孝廉，任命为郎中
   - word: 举
     type: 【动词】
     phonetic: ju3
     trans: ❻提拔;任用。
     ancient: 人君无愚、智、贤、不肖，莫不欲求忠以自为，<举>贤以自佐。（《史记•屈原贾生列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 国君无论愚笨或明智、贤明或昏庸，没有不想求得忠臣来为自己服务，选拔贤才来辅助自己的。
   - word: 举
     type: 【动词】
     phonetic: ju3
     trans: ❼发动。
     ancient: 远方之能疑者，并<举>而争起矣。（《论积贮疏》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 边远地方敢于同皇上对抗的人，就一同举兵起来造反了。
   - word: 举
     type: 【动词】
     phonetic: ju3
     trans: ❼发动。
     ancient: 今亡亦死，<举>大计亦死，等死（同样是死），死国可乎？（《陈涉世家》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "现在逃跑是死,发动起义也是死,同样是死,为国事而死好吗?"
   - word: 举
     type: 【动词】
     phonetic: ju3
     trans: ❽占领;攻下。
     ancient: 南取汉中，西<举>巴、蜀，东割膏腴之地，北收要害之郡。（《过秦论》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 向南夺取汉中，向西攻取巴、蜀，向东割取肥沃的地区，向北占领非常重要的地区。
   - word: 举
     type: 【动词】
     phonetic: ju3
     trans: ❽占领;攻下。
     ancient: 戍卒叫，函谷<举>，楚人一炬，可怜焦土！（《阿房宫赋》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: （结果）戍边的陈涉、吴广一声呼喊，函谷关被攻下，楚项羽放一把火，可惜（华丽的阿房宫）化为了一片焦土。
   - word: 举
     type: 【动词】
     phonetic: ju3
     trans: ❾举行;实行。
     ancient: 德政不<举>，威刑不肃。（三国蜀•诸葛亮《答法正书》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 不采取有益于民的政治措施，没有树立严峻的法律威严。
   - word: 举
     type: 【动词】
     phonetic: ju3
     trans: ❿科举考试;参加科举考试。
     ancient: 有儒生柳毅者，应<举>下第。（《柳毅传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 有一位书生柳毅，到京城长安参加科举考试，没有考取。
   - word: 举
     type: 【动词】
     phonetic: ju3
     trans: ❿科举考试;参加科举考试。
     ancient: 董生<举>进士，连不得志于有司。（唐•韩愈《送董邵南游河北序》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 董生被推举参加进士科考试，连续多年不被主考官赏识。
   - word: 举
     type: 【动词】
     phonetic: ju3
     trans: 11养育;抚养。
     ancient: "生男慎莫<举>,生女哺用脯。（汉，陈琳《饮马长城窟行》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 生下男孩千万不要养，生下女孩用肉来哺。
   - word: 举
     type: 【动词】
     phonetic: ju3
     trans: 12检举;揭发。
     ancient: 恤孤寡，<举>阿党。（唐•柳宗元《时令论上》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "救济孤寡群众,揭发徇私枉法的人。"
   - word: 举
     type: 【形容词】
     phonetic: ju3
     trans: ❶全;整个儿。
     ancient: <举>世混浊而我独清，众人皆醉而我独醒，是以见放。（《史记•屈原贾生列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 全世界混浊却只有我一人清白，大家都醉了却只有我一人清醒，（我）因此被放逐。
   - word: 举
     type: 【形容词】
     phonetic: ju3
     trans: ❶全;整个儿。
     ancient: "大喜，笼归，<举>家庆贺，虽连城拱璧不啻（chi4,止）也。（《促织》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 成名特别高兴，用笼子装上提回家，全家庆贺，把它看得比价值连城的宝玉还珍贵
   - word: 举
     type: 【形容词】
     phonetic: ju3
     trans: ❶全;整个儿。
-    ancient: "愿<举>国为内臣，比诸侯之列。（,《荆轲刺秦王》）"
+    ancient: 愿<举>国为内臣，比诸侯之列。（《荆轲刺秦王》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 愿意全国上下都做秦国的臣民，排在诸侯的行列里
   - word: 举
     type: 【形容词】
     phonetic: ju3
     trans: ❶全;整个儿。
     ancient: 且<举>世誉之而不加劝，<举>世非之而不加沮。（《逍遥游》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 宋荣子是那种世上的人们都赞誉他也不会让他感到鼓舞，世上所有的人都诽谤他，他也并不因此就感到沮丧
   - word: 举
     type: 【形容词】
     phonetic: ju3
     trans: ❶全;整个儿。
     ancient: "【高考题例】弘微少孤，事兄如父,兄弟友穆之至，<举>世莫及也。《宋书•谢弘微传》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 谢弘微从小失去父母，事奉兄长如同事奉父亲，兄弟之间非常友爱和睦，当代没有人能够赶得上。
   - word: 举
     type: 【形容词】
     phonetic: ju3
     trans: ❷尽;完。
     ancient: 杀人如不能<举>，刑人如恐不胜。（《史记•项羽本纪》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 杀人只担心不能杀完，对人用刑只担心不能用尽
   - word: 举
     type: 【副词】
     phonetic: ju3
@@ -375,9 +221,9 @@ quizzes:
     type: 【副词】
     phonetic: ju3
     trans: 全；皆。
-    ancient: 王如用予，则岂徒齐民安，天下之民<举>安。（《孟子•公孙丑下》）
+    ancient: 王如用予，则岂徒齐民安？天下之民<举>安。（《孟子•公孙丑下》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 齐王如果使用我，我怎么会只是让齐国的人民能安居乐业？全天下的人民都可以安居乐业了。
   - word: 绝
     type: 【动词】
     phonetic: jue2
