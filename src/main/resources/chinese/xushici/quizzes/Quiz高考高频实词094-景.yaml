@@ -1,9 +1,65 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 景
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: jing3
+    trans: ❶景物;景致。
+    ancient: 况阳春召我以烟<景>，大块假我以文章。（唐•李白《春夜宴从弟桃花园序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 景
+    type: 【名词】
+    phonetic: jing3
+    trans: ❶景物;景致。
+    ancient: 四时之<景>不同，而乐亦无穷也。（《醉翁亭记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 景
+    type: 【名词】
+    phonetic: jing3
+    trans: ❶景物;景致。
+    ancient: 细瞻<景>状，与村东大佛阁逼似（非常相似）。（《促织》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 景
+    type: 【名词】
+    phonetic: jing3
+    trans: ❷阳光。泛指日月的光辉。
+    ancient: "<景>翳翳（yi4,昏暗）以将入，抚孤松而盘桓。（《归去来兮辞》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 景
+    type: 【名词】
+    phonetic: jing3
+    trans: ❷阳光。泛指日月的光辉。
+    ancient: 薄日月，伏光<景>。（唐•韩愈《杂说一》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 景
+    type: 【名词】
+    phonetic: jing3
+    trans: ❷阳光。泛指日月的光辉。
+    ancient: 至若春和<景>明，波澜不惊，上下天光，一碧万顷。（《岳阳楼记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 景
+    type: 【动词】
+    phonetic: jing3
+    trans: 景仰;崇敬。
+    ancient: 后进之士，翕然（一致的样子）<景>慕。（唐•杨炯《〈王勃集〉序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 景
+    type: 【形容词】
+    phonetic: jing3
+    trans: 大。
+    ancient: 凡百元首，承天<景>命，善始者实繁，克终者盖寡。（《谏太宗十思疏》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 景
+    type: 【形容词】
+    phonetic: jing3
+    trans: 大。
+    ancient: 太史公曰:《诗》有之，"高山仰止，<景>行行止"。（《史记•孔子世家》）
     url: xxxx
     vernacular: xxxx

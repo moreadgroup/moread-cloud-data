@@ -1,9 +1,142 @@
 ---
 quizzes:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+  - word: 进
+    type: 【动词】
+    phonetic: jin4
+    trans: ❶前进;向前移动（与"退"相对）。
+    ancient: "吾不欲匹夫之勇也,欲其旅<进>旅退（一同前进，一同后退）。（《勾践灭吴》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 进
+    type: 【动词】
+    phonetic: jin4
+    trans: ❶前进;向前移动（与"退"相对）。
+    ancient: 奉事循公姥，<进>止敢自专？（《孔雀东南飞》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 进
+    type: 【动词】
+    phonetic: jin4
+    trans: ❶前进;向前移动（与"退"相对）。
+    ancient: 余与四人拥火以入，入之愈深，其<进>愈难，而其见愈奇。（《游褒禅山记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 进
+    type: 【动词】
+    phonetic: jin4
+    trans: ❶前进;向前移动（与"退"相对）。
+    ancient: 秦人开关延敌，九国之师，逡巡而不敢<进>。（《过秦论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 进
+    type: 【动词】
+    phonetic: jin4
+    trans: ❷使……前进。
+    ancient: 孔子退，揖巫马期（孔子的学生）而<进>之。（《论语・述而》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 进
+    type: 【动词】
+    phonetic: jin4
+    trans: ❸进步;长进。
+    ancient: 君子敬其在己者，而不慕其在天者，是以日<进>也。（《荀子•天论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 进
+    type: 【动词】
+    phonetic: jin4
+    trans: ❸进步;长进。
+    ancient: 孔子学鼓琴师襄子，十日不<进>。（《史记•孔子世家》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 进
+    type: 【动词】
+    phonetic: jin4
+    trans: ❹超过;超出。
+    ancient: 臣之所好者道也，<进>乎技矣。（《庖丁解牛》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 进
+    type: 【动词】
+    phonetic: jin4
+    trans: ❺进献;献上。
+    ancient: 有华阴令欲媚上官，以一头<进>。（《促织》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 进
+    type: 【动词】
+    phonetic: jin4
+    trans: ❺进献;献上。
+    ancient: 荆轲
+    url: xxxx
+    vernacular: xxxx
+  - word: 进
+    type: 【动词】
+    phonetic: jin4
+    trans: ❺进献;献上。
+    ancient: 奉樊於期头函，而秦武阳奉地图匣，以次<进>。（《荆轲刺秦王》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 进
+    type: 【动词】
+    phonetic: jin4
+    trans: ❺进献;献上。
+    ancient: 于是相如前<进>缶，因跪请秦王。（《廉颇蔺相如列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 进
+    type: 【动词】
+    phonetic: jin4
+    trans: ❻进谏。
+    ancient: "数月之后,时时而间<进>;期年之后，虽欲言,无可<进>者。（《邹忌讽齐王纳谏》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 进
+    type: 【动词】
+    phonetic: jin4
+    trans: ❻进谏。
+    ancient: 至于斟酌损益，<进>尽忠言，则攸之、祎、允之任也。（《出师表》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 进
+    type: 【动词】
+    phonetic: jin4
+    trans: ❼出仕;做官。
+    ancient: 臣之<进>退，实为狼狈。（《陈情表》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 进
+    type: 【动词】
+    phonetic: jin4
+    trans: ❼出仕;做官。
+    ancient: 居庙堂之高则忧其民，处江湖之远则忧其君。是<进>亦忧，退亦忧。（《岳阳楼记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 进
+    type: 【动词】
+    phonetic: jin4
+    trans: ❽推荐;举荐。
+    ancient: 夫<进>贤之难者，贤者用且使己废，贵且使己贱，故人难之。（《战国策•楚策三》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 进
+    type: 【动词】
+    phonetic: jin4
+    trans: ❽推荐;举荐。
+    ancient: 少卿足下:曩者辱赐书，教以慎于接物，推贤<进>士为务。（《报任安书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 进
+    type: 【动词】
+    phonetic: jin4
+    trans: ❽推荐;举荐。
+    ancient: 【高考题例】又其兄自有时名，滞于冗官，竟不引<进>。（《旧唐书•李揆传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 进
+    type: 【量词】
+    phonetic: jin4
+    trans: 旧时庭院的前后层次。
+    ancient: 一层层深阁琼楼，一<进><进>珠宫贝阙。（《西游记》一回）
     url: xxxx
     vernacular: xxxx

@@ -1,9 +1,156 @@
 ---
 quizzes:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+  - word: 就
+    type: 【动词】
+    phonetic: jiu4
+    trans: ❶接近;趋向。
+    ancient: 望之不似人君，<就>之而不见所畏焉。（《孟子•梁惠王上》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 就
+    type: 【动词】
+    phonetic: jiu4
+    trans: ❶接近;趋向。
+    ancient: 故木受绳则直，金<就>砺（li，磨刀石）则利。（《劝学》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 就
+    type: 【动词】
+    phonetic: jiu4
+    trans: ❶接近;趋向。
+    ancient: 三径<就>荒，松菊犹存。（《归去来兮辞》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 就
+    type: 【动词】
+    phonetic: jiu4
+    trans: ❶接近;趋向。
+    ancient: "诚如是也,民归之，由水之<就>下，沛然谁能御之？（《孟子见梁襄王》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 就
+    type: 【动词】
+    phonetic: jiu4
+    trans: ❷登上;踏上。
+    ancient: 于是荆轲遂<就>车而去，终已不顾。（《荆轲刺秦王》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 就
+    type: 【动词】
+    phonetic: jiu4
+    trans: ❸前往。
+    ancient: 济沅湘以南征兮，<就>重华而陈词。（《离骚》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 就
+    type: 【动词】
+    phonetic: jiu4
+    trans: ❸前往。
+    ancient: 特以为智穷罪极，不能自免，卒<就>死耳。（《报任安书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 就
+    type: 【动词】
+    phonetic: jiu4
+    trans: ❸前往。
+    ancient: "仆虽怯懦,欲苟活，亦颇识去<就>之分矣，何至自沉溺缧绁之辱哉!（《报任安书》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 就
+    type: 【动词】
+    phonetic: jiu4
+    trans: ❸前往。
+    ancient: 【高考题例】遣谒者内常侍吴承倩<就>私第宣慰。（《旧唐书-于休烈传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 就
+    type: 【动词】
+    phonetic: jiu4
+    trans: ❹承受;接受。
+    ancient: 臣具以表闻，辞不<就>职。（《陈情表》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 就
+    type: 【动词】
+    phonetic: jiu4
+    trans: ❹承受;接受。
+    ancient: 诚知其如此，虽万乘之公相，吾不以一日辍汝而<就>也。（《祭十二郎文》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 就
+    type: 【动词】
+    phonetic: jiu4
+    trans: ❹承受;接受。
+    ancient: 臣知欺大王之罪当诛，臣请<就>汤镬。（《廉颇蔺相如列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 就
+    type: 【动词】
+    phonetic: jiu4
+    trans: ❹承受;接受。
+    ancient: 是以<就>极刑而无愠色。（《报任安书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 就
+    type: 【动词】
+    phonetic: jiu4
+    trans: ❺完成;形成。
+    ancient: 妖出，祸安得不<就>？（《论衡•异虚》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 就
+    type: 【动词】
+    phonetic: jiu4
+    trans: ❺完成;形成。
+    ancient: 草创未<就>，会遭此祸，惜其不成。（《报任安书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 就
+    type: 【动词】
+    phonetic: jiu4
+    trans: ❺完成;形成。
+    ancient: 轲自知事不<就>，倚柱而笑。（《荆轲刺秦王》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 就
+    type: 【动词】
+    phonetic: jiu4
+    trans: ❻就职;赴任。
+    ancient: 永元中，举孝廉不行，连辟公府不<就>。（《张衡传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 就
+    type: 【动词】
+    phonetic: jiu4
+    trans: ❻就职;赴任。
+    ancient: 周任有言曰："陈力<就>列，不能者止。"（《季氏将伐颛臾》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 就
+    type: 【副词】
+    phonetic: jiu4
+    trans: "即；便。\t举"
+    ancient: 必以"文武"为谥，请依何等，<就>加诏许之，谥曰"忠武"。（《晋书•景帝纪》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 就
+    type: 【副词】
+    phonetic: jiu4
+    trans: "即；便。\t举"
+    ancient: 及扑入手，已股落腹裂，斯须（一会儿）<就>毙。（《促织》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 就
+    type: 【介词】
+    phonetic: jiu4
+    trans: 就着;根据。
+    ancient: 然<就>其不忘一芋，固已贤夫并老人而视芋之者。（清•周容《芋老人传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 就
+    type: 【连词】
+    phonetic: jiu4
+    trans: 假如；即使。
+    ancient: 法孝直若在，则能制主上令不东行;<就>复东行，必不倾危矣。（《三国志•蜀书•法正传》）
     url: xxxx
     vernacular: xxxx

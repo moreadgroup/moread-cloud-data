@@ -1,9 +1,44 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 咎
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: jiu4
+    trans: ❶灾害;灾祸。
+    ancient: 尔卜尔筮，体（卜筮的卦象）无<咎>言。以尔车来，以我贿（财物）迁。（《蒔经•卫风•氓》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 咎
+    type: 【名词】
+    phonetic: jiu4
+    trans: ❷罪过;过失。
+    ancient: 若无兴德之言，则责攸之、祎、允等之慢，以彰其<咎>。（《出师表》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 咎
+    type: 【名词】
+    phonetic: jiu4
+    trans: ❷罪过;过失。
+    ancient: "此梦甚恶,非君之身，乃君之子,然亦君之<咎>。（《史记•赵世家》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 咎
+    type: 【动词】
+    phonetic: jiu4
+    trans: ❶责备;追究罪过。
+    ancient: 楚人既<咎>子兰以劝怀王入秦而不反（通"返"）也。（《史记•屈原贾生列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 咎
+    type: 【动词】
+    phonetic: jiu4
+    trans: ❶责备;追究罪过。
+    ancient: 既其出，则或<咎>其欲出者。（《游褒禅山记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 咎
+    type: 【动词】
+    phonetic: jiu4
+    trans: ❷遭灾。
+    ancient: 爱利之心息，而徒疾行威，身必<咎>矣。（《吕氏春秋•用民》）
     url: xxxx
     vernacular: xxxx
