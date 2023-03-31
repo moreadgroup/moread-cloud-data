@@ -1,222 +1,138 @@
 ---
 quizzes:
-  - word: 矜
-    type: 【动词】
-    phonetic: jin1
-    trans: ❶损耗。
-    ancient: "愁其五脏以为仁义,<矜>其血气以规法度。（《庄子・在宥》）"
-    url: xxxx
-    vernacular: 满心焦虑地推行仁义，并耗费心血来制定法度。
-  - word: 矜
-    type: 【动词】
-    phonetic: jin1
-    trans: ❷挥动。
-    ancient: "艴然充盈、手足<矜>者,兵革之色也。（《吕氏春秋•重言》）"
-    url: xxxx
-    vernacular: 怒气冲冲、手足挥动，这是要用兵打仗的神色。
-  - word: 矜
-    type: 【动词】
-    phonetic: jin1
-    trans: ❸怜悯；同情。
-    ancient: 伏惟圣朝以孝治天下，凡在故老，犹蒙<矜>育况臣孤苦，特为尤甚。（《陈情表》）
-    url: xxxx
-    vernacular: 我想晋朝是用孝道来治理天下的，凡是年老而德高的旧臣，尚且还受到怜悯养育，况且我孤单凄苦，程度更为严重呢。
-  - word: 矜
-    type: 【动词】
-    phonetic: jin1
-    trans: ❸怜悯；同情。
-    ancient: 愿陛下<矜>悯愚诚，听臣微志，庶刘侥幸，保卒余年。（《陈情表》）
-    url: xxxx
-    vernacular: 希望陛下能怜悯我愚昧诚心，满足我微不足道的心愿，使祖母刘氏能够侥幸保全她的余生。
-  - word: 矜
-    type: 【动词】
-    phonetic: jin1
-    trans: ❸怜悯；同情。
-    ancient: "【高考题例】皆令门下覆视，有据法当死而情可<矜>者,录状以闻。（《通鉴经事本末•贞观君臣论治》）"
-    url: xxxx
-    vernacular: （这些规定）都由门下省督查，有依据法律应当处死而情理上有值得同情的，记下情况上报朝廷。
-  - word: 矜
-    type: 【动词】
-    phonetic: jin1
-    trans: ❹顾惜。
-    ancient: 不<矜>细行，终累大德。（《尚书•旅葵》）
-    url: xxxx
-    vernacular: 不顾惜小节方面的修养，到头来会伤害大节，酿成终生的遗憾。
-  - word: 矜
-    type: 【动词】
-    phonetic: jin1
-    trans: ❺自夸；自得。
-    ancient: 且臣少仕伪朝，历职郎署，本图宦达，不<矜>名节。（《陈情表》）
-    url: xxxx
-    vernacular: 况且我年轻的时候曾经做过蜀汉的官，担任过郎官职务，本来希图宦达，不顾惜名声节操。
-  - word: 矜
-    type: 【动词】
-    phonetic: jin1
-    trans: ❺自夸；自得。
-    ancient: 陈康肃公善射，当世无双，公亦以此自<矜>。（《卖油翁》）。
-    url: xxxx
-    vernacular: 康肃公陈尧咨擅于射箭，世上没有第二个人能跟他相媲美，他也就凭着这种本领而自夸。
-  - word: 矜
-    type: 【动词】
-    phonetic: jin1
-    trans: ❺自夸；自得。
-    ancient: 【高考题例】宰相李揆<矜>能忌贤，以休烈修国史与己斉列，嫉之。（《旧唐书•于休烈传》）
-    url: xxxx
-    vernacular: 宰相李揆嫉贤妒能，认为休烈凭着编写史书的功劳地位和自己不相上下，痛恨他
-  - word: 矜
-    type: 【形容词】
-    phonetic: jin1
-    trans: ❶庄重;慎重。
-    ancient: 君子<矜>而不争，群而不党（结成团伙）。（《论语•卫灵公》）
-    url: xxxx
-    vernacular: "君子庄重又谨慎,而不与别人争执,虽然合群而不结党营私。"
-  - word: 矜
-    type: 【形容词】
-    phonetic: jin1
-    trans: ❷得意的;骄傲的。
-    ancient: 未尝敢以<矜>气作之，惧其偃蹇而骄也。（《答韦中立论师道书》）
-    url: xxxx
-    vernacular: 从来不敢用骄傲的心理去写作，恐怕文章盛气凌人而又狂妄。
   - word: 进
     type: 【动词】
     phonetic: jin4
     trans: ❶前进;向前移动（与"退"相对）。
-    ancient: "吾不欲匹夫之勇也,欲其旅<进>旅退（一同前进，一同后退）。（《勾践灭吴》）"
+    ancient: 吾不欲匹夫之勇也，欲其旅<进>旅退（一同前进，一同后退）。（《勾践灭吴》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 我不赞成个人逞能的匹夫之勇，希望大家同进同退。
   - word: 进
     type: 【动词】
     phonetic: jin4
     trans: ❶前进;向前移动（与"退"相对）。
     ancient: 奉事循公姥，<进>止敢自专？（《孔雀东南飞》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 侍奉公婆都顺着他们的心意，一举一动哪里敢自作主张不守本分？
   - word: 进
     type: 【动词】
     phonetic: jin4
     trans: ❶前进;向前移动（与"退"相对）。
     ancient: 余与四人拥火以入，入之愈深，其<进>愈难，而其见愈奇。（《游褒禅山记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 我与四个人打着火把走进去，进去越深，前进越困难，而所见到的景象也就更加奇妙。
   - word: 进
     type: 【动词】
     phonetic: jin4
     trans: ❶前进;向前移动（与"退"相对）。
     ancient: 秦人开关延敌，九国之师，逡巡而不敢<进>。（《过秦论》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 秦人打开函谷关口迎战敌人，九国的军队有所顾虑徘徊不敢入关。
   - word: 进
     type: 【动词】
     phonetic: jin4
     trans: ❷使……前进。
     ancient: 孔子退，揖巫马期（孔子的学生）而<进>之。（《论语・述而》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 孔子出来后，陈司败向巫马其作了个揖，请他走近自己
   - word: 进
     type: 【动词】
     phonetic: jin4
     trans: ❸进步;长进。
     ancient: 君子敬其在己者，而不慕其在天者，是以日<进>也。（《荀子•天论》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 君子只看重自己的努力，而不去幻想天的恩赐，因此日益进步。
   - word: 进
     type: 【动词】
     phonetic: jin4
     trans: ❸进步;长进。
     ancient: 孔子学鼓琴师襄子，十日不<进>。（《史记•孔子世家》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 孔子向师襄子学琴，学了十天仍没有学习新曲子
   - word: 进
     type: 【动词】
     phonetic: jin4
     trans: ❹超过;超出。
     ancient: 臣之所好者道也，<进>乎技矣。（《庖丁解牛》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 臣下所注重探究的，是解牛的规律，已经超过一般的技术了。
   - word: 进
     type: 【动词】
     phonetic: jin4
     trans: ❺进献;献上。
     ancient: 有华阴令欲媚上官，以一头<进>。（《促织》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 有个华阴县的县官，想巴结上司，把一只蟋蟀献上去
   - word: 进
     type: 【动词】
     phonetic: jin4
     trans: ❺进献;献上。
-    ancient: 荆轲
+    ancient: 荆轲奉樊於期头函，而秦武阳奉地图匣，以次<进>。（《荆轲刺秦王》）
     url: xxxx
-    vernacular: xxxx
-  - word: 进
-    type: 【动词】
-    phonetic: jin4
-    trans: ❺进献;献上。
-    ancient: 奉樊於期头函，而秦武阳奉地图匣，以次<进>。（《荆轲刺秦王》）
-    url: xxxx
-    vernacular: xxxx
+    vernacular: 荆轲捧着装了樊於期头颅的盒子，秦武阳捧着装有地图的匣子，依次进来。
   - word: 进
     type: 【动词】
     phonetic: jin4
     trans: ❺进献;献上。
     ancient: 于是相如前<进>缶，因跪请秦王。（《廉颇蔺相如列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 这时蔺相如向前进献瓦缻，并跪下请秦王演奏。
   - word: 进
     type: 【动词】
     phonetic: jin4
     trans: ❻进谏。
-    ancient: "数月之后,时时而间<进>;期年之后，虽欲言,无可<进>者。（《邹忌讽齐王纳谏》）"
+    ancient: 数月之后，时时而间<进>;期年之后，虽欲言，无可<进>者。（《邹忌讽齐王纳谏》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 几个月以后，还时不时地有人来进谏；满一年后，虽然还有人想进谏，但已没啥可谏的了。
   - word: 进
     type: 【动词】
     phonetic: jin4
     trans: ❻进谏。
     ancient: 至于斟酌损益，<进>尽忠言，则攸之、祎、允之任也。（《出师表》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 至于处理事务，斟酌情理，毫无保留地贡献忠言，那是郭攸之、费祎、董允的责任。
   - word: 进
     type: 【动词】
     phonetic: jin4
     trans: ❼出仕;做官。
     ancient: 臣之<进>退，实为狼狈。（《陈情表》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 我是进退两难，十分狼狈。
   - word: 进
     type: 【动词】
     phonetic: jin4
     trans: ❼出仕;做官。
     ancient: 居庙堂之高则忧其民，处江湖之远则忧其君。是<进>亦忧，退亦忧。（《岳阳楼记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 在朝廷上做官时，就为百姓担忧；不在朝廷做官而处在僻远的江湖中间就为国君忧虑。他进也忧虑，退也忧愁。
   - word: 进
     type: 【动词】
     phonetic: jin4
     trans: ❽推荐;举荐。
     ancient: 夫<进>贤之难者，贤者用且使己废，贵且使己贱，故人难之。（《战国策•楚策三》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 推荐贤才其所以很难，是因为贤能的人被任用，自己就会被废弃，贤能的人地位尊贵，自己就会卑贱。所以，人们难以做到。
   - word: 进
     type: 【动词】
     phonetic: jin4
     trans: ❽推荐;举荐。
     ancient: 少卿足下:曩者辱赐书，教以慎于接物，推贤<进>士为务。（《报任安书》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 少卿足下：从前承蒙您给我写信，教导我用谨慎的态度在待人接物上，以推举贤能、引荐人才为己任
   - word: 进
     type: 【动词】
     phonetic: jin4
     trans: ❽推荐;举荐。
     ancient: 【高考题例】又其兄自有时名，滞于冗官，竟不引<进>。（《旧唐书•李揆传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 他的哥哥当时本有声望，却停留在闲散官吏的位置上，李揆竟然不加推荐。
   - word: 进
     type: 【量词】
     phonetic: jin4
     trans: 旧时庭院的前后层次。
     ancient: 一层层深阁琼楼，一<进><进>珠宫贝阙。（《西游记》一回）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 一层层华美的楼台，一排排的壮丽的宫室
   - word: 景
     type: 【名词】
     phonetic: jing3
