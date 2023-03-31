@@ -1,229 +1,5 @@
 ---
 quizzes:
-  - word: 举
-    type: 【动词】
-    phonetic: ju3
-    trans: ❶拾起;升起。
-    ancient: "<举>手长劳劳,二情同依依。（《孔雀东南飞》）"
-    url: xxxx
-    vernacular: 两人忧伤不止地举手告别，双方都依依不舍情意绵绵。
-  - word: 举
-    type: 【动词】
-    phonetic: ju3
-    trans: ❶拾起;升起。
-    ancient: <举>头望明月，低头思故乡。（唐•李白《静夜思》）
-    url: xxxx
-    vernacular: "我抬起头来,看那天窗外空中的明月,不由得低头沉思,想起远方的家乡。"
-  - word: 举
-    type: 【动词】
-    phonetic: ju3
-    trans: ❶拾起;升起。
-    ancient: <举>所佩玉玦以示之者三。（《鸿门宴》）
-    url: xxxx
-    vernacular: 举起（他）所佩带的玉玦向项羽示意多次
-  - word: 举
-    type: 【动词】
-    phonetic: ju3
-    trans: ❷拿；用。
-    ancient: 吾不能<举>全吴之地，十万之众，受制于人。（《资治通鉴•汉纪五十七》）
-    url: xxxx
-    vernacular: "我不能拿整个吴国的土地,(以及)数万民众,被别人控制。"
-  - word: 举
-    type: 【动词】
-    phonetic: ju3
-    trans: ❸行动。
-    ancient: "此妇无礼节,<举>动自专由。（《孔雀东南飞》）"
-    url: xxxx
-    vernacular: 这个媳妇不懂得礼节，行动又是那样自专自由。
-  - word: 举
-    type: 【动词】
-    phonetic: ju3
-    trans: ❸行动。
-    ancient: 乃治戎讲武，以俟（等待）大<举>。（《三国志•蜀书•诸葛亮传》）
-    url: xxxx
-    vernacular: "于是开始练兵习武,以待将来大举进军中原"
-  - word: 举
-    type: 【动词】
-    phonetic: ju3
-    trans: ❸行动。
-    ancient: 何故景思高<举>，自令放为？（《渔父》）
-    url: xxxx
-    vernacular: 为什么想得过深又自命清高，以至让自己落了个放逐的下场？
-  - word: 举
-    type: 【动词】
-    phonetic: ju3
-    trans: ❹提出；举出。
-    ancient: "其称文小而其指（旨趣）极大，<举>类迩（er3,近）而见义远。（《史记•屈原贾笙列传》）"
-    url: xxxx
-    vernacular: 就其文字来看，不过是寻常事情，但是它的旨趣是极大的，列举的是近事，而表达的意思却十分深远。
-  - word: 举
-    type: 【动词】
-    phonetic: ju3
-    trans: ❹提出；举出。
-    ancient: "臣诚愚鄙，不达事机，略<举>所见十条,辄以上闻圣听。（唐•魏徵《十渐疏》）"
-    url: xxxx
-    vernacular: 我确实愚笨无知，看不清事理机缘，大略举出所见十条，把它奏明圣上。
-  - word: 举
-    type: 【动词】
-    phonetic: ju3
-    trans: ❹提出；举出。
-    ancient: 不愤不启，不悱不发。<举>一隅不以三隅反，则弗复也。（《史记•孔子世家》）
-    url: xxxx
-    vernacular: 不到他想弄明白而不得的时候，不去开导他;不到他想出来却说不出来的时候，不去启发他。教给他一个方面的东西，他却不能由此而推知其他三个方面的东西，那就不再教他了。
-  - word: 举
-    type: 【动词】
-    phonetic: ju3
-    trans: ❺推荐;举荐。
-    ancient: 前太守臣逵察臣孝廉，后刺史臣荣<举>臣秀才。（《陈情表》）
-    url: xxxx
-    vernacular: 先有名叫逵的太守察举臣为孝廉，后又有名叫荣的刺史推举臣为优秀人才。
-  - word: 举
-    type: 【动词】
-    phonetic: ju3
-    trans: ❺推荐;举荐。
-    ancient: 将军向宠，先帝称之曰能，是以众议<举>宠为督。（《出师表》）
-    url: xxxx
-    vernacular: "将军向宠,过去的皇上称赞他的才能,所以大家商量推荐他为都督。"
-  - word: 举
-    type: 【动词】
-    phonetic: ju3
-    trans: ❺推荐;举荐。
-    ancient: 永元中，<举>孝廉不行，连辟公府不就。（《张衡传》）
-    url: xxxx
-    vernacular: 永元年间，他被推举为孝廉，却不应荐，屡次被公府征召，都没有就任。
-  - word: 举
-    type: 【动词】
-    phonetic: ju3
-    trans: ❺推荐;举荐。
-    ancient: 【高考题例】<举>孝廉，除郎中。（《晋书•鲁芝传》）
-    url: xxxx
-    vernacular: 华歆被举荐孝廉，任命为郎中
-  - word: 举
-    type: 【动词】
-    phonetic: ju3
-    trans: ❻提拔;任用。
-    ancient: 人君无愚、智、贤、不肖，莫不欲求忠以自为，<举>贤以自佐。（《史记•屈原贾生列传》）
-    url: xxxx
-    vernacular: 国君无论愚笨或明智、贤明或昏庸，没有不想求得忠臣来为自己服务，选拔贤才来辅助自己的。
-  - word: 举
-    type: 【动词】
-    phonetic: ju3
-    trans: ❼发动。
-    ancient: 远方之能疑者，并<举>而争起矣。（《论积贮疏》）
-    url: xxxx
-    vernacular: 边远地方敢于同皇上对抗的人，就一同举兵起来造反了。
-  - word: 举
-    type: 【动词】
-    phonetic: ju3
-    trans: ❼发动。
-    ancient: 今亡亦死，<举>大计亦死，等死（同样是死），死国可乎？（《陈涉世家》）
-    url: xxxx
-    vernacular: "现在逃跑是死,发动起义也是死,同样是死,为国事而死好吗?"
-  - word: 举
-    type: 【动词】
-    phonetic: ju3
-    trans: ❽占领;攻下。
-    ancient: 南取汉中，西<举>巴、蜀，东割膏腴之地，北收要害之郡。（《过秦论》）
-    url: xxxx
-    vernacular: 向南夺取汉中，向西攻取巴、蜀，向东割取肥沃的地区，向北占领非常重要的地区。
-  - word: 举
-    type: 【动词】
-    phonetic: ju3
-    trans: ❽占领;攻下。
-    ancient: 戍卒叫，函谷<举>，楚人一炬，可怜焦土！（《阿房宫赋》）
-    url: xxxx
-    vernacular: （结果）戍边的陈涉、吴广一声呼喊，函谷关被攻下，楚项羽放一把火，可惜（华丽的阿房宫）化为了一片焦土。
-  - word: 举
-    type: 【动词】
-    phonetic: ju3
-    trans: ❾举行;实行。
-    ancient: 德政不<举>，威刑不肃。（三国蜀•诸葛亮《答法正书》）
-    url: xxxx
-    vernacular: 不采取有益于民的政治措施，没有树立严峻的法律威严。
-  - word: 举
-    type: 【动词】
-    phonetic: ju3
-    trans: ❿科举考试;参加科举考试。
-    ancient: 有儒生柳毅者，应<举>下第。（《柳毅传》）
-    url: xxxx
-    vernacular: 有一位书生柳毅，到京城长安参加科举考试，没有考取。
-  - word: 举
-    type: 【动词】
-    phonetic: ju3
-    trans: ❿科举考试;参加科举考试。
-    ancient: 董生<举>进士，连不得志于有司。（唐•韩愈《送董邵南游河北序》）
-    url: xxxx
-    vernacular: 董生被推举参加进士科考试，连续多年不被主考官赏识。
-  - word: 举
-    type: 【动词】
-    phonetic: ju3
-    trans: 11养育;抚养。
-    ancient: "生男慎莫<举>,生女哺用脯。（汉，陈琳《饮马长城窟行》）"
-    url: xxxx
-    vernacular: 生下男孩千万不要养，生下女孩用肉来哺。
-  - word: 举
-    type: 【动词】
-    phonetic: ju3
-    trans: 12检举;揭发。
-    ancient: 恤孤寡，<举>阿党。（唐•柳宗元《时令论上》）
-    url: xxxx
-    vernacular: "救济孤寡群众,揭发徇私枉法的人。"
-  - word: 举
-    type: 【形容词】
-    phonetic: ju3
-    trans: ❶全;整个儿。
-    ancient: <举>世混浊而我独清，众人皆醉而我独醒，是以见放。（《史记•屈原贾生列传》）
-    url: xxxx
-    vernacular: 全世界混浊却只有我一人清白，大家都醉了却只有我一人清醒，（我）因此被放逐。
-  - word: 举
-    type: 【形容词】
-    phonetic: ju3
-    trans: ❶全;整个儿。
-    ancient: "大喜，笼归，<举>家庆贺，虽连城拱璧不啻（chi4,止）也。（《促织》）"
-    url: xxxx
-    vernacular: 成名特别高兴，用笼子装上提回家，全家庆贺，把它看得比价值连城的宝玉还珍贵
-  - word: 举
-    type: 【形容词】
-    phonetic: ju3
-    trans: ❶全;整个儿。
-    ancient: 愿<举>国为内臣，比诸侯之列。（《荆轲刺秦王》）
-    url: xxxx
-    vernacular: 愿意全国上下都做秦国的臣民，排在诸侯的行列里
-  - word: 举
-    type: 【形容词】
-    phonetic: ju3
-    trans: ❶全;整个儿。
-    ancient: 且<举>世誉之而不加劝，<举>世非之而不加沮。（《逍遥游》）
-    url: xxxx
-    vernacular: 宋荣子是那种世上的人们都赞誉他也不会让他感到鼓舞，世上所有的人都诽谤他，他也并不因此就感到沮丧
-  - word: 举
-    type: 【形容词】
-    phonetic: ju3
-    trans: ❶全;整个儿。
-    ancient: "【高考题例】弘微少孤，事兄如父,兄弟友穆之至，<举>世莫及也。《宋书•谢弘微传》）"
-    url: xxxx
-    vernacular: 谢弘微从小失去父母，事奉兄长如同事奉父亲，兄弟之间非常友爱和睦，当代没有人能够赶得上。
-  - word: 举
-    type: 【形容词】
-    phonetic: ju3
-    trans: ❷尽;完。
-    ancient: 杀人如不能<举>，刑人如恐不胜。（《史记•项羽本纪》）
-    url: xxxx
-    vernacular: 杀人只担心不能杀完，对人用刑只担心不能用尽
-  - word: 举
-    type: 【副词】
-    phonetic: ju3
-    trans: 全；皆。
-    ancient: 君<举>不信群臣乎？（《左传•哀公六年》）
-    url: xxxx
-    vernacular: xxxx
-  - word: 举
-    type: 【副词】
-    phonetic: ju3
-    trans: 全；皆。
-    ancient: 王如用予，则岂徒齐民安？天下之民<举>安。（《孟子•公孙丑下》）
-    url: xxxx
-    vernacular: 齐王如果使用我，我怎么会只是让齐国的人民能安居乐业？全天下的人民都可以安居乐业了。
   - word: 绝
     type: 【动词】
     phonetic: jue2
@@ -237,172 +13,172 @@ quizzes:
     trans: ❶断开;截断。
     ancient: 今滕，<绝>长补短，将五十里也，犹可以为善国。（《孟子•滕文公上》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 今天的滕国截长补短， 算起来方圆近五十里， 仍可成为一个好国家。
   - word: 绝
     type: 【动词】
     phonetic: jue2
     trans: ❶断开;截断。
     ancient: "秦王惊，自引而起,<绝>袖。（《战国策•燕策三》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 秦王非常惊骇，自己挣扎着站起来，扯断袖子。
   - word: 绝
     type: 【动词】
     phonetic: jue2
     trans: ❶断开;截断。
     ancient: 如怨如慕，如泣如诉，余音袅袅，不<绝>如缕。（《赤壁赋》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 有如哀怨有如思慕，像是哭泣，又像是倾诉，尾声凄切、婉转、悠长，如同不断的细丝。
   - word: 绝
     type: 【动词】
     phonetic: jue2
     trans: ❶断开;截断。
     ancient: 归去来兮，请息交以<绝>游。（《归去来兮辞》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 回家去吧！让我同外界断绝交游。
   - word: 绝
     type: 【动词】
     phonetic: jue2
     trans: ❷经过;渡过。
     ancient: 假舟楫者，非能水也，而<绝>江河。（《劝学》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 借助舟船的人，并不善于游泳，却可以横渡长江黄河。
   - word: 绝
     type: 【动词】
     phonetic: jue2
     trans: ❷经过;渡过。
     ancient: "夏四月,卫青复将六将军<绝>幕（通\"漠\"，沙漠），大克获。（《汉书•武帝纪》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 夏四月， 卫青再次率六名将军及士兵到达匈奴南界沙漠，大获全胜。
   - word: 绝
     type: 【动词】
     phonetic: jue2
     trans: ❷经过;渡过。
     ancient: 西当太白有鸟"道，可以横<绝>峨眉巅。（《蜀道难》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 西边太白山有飞鸟能过的小道。从那小路走可横渡峨眉山顶端。
   - word: 绝
     type: 【动词】
     phonetic: jue2
     trans: ❷经过;渡过。
     ancient: "<绝>云气,负青天，然后图南,且适南冥也。（《逍遥游》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 超越云层，背负青天，然后向南飞翔，去往南方的大海。
   - word: 绝
     type: 【动词】
     phonetic: jue2
     trans: ❸断;尽。
     ancient: 孔子<绝>粮陈、蔡。（《论衡•逢遇》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 孔子在陈国和蔡国之间的地方（缺粮）受困
   - word: 绝
     type: 【动词】
     phonetic: jue2
     trans: ❹绝命;死。
     ancient: 虽萎<绝>其亦何伤兮，哀众芳之芜秽。（《离骚》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 它们枯萎死绝有何伤害，使我痛心的是它们质变。
   - word: 绝
     type: 【动词】
     phonetic: jue2
     trans: ❹绝命;死。
     ancient: 我命<绝>今日，魂去尸长留！（《孔雀东南飞》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 我的生命终结就在今天，只有尸体长久留下我的魂魄将要离去。
   - word: 绝
     type: 【动词】
     phonetic: jue2
     trans: ❺隔开；隔断。
     ancient: 至于夏水襄陵，沿溯阻<绝>。（《三峡》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 等到夏天江水漫上山陵的时候，下行和上行船只的航路都被阻断，无法通行。
   - word: 绝
     type: 【动词】
     phonetic: jue2
     trans: ❻停止;止歇。
     ancient: 冰泉冷涩弦凝<绝>，凝<绝>不通声暂歇。（《琵琶行》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 好像冰泉冷涩琵琶声开始凝结，凝结而不通畅声音渐渐地中断。
   - word: 绝
     type: 【动词】
     phonetic: jue2
     trans: ❻停止;止歇。
     ancient: 忽然抚尺一下，群响毕<绝>。（《口技》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 忽然醒木一拍，各种声响全部消失了。
   - word: 绝
     type: 【动词】
     phonetic: jue2
     trans: ❻停止;止歇。
     ancient: 【高考题例】御经筵，<绝>游宴，停不急务。（《明史•马文升传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 御经筵，停止游玩与宴会，停止一切不紧急的事务
   - word: 绝
     type: 【动词】
     phonetic: jue2
     trans: ❼断绝;停止来往。
     ancient: 秦甚憎齐，齐与楚从亲（交往密切）；楚诚能<绝>齐，秦愿献商、於之地六百里。（《吏记•屈原贾生列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 秦国非常憎恨齐国，齐国与楚国却合纵相亲，如果楚国确实能和齐国绝交，秦国愿意献上商、於之间的六百里土地。
   - word: 绝
     type: 【动词】
     phonetic: jue2
     trans: ❽超过。
     ancient: 博见强志，过<绝>于人。（《汉书•刘歆传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "见识广博,记忆力强,超过一般人。"
   - word: 绝
     type: 【形容词】
     phonetic: jue2
     trans: ❶到极点的;不能超越的。
     ancient: 奇山异水，天下独<绝>。（《与朱元思书》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 山水奇特独异，天下独一无二。
   - word: 绝
     type: 【形容词】
     phonetic: jue2
     trans: ❶到极点的;不能超越的。
     ancient: 满坐宾客无不伸颈，侧目，微笑，默叹，以为妙<绝>。（《口技》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 满座的宾客没有一个不伸长脖子，偏着头看，微笑，心中默默赞叹，认为奇妙极了。
   - word: 绝
     type: 【形容词】
     phonetic: jue2
     trans: ❷极远的。
     ancient: 寡人地<绝>兵远，不能攻也。（《史记•苏秦列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "我的国家和宋国路途隔绝,军队距宋太远,不能直接攻打它"
   - word: 绝
     type: 【形容词】
     phonetic: jue2
     trans: ❸隔绝的;封闭的。
     ancient: 【动词】率妻子邑人来此<绝>境。（《桃花源记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 领着妻子儿女和乡邻们来到这个与世人隔绝的地方
   - word: 绝
     type: 【副词】
     phonetic: jue2
     trans: ❶极其;非常。
     ancient: 四顾奇峰错列，众壑纵横，真黄山<绝>胜处。（明•徐霞客《游黄山日记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 四周环顾，只见奇峰错落地排列，众多的山谷纵横交错，实在是黄山风景最美的地方！
   - word: 绝
     type: 【副词】
     phonetic: jue2
     trans: ❶极其;非常。
     ancient: "最是一年春好处,<绝>胜烟柳满皇都。（唐•韩愈《早春呈水部张十八员外》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 一年之中最美的就是这早春的景色，它远胜过了绿杨满城的暮春。
   - word: 绝
     type: 【副词】
     phonetic: jue2
     trans: ❶极其;非常。
     ancient: 【高考题例】济从骑有一马<绝>难乘，少能骑者。（《世说新语•家有名士》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 王济的随从有一匹烈马，非常难于驾驭，很少有能骑的人。
   - word: 绝
     type: 【副词】
     phonetic: jue2
     trans: ❷绝对;完全。
     ancient: 而心目耳力俱穷，<绝>无踪响。（《促织》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 然而心力、视力、听力都用尽了，结果还是一点蟋蟀的踪迹响声都没有。
