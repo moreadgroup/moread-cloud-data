@@ -1,117 +1,47 @@
 ---
 quizzes:
-  - word: 竟
-    type: 【名词】
-    phonetic: jing4
-    trans: 通"境"。国境。
-    ancient: 入<竟>而问禁，入国而问俗，入门而问讳。（《礼记・曲礼上》）
-    url: xxxx
-    vernacular: 进入到别国去就要了解当地禁止什么， 进入国都就要了解其当地风俗习惯， 进入其家就要了解有什么忌讳。
-  - word: 竟
-    type: 【名词】
-    phonetic: jing4
-    trans: 通"境"。国境。
-    ancient: <竟>内不失须臾之时。（《商君书•彼民》）
-    url: xxxx
-    vernacular: 国境以内不耽误一点农时
-  - word: 竟
-    type: 【动词】
-    phonetic: jing4
-    trans: 完毕;结束。
-    ancient: 神龟虽寿，犹有<竟>时。（汉•曹操《龟虽寿》）
-    url: xxxx
-    vernacular: 神龟虽能长寿，但也有死亡的时候。
-  - word: 竟
-    type: 【动词】
-    phonetic: jing4
-    trans: 完毕;结束。
-    ancient: 及见怪，岁<竟>，此两家常折券弃责。（《史记•高祖本纪》）
-    url: xxxx
-    vernacular: "等到发现了奇怪的现象,年终时,这两家酒店常折毁帐目,放弃债权。"
-  - word: 竟
-    type: 【形容词】
-    phonetic: jing4
-    trans: 整;终。
-    ancient: "久不见若（你的）影，何<竟>日默默在此,大类女郎也?（《项脊轩志》）"
-    url: xxxx
-    vernacular: 好久没有见到你的身影了，为什么整天默默地呆在这里，真像个女孩子呀？
-  - word: 竟
-    type: 【副词】
-    phonetic: jing4
-    trans: ❶终于;毕竟。
-    ancient: "怀王怒，不听。亡走赵，赵不内（同\"纳\"）。复之秦,<竟>死于秦而归葬。（《史记•屈原贾,生列传》）"
-    url: xxxx
-    vernacular: 怀王很愤怒，不听秦国的要挟。他逃往赵国，赵国不肯接纳。只好又到秦国，最后死在秦国，尸体运回楚国安葬。
-  - word: 竟
-    type: 【副词】
-    phonetic: jing4
-    trans: ❶终于;毕竟。
-    ancient: 道<竟>何为邪？（唐•刘禹锡《天论》）
-    url: xxxx
-    vernacular: “道”究竟有什么用
-  - word: 竟
-    type: 【副词】
-    phonetic: jing4
-    trans: ❷竟然;居然。
-    ancient: 执手相看泪眼，<竟>无语凝噎。（《雨霖铃》）
-    url: xxxx
-    vernacular: 紧紧握着对方的手含着泪对视，竟然哽咽着说不出一句话。
-  - word: 竟
-    type: 【副词】
-    phonetic: jing4
-    trans: ❷竟然;居然。
-    ancient: 而齐<竟>怒不救楚，楚大困。（《史记•屈原贾生列传》）
-    url: xxxx
-    vernacular: "齐国竟然生气而不去救楚国,楚国非常困窘。"
-  - word: 竟
-    type: 【副词】
-    phonetic: jing4
-    trans: ❷竟然;居然。
-    ancient: 【高考题例】疏入，贵妃、承宪皆怒，同列亦为登云危，帝<竟>留中不下。（《明史•陈登云传》
-    url: xxxx
-    vernacular: "疏入,贵妃、承宪皆怒,同列(同僚)亦为(认为)登云危,帝竟(最终)留中不下(将奏章留在宫中不下达审议)。"
   - word: 咎
     type: 【名词】
     phonetic: jiu4
     trans: ❶灾害;灾祸。
     ancient: 尔卜尔筮，体（卜筮的卦象）无<咎>言。以尔车来，以我贿（财物）迁。（《蒔经•卫风•氓》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 你用龟板占卜，用蓍草占卦，卜筮的结果没有不吉利。你用车来迎娶，我带上嫁妆嫁给你。
   - word: 咎
     type: 【名词】
     phonetic: jiu4
     trans: ❷罪过;过失。
     ancient: 若无兴德之言，则责攸之、祎、允等之慢，以彰其<咎>。（《出师表》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 如果没有振兴圣德的建议，那就责备郭攸之、费祎、董允等人的怠慢，来揭示他们的过失。
   - word: 咎
     type: 【名词】
     phonetic: jiu4
     trans: ❷罪过;过失。
     ancient: "此梦甚恶,非君之身，乃君之子,然亦君之<咎>。（《史记•赵世家》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 这个梦很凶，不是应验在您的身上，而是在您儿子身上，可也是由于您的过错。
   - word: 咎
     type: 【动词】
     phonetic: jiu4
     trans: ❶责备;追究罪过。
     ancient: 楚人既<咎>子兰以劝怀王入秦而不反（通"返"）也。（《史记•屈原贾生列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 楚国人都抱怨子兰，因为他劝怀王入秦而最终未能回来。
   - word: 咎
     type: 【动词】
     phonetic: jiu4
     trans: ❶责备;追究罪过。
     ancient: 既其出，则或<咎>其欲出者。（《游褒禅山记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 我们出洞以后，就有人埋怨那主张退出的人，
   - word: 咎
     type: 【动词】
     phonetic: jiu4
     trans: ❷遭灾。
     ancient: 爱利之心息，而徒疾行威，身必<咎>矣。（《吕氏春秋•用民》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 爱利之心已经止息，而凭空厉行威严，（那么君主）就一定要遭灾祸了。
   - word: 就
     type: 【动词】
     phonetic: jiu4
