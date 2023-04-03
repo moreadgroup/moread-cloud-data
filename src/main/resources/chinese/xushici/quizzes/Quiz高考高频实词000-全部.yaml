@@ -1,250 +1,68 @@
 ---
 quizzes:
-  - word: 令
-    type: 【名词】
-    phonetic: ling4
-    trans: ❶法令。
-    ancient: 所谓损有余、补不足，<令>出而民利者也。（汉•晁错《论贵粟疏》）
-    url: xxxx
-    vernacular: 从富有的人那里得到货物来供政府用，那么贫苦百姓所担负的赋税就可以减轻，这就叫做拿富有的去补不足的，法令一颁布百姓就能够得益。
-  - word: 令
-    type: 【名词】
-    phonetic: ling4
-    trans: ❶法令。
-    ancient: 王使屈平为<令>，众莫不知，每一<令>出，平伐（夸耀）其功。（《史记•屈原贾生列传》）
-    url: xxxx
-    vernacular: 君王让屈原制定法令，大家没人不知道的，每出一道法令，屈原就炫耀自己的功劳
-  - word: 令
-    type: 【名词】
-    phonetic: ling4
-    trans: ❶法令。
-    ancient: 且陛下春秋高，法<令>亡常，大臣亡罪夷灭者数十家。（《苏武传》）
-    url: xxxx
-    vernacular: 并且皇上年纪大了，法令随时变更，大臣无罪而全家被杀的有几十家，安危不可预料。
-  - word: 令
-    type: 【名词】
-    phonetic: ling4
-    trans: ❷命令。
-    ancient: <令>初下，群臣进谏，门庭若市。（《邹忌讽齐王纳谏》）
-    url: xxxx
-    vernacular: 政令刚一下达，许多大臣都来进献谏言，宫门和庭院像集市一样热闹
-  - word: 令
-    type: 【名词】
-    phonetic: ling4
-    trans: ❷命令。
-    ancient: 留二日，维扬帅下逐客之<令>。（《〈指南录〉后序》）
-    url: xxxx
-    vernacular: 留住了两天，驻守维扬的统帅竟下了逐客令。
-  - word: 令
-    type: 【名词】
-    phonetic: ling4
-    trans: ❸辞令，应酬的言辞。
-    ancient: 其次不辱辞<令>，其次诎体受辱。（《报任安书》）
-    url: xxxx
-    vernacular: 再次是不因别人的言语而受辱，再次是被捆绑在地而受辱
-  - word: 令
-    type: 【名词】
-    phonetic: ling4
-    trans: ❸辞令，应酬的言辞。
-    ancient: 博闻强志，明于治乱，娴于辞<令>。（《史记•屈原贾生列传》）
-    url: xxxx
-    vernacular: （屈原他）知识广博，记忆力很强，明了国家治乱的道理，擅长外交辞令。
-  - word: 令
-    type: 【名词】
-    phonetic: ling4
-    trans: ❹封建时代中央机构的长官。如尚书令、中书令等。
-    ancient: 公车特征拜郎中，再迁为太史<令>。（《张衡传》）
-    url: xxxx
-    vernacular: 命公车特地征召他，任命他为郎中。两次迁升为太史令。
-  - word: 令
-    type: 【名词】
-    phonetic: ling4
-    trans: ❺县令。
-    ancient: 魏文侯时，西门豹为邺<令>。（汉•褚少孙《西门豹治邺》）
-    url: xxxx
-    vernacular: 魏文侯时，西门豹担任邺都城的县令。
-  - word: 令
-    type: 【名词】
-    phonetic: ling4
-    trans: ❺县令。
-    ancient: 有华阴<令>，欲媚上官。（《促织》）
-    url: xxxx
-    vernacular: 有个华阴县的县官，想巴结上司。
-  - word: 令
-    type: 【名词】
-    phonetic: ling4
-    trans: ❻时令;时节。
-    ancient: 时<令>一反常，生灵受其病。（唐•白居易《赠友》）
-    url: xxxx
-    vernacular: xxxx
-  - word: 令
-    type: 【名词】
-    phonetic: ling4
-    trans: ❻时令;时节。
-    ancient: 群葩（pa1，花）当<令>时，只在花开之数日。（《芙蕖》）
-    url: xxxx
-    vernacular: 各种花正当时（惹人注目）的时候，只在花开的那几天
-  - word: 令
-    type: 【名词】
-    phonetic: ling4
-    trans: ❼小令，词曲中较短小的一种体制。
-    ancient: 醉翻衫袖抛小<令>，笑掷骰盘呼大釆。（唐•白居易《就花枝》）
-    url: xxxx
-    vernacular: xxxx
-  - word: 令
-    type: 【动词】
-    phonetic: ling4
-    trans: ❶使;让。
-    ancient: 有复言<令>长安君为质（人质）者，老妇必唾其面。（《触龙说赵太后》）
-    url: xxxx
-    vernacular: 有再说让长安君去做人质的人，我一定朝他脸上吐唾沫!
-  - word: 令
-    type: 【动词】
-    phonetic: ling4
-    trans: ❶使;让。
-    ancient: <令>壮者无取（通"娶"）老妇，<令>老者无取壮妻。（《勾践灭吴》）
-    url: xxxx
-    vernacular: 青壮年不准娶老年妇人，老年不能娶青壮年的妻子
-  - word: 令
-    type: 【动词】
-    phonetic: ling4
-    trans: ❶使;让。
-    ancient: 何不作衣裳？莫<令>事不举！（《孔雀东南飞》）
-    url: xxxx
-    vernacular: 你为什么还不做好衣裳？不要让事情办不成！
-  - word: 令
-    type: 【动词】
-    phonetic: ling4
-    trans: ❶使;让。
-    ancient: 瞻顾遗迹，如在昨日，<令>人长号不自禁。（《项脊轩志》）
-    url: xxxx
-    vernacular: 瞻仰回顾旧日事物，就像发生在昨天一样，让人忍不住放声大哭。
-  - word: 令
-    type: 【动词】
-    phonetic: ling4
-    trans: ❷下令。
-    ancient: 汉王乃<令>张耳与韩信遂东下井隆击赵。（《史记•高祖本纪》）
-    url: xxxx
-    vernacular: 汉王下令张耳与韩信东下井隆进攻赵
-  - word: 令
-    type: 【动词】
-    phonetic: ling4
-    trans: ❷下令。
-    ancient: 数月以来，皇上有所询问，则<令>总理衙门传旨。（清•梁启超《谭嗣同》）
-    url: xxxx
-    vernacular: 几个月以来，皇上有什么事情要询问，就命令总理衙门传达圣旨
-  - word: 令
-    type: 【动词】
-    phonetic: ling4
-    trans: ❷下令。
-    ancient: 《传》曰"其身正，不<令>而行;其身不正，虽<令>不从"。其（大概）李将军之谓也？（《史记•李将军列传》）
-    url: xxxx
-    vernacular: 自身端正，不用命令人们就会遵行；自身不端正，虽发命令也没有人听从。
-  - word: 令
-    type: 【形容词】
-    phonetic: ling4
-    trans: ❶美;善;好。
-    ancient: 君之不<令>民，父之不孝子，兄之不悌（ti4，尊敬兄长）弟，皆乡里之所釜(鬲瓦)者（用炊具釜(鬲瓦)吃饭的人，指所有的人）而逐之。（《吕氏春秋•安死》）
-    url: xxxx
-    vernacular: 国君的刁滑之民，父亲的不孝之子，兄长的忤逆之弟，他们都是被乡里一致驱遂的人。
-  - word: 令
-    type: 【形容词】
-    phonetic: ling4
-    trans: ❶美;善;好。
-    ancient: 年始十八九，便言（很会说话）多<令>才。（《孔雀东南飞》）
-    url: xxxx
-    vernacular: 年龄只有十八九岁，口才很好文才也比别人强。
-  - word: 令
-    type: 【形容词】
-    phonetic: ling4
-    trans: ❷称呼别人亲属时，前面加""令"，表示尊敬。
-    ancient: 不堪吏人妇，岂合<令>郎君？（《孔雀东南飞》）
-    url: xxxx
-    vernacular: 不配做小吏的妻子，哪里适合再嫁你们公子为妻？
-  - word: 令
-    type: 【形容词】
-    phonetic: ling4
-    trans: ❷称呼别人亲属时，前面加""令"，表示尊敬。
-    ancient: <令>妻早谢，稚子四岁。（唐•刘禹锡《为鄂州李大夫祭柳员外文》）
-    url: xxxx
-    vernacular: xxxx
-  - word: 令
-    type: 【连词】
-    phonetic: ling4
-    trans: 假如;假设。
-    ancient: <令>五人者保其首领（性命）以老于户牖（牖you3，指家中）之下，则尽其天年，人皆得以隶使之。（《五人墓碑记》）
-    url: xxxx
-    vernacular: 假使五人保全了性命，老死在家里，平平安安地度过一生，那么，人人都可以把他们当作奴仆来使唤
-  - word: 令
-    type: 【连词】
-    phonetic: ling4
-    trans: 假如;假设。
-    ancient: 假<令>仆伏法受诛，若九牛亡（失去）一毛，与蝼蚁何以异？（《报任安书》）
-    url: xxxx
-    vernacular: 假如我伏法被杀，那好像是九牛的身上失掉一根毛，同蝼蚁又有什么区别？
   - word: 路
     type: 【名词】
     phonetic: lu4
     trans: ❶道路。
     ancient: 缘溪行，忘<路>之远近。（《桃花源记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 他顺着溪水行船，忘记了路程的远近。
   - word: 路
     type: 【名词】
     phonetic: lu4
     trans: ❶道路。
     ancient: 无为在歧<路>，儿女共沾巾。（唐•王勃《送杜少府之任蜀州》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 莫在岔路口上分手之时，像多情的少年男女那样悲伤得泪湿衣巾。
   - word: 路
     type: 【名词】
     phonetic: lu4
     trans: ❶道路。
     ancient: 回朕车以复<路>兮，及行迷之未远。（《离骚》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 调转我的车走回我路啊，趁着迷途未远赶快罢休。
   - word: 路
     type: 【名词】
     phonetic: lu4
     trans: ❶道路。
     ancient: 问征夫以前<路>，恨晨光之熹微。（《归去来兮辞》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 向行人打听前面的路，遗憾的是天亮得太慢。
   - word: 路
     type: 【名词】
     phonetic: lu4
     trans: ❷途径；门路。
     ancient: 以塞忠谏之<路>也。（《出师表》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 以致于堵塞人们忠心地进行规劝的言路。
   - word: 路
     type: 【名词】
     phonetic: lu4
     trans: ❷途径；门路。
     ancient: 无<路>请缨，等终军之弱冠;有怀投笔，慕宗悫之长风。（《滕王阁序》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 虽然和终军年龄相等，却没有报国的机会；像班超那样有投笔从戎的豪情，也有宗悫“乘风破浪”的壮志。
   - word: 路
     type: 【名词】
     phonetic: lu4
     trans: ❷途径；门路。
     ancient: 【高考题例】胸中磊落藏五兵，欲试无<路>空峥嵘（宋•陆游《题醉中所作草书卷后》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 胸中自有军事谋略，想要试炼一番却没有门路，空怀豪情。
   - word: 路
     type: 【名词】
     phonetic: lu4
     trans: ❸职位;政权。
     ancient: 夫子当<路>于齐。（《孟子•公孙丑上》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 先生如果在齐国当权
   - word: 路
     type: 【名词】
     phonetic: lu4
     trans: ❸职位;政权。
     ancient: 当涂（道路）者升青云，失<路>者委沟渠。（汉•扬雄《解嘲》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 当权的青云直上，落拓的委弃沟渠。
   - word: 路
     type: 【名词】
     phonetic: lu4
@@ -256,55 +74,55 @@ quizzes:
     type: 【名词】
     phonetic: lu4
     trans: ❹通"辂"。车。
-    ancient: 彼<路>斯何？君子之车。（《诗经•小雅•采薇》）
+    ancient: 彼尔维何？维常之华。彼<路>斯何？君子之车。（《诗经•小雅•采薇》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 那盛开的花是什么？是棠棣之花。那很大很威武的车是什么？那是将士的军车
   - word: 路
     type: 【名词】
     phonetic: lu4
     trans: ❹通"辂"。车。
     ancient: 筚<路>（驾着柴车）蓝缕，以启山林。（《左传•宣公十二年）），
     url: xxxx
-    vernacular: xxxx
+    vernacular: "驾着简陋的车,穿着破烂的衣服去开辟山林.形容创业的艰苦."
   - word: 路
     type: 【名词】
     phonetic: lu4
     trans: ❺行政区划名。宋时相当于现在的省;元时降为二等政区，隶属于省，与府相当。
     ancient: 予除（拜官授职）右丞相兼枢密使，都督诸<路>军马。（《〈指南录〉后序》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "我官拜右丞相和枢密使,监察管理各路军队.除:被授予...官职.右丞/枢密使都是官职名.都督:监察管理.军马:军队马车."
   - word: 路
     type: 【名词】
     phonetic: lu4
     trans: ❺行政区划名。宋时相当于现在的省;元时降为二等政区，隶属于省，与府相当。
     ancient: 四十三年，望中犹记，烽火扬州<路>。（《永遇乐•京口北固亭怀古》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 四十三年过去了，如今瞭望长江北岸，还记得扬州战火连天的情景。
   - word: 路
     type: 【名词】
     phonetic: lu4
     trans: ❺行政区划名。宋时相当于现在的省;元时降为二等政区，隶属于省，与府相当。
     ancient: 【高考题例】甫半岁，得善田二万六千顷，募士七千四百人，为他<路>最。（《宋史•何灌传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 不到半年，就得到了质量良好的耕地二万六千顷，招募到了弓箭手七千四百人，是其他行政路区相比是最成功的。
   - word: 路
     type: 【名词】
     phonetic: lu4
     trans: ❺行政区划名。宋时相当于现在的省;元时降为二等政区，隶属于省，与府相当。
     ancient: 东西异<路>，不当与，然安忍于旧治坐视？（《宋史•萧燧传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 东部西部不属同路，按说不该给粮食，但哪能忍心对原管辖地区不管不问呢?
   - word: 路
     type: 【名词】
     phonetic: lu4
     trans: ❺行政区划名。宋时相当于现在的省;元时降为二等政区，隶属于省，与府相当。
     ancient: 浩招辑流亡，开营田，以其规置颁示诸<路>。（《宋史•郭浩传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "郭浩召集逃亡流落在外的人,开辟耕地,将自己的规划安排发布各地。"
   - word: 路
     type: 【形容词】
     phonetic: lu4
     trans: 疲乏;羸弱。
     ancient: 且一人之身而百工之所为备，如必自为而后用之，是率天下而<路>也。（《孟子•滕文公上》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 一个人身上(所需的用品)要靠各种工匠来替他制备，如果必须一件一件地亲自做出来然后去使用它，这是率领天下的人疲于奔命。
