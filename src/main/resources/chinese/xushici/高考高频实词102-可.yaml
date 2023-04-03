@@ -8,28 +8,56 @@ words:
     samples:
       - trans: ❶助动词。可以;能够。
         sentences:
-          - ancient: 法虽今而至，犹若不可法。（《吕氏春秋•察今》）
+          - ancient: 法虽今而至，犹若不<可>法。（《吕氏春秋•察今》）
+            url: xxxx
+            vernacular: xxxx
           - ancient: 此人<可>就见（前去拜访），不<可>屈致也。（《隆中对》）
-          - ancient: 比权量力，则不可同年而语矣。（《过秦论》）
-          - ancient: 今有一言，可以解燕国之患。（《荆轲刺秦王》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 比权量力，则不<可>同年而语矣。（《过秦论》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 今有一言，<可>以解燕国之患。（《荆轲刺秦王》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷助动词。值得。
         sentences:
-          - ancient: 足以极视听之娱，信（实在）可乐也。（《兰亭集序》）
-          - ancient: 其文理皆有可观者。（《伤仲永》）
-          - ancient: 三五之夜，明月半墙，桂影斑驳，风移影动，珊珊可爱。（《项脊轩志》）
+          - ancient: 足以极视听之娱，信（实在）<可>乐也。（《兰亭集序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 其文理皆有<可>观者。（《伤仲永》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 三五之夜，明月半墙，桂影斑驳，风移影动，珊珊<可>爱。（《项脊轩志》）
+            url: xxxx
+            vernacular: xxxx
           - ancient: 然余居于此，多<可>喜，亦多<可>悲。（《项脊轩志》）
-          - ancient: 【高考题例】御史张羽奏云南灾，珪因极言四方灾变可畏。（《明史•傅珪传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】御史张羽奏云南灾，珪因极言四方灾变<可>畏。（《明史•傅珪传》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸适宜;适合。
         sentences:
-          - ancient: 其味相反，而皆可于口。（《庄子•天运》）
-          - ancient: 平生不可俗子眼，后世谁知吾辈心。（宋•陆游《书叹》）
+          - ancient: 其味相反，而皆<可>于口。（《庄子•天运》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 平生不<可>俗子眼，后世谁知吾辈心。（宋•陆游《书叹》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❹病愈。
         sentences:
-          - ancient: 瘦得浑似削，百般医疗终难可。（金•董解元《西厢记诸宫调》卷五）
+          - ancient: 瘦得浑似削，百般医疗终难<可>。（金•董解元《西厢记诸宫调》卷五）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❺称许;认为可以。
         sentences:
-          - ancient: 吾子好道而可吾文，或者其于道不远矣。（《答韦中立论师道书》）
-          - ancient: 百官奏事如故，宦者辄从辒凉车中可其奏事。（《史记•秦始皇本纪》）
+          - ancient: 吾子好道而<可>吾文，或者其于道不远矣。（《答韦中立论师道书》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 百官奏事如故，宦者辄从辒凉车中<可>其奏事。（《史记•秦始皇本纪》）
+            url: xxxx
+            vernacular: xxxx
   - word: 可
     type: 【副词】
     phonetic: ke
@@ -38,17 +66,28 @@ words:
     samples:
       - trans: ❶表示反问。岂;哪。
         sentences:
-          - ancient: 此情可待成追忆？只是当时已惘然。（《锦瑟》）
-          - ancient: 可独终身数相见，子孙长作隔墙人。（唐•白居易《欲与元八卜邻先有是赠》）
-          - ancient: 可堪回首，佛狸祠下，一片神鸦社鼓。（《永遇乐•京口北固亭怀古》）
+          - ancient: 此情<可>待成追忆？只是当时已惘然。（《锦瑟》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <可>独终身数相见，子孙长作隔墙人。（唐•白居易《欲与元八卜邻先有是赠》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <可>堪回首，佛狸祠下，一片神鸦社鼓。（《永遇乐•京口北固亭怀古》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷大约。
         sentences:
-          - ancient: 潭中鱼可百许头。（《小石潭记》）
-          - ancient: 舟首尾长约八分有奇（奇ji1，有余数），高可二黍许。（《核舟记》）
+          - ancient: 潭中鱼<可>百许头。（《小石潭记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 舟首尾长约八分有奇（奇ji1，有余数），高<可>二黍许。（《核舟记》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸却;可是。
         sentences:
-          - ancient: 石状虽如帻，山形可类鸡。（唐•韦庄《鸡公馈》）
-          - ancient: 幽僻处可有人行，点苍苔白露泠泠（ling2，清凉）。（《西厢记》二本二折）
-
-
-
+          - ancient: 石状虽如帻，山形<可>类鸡。（唐•韦庄《鸡公馈》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 幽僻处<可>有人行，点苍苔白露泠泠（ling2，清凉）。（《西厢记》二本二折）
+            url: xxxx
+            vernacular: xxxx

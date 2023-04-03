@@ -8,11 +8,23 @@ words:
     samples:
       - trans: ❶同情;怜悯。
         sentences:
-          - ancient: 同病相怜，同忧（忧患）相救。（《吴越春秋•阖闾内传》）
-          - ancient: 所怜者，吾自戊寅年读汝《哭侄》诗后，至今无男。（《祭妹文》）
-          - ancient: 戍卒叫，函谷举，楚人一炬，可怜焦土！（《阿房宫赋》）
+          - ancient: 同病相<怜>，同忧（忧患）相救。（《吴越春秋•阖闾内传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 所<怜>者，吾自戊寅年读汝《哭侄》诗后，至今无男。（《祭妹文》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 戍卒叫，函谷举，楚人一炬，可<怜>焦土！（《阿房宫赋》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷喜爱;疼爱。
         sentences:
-          - ancient: 且公子纵轻胜（平原君赵胜自称），弃之降秦，独不怜公子姊邪？（《史沱•魏公子列传》）
-          - ancient: 丈夫亦爱怜其少子乎？（《触龙说赵太后》）
-          - ancient: 东家有贤女，自名秦罗敷，可怜体无比，阿母为汝求。（《孔雀东南飞》）
+          - ancient: 且公子纵轻胜（平原君赵胜自称），弃之降秦，独不<怜>公子姊邪？（《史沱•魏公子列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 丈夫亦爱<怜>其少子乎？（《触龙说赵太后》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 东家有贤女，自名秦罗敷，可<怜>体无比，阿母为汝求。（《孔雀东南飞》）
+            url: xxxx
+            vernacular: xxxx

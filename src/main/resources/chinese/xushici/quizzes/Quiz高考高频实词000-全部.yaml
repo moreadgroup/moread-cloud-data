@@ -1,184 +1,870 @@
 ---
 quizzes:
-  - word: 绝
+  - word: 堪
     type: 【动词】
-    phonetic: jue2
-    trans: 绝句。格律诗的一种，分五言、七言两种。
-    ancient: 但向我且高吟一<绝>。（《西厢记》一本三折）
+    phonetic: kan1
+    trans: ❶经得起;能忍受。
+    ancient: 多情自古伤离别，更那<堪>，冷落清秋节！（《雨霖铃》）
+    url: xxxx
+    vernacular: 自古以来多情的人最伤心的是离别，更何况又逢这萧瑟冷落的秋季，这离愁哪能经受得了！
+  - word: 堪
+    type: 【动词】
+    phonetic: kan1
+    trans: ❶经得起;能忍受。
+    ancient: 众不能<堪>，抶（chi4，打）而仆之。（《五人墓碑记》）
+    url: xxxx
+    vernacular: 大家不能再忍受了，把他们打倒在地。
+  - word: 堪
+    type: 【动词】
+    phonetic: kan1
+    trans: ❶经得起;能忍受。
+    ancient: 死而死矣，而境界危恶，层见错出，非人世所<堪>。（《〈指南录〉后序》）
+    url: xxxx
+    vernacular: 死就死了，可是像我这样境界险恶，危难层迭交错涌现，实在不是世间的人所能忍受的。
+  - word: 堪
+    type: 【动词】
+    phonetic: kan1
+    trans: ❷胜任。
+    ancient: 不<堪>吏人妇，岂合令郎君？（《孔雀东南飞》）
+    url: xxxx
+    vernacular: 不配做小吏的妻子，哪里适合再嫁你们公子为妻？
+  - word: 堪
+    type: 【动词】
+    phonetic: kan1
+    trans: ❸可以;能够。
+    ancient: 所向无空阔，真<堪>托死生。（唐•杜甫《房兵曹胡马》）
+    url: xxxx
+    vernacular: 这马奔驰起来，从不以道路的空阔辽远为难，骑着它完全可以放心大胆地驰骋沙场，甚至可托生死。
+  - word: 堪
+    type: 【动词】
+    phonetic: kan1
+    trans: ❸可以;能够。
+    ancient: 出师一表真名世，千载谁<堪>伯仲间！（宋•陆游《书愤》）
+    url: xxxx
+    vernacular: 出师表真可谓名不虚传，有谁像诸葛亮鞠躬尽瘁，率三军复汉室北定中原！
+  - word: 堪
+    type: 【动词】
+    phonetic: kan1
+    trans: ❸可以;能够。
+    ancient: 可<堪>回首，佛狸祠下，一片神鸦社鼓。（《永遇乐•京口北固亭怀古》）
+    url: xxxx
+    vernacular: 真是不堪回首，拓跋焘祠堂香火盛，乌鸦啄祭品，祭祀擂大鼓。
+  - word: 堪
+    type: 【动词】
+    phonetic: kan1
+    trans: ❸可以;能够。
+    ancient: 满地黄花堆积，憔悴损，如今有谁<堪>摘?（《声声慢•寻寻觅觅》）
+    url: xxxx
+    vernacular: 园中菊花堆积满地，都已经憔悴不堪，如今还有谁来采摘？
+  - word: 堪
+    type: 【动词】
+    phonetic: kan1
+    trans: ❸可以;能够。
+    ancient: 【高考题例】数里黄沙行客路，不<堪>回首思秦原。（唐•周朴《春日秦国怀古》）
+    url: xxxx
+    vernacular: 行走好几里路，还都是茫茫黄沙，遥想秦地当年的繁盛，的确让人不堪回首。
+  - word: 抗
+    type: 【动词】
+    phonetic: kang4
+    trans: ❶相敌;对抗。
+    ancient: 唐之黄巢，横行天下，而所至将吏无敢与之<抗>者。广（宋•王安石《上皇帝万言书》）
     url: xxxx
     vernacular: xxxx
-  - word: 绝
+  - word: 抗
     type: 【动词】
-    phonetic: jue2
-    trans: ❶断开;截断。
-    ancient: 今滕，<绝>长补短，将五十里也，犹可以为善国。（《孟子•滕文公上》）
+    phonetic: kang4
+    trans: ❶相敌;对抗。
+    ancient: 非刘豫州（指刘备）莫可以当曹操者，然豫州新败之后，安能<抗>此难乎？（《资治通鉴•汉纪五十七》）
     url: xxxx
-    vernacular: 今天的滕国截长补短， 算起来方圆近五十里， 仍可成为一个好国家。
-  - word: 绝
+    vernacular: xxxx
+  - word: 抗
     type: 【动词】
-    phonetic: jue2
-    trans: ❶断开;截断。
-    ancient: "秦王惊，自引而起,<绝>袖。（《战国策•燕策三》）"
+    phonetic: kang4
+    trans: ❶相敌;对抗。
+    ancient: 泾渭贯其间，沃壤谁与<抗>？（宋•陆游《秋怀》）
     url: xxxx
-    vernacular: 秦王非常惊骇，自己挣扎着站起来，扯断袖子。
-  - word: 绝
+    vernacular: xxxx
+  - word: 抗
     type: 【动词】
-    phonetic: jue2
-    trans: ❶断开;截断。
-    ancient: 如怨如慕，如泣如诉，余音袅袅，不<绝>如缕。（《赤壁赋》）
+    phonetic: kang4
+    trans: ❶相敌;对抗。
+    ancient: 谪戍之众，非<抗>于九国之师。（《过秦论》）
     url: xxxx
-    vernacular: 有如哀怨有如思慕，像是哭泣，又像是倾诉，尾声凄切、婉转、悠长，如同不断的细丝。
-  - word: 绝
+    vernacular: xxxx
+  - word: 抗
     type: 【动词】
-    phonetic: jue2
-    trans: ❶断开;截断。
-    ancient: 归去来兮，请息交以<绝>游。（《归去来兮辞》）
+    phonetic: kang4
+    trans: ❷举起;扬起。
+    ancient: <抗>皓（白）手而清歌。（三国魏•曹植《七启》）
     url: xxxx
-    vernacular: 回家去吧！让我同外界断绝交游。
-  - word: 绝
+    vernacular: xxxx
+  - word: 抗
     type: 【动词】
-    phonetic: jue2
-    trans: ❷经过;渡过。
-    ancient: 假舟楫者，非能水也，而<绝>江河。（《劝学》）
+    phonetic: kang4
+    trans: ❷举起;扬起。
+    ancient: <抗>首漱朝露。（三国魏•嵇康《兄季才公穆入军赠诗》）
     url: xxxx
-    vernacular: 借助舟船的人，并不善于游泳，却可以横渡长江黄河。
-  - word: 绝
+    vernacular: xxxx
+  - word: 抗
     type: 【动词】
-    phonetic: jue2
-    trans: ❷经过;渡过。
-    ancient: "夏四月,卫青复将六将军<绝>幕（通\"漠\"，沙漠），大克获。（《汉书•武帝纪》）"
+    phonetic: kang4
+    trans: ❸违抗;不顺从。
+    ancient: 有能<抗>君之命，窃君之重，反君之事，以安国之危，除君之辱。（《荀子•臣道》）
     url: xxxx
-    vernacular: 夏四月， 卫青再次率六名将军及士兵到达匈奴南界沙漠，大获全胜。
-  - word: 绝
-    type: 【动词】
-    phonetic: jue2
-    trans: ❷经过;渡过。
-    ancient: 西当太白有鸟"道，可以横<绝>峨眉巅。（《蜀道难》）
-    url: xxxx
-    vernacular: 西边太白山有飞鸟能过的小道。从那小路走可横渡峨眉山顶端。
-  - word: 绝
-    type: 【动词】
-    phonetic: jue2
-    trans: ❷经过;渡过。
-    ancient: "<绝>云气,负青天，然后图南,且适南冥也。（《逍遥游》）"
-    url: xxxx
-    vernacular: 超越云层，背负青天，然后向南飞翔，去往南方的大海。
-  - word: 绝
-    type: 【动词】
-    phonetic: jue2
-    trans: ❸断;尽。
-    ancient: 孔子<绝>粮陈、蔡。（《论衡•逢遇》）
-    url: xxxx
-    vernacular: 孔子在陈国和蔡国之间的地方（缺粮）受困
-  - word: 绝
-    type: 【动词】
-    phonetic: jue2
-    trans: ❹绝命;死。
-    ancient: 虽萎<绝>其亦何伤兮，哀众芳之芜秽。（《离骚》）
-    url: xxxx
-    vernacular: 它们枯萎死绝有何伤害，使我痛心的是它们质变。
-  - word: 绝
-    type: 【动词】
-    phonetic: jue2
-    trans: ❹绝命;死。
-    ancient: 我命<绝>今日，魂去尸长留！（《孔雀东南飞》）
-    url: xxxx
-    vernacular: 我的生命终结就在今天，只有尸体长久留下我的魂魄将要离去。
-  - word: 绝
-    type: 【动词】
-    phonetic: jue2
-    trans: ❺隔开；隔断。
-    ancient: 至于夏水襄陵，沿溯阻<绝>。（《三峡》）
-    url: xxxx
-    vernacular: 等到夏天江水漫上山陵的时候，下行和上行船只的航路都被阻断，无法通行。
-  - word: 绝
-    type: 【动词】
-    phonetic: jue2
-    trans: ❻停止;止歇。
-    ancient: 冰泉冷涩弦凝<绝>，凝<绝>不通声暂歇。（《琵琶行》）
-    url: xxxx
-    vernacular: 好像冰泉冷涩琵琶声开始凝结，凝结而不通畅声音渐渐地中断。
-  - word: 绝
-    type: 【动词】
-    phonetic: jue2
-    trans: ❻停止;止歇。
-    ancient: 忽然抚尺一下，群响毕<绝>。（《口技》）
-    url: xxxx
-    vernacular: 忽然醒木一拍，各种声响全部消失了。
-  - word: 绝
-    type: 【动词】
-    phonetic: jue2
-    trans: ❻停止;止歇。
-    ancient: 【高考题例】御经筵，<绝>游宴，停不急务。（《明史•马文升传》）
-    url: xxxx
-    vernacular: 御经筵，停止游玩与宴会，停止一切不紧急的事务
-  - word: 绝
-    type: 【动词】
-    phonetic: jue2
-    trans: ❼断绝;停止来往。
-    ancient: 秦甚憎齐，齐与楚从亲（交往密切）；楚诚能<绝>齐，秦愿献商、於之地六百里。（《吏记•屈原贾生列传》）
-    url: xxxx
-    vernacular: 秦国非常憎恨齐国，齐国与楚国却合纵相亲，如果楚国确实能和齐国绝交，秦国愿意献上商、於之间的六百里土地。
-  - word: 绝
-    type: 【动词】
-    phonetic: jue2
-    trans: ❽超过。
-    ancient: 博见强志，过<绝>于人。（《汉书•刘歆传》）
-    url: xxxx
-    vernacular: "见识广博,记忆力强,超过一般人。"
-  - word: 绝
+    vernacular: xxxx
+  - word: 抗
     type: 【形容词】
-    phonetic: jue2
-    trans: ❶到极点的;不能超越的。
-    ancient: 奇山异水，天下独<绝>。（《与朱元思书》）
+    phonetic: kang4
+    trans: ❶平等;对等。
+    ancient: 举坐客皆惊，下与<抗>礼，以为上客。（《史记•刺客列传》）
     url: xxxx
-    vernacular: 山水奇特独异，天下独一无二。
-  - word: 绝
+    vernacular: xxxx
+  - word: 抗
     type: 【形容词】
-    phonetic: jue2
-    trans: ❶到极点的;不能超越的。
-    ancient: 满坐宾客无不伸颈，侧目，微笑，默叹，以为妙<绝>。（《口技》）
+    phonetic: kang4
+    trans: ❷刚正不阿。
+    ancient: 天性<抗>直，无所回避。（《北史•柳庆传》）
     url: xxxx
-    vernacular: 满座的宾客没有一个不伸长脖子，偏着头看，微笑，心中默默赞叹，认为奇妙极了。
-  - word: 绝
+    vernacular: xxxx
+  - word: 抗
     type: 【形容词】
-    phonetic: jue2
-    trans: ❷极远的。
-    ancient: 寡人地<绝>兵远，不能攻也。（《史记•苏秦列传》）
+    phonetic: kang4
+    trans: ❷刚正不阿。
+    ancient: 初至北营，<抗>辞慷慨，上下颇惊动，北亦未敢遽轻吾国。（《〈指南录〉后序》）
     url: xxxx
-    vernacular: "我的国家和宋国路途隔绝,军队距宋太远,不能直接攻打它"
-  - word: 绝
+    vernacular: xxxx
+  - word: 抗
     type: 【形容词】
-    phonetic: jue2
-    trans: ❸隔绝的;封闭的。
-    ancient: 【动词】率妻子邑人来此<绝>境。（《桃花源记》）
+    phonetic: kang4
+    trans: ❷刚正不阿。
+    ancient: 【高考题例】夫台谏（台官与谏官的合称）为天下持是非，而使人贱辱至此，安望其<抗>颜直绳，为国家锄大奸、歼巨蠹哉！（《明史•陈登云传》）
     url: xxxx
-    vernacular: 领着妻子儿女和乡邻们来到这个与世人隔绝的地方
-  - word: 绝
+    vernacular: xxxx
+  - word: 抗
+    type: 【形容词】
+    phonetic: kang4
+    trans: ❸高尚。
+    ancient: 申徒狄（人名）负石自沉于渊，而溺者不可以为<抗>。（《淮南字•说山训》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 抗
+    type: 【形容词】
+    phonetic: kang4
+    trans: ❸高尚。
+    ancient: 有大禹之遗风，太伯之义让，严遵之<抗>志，黄公之高节。（《晋书•夏统传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 可
+    type: 【动词】
+    phonetic: ke
+    trans: ❶助动词。可以;能够。
+    ancient: 法虽今而至，犹若不<可>法。（《吕氏春秋•察今》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 可
+    type: 【动词】
+    phonetic: ke
+    trans: ❶助动词。可以;能够。
+    ancient: 此人<可>就见（前去拜访），不<可>屈致也。（《隆中对》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 可
+    type: 【动词】
+    phonetic: ke
+    trans: ❶助动词。可以;能够。
+    ancient: 比权量力，则不<可>同年而语矣。（《过秦论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 可
+    type: 【动词】
+    phonetic: ke
+    trans: ❶助动词。可以;能够。
+    ancient: 今有一言，<可>以解燕国之患。（《荆轲刺秦王》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 可
+    type: 【动词】
+    phonetic: ke
+    trans: ❷助动词。值得。
+    ancient: 足以极视听之娱，信（实在）<可>乐也。（《兰亭集序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 可
+    type: 【动词】
+    phonetic: ke
+    trans: ❷助动词。值得。
+    ancient: 其文理皆有<可>观者。（《伤仲永》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 可
+    type: 【动词】
+    phonetic: ke
+    trans: ❷助动词。值得。
+    ancient: 三五之夜，明月半墙，桂影斑驳，风移影动，珊珊<可>爱。（《项脊轩志》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 可
+    type: 【动词】
+    phonetic: ke
+    trans: ❷助动词。值得。
+    ancient: 然余居于此，多<可>喜，亦多<可>悲。（《项脊轩志》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 可
+    type: 【动词】
+    phonetic: ke
+    trans: ❷助动词。值得。
+    ancient: 【高考题例】御史张羽奏云南灾，珪因极言四方灾变<可>畏。（《明史•傅珪传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 可
+    type: 【动词】
+    phonetic: ke
+    trans: ❸适宜;适合。
+    ancient: 其味相反，而皆<可>于口。（《庄子•天运》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 可
+    type: 【动词】
+    phonetic: ke
+    trans: ❸适宜;适合。
+    ancient: 平生不<可>俗子眼，后世谁知吾辈心。（宋•陆游《书叹》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 可
+    type: 【动词】
+    phonetic: ke
+    trans: ❹病愈。
+    ancient: 瘦得浑似削，百般医疗终难<可>。（金•董解元《西厢记诸宫调》卷五）
+    url: xxxx
+    vernacular: xxxx
+  - word: 可
+    type: 【动词】
+    phonetic: ke
+    trans: ❺称许;认为可以。
+    ancient: 吾子好道而<可>吾文，或者其于道不远矣。（《答韦中立论师道书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 可
+    type: 【动词】
+    phonetic: ke
+    trans: ❺称许;认为可以。
+    ancient: 百官奏事如故，宦者辄从辒凉车中<可>其奏事。（《史记•秦始皇本纪》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 可
     type: 【副词】
-    phonetic: jue2
-    trans: ❶极其;非常。
-    ancient: 四顾奇峰错列，众壑纵横，真黄山<绝>胜处。（明•徐霞客《游黄山日记》）
+    phonetic: ke
+    trans: ❶表示反问。岂;哪。
+    ancient: 此情<可>待成追忆？只是当时已惘然。（《锦瑟》）
     url: xxxx
-    vernacular: 四周环顾，只见奇峰错落地排列，众多的山谷纵横交错，实在是黄山风景最美的地方！
-  - word: 绝
+    vernacular: xxxx
+  - word: 可
     type: 【副词】
-    phonetic: jue2
-    trans: ❶极其;非常。
-    ancient: "最是一年春好处,<绝>胜烟柳满皇都。（唐•韩愈《早春呈水部张十八员外》）"
+    phonetic: ke
+    trans: ❶表示反问。岂;哪。
+    ancient: <可>独终身数相见，子孙长作隔墙人。（唐•白居易《欲与元八卜邻先有是赠》）
     url: xxxx
-    vernacular: 一年之中最美的就是这早春的景色，它远胜过了绿杨满城的暮春。
-  - word: 绝
+    vernacular: xxxx
+  - word: 可
     type: 【副词】
-    phonetic: jue2
-    trans: ❶极其;非常。
-    ancient: 【高考题例】济从骑有一马<绝>难乘，少能骑者。（《世说新语•家有名士》）
+    phonetic: ke
+    trans: ❶表示反问。岂;哪。
+    ancient: <可>堪回首，佛狸祠下，一片神鸦社鼓。（《永遇乐•京口北固亭怀古》）
     url: xxxx
-    vernacular: 王济的随从有一匹烈马，非常难于驾驭，很少有能骑的人。
-  - word: 绝
+    vernacular: xxxx
+  - word: 可
     type: 【副词】
-    phonetic: jue2
-    trans: ❷绝对;完全。
-    ancient: 而心目耳力俱穷，<绝>无踪响。（《促织》）
+    phonetic: ke
+    trans: ❷大约。
+    ancient: 潭中鱼<可>百许头。（《小石潭记》）
     url: xxxx
-    vernacular: 然而心力、视力、听力都用尽了，结果还是一点蟋蟀的踪迹响声都没有。
+    vernacular: xxxx
+  - word: 可
+    type: 【副词】
+    phonetic: ke
+    trans: ❷大约。
+    ancient: 舟首尾长约八分有奇（奇ji1，有余数），高<可>二黍许。（《核舟记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 可
+    type: 【副词】
+    phonetic: ke
+    trans: ❸却;可是。
+    ancient: 石状虽如帻，山形<可>类鸡。（唐•韦庄《鸡公馈》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 可
+    type: 【副词】
+    phonetic: ke
+    trans: ❸却;可是。
+    ancient: 幽僻处<可>有人行，点苍苔白露泠泠（ling2，清凉）。（《西厢记》二本二折）
+    url: xxxx
+    vernacular: xxxx
+  - word: 克
+    type: 【动词】
+    phonetic: ke4
+    trans: ❶能够;胜任。
+    ancient: 凡昔元首（君主），承天景命（大命，所谓上天授予王位之命），善始著实繁，<克>终者盖寡。（《谏太宗十思疏》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 克
+    type: 【动词】
+    phonetic: ke4
+    trans: ❶能够;胜任。
+    ancient: 汝之纯明而不<克>蒙其泽乎？（《祭十二郎文》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 克
+    type: 【动词】
+    phonetic: ke4
+    trans: ❷战胜;攻下。
+    ancient: 夫一人奋死，可以对十，十可以对百，百可以对千，千可以对万，万可以<克>天下矣。（《韩非子•初见秦》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 克
+    type: 【动词】
+    phonetic: ke4
+    trans: ❷战胜;攻下。
+    ancient: 以此攻城，何城不<克>！（《左传•僖公四年》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 克
+    type: 【动词】
+    phonetic: ke4
+    trans: ❷战胜;攻下。
+    ancient: 既<克>，公问其故。（《曹刿论战》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 克
+    type: 【动词】
+    phonetic: ke4
+    trans: ❸完成。
+    ancient: 日中而<克>葬。（《左传•宣公八年》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 克
+    type: 【动词】
+    phonetic: ke4
+    trans: ❹克制;克服。
+    ancient: 奉公<克>己，矜恤孤羸（lei2，瘦弱）。（《后汉书•周泽传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 克
+    type: 【动词】
+    phonetic: ke4
+    trans: ❺好胜;忌刻。
+    ancient: 无好无恶，不忌不<克>之谓也。（《左传•僖公九年》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 克
+    type: 【动词】
+    phonetic: ke4
+    trans: ❺好胜;忌刻。
+    ancient: 吾知绍之为人，志大而智小，色厉而胆薄，忌<克>而少威。（《三国志•魏书•武帝纪》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 克
+    type: 【动词】
+    phonetic: ke4
+    trans: ❻通"刻"。铭刻。
+    ancient: 谨以<克>心，非但书诸绅也。（《三国志•吴书•贺齐传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 克
+    type: 【动词】
+    phonetic: ke4
+    trans: ❼通"剋"。约定（日期）。
+    ancient: 公乃与<克>日会战。（《三国志•魏书•武帝纪》）
+    url: xxxx
+    vernacular: xxxx
+  - word: xxxx
+    type: 【名词】
+    phonetic: xx1
+    trans: ❶xxxx
+    ancient: xxx
+    url: xxxx
+    vernacular: 见92页""归㊁"。
+  - word: 类
+    type: 【名词】
+    phonetic: lei4
+    trans: ❶种类;类别。
+    ancient: 今欲以先王之政，治当世之民，皆守株之<类>也。（《韩非子•五蠹》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 类
+    type: 【名词】
+    phonetic: lei4
+    trans: ❶种类;类别。
+    ancient: 故王之不王，非挟太山以超北海之<类>也。（《齐桓晋文之事》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 类
+    type: 【名词】
+    phonetic: lei4
+    trans: ❶种类;类别。
+    ancient: 举<类>迩（近）而见义远。（《史记•屈原贾生列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 类
+    type: 【名词】
+    phonetic: lei4
+    trans: ❶种类;类别。
+    ancient: 仰观宇宙之美，俯察品<类>之盛。（《兰亭集序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 类
+    type: 【名词】
+    phonetic: lei4
+    trans: ❷同类。
+    ancient: 然后知是山之特立，不与培塿为<类>。（《始得西山宴游记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 类
+    type: 【名词】
+    phonetic: lei4
+    trans: ❸典范;榜样。
+    ancient: 明告君子，吾将以为<类>兮。（战国楚•屈原《九章•怀沙》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 类
+    type: 【动词】
+    phonetic: lei4
+    trans: ❶类推。
+    ancient: 欲进利除害，不知任贤能，此则不知<类>之患也。（《韩非子•难势》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 类
+    type: 【动词】
+    phonetic: lei4
+    trans: ❶类推。
+    ancient: 义不杀少而杀众，不可谓知<类>。（《公输》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 类
+    type: 【动词】
+    phonetic: lei4
+    trans: ❷类似;像。
+    ancient: 吾儿，久不见若（你的）影，何竟日默默在此，大<类>女郎也？（《项脊轩志》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 类
+    type: 【动词】
+    phonetic: lei4
+    trans: ❷类似;像。
+    ancient: 佛印绝<类>弥勒。（《核舟记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 类
+    type: 【动词】
+    phonetic: lei4
+    trans: ❷类似;像。
+    ancient: 【高考题例】密谋匿之民间，别求状<类>宦者二人杀之。（《宋史•孙傅传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 类
+    type: 【动词】
+    phonetic: lei4
+    trans: ❷类似;像。
+    ancient: 【高考题例】珪居闲<类>木讷者。（《明史•傅珪传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 类
+    type: 【副词】
+    phonetic: lei4
+    trans: 大抵;大致。
+    ancient: 走卒<类>士服，农夫蹑丝履。（《训俭示康》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 怜
+    type: 【动词】
+    phonetic: lian2
+    trans: ❶同情;怜悯。
+    ancient: 同病相<怜>，同忧（忧患）相救。（《吴越春秋•阖闾内传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 怜
+    type: 【动词】
+    phonetic: lian2
+    trans: ❶同情;怜悯。
+    ancient: 所<怜>者，吾自戊寅年读汝《哭侄》诗后，至今无男。（《祭妹文》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 怜
+    type: 【动词】
+    phonetic: lian2
+    trans: ❶同情;怜悯。
+    ancient: 戍卒叫，函谷举，楚人一炬，可<怜>焦土！（《阿房宫赋》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 怜
+    type: 【动词】
+    phonetic: lian2
+    trans: ❷喜爱;疼爱。
+    ancient: 且公子纵轻胜（平原君赵胜自称），弃之降秦，独不<怜>公子姊邪？（《史沱•魏公子列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 怜
+    type: 【动词】
+    phonetic: lian2
+    trans: ❷喜爱;疼爱。
+    ancient: 丈夫亦爱<怜>其少子乎？（《触龙说赵太后》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 怜
+    type: 【动词】
+    phonetic: lian2
+    trans: ❷喜爱;疼爱。
+    ancient: 东家有贤女，自名秦罗敷，可<怜>体无比，阿母为汝求。（《孔雀东南飞》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 聊
+    type: 【动词】
+    phonetic: liao2
+    trans: ❶耳鸣。
+    ancient: 横舟航（连船组成的浮桥）而济湘兮，耳<聊>啾而戃慌（失意的样子）。（汉•刘向《九叹•远逝》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 聊
+    type: 【动词】
+    phonetic: liao2
+    trans: ❷依靠;凭借。
+    ancient: 穷饿无<聊>，追购（悬赏追捕）又急，天高地迥，号呼靡及。（《〈指南录〉后序）
+    url: xxxx
+    vernacular: xxxx
+  - word: 聊
+    type: 【动词】
+    phonetic: liao2
+    trans: ❷依靠;凭借。
+    ancient: 其后二年，余久卧病无<聊>，乃使人复葺南阁子，其制稍异于前。（《项脊轩志》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 聊
+    type: 【形容词】
+    phonetic: liao2
+    trans: 恐惧的样子。
+    ancient: 恍（huang3，迷迷糊糊）兮忽兮，<聊>兮慄兮，混汩汩兮。（汉•枚乘《七发》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 聊
+    type: 【副词】
+    phonetic: liao2
+    trans: 姑且;暂且。
+    ancient: 虞卿曰："王<聊>听臣，发使出重宝以附楚、魏，楚、魏……必入吾使。"（《战国策.赵策三》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 聊
+    type: 【副词】
+    phonetic: liao2
+    trans: 姑且;暂且。
+    ancient: <聊>乘化以归尽，乐夫天命复奚疑！（《归去来兮辞》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【名词】
+    phonetic: ling4
+    trans: ❶法令。
+    ancient: 所谓损有余、补不足，<令>出而民利者也。（汉•晁错《论贵粟疏》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【名词】
+    phonetic: ling4
+    trans: ❶法令。
+    ancient: 王使屈平为<令>，众莫不知，每一<令>出，平伐（夸耀）其功。（《史记•屈原贾生列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【名词】
+    phonetic: ling4
+    trans: ❶法令。
+    ancient: 且陛下春秋高，法<令>亡常，大臣亡罪夷灭者数十家。（《苏武传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【名词】
+    phonetic: ling4
+    trans: ❷命令。
+    ancient: <令>初下，群臣进谏，门庭若市。（《邹忌讽齐王纳谏》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【名词】
+    phonetic: ling4
+    trans: ❷命令。
+    ancient: 留二日，维扬帅下逐客之<令>。（《〈指南录〉后序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【名词】
+    phonetic: ling4
+    trans: ❸辞令，应酬的言辞。
+    ancient: 其次不辱辞<令>，其次诎体受辱。（《报任安书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【名词】
+    phonetic: ling4
+    trans: ❸辞令，应酬的言辞。
+    ancient: 博闻强志，明于治乱，娴于辞<令>。（《史记•屈原贾生列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【名词】
+    phonetic: ling4
+    trans: ❹封建时代中央机构的长官。如尚书令、中书令等。
+    ancient: 公车特征拜郎中，再迁为太史<令>。（《张衡传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【名词】
+    phonetic: ling4
+    trans: ❺县令。
+    ancient: 魏文侯时，西门豹为邺<令>。（汉•褚少孙《西门豹治邺》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【名词】
+    phonetic: ling4
+    trans: ❺县令。
+    ancient: 有华阴<令>，欲媚上官。（《促织》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【名词】
+    phonetic: ling4
+    trans: ❻时令;时节。
+    ancient: 时<令>一反常，生灵受其病。（唐•白居易《赠友》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【名词】
+    phonetic: ling4
+    trans: ❻时令;时节。
+    ancient: 群葩（pa1，花）当<令>时，只在花开之数日。（《芙蕖》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【名词】
+    phonetic: ling4
+    trans: ❼小令，词曲中较短小的一种体制。
+    ancient: 醉翻衫袖抛小<令>，笑掷骰盘呼大釆。（唐•白居易《就花枝》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【动词】
+    phonetic: ling4
+    trans: ❶使;让。
+    ancient: 有复言<令>长安君为质（人质）者，老妇必唾其面。（《触龙说赵太后》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【动词】
+    phonetic: ling4
+    trans: ❶使;让。
+    ancient: <令>壮者无取（通"娶"）老妇，<令>老者无取壮妻。（《勾践灭吴》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【动词】
+    phonetic: ling4
+    trans: ❶使;让。
+    ancient: 何不作衣裳？莫<令>事不举！（《孔雀东南飞》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【动词】
+    phonetic: ling4
+    trans: ❶使;让。
+    ancient: 瞻顾遗迹，如在昨日，<令>人长号不自禁。（《项脊轩志》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【动词】
+    phonetic: ling4
+    trans: ❷下令。
+    ancient: 汉王乃<令>张耳与韩信遂东下井隆击赵。（《史记•高祖本纪》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【动词】
+    phonetic: ling4
+    trans: ❷下令。
+    ancient: 数月以来，皇上有所询问，则<令>总理衙门传旨。（清•梁启超《谭嗣同》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【动词】
+    phonetic: ling4
+    trans: ❷下令。
+    ancient: 《传》曰"其身正，不<令>而行;其身不正，虽<令>不从"。其（大概）李将军之谓也？（《史记•李将军列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【形容词】
+    phonetic: ling4
+    trans: ❶美;善;好。
+    ancient: 君之不<令>民，父之不孝子，兄之不悌（ti4，尊敬兄长）弟，皆乡里之所釜(鬲瓦)者（用炊具釜(鬲瓦)吃饭的人，指所有的人）而逐之。（《吕氏春秋•安死》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【形容词】
+    phonetic: ling4
+    trans: ❶美;善;好。
+    ancient: 年始十八九，便言（很会说话）多<令>才。（《孔雀东南飞》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【形容词】
+    phonetic: ling4
+    trans: ❷称呼别人亲属时，前面加""令"，表示尊敬。
+    ancient: 不堪吏人妇，岂合<令>郎君？（《孔雀东南飞》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【形容词】
+    phonetic: ling4
+    trans: ❷称呼别人亲属时，前面加""令"，表示尊敬。
+    ancient: <令>妻早谢，稚子四岁。（唐•刘禹锡《为鄂州李大夫祭柳员外文》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【连词】
+    phonetic: ling4
+    trans: 假如;假设。
+    ancient: <令>五人者保其首领（性命）以老于户牖（牖you3，指家中）之下，则尽其天牵，，人皆得以隶使之。（《五人墓碑记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【连词】
+    phonetic: ling4
+    trans: 假如;假设。
+    ancient: 假<令>仆伏法受诛，若九牛亡（失去）一毛，与蝼蚁何以异？（《报任安书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 路
+    type: 【名词】
+    phonetic: lu4
+    trans: ❶道路。
+    ancient: 缘溪行，忘<路>之远近。（《桃花源记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 路
+    type: 【名词】
+    phonetic: lu4
+    trans: ❶道路。
+    ancient: 无为在歧<路>，儿女共沾巾。（唐•王勃《送杜少府之任蜀州》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 路
+    type: 【名词】
+    phonetic: lu4
+    trans: ❶道路。
+    ancient: 回朕车以复<路>兮，及行迷之未远。（《离骚》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 路
+    type: 【名词】
+    phonetic: lu4
+    trans: ❶道路。
+    ancient: 问征夫以前<路>，恨晨光之熹微。（《归去来兮辞》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 路
+    type: 【名词】
+    phonetic: lu4
+    trans: ❷途径；门路。
+    ancient: 以塞忠谏之<路>也。（《出师表》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 路
+    type: 【名词】
+    phonetic: lu4
+    trans: ❷途径；门路。
+    ancient: 无<路>请缨，等终军之弱冠;有怀投笔，慕宗悫之长风。（《滕王阁序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 路
+    type: 【名词】
+    phonetic: lu4
+    trans: ❷途径；门路。
+    ancient: 【高考题例】胸中磊落藏五兵，欲试无<路>空峥嵘（宋•陆游《题醉中所作草书卷后》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 路
+    type: 【名词】
+    phonetic: lu4
+    trans: ❸职位;政权。
+    ancient: 夫子当<路>于齐。（《孟子•公孙丑上》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 路
+    type: 【名词】
+    phonetic: lu4
+    trans: ❸职位;政权。
+    ancient: 当涂（道路）者升青云，失<路>者委沟渠。（汉•扬雄《解嘲》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 路
+    type: 【名词】
+    phonetic: lu4
+    trans: ❹通"辂"。车。
+    ancient: 杜洩（人名）将以<路>葬。（《左传•昭公四年》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 路
+    type: 【名词】
+    phonetic: lu4
+    trans: ❹通"辂"。车。
+    ancient: 彼<路>斯何？君子之车。（《诗经•小雅•采薇》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 路
+    type: 【名词】
+    phonetic: lu4
+    trans: ❹通"辂"。车。
+    ancient: 筚<路>（驾着柴车）蓝缕，以启山林。（《左传•宣公十二年）），
+    url: xxxx
+    vernacular: xxxx
+  - word: 路
+    type: 【名词】
+    phonetic: lu4
+    trans: ❺行政区划名。宋时相当于现在的省;元时降为二等政区，隶属于省，与府相当。
+    ancient: 予除（拜官授职）右丞相兼枢密使，都督诸<路>军马。（《〈指南录〉后序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 路
+    type: 【名词】
+    phonetic: lu4
+    trans: ❺行政区划名。宋时相当于现在的省;元时降为二等政区，隶属于省，与府相当。
+    ancient: 四十三年，望中犹记，烽火扬州<路>。（《永遇乐•京口北固亭怀古》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 路
+    type: 【名词】
+    phonetic: lu4
+    trans: ❺行政区划名。宋时相当于现在的省;元时降为二等政区，隶属于省，与府相当。
+    ancient: 【高考题例】甫半岁，得善田二万六千顷，募士七千四百人，为他<路>最。（《宋史•何灌传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 路
+    type: 【名词】
+    phonetic: lu4
+    trans: ❺行政区划名。宋时相当于现在的省;元时降为二等政区，隶属于省，与府相当。
+    ancient: 东西异<路>，不当与，然安忍于旧治坐视？（《宋史•萧燧传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 路
+    type: 【名词】
+    phonetic: lu4
+    trans: ❺行政区划名。宋时相当于现在的省;元时降为二等政区，隶属于省，与府相当。
+    ancient: 浩招辑流亡，开营田，以其规置颁示诸<路>。（《宋史•郭浩传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 路
+    type: 【形容词】
+    phonetic: lu4
+    trans: 疲乏;羸弱。
+    ancient: 且一人之身而百工之所为备，如必自为而后用之，是率天下而<路>也。（《孟子•滕文公上》）
+    url: xxxx
+    vernacular: xxxx

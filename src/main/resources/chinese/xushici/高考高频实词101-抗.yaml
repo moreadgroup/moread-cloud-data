@@ -8,18 +8,31 @@ words:
     samples:
       - trans: ❶相敌;对抗。
         sentences:
-          - ancient: 唐之黄巢，横行天下，而所至将吏无敢与之抗者。广（宋•王安石《上皇帝万言书》）
-          - ancient: 非刘豫州（指刘备）莫可以当曹操者，然豫州新败之后，安能抗此难乎？（《资治通鉴•汉纪五十七》）
-          - ancient: 泾渭贯其间，沃壤谁与抗？（宋•陆游《秋怀》）
-          - ancient: 谪戍之众，非抗于九国之师。（《过秦论》）
+          - ancient: 唐之黄巢，横行天下，而所至将吏无敢与之<抗>者。广（宋•王安石《上皇帝万言书》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 非刘豫州（指刘备）莫可以当曹操者，然豫州新败之后，安能<抗>此难乎？（《资治通鉴•汉纪五十七》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 泾渭贯其间，沃壤谁与<抗>？（宋•陆游《秋怀》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 谪戍之众，非<抗>于九国之师。（《过秦论》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷举起;扬起。
         sentences:
-          - ancient: 抗皓（白）手而清歌。（三国魏•曹植《七启》）
-          - ancient: 抗首漱朝露。（三国魏•嵇康《兄季才公穆入军赠诗》）
+          - ancient: <抗>皓（白）手而清歌。（三国魏•曹植《七启》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <抗>首漱朝露。（三国魏•嵇康《兄季才公穆入军赠诗》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸违抗;不顺从。
         sentences:
-          - ancient: 有能抗君之命，窃君之重，反君之事，以安国之危，除君之辱。（《荀子•臣道》）
-
+          - ancient: 有能<抗>君之命，窃君之重，反君之事，以安国之危，除君之辱。（《荀子•臣道》）
+            url: xxxx
+            vernacular: xxxx
   - word: 抗
     type: 【形容词】
     phonetic: kang4
@@ -28,13 +41,25 @@ words:
     samples:
       - trans: ❶平等;对等。
         sentences:
-          - ancient: 举坐客皆惊，下与抗礼，以为上客。（《史记•刺客列传》）
+          - ancient: 举坐客皆惊，下与<抗>礼，以为上客。（《史记•刺客列传》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷刚正不阿。
         sentences:
-          - ancient: 天性抗直，无所回避。（《北史•柳庆传》）
-          - ancient: 初至北营，抗辞慷慨，上下颇惊动，北亦未敢遽轻吾国。（《〈指南录〉后序》）
-          - ancient: 【高考题例】夫台谏（台官与谏官的合称）为天下持是非，而使人贱辱至此，安望其抗颜直绳，为国家锄大奸、歼巨蠹哉！（《明史•陈登云传》）
+          - ancient: 天性<抗>直，无所回避。（《北史•柳庆传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 初至北营，<抗>辞慷慨，上下颇惊动，北亦未敢遽轻吾国。（《〈指南录〉后序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】夫台谏（台官与谏官的合称）为天下持是非，而使人贱辱至此，安望其<抗>颜直绳，为国家锄大奸、歼巨蠹哉！（《明史•陈登云传》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸高尚。
         sentences:
-          - ancient: 申徒狄（人名）负石自沉于渊，而溺者不可以为抗。（《淮南字•说山训》）
-          - ancient: 有大禹之遗风，太伯之义让，严遵之抗志，黄公之高节。（《晋书•夏统传》）
+          - ancient: 申徒狄（人名）负石自沉于渊，而溺者不可以为<抗>。（《淮南字•说山训》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 有大禹之遗风，太伯之义让，严遵之<抗>志，黄公之高节。（《晋书•夏统传》）
+            url: xxxx
+            vernacular: xxxx

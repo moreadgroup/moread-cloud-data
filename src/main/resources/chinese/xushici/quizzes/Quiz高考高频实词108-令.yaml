@@ -1,9 +1,184 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 令
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: ling4
+    trans: ❶法令。
+    ancient: 所谓损有余、补不足，<令>出而民利者也。（汉•晁错《论贵粟疏》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【名词】
+    phonetic: ling4
+    trans: ❶法令。
+    ancient: 王使屈平为<令>，众莫不知，每一<令>出，平伐（夸耀）其功。（《史记•屈原贾生列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【名词】
+    phonetic: ling4
+    trans: ❶法令。
+    ancient: 且陛下春秋高，法<令>亡常，大臣亡罪夷灭者数十家。（《苏武传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【名词】
+    phonetic: ling4
+    trans: ❷命令。
+    ancient: <令>初下，群臣进谏，门庭若市。（《邹忌讽齐王纳谏》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【名词】
+    phonetic: ling4
+    trans: ❷命令。
+    ancient: 留二日，维扬帅下逐客之<令>。（《〈指南录〉后序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【名词】
+    phonetic: ling4
+    trans: ❸辞令，应酬的言辞。
+    ancient: 其次不辱辞<令>，其次诎体受辱。（《报任安书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【名词】
+    phonetic: ling4
+    trans: ❸辞令，应酬的言辞。
+    ancient: 博闻强志，明于治乱，娴于辞<令>。（《史记•屈原贾生列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【名词】
+    phonetic: ling4
+    trans: ❹封建时代中央机构的长官。如尚书令、中书令等。
+    ancient: 公车特征拜郎中，再迁为太史<令>。（《张衡传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【名词】
+    phonetic: ling4
+    trans: ❺县令。
+    ancient: 魏文侯时，西门豹为邺<令>。（汉•褚少孙《西门豹治邺》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【名词】
+    phonetic: ling4
+    trans: ❺县令。
+    ancient: 有华阴<令>，欲媚上官。（《促织》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【名词】
+    phonetic: ling4
+    trans: ❻时令;时节。
+    ancient: 时<令>一反常，生灵受其病。（唐•白居易《赠友》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【名词】
+    phonetic: ling4
+    trans: ❻时令;时节。
+    ancient: 群葩（pa1，花）当<令>时，只在花开之数日。（《芙蕖》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【名词】
+    phonetic: ling4
+    trans: ❼小令，词曲中较短小的一种体制。
+    ancient: 醉翻衫袖抛小<令>，笑掷骰盘呼大釆。（唐•白居易《就花枝》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【动词】
+    phonetic: ling4
+    trans: ❶使;让。
+    ancient: 有复言<令>长安君为质（人质）者，老妇必唾其面。（《触龙说赵太后》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【动词】
+    phonetic: ling4
+    trans: ❶使;让。
+    ancient: <令>壮者无取（通"娶"）老妇，<令>老者无取壮妻。（《勾践灭吴》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【动词】
+    phonetic: ling4
+    trans: ❶使;让。
+    ancient: 何不作衣裳？莫<令>事不举！（《孔雀东南飞》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【动词】
+    phonetic: ling4
+    trans: ❶使;让。
+    ancient: 瞻顾遗迹，如在昨日，<令>人长号不自禁。（《项脊轩志》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【动词】
+    phonetic: ling4
+    trans: ❷下令。
+    ancient: 汉王乃<令>张耳与韩信遂东下井隆击赵。（《史记•高祖本纪》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【动词】
+    phonetic: ling4
+    trans: ❷下令。
+    ancient: 数月以来，皇上有所询问，则<令>总理衙门传旨。（清•梁启超《谭嗣同》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【动词】
+    phonetic: ling4
+    trans: ❷下令。
+    ancient: 《传》曰"其身正，不<令>而行;其身不正，虽<令>不从"。其（大概）李将军之谓也？（《史记•李将军列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【形容词】
+    phonetic: ling4
+    trans: ❶美;善;好。
+    ancient: 君之不<令>民，父之不孝子，兄之不悌（ti4，尊敬兄长）弟，皆乡里之所釜(鬲瓦)者（用炊具釜(鬲瓦)吃饭的人，指所有的人）而逐之。（《吕氏春秋•安死》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【形容词】
+    phonetic: ling4
+    trans: ❶美;善;好。
+    ancient: 年始十八九，便言（很会说话）多<令>才。（《孔雀东南飞》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【形容词】
+    phonetic: ling4
+    trans: ❷称呼别人亲属时，前面加""令"，表示尊敬。
+    ancient: 不堪吏人妇，岂合<令>郎君？（《孔雀东南飞》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【形容词】
+    phonetic: ling4
+    trans: ❷称呼别人亲属时，前面加""令"，表示尊敬。
+    ancient: <令>妻早谢，稚子四岁。（唐•刘禹锡《为鄂州李大夫祭柳员外文》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【连词】
+    phonetic: ling4
+    trans: 假如;假设。
+    ancient: <令>五人者保其首领（性命）以老于户牖（牖you3，指家中）之下，则尽其天牵，，人皆得以隶使之。（《五人墓碑记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 令
+    type: 【连词】
+    phonetic: ling4
+    trans: 假如;假设。
+    ancient: 假<令>仆伏法受诛，若九牛亡（失去）一毛，与蝼蚁何以异？（《报任安书》）
     url: xxxx
     vernacular: xxxx

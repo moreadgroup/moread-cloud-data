@@ -1,9 +1,65 @@
 ---
 quizzes:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+  - word: 堪
+    type: 【动词】
+    phonetic: kan1
+    trans: ❶经得起;能忍受。
+    ancient: 多情自古伤离别，更那<堪>，冷落清秋节！（《雨霖铃》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 自古以来多情的人最伤心的是离别，更何况又逢这萧瑟冷落的秋季，这离愁哪能经受得了！
+  - word: 堪
+    type: 【动词】
+    phonetic: kan1
+    trans: ❶经得起;能忍受。
+    ancient: 众不能<堪>，抶（chi4，打）而仆之。（《五人墓碑记》）
+    url: xxxx
+    vernacular: 大家不能再忍受了，把他们打倒在地。
+  - word: 堪
+    type: 【动词】
+    phonetic: kan1
+    trans: ❶经得起;能忍受。
+    ancient: 死而死矣，而境界危恶，层见错出，非人世所<堪>。（《〈指南录〉后序》）
+    url: xxxx
+    vernacular: 死就死了，可是像我这样境界险恶，危难层迭交错涌现，实在不是世间的人所能忍受的。
+  - word: 堪
+    type: 【动词】
+    phonetic: kan1
+    trans: ❷胜任。
+    ancient: 不<堪>吏人妇，岂合令郎君？（《孔雀东南飞》）
+    url: xxxx
+    vernacular: 不配做小吏的妻子，哪里适合再嫁你们公子为妻？
+  - word: 堪
+    type: 【动词】
+    phonetic: kan1
+    trans: ❸可以;能够。
+    ancient: 所向无空阔，真<堪>托死生。（唐•杜甫《房兵曹胡马》）
+    url: xxxx
+    vernacular: 这马奔驰起来，从不以道路的空阔辽远为难，骑着它完全可以放心大胆地驰骋沙场，甚至可托生死。
+  - word: 堪
+    type: 【动词】
+    phonetic: kan1
+    trans: ❸可以;能够。
+    ancient: 出师一表真名世，千载谁<堪>伯仲间！（宋•陆游《书愤》）
+    url: xxxx
+    vernacular: 出师表真可谓名不虚传，有谁像诸葛亮鞠躬尽瘁，率三军复汉室北定中原！
+  - word: 堪
+    type: 【动词】
+    phonetic: kan1
+    trans: ❸可以;能够。
+    ancient: 可<堪>回首，佛狸祠下，一片神鸦社鼓。（《永遇乐•京口北固亭怀古》）
+    url: xxxx
+    vernacular: 真是不堪回首，拓跋焘祠堂香火盛，乌鸦啄祭品，祭祀擂大鼓。
+  - word: 堪
+    type: 【动词】
+    phonetic: kan1
+    trans: ❸可以;能够。
+    ancient: 满地黄花堆积，憔悴损，如今有谁<堪>摘?（《声声慢•寻寻觅觅》）
+    url: xxxx
+    vernacular: 园中菊花堆积满地，都已经憔悴不堪，如今还有谁来采摘？
+  - word: 堪
+    type: 【动词】
+    phonetic: kan1
+    trans: ❸可以;能够。
+    ancient: 【高考题例】数里黄沙行客路，不<堪>回首思秦原。（唐•周朴《春日秦国怀古》）
+    url: xxxx
+    vernacular: 行走好几里路，还都是茫茫黄沙，遥想秦地当年的繁盛，的确让人不堪回首。
