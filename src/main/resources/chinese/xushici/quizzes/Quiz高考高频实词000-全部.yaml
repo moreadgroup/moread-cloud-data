@@ -1,208 +1,61 @@
 ---
 quizzes:
-  - word: 可
-    type: 【动词】
-    phonetic: ke
-    trans: ❶助动词。可以;能够。
-    ancient: 法虽今而至，犹若不<可>法。（《吕氏春秋•察今》）
-    url: xxxx
-    vernacular: 古代的法令制度即使现在还保存下来，还是不能取法它。
-  - word: 可
-    type: 【动词】
-    phonetic: ke
-    trans: ❶助动词。可以;能够。
-    ancient: 此人<可>就见（前去拜访），不<可>屈致也。（《隆中对》）
-    url: xxxx
-    vernacular: "这个人可以到他那里去拜访,但不可以委屈他招他上门来."
-  - word: 可
-    type: 【动词】
-    phonetic: ke
-    trans: ❶助动词。可以;能够。
-    ancient: 比权量力，则不<可>同年而语矣。（《过秦论》）
-    url: xxxx
-    vernacular: 量一量权势力量，那简直是天壤之别了。
-  - word: 可
-    type: 【动词】
-    phonetic: ke
-    trans: ❶助动词。可以;能够。
-    ancient: 今有一言，<可>以解燕国之患。（《荆轲刺秦王》）
-    url: xxxx
-    vernacular: 如今有一句话，可以用来解除燕国的忧患
-  - word: 可
-    type: 【动词】
-    phonetic: ke
-    trans: ❷助动词。值得。
-    ancient: 足以极视听之娱，信（实在）<可>乐也。（《兰亭集序》）
-    url: xxxx
-    vernacular: 这样来纵展眼力，开阔胸怀，穷尽视和听的享受，实在快乐啊！
-  - word: 可
-    type: 【动词】
-    phonetic: ke
-    trans: ❷助动词。值得。
-    ancient: 其文理皆有<可>观者。（《伤仲永》）
-    url: xxxx
-    vernacular: 并且诗的文采和道理都有值得欣赏的地方
-  - word: 可
-    type: 【动词】
-    phonetic: ke
-    trans: ❷助动词。值得。
-    ancient: 三五之夜，明月半墙，桂影斑驳，风移影动，珊珊<可>爱。（《项脊轩志》）
-    url: xxxx
-    vernacular: 农历十五的夜晚，明月高悬，照亮半截墙壁，桂树的影子交杂错落，微风吹过影子摇动，可爱极了。
-  - word: 可
-    type: 【动词】
-    phonetic: ke
-    trans: ❷助动词。值得。
-    ancient: 然余居于此，多<可>喜，亦多<可>悲。（《项脊轩志》）
-    url: xxxx
-    vernacular: 然而我住在这里，有许多值得高兴的事，也有许多悲伤的事。
-  - word: 可
-    type: 【动词】
-    phonetic: ke
-    trans: ❷助动词。值得。
-    ancient: 【高考题例】御史张羽奏云南灾，珪因极言四方灾变<可>畏。（《明史•傅珪传》）
-    url: xxxx
-    vernacular: 御史张羽奏报云南灾情，傅珪趁此竭力陈说四方灾害可怕。
-  - word: 可
-    type: 【动词】
-    phonetic: ke
-    trans: ❸适宜;适合。
-    ancient: 其味相反，而皆<可>于口。（《庄子•天运》）
-    url: xxxx
-    vernacular: 它们的味道正好相反，但是都很可口好吃。
-  - word: 可
-    type: 【动词】
-    phonetic: ke
-    trans: ❸适宜;适合。
-    ancient: 平生不<可>俗子眼，后世谁知吾辈心。（宋•陆游《书叹》）
-    url: xxxx
-    vernacular: xxxx
-  - word: 可
-    type: 【动词】
-    phonetic: ke
-    trans: ❹病愈。
-    ancient: 瘦得浑如削，百般医疗终难<可>。（金•董解元《西厢记诸宫调》卷五）
-    url: xxxx
-    vernacular: 浑:简直
-  - word: 可
-    type: 【动词】
-    phonetic: ke
-    trans: ❺称许;认为可以。
-    ancient: 吾子好道而<可>吾文，或者其于道不远矣。（《答韦中立论师道书》）
-    url: xxxx
-    vernacular: 您喜爱道而又赞许我的文章，也许它离道不远了。
-  - word: 可
-    type: 【动词】
-    phonetic: ke
-    trans: ❺称许;认为可以。
-    ancient: 百官奏事如故，宦者辄从辒凉车中<可>其奏事。（《史记•秦始皇本纪》）
-    url: xxxx
-    vernacular: 百官也照常奏报政事，宦官假扮始皇批阅奏章。
-  - word: 可
-    type: 【副词】
-    phonetic: ke
-    trans: ❶表示反问。岂;哪。
-    ancient: 此情<可>待成追忆？只是当时已惘然。（《锦瑟》）
-    url: xxxx
-    vernacular: 此时此景为什么要现在才追忆，只是当时的我茫茫然不懂得珍惜。
-  - word: 可
-    type: 【副词】
-    phonetic: ke
-    trans: ❶表示反问。岂;哪。
-    ancient: <可>独终身数相见，子孙长作隔墙人。（唐•白居易《欲与元八卜邻先有是赠》）
-    url: xxxx
-    vernacular: (可独：哪里止。)结邻之后，不仅我们两人总能见面，而且我们的子孙也能长久相处。
-  - word: 可
-    type: 【副词】
-    phonetic: ke
-    trans: ❶表示反问。岂;哪。
-    ancient: <可>堪回首，佛狸祠下，一片神鸦社鼓。（《永遇乐•京口北固亭怀古》）
-    url: xxxx
-    vernacular: xxxx
-  - word: 可
-    type: 【副词】
-    phonetic: ke
-    trans: ❷大约。
-    ancient: 潭中鱼<可>百许头。（《小石潭记》）
-    url: xxxx
-    vernacular: 潭中的鱼大约有一百来条。
-  - word: 可
-    type: 【副词】
-    phonetic: ke
-    trans: ❷大约。
-    ancient: 舟首尾长约八分有奇（奇ji1，有余数），高<可>二黍许。（《核舟记》）
-    url: xxxx
-    vernacular: 核舟的船头到船尾大约长八分多一点，有两个黄米粒那么高。
-  - word: 可
-    type: 【副词】
-    phonetic: ke
-    trans: ❸却;可是。
-    ancient: 石状虽如帻，山形<可>类鸡。（唐•韦庄《鸡公馈》）
-    url: xxxx
-    vernacular: "石状虽然像帧,山的形状却像鸡。"
-  - word: 可
-    type: 【副词】
-    phonetic: ke
-    trans: ❸却;可是。
-    ancient: 幽僻处<可>有人行，点苍苔白露泠泠（ling2，清凉）。（《西厢记》二本二折）
-    url: xxxx
-    vernacular: 幽僻的地方可有人来往？一片片的青苔上白露清冷。
   - word: 克
     type: 【动词】
     phonetic: ke4
     trans: ❶能够;胜任。
     ancient: 凡昔元首（君主），承天景命（大命，所谓上天授予王位之命），善始著实繁，<克>终者盖寡。（《谏太宗十思疏》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: （古代）所有的帝王，承受了上天赋予的重大使命，他们没有一个不为国家深切地忧虑而且治理成效显著的，但大功告成之后国君的品德就开始衰微了。
   - word: 克
     type: 【动词】
     phonetic: ke4
     trans: ❶能够;胜任。
     ancient: 汝之纯明而不<克>蒙其泽乎？（《祭十二郎文》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 你(那么)纯正聪明反而不能承受他的恩泽呢?
   - word: 克
     type: 【动词】
     phonetic: ke4
     trans: ❷战胜;攻下。
     ancient: 夫一人奋死，可以对十，十可以对百，百可以对千，千可以对万，万可以<克>天下矣。（《韩非子•初见秦》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 如果一个人奋勇死战就可以抵抗十人，十个人就可以抵抗百人，百人就可以抵抗千人，千人就可以抵抗万人，一万人奋勇死战就可以征服天下了。
   - word: 克
     type: 【动词】
     phonetic: ke4
     trans: ❷战胜;攻下。
     ancient: 以此攻城，何城不<克>！（《左传•僖公四年》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 我让这些军队攻打城池，什么样的城攻不下？
   - word: 克
     type: 【动词】
     phonetic: ke4
     trans: ❷战胜;攻下。
     ancient: 既<克>，公问其故。（《曹刿论战》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 战胜齐军后，鲁庄公问他这样做的原因。
   - word: 克
     type: 【动词】
     phonetic: ke4
     trans: ❸完成。
     ancient: 日中而<克>葬。（《左传•宣公八年》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 日正午而完成葬事。
   - word: 克
     type: 【动词】
     phonetic: ke4
     trans: ❹克制;克服。
     ancient: 奉公<克>己，矜恤孤羸（lei2，瘦弱）。（《后汉书•周泽传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "约束自己；奉公：以公事为重,哀怜孤老羸弱的人"
   - word: 克
     type: 【动词】
     phonetic: ke4
     trans: ❺好胜;忌刻。
     ancient: 无好无恶，不忌不<克>之谓也。（《左传•僖公九年》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "既不喜爱,也不憎恨，不妒忌不好胜就是这种情况"
   - word: 克
     type: 【动词】
     phonetic: ke4
@@ -216,14 +69,14 @@ quizzes:
     trans: ❻通"刻"。铭刻。
     ancient: 谨以<克>心，非但书诸绅也。（《三国志•吴书•贺齐传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 我把这次教训铭刻在心中，不仅仅写在束身的大带上。
   - word: 克
     type: 【动词】
     phonetic: ke4
     trans: ❼通"剋"。约定（日期）。
     ancient: 公乃与<克>日会战。（《三国志•魏书•武帝纪》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 约定日期
   - word: xxxx
     type: 【名词】
     phonetic: xx1
