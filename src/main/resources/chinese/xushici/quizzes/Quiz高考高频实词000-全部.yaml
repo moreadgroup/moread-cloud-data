@@ -1,166 +1,75 @@
 ---
 quizzes:
-  - word: 抗
-    type: 【动词】
-    phonetic: kang4
-    trans: ❶相敌;对抗。
-    ancient: 唐之黄巢，横行天下，而所至将吏无敢与之<抗>者。（宋•王安石《上皇帝万言书》）
-    url: xxxx
-    vernacular: xxxx
-  - word: 抗
-    type: 【动词】
-    phonetic: kang4
-    trans: ❶相敌;对抗。
-    ancient: 非刘豫州（指刘备）莫可以当曹操者，然豫州新败之后，安能<抗>此难乎？（《资治通鉴•汉纪五十七》）
-    url: xxxx
-    vernacular: 不是说刘豫州抵挡不了曹操；但是豫州刚刚打了败仗，又怎么能抵挡这劫难呢？
-  - word: 抗
-    type: 【动词】
-    phonetic: kang4
-    trans: ❶相敌;对抗。
-    ancient: 泾渭贯其间，沃壤谁与<抗>？（宋•陆游《秋怀》）
-    url: xxxx
-    vernacular: 泾渭，拼音是jīng wèi，出自《诗·邶风·谷风》，指泾水和渭水。
-  - word: 抗
-    type: 【动词】
-    phonetic: kang4
-    trans: ❶相敌;对抗。
-    ancient: 谪戍之众，非<抗>于九国之师。（《过秦论》）
-    url: xxxx
-    vernacular: 那迁谪戍边的士兵也不能和九国部队抗衡
-  - word: 抗
-    type: 【动词】
-    phonetic: kang4
-    trans: ❷举起;扬起。
-    ancient: <抗>皓（白）手而清歌。（三国魏•曹植《七启》）
-    url: xxxx
-    vernacular: 举起洁白的手
-  - word: 抗
-    type: 【动词】
-    phonetic: kang4
-    trans: ❷举起;扬起。
-    ancient: <抗>首漱朝露。（三国魏•嵇康《兄季才公穆入军赠诗》）
-    url: xxxx
-    vernacular: xxxx
-  - word: 抗
-    type: 【动词】
-    phonetic: kang4
-    trans: ❸违抗;不顺从。
-    ancient: 有能<抗>君之命，窃君之重，反君之事，以安国之危，除君之辱。（《荀子•臣道》）
-    url: xxxx
-    vernacular: 如果有人能抗拒君主的命令，借用君主的权力，反对君主的错误行为，因而使国家转危为安，除去了君主蒙受的耻辱
-  - word: 抗
-    type: 【形容词】
-    phonetic: kang4
-    trans: ❶平等;对等。
-    ancient: 举坐客皆惊，下与<抗>礼，以为上客。（《史记•刺客列传》）
-    url: xxxx
-    vernacular: 满座宾客大吃一惊，离开座位用平等的礼节接待他，尊为上宾。
-  - word: 抗
-    type: 【形容词】
-    phonetic: kang4
-    trans: ❷刚正不阿。
-    ancient: 天性<抗>直，无所回避。（《北史•柳庆传》）
-    url: xxxx
-    vernacular: xxxx
-  - word: 抗
-    type: 【形容词】
-    phonetic: kang4
-    trans: ❷刚正不阿。
-    ancient: 初至北营，<抗>辞慷慨，上下颇惊动，北亦未敢遽轻吾国。（《〈指南录〉后序》）
-    url: xxxx
-    vernacular: 刚到元营时，据理抗争，言词激昂慷慨，元军上下都很惊慌震动，他们也未敢立即轻视我国。
-  - word: 抗
-    type: 【形容词】
-    phonetic: kang4
-    trans: ❷刚正不阿。
-    ancient: 【高考题例】夫台谏（台官与谏官的合称）为天下持是非，而使人贱辱至此，安望其<抗>颜直绳，为国家锄大奸、歼巨蠹哉！（《明史•陈登云传》）
-    url: xxxx
-    vernacular: 台谏是为天下主持是非的，而使人践踏到这种地步，怎能希望他不顾情面，正直地处理事情，为国除掉奸人、消灭败类呢！
-  - word: 抗
-    type: 【形容词】
-    phonetic: kang4
-    trans: ❸高尚。
-    ancient: 申徒狄（人名）负石自沉于渊，而溺者不可以为<抗>。（《淮南字•说山训》）
-    url: xxxx
-    vernacular: 申徒狄背上石头自己沉入深渊，但不能认为凡是自溺的行为都是高尚的
-  - word: 抗
-    type: 【形容词】
-    phonetic: kang4
-    trans: ❸高尚。
-    ancient: 有大禹之遗风，太伯之义让，严遵之<抗>志，黄公之高节。（《晋书•夏统传》）
-    url: xxxx
-    vernacular: 有大禹时代的遗风，太伯时代的仁义和谦让，严遵所具有的高亢的志气，黄公所表现的高风亮节。
   - word: 可
     type: 【动词】
     phonetic: ke
     trans: ❶助动词。可以;能够。
     ancient: 法虽今而至，犹若不<可>法。（《吕氏春秋•察今》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 古代的法令制度即使现在还保存下来，还是不能取法它。
   - word: 可
     type: 【动词】
     phonetic: ke
     trans: ❶助动词。可以;能够。
     ancient: 此人<可>就见（前去拜访），不<可>屈致也。（《隆中对》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "这个人可以到他那里去拜访,但不可以委屈他招他上门来."
   - word: 可
     type: 【动词】
     phonetic: ke
     trans: ❶助动词。可以;能够。
     ancient: 比权量力，则不<可>同年而语矣。（《过秦论》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 量一量权势力量，那简直是天壤之别了。
   - word: 可
     type: 【动词】
     phonetic: ke
     trans: ❶助动词。可以;能够。
     ancient: 今有一言，<可>以解燕国之患。（《荆轲刺秦王》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 如今有一句话，可以用来解除燕国的忧患
   - word: 可
     type: 【动词】
     phonetic: ke
     trans: ❷助动词。值得。
     ancient: 足以极视听之娱，信（实在）<可>乐也。（《兰亭集序》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 这样来纵展眼力，开阔胸怀，穷尽视和听的享受，实在快乐啊！
   - word: 可
     type: 【动词】
     phonetic: ke
     trans: ❷助动词。值得。
     ancient: 其文理皆有<可>观者。（《伤仲永》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 并且诗的文采和道理都有值得欣赏的地方
   - word: 可
     type: 【动词】
     phonetic: ke
     trans: ❷助动词。值得。
     ancient: 三五之夜，明月半墙，桂影斑驳，风移影动，珊珊<可>爱。（《项脊轩志》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 农历十五的夜晚，明月高悬，照亮半截墙壁，桂树的影子交杂错落，微风吹过影子摇动，可爱极了。
   - word: 可
     type: 【动词】
     phonetic: ke
     trans: ❷助动词。值得。
     ancient: 然余居于此，多<可>喜，亦多<可>悲。（《项脊轩志》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 然而我住在这里，有许多值得高兴的事，也有许多悲伤的事。
   - word: 可
     type: 【动词】
     phonetic: ke
     trans: ❷助动词。值得。
     ancient: 【高考题例】御史张羽奏云南灾，珪因极言四方灾变<可>畏。（《明史•傅珪传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 御史张羽奏报云南灾情，傅珪趁此竭力陈说四方灾害可怕。
   - word: 可
     type: 【动词】
     phonetic: ke
     trans: ❸适宜;适合。
     ancient: 其味相反，而皆<可>于口。（《庄子•天运》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 它们的味道正好相反，但是都很可口好吃。
   - word: 可
     type: 【动词】
     phonetic: ke
@@ -172,37 +81,37 @@ quizzes:
     type: 【动词】
     phonetic: ke
     trans: ❹病愈。
-    ancient: 瘦得浑似削，百般医疗终难<可>。（金•董解元《西厢记诸宫调》卷五）
+    ancient: 瘦得浑如削，百般医疗终难<可>。（金•董解元《西厢记诸宫调》卷五）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 浑:简直
   - word: 可
     type: 【动词】
     phonetic: ke
     trans: ❺称许;认为可以。
     ancient: 吾子好道而<可>吾文，或者其于道不远矣。（《答韦中立论师道书》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 您喜爱道而又赞许我的文章，也许它离道不远了。
   - word: 可
     type: 【动词】
     phonetic: ke
     trans: ❺称许;认为可以。
     ancient: 百官奏事如故，宦者辄从辒凉车中<可>其奏事。（《史记•秦始皇本纪》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 百官也照常奏报政事，宦官假扮始皇批阅奏章。
   - word: 可
     type: 【副词】
     phonetic: ke
     trans: ❶表示反问。岂;哪。
     ancient: 此情<可>待成追忆？只是当时已惘然。（《锦瑟》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 此时此景为什么要现在才追忆，只是当时的我茫茫然不懂得珍惜。
   - word: 可
     type: 【副词】
     phonetic: ke
     trans: ❶表示反问。岂;哪。
     ancient: <可>独终身数相见，子孙长作隔墙人。（唐•白居易《欲与元八卜邻先有是赠》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: (可独：哪里止。)结邻之后，不仅我们两人总能见面，而且我们的子孙也能长久相处。
   - word: 可
     type: 【副词】
     phonetic: ke
@@ -216,28 +125,28 @@ quizzes:
     trans: ❷大约。
     ancient: 潭中鱼<可>百许头。（《小石潭记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 潭中的鱼大约有一百来条。
   - word: 可
     type: 【副词】
     phonetic: ke
     trans: ❷大约。
     ancient: 舟首尾长约八分有奇（奇ji1，有余数），高<可>二黍许。（《核舟记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 核舟的船头到船尾大约长八分多一点，有两个黄米粒那么高。
   - word: 可
     type: 【副词】
     phonetic: ke
     trans: ❸却;可是。
     ancient: 石状虽如帻，山形<可>类鸡。（唐•韦庄《鸡公馈》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "石状虽然像帧,山的形状却像鸡。"
   - word: 可
     type: 【副词】
     phonetic: ke
     trans: ❸却;可是。
     ancient: 幽僻处<可>有人行，点苍苔白露泠泠（ling2，清凉）。（《西厢记》二本二折）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 幽僻的地方可有人来往？一片片的青苔上白露清冷。
   - word: 克
     type: 【动词】
     phonetic: ke4
