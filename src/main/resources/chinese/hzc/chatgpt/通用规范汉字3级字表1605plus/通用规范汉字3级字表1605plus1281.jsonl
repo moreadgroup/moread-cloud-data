@@ -1,47 +1,20 @@
-针对如下每个汉字填写对应的信息(格式：seq,word)：
-seq,word
-7781,嶓
-7782,㠇
-7783,嶟
-7784,嶒
-7785,镆
-7786,镈
-7787,镋
-7788,镎
-7789,𬭩
-7790,镕
-7791,稹
-7792,儇
-7793,皞
-7794,皛
-7795,䴘
-7796,艎
-7797,艏
-7798,鹟
-7799,𩾃
-7800,鲦
-
-，返回JSONL格式如：
-{"seq": 122, "word": "钟", "pinyin": "zhōng", "definition": "用于计量和报告时间的设备，通常由一个圆形表盘和一个或多个指针组成", "words":[ "时钟", "铃声"], "sentences":[ "这个房间里有一个大的墙上挂钟。", "我设置了三个不同的闹钟，因为我经常会睡过头。" ] }
-
-
-{"seq": 7781, "word": "嶓", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7782, "word": "㠇", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7783, "word": "嶟", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7784, "word": "嶒", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7785, "word": "镆", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7786, "word": "镈", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7787, "word": "镋", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7788, "word": "镎", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7789, "word": "𬭩", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7790, "word": "镕", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7791, "word": "稹", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7792, "word": "儇", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7793, "word": "皞", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7794, "word": "皛", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7795, "word": "䴘", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7796, "word": "艎", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7797, "word": "艏", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7798, "word": "鹟", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7799, "word": "𩾃", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7800, "word": "鲦", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7781, "word": "嶓", "pinyin": "bō", "definition": "古山名", "words":[ ], "sentences":[ ] } 
+{"seq": 7782, "word": "㠇", "pinyin": "jiù", "definition": "山岭名", "words":[ ], "sentences":[ ] } 
+{"seq": 7783, "word": "嶟", "pinyin": "zūn", "definition": "高峻的样子", "words":[ ], "sentences":[ ] } 
+{"seq": 7784, "word": "嶒", "pinyin": "céng", "definition": "见'崚'", "words":[ ], "sentences":[ ] } 
+{"seq": 7785, "word": "镆", "pinyin": "mò", "definition": "〔～铘〕古宝剑名。亦作'莫邪（yé）'", "words":[ ], "sentences":[ ] }
+{"seq": 7786, "word": "镈", "pinyin": "bó", "definition": "古代钟一类的乐器。古代锄类农具。", "words":[ ], "sentences":[ ] } 
+{"seq": 7787, "word": "镋", "pinyin": "tǎng", "definition": "古代一种与叉相似的兵器。", "words":[ ], "sentences":[ ] } 
+{"seq": 7788, "word": "镎", "pinyin": "ná", "definition": "一种放射性金属元素，银白色。", "words":[ ], "sentences":[ ] } 
+{"seq": 7789, "word": "𬭩", "pinyin": "", "definition": "", "words":[ ], "sentences":[ ] } 
+{"seq": 7790, "word": "镕", "pinyin": "róng", "definition": "铸器的模型。 销熔。 熔化。 喻陶冶（思想品质）。 古代的矛类武器。", "words":[ ], "sentences":[ ] }
+{"seq": 7791, "word": "稹", "pinyin": "zhěn", "definition": "（草木）丛生、集于苞栩、古通'缜'，细密的意思。出自《周礼·考工记》——凡斩毂之道，必矩其阴阳。阳也者，稹理而坚；阴也者，疏理而柔。", "words":[ ], "sentences":[ ] }
+{"seq": 7792, "word": "儇", "pinyin": "xuān", "definition": "轻浮、聪明而狡猾。", "words":[ ], "sentences":[ ] }
+{"seq": 7793, "word": "皞", "pinyin": "hào", "definition": "白色、光明、广大。", "words":[ ], "sentences":[ ] }
+{"seq": 7794, "word": "皛", "pinyin": "xiǎo", "definition": "明亮。", "words":[ ], "sentences":[ ] }
+{"seq": 7795, "word": "皜", "pinyin": "hào", "definition": "白色、光明、广大。", "words":[ ], "sentences":[ ] }
+{"seq": 7796, "word": "艎", "pinyin": "huáng", "definition": "一种木制大船，常用作渡船。", "words":[ ], "sentences":[ ] }
+{"seq": 7797, "word": "艏", "pinyin": "shǒu", "definition": "船的前端或前部。", "words":[ ], "sentences":[ ] }
+{"seq": 7798, "word": "鹟", "pinyin": "wēng", "definition": "一种鸟类，形小，上面黑褐色，下面淡白色，嘴稍扁平，吃害虫，是益鸟。", "words":[ ], "sentences":[ ] }
+{"seq": 7799, "word": "𩾃", "pinyin": "", "definition": "", "words":[ ], "sentences":[ ] }
+{"seq": 7800, "word": "鲦", "pinyin": "tiáo", "definition": "一种鱼类，体小，呈条状，肉可食，生活在淡水中。", "words":[ ], "sentences":[ ] }

@@ -1,49 +1,20 @@
-针对如下每个汉字填写对应的信息(格式：seq,word)：
-seq,word
-7841,𬞟
-7842,蕗
-7843,薢
-7844,蕹
-7845,橞
-7846,橑
-7847,橦
-7848,醑
-7849,觱
-7850,磡
-7851,𥕢
-7852,磜
-7853,豮
-7854,𫟦
-7855,𬺈
-7856,𫠜
-7857,鹾
-7858,虤
-7859,暿
-7860,曌
-
-，返回JSONL格式如：
-{"seq": 122, "word": "钟", "pinyin": "zhōng", "definition": "用于计量和报告时间的设备，通常由一个圆形表盘和一个或多个指针组成", "words":[ "时钟", "铃声"], "sentences":[ "这个房间里有一个大的墙上挂钟。", "我设置了三个不同的闹钟，因为我经常会睡过头。" ] }
-
-
-
-
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7841, "word": "𬞟", "pinyin": "", "definition": "‘蘋’的类推简化字。", "words":[ ], "sentences":[ ] } 
+{"seq": 7842, "word": "蕗", "pinyin": "lù", "definition": "古书上说的一种香草。", "words":[ ], "sentences":[ ] } 
+{"seq": 7843, "word": "薢", "pinyin": "xiè", "definition": "一种植物，即‘菱’。", "words":[ ], "sentences":[ ] } 
+{"seq": 7844, "word": "蕹", "pinyin": "wèng", "definition": "一年生草本植物，茎蔓生，中空，叶子长圆或心脏形，叶柄长，嫩茎、叶可做蔬菜。俗称‘空心菜’。", "words":[ ], "sentences":[ ] } 
+{"seq": 7845, "word": "橞", "pinyin": "huì", "definition": "", "words":[ ], "sentences":[ ] }
+{"seq": 7846, "word": "橑", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7847, "word": "橦", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7848, "word": "醑", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7849, "word": "觱", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7850, "word": "磡", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7851, "word": "𥕢", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7852, "word": "磜", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7853, "word": "豮", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7854, "word": "𫟦", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7855, "word": "𬺈", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7856, "word": "𫠜", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7857, "word": "鹾", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7858, "word": "虤", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7859, "word": "暿", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7860, "word": "曌", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }

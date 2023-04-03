@@ -1,48 +1,20 @@
-针对如下每个汉字填写对应的信息(格式：seq,word)：
-seq,word
-7881,衠
-7882,盦
-7883,螣
-7884,縢
-7885,鲭
-7886,鲯
-7887,鲰
-7888,鲺
-7889,鲹
-7890,𫗴
-7891,亸
-7892,癀
-7893,瘭
-7894,𬸦
-7895,羱
-7896,糒
-7897,燋
-7898,熻
-7899,燊
-7900,燚
-
-，返回JSONL格式如：
-{"seq": 122, "word": "钟", "pinyin": "zhōng", "definition": "用于计量和报告时间的设备，通常由一个圆形表盘和一个或多个指针组成", "words":[ "时钟", "铃声"], "sentences":[ "这个房间里有一个大的墙上挂钟。", "我设置了三个不同的闹钟，因为我经常会睡过头。" ] }
-
-
-
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": , "word": "", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7881, "word": "衠", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7882, "word": "盦", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7883, "word": "螣", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7884, "word": "縢", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7885, "word": "鲭", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7886, "word": "鲯", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7887, "word": "鲰", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7888, "word": "鲺", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7889, "word": "鲹", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7890, "word": "𫗴", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7891, "word": "亸", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7892, "word": "癀", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7893, "word": "瘭", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7894, "word": "𬸦", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7895, "word": "羱", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7896, "word": "糒", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7897, "word": "燋", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7898, "word": "熻", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7899, "word": "燊", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7900, "word": "燚", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
