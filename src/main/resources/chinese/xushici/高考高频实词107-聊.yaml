@@ -1,13 +1,34 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 聊
+    type: 【动词】
+    phonetic: liao2
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶耳鸣。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 横舟航（连船组成的浮桥）而济湘兮，耳聊啾而戃慌（失意的样子）。（汉•刘向《九叹•远逝》）
+      - trans: ❷依靠;凭借。
+        sentences:
+          - ancient: 穷饿无聊，追购（悬赏追捕）又急，天高地迥，号呼靡及。（《〈指南录〉后序）
+          - ancient: 其后二年，余久卧病无聊，乃使人复葺南阁子，其制稍异于前。（《项脊轩志》）
+  - word: 聊
+    type: 【形容词】
+    phonetic: liao2
+    tags:
+      - 高中
+    samples:
+      - trans: 恐惧的样子。
+        sentences:
+          - ancient: 恍（huang3，迷迷糊糊）兮忽兮，聊兮慄兮，混汩汩兮。（汉•枚乘《七发》）
+  - word: 聊
+    type: 【副词】
+    phonetic: liao2
+    tags:
+      - 高中
+    samples:
+      - trans: 姑且;暂且。
+        sentences:
+          - ancient: 虞卿曰："王聊听臣，发使出重宝以附楚、魏，楚、魏……必入吾使。"（《战国策.赵策三》）
+          - ancient: 聊乘化以归尽，乐夫天命复奚疑！（《归去来兮辞》）

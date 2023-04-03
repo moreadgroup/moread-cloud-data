@@ -1,13 +1,18 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 怜
+    type: 【动词】
+    phonetic: lian2
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶同情;怜悯。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 同病相怜，同忧（忧患）相救。（《吴越春秋•阖闾内传》）
+          - ancient: 所怜者，吾自戊寅年读汝《哭侄》诗后，至今无男。（《祭妹文》）
+          - ancient: 戍卒叫，函谷举，楚人一炬，可怜焦土！（《阿房宫赋》）
+      - trans: ❷喜爱;疼爱。
+        sentences:
+          - ancient: 且公子纵轻胜（平原君赵胜自称），弃之降秦，独不怜公子姊邪？（《史沱•魏公子列传》）
+          - ancient: 丈夫亦爱怜其少子乎？（《触龙说赵太后》）
+          - ancient: 东家有贤女，自名秦罗敷，可怜体无比，阿母为汝求。（《孔雀东南飞》）

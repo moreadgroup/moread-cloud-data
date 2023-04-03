@@ -1,13 +1,23 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 堪
+    type: 【动词】
+    phonetic: kan1
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶经得起;能忍受。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 多情自古伤离别，更那堪，冷落清秋节！（《雨霖铃》）
+          - ancient: 众不能堪，抶（chi4，打）而仆之。（《五人墓碑记》）
+          - ancient: 死而死矣，而境界危恶，层见错出，非人世所堪。（《〈指南录〉后序》）
+      - trans: ❷胜任。
+        sentences:
+          - ancient: 不堪吏人妇，岂合令郎君？（《孔雀东南飞》）
+      - trans: ❸可以;能够。
+        sentences:
+          - ancient: 所向无空阔，真堪托死生。（唐•杜甫《房兵曹胡马》）
+          - ancient: 出师一表真名世，千载谁堪伯仲间！（宋•陆游《书愤》）
+          - ancient: 可堪回首，佛狸祠下，一片神鸦社鼓。（《永遇乐•京口北固亭怀古》）
+          - ancient: 满地黄花堆积，憔悴损，如今有谁堪摘?（《声声慢•寻寻觅觅》）
+          - ancient: 【高考题例】数里黄沙行客路，不堪回首思秦原。（唐•周朴《春日秦国怀古》）

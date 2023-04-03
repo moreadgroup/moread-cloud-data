@@ -1,13 +1,71 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
-    tags:
-      - 高中
-    samples:
-      - trans: ❶xxxx
-        sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+- word: 类
+  type: 【名词】
+  phonetic: lei4
+  tags:
+  - 高中
+  samples:
+  - trans: ❶种类;类别。
+    sentences:
+    - ancient: 今欲以先王之政，治当世之民，皆守株之<类>也。（《韩非子•五蠹》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 故王之不王，非挟太山以超北海之<类>也。（《齐桓晋文之事》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 举<类>迩（近）而见义远。（《史记•屈原贾生列传》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 仰观宇宙之美，俯察品<类>之盛。（《兰亭集序》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❷同类。
+    sentences:
+    - ancient: 然后知是山之特立，不与培塿为<类>。（《始得西山宴游记》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❸典范;榜样。
+    sentences:
+    - ancient: 明告君子，吾将以为<类>兮。（战国楚•屈原《九章•怀沙》）
+      url: xxxx
+      vernacular: xxxx
+- word: 类
+  type: 【动词】
+  phonetic: lei4
+  tags:
+  - 高中
+  samples:
+  - trans: ❶类推。
+    sentences:
+    - ancient: 欲进利除害，不知任贤能，此则不知<类>之患也。（《韩非子•难势》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 义不杀少而杀众，不可谓知<类>。（《公输》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❷类似;像。
+    sentences:
+    - ancient: 吾儿，久不见若（你的）影，何竟日默默在此，大<类>女郎也？（《项脊轩志》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 佛印绝<类>弥勒。（《核舟记》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 【高考题例】密谋匿之民间，别求状<类>宦者二人杀之。（《宋史•孙傅传》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 【高考题例】珪居闲<类>木讷者。（《明史•傅珪传》）
+      url: xxxx
+      vernacular: xxxx
+- word: 类
+  type: 【副词】
+  phonetic: lei4
+  tags:
+  - 高中
+  samples:
+  - trans: 大抵;大致。
+    sentences:
+    - ancient: 走卒<类>士服，农夫蹑丝履。（《训俭示康》）
+      url: xxxx
+      vernacular: xxxx

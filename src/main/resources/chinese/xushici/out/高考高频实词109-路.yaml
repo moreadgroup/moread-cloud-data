@@ -1,13 +1,80 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
-    tags:
-      - 高中
-    samples:
-      - trans: ❶xxxx
-        sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+- word: 路
+  type: 【名词】
+  phonetic: lu4
+  tags:
+  - 高中
+  samples:
+  - trans: ❶道路。
+    sentences:
+    - ancient: 缘溪行，忘<路>之远近。（《桃花源记》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 无为在歧<路>，儿女共沾巾。（唐•王勃《送杜少府之任蜀州》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 回朕车以复<路>兮，及行迷之未远。（《离骚》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 问征夫以前<路>，恨晨光之熹微。（《归去来兮辞》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❷途径；门路。
+    sentences:
+    - ancient: 以塞忠谏之<路>也。（《出师表》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 无<路>请缨，等终军之弱冠;有怀投笔，慕宗悫之长风。（《滕王阁序》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 【高考题例】胸中磊落藏五兵，欲试无<路>空峥嵘（宋•陆游《题醉中所作草书卷后》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❸职位;政权。
+    sentences:
+    - ancient: 夫子当<路>于齐。（《孟子•公孙丑上》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 当涂（道路）者升青云，失<路>者委沟渠。（汉•扬雄《解嘲》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❹通"辂"。车。
+    sentences:
+    - ancient: 杜洩（人名）将以<路>葬。（《左传•昭公四年》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 彼<路>斯何？君子之车。（《诗经•小雅•采薇》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 筚<路>（驾着柴车）蓝缕，以启山林。（《左传•宣公十二年）），
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❺行政区划名。宋时相当于现在的省;元时降为二等政区，隶属于省，与府相当。
+    sentences:
+    - ancient: 予除（拜官授职）右丞相兼枢密使，都督诸<路>军马。（《〈指南录〉后序》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 四十三年，望中犹记，烽火扬州<路>。（《永遇乐•京口北固亭怀古》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 【高考题例】甫半岁，得善田二万六千顷，募士七千四百人，为他<路>最。（《宋史•何灌传》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 东西异<路>，不当与，然安忍于旧治坐视？（《宋史•萧燧传》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 浩招辑流亡，开营田，以其规置颁示诸<路>。（《宋史•郭浩传》）
+      url: xxxx
+      vernacular: xxxx
+- word: 路
+  type: 【形容词】
+  phonetic: lu4
+  tags:
+  - 高中
+  samples:
+  - trans: 疲乏;羸弱。
+    sentences:
+    - ancient: 且一人之身而百工之所为备，如必自为而后用之，是率天下而<路>也。（《孟子•滕文公上》）
+      url: xxxx
+      vernacular: xxxx

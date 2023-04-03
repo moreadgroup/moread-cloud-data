@@ -1,13 +1,55 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
-    tags:
-      - 高中
-    samples:
-      - trans: ❶xxxx
-        sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+- word: 克
+  type: 【动词】
+  phonetic: ke4
+  tags:
+  - 高中
+  samples:
+  - trans: ❶能够;胜任。
+    sentences:
+    - ancient: 凡昔元首（君主），承天景命（大命，所谓上天授予王位之命），善始著实繁，<克>终者盖寡。（《谏太宗十思疏》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 汝之纯明而不<克>蒙其泽乎？（《祭十二郎文》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❷战胜;攻下。
+    sentences:
+    - ancient: 夫一人奋死，可以对十，十可以对百，百可以对千，千可以对万，万可以<克>天下矣。（《韩非子•初见秦》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 以此攻城，何城不<克>！（《左传•僖公四年》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 既<克>，公问其故。（《曹刿论战》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❸完成。
+    sentences:
+    - ancient: 日中而<克>葬。（《左传•宣公八年》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❹克制;克服。
+    sentences:
+    - ancient: 奉公<克>己，矜恤孤羸（lei2，瘦弱）。（《后汉书•周泽传》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❺好胜;忌刻。
+    sentences:
+    - ancient: 无好无恶，不忌不<克>之谓也。（《左传•僖公九年》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 吾知绍之为人，志大而智小，色厉而胆薄，忌<克>而少威。（《三国志•魏书•武帝纪》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❻通"刻"。铭刻。
+    sentences:
+    - ancient: 谨以<克>心，非但书诸绅也。（《三国志•吴书•贺齐传》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❼通"剋"。约定（日期）。
+    sentences:
+    - ancient: 公乃与<克>日会战。（《三国志•魏书•武帝纪》）
+      url: xxxx
+      vernacular: xxxx
