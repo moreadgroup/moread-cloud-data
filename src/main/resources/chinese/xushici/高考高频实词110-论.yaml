@@ -8,9 +8,9 @@ words:
     samples:
       - trans: 编撰。
         sentences:
-          - ancient: ancient:退而<论>书策，以舒其愤，思垂空文以自见。（《报任安书》）
+          - ancient: 退而<论>书策，以舒其愤，思垂空文以自见。（《报任安书》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 便退隐著书立说来抒发他们的怨愤，想到活下来从事著作来表现自己的思想。
   - word: 论
     type: 【名词】
     phonetic: lun4
@@ -21,7 +21,7 @@ words:
         sentences:
           - ancient: 夫持帝王之<论>，说霸者之主，虽精见距。（《论衡・逢遇》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 拿成就“帝亚”、“王业”的理论，去劝导只想称霸的君主，理论虽然精辟，肯定被拒绝
   - word: 论
     type: 【动词】
     phonetic: lun4
@@ -32,32 +32,32 @@ words:
         sentences:
           - ancient: 每与臣<论>此事，未尝不叹息痛恨于桓、灵也。（《出师表》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 每逢跟我谈论这些事情，未尝不叹息而痛恨桓帝、灵帝时期的腐败。
           - ancient: 肃宣（孙）权旨，<论>天下事势，致殷勤之意。（《资治通鉴•汉纪五十七》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 鲁肃转达孙权的意思，和他讨论天下大事的势态，表示恳切慰问的心意
           - ancient: 千载琵琶作胡语，分明怨恨曲中<论>。（唐•杜甫《咏怀古迹•其三》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 千年以来，琵琶弹出的都是胡地之音;昭君虽死，遗憾深深，琵琶曲中倾诉的 分明是她的满腔愁怨。
           - ancient: 生人作死别，恨恨那可<论>?（《孔雀东南飞》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 活着的人却要做死的离别，心中抱恨哪里能够说得完。
       - trans: ❷评定赏罚;判决。
         sentences:
           - ancient: 宜付有司<论>其刑赏。（《出师表》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "二世二年七月，具（李）斯五刑，<论>腰斩咸阳市。（《史记•李斯列传》）"
+            vernacular: 应当交给主管的官，判定他们受罚或者受赏
+          - ancient: 二世二年七月，具（李）斯五刑，<论>腰斩咸阳市。（《史记•李斯列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 二世二年七月，李斯被判处五刑，判在咸阳街市上腰斩。
           - ancient: "武益愈（痊愈），单于使使晓（告知）武，会<论>虞常，欲因（趁）此时降武。（《苏武传》），"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 苏武的伤势逐渐好了，单于派使者通知苏武，一起来审处虞常，想借这个机会使苏武投降。
           - ancient: 【高考题例】将<论>囚，敞日："冤也。"（《宋史•刘敞传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 将要定罪并处决囚犯，刘敞说：“这是冤案啊。”
       - trans: ❸说。
         sentences:
           - ancient: 问今是何世，乃不知有汉，无<论>魏晋。（《桃花源记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 他们问渔人现在是什么朝代，他们竟然不知道有过汉朝，更不必说魏晋两朝了。

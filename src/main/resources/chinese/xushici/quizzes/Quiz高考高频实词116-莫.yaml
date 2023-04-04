@@ -1,9 +1,128 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 莫
+    type: 【代词】
+    phonetic: mo4
+    trans: 没有谁;没有什么。
+    ancient: 溥天之下，<莫>非王土；率土之滨，<莫>非王臣。（《诗经•小雅•北山》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
+    type: 【代词】
+    phonetic: mo4
+    trans: 没有谁;没有什么。
+    ancient: 非刘豫州<莫>可以当曹操者，然豫州新败之后，安能抗此难乎？（《资治通鉴•汉纪五十七》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
+    type: 【代词】
+    phonetic: mo4
+    trans: 没有谁;没有什么。
+    ancient: 时天下承平日久，自王侯以下<莫>不逾侈。（《张衡传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
+    type: 【代词】
+    phonetic: mo4
+    trans: 没有谁;没有什么。
+    ancient: 如使人之所欲<莫>甚于生。（《鱼我所欲也》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
+    type: 【代词】
+    phonetic: mo4
+    trans: 没有谁;没有什么。
+    ancient: 【高考题例】百姓市道<莫>不咨嗟。（《后汉书•王涣传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
+    type: 【代词】
+    phonetic: mo4
+    trans: 没有谁;没有什么。
+    ancient: 【高考题例】弘微少孤，事兄如父，兄弟友穆之至，举世<莫>及也。（《宋书•谢弘微传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
+    type: 【副词】
+    phonetic: mo4
+    trans: ❶不。
+    ancient: 一夫当关，万夫<莫>开。（《蜀道难》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
+    type: 【副词】
+    phonetic: mo4
+    trans: ❶不。
+    ancient: 苟非吾之所有，虽一毫而<莫>取。（《赤壁赋》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
+    type: 【副词】
+    phonetic: mo4
+    trans: ❷不要。
+    ancient: <莫>辞更坐弹一曲，为君翻作《琵琶行》。（《琵琶行》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
+    type: 【副词】
+    phonetic: mo4
+    trans: ❷不要。
+    ancient: 愿早定大计，<莫>用众人之议也。（《资治通鉴•汉纪五十七》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
+    type: 【副词】
+    phonetic: mo4
+    trans: ❸大约。
+    ancient: 文，<莫>吾犹人也。躬行君子，则吾未之有得。（《论语•述而》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: mu4
+    trans: ❶日落之时;傍晚。"暮"字的古体。
+    ancient: 日<莫>人倦。（《礼记•聘义》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
+    type: 【名词】
+    phonetic: mu4
+    trans: ❶日落之时;傍晚。"暮"字的古体。
+    ancient: 至<莫>夜月明，独与迈乘小舟，至绝壁下。（《石钟山记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
+    type: 【名词】
+    phonetic: mu4
+    trans: ❶日落之时;傍晚。"暮"字的古体。
+    ancient: <莫>春者，春服既成。（《子路、曾晳、冉有、公西华侍坐》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
+    type: 【名词】
+    phonetic: mu4
+    trans: ❷通"幕"。幕府。
+    ancient: 大将军不听，令长史封书与广之<莫>府。（《史记•李将军列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
+    type: 【名词】
+    phonetic: mu4
+    trans: ❸多年生草本植物，嫩叶、嫩茎可做蔬菜。
+    ancient: 彼汾沮洳（ru4，泥沼），言釆其<莫>。（《诗经•魏风•汾沮洳》）【形容词】❶昏暗；昏黑。
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
+    type: 【名词】
+    phonetic: mu4
+    trans: ❸多年生草本植物，嫩叶、嫩茎可做蔬菜。
+    ancient: 于是榛林深泽，烟云闇（an4，黑暗）<莫>。（汉•枚乘《七发》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
+    type: 【名词】
+    phonetic: mu4
+    trans: ❷年老。
+    ancient: 臣迫于衰<莫>。（宋•王安石《谢宣医札子》）
     url: xxxx
     vernacular: xxxx

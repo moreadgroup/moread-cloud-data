@@ -1,9 +1,58 @@
 ---
 quizzes:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+  - word: 弥
+    type: 【动词】
+    phonetic: mi2
+    trans: 遍;满。
+    ancient: 幸蒙大恩，赐号称王，拥众数万，马畜<弥>山，富贵如此。（《汉书•苏武传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 弥
+    type: 【动词】
+    phonetic: mi2
+    trans: 遍;满。
+    ancient: 舒可<弥>宇宙，卷之不盈分。（唐•陈子昂《感遇》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 弥
+    type: 【形容词】
+    phonetic: mi2
+    trans: ❶广大。
+    ancient: 天丽且<弥>，地普而深。（《汉书•扬雄传下》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 弥
+    type: 【形容词】
+    phonetic: mi2
+    trans: ❶广大。
+    ancient: 结根<弥>于华岱，直指高于九嶷（嶷yi2山名）。（晋•孙绰《游天台山赋》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 弥
+    type: 【形容词】
+    phonetic: mi2
+    trans: ❷久远。
+    ancient: 旷日<弥>久而无益于理。（《盐铁论•相刺》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 弥
+    type: 【副词】
+    phonetic: mi2
+    trans: 更加。
+    ancient: 虽累百世，垢<弥>甚耳！（《报任安书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 弥
+    type: 【副词】
+    phonetic: mi2
+    trans: 更加。
+    ancient: 奉之<弥>繁，侵之愈急。（《六国论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 弥
+    type: 【副词】
+    phonetic: mi2
+    trans: 更加。
+    ancient: 佩缤纷其繁饰兮，芳菲菲其<弥>章。（《离骚》）
     url: xxxx
     vernacular: xxxx

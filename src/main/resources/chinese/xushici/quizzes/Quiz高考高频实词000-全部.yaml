@@ -1,128 +1,898 @@
 ---
 quizzes:
-  - word: 路
-    type: 【名词】
-    phonetic: lu4
-    trans: ❶道路。
-    ancient: 缘溪行，忘<路>之远近。（《桃花源记》）
+  - word: 论
+    type: 【动词】
+    phonetic: lun2
+    trans: 编撰。
+    ancient: 退而<论>书策，以舒其愤，思垂空文以自见。（《报任安书》）
     url: xxxx
-    vernacular: 他顺着溪水行船，忘记了路程的远近。
-  - word: 路
+    vernacular: 便退隐著书立说来抒发他们的怨愤，想到活下来从事著作来表现自己的思想。
+  - word: 论
     type: 【名词】
-    phonetic: lu4
-    trans: ❶道路。
-    ancient: 无为在歧<路>，儿女共沾巾。（唐•王勃《送杜少府之任蜀州》）
+    phonetic: lun4
+    trans: 学说;观点。
+    ancient: 夫持帝王之<论>，说霸者之主，虽精见距。（《论衡・逢遇》）
     url: xxxx
-    vernacular: 莫在岔路口上分手之时，像多情的少年男女那样悲伤得泪湿衣巾。
-  - word: 路
-    type: 【名词】
-    phonetic: lu4
-    trans: ❶道路。
-    ancient: 回朕车以复<路>兮，及行迷之未远。（《离骚》）
+    vernacular: 拿成就“帝亚”、“王业”的理论，去劝导只想称霸的君主，理论虽然精辟，肯定被拒绝
+  - word: 论
+    type: 【动词】
+    phonetic: lun4
+    trans: ❶讨论;议论。
+    ancient: 每与臣<论>此事，未尝不叹息痛恨于桓、灵也。（《出师表》）
     url: xxxx
-    vernacular: 调转我的车走回我路啊，趁着迷途未远赶快罢休。
-  - word: 路
-    type: 【名词】
-    phonetic: lu4
-    trans: ❶道路。
-    ancient: 问征夫以前<路>，恨晨光之熹微。（《归去来兮辞》）
+    vernacular: 每逢跟我谈论这些事情，未尝不叹息而痛恨桓帝、灵帝时期的腐败。
+  - word: 论
+    type: 【动词】
+    phonetic: lun4
+    trans: ❶讨论;议论。
+    ancient: 肃宣（孙）权旨，<论>天下事势，致殷勤之意。（《资治通鉴•汉纪五十七》）
     url: xxxx
-    vernacular: 向行人打听前面的路，遗憾的是天亮得太慢。
-  - word: 路
-    type: 【名词】
-    phonetic: lu4
-    trans: ❷途径；门路。
-    ancient: 以塞忠谏之<路>也。（《出师表》）
+    vernacular: 鲁肃转达孙权的意思，和他讨论天下大事的势态，表示恳切慰问的心意
+  - word: 论
+    type: 【动词】
+    phonetic: lun4
+    trans: ❶讨论;议论。
+    ancient: 千载琵琶作胡语，分明怨恨曲中<论>。（唐•杜甫《咏怀古迹•其三》）
     url: xxxx
-    vernacular: 以致于堵塞人们忠心地进行规劝的言路。
-  - word: 路
-    type: 【名词】
-    phonetic: lu4
-    trans: ❷途径；门路。
-    ancient: 无<路>请缨，等终军之弱冠;有怀投笔，慕宗悫之长风。（《滕王阁序》）
+    vernacular: 千年以来，琵琶弹出的都是胡地之音;昭君虽死，遗憾深深，琵琶曲中倾诉的 分明是她的满腔愁怨。
+  - word: 论
+    type: 【动词】
+    phonetic: lun4
+    trans: ❶讨论;议论。
+    ancient: 生人作死别，恨恨那可<论>?（《孔雀东南飞》）
     url: xxxx
-    vernacular: 虽然和终军年龄相等，却没有报国的机会；像班超那样有投笔从戎的豪情，也有宗悫“乘风破浪”的壮志。
-  - word: 路
-    type: 【名词】
-    phonetic: lu4
-    trans: ❷途径；门路。
-    ancient: 【高考题例】胸中磊落藏五兵，欲试无<路>空峥嵘（宋•陆游《题醉中所作草书卷后》）
+    vernacular: 活着的人却要做死的离别，心中抱恨哪里能够说得完。
+  - word: 论
+    type: 【动词】
+    phonetic: lun4
+    trans: ❷评定赏罚;判决。
+    ancient: 宜付有司<论>其刑赏。（《出师表》）
     url: xxxx
-    vernacular: 胸中自有军事谋略，想要试炼一番却没有门路，空怀豪情。
-  - word: 路
-    type: 【名词】
-    phonetic: lu4
-    trans: ❸职位;政权。
-    ancient: 夫子当<路>于齐。（《孟子•公孙丑上》）
+    vernacular: 应当交给主管的官，判定他们受罚或者受赏
+  - word: 论
+    type: 【动词】
+    phonetic: lun4
+    trans: ❷评定赏罚;判决。
+    ancient: 二世二年七月，具（李）斯五刑，<论>腰斩咸阳市。（《史记•李斯列传》）
     url: xxxx
-    vernacular: 先生如果在齐国当权
-  - word: 路
-    type: 【名词】
-    phonetic: lu4
-    trans: ❸职位;政权。
-    ancient: 当涂（道路）者升青云，失<路>者委沟渠。（汉•扬雄《解嘲》）
+    vernacular: 二世二年七月，李斯被判处五刑，判在咸阳街市上腰斩。
+  - word: 论
+    type: 【动词】
+    phonetic: lun4
+    trans: ❷评定赏罚;判决。
+    ancient: 武益愈（痊愈），单于使使晓（告知）武，会<论>虞常，欲因（趁）此时降武。（《苏武传》），
     url: xxxx
-    vernacular: 当权的青云直上，落拓的委弃沟渠。
-  - word: 路
-    type: 【名词】
-    phonetic: lu4
-    trans: ❹通"辂"。车。
-    ancient: 杜洩（人名）将以<路>葬。（《左传•昭公四年》）
+    vernacular: 苏武的伤势逐渐好了，单于派使者通知苏武，一起来审处虞常，想借这个机会使苏武投降。
+  - word: 论
+    type: 【动词】
+    phonetic: lun4
+    trans: ❷评定赏罚;判决。
+    ancient: 【高考题例】将<论>囚，敞日："冤也。"（《宋史•刘敞传》）
+    url: xxxx
+    vernacular: 将要定罪并处决囚犯，刘敞说：“这是冤案啊。”
+  - word: 论
+    type: 【动词】
+    phonetic: lun4
+    trans: ❸说。
+    ancient: 问今是何世，乃不知有汉，无<论>魏晋。（《桃花源记》）
+    url: xxxx
+    vernacular: 他们问渔人现在是什么朝代，他们竟然不知道有过汉朝，更不必说魏晋两朝了。
+  - word: 蒙
+    type: 【动词】
+    phonetic: meng2
+    trans: ❶覆盖;遮住。
+    ancient: 青树翠蔓，<蒙>络摇缀。（《小石潭记》）
     url: xxxx
     vernacular: xxxx
-  - word: 路
-    type: 【名词】
-    phonetic: lu4
-    trans: ❹通"辂"。车。
-    ancient: 彼尔维何？维常之华。彼<路>斯何？君子之车。（《诗经•小雅•采薇》）
+  - word: 蒙
+    type: 【动词】
+    phonetic: meng2
+    trans: ❶覆盖;遮住。
+    ancient: 今（曹）操得荆州，奄（yan3，包括）有其地，刘表治水军，<蒙>冲斗舰乃以千数，操忠浮以沿江。（《资治通鉴•汉纪五十七》）
     url: xxxx
-    vernacular: 那盛开的花是什么？是棠棣之花。那很大很威武的车是什么？那是将士的军车
-  - word: 路
-    type: 【名词】
-    phonetic: lu4
-    trans: ❹通"辂"。车。
-    ancient: 筚<路>（驾着柴车）蓝缕，以启山林。（《左传•宣公十二年）），
+    vernacular: xxxx
+  - word: 蒙
+    type: 【动词】
+    phonetic: meng2
+    trans: ❷隐瞒;欺骗。
+    ancient: 下义其罪，上赏其奸，上下相<蒙>，难与处矣。（《左传•僖公二十四年》）
     url: xxxx
-    vernacular: "驾着简陋的车,穿着破烂的衣服去开辟山林.形容创业的艰苦."
-  - word: 路
-    type: 【名词】
-    phonetic: lu4
-    trans: ❺行政区划名。宋时相当于现在的省;元时降为二等政区，隶属于省，与府相当。
-    ancient: 予除（拜官授职）右丞相兼枢密使，都督诸<路>军马。（《〈指南录〉后序》）
+    vernacular: xxxx
+  - word: 蒙
+    type: 【动词】
+    phonetic: meng2
+    trans: ❷隐瞒;欺骗。
+    ancient: 上下<蒙>冒，吁号不闻。（唐•柳宗元《驳复仇议》）
     url: xxxx
-    vernacular: "我官拜右丞相和枢密使,监察管理各路军队.除:被授予...官职.右丞/枢密使都是官职名.都督:监察管理.军马:军队马车."
-  - word: 路
-    type: 【名词】
-    phonetic: lu4
-    trans: ❺行政区划名。宋时相当于现在的省;元时降为二等政区，隶属于省，与府相当。
-    ancient: 四十三年，望中犹记，烽火扬州<路>。（《永遇乐•京口北固亭怀古》）
+    vernacular: xxxx
+  - word: 蒙
+    type: 【动词】
+    phonetic: meng2
+    trans: ❸遭受;承受。
+    ancient: 安能以皓皓之白，而<蒙>世之温蠖（蠖huo4，昏聩）乎?（《史记•屈原贾生列传》）
     url: xxxx
-    vernacular: 四十三年过去了，如今瞭望长江北岸，还记得扬州战火连天的情景。
-  - word: 路
-    type: 【名词】
-    phonetic: lu4
-    trans: ❺行政区划名。宋时相当于现在的省;元时降为二等政区，隶属于省，与府相当。
-    ancient: 【高考题例】甫半岁，得善田二万六千顷，募士七千四百人，为他<路>最。（《宋史•何灌传》）
+    vernacular: xxxx
+  - word: 蒙
+    type: 【动词】
+    phonetic: meng2
+    trans: ❸遭受;承受。
+    ancient: 今得杀身百效，虽<蒙>斧钺汤镬，诚甘乐之。（《苏武传》）
     url: xxxx
-    vernacular: 不到半年，就得到了质量良好的耕地二万六千顷，招募到了弓箭手七千四百人，是其他行政路区相比是最成功的。
-  - word: 路
-    type: 【名词】
-    phonetic: lu4
-    trans: ❺行政区划名。宋时相当于现在的省;元时降为二等政区，隶属于省，与府相当。
-    ancient: 东西异<路>，不当与，然安忍于旧治坐视？（《宋史•萧燧传》）
+    vernacular: xxxx
+  - word: 蒙
+    type: 【动词】
+    phonetic: meng2
+    trans: ❸遭受;承受。
+    ancient: 安能以皓皓之白，而<蒙>世俗之尘埃乎？（《渔父》）
     url: xxxx
-    vernacular: 东部西部不属同路，按说不该给粮食，但哪能忍心对原管辖地区不管不问呢?
-  - word: 路
-    type: 【名词】
-    phonetic: lu4
-    trans: ❺行政区划名。宋时相当于现在的省;元时降为二等政区，隶属于省，与府相当。
-    ancient: 浩招辑流亡，开营田，以其规置颁示诸<路>。（《宋史•郭浩传》）
+    vernacular: xxxx
+  - word: 蒙
+    type: 【动词】
+    phonetic: meng2
+    trans: ❹继承。
+    ancient: 孝公既没，惠文、武、昭襄<蒙>故业，因（沿袭）遗策，南取汉中，西举巴蜀。（《过秦论》）
     url: xxxx
-    vernacular: "郭浩召集逃亡流落在外的人,开辟耕地,将自己的规划安排发布各地。"
-  - word: 路
+    vernacular: xxxx
+  - word: 蒙
+    type: 【动词】
+    phonetic: meng2
+    trans: ❺敬辞，承蒙。
+    ancient: 昨日<蒙>教。（宋•王安石《答司马谏议书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 蒙
+    type: 【动词】
+    phonetic: meng2
+    trans: ❺敬辞，承蒙。
+    ancient: 苏君，律前负汉归匈奴，幸<蒙>大恩，赐号称王。（《苏武传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 蒙
+    type: 【动词】
+    phonetic: meng2
+    trans: ❺敬辞，承蒙。
+    ancient: 诏书特下，拜臣郎中，寻<蒙>国恩，除臣洗马。（《陈情表》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 蒙
+    type: 【动词】
+    phonetic: meng2
+    trans: ❺敬辞，承蒙。
+    ancient: 凡在故老，犹<蒙>矜育，况臣孤苦，特为尤甚。（《陈情表》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 蒙
+    type: 【动词】
+    phonetic: meng2
+    trans: ❺敬辞，承蒙。
+    ancient: 【高考题例】由是数月之间，美声上闻，自此颇承恩遇，遂<蒙>大用。（《旧唐书•李揆传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 蒙
+    type: 【动词】
+    phonetic: meng2
+    trans: ❺敬辞，承蒙。
+    ancient: 【高考题例】臣父不能决胜而死，陛下不以罪其弩幸矣，臣等顾<蒙>非常之恩！（《宋史•康保裔传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 蒙
     type: 【形容词】
-    phonetic: lu4
-    trans: 疲乏;羸弱。
-    ancient: 且一人之身而百工之所为备，如必自为而后用之，是率天下而<路>也。（《孟子•滕文公上》）
+    phonetic: meng2
+    trans: ❶幼稚。
+    ancient: 匪我求童<蒙>，童<蒙>求我。（《周易•蒙卦》）
     url: xxxx
-    vernacular: 一个人身上(所需的用品)要靠各种工匠来替他制备，如果必须一件一件地亲自做出来然后去使用它，这是率领天下的人疲于奔命。
+    vernacular: xxxx
+  - word: 蒙
+    type: 【形容词】
+    phonetic: meng2
+    trans: ❶幼稚。
+    ancient: 复以<蒙>稚，猥同艰难。（《宋书•文帝纪》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 蒙
+    type: 【形容词】
+    phonetic: meng2
+    trans: ❷愚昧。
+    ancient: 韩氏之兵非削弱也，民非<蒙>愚也。（《战国策•韩策一》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 弥
+    type: 【动词】
+    phonetic: mi2
+    trans: 遍;满。
+    ancient: 幸蒙大恩，赐号称王，拥众数万，马畜<弥>山，富贵如此。（《汉书•苏武传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 弥
+    type: 【动词】
+    phonetic: mi2
+    trans: 遍;满。
+    ancient: 舒可<弥>宇宙，卷之不盈分。（唐•陈子昂《感遇》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 弥
+    type: 【形容词】
+    phonetic: mi2
+    trans: ❶广大。
+    ancient: 天丽且<弥>，地普而深。（《汉书•扬雄传下》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 弥
+    type: 【形容词】
+    phonetic: mi2
+    trans: ❶广大。
+    ancient: 结根<弥>于华岱，直指高于九嶷（嶷yi2山名）。（晋•孙绰《游天台山赋》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 弥
+    type: 【形容词】
+    phonetic: mi2
+    trans: ❷久远。
+    ancient: 旷日<弥>久而无益于理。（《盐铁论•相刺》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 弥
+    type: 【副词】
+    phonetic: mi2
+    trans: 更加。
+    ancient: 虽累百世，垢<弥>甚耳！（《报任安书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 弥
+    type: 【副词】
+    phonetic: mi2
+    trans: 更加。
+    ancient: 奉之<弥>繁，侵之愈急。（《六国论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 弥
+    type: 【副词】
+    phonetic: mi2
+    trans: 更加。
+    ancient: 佩缤纷其繁饰兮，芳菲菲其<弥>章。（《离骚》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 靡
+    type: 【动词】
+    phonetic: mi3
+    trans: ❶退却。
+    ancient: 试与他虫斗，虫尽<靡>。（《促织》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 靡
+    type: 【动词】
+    phonetic: mi3
+    trans: ❷归顺。
+    ancient: 于是赵国以北，辽东以西，皆从风而<靡>。（《后汉书•王昌传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 靡
+    type: 【动词】
+    phonetic: mi3
+    trans: ❸倒下。
+    ancient: 吾视其辙乱，望其旗<靡>，故逐之。（《曹刿论战》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 靡
+    type: 【动词】
+    phonetic: mi3
+    trans: ❸倒下。
+    ancient: 故不随俗<靡>者盖鲜矣。（《训俭示康》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 靡
+    type: 【动词】
+    phonetic: mi3
+    trans: ❸倒下。
+    ancient: 左右欲刃相如，相如张目叱之，左右皆<靡>。（《廉颇蔺相如列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 靡
+    type: 【动词】
+    phonetic: mi3
+    trans: ❹无。
+    ancient: <靡>不毕见。（《史记•屈原贾生列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 靡
+    type: 【动词】
+    phonetic: mi3
+    trans: ❹无。
+    ancient: 探石发穴，<靡>计不施。（《促织》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 靡
+    type: 【形容词】
+    phonetic: mi3
+    trans: ❶细小。
+    ancient: <靡>草既凋，温风以至。（南朝梁•沈约《歌赤帝辞》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 靡
+    type: 【形容词】
+    phonetic: mi3
+    trans: ❷华丽;美好。
+    ancient: 以为相如《封禅》，<靡>而不典。（《后汉书•班彪传》）【动词】不。
+    url: xxxx
+    vernacular: xxxx
+  - word: 靡
+    type: 【形容词】
+    phonetic: mi3
+    trans: ❷华丽;美好。
+    ancient: 天高地迥，号呼<靡>及。（《〈指南录〉后序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 靡
+    type: 【形容词】
+    phonetic: mi3
+    trans: ❷华丽;美好。
+    ancient: 三岁为妇，<靡>室劳矣。夙兴夜寐，<靡>有朝矣。（《诗经•卫风•氓》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 靡
+    type: 【形容词】
+    phonetic: mi3
+    trans: ❷华丽;美好。
+    ancient: 王事<靡>盬（gu3），不遑启处。忧心孔疚，我行不来。名（《诗经.小雅"•釆薇》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 名
+    type: 【名词】
+    phonetic: ming2
+    trans: ❶名字;名称。
+    ancient: 昨夜见军帖，可汗大点兵，军书十二卷，卷卷有爷<名>。（《木兰诗》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 名
+    type: 【名词】
+    phonetic: ming2
+    trans: ❶名字;名称。
+    ancient: 即书诗四句，并自为其<名>。（《伤仲永》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 名
+    type: 【名词】
+    phonetic: ming2
+    trans: ❷名号；名分（与"实"相对）。
+    ancient: 古者<名>位不同，礼亦异数。（《汉书•艺文志》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 名
+    type: 【名词】
+    phonetic: ming2
+    trans: ❷名号；名分（与"实"相对）。
+    ancient: 唯<名>与器，圣人所重。（《后汉书•刘玄传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 名
+    type: 【名词】
+    phonetic: ming2
+    trans: ❸名誉;名声。
+    ancient: 曹操比于袁绍，则<名>微而众寡，然操遂能克绍，以弱为强者，非惟天时，抑亦人谋也。（《隆中对》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 名
+    type: 【名词】
+    phonetic: ming2
+    trans: ❸名誉;名声。
+    ancient: 功与日月齐光兮，<名>与三王争流。（《后汉书•冯衍传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 名
+    type: 【动词】
+    phonetic: ming2
+    trans: ❶命名；取名。
+    ancient: 所谓华山洞者，以其乃华山之阳<名>之也。（《游褒禅山记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 名
+    type: 【动词】
+    phonetic: ming2
+    trans: ❶命名；取名。
+    ancient: 东家有贤女，自<名>秦罗敷，可怜体无比，阿母为汝求。（《孔雀东南飞》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 名
+    type: 【动词】
+    phonetic: ming2
+    trans: ❶命名；取名。
+    ancient: <名>余曰正则兮，字余曰灵均。（《离骚》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 名
+    type: 【动词】
+    phonetic: ming2
+    trans: ❶命名；取名。
+    ancient: 以故其后<名>之曰"褒禅"。（《游褒禅山记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 名
+    type: 【动词】
+    phonetic: ming2
+    trans: ❶命名；取名。
+    ancient: 【高考题例】民图像于庐，而奉之如神，<名>日"范公庵"。（《宋史-范纯礼传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 名
+    type: 【动词】
+    phonetic: ming2
+    trans: ❷称说;说出。
+    ancient: 后世之谬其传而莫能<名>者，何可胜道也哉！（《游褒禅山记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 名
+    type: 【动词】
+    phonetic: ming2
+    trans: ❷称说;说出。
+    ancient: 人有百口，口有百舌，不能<名>其一处也。（《口技》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 名
+    type: 【动词】
+    phonetic: ming2
+    trans: ❸出名；有名。
+    ancient: 山不在高，有仙则<名>。（《陋室铭》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 名
+    type: 【形容词】
+    phonetic: ming2
+    trans: 著名的;有名声的。
+    ancient: 故虽有<名>马，祗辱于奴隶人之手，骈死于槽栃之间，不以千里称也。阳马生序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 没
+    type: 【动词】
+    phonetic: mo4
+    trans: ❶潜水。
+    ancient: 始皇还，过彭城，斋戒祷祠，欲出周鼎泗水，使千人<没>水求之，弗得。（《史记•秦始皇本纪》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 没
+    type: 【动词】
+    phonetic: mo4
+    trans: ❷沉没;淹没。
+    ancient: 蛟或浮或<没>，行数十里，处与之俱。（《世说新语•自新》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 没
+    type: 【动词】
+    phonetic: mo4
+    trans: ❸沦陷；陷落。
+    ancient: 交阯刺史及苍梧太守望风逃奔，二郡皆<没>。（《后汉书•度尚传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 没
+    type: 【动词】
+    phonetic: mo4
+    trans: ❸沦陷；陷落。
+    ancient: 后随浞野侯<没>胡中。（《苏武传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 没
+    type: 【动词】
+    phonetic: mo4
+    trans: ❸沦陷；陷落。
+    ancient: 【高考题例】灌迎高射之，发辄中，或著崖石皆<没>镞，敌惊以为神，逡巡敛去。（《宋史•何灌传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 没
+    type: 【动词】
+    phonetic: mo4
+    trans: ❹隐没。
+    ancient: 平沙日未<没>，黯黯见临沸。（唐•王昌龄《塞下曲》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 没
+    type: 【动词】
+    phonetic: mo4
+    trans: ❹隐没。
+    ancient: 草行露宿，日与北骑相出<没>于长淮间。（《〈指南录〉后序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 没
+    type: 【动词】
+    phonetic: mo4
+    trans: ❹隐没。
+    ancient: 【高考题例】出<没>花中见，参差叶际飞。（南朝梁•刘孝绰《咏素蝶诗》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 没
+    type: 【动词】
+    phonetic: mo4
+    trans: ❺掩埋。
+    ancient: 生女犹得嫁比邻，生男埋<没>随百草。（《兵车行》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 没
+    type: 【动词】
+    phonetic: mo4
+    trans: ❻泯灭;消除。
+    ancient: 武子所施<没>矣。（《左传•襄公十四年》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 没
+    type: 【动词】
+    phonetic: mo4
+    trans: ❻泯灭;消除。
+    ancient: 死而湮<没>不足道者，亦已众矣。（《五人墓碑记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 没
+    type: 【动词】
+    phonetic: mo4
+    trans: ❻泯灭;消除。
+    ancient: <没>华虚之文，存敦庞之朴，拨流失之风，反宓戏之俗。（《论衡・自纪》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 没
+    type: 【动词】
+    phonetic: mo4
+    trans: ❼通"殁"。死亡;寿终。
+    ancient: 若寡人得<没>于地，天其以礼悔祸于许（国名）？（《左传•隐公十一年》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 没
+    type: 【动词】
+    phonetic: mo4
+    trans: ❼通"殁"。死亡;寿终。
+    ancient: 始皇既<没>，余威震手殊俗。（《过秦论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 没
+    type: 【动词】
+    phonetic: mo4
+    trans: ❼通"殁"。死亡;寿终。
+    ancient: 恨私心有所不尽，鄙陋<没>世，而文釆不表于后也。（《报任安书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 没
+    type: 【动词】
+    phonetic: mo4
+    trans: ❼通"殁"。死亡;寿终。
+    ancient: 天下君王至于贤人众矣，当时则荣，<没>则已焉。（《史记•孔子世家》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 没
+    type: 【动词】
+    phonetic: mo4
+    trans: ❼通"殁"。死亡;寿终。
+    ancient: 【高考题例】背城拒战凡三日，被创，<没>于阵，年六十二。（《宋史•何灌传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 没
+    type: 【动词】
+    phonetic: mo4
+    trans: 8没收。
+    ancient: 秦之遇将军，可谓深矣。父母宗族，皆为戮<没>。（《荆轲刺秦王》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 没
+    type: 【动词】
+    phonetic: mo4
+    trans: ❾无;没有。此义今读mei4。
+    ancient: 天下皆知崔协不识文字，而虚有仪表，号为"<没>字碑"。（《新五代史•任圜传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
+    type: 【代词】
+    phonetic: mo4
+    trans: 没有谁;没有什么。
+    ancient: 溥天之下，<莫>非王土；率土之滨，<莫>非王臣。（《诗经•小雅•北山》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
+    type: 【代词】
+    phonetic: mo4
+    trans: 没有谁;没有什么。
+    ancient: 非刘豫州<莫>可以当曹操者，然豫州新败之后，安能抗此难乎？（《资治通鉴•汉纪五十七》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
+    type: 【代词】
+    phonetic: mo4
+    trans: 没有谁;没有什么。
+    ancient: 时天下承平日久，自王侯以下<莫>不逾侈。（《张衡传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
+    type: 【代词】
+    phonetic: mo4
+    trans: 没有谁;没有什么。
+    ancient: 如使人之所欲<莫>甚于生。（《鱼我所欲也》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
+    type: 【代词】
+    phonetic: mo4
+    trans: 没有谁;没有什么。
+    ancient: 【高考题例】百姓市道<莫>不咨嗟。（《后汉书•王涣传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
+    type: 【代词】
+    phonetic: mo4
+    trans: 没有谁;没有什么。
+    ancient: 【高考题例】弘微少孤，事兄如父，兄弟友穆之至，举世<莫>及也。（《宋书•谢弘微传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
+    type: 【副词】
+    phonetic: mo4
+    trans: ❶不。
+    ancient: 一夫当关，万夫<莫>开。（《蜀道难》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
+    type: 【副词】
+    phonetic: mo4
+    trans: ❶不。
+    ancient: 苟非吾之所有，虽一毫而<莫>取。（《赤壁赋》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
+    type: 【副词】
+    phonetic: mo4
+    trans: ❷不要。
+    ancient: <莫>辞更坐弹一曲，为君翻作《琵琶行》。（《琵琶行》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
+    type: 【副词】
+    phonetic: mo4
+    trans: ❷不要。
+    ancient: 愿早定大计，<莫>用众人之议也。（《资治通鉴•汉纪五十七》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
+    type: 【副词】
+    phonetic: mo4
+    trans: ❸大约。
+    ancient: 文，<莫>吾犹人也。躬行君子，则吾未之有得。（《论语•述而》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
+    type: 【名词】
+    phonetic: mu4
+    trans: ❶日落之时;傍晚。"暮"字的古体。
+    ancient: 日<莫>人倦。（《礼记•聘义》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
+    type: 【名词】
+    phonetic: mu4
+    trans: ❶日落之时;傍晚。"暮"字的古体。
+    ancient: 至<莫>夜月明，独与迈乘小舟，至绝壁下。（《石钟山记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
+    type: 【名词】
+    phonetic: mu4
+    trans: ❶日落之时;傍晚。"暮"字的古体。
+    ancient: <莫>春者，春服既成。（《子路、曾晳、冉有、公西华侍坐》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
+    type: 【名词】
+    phonetic: mu4
+    trans: ❷通"幕"。幕府。
+    ancient: 大将军不听，令长史封书与广之<莫>府。（《史记•李将军列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
+    type: 【名词】
+    phonetic: mu4
+    trans: ❸多年生草本植物，嫩叶、嫩茎可做蔬菜。
+    ancient: 彼汾沮洳（ru4，泥沼），言釆其<莫>。（《诗经•魏风•汾沮洳》）【形容词】❶昏暗；昏黑。
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
+    type: 【名词】
+    phonetic: mu4
+    trans: ❸多年生草本植物，嫩叶、嫩茎可做蔬菜。
+    ancient: 于是榛林深泽，烟云闇（an4，黑暗）<莫>。（汉•枚乘《七发》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
+    type: 【名词】
+    phonetic: mu4
+    trans: ❷年老。
+    ancient: 臣迫于衰<莫>。（宋•王安石《谢宣医札子》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 牧
+    type: 【名词】
+    phonetic: mu4
+    trans: ❶放牧之人。
+    ancient: 问樵樵不知，问<牧><牧>不言。（宋•王安石《谢公墩》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 牧
+    type: 【名词】
+    phonetic: mu4
+    trans: ❶放牧之人。
+    ancient: 马有圉（yu3，养马的人），牛有<牧>，以待百事。（《左传•昭公七"年》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 牧
+    type: 【名词】
+    phonetic: mu4
+    trans: ❷古代称诸侯或地方长官。
+    ancient: 今夫天下之人<牧>，未有不嗜杀人者也。（《孟子•梁惠王上》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 牧
+    type: 【名词】
+    phonetic: mu4
+    trans: ❷古代称诸侯或地方长官。
+    ancient: 臣之辛苦，非独蜀之人士及二州<牧>伯所见明知，皇天后土，实所共鉴。（《陈情表》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 牧
+    type: 【名词】
+    phonetic: mu4
+    trans: ❷古代称诸侯或地方长官。
+    ancient: 【高考题例】萍寄（像浮萍一样漂泊托身）诸州，凡十五六年，其<牧>守稍薄，则又移居，故其迁徙者，盖（大概）十余州焉。（《旧唐书•李揆传》〉
+    url: xxxx
+    vernacular: xxxx
+  - word: 牧
+    type: 【名词】
+    phonetic: mu4
+    trans: ❸指主管某一专业的官。
+    ancient: 命舟<牧>覆舟。（《礼记•月令》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 牧
+    type: 【名词】
+    phonetic: mu4
+    trans: ❹牧地;牧场。
+    ancient: 今有受人之牛羊而为之牧之者，则必为之求<牧>与刍（牧草）矣。（《孟子•公孙丑下》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 牧
+    type: 【名词】
+    phonetic: mu4
+    trans: ❺郊外。
+    ancient: 自<牧>归荑，洵美且异。（《诗经•郝风•静女》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 牧
+    type: 【名词】
+    phonetic: mu4
+    trans: ❻地名。即牧野，今河南新乡附近。
+    ancient: 致天之届，于<牧>之野。（《诗经•鲁颂•闔宫》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 牧
+    type: 【动词】
+    phonetic: mu4
+    trans: ❶放牧饲养牲畜。
+    ancient: 牛羊又从而<牧>之。（《孟子•告子上》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 牧
+    type: 【动词】
+    phonetic: mu4
+    trans: ❶放牧饲养牲畜。
+    ancient: 胡人不敢南下而<牧>马，士不敢弯弓而报怨。（《过秦论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 牧
+    type: 【动词】
+    phonetic: mu4
+    trans: ❶放牧饲养牲畜。
+    ancient: 杖汉节<牧>羊，卧起操持，节旄尽落。（《苏武传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 牧
+    type: 【动词】
+    phonetic: mu4
+    trans: ❷修养。
+    ancient: 念高危，则思谦冲而自<牧>。（《谏太宗十思疏》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 牧
+    type: 【动词】
+    phonetic: mu4
+    trans: ❸治理。
+    ancient: 【高考题例】况<牧>民之长，百责所丛。（元•张养浩《三事忠:告》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 莫
+    type: 【名词】
+    phonetic: mu4
+    trans: ❶xxxx
+    ancient: xxx
+    url: xxxx
+    vernacular: 见丨55页""莫㊁"。
+  - word: 慕
+    type: 【动词】
+    phonetic: mu4
+    trans: ❶想念;向往。
+    ancient: 其声呜呜然，如怨如<慕>，如泣如诉。（《赤壁赋》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 慕
+    type: 【动词】
+    phonetic: mu4
+    trans: ❷敬仰;仰慕。
+    ancient: 且勇者不必死节，怯夫<慕>义，何处不勉焉。（《报任安书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 慕
+    type: 【动词】
+    phonetic: mu4
+    trans: ❷敬仰;仰慕。
+    ancient: 臣所以去亲戚而事君者，徒<慕>君之高义也。（《廉颇蔺相如列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 慕
+    type: 【动词】
+    phonetic: mu4
+    trans: ❷敬仰;仰慕。
+    ancient: 【高考题例】天水夷夏<慕>德，老幼赴阙献书，乞留芝。（《晋书•鲁芝传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 慕
+    type: 【动词】
+    phonetic: mu4
+    trans: ❸羡慕。
+    ancient: 无路请缨，等终军之弱冠；有怀投笔，<慕>宗悫之长风。（《滕王阁序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 慕
+    type: 【动词】
+    phonetic: mu4
+    trans: ❸羡慕。
+    ancient: 余则缊（yun4，乱麻）袍敝衣处其间，略无<慕>艳意。（《送东阳马圧序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 慕
+    type: 【动词】
+    phonetic: mu4
+    trans: ❸羡慕。
+    ancient: （张）衡不<慕>当世，所居之官辄积年不徙。（《张衡传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 慕
+    type: 【动词】
+    phonetic: mu4
+    trans: ❹讨好;趋附。
+    ancient: 仕则<慕>君，不得于君则热中。（《孟子•万章上》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 慕
+    type: 【动词】
+    phonetic: mu4
+    trans: ❺效法。
+    ancient: 他植者虽窥伺效<慕>，莫能如也。（《种树郭橐驼传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 暮
+    type: 【名词】
+    phonetic: mu4
+    trans: 日落的时候;傍晚（与"朝"相对）
+    ancient: 旦辞爷娘去，<暮>宿黄河边。（《木兰诗》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 暮
+    type: 【名词】
+    phonetic: mu4
+    trans: 日落的时候;傍晚（与"朝"相对）
+    ancient: <暮>投石壕村，有吏夜捉人。（《石壕吏》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 暮
+    type: 【形容词】
+    phonetic: mu4
+    trans: 晩;时间将尽。
+    ancient: 烈士<暮>年，壮心不已。（汉•曹操《龟虽寿》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 暮
+    type: 【形容词】
+    phonetic: mu4
+    trans: 晩;时间将尽。
+    ancient: <暮>春三月，江南草长。（《与陈伯之书》）
+    url: xxxx
+    vernacular: xxxx

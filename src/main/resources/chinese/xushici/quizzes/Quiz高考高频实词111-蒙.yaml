@@ -1,9 +1,121 @@
 ---
 quizzes:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+  - word: 蒙
+    type: 【动词】
+    phonetic: meng2
+    trans: ❶覆盖;遮住。
+    ancient: 青树翠蔓，<蒙>络摇缀。（《小石潭记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 蒙
+    type: 【动词】
+    phonetic: meng2
+    trans: ❶覆盖;遮住。
+    ancient: 今（曹）操得荆州，奄（yan3，包括）有其地，刘表治水军，<蒙>冲斗舰乃以千数，操忠浮以沿江。（《资治通鉴•汉纪五十七》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 蒙
+    type: 【动词】
+    phonetic: meng2
+    trans: ❷隐瞒;欺骗。
+    ancient: 下义其罪，上赏其奸，上下相<蒙>，难与处矣。（《左传•僖公二十四年》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 蒙
+    type: 【动词】
+    phonetic: meng2
+    trans: ❷隐瞒;欺骗。
+    ancient: 上下<蒙>冒，吁号不闻。（唐•柳宗元《驳复仇议》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 蒙
+    type: 【动词】
+    phonetic: meng2
+    trans: ❸遭受;承受。
+    ancient: 安能以皓皓之白，而<蒙>世之温蠖（蠖huo4，昏聩）乎?（《史记•屈原贾生列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 蒙
+    type: 【动词】
+    phonetic: meng2
+    trans: ❸遭受;承受。
+    ancient: 今得杀身百效，虽<蒙>斧钺汤镬，诚甘乐之。（《苏武传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 蒙
+    type: 【动词】
+    phonetic: meng2
+    trans: ❸遭受;承受。
+    ancient: 安能以皓皓之白，而<蒙>世俗之尘埃乎？（《渔父》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 蒙
+    type: 【动词】
+    phonetic: meng2
+    trans: ❹继承。
+    ancient: 孝公既没，惠文、武、昭襄<蒙>故业，因（沿袭）遗策，南取汉中，西举巴蜀。（《过秦论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 蒙
+    type: 【动词】
+    phonetic: meng2
+    trans: ❺敬辞，承蒙。
+    ancient: 昨日<蒙>教。（宋•王安石《答司马谏议书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 蒙
+    type: 【动词】
+    phonetic: meng2
+    trans: ❺敬辞，承蒙。
+    ancient: 苏君，律前负汉归匈奴，幸<蒙>大恩，赐号称王。（《苏武传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 蒙
+    type: 【动词】
+    phonetic: meng2
+    trans: ❺敬辞，承蒙。
+    ancient: 诏书特下，拜臣郎中，寻<蒙>国恩，除臣洗马。（《陈情表》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 蒙
+    type: 【动词】
+    phonetic: meng2
+    trans: ❺敬辞，承蒙。
+    ancient: 凡在故老，犹<蒙>矜育，况臣孤苦，特为尤甚。（《陈情表》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 蒙
+    type: 【动词】
+    phonetic: meng2
+    trans: ❺敬辞，承蒙。
+    ancient: 【高考题例】由是数月之间，美声上闻，自此颇承恩遇，遂<蒙>大用。（《旧唐书•李揆传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 蒙
+    type: 【动词】
+    phonetic: meng2
+    trans: ❺敬辞，承蒙。
+    ancient: 【高考题例】臣父不能决胜而死，陛下不以罪其弩幸矣，臣等顾<蒙>非常之恩！（《宋史•康保裔传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 蒙
+    type: 【形容词】
+    phonetic: meng2
+    trans: ❶幼稚。
+    ancient: 匪我求童<蒙>，童<蒙>求我。（《周易•蒙卦》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 蒙
+    type: 【形容词】
+    phonetic: meng2
+    trans: ❶幼稚。
+    ancient: 复以<蒙>稚，猥同艰难。（《宋书•文帝纪》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 蒙
+    type: 【形容词】
+    phonetic: meng2
+    trans: ❷愚昧。
+    ancient: 韩氏之兵非削弱也，民非<蒙>愚也。（《战国策•韩策一》）
     url: xxxx
     vernacular: xxxx
