@@ -18,7 +18,7 @@ words:
     samples:
       - trans: 学说;观点。
         sentences:
-          - ancient: 夫持帝王之论，说霸者之主，虽精见距。（《论衡・逢遇》）
+          - ancient: 夫持帝王之<论>，说霸者之主，虽精见距。（《论衡・逢遇》）
 
   - word: 论
     type: 【动词】
