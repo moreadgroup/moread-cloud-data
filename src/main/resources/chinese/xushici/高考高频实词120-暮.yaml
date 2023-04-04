@@ -6,12 +6,14 @@ words:
     tags:
       - 高中
     samples:
-      - trans: 日落的时候;傍晚（与""朝"相对）。
+      - trans: 日落的时候;傍晚（与"朝"相对）
         sentences:
-          - ancient: 旦辞爷娘去,暮宿黄河边。（《木兰诗》）
-          - ancient: 暮投石壕村,有吏夜捉人。（《石壕吏》）
-
-
+          - ancient: 旦辞爷娘去，<暮>宿黄河边。（《木兰诗》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <暮>投石壕村，有吏夜捉人。（《石壕吏》）
+            url: xxxx
+            vernacular: xxxx
   - word: 暮
     type: 【形容词】
     phonetic: mu4
@@ -20,6 +22,9 @@ words:
     samples:
       - trans: 晩;时间将尽。
         sentences:
-          - ancient: 烈士暮年，壮心不已。（汉•曹操《龟虽寿》）
-          - ancient: 暮春三月，江南草长。（《与陈伯之书》）
-
+          - ancient: 烈士<暮>年，壮心不已。（汉•曹操《龟虽寿》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <暮>春三月，江南草长。（《与陈伯之书》）
+            url: xxxx
+            vernacular: xxxx

@@ -8,38 +8,76 @@ words:
     samples:
       - trans: ❶潜水。
         sentences:
-          - ancient: 始皇还，过彭城，斋戒祷祠，欲出周鼎泗水,使千人没水求之,弗得。（《史记•秦始皇本纪》）
+          - ancient: "始皇还，过彭城，斋戒祷祠，欲出周鼎泗水，使千人<没>水求之，弗得。（《史记•秦始皇本纪》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷沉没;淹没。
         sentences:
-          - ancient: 蛟或浮或没，行数十里，处与之俱。（《世说新语•自新》）
+          - ancient: 蛟或浮或<没>，行数十里，处与之俱。（《世说新语•自新》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸沦陷；陷落。
         sentences:
-          - ancient: 交阯刺史及苍梧太守望风逃奔，二郡皆没。（《后汉书•度尚传》）
-          - ancient: 后随浞野侯没胡中。（《苏武传》）
-          - ancient: 【高考题例】灌迎高射之,发辄中，或著崖石皆没镞,敌惊以为神，逡巡敛去。（《宋史•何灌传》）
+          - ancient: 交阯刺史及苍梧太守望风逃奔，二郡皆<没>。（《后汉书•度尚传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 后随浞野侯<没>胡中。（《苏武传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "【高考题例】灌迎高射之，发辄中，或著崖石皆<没>镞，敌惊以为神，逡巡敛去。（《宋史•何灌传》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❹隐没。
         sentences:
-          - ancient: 平沙日未没，黯黯见临沸。（唐•王昌龄《塞下曲》）
-          - ancient: 草行露宿，日与北骑相出没于长淮间。（《〈指南录〉后序》）
-          - ancient: 【高考题例】出没花中见,参差叶际飞。（南朝梁•刘孝绰《咏素蝶诗》）
+          - ancient: 平沙日未<没>，黯黯见临沸。（唐•王昌龄《塞下曲》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 草行露宿，日与北骑相出<没>于长淮间。（《〈指南录〉后序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "【高考题例】出<没>花中见，参差叶际飞。（南朝梁•刘孝绰《咏素蝶诗》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❺掩埋。
         sentences:
-          - ancient: 生女犹得嫁比邻，生男埋没随百草。（《兵车行》）
+          - ancient: 生女犹得嫁比邻，生男埋<没>随百草。（《兵车行》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❻泯灭;消除。
         sentences:
-          - ancient: 武子所施没矣。（《左传•襄公十四年》）
-          - ancient: 死而湮没不足道者，亦已众矣。（《五人墓碑记》）
-          - ancient: 没华虚之文，存敦庞之朴，拨流失之风，反宓戏之俗。（《论衡・自纪》）
+          - ancient: 武子所施<没>矣。（《左传•襄公十四年》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 死而湮<没>不足道者，亦已众矣。（《五人墓碑记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <没>华虚之文，存敦庞之朴，拨流失之风，反宓戏之俗。（《论衡・自纪》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❼通"殁"。死亡;寿终。
         sentences:
-          - ancient: 若寡人得没于地，天其以礼悔祸于许（国名）？（《左传•隐公十一年》）
-          - ancient: 始皇既没，余威震手殊俗。（《过秦论》）
-          - ancient: 恨私心有所不尽，鄙陋没世，而文釆不表于后也。（《报任安书》）
-          - ancient: 天下君王至于贤人众矣，当时则荣，没则已焉。（《史记•孔子世家》）
-          - ancient: 【高考题例】背城拒战凡三日，被创，没于阵,年六十二。（《宋史•何灌传》）
+          - ancient: 若寡人得<没>于地，天其以礼悔祸于许（国名）？（《左传•隐公十一年》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 始皇既<没>，余威震手殊俗。（《过秦论》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 恨私心有所不尽，鄙陋<没>世，而文釆不表于后也。（《报任安书》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 天下君王至于贤人众矣，当时则荣，<没>则已焉。（《史记•孔子世家》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "【高考题例】背城拒战凡三日，被创，<没>于阵，年六十二。（《宋史•何灌传》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: 8没收。
         sentences:
-          - ancient: 秦之遇将军，可谓深矣。父母宗族，皆为戮没。（《荆轲刺秦王》）
+          - ancient: 秦之遇将军，可谓深矣。父母宗族，皆为戮<没>。（《荆轲刺秦王》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❾无;没有。此义今读mei4。
         sentences:
-          - ancient: 天下皆知崔协不识文字，而虚有仪表，号为"没字碑"。（《新五代史•任圜传》）
+          - ancient: 天下皆知崔协不识文字，而虚有仪表，号为"<没>字碑"。（《新五代史•任圜传》）
+            url: xxxx
+            vernacular: xxxx

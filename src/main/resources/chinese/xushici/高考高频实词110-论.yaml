@@ -8,8 +8,9 @@ words:
     samples:
       - trans: 编撰。
         sentences:
-          - ancient:退而论书策，以舒其愤，思垂空文以自见。（《报任安书》）
-
+          - ancient: ancient:退而<论>书策，以舒其愤，思垂空文以自见。（《报任安书》）
+            url: xxxx
+            vernacular: xxxx
   - word: 论
     type: 【名词】
     phonetic: lun4
@@ -19,7 +20,8 @@ words:
       - trans: 学说;观点。
         sentences:
           - ancient: 夫持帝王之<论>，说霸者之主，虽精见距。（《论衡・逢遇》）
-
+            url: xxxx
+            vernacular: xxxx
   - word: 论
     type: 【动词】
     phonetic: lun4
@@ -28,16 +30,34 @@ words:
     samples:
       - trans: ❶讨论;议论。
         sentences:
-          - ancient: 每与臣论此事，未尝不叹息痛恨于桓、灵也。（《出师表》）
-          - ancient: 肃宣（孙）权旨，论天下事势，致殷勤之意。（《资治通鉴•汉纪五十七》）
-          - ancient: 千载琵琶作胡语，分明怨恨曲中论。（唐•杜甫《咏怀古迹•其三》）
-          - ancient: 生人作死别，恨恨那可论?（《孔雀东南飞》）
+          - ancient: 每与臣<论>此事，未尝不叹息痛恨于桓、灵也。（《出师表》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 肃宣（孙）权旨，<论>天下事势，致殷勤之意。（《资治通鉴•汉纪五十七》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 千载琵琶作胡语，分明怨恨曲中<论>。（唐•杜甫《咏怀古迹•其三》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 生人作死别，恨恨那可<论>?（《孔雀东南飞》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷评定赏罚;判决。
         sentences:
-          - ancient: 宜付有司论其刑赏。（《出师表》）
-          - ancient: 二世二年七月,具（李）斯五刑，论腰斩咸阳市。（《史记•李斯列传》）
-          - ancient: 武益愈（痊愈），单于使使晓（告知）武，会论虞常，欲因（趁）此时降武。（《苏武传》）,
-          - ancient: 【高考题例】将论囚，敞日："冤也。"（《宋史•刘敞传》）
+          - ancient: 宜付有司<论>其刑赏。（《出师表》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "二世二年七月，具（李）斯五刑，<论>腰斩咸阳市。（《史记•李斯列传》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "武益愈（痊愈），单于使使晓（告知）武，会<论>虞常，欲因（趁）此时降武。（《苏武传》），"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】将<论>囚，敞日："冤也。"（《宋史•刘敞传》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸说。
         sentences:
-          - ancient: 问今是何世，乃不知有汉，无论魏晋。（《桃花源记》）
+          - ancient: 问今是何世，乃不知有汉，无<论>魏晋。（《桃花源记》）
+            url: xxxx
+            vernacular: xxxx
