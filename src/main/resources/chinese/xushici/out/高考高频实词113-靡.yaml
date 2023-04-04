@@ -1,13 +1,67 @@
 ---
 words:
-  - word: xxxx
+  - word: 靡
     type: 【名词】
-    phonetic: xx1
+    phonetic: mi3
+    tags:
+      - 高中
+  - word: 靡
+    type: 【动词】
+    phonetic: mi3
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶退却。
         sentences:
-          - ancient: xxx
+          - ancient: 试与他虫斗，虫尽<靡>。（《促织》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷归顺。
+        sentences:
+          - ancient: 于是赵国以北，辽东以西，皆从风而<靡>。（《后汉书•王昌传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸倒下。
+        sentences:
+          - ancient: 吾视其辙乱，望其旗<靡>，故逐之。（《曹刿论战》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 故不随俗<靡>者盖鲜矣。（《训俭示康》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 左右欲刃相如，相如张目叱之，左右皆<靡>。（《廉颇蔺相如列传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹无。
+        sentences:
+          - ancient: <靡>不毕见。（《史记•屈原贾生列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "探石发穴,<靡>计不施。（《促织》）"
+            url: xxxx
+            vernacular: xxxx
+  - word: 靡
+    type: 【形容词】
+    phonetic: mi3
+    tags:
+      - 高中
+    samples:
+      - trans: ❶细小。
+        sentences:
+          - ancient: <靡>草既凋，温风以至。（南朝梁•沈约《歌赤帝辞》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷华丽;美好。
+        sentences:
+          - ancient: 以为相如《封禅》，<靡>而不典。（《后汉书•班彪传》）【动词】不。
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 天高地迥，号呼<靡>及。（《〈指南录〉后序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 三岁为妇，<靡>室劳矣。夙兴夜寐，<靡>有朝矣。（《诗经•卫风•氓》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "王事<靡>盬（gu3）,不遑启处。忧心孔疚，我行不来。名（《诗经.小雅\"•釆薇》）"
             url: xxxx
             vernacular: xxxx

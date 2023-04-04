@@ -1,13 +1,79 @@
 ---
 words:
-  - word: xxxx
+  - word: 名
     type: 【名词】
-    phonetic: xx1
+    phonetic: ming2
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶名字;名称。
         sentences:
-          - ancient: xxx
+          - ancient: 昨夜见军帖，可汗大点兵，军书十二卷，卷卷有爷<名>。（《木兰诗》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "即书诗四句,并自为其<名>。（《伤仲永》）"
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷名号；名分（与"实"相对）。
+        sentences:
+          - ancient: 古者<名>位不同，礼亦异数。（《汉书•艺文志》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 唯<名>与器，圣人所重。（《后汉书•刘玄传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸名誉;名声。
+        sentences:
+          - ancient: "曹操比于袁绍，则<名>微而众寡,然操遂能克绍，以弱为强者，非惟天时,抑亦人谋也。（《隆中对》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 功与日月齐光兮，<名>与三王争流。（《后汉书•冯衍传》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 名
+    type: 【动词】
+    phonetic: ming2
+    tags:
+      - 高中
+    samples:
+      - trans: ❶命名；取名。
+        sentences:
+          - ancient: 所谓华山洞者，以其乃华山之阳<名>之也。（《游褒禅山记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 东家有贤女，自<名>秦罗敷，可怜体无比，阿母为汝求。（《孔雀东南飞》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <名>余曰正则兮，字余曰灵均。（《离骚》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 以故其后<名>之曰"褒禅"。（《游褒禅山记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】民图像于庐，而奉之如神，<名>日"范公庵"。（《宋史-范纯礼传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷称说;说出。
+        sentences:
+          - ancient: 后世之谬其传而莫能<名>者，何可胜道也哉！（《游褒禅山记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 人有百口，口有百舌，不能<名>其一处也。（《口技》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸出名；有名。
+        sentences:
+          - ancient: 山不在高，有仙则<名>。（《陋室铭》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 名
+    type: 【形容词】
+    phonetic: ming2
+    tags:
+      - 高中
+    samples:
+      - trans: 著名的;有名声的。
+        sentences:
+          - ancient: "故虽有<名>马，祗辱于奴隶人之手，骈死于槽栃之间,不以千里称也。阳马生序》）"
             url: xxxx
             vernacular: xxxx
