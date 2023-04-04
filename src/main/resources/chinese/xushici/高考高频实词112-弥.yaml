@@ -1,13 +1,38 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 弥
+    type: 【动词】
+    phonetic: mi2
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: 遍;满。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 幸蒙大恩，赐号称王，拥众数万，马畜弥山，富贵如此。（《汉书•苏武传》）
+          - ancient: 舒可弥宇宙,卷之不盈分。（唐•陈子昂《感遇》）
+
+  - word: 弥
+    type: 【形容词】
+    phonetic: mi2
+    tags:
+      - 高中
+    samples:
+      - trans: ❶广大。
+        sentences:
+          - ancient: 天丽且弥，地普而深。（《汉书•扬雄传下》）
+          - ancient: 结根弥于华岱,直指高于九嶷（嶷yi2山名）。（晋•孙绰《游天台山赋》）
+      - trans: ❷久远。
+        sentences:
+          - ancient: 旷日弥久而无益于理。（《盐铁论•相刺》）
+
+  - word: 弥
+    type: 【副词】
+    phonetic: mi2
+    tags:
+      - 高中
+    samples:
+      - trans: 更加。
+        sentences:
+          - ancient: 虽累百世，垢弥甚耳！（《报任安书》）
+          - ancient: 奉之弥繁，侵之愈急。（《六国论》）
+          - ancient: 佩缤纷其繁饰兮，芳菲菲其弥章。（《离骚》）

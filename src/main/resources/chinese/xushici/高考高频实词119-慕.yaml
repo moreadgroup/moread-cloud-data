@@ -1,13 +1,27 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 慕
+    type: 【动词】
+    phonetic: mu4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶想念;向往。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 其声呜呜然，如怨如慕，如泣如诉。（《赤壁赋》）
+      - trans: ❷敬仰;仰慕。
+        sentences:
+          - ancient: 且勇者不必死节，怯夫慕义,何处不勉焉。（《报任安书》）
+          - ancient: 臣所以去亲戚而事君者，徒慕君之高义也。（《廉颇蔺相如列传》）
+          - ancient: 【高考题例】天水夷夏慕德,老幼赴阙献书，乞留芝。（《晋书•鲁芝传》）
+      - trans: ❸羡慕。
+        sentences:
+          - ancient: 无路请缨，等终军之弱冠；有怀投笔，慕宗悫之长风。（《滕王阁序》）
+          - ancient: 余则缊（yun4,乱麻）袍敝衣处其间，略无慕艳意。（《送东阳马圧序》）
+          - ancient: （张）衡不慕当世,所居之官辄积年不徙。（《张衡传》）
+      - trans: ❹讨好;趋附。
+        sentences:
+          - ancient: 仕则慕君，不得于君则热中。（《孟子•万章上》）
+      - trans: ❺效法。
+        sentences:
+          - ancient: 他植者虽窥伺效慕，莫能如也。（《种树郭橐驼传》）
