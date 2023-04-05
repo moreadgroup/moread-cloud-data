@@ -1,124 +1,40 @@
 ---
 quizzes:
-  - word: 靡
-    type: 【动词】
-    phonetic: mi3
-    trans: ❶退却。
-    ancient: 试与他虫斗，虫尽<靡>。（《促织》）
-    url: xxxx
-    vernacular: 试着和别的蟋蟀搏斗，所有的都被斗败了。
-  - word: 靡
-    type: 【动词】
-    phonetic: mi3
-    trans: ❷归顺。
-    ancient: 于是赵国以北，辽东以西，皆从风而<靡>。（《后汉书•王昌传》）
-    url: xxxx
-    vernacular: 于是赵国以北，辽东以西都忘风披靡。
-  - word: 靡
-    type: 【动词】
-    phonetic: mi3
-    trans: ❸倒下。
-    ancient: 吾视其辙乱，望其旗<靡>，故逐之。（《曹刿论战》）
-    url: xxxx
-    vernacular: 后来我看到他们的车轮的痕迹混乱了，望见他们的旗帜倒下了，所以下令追击他们。
-  - word: 靡
-    type: 【动词】
-    phonetic: mi3
-    trans: ❸倒下。
-    ancient: 故不随俗<靡>者盖鲜矣。（《训俭示康》）
-    url: xxxx
-    vernacular: 所以不跟着习俗随风倒的人就少了。
-  - word: 靡
-    type: 【动词】
-    phonetic: mi3
-    trans: ❸倒下。
-    ancient: 左右欲刃相如，相如张目叱之，左右皆<靡>。（《廉颇蔺相如列传》）
-    url: xxxx
-    vernacular: 秦王的侍从们想要杀蔺相如，蔺相如睁圆双眼大声斥骂他们，侍从们都吓得倒退。
-  - word: 靡
-    type: 【动词】
-    phonetic: mi3
-    trans: ❹无。
-    ancient: 明道德之广崇，治乱之条贯，<靡>不毕见。（《史记•屈原贾生列传》）
-    url: xxxx
-    vernacular: 阐明道德的广大崇高，治乱的条理，没有不全表现出来的。
-  - word: 靡
-    type: 【动词】
-    phonetic: mi3
-    trans: ❹无。
-    ancient: 探石发穴，<靡>计不施。（《促织》）
-    url: xxxx
-    vernacular: 挖石头，掏大洞，各种办法都用尽了，终究没有找到。
-  - word: 靡
-    type: 【形容词】
-    phonetic: mi3
-    trans: ❶细小。
-    ancient: <靡>草既凋，温风以至。（南朝梁•沈约《歌赤帝辞》）
-    url: xxxx
-    vernacular: 小小的草木已经凋零，连风都是带着阳光和温度的风。
-  - word: 靡
-    type: 【形容词】
-    phonetic: mi3
-    trans: ❷华丽;美好。
-    ancient: 以为相如《封禅》，<靡>而不典。（《后汉书•班彪传》）
-    url: xxxx
-    vernacular: 班固认为司马相如的《封禅》，用词华丽而不典雅
-  - word: 靡
-    type: 【副词】
-    phonetic: mi3
-    trans: 不
-    ancient: 天高地迥，号呼<靡>及。（《〈指南录〉后序》）
-    url: xxxx
-    vernacular: 天高地远，叫天不灵，叫地不灵。
-  - word: 靡
-    type: 【副词】
-    phonetic: mi3
-    trans: 不
-    ancient: 三岁为妇，<靡>室劳矣。夙兴夜寐，<靡>有朝矣。（《诗经•卫风•氓》）
-    url: xxxx
-    vernacular: 婚后多年守妇道，繁重家务劳动没有不干的。起早睡迟，朝朝如此，不能计算了。
-  - word: 靡
-    type: 【副词】
-    phonetic: mi3
-    trans: 不
-    ancient: 王事<靡>盬（gu3），不遑启处。忧心孔疚，我行不来。（《诗经.小雅"•釆薇》）
-    url: xxxx
-    vernacular: 王室差事没个罢，想要休息没闲暇。满怀忧愁太痛苦，生怕从此不回家。
   - word: 名
     type: 【名词】
     phonetic: ming2
     trans: ❶名字;名称。
     ancient: 昨夜见军帖，可汗大点兵，军书十二卷，卷卷有爷<名>。（《木兰诗》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 昨夜看见征兵的文书，知道君王在大规模征募兵士，那么多卷征兵文书，每卷上都有父亲的名字。
   - word: 名
     type: 【名词】
     phonetic: ming2
     trans: ❶名字;名称。
     ancient: 即书诗四句，并自为其<名>。（《伤仲永》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 仲永立刻写下了四句，并自己题上自己的名字。
   - word: 名
     type: 【名词】
     phonetic: ming2
     trans: ❷名号；名分（与"实"相对）。
     ancient: 古者<名>位不同，礼亦异数。（《汉书•艺文志》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 古代名号品位不一样，所用的礼节也就异等。
   - word: 名
     type: 【名词】
     phonetic: ming2
     trans: ❷名号；名分（与"实"相对）。
     ancient: 唯<名>与器，圣人所重。（《后汉书•刘玄传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 要知道名与器，是圣人最重视的
   - word: 名
     type: 【名词】
     phonetic: ming2
     trans: ❸名誉;名声。
     ancient: 曹操比于袁绍，则<名>微而众寡，然操遂能克绍，以弱为强者，非惟天时，抑亦人谋也。（《隆中对》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 曹操与袁绍相比，声望少之又少，然而曹操最终之所以能打败袁绍，凭借弱小的力量战胜强大的原因，不仅依靠的是天时好，而且也是人的谋划得当。
   - word: 名
     type: 【名词】
     phonetic: ming2
@@ -132,63 +48,63 @@ quizzes:
     trans: ❶命名；取名。
     ancient: 所谓华山洞者，以其乃华山之阳<名>之也。（《游褒禅山记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 人们所说的华山洞，因为它在华山南面而这样命名。
   - word: 名
     type: 【动词】
     phonetic: ming2
     trans: ❶命名；取名。
     ancient: 东家有贤女，自<名>秦罗敷，可怜体无比，阿母为汝求。（《孔雀东南飞》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 东邻有个好姑娘，本名就叫秦罗敷。姿态可爱无人比，妈妈为你把婚求。
   - word: 名
     type: 【动词】
     phonetic: ming2
     trans: ❶命名；取名。
     ancient: <名>余曰正则兮，字余曰灵均。（《离骚》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 父亲把我的名取为正则，同时把我的字叫作灵均。
   - word: 名
     type: 【动词】
     phonetic: ming2
     trans: ❶命名；取名。
     ancient: 以故其后<名>之曰"褒禅"。（《游褒禅山记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 因为这个缘故，后人就称此山为褒禅山。
   - word: 名
     type: 【动词】
     phonetic: ming2
     trans: ❶命名；取名。
     ancient: 【高考题例】民图像于庐，而奉之如神，<名>日"范公庵"。（《宋史-范纯礼传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "百姓在房中悬挂“他的”画像,把他像神仙一样供奉，取名为“范公庵”"
   - word: 名
     type: 【动词】
     phonetic: ming2
     trans: ❷称说;说出。
     ancient: 后世之谬其传而莫能<名>者，何可胜道也哉！（《游褒禅山记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 后世讹传而无人弄清其真相的事，哪能说得完呢？
   - word: 名
     type: 【动词】
     phonetic: ming2
     trans: ❷称说;说出。
     ancient: 人有百口，口有百舌，不能<名>其一处也。（《口技》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 即使一个人有上百张嘴，每张嘴里有上百条舌头，也不能说出其中的一个地方来啊
   - word: 名
     type: 【动词】
     phonetic: ming2
     trans: ❸出名；有名。
     ancient: 山不在高，有仙则<名>。（《陋室铭》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 山不在于高，有了神仙就会有名气。
   - word: 名
     type: 【形容词】
     phonetic: ming2
     trans: 著名的;有名声的。
-    ancient: 故虽有<名>马，祗辱于奴隶人之手，骈死于槽栃之间，不以千里称也。阳马生序》）
+    ancient: 故虽有<名>马，祗辱于奴隶人之手，骈死于槽栃之间，不以千里称也。(唐代韩愈的《马说》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 因此虽然有名贵的马，也只能在仆役的手中受辱，和普通的马一同死在马厩里，不能因日行千里而闻名于世。
   - word: 没
     type: 【动词】
     phonetic: mo4
