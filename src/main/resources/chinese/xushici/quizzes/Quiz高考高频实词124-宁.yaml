@@ -1,9 +1,82 @@
 ---
 quizzes:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
-    url: xxxx
-    vernacular: xxxx
+  - word: 宁
+    type: 【副词】
+    phonetic: ning4
+    trans: ❶岂;难道。
+    ancient: 且壮士不死即已，死即举大名耳，王侯将相宁有种乎！（《陈涉世家》）
+  - word: 宁
+    type: 【副词】
+    phonetic: ning4
+    trans: ❶岂;难道。
+    ancient: 老当益壮，宁移白首之心？（《滕王阁序》）
+  - word: 宁
+    type: 【副词】
+    phonetic: ning4
+    trans: ❶岂;难道。
+    ancient: 身直为闺阁之臣，宁得自引深藏于岩穴邪？（《报任安书》）
+  - word: 宁
+    type: 【副词】
+    phonetic: ning4
+    trans: ❷宁可;宁愿。
+    ancient: 均之二策，宁许以负秦曲（理亏）。（《廉颇蔺相如列传》）
+  - word: 宁
+    type: 【副词】
+    phonetic: ning4
+    trans: ❷宁可;宁愿。
+    ancient: 宁信度，无自信也。（《韩非子•外储说左上》）
+  - word: 宁
+    type: 【副词】
+    phonetic: ning4
+    trans: ❷宁可;宁愿。
+    ancient: 宁赴湘流，葬于江鱼之腹中。（《渔父》）
+  - word: 宁
+    type: 【副词】
+    phonetic: ning4
+    trans: ❷宁可;宁愿。
+    ancient: 宁溘死以流亡兮，余不忍为此态也！（《离骚》）
+  - word: 宁
+    type: 【副词】
+    phonetic: ning4
+    trans: ❸竟;乃。
+    ancient: 心之忧矣，宁莫之知。（《诗经•小雅•小弁》）
+  - word: 宁
+    type: 【助词】
+    phonetic: ning4
+    trans: 无实义。
+    ancient: 宾至如归，无宁灾患。（《左传•襄公三十一年》）
+  - word: 宁
+    type: 【助词】
+    phonetic: ning4
+    trans: 无实义。
+    ancient: 是寡大夫不得列于诸卿也，不宁唯是，又使围蒙其先君。（《左传•昭公元年》）
+  - word: 宁
+    type: 【动词】
+    phonetic: ning2
+    trans: ❶探望父母。
+    ancient: 家既迎兮当归宁。（《后汉书•董祀妻传》）
+  - word: 宁
+    type: 【动词】
+    phonetic: ning2
+    trans: ❶探望父母。
+    ancient: 吾妻归宁，述诸小妹语曰："闻姊家有阁子，且何谓阁子也?"（《项脊轩志》）
+  - word: 宁
+    type: 【动词】
+    phonetic: ning2
+    trans: ❷止息;安息。也指安葬。
+    ancient: 故请母命而宁汝于斯，便祭扫也。（《祭妹文》）
+  - word: 宁
+    type: 【动词】
+    phonetic: ning2
+    trans: ❸平息;平定。
+    ancient: 定白公之祸，宁楚国之事。（《战国策•楚策一》）
+  - word: 宁
+    type: 【动词】
+    phonetic: ning2
+    trans: ❹通"咛"。
+    ancient: 兰芝初还时，府吏见丁宁（通"叮咛"），结誓不别离。 （《孔雀东南飞》）
+  - word: 宁
+    type: 【形容词】
+    phonetic: ning2
+    trans: 安定;安宁。
+    ancient: 悍吏之来吾乡，叫嚣乎东西，隳突（横行）乎南北，哗然而骇者，虽鸡狗不得宁焉。（《捕蛇著说》）

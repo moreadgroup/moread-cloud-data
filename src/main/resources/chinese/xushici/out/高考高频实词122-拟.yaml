@@ -1,13 +1,55 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 拟
+    type: 【动词】
+    phonetic: ni3
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶揣度;斟酌。
         sentences:
-          - ancient: xxx
+          - ancient: <拟>之而后言，议之而后动。（《周易•系辞上》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷打算。
+        sentences:
+          - ancient: 丈人祠西佳气浓，缘云<拟>住最高峰。（唐•杜甫《丈人山》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 闻说双溪春尚好，也<拟>泛轻舟。（宋•李清照《武陵春•春晚》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】初，选人调（调动职位）<拟>（打算任用），先南曹，次考功。（《宋史•许将传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸比拟。
+        sentences:
+          - ancient: 自数十里外望之，碧峰曖然孤起，上干云霄，已非它山可<拟>。（《过小孤山大孤山》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹比画；做样子。
+        sentences:
+          - ancient: 挟儿南驰，取胡儿弓引满以<拟>追骑。（宋•黄庭坚《题摹燕郭尚父图》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 复举剑<拟>之，武不动。（《苏武传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❺模仿;模拟。
+        sentences:
+          - ancient: 宦官得志，无所惮畏，并起第宅，<拟>则宫室。（《后汉书•张让传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: （张）衡乃<拟>班固《两都》作《二京赋》，因以讽谏。（《张衡传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❻类似。
+        sentences:
+          - ancient: 吾观《太玄》，方知子云妙极道术，乃与五经相<拟>，非徒传记之属。（《后汉书•张衡传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❼起草;撰写。
+        sentences:
+          - ancient: 皇上欲幵懋（mao4）勤殿，设顾问官，命君<拟>旨。（清•梁启超《谭嗣同》）
             url: xxxx
             vernacular: xxxx

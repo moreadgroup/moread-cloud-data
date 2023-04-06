@@ -1,9 +1,97 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 内
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
-    url: xxxx
-    vernacular: xxxx
+    phonetic: nei4
+    trans: ❶内部（与"外"相对）。
+    ancient: 然侍卫之臣不懈于内，忠志之士忘身于外者，盖追（追念）先帝之殊遇，欲报之于陛下也。（《出师表》）
+  - word: 内
+    type: 【名词】
+    phonetic: nei4
+    trans: ❶内部（与"外"相对）。
+    ancient: 少间，帘内掷一纸出，即道人意中事，无毫发爽（差错）。（《促织》）
+  - word: 内
+    type: 【名词】
+    phonetic: nei4
+    trans: ❶内部（与"外"相对）。
+    ancient: 外无期功强近之亲，内无应门五尺之僮。（《陈情表》）
+  - word: 内
+    type: 【名词】
+    phonetic: nei4
+    trans: ❷内心。
+    ancient: 色（外表）厉（威严）而内荏（ren3，虚弱）。（《论语・阳货》）
+  - word: 内
+    type: 【名词】
+    phonetic: nei4
+    trans: ❷内心。
+    ancient: 兮将军外，托服从之名而为怀犹豫之计，事急而不断，祸至无日矣！（《资治通鉴•汉纪五十七》）
+  - word: 内
+    type: 【名词】
+    phonetic: nei4
+    trans: ❷内心。
+    ancient: 定乎内外之分，辩乎荣辱之境，斯已矣。（《逍遥游》）
+  - word: 内
+    type: 【名词】
+    phonetic: nei4
+    trans: ❷内心。
+    ancient: 未饮心先醉，眼中流血，心内成灰。（《长亭送别》）
+  - word: 内
+    type: 【名词】
+    phonetic: nei4
+    trans: ❸内脏。
+    ancient: 见此崩五内，恍惚生狂痴。（汉•蔡琰《悲愤诗》）
+  - word: 内
+    type: 【名词】
+    phonetic: nei4
+    trans: ❹内室;卧房。
+    ancient: 先为筑室，家有一堂二内。（《汉书•晁错传》）
+  - word: 内
+    type: 【名词】
+    phonetic: nei4
+    trans: ❹内室;卧房。
+    ancient: 而如姬最幸，出入王卧内，力能窃之。（《史记•魏公子列传》）
+  - word: 内
+    type: 【名词】
+    phonetic: nei4
+    trans: ❺皇宫，尊称大内。
+    ancient: 西宫南内多秋草，落叶满阶红不扫。（《长恨歌》）
+  - word: 内
+    type: 【名词】
+    phonetic: nei4
+    trans: ❻旧指妻妾。
+    ancient: 齐侯好内。（《左传•僖公十七年》）
+  - word: 内
+    type: 【名词】
+    phonetic: nei4
+    trans: ❻旧指妻妾。
+    ancient: 以其内实（指妻妾与宝物）迁于卢蒲嫳（pei4）氏。（《左传•襄公二+八年》）
+  - word: 内
+    type: 【名词】
+    phonetic: nei4
+    trans: ❼泛指女子。
+    ancient: 辨外（指男子）、内而时禁。（《周礼•天官•宫正》）.
+  - word: 内
+    type: 【动词】
+    phonetic: nei4
+    trans: 亲近;，亲密接近。
+    ancient: 内君子而外（疏远）小人。（《周易•泰卦》）
+  - word: 内
+    type: 【动词】
+    phonetic: na4
+    trans: 同"纳"。收进;放入。
+    ancient: 有不被尧舜之泽者，若己推而内之沟中。（《孟子・万章上》）
+  - word: 内
+    type: 【动词】
+    phonetic: na4
+    trans: 同"纳"。收进;放入。
+    ancient: 哙即带剑拥盾入军门。交戟之卫士欲止不内。（《鸿门宴》）
+  - word: 内
+    type: 【动词】
+    phonetic: na4
+    trans: 同"纳"。收进;放入。
+    ancient: 距关，毋内诸侯，秦地可尽王也。（《鸿门宴》）
+  - word: 内
+    type: 【动词】
+    phonetic: na4
+    trans: 同"纳"。收进;放入。
+    ancient: 亡走赵，赵不内。（《史记•屈原贾生列传》）

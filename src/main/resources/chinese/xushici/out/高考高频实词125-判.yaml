@@ -1,13 +1,53 @@
 ---
 words:
-  - word: xxxx
+  - word: 判
     type: 【名词】
-    phonetic: xx1
+    phonetic: pan4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶唐宋官制。通常指以高官兼任较低职位的官。
         sentences:
-          - ancient: xxx
+          - ancient: ancient:唐承隋制，至天授中始有试官之格，又有员外之置，寻为检校、试、摄、<判>、知之名。（《宋史•职官志一》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 国初，曹翰以观察使<判>颍州，是以四品临五品州也。（宋•宋敏求《春明退朝录》卷中）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷判官，地方长官的僚属，佐理政事。
+        sentences:
+          - ancient: 车前八个天曹判（天上的判官），车后若干递送夫。 （元•睢景臣《高粗还乡》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸判决案件的判词。
+        sentences:
+          - ancient: 南山或可改移，此<判>终无摇动。（《旧唐书•李元紘传》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 判
+    type: 【动词】
+    phonetic: pan4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶分离;分开。
+        sentences:
+          - ancient: 遂<判>为十二，合为七国。（唐•柳宗元《封建论》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷分辨；区分。
+        sentences:
+          - ancient: <判>天地之美，析万物之理。（《庄子•天下》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 故不战而强弱胜负已<判>矣。（《六国论》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸评判;特指裁决诉讼。
+        sentences:
+          - ancient: 其有争讼，辄求<判>正。（《后汉书•陈宴传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 叔父肇之，坐事系狱，七年不<判>。（《宋书•许昭先传》）
             url: xxxx
             vernacular: xxxx

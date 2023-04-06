@@ -1,9 +1,42 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 畔
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
-    url: xxxx
-    vernacular: xxxx
+    phonetic: pan4
+    trans: ❶田界。
+    ancient: 历山之农者侵畔。（《韩非子•难一》）
+  - word: 畔
+    type: 【名词】
+    phonetic: pan4
+    trans: ❶田界。
+    ancient: 耕者让畔，行者让路。（《论衡•是应》）
+  - word: 畔
+    type: 【名词】
+    phonetic: pan4
+    trans: ❷边沿;旁侧。
+    ancient: 屈原至于江滨，被发行吟泽畔，颜色憔悴，形容枯槁。（《史记•屈原贾生列传》）
+  - word: 畔
+    type: 【名词】
+    phonetic: pan4
+    trans: ❷边沿;旁侧。
+    ancient: 沉舟侧畔千帆过，病树前头万木春。（《酬乐天扬州初逢席上见赠》）
+  - word: 畔
+    type: 【动词】
+    phonetic: pan4
+    trans: ❶避开;躲避。
+    ancient: <畔>，吴语谓躲避曰<畔>。亦有所本。陈后主创齐圣观，民谣曰："齐圣观，寇来无处<畔>。"（清•赵翼《咳余丛考》卷四十三）
+  - word: 畔
+    type: 【动词】
+    phonetic: pan4
+    trans: ❷通"叛"。背叛;违背。
+    ancient: 寡助之至，亲戚畔之。（《得道多助，失道寡助》）
+  - word: 畔
+    type: 【动词】
+    phonetic: pan4
+    trans: ❷通"叛"。背叛;违背。
+    ancient: 汝为人臣子，不顾恩义，畔主背亲，为降虏于蛮夷，何以汝为见？（《苏武传》）
+  - word: 畔
+    type: 【动词】
+    phonetic: pan4
+    trans: ❷通"叛"。背叛;违背。
+    ancient: 人言公之畔，陛下必不信。（《史记•淮阴侯列传》）

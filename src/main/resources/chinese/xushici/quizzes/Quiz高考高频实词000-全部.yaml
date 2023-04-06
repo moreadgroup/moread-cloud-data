@@ -1,30 +1,499 @@
 ---
 quizzes:
-  - word: 暮
+  - word: 内
     type: 【名词】
-    phonetic: mu4
-    trans: 日落的时候;傍晚（与"朝"相对）
-    ancient: 旦辞爷娘去，<暮>宿黄河边。（《木兰诗》）
-    url: xxxx
-    vernacular: 早上辞别父母上路，晚上宿营在黄河边
-  - word: 暮
+    phonetic: nei4
+    trans: ❶内部（与"外"相对）。
+    ancient: 然侍卫之臣不懈于内，忠志之士忘身于外者，盖追（追念）先帝之殊遇，欲报之于陛下也。（《出师表》）
+  - word: 内
     type: 【名词】
-    phonetic: mu4
-    trans: 日落的时候;傍晚（与"朝"相对）
-    ancient: <暮>投石壕村，有吏夜捉人。（《石壕吏》）
-    url: xxxx
-    vernacular: 日暮时投宿石壕村，夜里有差役来强征兵。
-  - word: 暮
+    phonetic: nei4
+    trans: ❶内部（与"外"相对）。
+    ancient: 少间，帘内掷一纸出，即道人意中事，无毫发爽（差错）。（《促织》）
+  - word: 内
+    type: 【名词】
+    phonetic: nei4
+    trans: ❶内部（与"外"相对）。
+    ancient: 外无期功强近之亲，内无应门五尺之僮。（《陈情表》）
+  - word: 内
+    type: 【名词】
+    phonetic: nei4
+    trans: ❷内心。
+    ancient: 色（外表）厉（威严）而内荏（ren3，虚弱）。（《论语・阳货》）
+  - word: 内
+    type: 【名词】
+    phonetic: nei4
+    trans: ❷内心。
+    ancient: 兮将军外，托服从之名而为怀犹豫之计，事急而不断，祸至无日矣！（《资治通鉴•汉纪五十七》）
+  - word: 内
+    type: 【名词】
+    phonetic: nei4
+    trans: ❷内心。
+    ancient: 定乎内外之分，辩乎荣辱之境，斯已矣。（《逍遥游》）
+  - word: 内
+    type: 【名词】
+    phonetic: nei4
+    trans: ❷内心。
+    ancient: 未饮心先醉，眼中流血，心内成灰。（《长亭送别》）
+  - word: 内
+    type: 【名词】
+    phonetic: nei4
+    trans: ❸内脏。
+    ancient: 见此崩五内，恍惚生狂痴。（汉•蔡琰《悲愤诗》）
+  - word: 内
+    type: 【名词】
+    phonetic: nei4
+    trans: ❹内室;卧房。
+    ancient: 先为筑室，家有一堂二内。（《汉书•晁错传》）
+  - word: 内
+    type: 【名词】
+    phonetic: nei4
+    trans: ❹内室;卧房。
+    ancient: 而如姬最幸，出入王卧内，力能窃之。（《史记•魏公子列传》）
+  - word: 内
+    type: 【名词】
+    phonetic: nei4
+    trans: ❺皇宫，尊称大内。
+    ancient: 西宫南内多秋草，落叶满阶红不扫。（《长恨歌》）
+  - word: 内
+    type: 【名词】
+    phonetic: nei4
+    trans: ❻旧指妻妾。
+    ancient: 齐侯好内。（《左传•僖公十七年》）
+  - word: 内
+    type: 【名词】
+    phonetic: nei4
+    trans: ❻旧指妻妾。
+    ancient: 以其内实（指妻妾与宝物）迁于卢蒲嫳（pei4）氏。（《左传•襄公二+八年》）
+  - word: 内
+    type: 【名词】
+    phonetic: nei4
+    trans: ❼泛指女子。
+    ancient: 辨外（指男子）、内而时禁。（《周礼•天官•宫正》）.
+  - word: 内
+    type: 【动词】
+    phonetic: nei4
+    trans: 亲近;，亲密接近。
+    ancient: 内君子而外（疏远）小人。（《周易•泰卦》）
+  - word: 内
+    type: 【动词】
+    phonetic: na4
+    trans: 同"纳"。收进;放入。
+    ancient: 有不被尧舜之泽者，若己推而内之沟中。（《孟子・万章上》）
+  - word: 内
+    type: 【动词】
+    phonetic: na4
+    trans: 同"纳"。收进;放入。
+    ancient: 哙即带剑拥盾入军门。交戟之卫士欲止不内。（《鸿门宴》）
+  - word: 内
+    type: 【动词】
+    phonetic: na4
+    trans: 同"纳"。收进;放入。
+    ancient: 距关，毋内诸侯，秦地可尽王也。（《鸿门宴》）
+  - word: 内
+    type: 【动词】
+    phonetic: na4
+    trans: 同"纳"。收进;放入。
+    ancient: 亡走赵，赵不内。（《史记•屈原贾生列传》）
+  - word: 拟
+    type: 【动词】
+    phonetic: ni3
+    trans: ❶揣度;斟酌。
+    ancient: 拟之而后言，议之而后动。（《周易•系辞上》）
+  - word: 拟
+    type: 【动词】
+    phonetic: ni3
+    trans: ❷打算。
+    ancient: 丈人祠西佳气浓，缘云拟住最高峰。（唐•杜甫《丈人山》）
+  - word: 拟
+    type: 【动词】
+    phonetic: ni3
+    trans: ❷打算。
+    ancient: 闻说双溪春尚好，也拟泛轻舟。（宋•李清照《武陵春•春晚》）
+  - word: 拟
+    type: 【动词】
+    phonetic: ni3
+    trans: ❷打算。
+    ancient: 【高考题例】初，选人调（调动职位）拟（打算任用），先南曹，次考功。（《宋史•许将传》）
+  - word: 拟
+    type: 【动词】
+    phonetic: ni3
+    trans: ❸比拟。
+    ancient: 自数十里外望之，碧峰曖然孤起，上干云霄，已非它山可拟。（《过小孤山大孤山》）
+  - word: 拟
+    type: 【动词】
+    phonetic: ni3
+    trans: ❹比画；做样子。
+    ancient: 挟儿南驰，取胡儿弓引满以拟追骑。（宋•黄庭坚《题摹燕郭尚父图》）
+  - word: 拟
+    type: 【动词】
+    phonetic: ni3
+    trans: ❹比画；做样子。
+    ancient: 复举剑拟之，武不动。（《苏武传》）
+  - word: 拟
+    type: 【动词】
+    phonetic: ni3
+    trans: ❺模仿;模拟。
+    ancient: 宦官得志，无所惮畏，并起第宅，拟则宫室。（《后汉书•张让传》）
+  - word: 拟
+    type: 【动词】
+    phonetic: ni3
+    trans: ❺模仿;模拟。
+    ancient: （张）衡乃拟班固《两都》作《二京赋》，因以讽谏。（《张衡传》）
+  - word: 拟
+    type: 【动词】
+    phonetic: ni3
+    trans: ❻类似。
+    ancient: 吾观《太玄》，方知子云妙极道术，乃与五经相拟，非徒传记之属。（《后汉书•张衡传》）
+  - word: 拟
+    type: 【动词】
+    phonetic: ni3
+    trans: ❼起草;撰写。
+    ancient: 皇上欲幵懋（mao4）勤殿，设顾问官，命君拟旨。（清•梁启超《谭嗣同》）
+  - word: 逆
+    type: 【名词】
+    phonetic: ni4
+    trans: 叛乱，叛乱的人。
+    ancient: 则直前诟虏帅失信，数吕师孟叔侄为逆。（《〈指南录〉后序》）
+  - word: 逆
+    type: 【名词】
+    phonetic: ni4
+    trans: 叛乱，叛乱的人。
+    ancient: 大王起微细，诛暴逆，平定四海，有功者辄裂地而封为王侯。（《史记•高祖本纪》）
+  - word: 逆
+    type: 【名词】
+    phonetic: ni4
+    trans: 叛乱，叛乱的人。
+    ancient: 【高考题例】及宇文化及构逆，深忌之。（《北史•来护儿传》）
+  - word: 逆
+    type: 【名词】
+    phonetic: ni4
+    trans: 叛乱，叛乱的人。
+    ancient: 【高考题例】不能肃清凶逆，遂令王室至此，抱恨泉壤，知复何言！（《北史•来护儿传》）
+  - word: 逆
+    type: 【动词】
+    phonetic: ni4
+    trans: ❶迎接。
+    ancient: 郑子产聘于晋。晋侯有疾，韩宣子逆客。（《左传・昭公七年》）
+  - word: 逆
+    type: 【动词】
+    phonetic: ni4
+    trans: ❶迎接。
+    ancient: 寓逆旅，主人日再食。（《送东阳马生序》）
+  - word: 逆
+    type: 【动词】
+    phonetic: ni4
+    trans: ❶迎接。
+    ancient: 夫天地者，万物之逆旅也;光阴者，百代之过客也。（唐•李白《春夜宴从弟桃花园序》）
+  - word: 逆
+    type: 【动词】
+    phonetic: ni4
+    trans: ❷违背;对抗（与"顺"相对）。
+    ancient: 而君逆寡人者，轻寡人与？（《唐雎不辱使命》）
+  - word: 逆
+    type: 【动词】
+    phonetic: ni4
+    trans: ❷违背;对抗（与"顺"相对）。
+    ancient: 且以一璧之故逆强秦之欢，不可。（《廉颇蔺相如列传》）
+  - word: 逆
+    type: 【动词】
+    phonetic: ni4
+    trans: ❷违背;对抗（与"顺"相对）。
+    ancient: 子不反亲，臣不逆君，兄弟之通义也。（《史记•赵世家》）
+  - word: 逆
+    type: 【动词】
+    phonetic: ni4
+    trans: ❸反常;乖于常理。
+    ancient: 行辟而坚，饰非而好，玩奸而泽，言辩而逆，古之大禁也。（《荀子•非十二子》）
+  - word: 逆
+    type: 【动词】
+    phonetic: ni4
+    trans: ❹抗拒；抵抗（与"顺"相对）。
+    ancient: 遂以周瑜、程普为左右督，将兵与备并力逆（曹）操。 （《资治通鉴•汉纪五十七》）
+  - word: 逆
+    type: 【动词】
+    phonetic: ni4
+    trans: ❹抗拒；抵抗（与"顺"相对）。
+    ancient: 燕王诚振怖大王之威，不敢举兵以逆军吏，愿举国为内臣，比诸侯之列。（《史记•刺客列传》）
+  - word: 逆
+    type: 【动词】
+    phonetic: ni4
+    trans: ❺叛乱。
+    ancient: 庶长壮与大臣、诸侯、公子为逆，皆诛。（《史记•秦本纪》）
+  - word: 逆
+    type: 【动词】
+    phonetic: ni4
+    trans: ❺叛乱。
+    ancient: 数（责备）吕师孟叔侄为逆。（《〈指南录〉后序》）
+  - word: 逆
+    type: 【动词】
+    phonetic: ni4
+    trans: ❻揣，测。
+    ancient: 以意逆志，是为得之。（《孟子•万章上》）
+  - word: 逆
     type: 【形容词】
-    phonetic: mu4
-    trans: 晩;时间将尽。
-    ancient: 烈士<暮>年，壮心不已。（汉•曹操《龟虽寿》）
-    url: xxxx
-    vernacular: 壮志凌云的人士即便到了晚年，奋发思进的心也永不止息。
-  - word: 暮
+    phonetic: ni4
+    trans: 反常的;反叛的。
+    ancient: 即除逆阉废祠之址以葬之。（《五人墓碑记》）
+  - word: 逆
+    type: 【副词】
+    phonetic: ni4
+    trans: 预先。
+    ancient: 至于成败利钝，非臣之明所能逆睹也。（《后出师表》）
+  - word: 宁
+    type: 【副词】
+    phonetic: ning4
+    trans: ❶岂;难道。
+    ancient: 且壮士不死即已，死即举大名耳，王侯将相宁有种乎！（《陈涉世家》）
+  - word: 宁
+    type: 【副词】
+    phonetic: ning4
+    trans: ❶岂;难道。
+    ancient: 老当益壮，宁移白首之心？（《滕王阁序》）
+  - word: 宁
+    type: 【副词】
+    phonetic: ning4
+    trans: ❶岂;难道。
+    ancient: 身直为闺阁之臣，宁得自引深藏于岩穴邪？（《报任安书》）
+  - word: 宁
+    type: 【副词】
+    phonetic: ning4
+    trans: ❷宁可;宁愿。
+    ancient: 均之二策，宁许以负秦曲（理亏）。（《廉颇蔺相如列传》）
+  - word: 宁
+    type: 【副词】
+    phonetic: ning4
+    trans: ❷宁可;宁愿。
+    ancient: 宁信度，无自信也。（《韩非子•外储说左上》）
+  - word: 宁
+    type: 【副词】
+    phonetic: ning4
+    trans: ❷宁可;宁愿。
+    ancient: 宁赴湘流，葬于江鱼之腹中。（《渔父》）
+  - word: 宁
+    type: 【副词】
+    phonetic: ning4
+    trans: ❷宁可;宁愿。
+    ancient: 宁溘死以流亡兮，余不忍为此态也！（《离骚》）
+  - word: 宁
+    type: 【副词】
+    phonetic: ning4
+    trans: ❸竟;乃。
+    ancient: 心之忧矣，宁莫之知。（《诗经•小雅•小弁》）
+  - word: 宁
+    type: 【助词】
+    phonetic: ning4
+    trans: 无实义。
+    ancient: 宾至如归，无宁灾患。（《左传•襄公三十一年》）
+  - word: 宁
+    type: 【助词】
+    phonetic: ning4
+    trans: 无实义。
+    ancient: 是寡大夫不得列于诸卿也，不宁唯是，又使围蒙其先君。（《左传•昭公元年》）
+  - word: 宁
+    type: 【动词】
+    phonetic: ning2
+    trans: ❶探望父母。
+    ancient: 家既迎兮当归宁。（《后汉书•董祀妻传》）
+  - word: 宁
+    type: 【动词】
+    phonetic: ning2
+    trans: ❶探望父母。
+    ancient: 吾妻归宁，述诸小妹语曰："闻姊家有阁子，且何谓阁子也?"（《项脊轩志》）
+  - word: 宁
+    type: 【动词】
+    phonetic: ning2
+    trans: ❷止息;安息。也指安葬。
+    ancient: 故请母命而宁汝于斯，便祭扫也。（《祭妹文》）
+  - word: 宁
+    type: 【动词】
+    phonetic: ning2
+    trans: ❸平息;平定。
+    ancient: 定白公之祸，宁楚国之事。（《战国策•楚策一》）
+  - word: 宁
+    type: 【动词】
+    phonetic: ning2
+    trans: ❹通"咛"。
+    ancient: 兰芝初还时，府吏见丁宁（通"叮咛"），结誓不别离。 （《孔雀东南飞》）
+  - word: 宁
     type: 【形容词】
-    phonetic: mu4
-    trans: 晩;时间将尽。
-    ancient: <暮>春三月，江南草长。（《与陈伯之书》）
+    phonetic: ning2
+    trans: 安定;安宁。
+    ancient: 悍吏之来吾乡，叫嚣乎东西，隳突（横行）乎南北，哗然而骇者，虽鸡狗不得宁焉。（《捕蛇著说》）
+  - word: 判
+    type: 【名词】
+    phonetic: pan4
+    trans: ❶唐宋官制。通常指以高官兼任较低职位的官。
+    ancient: ancient:唐承隋制，至天授中始有试官之格，又有员外之置，寻为检校、试、摄、判、知之名。（《宋史•职官志一》）
+  - word: 判
+    type: 【名词】
+    phonetic: pan4
+    trans: ❶唐宋官制。通常指以高官兼任较低职位的官。
+    ancient: 国初，曹翰以观察使判颍州，是以四品临五品州也。（宋•宋敏求《春明退朝录》卷中）
+  - word: 判
+    type: 【名词】
+    phonetic: pan4
+    trans: ❷判官，地方长官的僚属，佐理政事。
+    ancient: 车前八个天曹<判>（天上的判官），车后若干递送夫。 （元•睢景臣《高粗还乡》）
+  - word: 判
+    type: 【名词】
+    phonetic: pan4
+    trans: ❸判决案件的判词。
+    ancient: 南山或可改移，此判终无摇动。（《旧唐书•李元紘传》）
+  - word: 判
+    type: 【动词】
+    phonetic: pan4
+    trans: ❶分离;分开。
+    ancient: 遂判为十二，合为七国。（唐•柳宗元《封建论》）
+  - word: 判
+    type: 【动词】
+    phonetic: pan4
+    trans: ❷分辨；区分。
+    ancient: 判天地之美，析万物之理。（《庄子•天下》）
+  - word: 判
+    type: 【动词】
+    phonetic: pan4
+    trans: ❷分辨；区分。
+    ancient: 故不战而强弱胜负已判矣。（《六国论》）
+  - word: 判
+    type: 【动词】
+    phonetic: pan4
+    trans: ❸评判;特指裁决诉讼。
+    ancient: 其有争讼，辄求判正。（《后汉书•陈宴传》）
+  - word: 判
+    type: 【动词】
+    phonetic: pan4
+    trans: ❸评判;特指裁决诉讼。
+    ancient: 叔父肇之，坐事系狱，七年不判。（《宋书•许昭先传》）
+  - word: 畔
+    type: 【名词】
+    phonetic: pan4
+    trans: ❶田界。
+    ancient: 历山之农者侵畔。（《韩非子•难一》）
+  - word: 畔
+    type: 【名词】
+    phonetic: pan4
+    trans: ❶田界。
+    ancient: 耕者让畔，行者让路。（《论衡•是应》）
+  - word: 畔
+    type: 【名词】
+    phonetic: pan4
+    trans: ❷边沿;旁侧。
+    ancient: 屈原至于江滨，被发行吟泽畔，颜色憔悴，形容枯槁。（《史记•屈原贾生列传》）
+  - word: 畔
+    type: 【名词】
+    phonetic: pan4
+    trans: ❷边沿;旁侧。
+    ancient: 沉舟侧畔千帆过，病树前头万木春。（《酬乐天扬州初逢席上见赠》）
+  - word: 畔
+    type: 【动词】
+    phonetic: pan4
+    trans: ❶避开;躲避。
+    ancient: <畔>，吴语谓躲避曰<畔>。亦有所本。陈后主创齐圣观，民谣曰："齐圣观，寇来无处<畔>。"（清•赵翼《咳余丛考》卷四十三）
+  - word: 畔
+    type: 【动词】
+    phonetic: pan4
+    trans: ❷通"叛"。背叛;违背。
+    ancient: 寡助之至，亲戚畔之。（《得道多助，失道寡助》）
+  - word: 畔
+    type: 【动词】
+    phonetic: pan4
+    trans: ❷通"叛"。背叛;违背。
+    ancient: 汝为人臣子，不顾恩义，畔主背亲，为降虏于蛮夷，何以汝为见？（《苏武传》）
+  - word: 畔
+    type: 【动词】
+    phonetic: pan4
+    trans: ❷通"叛"。背叛;违背。
+    ancient: 人言公之畔，陛下必不信。（《史记•淮阴侯列传》）
+  - word: 披
+    type: 【动词】
+    phonetic: Pi1
+    trans: ❶穿着;覆衣于肩背。
+    ancient: 将军身披坚执锐，伐无道，诛暴秦，复立楚国之社稷，功宜为王。（《陈涉世家》）
+  - word: 披
+    type: 【动词】
+    phonetic: Pi1
+    trans: ❶穿着;覆衣于肩背。
+    ancient: 景从云合，而见一人，披紫衣，执青玉。（《柳毅传》）
+  - word: 披
+    type: 【动词】
+    phonetic: Pi1
+    trans: ❷袒露。
+    ancient: 惟当披露腹心，捐弃肝脑，尽力所至，不知其他。 （宋•苏轼《上神宗皇帝书》）
+  - word: 披
+    type: 【动词】
+    phonetic: Pi1
+    trans: ❸推开。
+    ancient: 披绣闼，俯雕甍。（《滕王阁序》）
+  - word: 披
+    type: 【动词】
+    phonetic: Pi1
+    trans: ❹掀开;拔开。
+    ancient: 哙遂入，披帷西向立，瞋目视项王，头发上指，目眦（zi4，眼眶）尽裂。（《鸿门宴》）
+  - word: 披
+    type: 【动词】
+    phonetic: Pi1
+    trans: ❹掀开;拔开。
+    ancient: 蹑迹披求，见有虫伏棘根，遽扑之，入石穴中。（《促织》）
+  - word: 披
+    type: 【动词】
+    phonetic: Pi1
+    trans: ❹掀开;拔开。
+    ancient: 到则披草而坐，倾壶而醉。（《始得西山宴游记》）
+  - word: 披
+    type: 【动词】
+    phonetic: Pi1
+    trans: ❺翻开;翻阅。
+    ancient: 先生口不绝吟于六艺之文，手不停披于百家之编。（唐.韩愈《进学解》）
+  - word: 披
+    type: 【动词】
+    phonetic: Pi1
+    trans: ❺翻开;翻阅。
+    ancient: 披五岳之图，以为知山，不如樵夫之一足。（清•魏源《默觚上•学篇二》）
+  - word: 披
+    type: 【动词】
+    phonetic: Pi1
+    trans: 6散开。
+    ancient: 于是项王大呼，驰下，汉军皆披靡，遂斩汉一将。 （《项羽之死》）
+  - word: 披
+    type: 【动词】
+    phonetic: Pi1
+    trans: ❼剖析。
+    ancient: 臣等承旨，披究往说，各有其理。（《魏书•礼志一》）
+  - word: 被
+    type: 【名词】
+    phonetic: pi1
+    trans: 见8页"被㊁"。
+    ancient: xxx
     url: xxxx
-    vernacular: 暮春三月，江南地区的草长得很茂盛
+    vernacular: xxxx
+  - word: 否
+    type: 【动词】
+    phonetic: pi3
+    trans: 批评，评价人物的不好。
+    ancient: 【高考题例】弘微口不言人短长，而曜好臧否人物，催每言论，弘微常以它语乱之。（《宋书•谢弘微传》）
+  - word: 否
+    type: 【形容词】
+    phonetic: pi3
+    trans: ❶恶;坏。常与"臧""泰"连用，如成语"臧否人物""否极泰来"。
+    ancient: 陟罚臧否，不宜异同。（《出师表》）
+  - word: 否
+    type: 【形容词】
+    phonetic: pi3
+    trans: ❶恶;坏。常与"臧""泰"连用，如成语"臧否人物""否极泰来"。
+    ancient: 【高考题例】今贤否杂糅，风俗浇浮，兵未强，财未裕，宜卧薪尝胆以图内治。（《宋史•萧燧传》）
+  - word: 否
+    type: 【形容词】
+    phonetic: pi3
+    trans: ❷困厄;不顺。
+    ancient: 否泰如天地，足以荣汝身。（《孔雀东南飞》）
+  - word: 否
+    type: 【形容词】
+    phonetic: pi3
+    trans: ❸闭塞;不通。
+    ancient: 夫人道不通，则阴阳否鬲（同"隔"）。（《汉书•薛宣传》）
+  - word: 否
+    type: 【形容词】
+    phonetic: pi3
+    trans: ❹鄙陋无知。
+    ancient: 穷夫否妇，不知国家之虑。（《盐铁论•复古》）

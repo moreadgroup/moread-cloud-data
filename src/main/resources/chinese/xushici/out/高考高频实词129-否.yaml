@@ -1,13 +1,42 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 否
+    type: 【动词】
+    phonetic: pi3
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: 批评，评价人物的不好。
         sentences:
-          - ancient: xxx
+          - ancient: 【高考题例】弘微口不言人短长，而曜好臧<否>人物，催每言论，弘微常以它语乱之。（《宋书•谢弘微传》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 否
+    type: 【形容词】
+    phonetic: pi3
+    tags:
+      - 高中
+    samples:
+      - trans: ❶恶;坏。常与"臧""泰"连用，如成语"臧否人物""否极泰来"。
+        sentences:
+          - ancient: 陟罚臧<否>，不宜异同。（《出师表》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】今贤<否>杂糅，风俗浇浮，兵未强，财未裕，宜卧薪尝胆以图内治。（《宋史•萧燧传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷困厄;不顺。
+        sentences:
+          - ancient: <否>泰如天地，足以荣汝身。（《孔雀东南飞》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸闭塞;不通。
+        sentences:
+          - ancient: 夫人道不通，则阴阳<否>鬲（同"隔"）。（《汉书•薛宣传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹鄙陋无知。
+        sentences:
+          - ancient: 穷夫<否>妇，不知国家之虑。（《盐铁论•复古》）
             url: xxxx
             vernacular: xxxx

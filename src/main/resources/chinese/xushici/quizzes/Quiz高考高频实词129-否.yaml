@@ -1,9 +1,32 @@
 ---
 quizzes:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
-    url: xxxx
-    vernacular: xxxx
+  - word: 否
+    type: 【动词】
+    phonetic: pi3
+    trans: 批评，评价人物的不好。
+    ancient: 【高考题例】弘微口不言人短长，而曜好臧否人物，催每言论，弘微常以它语乱之。（《宋书•谢弘微传》）
+  - word: 否
+    type: 【形容词】
+    phonetic: pi3
+    trans: ❶恶;坏。常与"臧""泰"连用，如成语"臧否人物""否极泰来"。
+    ancient: 陟罚臧否，不宜异同。（《出师表》）
+  - word: 否
+    type: 【形容词】
+    phonetic: pi3
+    trans: ❶恶;坏。常与"臧""泰"连用，如成语"臧否人物""否极泰来"。
+    ancient: 【高考题例】今贤否杂糅，风俗浇浮，兵未强，财未裕，宜卧薪尝胆以图内治。（《宋史•萧燧传》）
+  - word: 否
+    type: 【形容词】
+    phonetic: pi3
+    trans: ❷困厄;不顺。
+    ancient: 否泰如天地，足以荣汝身。（《孔雀东南飞》）
+  - word: 否
+    type: 【形容词】
+    phonetic: pi3
+    trans: ❸闭塞;不通。
+    ancient: 夫人道不通，则阴阳否鬲（同"隔"）。（《汉书•薛宣传》）
+  - word: 否
+    type: 【形容词】
+    phonetic: pi3
+    trans: ❹鄙陋无知。
+    ancient: 穷夫否妇，不知国家之虑。（《盐铁论•复古》）

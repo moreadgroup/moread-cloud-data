@@ -1,13 +1,46 @@
 ---
 words:
-  - word: xxxx
+  - word: 畔
     type: 【名词】
-    phonetic: xx1
+    phonetic: pan4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶田界。
         sentences:
-          - ancient: xxx
+          - ancient: 历山之农者侵<畔>。（《韩非子•难一》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 耕者让<畔>，行者让路。（《论衡•是应》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷边沿;旁侧。
+        sentences:
+          - ancient: 屈原至于江滨，被发行吟泽<畔>，颜色憔悴，形容枯槁。（《史记•屈原贾生列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 沉舟侧<畔>千帆过，病树前头万木春。（《酬乐天扬州初逢席上见赠》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 畔
+    type: 【动词】
+    phonetic: pan4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶避开;躲避。
+        sentences:
+          - ancient: 畔，吴语谓躲避曰畔。亦有所本。陈后主创齐圣观，民谣曰："齐圣观，寇来无处畔。"（清•赵翼《咳余丛考》卷四十三）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷通"叛"。背叛;违背。
+        sentences:
+          - ancient: 寡助之至，亲戚<畔>之。（《得道多助，失道寡助》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 汝为人臣子，不顾恩义，<畔>主背亲，为降虏于蛮夷，何以汝为见？（《苏武传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 人言公之<畔>，陛下必不信。（《史记•淮阴侯列传》）
             url: xxxx
             vernacular: xxxx

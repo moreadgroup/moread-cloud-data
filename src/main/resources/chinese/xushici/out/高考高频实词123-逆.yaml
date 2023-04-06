@@ -1,13 +1,98 @@
 ---
 words:
-  - word: xxxx
+  - word: 逆
     type: 【名词】
-    phonetic: xx1
+    phonetic: ni4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: 叛乱，叛乱的人。
         sentences:
-          - ancient: xxx
+          - ancient: 则直前诟虏帅失信，数吕师孟叔侄为<逆>。（《〈指南录〉后序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 大王起微细，诛暴<逆>，平定四海，有功者辄裂地而封为王侯。（《史记•高祖本纪》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】及宇文化及构<逆>，深忌之。（《北史•来护儿传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】不能肃清凶<逆>，遂令王室至此，抱恨泉壤，知复何言！（《北史•来护儿传》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 逆
+    type: 【动词】
+    phonetic: ni4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶迎接。
+        sentences:
+          - ancient: 郑子产聘于晋。晋侯有疾，韩宣子<逆>客。（《左传・昭公七年》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 寓<逆>旅，主人日再食。（《送东阳马生序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 夫天地者，万物之<逆>旅也;光阴者，百代之过客也。（唐•李白《春夜宴从弟桃花园序》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷违背;对抗（与"顺"相对）。
+        sentences:
+          - ancient: 而君<逆>寡人者，轻寡人与？（《唐雎不辱使命》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 且以一璧之故<逆>强秦之欢，不可。（《廉颇蔺相如列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 子不反亲，臣不<逆>君，兄弟之通义也。（《史记•赵世家》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸反常;乖于常理。
+        sentences:
+          - ancient: 行辟而坚，饰非而好，玩奸而泽，言辩而<逆>，古之大禁也。（《荀子•非十二子》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹抗拒；抵抗（与"顺"相对）。
+        sentences:
+          - ancient: 遂以周瑜、程普为左右督，将兵与备并力<逆>（曹）操。 （《资治通鉴•汉纪五十七》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 燕王诚振怖大王之威，不敢举兵以<逆>军吏，愿举国为内臣，比诸侯之列。（《史记•刺客列传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❺叛乱。
+        sentences:
+          - ancient: 庶长壮与大臣、诸侯、公子为<逆>，皆诛。（《史记•秦本纪》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 数（责备）吕师孟叔侄为<逆>。（《〈指南录〉后序》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❻揣，测。
+        sentences:
+          - ancient: 以意<逆>志，是为得之。（《孟子•万章上》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 逆
+    type: 【形容词】
+    phonetic: ni4
+    tags:
+      - 高中
+    samples:
+      - trans: 反常的;反叛的。
+        sentences:
+          - ancient: 即除<逆>阉废祠之址以葬之。（《五人墓碑记》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 逆
+    type: 【副词】
+    phonetic: ni4
+    tags:
+      - 高中
+    samples:
+      - trans: 预先。
+        sentences:
+          - ancient: 至于成败利钝，非臣之明所能<逆>睹也。（《后出师表》）
             url: xxxx
             vernacular: xxxx
