@@ -10,10 +10,10 @@ words:
         sentences:
           - ancient: 旦辞爷娘去，<暮>宿黄河边。（《木兰诗》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 早上辞别父母上路，晚上宿营在黄河边
           - ancient: <暮>投石壕村，有吏夜捉人。（《石壕吏》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 日暮时投宿石壕村，夜里有差役来强征兵。
   - word: 暮
     type: 【形容词】
     phonetic: mu4
@@ -24,7 +24,7 @@ words:
         sentences:
           - ancient: 烈士<暮>年，壮心不已。（汉•曹操《龟虽寿》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 壮志凌云的人士即便到了晚年，奋发思进的心也永不止息。
           - ancient: <暮>春三月，江南草长。（《与陈伯之书》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 暮春三月，江南地区的草长得很茂盛
