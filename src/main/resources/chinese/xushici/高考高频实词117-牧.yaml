@@ -10,41 +10,41 @@ words:
         sentences:
           - ancient: 问樵樵不知，问<牧><牧>不言。（宋•王安石《谢公墩》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "马有圉（yu3，养马的人），牛有<牧>，以待百事。（《左传•昭公七\"年》）"
+            vernacular: 询问打柴的人,樵夫不知道;询问放牧的人,牧人不言语。
+          - ancient: "马有圉（yu3，养马的人），牛有<牧>，以待百事。（《左传•昭公七年》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 养马有养马的人，放牛有放牛牧人，各有专司以应付各种事情。
       - trans: ❷古代称诸侯或地方长官。
         sentences:
           - ancient: "今夫天下之人<牧>，未有不嗜杀人者也。（《孟子•梁惠王上》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 而现在天下国君，没有一个不嗜好杀人。
           - ancient: "臣之辛苦，非独蜀之人士及二州<牧>伯所见明知，皇天后土，实所共鉴。（《陈情表》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我的辛酸苦楚，并不仅仅是蜀地的百姓及益州、梁州的长官所能明白知晓的，天地神明，实在也都能明察。
           - ancient: 【高考题例】萍寄（像浮萍一样漂泊托身）诸州，凡十五六年，其<牧>守稍薄，则又移居，故其迁徙者，盖（大概）十余州焉。（《旧唐书•李揆传》〉
             url: xxxx
-            vernacular: xxxx
+            vernacular: 他像浮萍一样漂泊于多个州郡，共十五六年，当地的郡守长官对他稍有轻薄，就又迁居，所以他搬迁的地方，大约有十多个州。
       - trans: ❸指主管某一专业的官。
         sentences:
           - ancient: 命舟<牧>覆舟。（《礼记•月令》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 命令掌管船只的官吏翻看船底
       - trans: ❹牧地;牧场。
         sentences:
           - ancient: 今有受人之牛羊而为之牧之者，则必为之求<牧>与刍（牧草）矣。（《孟子•公孙丑下》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 现在假如有个人接受了替别人放牧牛羊的事，那一定要设法找到牧场和喂养牲畜的草料
       - trans: ❺郊外。
         sentences:
           - ancient: 自<牧>归荑，洵美且异。（《诗经•郝风•静女》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 郊野采荑送给我，荑草确实美好又珍异。
       - trans: ❻地名。即牧野，今河南新乡附近。
         sentences:
           - ancient: 致天之届，于<牧>之野。（《诗经•鲁颂•闔宫》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 大周武王顺承上天的旨意，在牧野大战之前慷慨激昂
   - word: 牧
     type: 【动词】
     phonetic: mu4
@@ -53,22 +53,22 @@ words:
     samples:
       - trans: ❶放牧饲养牲畜。
         sentences:
-          - ancient: 牛羊又从而<牧>之。（《孟子•告子上》）
+          - ancient: 牛羊又从而<牧>之，是以若彼濯濯也。（《孟子•告子上》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 但牛羊接着又（被）放牧到这里，因此成了那样光秃秃的了。
           - ancient: 胡人不敢南下而<牧>马，士不敢弯弓而报怨。（《过秦论》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 胡人不敢向下到南边来放牧，勇士不敢拉弓射箭来报仇。
           - ancient: "杖汉节<牧>羊，卧起操持，节旄尽落。（《苏武传》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 他拄着汉朝皇帝赐予使臣的节仗牧羊，无论是睡觉、还是起来都拿着，以至于系在节仗上的节旄都全部掉落了。
       - trans: ❷修养。
         sentences:
           - ancient: 念高危，则思谦冲而自<牧>。（《谏太宗十思疏》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 想到帝位高高在上，就想到要谦虚并加强自我约束
       - trans: ❸治理。
         sentences:
           - ancient: 【高考题例】况<牧>民之长，百责所丛。（元•张养浩《三事忠:告》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 何况治理百姓的长官，要做的事有那么多
