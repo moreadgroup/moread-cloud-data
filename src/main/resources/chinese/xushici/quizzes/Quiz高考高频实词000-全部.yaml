@@ -1,124 +1,19 @@
 ---
 quizzes:
-  - word: 名
-    type: 【名词】
-    phonetic: ming2
-    trans: ❶名字;名称。
-    ancient: 昨夜见军帖，可汗大点兵，军书十二卷，卷卷有爷<名>。（《木兰诗》）
-    url: xxxx
-    vernacular: 昨夜看见征兵的文书，知道君王在大规模征募兵士，那么多卷征兵文书，每卷上都有父亲的名字。
-  - word: 名
-    type: 【名词】
-    phonetic: ming2
-    trans: ❶名字;名称。
-    ancient: 即书诗四句，并自为其<名>。（《伤仲永》）
-    url: xxxx
-    vernacular: 仲永立刻写下了四句，并自己题上自己的名字。
-  - word: 名
-    type: 【名词】
-    phonetic: ming2
-    trans: ❷名号；名分（与"实"相对）。
-    ancient: 古者<名>位不同，礼亦异数。（《汉书•艺文志》）
-    url: xxxx
-    vernacular: 古代名号品位不一样，所用的礼节也就异等。
-  - word: 名
-    type: 【名词】
-    phonetic: ming2
-    trans: ❷名号；名分（与"实"相对）。
-    ancient: 唯<名>与器，圣人所重。（《后汉书•刘玄传》）
-    url: xxxx
-    vernacular: 要知道名与器，是圣人最重视的
-  - word: 名
-    type: 【名词】
-    phonetic: ming2
-    trans: ❸名誉;名声。
-    ancient: 曹操比于袁绍，则<名>微而众寡，然操遂能克绍，以弱为强者，非惟天时，抑亦人谋也。（《隆中对》）
-    url: xxxx
-    vernacular: 曹操与袁绍相比，声望少之又少，然而曹操最终之所以能打败袁绍，凭借弱小的力量战胜强大的原因，不仅依靠的是天时好，而且也是人的谋划得当。
-  - word: 名
-    type: 【名词】
-    phonetic: ming2
-    trans: ❸名誉;名声。
-    ancient: 功与日月齐光兮，<名>与三王争流。（《后汉书•冯衍传》）
-    url: xxxx
-    vernacular: xxxx
-  - word: 名
-    type: 【动词】
-    phonetic: ming2
-    trans: ❶命名；取名。
-    ancient: 所谓华山洞者，以其乃华山之阳<名>之也。（《游褒禅山记》）
-    url: xxxx
-    vernacular: 人们所说的华山洞，因为它在华山南面而这样命名。
-  - word: 名
-    type: 【动词】
-    phonetic: ming2
-    trans: ❶命名；取名。
-    ancient: 东家有贤女，自<名>秦罗敷，可怜体无比，阿母为汝求。（《孔雀东南飞》）
-    url: xxxx
-    vernacular: 东邻有个好姑娘，本名就叫秦罗敷。姿态可爱无人比，妈妈为你把婚求。
-  - word: 名
-    type: 【动词】
-    phonetic: ming2
-    trans: ❶命名；取名。
-    ancient: <名>余曰正则兮，字余曰灵均。（《离骚》）
-    url: xxxx
-    vernacular: 父亲把我的名取为正则，同时把我的字叫作灵均。
-  - word: 名
-    type: 【动词】
-    phonetic: ming2
-    trans: ❶命名；取名。
-    ancient: 以故其后<名>之曰"褒禅"。（《游褒禅山记》）
-    url: xxxx
-    vernacular: 因为这个缘故，后人就称此山为褒禅山。
-  - word: 名
-    type: 【动词】
-    phonetic: ming2
-    trans: ❶命名；取名。
-    ancient: 【高考题例】民图像于庐，而奉之如神，<名>日"范公庵"。（《宋史-范纯礼传》）
-    url: xxxx
-    vernacular: "百姓在房中悬挂“他的”画像,把他像神仙一样供奉，取名为“范公庵”"
-  - word: 名
-    type: 【动词】
-    phonetic: ming2
-    trans: ❷称说;说出。
-    ancient: 后世之谬其传而莫能<名>者，何可胜道也哉！（《游褒禅山记》）
-    url: xxxx
-    vernacular: 后世讹传而无人弄清其真相的事，哪能说得完呢？
-  - word: 名
-    type: 【动词】
-    phonetic: ming2
-    trans: ❷称说;说出。
-    ancient: 人有百口，口有百舌，不能<名>其一处也。（《口技》）
-    url: xxxx
-    vernacular: 即使一个人有上百张嘴，每张嘴里有上百条舌头，也不能说出其中的一个地方来啊
-  - word: 名
-    type: 【动词】
-    phonetic: ming2
-    trans: ❸出名；有名。
-    ancient: 山不在高，有仙则<名>。（《陋室铭》）
-    url: xxxx
-    vernacular: 山不在于高，有了神仙就会有名气。
-  - word: 名
-    type: 【形容词】
-    phonetic: ming2
-    trans: 著名的;有名声的。
-    ancient: 故虽有<名>马，祗辱于奴隶人之手，骈死于槽栃之间，不以千里称也。(唐代韩愈的《马说》）
-    url: xxxx
-    vernacular: 因此虽然有名贵的马，也只能在仆役的手中受辱，和普通的马一同死在马厩里，不能因日行千里而闻名于世。
   - word: 没
     type: 【动词】
     phonetic: mo4
     trans: ❶潜水。
     ancient: 始皇还，过彭城，斋戒祷祠，欲出周鼎泗水，使千人<没>水求之，弗得。（《史记•秦始皇本纪》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 始皇巡游途中，经过彭城，始皇就地斋戒祭祀，想要从泗水中打捞失传的周朝九鼎。他派出数千人潜入水中寻找，最终无功而返。
   - word: 没
     type: 【动词】
     phonetic: mo4
     trans: ❷沉没;淹没。
     ancient: 蛟或浮或<没>，行数十里，处与之俱。（《世说新语•自新》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 蛟龙在水里有时浮起、有时沉没，周处与蛟龙一起浮沉了几十里远。
   - word: 没
     type: 【动词】
     phonetic: mo4
@@ -132,42 +27,42 @@ quizzes:
     trans: ❸沦陷；陷落。
     ancient: 后随浞野侯<没>胡中。（《苏武传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 后来又跟随浞野侯赵破奴重新陷胡地
   - word: 没
     type: 【动词】
     phonetic: mo4
     trans: ❸沦陷；陷落。
     ancient: 【高考题例】灌迎高射之，发辄中，或著崖石皆<没>镞，敌惊以为神，逡巡敛去。（《宋史•何灌传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 何灌对着高处射箭，每射必中，有的箭头都射进了岩石中，敌人吃惊地把他当成神看待，小心谨慎地退去。
   - word: 没
     type: 【动词】
     phonetic: mo4
     trans: ❹隐没。
     ancient: 平沙日未<没>，黯黯见临沸。（唐•王昌龄《塞下曲》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 茫茫无垠的沙漠，远望天边，太阳还未 落下，临洮已变得模糊不清。
   - word: 没
     type: 【动词】
     phonetic: mo4
     trans: ❹隐没。
     ancient: 草行露宿，日与北骑相出<没>于长淮间。（《〈指南录〉后序》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 在荒草间行进，冒着露水住下，每天在淮河一带时时与元军相互遭遇。
   - word: 没
     type: 【动词】
     phonetic: mo4
     trans: ❹隐没。
     ancient: 【高考题例】出<没>花中见，参差叶际飞。（南朝梁•刘孝绰《咏素蝶诗》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 素蝶时而出没于百花之中，时而穿行于密叶之间。
   - word: 没
     type: 【动词】
     phonetic: mo4
     trans: ❺掩埋。
     ancient: 生女犹得嫁比邻，生男埋<没>随百草。（《兵车行》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 生下女孩还能够嫁给近邻，生下男孩死于沙场埋没在荒草间。
   - word: 没
     type: 【动词】
     phonetic: mo4
@@ -181,63 +76,63 @@ quizzes:
     trans: ❻泯灭;消除。
     ancient: 死而湮<没>不足道者，亦已众矣。（《五人墓碑记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 死后埋没不值得称道的人，也太多了
   - word: 没
     type: 【动词】
     phonetic: mo4
     trans: ❻泯灭;消除。
     ancient: <没>华虚之文，存敦庞之朴，拨流失之风，反宓戏之俗。（《论衡・自纪》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 消灭浮华虚伪的文风，保存敦厚朴素的本质，扭转放荡不实的社会风气，恢复上古时的淳朴风俗。
   - word: 没
     type: 【动词】
     phonetic: mo4
     trans: ❼通"殁"。死亡;寿终。
     ancient: 若寡人得<没>于地，天其以礼悔祸于许（国名）？（《左传•隐公十一年》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 如果寡人将来得以善终，而上天又能依礼重新撤去降给许国的灾祸
   - word: 没
     type: 【动词】
     phonetic: mo4
     trans: ❼通"殁"。死亡;寿终。
-    ancient: 始皇既<没>，余威震手殊俗。（《过秦论》）
+    ancient: 始皇既<没>，余威震于殊俗。（《过秦论》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 秦始皇死了以后，他的余威还震慑着远方。
   - word: 没
     type: 【动词】
     phonetic: mo4
     trans: ❼通"殁"。死亡;寿终。
     ancient: 恨私心有所不尽，鄙陋<没>世，而文釆不表于后也。（《报任安书》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 是遗憾我内心的志愿有未达到的，如果平平庸庸地死了，文章就不能在后世显露。
   - word: 没
     type: 【动词】
     phonetic: mo4
     trans: ❼通"殁"。死亡;寿终。
     ancient: 天下君王至于贤人众矣，当时则荣，<没>则已焉。（《史记•孔子世家》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 天下的君王以及贤人是很多的，（他们大多是）当时的荣耀，死后就完了。
   - word: 没
     type: 【动词】
     phonetic: mo4
     trans: ❼通"殁"。死亡;寿终。
     ancient: 【高考题例】背城拒战凡三日，被创，<没>于阵，年六十二。（《宋史•何灌传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 何灌背靠城池抗击敌人，总共和敌人打了三天，受到创伤，死在阵地上，当时六十二岁。
   - word: 没
     type: 【动词】
     phonetic: mo4
     trans: 8没收。
     ancient: 秦之遇将军，可谓深矣。父母宗族，皆为戮<没>。（《荆轲刺秦王》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 秦对你樊於期，可以说是刻毒透顶了。父亲、母亲和同族的人都被杀死或没收入宫为奴。
   - word: 没
     type: 【动词】
     phonetic: mo4
     trans: ❾无;没有。此义今读mei4。
     ancient: 天下皆知崔协不识文字，而虚有仪表，号为"<没>字碑"。（《新五代史•任圜传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 没字碑： 没有刻上文字的碑。喻指虚有仪表而不通文墨的人。
   - word: 莫
     type: 【代词】
     phonetic: mo4
