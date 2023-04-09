@@ -10,16 +10,16 @@ words:
         sentences:
           - ancient: 则直前诟虏帅失信，数吕师孟叔侄为<逆>。（《〈指南录〉后序》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 就径直上前痛骂元军统帅不守信用，列举吕师孟叔侄的叛国行径
           - ancient: 大王起微细，诛暴<逆>，平定四海，有功者辄裂地而封为王侯。（《史记•高祖本纪》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 大王从平民起事，诛伐暴逆，平定四海，有功的分赏土地封为王侯
           - ancient: 【高考题例】及宇文化及构<逆>，深忌之。（《北史•来护儿传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 等到宇文化及发动叛乱时，（他）十分忌恨来护儿。
           - ancient: 【高考题例】不能肃清凶<逆>，遂令王室至此，抱恨泉壤，知复何言！（《北史•来护儿传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 不能清除凶恶悖逆之人，终致朝廷落到如此地步，我只能抱憾于黄泉之下，还能再说什么呢！
   - word: 逆
     type: 【动词】
     phonetic: ni4
@@ -30,10 +30,10 @@ words:
         sentences:
           - ancient: 郑子产聘于晋。晋侯有疾，韩宣子<逆>客。（《左传・昭公七年》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 郑国的子产到晋国聘问。晋平公有病。韩宣子迎接客人
           - ancient: 寓<逆>旅，主人日再食。（《送东阳马生序》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 寄居在旅馆，店主人每天供给两顿饭
           - ancient: 夫天地者，万物之<逆>旅也;光阴者，百代之过客也。（唐•李白《春夜宴从弟桃花园序》）
             url: xxxx
             vernacular: xxxx
