@@ -1,82 +1,5 @@
 ---
 quizzes:
-  - word: 披
-    type: 【动词】
-    phonetic: Pi1
-    trans: ❶穿着;覆衣于肩背。
-    ancient: 将军身<披>坚执锐，伐无道，诛暴秦，复立楚国之社稷，功宜为王。（《陈涉世家》）
-    url: xxxx
-    vernacular: 将军您亲身披着战甲，拿着锐利的武器，讨伐诛灭残暴无道的秦王朝，恢复建立楚国的江山，按照功劳应当称王。
-  - word: 披
-    type: 【动词】
-    phonetic: Pi1
-    trans: ❶穿着;覆衣于肩背。
-    ancient: 景从云合，而见一人，<披>紫衣，执青玉。（《柳毅传》）
-    url: xxxx
-    vernacular: 一群侍从像影子跟随形体，象云气聚拢拟的簇拥着一位身穿紫袍，手执青玉的人出来了。
-  - word: 披
-    type: 【动词】
-    phonetic: Pi1
-    trans: ❷袒露。
-    ancient: 惟当<披>露腹心，捐弃肝脑，尽力所至，不知其他。 （宋•苏轼《上神宗皇帝书》）
-    url: xxxx
-    vernacular: xxxx
-  - word: 披
-    type: 【动词】
-    phonetic: Pi1
-    trans: ❸推开。
-    ancient: <披>绣闼，俯雕甍。（《滕王阁序》）
-    url: xxxx
-    vernacular: 推开雕花精美的阁门，俯视彩饰的屋脊
-  - word: 披
-    type: 【动词】
-    phonetic: Pi1
-    trans: ❹掀开;拔开。
-    ancient: 哙遂入，<披>帷西向立，瞋目视项王，头发上指，目眦（zi4，眼眶）尽裂。（《鸿门宴》）
-    url: xxxx
-    vernacular: "樊哙于是进去,分开(或掀开)帷幕向西站着,瞪眼看着项王,头发向上竖起,眼眶(或眼角)都裂开了。"
-  - word: 披
-    type: 【动词】
-    phonetic: Pi1
-    trans: ❹掀开;拔开。
-    ancient: 蹑迹<披>求，见有虫伏棘根，遽扑之，入石穴中。（《促织》）
-    url: xxxx
-    vernacular: 他便跟着癞蛤蟆的踪迹，分开丛草去寻找，只见一只蟋蟀趴在棘根下面，他急忙扑过去捉它，蟋蟀跳进了石洞。
-  - word: 披
-    type: 【动词】
-    phonetic: Pi1
-    trans: ❹掀开;拔开。
-    ancient: 到则<披>草而坐，倾壶而醉。（《始得西山宴游记》）
-    url: xxxx
-    vernacular: 一走到那些地方，我们便拨开野草，席地而卧，倒酒痛饮，不醉不罢。
-  - word: 披
-    type: 【动词】
-    phonetic: Pi1
-    trans: ❺翻开;翻阅。
-    ancient: 先生口不绝吟于六艺之文，手不停<披>于百家之编。（唐.韩愈《进学解》）
-    url: xxxx
-    vernacular: "口中不停地诵读六经的文字,手中不停地翻阅百家的各种典籍。"
-  - word: 披
-    type: 【动词】
-    phonetic: Pi1
-    trans: ❺翻开;翻阅。
-    ancient: <披>五岳之图，以为知山，不如樵夫之一足。（清•魏源《默觚上•学篇二》）
-    url: xxxx
-    vernacular: 翻阅五岳的地图， 就以为了解了大山， 其实还不如打柴人的稍微涉足知道的多
-  - word: 披
-    type: 【动词】
-    phonetic: Pi1
-    trans: 6散开。
-    ancient: 于是项王大呼，驰下，汉军皆<披>靡，遂斩汉一将。 （《项羽之死》）
-    url: xxxx
-    vernacular: 于是项王高声呼喊着冲了下去，汉军像草木随风倒伏一样溃败了，项王杀掉了一名汉将。
-  - word: 披
-    type: 【动词】
-    phonetic: Pi1
-    trans: ❼剖析。
-    ancient: 臣等承旨，<披>究往说，各有其理。（《魏书•礼志一》）
-    url: xxxx
-    vernacular: 分析研究
   - word: 被
     type: 【名词】
     phonetic: pi1
@@ -90,39 +13,39 @@ quizzes:
     trans: 批评，评价人物的不好。
     ancient: 【高考题例】弘微口不言人短长，而曜好臧<否>人物，催每言论，弘微常以它语乱之。（《宋书•谢弘微传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 谢弘微口中不说别人的好坏，而谢曜喜爱褒贬人物，谢曜每每发表议论，弘微常说其他的事岔开话头。
   - word: 否
     type: 【形容词】
     phonetic: pi3
     trans: ❶恶;坏。常与"臧""泰"连用，如成语"臧否人物""否极泰来"。
     ancient: 陟罚臧<否>，不宜异同。（《出师表》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 奖惩功过，不应有所不同。
   - word: 否
     type: 【形容词】
     phonetic: pi3
     trans: ❶恶;坏。常与"臧""泰"连用，如成语"臧否人物""否极泰来"。
     ancient: 【高考题例】今贤<否>杂糅，风俗浇浮，兵未强，财未裕，宜卧薪尝胆以图内治。（《宋史•萧燧传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "如今有德才和无德才的人混杂一道,风俗浇薄虚浮兵力未强,财力未富,应当卧薪尝胆以求国内安定太平。"
   - word: 否
     type: 【形容词】
     phonetic: pi3
     trans: ❷困厄;不顺。
     ancient: <否>泰如天地，足以荣汝身。（《孔雀东南飞》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 命运好坏差别就像天和地，改嫁之后足够让你享尽荣华富贵。
   - word: 否
     type: 【形容词】
     phonetic: pi3
     trans: ❸闭塞;不通。
     ancient: 夫人道不通，则阴阳<否>鬲（同"隔"）。（《汉书•薛宣传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 每个人应该遵循的准则、规范不正确，那么就隔绝不通
   - word: 否
     type: 【形容词】
     phonetic: pi3
     trans: ❹鄙陋无知。
     ancient: 穷夫<否>妇，不知国家之虑。（《盐铁论•复古》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 贫穷的男人和无知的妇人，不会忧虑国家大事

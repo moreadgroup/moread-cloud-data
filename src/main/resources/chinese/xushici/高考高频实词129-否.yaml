@@ -10,7 +10,7 @@ words:
         sentences:
           - ancient: 【高考题例】弘微口不言人短长，而曜好臧<否>人物，催每言论，弘微常以它语乱之。（《宋书•谢弘微传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 谢弘微口中不说别人的好坏，而谢曜喜爱褒贬人物，谢曜每每发表议论，弘微常说其他的事岔开话头。
   - word: 否
     type: 【形容词】
     phonetic: pi3
@@ -21,22 +21,22 @@ words:
         sentences:
           - ancient: 陟罚臧<否>，不宜异同。（《出师表》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 奖惩功过，不应有所不同。
           - ancient: 【高考题例】今贤<否>杂糅，风俗浇浮，兵未强，财未裕，宜卧薪尝胆以图内治。（《宋史•萧燧传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 如今有德才和无德才的人混杂一道,风俗浇薄虚浮兵力未强,财力未富,应当卧薪尝胆以求国内安定太平。
       - trans: ❷困厄;不顺。
         sentences:
           - ancient: <否>泰如天地，足以荣汝身。（《孔雀东南飞》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 命运好坏差别就像天和地，改嫁之后足够让你享尽荣华富贵。
       - trans: ❸闭塞;不通。
         sentences:
           - ancient: 夫人道不通，则阴阳<否>鬲（同"隔"）。（《汉书•薛宣传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 每个人应该遵循的准则、规范不正确，那么就隔绝不通
       - trans: ❹鄙陋无知。
         sentences:
           - ancient: 穷夫<否>妇，不知国家之虑。（《盐铁论•复古》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 贫穷的男人和无知的妇人，不会忧虑国家大事
