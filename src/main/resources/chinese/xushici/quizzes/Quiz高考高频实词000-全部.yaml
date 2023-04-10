@@ -1,75 +1,19 @@
 ---
 quizzes:
-  - word: 畔
-    type: 【名词】
-    phonetic: pan4
-    trans: ❶田界。
-    ancient: 历山之农者侵<畔>，舜往耕焉，期年，甽亩正。（《韩非子•难一》）
-    url: xxxx
-    vernacular: 历山的农夫相互侵占田界，舜到那儿去耕地，满一年，田界划分合理。
-  - word: 畔
-    type: 【名词】
-    phonetic: pan4
-    trans: ❶田界。
-    ancient: 耕者让<畔>，行者让路。（《论衡•是应》）
-    url: xxxx
-    vernacular: "种田的人把田界让给对方,走路的人让开路让别人先走。"
-  - word: 畔
-    type: 【名词】
-    phonetic: pan4
-    trans: ❷边沿;旁侧。
-    ancient: 屈原至于江滨，被发行吟泽<畔>，颜色憔悴，形容枯槁。（《史记•屈原贾生列传》）
-    url: xxxx
-    vernacular: "屈原来到了江畔,他披散着头发在水边一边走一边吟哦,面容憔悴,身体（也显得）极其瘦削."
-  - word: 畔
-    type: 【名词】
-    phonetic: pan4
-    trans: ❷边沿;旁侧。
-    ancient: 沉舟侧<畔>千帆过，病树前头万木春。（《酬乐天扬州初逢席上见赠》）
-    url: xxxx
-    vernacular: "翻覆的船只旁仍有千千万万的帆船经过,枯萎树木的前面也有万千林木欣欣向荣。"
-  - word: 畔
-    type: 【动词】
-    phonetic: pan4
-    trans: ❶避开;躲避。
-    ancient: 畔，吴语谓躲避曰畔。亦有所本。陈后主创齐圣观，民谣曰："齐圣观，寇来无处畔。"（清•赵翼《咳余丛考》卷四十三）
-    url: xxxx
-    vernacular: xxxx
-  - word: 畔
-    type: 【动词】
-    phonetic: pan4
-    trans: ❷通"叛"。背叛;违背。
-    ancient: 寡助之至，亲戚<畔>之。（《得道多助，失道寡助》）
-    url: xxxx
-    vernacular: 支持帮助他的人少到了极点，连内外亲属也会背叛他
-  - word: 畔
-    type: 【动词】
-    phonetic: pan4
-    trans: ❷通"叛"。背叛;违背。
-    ancient: 汝为人臣子，不顾恩义，<畔>主背亲，为降虏于蛮夷，何以汝为见？（《苏武传》）
-    url: xxxx
-    vernacular: "你做人家的臣下和儿子,不顾及恩德义理,背叛主上,离弃双亲,在异族那里投降做奴隶,要见你干什么?"
-  - word: 畔
-    type: 【动词】
-    phonetic: pan4
-    trans: ❷通"叛"。背叛;违背。
-    ancient: 人言公之<畔>，陛下必不信。（《史记•淮阴侯列传》）
-    url: xxxx
-    vernacular: 如果有人告发说您反叛，陛下一定不会相信
   - word: 披
     type: 【动词】
     phonetic: Pi1
     trans: ❶穿着;覆衣于肩背。
     ancient: 将军身<披>坚执锐，伐无道，诛暴秦，复立楚国之社稷，功宜为王。（《陈涉世家》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 将军您亲身披着战甲，拿着锐利的武器，讨伐诛灭残暴无道的秦王朝，恢复建立楚国的江山，按照功劳应当称王。
   - word: 披
     type: 【动词】
     phonetic: Pi1
     trans: ❶穿着;覆衣于肩背。
     ancient: 景从云合，而见一人，<披>紫衣，执青玉。（《柳毅传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 一群侍从像影子跟随形体，象云气聚拢拟的簇拥着一位身穿紫袍，手执青玉的人出来了。
   - word: 披
     type: 【动词】
     phonetic: Pi1
@@ -83,56 +27,56 @@ quizzes:
     trans: ❸推开。
     ancient: <披>绣闼，俯雕甍。（《滕王阁序》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 推开雕花精美的阁门，俯视彩饰的屋脊
   - word: 披
     type: 【动词】
     phonetic: Pi1
     trans: ❹掀开;拔开。
     ancient: 哙遂入，<披>帷西向立，瞋目视项王，头发上指，目眦（zi4，眼眶）尽裂。（《鸿门宴》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "樊哙于是进去,分开(或掀开)帷幕向西站着,瞪眼看着项王,头发向上竖起,眼眶(或眼角)都裂开了。"
   - word: 披
     type: 【动词】
     phonetic: Pi1
     trans: ❹掀开;拔开。
     ancient: 蹑迹<披>求，见有虫伏棘根，遽扑之，入石穴中。（《促织》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 他便跟着癞蛤蟆的踪迹，分开丛草去寻找，只见一只蟋蟀趴在棘根下面，他急忙扑过去捉它，蟋蟀跳进了石洞。
   - word: 披
     type: 【动词】
     phonetic: Pi1
     trans: ❹掀开;拔开。
     ancient: 到则<披>草而坐，倾壶而醉。（《始得西山宴游记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 一走到那些地方，我们便拨开野草，席地而卧，倒酒痛饮，不醉不罢。
   - word: 披
     type: 【动词】
     phonetic: Pi1
     trans: ❺翻开;翻阅。
     ancient: 先生口不绝吟于六艺之文，手不停<披>于百家之编。（唐.韩愈《进学解》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "口中不停地诵读六经的文字,手中不停地翻阅百家的各种典籍。"
   - word: 披
     type: 【动词】
     phonetic: Pi1
     trans: ❺翻开;翻阅。
     ancient: <披>五岳之图，以为知山，不如樵夫之一足。（清•魏源《默觚上•学篇二》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 翻阅五岳的地图， 就以为了解了大山， 其实还不如打柴人的稍微涉足知道的多
   - word: 披
     type: 【动词】
     phonetic: Pi1
     trans: 6散开。
     ancient: 于是项王大呼，驰下，汉军皆<披>靡，遂斩汉一将。 （《项羽之死》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 于是项王高声呼喊着冲了下去，汉军像草木随风倒伏一样溃败了，项王杀掉了一名汉将。
   - word: 披
     type: 【动词】
     phonetic: Pi1
     trans: ❼剖析。
     ancient: 臣等承旨，<披>究往说，各有其理。（《魏书•礼志一》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 分析研究
   - word: 被
     type: 【名词】
     phonetic: pi1
