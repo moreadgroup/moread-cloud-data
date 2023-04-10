@@ -1,96 +1,33 @@
 ---
 quizzes:
-  - word: 判
-    type: 【名词】
-    phonetic: pan4
-    trans: ❶唐宋官制。通常指以高官兼任较低职位的官。
-    ancient: 唐承隋制，至天授中始有试官之格，又有员外之置，寻为检校、试、摄、<判>、知之名。（《宋史•职官志一》）
-    url: xxxx
-    vernacular: xxxx
-  - word: 判
-    type: 【名词】
-    phonetic: pan4
-    trans: ❶唐宋官制。通常指以高官兼任较低职位的官。
-    ancient: 国初，曹翰以观察使<判>颍州，是以四品临五品州也。（宋•宋敏求《春明退朝录》卷中）
-    url: xxxx
-    vernacular: xxxx
-  - word: 判
-    type: 【名词】
-    phonetic: pan4
-    trans: ❷判官，地方长官的僚属，佐理政事。
-    ancient: 车前八个天曹判（天上的判官），车后若干递送夫。 （元•睢景臣《高祖还乡》）
-    url: xxxx
-    vernacular: 车前站着八个架前侍卫，车后的是随从。
-  - word: 判
-    type: 【名词】
-    phonetic: pan4
-    trans: ❸判决案件的判词。
-    ancient: 南山或可改移，此<判>终无摇动。（《旧唐书•李元紘传》）
-    url: xxxx
-    vernacular: 南山可以移走，但是判决不可动摇
-  - word: 判
-    type: 【动词】
-    phonetic: pan4
-    trans: ❶分离;分开。
-    ancient: 遂<判>为十二，合为七国。（唐•柳宗元《封建论》）
-    url: xxxx
-    vernacular: 于是周朝天下分成了十二个大的诸侯国，后来互相兼并又变成了七个强国。
-  - word: 判
-    type: 【动词】
-    phonetic: pan4
-    trans: ❷分辨；区分。
-    ancient: <判>天地之美，析万物之理。（《庄子•天下》）
-    url: xxxx
-    vernacular: "能够体会天地万物的不同美丽,能够知了天地万物的生存道理。"
-  - word: 判
-    type: 【动词】
-    phonetic: pan4
-    trans: ❷分辨；区分。
-    ancient: 故不战而强弱胜负已<判>矣。（《六国论》）
-    url: xxxx
-    vernacular: 所以用不着战争，谁强谁弱，谁胜谁负就已经决定了。
-  - word: 判
-    type: 【动词】
-    phonetic: pan4
-    trans: ❸评判;特指裁决诉讼。
-    ancient: 其有争讼，辄求<判>正。（《后汉书•陈宴传》）
-    url: xxxx
-    vernacular: 百姓打官司时，陈寔总力求判决公正
-  - word: 判
-    type: 【动词】
-    phonetic: pan4
-    trans: ❸评判;特指裁决诉讼。
-    ancient: 宋义兴人许昭先，叔父肇之坐事系狱，七年不<判>。（《宋书•许昭先传》）
-    url: xxxx
-    vernacular: 南宋义兴人许昭先的叔父许肇之因犯事被关进了监狱，在狱中关了七年仍未判决。
   - word: 畔
     type: 【名词】
     phonetic: pan4
     trans: ❶田界。
-    ancient: 历山之农者侵<畔>。（《韩非子•难一》）
+    ancient: 历山之农者侵<畔>，舜往耕焉，期年，甽亩正。（《韩非子•难一》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 历山的农夫相互侵占田界，舜到那儿去耕地，满一年，田界划分合理。
   - word: 畔
     type: 【名词】
     phonetic: pan4
     trans: ❶田界。
     ancient: 耕者让<畔>，行者让路。（《论衡•是应》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "种田的人把田界让给对方,走路的人让开路让别人先走。"
   - word: 畔
     type: 【名词】
     phonetic: pan4
     trans: ❷边沿;旁侧。
     ancient: 屈原至于江滨，被发行吟泽<畔>，颜色憔悴，形容枯槁。（《史记•屈原贾生列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "屈原来到了江畔,他披散着头发在水边一边走一边吟哦,面容憔悴,身体（也显得）极其瘦削."
   - word: 畔
     type: 【名词】
     phonetic: pan4
     trans: ❷边沿;旁侧。
     ancient: 沉舟侧<畔>千帆过，病树前头万木春。（《酬乐天扬州初逢席上见赠》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "翻覆的船只旁仍有千千万万的帆船经过,枯萎树木的前面也有万千林木欣欣向荣。"
   - word: 畔
     type: 【动词】
     phonetic: pan4
@@ -104,21 +41,21 @@ quizzes:
     trans: ❷通"叛"。背叛;违背。
     ancient: 寡助之至，亲戚<畔>之。（《得道多助，失道寡助》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 支持帮助他的人少到了极点，连内外亲属也会背叛他
   - word: 畔
     type: 【动词】
     phonetic: pan4
     trans: ❷通"叛"。背叛;违背。
     ancient: 汝为人臣子，不顾恩义，<畔>主背亲，为降虏于蛮夷，何以汝为见？（《苏武传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "你做人家的臣下和儿子,不顾及恩德义理,背叛主上,离弃双亲,在异族那里投降做奴隶,要见你干什么?"
   - word: 畔
     type: 【动词】
     phonetic: pan4
     trans: ❷通"叛"。背叛;违背。
     ancient: 人言公之<畔>，陛下必不信。（《史记•淮阴侯列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 如果有人告发说您反叛，陛下一定不会相信
   - word: 披
     type: 【动词】
     phonetic: Pi1
