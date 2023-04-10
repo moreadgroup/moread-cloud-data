@@ -1,208 +1,131 @@
 ---
 quizzes:
-  - word: 拟
-    type: 【动词】
-    phonetic: ni3
-    trans: ❶揣度;斟酌。
-    ancient: <拟>之而后言，议之而后动。（《周易•系辞上》）
-    url: xxxx
-    vernacular: "斟酌天下最好的实际情况以后才记载下来的,是选择天下最好的活动以后才付诸创作行动的,经斟酌选择的这些典型活动可用来帮助人们将所进行的各种活动向合情合理的方向改变。"
-  - word: 拟
-    type: 【动词】
-    phonetic: ni3
-    trans: ❷打算。
-    ancient: 丈人祠西佳气浓，缘云<拟>住最高峰。（唐•杜甫《丈人山》）
-    url: xxxx
-    vernacular: 丈人祠的西边风景独好，因为云彩都在最高峰之上。
-  - word: 拟
-    type: 【动词】
-    phonetic: ni3
-    trans: ❷打算。
-    ancient: 闻说双溪春尚好，也<拟>泛轻舟。（宋•李清照《武陵春•春晚》）
-    url: xxxx
-    vernacular: 听人说双溪的春色还不错，那我就去那里划划船，姑且散散心吧。
-  - word: 拟
-    type: 【动词】
-    phonetic: ni3
-    trans: ❷打算。
-    ancient: 【高考题例】初，选人调（调动职位）<拟>（打算任用），先南曹，次考功。（《宋史•许将传》）
-    url: xxxx
-    vernacular: 当初，选拔调动人才，先要经过南曹，接着是考功。
-  - word: 拟
-    type: 【动词】
-    phonetic: ni3
-    trans: ❸比拟。
-    ancient: 自数十里外望之，碧峰曖然孤起，上干云霄，已非它山可<拟>。（《过小孤山大孤山》）
-    url: xxxx
-    vernacular: 从几十里外看去，小孤山碧绿的山峰高高耸立着，直插云霄，已经不是别的山可以相比的了。
-  - word: 拟
-    type: 【动词】
-    phonetic: ni3
-    trans: ❹比画；做样子。
-    ancient: 挟儿南驰，取胡儿弓引满以<拟>追骑。（宋•黄庭坚《题摹燕郭尚父图》）
-    url: xxxx
-    vernacular: xxxx
-  - word: 拟
-    type: 【动词】
-    phonetic: ni3
-    trans: ❹比画；做样子。
-    ancient: 复举剑<拟>之，武不动。（《苏武传》）
-    url: xxxx
-    vernacular: 卫律又举剑对准苏武，苏武岿然不动。
-  - word: 拟
-    type: 【动词】
-    phonetic: ni3
-    trans: ❺模仿;模拟。
-    ancient: 宦者得志，无所惮畏，并起第宅，<拟>则宫室。（《后汉书•张让传》）
-    url: xxxx
-    vernacular: 宦官得志，无所畏惧，大家仿照宫室营造私人住宅。
-  - word: 拟
-    type: 【动词】
-    phonetic: ni3
-    trans: ❺模仿;模拟。
-    ancient: （张）衡乃<拟>班固《两都》作《二京赋》，因以讽谏。（《张衡传》）
-    url: xxxx
-    vernacular: 张衡于是模仿班固的《两都赋》写了《二京赋》，用它来（向朝廷）讽喻规劝。
-  - word: 拟
-    type: 【动词】
-    phonetic: ni3
-    trans: ❻类似。
-    ancient: 吾观《太玄》，方知子云妙极道术，乃与五经相<拟>，非徒传记之属。（《后汉书•张衡传》）
-    url: xxxx
-    vernacular: 我阅读了《太玄经》，才知扬雄精妙地穷尽了天地和人事的法则，竟然可以和《五经》所阐述的道理相比拟，而且不仅仅是经书注释一类的书籍
-  - word: 拟
-    type: 【动词】
-    phonetic: ni3
-    trans: ❼起草;撰写。
-    ancient: 皇上欲幵懋（mao4）勤殿，设顾问官，命君<拟>旨。（清•梁启超《谭嗣同》）
-    url: xxxx
-    vernacular: 皇上想开懋勤殿设顾问官，指令谭君起草诏书
   - word: 逆
     type: 【名词】
     phonetic: ni4
     trans: 叛乱，叛乱的人。
     ancient: 则直前诟虏帅失信，数吕师孟叔侄为<逆>。（《〈指南录〉后序》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 就径直上前痛骂元军统帅不守信用，列举吕师孟叔侄的叛国行径
   - word: 逆
     type: 【名词】
     phonetic: ni4
     trans: 叛乱，叛乱的人。
     ancient: 大王起微细，诛暴<逆>，平定四海，有功者辄裂地而封为王侯。（《史记•高祖本纪》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 大王从平民起事，诛伐暴逆，平定四海，有功的分赏土地封为王侯
   - word: 逆
     type: 【名词】
     phonetic: ni4
     trans: 叛乱，叛乱的人。
     ancient: 【高考题例】及宇文化及构<逆>，深忌之。（《北史•来护儿传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 等到宇文化及发动叛乱时，（他）十分忌恨来护儿。
   - word: 逆
     type: 【名词】
     phonetic: ni4
     trans: 叛乱，叛乱的人。
     ancient: 【高考题例】不能肃清凶<逆>，遂令王室至此，抱恨泉壤，知复何言！（《北史•来护儿传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 不能清除凶恶悖逆之人，终致朝廷落到如此地步，我只能抱憾于黄泉之下，还能再说什么呢！
   - word: 逆
     type: 【动词】
     phonetic: ni4
     trans: ❶迎接。
     ancient: 郑子产聘于晋。晋侯有疾，韩宣子<逆>客。（《左传・昭公七年》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 郑国的子产到晋国聘问。晋平公有病。韩宣子迎接客人
   - word: 逆
     type: 【动词】
     phonetic: ni4
     trans: ❶迎接。
     ancient: 寓<逆>旅，主人日再食。（《送东阳马生序》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 寄居在旅馆，店主人每天供给两顿饭
   - word: 逆
     type: 【动词】
     phonetic: ni4
     trans: ❶迎接。
     ancient: 夫天地者，万物之<逆>旅也;光阴者，百代之过客也。（唐•李白《春夜宴从弟桃花园序》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 天地是迎接万物的客舍，光阴是古往今来的过客。
   - word: 逆
     type: 【动词】
     phonetic: ni4
     trans: ❷违背;对抗（与"顺"相对）。
     ancient: 而君<逆>寡人者，轻寡人与？（《唐雎不辱使命》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 但是他违背我的意愿，这不是看不起我吗？
   - word: 逆
     type: 【动词】
     phonetic: ni4
     trans: ❷违背;对抗（与"顺"相对）。
     ancient: 且以一璧之故<逆>强秦之欢，不可。（《廉颇蔺相如列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 况且为了一块璧玉的缘故就使强大的秦国不高兴，也是不应该的。
   - word: 逆
     type: 【动词】
     phonetic: ni4
     trans: ❷违背;对抗（与"顺"相对）。
     ancient: 子不反亲，臣不<逆>君，兄弟之通义也。（《史记•赵世家》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 子女不可以反对父母，臣子不可以违背君王，这是兄弟间通行的道义。
   - word: 逆
     type: 【动词】
     phonetic: ni4
     trans: ❸反常;乖于常理。
     ancient: 行辟而坚，饰非而好，玩奸而泽，言辩而<逆>，古之大禁也。（《荀子•非十二子》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 为非作歹而又很坚决，文过饰非而似很完美，玩弄奸计而似有恩泽，能言善辩而违反常理，这些是古代特别加以禁止的。
   - word: 逆
     type: 【动词】
     phonetic: ni4
     trans: ❹抗拒；抵抗（与"顺"相对）。
     ancient: 遂以周瑜、程普为左右督，将兵与备并力<逆>（曹）操。 （《资治通鉴•汉纪五十七》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 于是任命周瑜、程普为正、副统帅，率兵与刘备同力迎战曹操。
   - word: 逆
     type: 【动词】
     phonetic: ni4
     trans: ❹抗拒；抵抗（与"顺"相对）。
     ancient: 燕王诚振怖大王之威，不敢举兵以<逆>军吏，愿举国为内臣，比诸侯之列。（《史记•刺客列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "燕王确实害怕大王的声威,不敢出兵抵抗我国的军队,希望全国做臣子,排在诸侯行列里"
   - word: 逆
     type: 【动词】
     phonetic: ni4
     trans: ❺叛乱。
-    ancient: 庶长壮与大臣、诸侯、公子为<逆>，皆诛。（《史记•秦本纪》）
+    ancient: 庶长壮与大臣、诸侯、公子为<逆>皆诛。（《史记•秦本纪》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 庶长壮与大臣、诸侯、公子谋篡王位，皆被处死
   - word: 逆
     type: 【动词】
     phonetic: ni4
     trans: ❺叛乱。
     ancient: 数（责备）吕师孟叔侄为<逆>。（《〈指南录〉后序》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 列举吕师孟叔侄的叛国行径。
   - word: 逆
     type: 【动词】
     phonetic: ni4
     trans: ❻揣，测。
     ancient: 以意<逆>志，是为得之。（《孟子•万章上》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 能以自己的切身体会去推测作者的本意，这才是懂得了阅读作品的正确方法。
   - word: 逆
     type: 【形容词】
     phonetic: ni4
     trans: 反常的;反叛的。
     ancient: 即除<逆>阉废祠之址以葬之。（《五人墓碑记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 就清理已被废除的魏忠贤生祠旧址来安葬他们
   - word: 逆
     type: 【副词】
     phonetic: ni4
     trans: 预先。
     ancient: 至于成败利钝，非臣之明所能<逆>睹也。（《后出师表》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 至于伐魏兴汉究竟是成功是失败，是顺利还是困难，那是臣下的智力所不能预见的。
   - word: 宁
     type: 【副词】
     phonetic: ning4
