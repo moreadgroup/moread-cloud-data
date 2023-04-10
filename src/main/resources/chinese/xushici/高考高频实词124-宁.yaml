@@ -10,32 +10,32 @@ words:
         sentences:
           - ancient: 且壮士不死即已，死即举大名耳，王侯将相<宁>有种乎！（《陈涉世家》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 况且壮士不死便罢了，要死就该成就伟大的名声啊，王侯将相难道有天生的贵种么？
           - ancient: 老当益壮，<宁>移白首之心？（《滕王阁序》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 年纪虽然老了，但志气应当更加旺盛，怎能在白头时改变心情？
           - ancient: 身直为闺阁之臣，<宁>得自引深藏于岩穴邪？（《报任安书》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我已经成了宦官，怎么能够自己引退，深深地在山林岩穴隐居呢？
       - trans: ❷宁可;宁愿。
         sentences:
           - ancient: 均之二策，<宁>许以负秦曲（理亏）。（《廉颇蔺相如列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 衡量一下两种对策，宁可答应，而让秦国承担理亏的责任。
           - ancient: <宁>信度，无自信也。（《韩非子•外储说左上》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我宁可相信量好的尺码，也不相信自己的脚。
           - ancient: <宁>赴湘流，葬于江鱼之腹中。（《渔父》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我宁愿跳到湘江里，葬身在江鱼腹中。
           - ancient: <宁>溘死以流亡兮，余不忍为此态也！（《离骚》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 宁可马上死去魂魄离散，媚俗取巧啊我坚决不干。
       - trans: ❸竟;乃。
         sentences:
           - ancient: 心之忧矣，<宁>莫之知。（《诗经•小雅•小弁》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我内心里禁不住地忧伤啊，难道就没有个知心人明了！
   - word: 宁
     type: 【助词】
     phonetic: ning4
@@ -49,7 +49,7 @@ words:
             vernacular: xxxx
           - ancient: 是寡大夫不得列于诸卿也，不<宁>唯是，又使围蒙其先君。（《左传•昭公元年》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 这就使敝国大夫围不能置身于卿大夫们的行列了。不仅是这样，更使围欺骗自己的先君
   - word: 宁
     type: 【动词】
     phonetic: ning2
@@ -60,25 +60,25 @@ words:
         sentences:
           - ancient: 家既迎兮当归<宁>。（《后汉书•董祀妻传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 家中来人接
           - ancient: 吾妻归<宁>，述诸小妹语曰："闻姊家有阁子，且何谓阁子也?"（《项脊轩志》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我妻子回娘家探亲，回来转述她的小妹妹们的话说：“听说姐姐家有个小阁楼，那么，什么叫小阁楼呢？”
       - trans: ❷止息;安息。也指安葬。
         sentences:
           - ancient: 故请母命而<宁>汝于斯，便祭扫也。（《祭妹文》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 所以请示母亲的意见而把你安葬在这里，以便于祭奠扫墓。
       - trans: ❸平息;平定。
         sentences:
           - ancient: 定白公之祸，<宁>楚国之事。（《战国策•楚策一》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 平定了白公之乱，使楚国得以安定
       - trans: ❹通"咛"。
         sentences:
           - ancient: 兰芝初还时，府吏见丁<宁>（通"叮咛"），结誓不别离。 （《孔雀东南飞》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 兰芝当初返家时，府吏一再嘱咐我，发誓永远不分离。
   - word: 宁
     type: 【形容词】
     phonetic: ning2
@@ -89,4 +89,4 @@ words:
         sentences:
           - ancient: 悍吏之来吾乡，叫嚣乎东西，隳突（横行）乎南北，哗然而骇者，虽鸡狗不得<宁>焉。（《捕蛇著说》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 凶暴的官吏来到我乡，到处吵嚷叫嚣，到处骚扰，那种喧闹叫嚷着惊扰乡民的气势，不要说人即使鸡狗也不能够安宁啊！
