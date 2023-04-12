@@ -1,9 +1,16 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 枪
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: qiang1
+    trans: 兵器名。
+    ancient: 银瓶乍破水浆迸，铁骑突出刀<枪>鸣。（《琵琶行》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 枪
+    type: 【动词】
+    phonetic: qiang1
+    trans: 触;撞。
+    ancient: 当此之时，见狱吏则头<枪>地，视徒隶则心惕息，何者？（《报任安书》）
     url: xxxx
     vernacular: xxxx

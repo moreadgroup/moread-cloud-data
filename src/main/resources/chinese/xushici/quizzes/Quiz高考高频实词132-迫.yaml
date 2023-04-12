@@ -1,9 +1,65 @@
 ---
 quizzes:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+  - word: 迫
+    type: 【动词】
+    phonetic: po4
+    trans: ❶接近;逼近。
+    ancient: 今少卿抱不测之罪，涉旬月，<迫>季冬（农历十二月）。（《报任安书》）
+    url: xxxx
+    vernacular: 现在您蒙受意想不到的罪祸，再过一月，临近十二月
+  - word: 迫
+    type: 【动词】
+    phonetic: po4
+    trans: ❶接近;逼近。
+    ancient: <迫>而视之，乃前寄辞者。（《柳毅传》）
+    url: xxxx
+    vernacular: 柳毅走近一看，原来就是以前托他捎信的那个女子。
+  - word: 迫
+    type: 【动词】
+    phonetic: po4
+    trans: ❶接近;逼近。
+    ancient: 时北兵已<迫>修门外，战、守、迁皆不及施。（《〈指南录〉后序》）
+    url: xxxx
+    vernacular: 这时敌兵已经攻到门外了，(我们)迎战或者防守还是弃城逃跑，都来不及了。
+  - word: 迫
+    type: 【动词】
+    phonetic: po4
+    trans: ❷逼迫。
+    ancient: 我自不驱卿，逼<迫>有阿母。（《孔雀东南飞》）
+    url: xxxx
+    vernacular: 我绝不想赶你走，无奈母亲逼迫凶
+  - word: 迫
+    type: 【动词】
+    phonetic: po4
+    trans: ❷逼迫。
+    ancient: 郡县逼<迫>，催臣上道。（《陈情表》）
+    url: xxxx
+    vernacular: 郡县长官催促我立刻上路
+  - word: 迫
+    type: 【动词】
+    phonetic: po4
+    trans: ❸催促。
+    ancient: 能事不受相促<迫>，王宰始肯留真迹。（唐•杜甫《戏题王宰画山水图歌》）
+    url: xxxx
+    vernacular: 王宰他作画不愿受时间的催促贸然从事，经过长时间的酝酿后，才从容不迫地将真迹留于人间。
+  - word: 迫
+    type: 【形容词】
+    phonetic: po4
+    trans: ❶危急;紧急。
+    ancient: 此<迫>矣！臣请入，与之同命（同生共死）。（《鸿门宴》）
+    url: xxxx
+    vernacular: 这太危急了！请让我进去，跟他同生死。
+  - word: 迫
+    type: 【形容词】
+    phonetic: po4
+    trans: ❶危急;紧急。
+    ancient: 贼围之甚<迫>，夫人慌了。（《西厢记》五本三折）
     url: xxxx
     vernacular: xxxx
+  - word: 迫
+    type: 【形容词】
+    phonetic: po4
+    trans: ❷狭窄。
+    ancient: 当今西州，地势局<迫>，人兵离散，易以辅人，难以自建。（《后汉书•窦融传》）
+    url: xxxx
+    vernacular: 当今西州的地形局促，人民和士兵分散，容易补充人员，但难以自己建设。
