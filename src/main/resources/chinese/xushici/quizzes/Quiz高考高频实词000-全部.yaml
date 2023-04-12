@@ -1,124 +1,40 @@
 ---
 quizzes:
-  - word: 启
-    type: 【名词】
-    phonetic: qi3
-    trans: 古代一种文体，书函。
-    ancient: 至魏国笺记，始云"<启>闻"；奏事之末，或云"谨<启>"。（《文心雕龙•奏启》）
-    url: xxxx
-    vernacular: "到魏代的笺表中,才开始用“启闻”,或者在奏事的最后说“谨启”。"
-  - word: 启
-    type: 【动词】
-    phonetic: qi3
-    trans: ❶开启;打开。
-    ancient: <启>窗而观，雕栏相望焉。（《核舟记》）
-    url: xxxx
-    vernacular: 打开窗户来看，雕刻着花纹的栏杆左右相对。
-  - word: 启
-    type: 【动词】
-    phonetic: qi3
-    trans: ❶开启;打开。
-    ancient: 狱中成法，质明（黎明）<启>钥。（《狱中杂记》）
-    url: xxxx
-    vernacular: 监狱的规矩，一定要等天亮才开锁
-  - word: 启
-    type: 【动词】
-    phonetic: qi3
-    trans: ❷萌芽。
-    ancient: 繁<启>蕃长于春夏，畜积收藏于秋冬。（《荀子•天论》）
-    url: xxxx
-    vernacular: 农作物在春夏时候纷纷萌芽，茂盛，成长，在秋冬时结谷，蓄积，收藏
-  - word: 启
-    type: 【动词】
-    phonetic: qi3
-    trans: ❸陈述;禀告。
-    ancient: 府吏得闻之，堂上<启>阿母。（《孔雀东南飞》）
-    url: xxxx
-    vernacular: 府吏听到这些话，便走到堂上禀告阿母
-  - word: 启
-    type: 【动词】
-    phonetic: qi3
-    trans: ❸陈述;禀告。
-    ancient: 某<启>：昨日蒙教，窃以为……（宋.王安石《答司马谏议书》）
-    url: xxxx
-    vernacular: 鄙人王安石请启：昨天承蒙（您来信）指教，我私下认为...
-  - word: 启
-    type: 【动词】
-    phonetic: qi3
-    trans: ❹开始;产生。
-    ancient: 初伏<启>新节，隆暑方赫羲。（晋•潘岳《在怀县作》之一）
-    url: xxxx
-    vernacular: xxxx
-  - word: 启
-    type: 【动词】
-    phonetic: qi3
-    trans: ❹开始;产生。
-    ancient: 齐亡之迹，<启>于是矣。（《颜氏家训•慕贤》）
-    url: xxxx
-    vernacular: 北齐败亡的迹象，就是从这里开始的。
-  - word: 启
-    type: 【动词】
-    phonetic: qi3
-    trans: ❺开导;启发。
-    ancient: 天诱其衷，<启>敝邑心。（《左传•襄公二十五年》）
-    url: xxxx
-    vernacular: 上天诱导我们的心，启发了敝邑攻打陈国的念头。
-  - word: 启
-    type: 【动词】
-    phonetic: qi3
-    trans: ❺开导;启发。
-    ancient: 不愤不<启>，不悱不发。举一隅不以三隅反，则弗复也。（《史记•孔子世家》）
-    url: xxxx
-    vernacular: 教导学生，不到他想弄明白而不得的时候，不去开导他;不到他想出来却说不出来的时候，不去启发他。教给他一个方面的东西，他却不能由此而推知其他三个方面的东西，那就不再教他了。
-  - word: 启
-    type: 【动词】
-    phonetic: qi3
-    trans: ❻幵拓;幵辟。
-    ancient: 齐桓公并国三十，<启>地三千里。（《韩非子•有度》）
-    url: xxxx
-    vernacular: 齐桓公吞并国家三十个，开辟疆土三千里
-  - word: 启
-    type: 【动词】
-    phonetic: qi3
-    trans: ❼跪。
-    ancient: 王事靡（无，不）盬（gu3，停止），不遑（空闲）<启>处。（《诗经•小龍•四牡》）
-    url: xxxx
-    vernacular: 但君王的差使还没有完成，我没有闲暇安享静好时光。（征役没有休止， 哪能有片刻安身。）
   - word: 起
     type: 【动词】
     phonetic: qi3
     trans: ❶站起;起立。
-    ancient: 坐须臾，沛公<起>如厕。（《鸿门宴》）
+    ancient: 坐须臾，沛公<起>如厕，因招樊哙出。（《鸿门宴》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 坐了一会儿，刘邦以上厕所为由，趁机把樊哙叫了出来。
   - word: 起
     type: 【动词】
     phonetic: qi3
     trans: ❶站起;起立。
     ancient: 屠暴（突然）<起>，以刀劈狼首，又数刀毙之。（《狼》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 屠户突然起身，用刀劈砍狼的头，又劈砍几刀杀死了狼。
   - word: 起
     type: 【动词】
     phonetic: qi3
     trans: ❶站起;起立。
-    ancient: 未至身，繁王惊，自引而<起>，绝袖。（《荆轲刺秦王》）
+    ancient: 未至身，秦王惊，自引而<起>，绝袖。（《荆轲刺秦王》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 没有刺到，秦王非常吃惊，耸身站了起来，挣断衣袖。
   - word: 起
     type: 【动词】
     phonetic: qi3
     trans: ❷起床。
-    ancient: 寡妇<起>彷徨。（《孔雀东南飞》）
+    ancient: "行人驻足听,寡妇<起>彷徨。（《孔雀东南飞》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 过路的人都停下脚步仔细听，寡妇惊起更是不安和彷徨。
   - word: 起
     type: 【动词】
     phonetic: qi3
     trans: ❷起床。
     ancient: 夫<起>大呼，妇亦<起>大呼。（《口技》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 丈夫起来大声呼叫，妇人也起来大声呼叫。
   - word: 起
     type: 【动词】
     phonetic: qi3
@@ -132,21 +48,21 @@ quizzes:
     trans: ❸兴起;发动。
     ancient: 海内大乱，将军<起>兵江东，刘豫州（刘备）收众汉南，与曹操共争天下。（《资治通鉴•汉，纪"五"十七》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 现在天下大乱，将军您在江东起兵，刘豫州在汉南招收人马，与曹操共同争夺天下。
   - word: 起
     type: 【动词】
     phonetic: qi3
     trans: ❸兴起;发动。
     ancient: 群臣惊愕，卒<起>不意，尽失其度。（《荆轲刺秦王》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 事情突然发生，意料不到，大家都失去了常态。
   - word: 起
     type: 【动词】
     phonetic: qi3
     trans: ❹举用;征聘。
     ancient: 或时<起>白屋之士，以璧迎礼之。（《论衡•语增》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 白屋的意思是茅屋。古代指平民的住屋。
   - word: 起
     type: 【动词】
     phonetic: qi3
@@ -160,35 +76,35 @@ quizzes:
     trans: ❺起事。
     ancient: 山东豪俊遂并<起>而亡秦族矣。（《过秦论》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 崤山以东的英雄豪杰于是一齐起事，消灭了秦的家族。
   - word: 起
     type: 【动词】
     phonetic: qi3
     trans: ❺起事。
     ancient: 政治未毕通也，远方之能疑者，并举而争<起>矣。（《论积贮疏》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 政治的力量还没有完全达到各地，边远地方敢于同皇上对抗的人，就一同举兵起来造反了。
   - word: 起
     type: 【动词】
     phonetic: qi3
     trans: ❺起事。
     ancient: 项籍者，下相人也，字羽。初<起>时，年二十四。（《史记•项羽本纪》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 项籍是下相人，字羽。开始起事的时候，他二十四岁。
   - word: 起
     type: 【动词】
     phonetic: qi3
     trans: ❺起事。
     ancient: 秦之纲绝而维弛，山东大扰，异姓并<起>，英俊乌集。（《史记•淮阴侯列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 秦朝法度败坏，政权瓦解的时候，山东六国大乱，各路诸侯纷纷起事，一时天下英雄豪杰象乌鸦一样聚集。
   - word: 起
     type: 【动词】
     phonetic: qi3
     trans: ❻出身。
     ancient: 大王<起>微细，诛暴逆，平定四海，有功者辄裂地而封为王侯。（《史记•高祖本纪》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 大王从平民起事，诛伐暴逆，平定四海，有功的分赏土地封为王侯。
   - word: 起
     type: 【动词】
     phonetic: qi3
@@ -202,49 +118,49 @@ quizzes:
     trans: ❼兴建。
     ancient: 十四年春正月，<起>南宫前殿。（《后汉书•光武帝纪》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 建武十四年（38年）春季正月，修建南宫的前殿。
   - word: 起
     type: 【动词】
     phonetic: qi3
     trans: ❽启发。
-    ancient: 子曰:"<起>予者商也，始可与言诗已矣。"（《论语•八佾》）
+    ancient: 子曰:"<起>予者商也，始可与言《诗》已矣。"（《论语•八佾》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 商，你真是能启发我的人，现在可以同你讨论《诗经》了。
   - word: 起
     type: 【动词】
     phonetic: qi3
     trans: ❽启发。
     ancient: 奚仲感蜚（通"飞"）蓬，而仓颉<起>鸟迹也。（《论衡•感类》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 奚仲是受什么启发创造马车，仓颉是感触什么创作文字
   - word: 起
     type: 【动词】
     phonetic: qi3
     trans: ❾竖起：隆起。
     ancient: 二公命邦人，凡大木所偃，尽<起>而筑之。（《尚书•金滕》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 太公、召公命令国人。凡大树所压的庄稼，要全部扶起来，又培好根
   - word: 起
     type: 【动词】
     phonetic: qi3
     trans: ❾竖起：隆起。
     ancient: 惟一石顶壁<起>犹数十丈，澄源（人名）寻视其侧，得级，挟予以登。（明•徐霞客《游黄山日记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 只是它上面还有一座石峰，像一堵墙壁耸起好象有几十丈高，澄源在它的旁边寻找，发现有石级，就拉着我登上去。
   - word: 起
     type: 【动词】
     phonetic: qi3
     trans: ❾竖起：隆起。
     ancient: 执图诣寺后，有古陵蔚<起>。（《促织》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 拿着图来到寺庙的后面，（看到）有一座古坟高高隆起
   - word: 起
     type: 【量词】
     phonetic: qi3
     trans: 群;伙。
     ancient: 据田毂一<起>人除已叙用外，但未经任用身死，并与复旧官爵。（《金史•孟浩传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 除田珏等一些人被任用外，没有任用的死去的，一起官爵复原职。
   - word: 迁
     type: 【动词】
     phonetic: qian1
