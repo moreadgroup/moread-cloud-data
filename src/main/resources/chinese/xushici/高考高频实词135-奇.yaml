@@ -1,13 +1,78 @@
 ---
 words:
-  - word: xxxx
+  - word: 奇
     type: 【名词】
-    phonetic: xx1
+    phonetic: qi2
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶奇妙的稀奇的事物。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 而有奇若此，前未一探。（明•徐霞客《游黄山日记》）
+      - trans: ❷泛指出人意表的计谋或策略等。
+        sentences:
+          - ancient: 权谋者，以正守国，以奇用兵。（《汉书•艺文志》）
+
+  - word: 奇
+    type: 【动词】
+    phonetic: qi2
+    tags:
+      - 高中
+    samples:
+      - trans: 以为奇妙;认为奇特。
+        sentences:
+          - ancient: 大将军邓骘（zhi4）奇其才，累召不应。（《张衡传》）
+          - ancient: 每闻琴瑟之声，则应节而舞，益奇之。（《促织》）
+          - ancient: 梁掩其口，曰:"毋妄言，族矣!"梁以此奇籍。（《史记•项羽本纪》）
+          - ancient: 【高考题例】邓愈镇江西，数延见，奇其才，荐之。（《明史•熊鼎传》）
+          - ancient: 【高考题例】奇其才，俾将兵略地，所至辄克。（《明史•花云传》）
+
+  - word: 奇
+    type: 【形容词】
+    phonetic: qi2
+    tags:
+      - 高中
+    samples:
+      - trans: ❶奇妙;稀奇。
+        sentences:
+          - ancient: 以赂秦之地，封天下之谋臣，以事秦之心，礼天下之奇才，并力西向，则吾恐秦人食之不得下咽也。（《六国论》）
+          - ancient: 市中游侠儿得佳者笼养之，昂其直（同"值"，价格），居为奇货。（《促织》）
+          - ancient: 余与四人拥火以入，入之愈深，其进愈难，而其见愈奇。（《游褒禅山记》）
+      - trans: ❷出乎意料而使人不测。
+        sentences:
+          - ancient: 愿足下假（给予）臣奇兵三万人。（《史记•淮阴侯列传》）
+
+  - word: 奇
+    type: 【副词】
+    phonetic: qi2
+    tags:
+      - 高中
+    samples:
+      - trans: 极;甚。
+        sentences:
+          - ancient: 翩翩三青鸟，毛色奇可怜（喜爱）。（晋•陶渊明《读〈山海经〉》）
+
+  - word: 奇
+    type: 【名词】
+    phonetic: ji1
+    tags:
+      - 高中
+    samples:
+      - trans: ❶单数（与"偶""耦"相对）。
+        sentences:
+          - ancient: 每奇日未尝不视朝。（《资治通鉴•唐纪五十九》）
+          - ancient: 阳卦奇，阴卦耦。（《周易•系辞下》）
+      - trans: ❷零头;余数。
+        sentences:
+          - ancient: 舟首尾长约八分有奇，高可二黍许。（《核舟记》）
+
+  - word: 奇
+    type: 【形容词】
+    phonetic: ji1
+    tags:
+      - 高中
+    samples:
+      - trans: 命运不好。
+        sentences:
+          - ancient: 数奇谪关塞，道广存箕颍。（唐•杜甫《西枝村寻置草堂地夜宿赞公土室》）
+          - ancient: 大将军青亦阴受上诫，以为李广老，数奇，毋令当单于，恐不得所欲。（《史记•李将军列传》）

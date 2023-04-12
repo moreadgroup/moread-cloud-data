@@ -1,13 +1,34 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 迫
+    type: 【动词】
+    phonetic: po4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶接近;逼近。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 今少卿抱不测之罪，涉旬月，迫季冬（农历十二月）。（《报任安书》）
+          - ancient: 迫而视之，乃前寄辞者。（《柳毅传》）
+          - ancient: 时北兵已迫修门外，战、守、迁皆不及施。（《〈指南录〉后序》）
+      - trans: ❷逼迫。
+        sentences:
+          - ancient: 我自不驱卿，逼迫有阿母。（《孔雀东南飞》）
+          - ancient: 郡县逼迫，催臣上道。（《陈情表》）
+      - trans: ❸催促。
+        sentences:
+          - ancient: 能事不受相促迫，王宰始肯留真迹。（唐•杜甫《戏题王宰画山水图歌》）
+
+  - word: 迫
+    type: 【形容词】
+    phonetic: po4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶危急;紧急。
+        sentences:
+          - ancient: 此迫矣！臣请入，与之同命（同生共死）。（《鸿门宴》）
+          - ancient: 贼围之甚迫，夫人慌了。（《西厢记》五本三折）
+      - trans: ❷狭窄。
+        sentences:
+          - ancient: 当今西州地势局迫，人兵离散，易以辅人，难以自建。（《后汉书•窦融传》）

@@ -1,13 +1,43 @@
 ---
 words:
-  - word: xxxx
+  - word: 启
     type: 【名词】
-    phonetic: xx1
+    phonetic: qi3
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: 古代一种文体，书函。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 至魏国笺记，始云"<启>闻"；奏事之末，或云"谨<启>"。（《文心雕龙•奏启》）
+
+  - word: 启
+    type: 【动词】
+    phonetic: qi3
+    tags:
+      - 高中
+    samples:
+      - trans: ❶开启;打开。
+        sentences:
+          - ancient: 启窗而观，雕栏相望焉。（《核舟记》）
+          - ancient: 狱中成法，质明（黎明）启钥。（《狱中杂记》）
+      - trans: ❷萌芽。
+        sentences:
+          - ancient: 繁启蕃长于春夏，畜积收藏于秋冬。（《荀子•天论》）
+      - trans: ❸陈述;禀告。
+        sentences:
+          - ancient: 府吏得闻之，堂上启阿母。（《孔雀东南飞》）
+          - ancient: 某启：昨日蒙教，窃以为……（宋.王安石《答司马谏议书》）
+      - trans: ❹开始;产生。
+        sentences:
+          - ancient: 初伏启新节，隆暑方赫羲。（晋•潘岳《在怀县作》之一）
+          - ancient: 齐亡之迹，启于是矣。（《颜氏家训•慕贤》）
+      - trans: ❺开导;启发。
+        sentences:
+          - ancient: 天诱其衷，启敝邑心。（《左传•襄公二十五年》）
+          - ancient: 不愤不启，举一隅不以三隅反，则弗复也。（《史记•孔子世家》）
+      - trans: ❻幵拓;幵辟。
+        sentences:
+          - ancient: 齐桓公并国三十，启地三千里。（《韩非子•有度》）
+      - trans: ❼跪。
+        sentences:
+          - ancient: 王事靡（无，不）盬（gu3，停止），不遑（空闲）启处。（《诗经•小龍•四牡》）

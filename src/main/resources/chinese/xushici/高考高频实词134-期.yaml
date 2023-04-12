@@ -1,13 +1,57 @@
 ---
 words:
-  - word: xxxx
+  - word: 期
     type: 【名词】
-    phonetic: xx1
+    phonetic: qi1
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶时日；日期。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 业根，死期至矣！（《促织》）
+      - trans: ❷期限;限定或约定的时间。
+        sentences:
+          - ancient: 匪我愆期，子无良媒。（《诗经•卫风•氓》）
+          - ancient: 会（恰逢）天大雨，道不通，度（duo2，估计）已失期。（《陈涉世家》）
+
+  - word: 期
+    type: 【动词】
+    phonetic: qi1
+    tags:
+      - 高中
+    samples: 
+      - trans: ❶希望;期望
+        sentences:
+          - ancient: 是以圣人不期修古，不法常可。（《韩非子•五蠹》）
+          - ancient: 彼于刑者、缚者，非相仇也，期有得耳。（《狱中杂记》）
+      - trans: ❷约定;约会。
+        sentences:
+          - ancient: 不期而会盟津者八百诸侯。（《史记•周本纪》）
+          - ancient: 今夜半，方期我决斗某所。（《大铁椎传》）
+          - ancient: 令四面骑驰下，期山东为三处。（《项羽之死》）
+          - ancient: 【高考题例】独念二三友朋，乖隔异地，会合不可以期。（清•方苞《与王昆绳书》）
+      - trans: ❸约定具体的时日。
+        sentences:
+          - ancient: <期>，<期>而不至，无赦。（《左传•僖公二十三年》）
+      - trans: ❹及;到。
+        sentences:
+          - ancient: 比期三年，果有越裳氏（古代南海国名）重九译（多次辗转翻译，形容经过很多囱家）而至。（《韩诗外传》卷五）
+          - ancient: 况修短随化，终期于尽！（《兰亭集序》）
+      - trans: ❺等待;待命。
+        sentences:
+          - ancient: 奔走而陈兵车者，期也。（《孙子兵法•行军》）
+
+  - word: 期
+    type: 【名词】
+    phonetic: ji1
+    tags:
+      - 高中
+    samples:
+      - trans: ❶同"碁"。一周年。
+        sentences:
+          - ancient: 旧谷既没，新谷既升，钻燧改火，期可已矣。（《论语・阳货》）
+          - ancient: 期年之后，虽欲言，无可进者。（《邹忌讽齐王纳谏》）
+          - ancient: 【高考题例】令行于民期年，秦民之国都言初令之不便者以千数。（《史记•商君列传》）
+      - trans: ❷期服;为死去的祖父母等亲属服一年的丧。
+        sentences:
+          - ancient: 外无期功（大功、小功的丧服，即九个月、五个月的丧服）强近之亲；内无应门五尺之僮，茕茕孑立，形影相吊。（《陈情表》）

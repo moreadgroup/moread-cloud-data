@@ -1,8 +1,8 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 起
+    type: 【动词】
+    phonetic: qi3
     tags:
       - 高中
     samples:
@@ -11,3 +11,54 @@ words:
           - ancient: xxx
             url: xxxx
             vernacular: xxxx
+
+      - trans: ❶站起;起立。
+        sentences:
+          - ancient: 坐须臾，沛公起如厕。（《鸿门宴》）
+          - ancient: 屠暴（突然）起，以刀劈狼首，又数刀毙之。（《狼》）
+          - ancient: 未至身，繁王惊，自引而起，绝袖。（《荆轲刺秦王》）
+      - trans: ❷起床。
+        sentences:
+          - ancient: 寡妇起彷徨。（《孔雀东南飞》）
+          - ancient: 夫<起>大呼，妇亦<起>大呼。（《口技》）
+      - trans: ❸兴起;发动。
+        sentences:
+          - ancient: 不然，祸且起。（《史记•吕太后本纪》）
+          - ancient: 海内大乱，将军起兵江东，刘豫州（刘备）收众汉南，与曹操共争天下。（《资治通鉴•汉，纪"五"十七》）
+          - ancient: 群臣惊愕，卒起不意，尽失其度。（《荆轲刺秦王》）
+      - trans: ❹举用;征聘。
+        sentences:
+          - ancient: 或时起白屋之士，以璧迎礼之。（《论衡•语增》）
+          - ancient: 山居耕田苦，难以得食。起而为吏，身贪鄙者余财，不顾耻辱。（《史记•滑稽列传》）
+      - trans: ❺起事。
+        sentences:
+          - ancient: 山东豪俊遂并起而亡秦族矣。（《过秦论》）
+          - ancient: 政治未毕通也，远方之能疑者，并举而争起矣。（《论积贮疏》）
+          - ancient: 项籍者，下相人也，字羽。初起时，年二十四。（《史记•项羽本纪》）
+          - ancient: 秦之纲绝而维弛，山东大扰，异姓并起，英俊乌集。（《史记•淮阴侯列传》）
+      - trans: ❻出身。
+        sentences:
+          - ancient: 大王起微细，诛暴逆，平定四海，有功者辄裂地而封为王侯。（《史记•高祖本纪》）
+          - ancient: 萧何、曹参皆起秦刀笔吏，当时录录（同"碌碌"，平庸）未有奇节。（《汉书•萧何曹参传》）
+      - trans: ❼兴建。
+        sentences:
+          - ancient: 十四年春正月，起南宫前殿。（《后汉书•光武帝纪》）
+      - trans: ❽启发。
+        sentences:
+          - ancient: 子曰:"起予者商也，始可与言诗已矣。"（《论语•八佾》）
+          - ancient: 奚仲感蜚（通"飞"）蓬，而仓颉起鸟迹也。（《论衡•感类》）
+      - trans: ❾竖起：隆起。
+        sentences:
+          - ancient: 二公命邦人，凡大木所偃，尽起而筑之。（《尚书•金滕》）
+          - ancient: 惟一石顶壁起犹数十丈，澄源（人名）寻视其侧，得级，挟予以登。（明•徐霞客《游黄山日记》）
+          - ancient: 执图诣寺后，有古陵蔚起。（《促织》）
+
+  - word: 起
+    type: 【量词】
+    phonetic: qi3
+    tags:
+      - 高中
+    samples:
+      - trans: 群;伙。
+        sentences:
+          - ancient: 据田毂一起人除已叙用外，但未经任用身死，并与复旧官爵。（《金史•孟浩传》）

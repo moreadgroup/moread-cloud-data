@@ -1,13 +1,52 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 仆
+    type: 【动词】
+    phonetic: pu1
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶向前倒下。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 樊哙侧其盾以撞，卫士仆地。（《鸿门宴》）
+      - trans: ❷泛指倒下。
+        sentences:
+          - ancient: 既已消仆，还合粪土。（《后汉书•赵咨传》）
+      - trans: ❸打倒。
+        sentences:
+          - ancient: 众不能堪，抶（chi4，击）而仆之。（《五人墓碑记》）
+
+  - word: 仆
+    type: 【名词】
+    phonetic: pu2
+    tags:
+      - 高中
+    samples:
+
+      - trans: ❶奴隶的一个等级。
+        sentences:
+          - ancient: 僚臣<仆>，<仆>臣台。（《左传•昭公七年》）
+      - trans: ❷泛指奴隶、仆役。
+        sentences:
+          - ancient: 民之无辜，并其臣仆。（《诗经•小雅•正月》）
+          - ancient: 命仆安排新暖阁，呼童熨贴旧寒衣。（宋•刘克庄《冬景》）
+          - ancient: 时夫仆俱阻险行后，余亦停弗上。（明•徐霞客《游黄山日记》）
+          - ancient: 僮仆欢迎，稚子候门。三径就荒，松菊犹存。（《归去来兮辞》）
+      - trans: ❸车夫;驾车的人。
+        sentences:
+          - ancient: 将适陈，过匡，颜刻为仆。（《史记•孔子世家》）
+          - ancient: 晏子授绥而乘，其仆将驰。（《吕氏春秋•知分》）
+      - trans: ❹自称的谦辞。
+        sentences:
+          - ancient: 仆非敢如是也。（《报任安书》）
+
+  - word: 仆
+    type: 【代词】
+    phonetic: pu2
+    tags:
+      - 高中
+    samples:
+      - trans: 谦称自己。
+        sentences:
+          - ancient: 意气勤勤恳恳，若望（你埋怨）仆不相师，而用流俗人之言。（《报任安书》）
+          - ancient: 假令仆伏法受诛，若九牛亡（失去）一毛，与蝼蚁何以（有什么）异？（《报任安书》），
