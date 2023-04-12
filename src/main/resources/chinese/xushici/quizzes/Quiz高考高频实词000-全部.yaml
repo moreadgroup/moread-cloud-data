@@ -1,243 +1,124 @@
 ---
 quizzes:
-  - word: 期
-    type: 【名词】
-    phonetic: qi1
-    trans: ❶时日；日期。
-    ancient: 业根，死<期>至矣！（《促织》）
-    url: xxxx
-    vernacular: 祸根，你的死期到了！
-  - word: 期
-    type: 【名词】
-    phonetic: qi1
-    trans: ❷期限;限定或约定的时间。
-    ancient: 匪我愆<期>，子无良媒。（《诗经•卫风•氓》）
-    url: xxxx
-    vernacular: 并非我要拖延约定的婚期而不肯嫁，是因为你没有找好媒人。
-  - word: 期
-    type: 【名词】
-    phonetic: qi1
-    trans: ❷期限;限定或约定的时间。
-    ancient: 会（恰逢）天大雨，道不通，度（duo2，估计）已失<期>。（《陈涉世家》）
-    url: xxxx
-    vernacular: 恰巧遇到天下大雨，道路不通，估计已经误期。
-  - word: 期
-    type: 【动词】
-    phonetic: qi1
-    trans: ❶希望;期望
-    ancient: 是以圣人不<期>修古，不法常可。（《韩非子•五蠹》）
-    url: xxxx
-    vernacular: 因此，圣人不期望照搬古法，不死守陈规旧俗
-  - word: 期
-    type: 【动词】
-    phonetic: qi1
-    trans: ❶希望;期望
-    ancient: 彼于刑者、缚者，非相仇也，<期>有得耳。（《狱中杂记》）
-    url: xxxx
-    vernacular: 他们跟那些被处决、被捆绑的人，不是有什么仇恨，只不过希望得到一点财物而已
-  - word: 期
-    type: 【动词】
-    phonetic: qi1
-    trans: ❷约定;约会。
-    ancient: 不<期>而会盟津者八百诸侯。（《史记•周本纪》）
-    url: xxxx
-    vernacular: 竟然没有约定就有八百诸侯到孟津相会
-  - word: 期
-    type: 【动词】
-    phonetic: qi1
-    trans: ❷约定;约会。
-    ancient: 今夜半，方<期>我决斗某所。（《大铁椎传》）
-    url: xxxx
-    vernacular: 今晚半夜，强盗们正约定和我到某个地方决斗。
-  - word: 期
-    type: 【动词】
-    phonetic: qi1
-    trans: ❷约定;约会。
-    ancient: 令四面骑驰下，<期>山东为三处。（《项羽之死》）
-    url: xxxx
-    vernacular: 命令四面骑士驱马飞奔而下，约定冲到山的东边，分作三处集合。
-  - word: 期
-    type: 【动词】
-    phonetic: qi1
-    trans: ❷约定;约会。
-    ancient: 【高考题例】独念二三友朋，乖隔异地，会合不可以<期>。（清•方苞《与王昆绳书》）
-    url: xxxx
-    vernacular: 唯独挂念几位好友，只能远隔异地，也不知何时才能相见
-  - word: 期
-    type: 【动词】
-    phonetic: qi1
-    trans: ❸约定具体的时日。
-    ancient: <期>，<期>而不至，无赦。（《左传•僖公二十三年》）
-    url: xxxx
-    vernacular: 约定具体的时日，到了约定的日期还不回來，那么处罚就是“无赦”，不予赦免。
-  - word: 期
-    type: 【动词】
-    phonetic: qi1
-    trans: ❹及;到。
-    ancient: 比<期>三年，果有越裳氏（古代南海国名）重九译（多次辗转翻译，形容经过很多国家）而至。（《韩诗外传》卷五）
-    url: xxxx
-    vernacular: 等到三年，
-  - word: 期
-    type: 【动词】
-    phonetic: qi1
-    trans: ❹及;到。
-    ancient: 况修短随化，终<期>于尽！（《兰亭集序》）
-    url: xxxx
-    vernacular: 况且寿命长短，听凭造化，最后归结于消灭。
-  - word: 期
-    type: 【动词】
-    phonetic: qi1
-    trans: ❺等待;待命。
-    ancient: 奔走而陈兵车者，<期>也。（《孙子兵法•行军》）
-    url: xxxx
-    vernacular: 敌方急速奔走并展开兵车的，是期求与我交战。
-  - word: 期
-    type: 【名词】
-    phonetic: ji1
-    trans: ❶同"碁"。一周年。
-    ancient: 旧谷既没，新谷既升，钻燧改火，<期>可已矣。（《论语・阳货》）
-    url: xxxx
-    vernacular: "陈谷已经吃完,新谷已经登场,钻火改用木料经过了一个轮回,满一年也就可以结束了。"
-  - word: 期
-    type: 【名词】
-    phonetic: ji1
-    trans: ❶同"碁"。一周年。
-    ancient: <期>年之后，虽欲言，无可进者。（《邹忌讽齐王纳谏》）
-    url: xxxx
-    vernacular: 一年以后，即使想进言，也没有什么可说的了。
-  - word: 期
-    type: 【名词】
-    phonetic: ji1
-    trans: ❶同"碁"。一周年。
-    ancient: 【高考题例】令行于民<期>年，秦民之国都言初令之不便者以千数。（《史记•商君列传》）
-    url: xxxx
-    vernacular: 新法在民间施行了整一年，秦国老百姓到国都说新法不方便的人数以千计。
-  - word: 期
-    type: 【名词】
-    phonetic: ji1
-    trans: ❷期服;为死去的祖父母等亲属服一年的丧。
-    ancient: 外无<期>功（大功、小功的丧服，即九个月、五个月的丧服）强近之亲；内无应门五尺之僮，茕茕孑立，形影相吊。（《陈情表》）
-    url: xxxx
-    vernacular: 在外面没有任何近亲，在家里又没有照应门户的童仆。
   - word: 奇
     type: 【名词】
     phonetic: qi2
     trans: ❶奇妙的稀奇的事物。
     ancient: 而有<奇>若此，前未一探。（明•徐霞客《游黄山日记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 而有这样的奇景，前次游山却未来探访
   - word: 奇
     type: 【名词】
     phonetic: qi2
     trans: ❷泛指出人意表的计谋或策略等。
     ancient: 权谋者，以正守国，以<奇>用兵。（《汉书•艺文志》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "以无为、清静之道去治理国家,以奇巧、诡秘的办法去用兵"
   - word: 奇
     type: 【动词】
     phonetic: qi2
     trans: 以为奇妙;认为奇特。
     ancient: 大将军邓骘（zhi4）<奇>其才，累召不应。（《张衡传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 大将军邓骘认为他的才能出众，屡次征召他，他也不去应召。
   - word: 奇
     type: 【动词】
     phonetic: qi2
     trans: 以为奇妙;认为奇特。
     ancient: 每闻琴瑟之声，则应节而舞，益<奇>之。（《促织》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "每当听到琴瑟的弦音,就会随着节奏（旋律）翩然起舞,（某某）更加的感到神奇."
   - word: 奇
     type: 【动词】
     phonetic: qi2
     trans: 以为奇妙;认为奇特。
     ancient: 梁掩其口，曰:"毋妄言，族矣!"梁以此<奇>籍。（《史记•项羽本纪》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 项梁急忙捂住他的嘴，说：“不要胡说，要满门抄斩的！”但项梁却因此而感到项籍很不一般。
   - word: 奇
     type: 【动词】
     phonetic: qi2
     trans: 以为奇妙;认为奇特。
     ancient: 【高考题例】邓愈镇江西，数延见，<奇>其才，荐之。（《明史•熊鼎传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 邓愈镇守江西的时候，多次邀请熊鼎相会，为他的才能感到惊奇，（向朝廷）推荐他。
   - word: 奇
     type: 【动词】
     phonetic: qi2
     trans: 以为奇妙;认为奇特。
     ancient: 【高考题例】<奇>其才，俾将兵略地，所至辄克。（《明史•花云传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 太祖认为他是个奇才，就让他带兵攻占城邑，所到之处总被攻克。
   - word: 奇
     type: 【形容词】
     phonetic: qi2
     trans: ❶奇妙;稀奇。
     ancient: 以赂秦之地，封天下之谋臣，以事秦之心，礼天下之<奇>才，并力西向，则吾恐秦人食之不得下咽也。（《六国论》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 如果六国诸侯用贿赂秦国的土地来封给天下的谋臣，用侍奉秦国的心来礼遇天下的奇才，齐心合力地向西对付秦国，那么，我恐怕秦国人饭都不能咽下去。
   - word: 奇
     type: 【形容词】
     phonetic: qi2
     trans: ❶奇妙;稀奇。
     ancient: 市中游侠儿得佳者笼养之，昂其直（同"值"，价格），居为<奇>货。（《促织》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 于是市上的那些游手好闲的年轻人，捉到好的蟋蟀就用竹笼装着喂养它，抬高它的价格；储存起来，当作珍奇的货物一样等待高价出售。
   - word: 奇
     type: 【形容词】
     phonetic: qi2
     trans: ❶奇妙;稀奇。
     ancient: 余与四人拥火以入，入之愈深，其进愈难，而其见愈<奇>。（《游褒禅山记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 我与四个人打着火把走进去，进去越深，前进越困难，而所见到的景象越奇妙。
   - word: 奇
     type: 【形容词】
     phonetic: qi2
     trans: ❷出乎意料而使人不测。
     ancient: 愿足下假（给予）臣<奇>兵三万人。（《史记•淮阴侯列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 希望您临时调拨三万奇兵给我
   - word: 奇
     type: 【副词】
     phonetic: qi2
     trans: 极;甚。
     ancient: 翩翩三青鸟，毛色<奇>可怜（喜爱）。（晋•陶渊明《读〈山海经〉》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 翩翩飞舞三青鸟，毛色鲜明甚好看。
   - word: 奇
     type: 【名词】
     phonetic: ji1
     trans: ❶单数（与"偶""耦"相对）。
-    ancient: 每<奇>日未尝不视朝。（《资治通鉴•唐纪五十九》）
+    ancient: "每<奇>日未尝不视朝，对宰相群臣延访政事,久之方罢。（《资治通鉴•唐纪五十九》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: "每逢单日都去上朝,向宰相和群臣百官访询朝政大事,很晚才罢朝。"
   - word: 奇
     type: 【名词】
     phonetic: ji1
     trans: ❶单数（与"偶""耦"相对）。
     ancient: 阳卦<奇>，阴卦耦。（《周易•系辞下》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "阳卦中阳爻为单数,阴卦中阳爻为双数"
   - word: 奇
     type: 【名词】
     phonetic: ji1
     trans: ❷零头;余数。
     ancient: 舟首尾长约八分有<奇>，高可二黍许。（《核舟记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 船头到船尾大约长八分多一点，大约有两个黄米粒那么高。
   - word: 奇
     type: 【形容词】
     phonetic: ji1
     trans: 命运不好。
     ancient: 数<奇>谪关塞，道广存箕颍。（唐•杜甫《西枝村寻置草堂地夜宿赞公土室》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 数奇：命运不好。谪：贬谪。
   - word: 奇
     type: 【形容词】
     phonetic: ji1
     trans: 命运不好。
     ancient: 大将军青亦阴受上诫，以为李广老，数<奇>，毋令当单于，恐不得所欲。（《史记•李将军列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 大将军卫青曾暗中受到皇上的警告，认为李广年老，命运不好，不要让他与单于对敌，恐怕不能实现俘获单于的愿望。
   - word: 启
     type: 【名词】
     phonetic: qi3
