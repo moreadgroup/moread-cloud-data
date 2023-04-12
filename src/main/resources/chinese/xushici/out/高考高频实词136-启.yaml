@@ -1,13 +1,66 @@
 ---
 words:
-  - word: xxxx
+  - word: 启
     type: 【名词】
-    phonetic: xx1
+    phonetic: qi3
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: 古代一种文体，书函。
         sentences:
-          - ancient: xxx
+          - ancient: 至魏国笺记，始云"<启>闻"；奏事之末，或云"谨<启>"。（《文心雕龙•奏启》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 启
+    type: 【动词】
+    phonetic: qi3
+    tags:
+      - 高中
+    samples:
+      - trans: ❶开启;打开。
+        sentences:
+          - ancient: <启>窗而观，雕栏相望焉。（《核舟记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 狱中成法，质明（黎明）<启>钥。（《狱中杂记》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷萌芽。
+        sentences:
+          - ancient: 繁<启>蕃长于春夏，畜积收藏于秋冬。（《荀子•天论》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸陈述;禀告。
+        sentences:
+          - ancient: 府吏得闻之，堂上<启>阿母。（《孔雀东南飞》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 某<启>：昨日蒙教，窃以为……（宋.王安石《答司马谏议书》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹开始;产生。
+        sentences:
+          - ancient: 初伏<启>新节，隆暑方赫羲。（晋•潘岳《在怀县作》之一）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 齐亡之迹，<启>于是矣。（《颜氏家训•慕贤》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❺开导;启发。
+        sentences:
+          - ancient: 天诱其衷，<启>敝邑心。（《左传•襄公二十五年》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 不愤不<启>，举一隅不以三隅反，则弗复也。（《史记•孔子世家》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❻幵拓;幵辟。
+        sentences:
+          - ancient: 齐桓公并国三十，<启>地三千里。（《韩非子•有度》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❼跪。
+        sentences:
+          - ancient: 王事靡（无，不）盬（gu3，停止），不遑（空闲）<启>处。（《诗经•小龍•四牡》）
             url: xxxx
             vernacular: xxxx

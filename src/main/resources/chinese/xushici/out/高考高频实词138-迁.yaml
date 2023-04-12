@@ -1,13 +1,52 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 迁
+    type: 【动词】
+    phonetic: qian1
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶迁移。
         sentences:
-          - ancient: xxx
+          - ancient: 以尔车来，以我贿（财物）<迁>。（《诗经•卫风•氓》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 时北兵已迫修门外，战、守、<迁>皆不及施。（《〈指南录〉后序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】其牧守稍薄，则又移居，故其<迁>徙者，盖十余州焉。（《旧唐书•李揆传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷变动;变更。
+        sentences:
+          - ancient: 故主施赏不<迁>，行诛无赦。（《韩非子•五蠹》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 及其所之既倦，情随事<迁>，感慨系之矣。（《兰亭集序》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸调动官职;升职。
+        sentences:
+          - ancient: 安帝雅闻（张）衡善术学，公车特征拜郎中，再<迁>为太史令。（《张衡传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 而翁长铨（主管选拔官吏），<迁>我京职，则汝朝夕侍母。（明•崔铣《记王忠肃公翱事》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 少以父任，兄弟并为郎。稍<迁>至栘中厩监。（《苏武传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】孝文帝说之，超<迁>，一岁中至太中大夫。（《史记•屈原贾生列传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹贬谪;放逐。
+        sentences:
+          - ancient: 令尹子兰闻之大怒，卒使上官大夫短（说坏话）屈原于顷襄王，顷襄王怒而<迁>之。（《史记•屈原贾生列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 然则北通巫峡，南极潇湘，<迁>客骚人，多会于此，览物之情，得无异乎？（《岳阳楼记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 然陈涉瓮牖绳枢之子，氓隶之人，而<迁>徙之徒也。（《过秦论》）
             url: xxxx
             vernacular: xxxx

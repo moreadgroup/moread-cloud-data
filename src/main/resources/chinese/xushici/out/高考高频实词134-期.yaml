@@ -1,13 +1,89 @@
 ---
 words:
-  - word: xxxx
+  - word: 期
     type: 【名词】
-    phonetic: xx1
+    phonetic: qi1
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶时日；日期。
         sentences:
-          - ancient: xxx
+          - ancient: 业根，死<期>至矣！（《促织》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷期限;限定或约定的时间。
+        sentences:
+          - ancient: 匪我愆<期>，子无良媒。（《诗经•卫风•氓》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 会（恰逢）天大雨，道不通，度（duo2，估计）已失<期>。（《陈涉世家》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 期
+    type: 【动词】
+    phonetic: qi1
+    tags:
+      - 高中
+    samples:
+      - trans: ❶希望;期望
+        sentences:
+          - ancient: 是以圣人不<期>修古，不法常可。（《韩非子•五蠹》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 彼于刑者、缚者，非相仇也，<期>有得耳。（《狱中杂记》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷约定;约会。
+        sentences:
+          - ancient: 不<期>而会盟津者八百诸侯。（《史记•周本纪》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 今夜半，方<期>我决斗某所。（《大铁椎传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 令四面骑驰下，<期>山东为三处。（《项羽之死》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】独念二三友朋，乖隔异地，会合不可以<期>。（清•方苞《与王昆绳书》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸约定具体的时日。
+        sentences:
+          - ancient: <期>，<期>而不至，无赦。（《左传•僖公二十三年》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹及;到。
+        sentences:
+          - ancient: 比<期>三年，果有越裳氏（古代南海国名）重九译（多次辗转翻译，形容经过很多囱家）而至。（《韩诗外传》卷五）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 况修短随化，终<期>于尽！（《兰亭集序》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❺等待;待命。
+        sentences:
+          - ancient: 奔走而陈兵车者，<期>也。（《孙子兵法•行军》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 期
+    type: 【名词】
+    phonetic: ji1
+    tags:
+      - 高中
+    samples:
+      - trans: ❶同"碁"。一周年。
+        sentences:
+          - ancient: 旧谷既没，新谷既升，钻燧改火，<期>可已矣。（《论语・阳货》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <期>年之后，虽欲言，无可进者。（《邹忌讽齐王纳谏》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】令行于民<期>年，秦民之国都言初令之不便者以千数。（《史记•商君列传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷期服;为死去的祖父母等亲属服一年的丧。
+        sentences:
+          - ancient: 外无<期>功（大功、小功的丧服，即九个月、五个月的丧服）强近之亲；内无应门五尺之僮，茕茕孑立，形影相吊。（《陈情表》）
             url: xxxx
             vernacular: xxxx

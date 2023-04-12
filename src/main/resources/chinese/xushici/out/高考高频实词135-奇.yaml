@@ -1,13 +1,107 @@
 ---
 words:
-  - word: xxxx
+  - word: 奇
     type: 【名词】
-    phonetic: xx1
+    phonetic: qi2
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶奇妙的稀奇的事物。
         sentences:
-          - ancient: xxx
+          - ancient: 而有<奇>若此，前未一探。（明•徐霞客《游黄山日记》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷泛指出人意表的计谋或策略等。
+        sentences:
+          - ancient: 权谋者，以正守国，以<奇>用兵。（《汉书•艺文志》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 奇
+    type: 【动词】
+    phonetic: qi2
+    tags:
+      - 高中
+    samples:
+      - trans: 以为奇妙;认为奇特。
+        sentences:
+          - ancient: 大将军邓骘（zhi4）<奇>其才，累召不应。（《张衡传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 每闻琴瑟之声，则应节而舞，益<奇>之。（《促织》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 梁掩其口，曰:"毋妄言，族矣!"梁以此<奇>籍。（《史记•项羽本纪》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】邓愈镇江西，数延见，<奇>其才，荐之。（《明史•熊鼎传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】<奇>其才，俾将兵略地，所至辄克。（《明史•花云传》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 奇
+    type: 【形容词】
+    phonetic: qi2
+    tags:
+      - 高中
+    samples:
+      - trans: ❶奇妙;稀奇。
+        sentences:
+          - ancient: 以赂秦之地，封天下之谋臣，以事秦之心，礼天下之<奇>才，并力西向，则吾恐秦人食之不得下咽也。（《六国论》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 市中游侠儿得佳者笼养之，昂其直（同"值"，价格），居为<奇>货。（《促织》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 余与四人拥火以入，入之愈深，其进愈难，而其见愈<奇>。（《游褒禅山记》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷出乎意料而使人不测。
+        sentences:
+          - ancient: 愿足下假（给予）臣<奇>兵三万人。（《史记•淮阴侯列传》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 奇
+    type: 【副词】
+    phonetic: qi2
+    tags:
+      - 高中
+    samples:
+      - trans: 极;甚。
+        sentences:
+          - ancient: 翩翩三青鸟，毛色<奇>可怜（喜爱）。（晋•陶渊明《读〈山海经〉》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 奇
+    type: 【名词】
+    phonetic: ji1
+    tags:
+      - 高中
+    samples:
+      - trans: ❶单数（与"偶""耦"相对）。
+        sentences:
+          - ancient: 每<奇>日未尝不视朝。（《资治通鉴•唐纪五十九》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 阳卦<奇>，阴卦耦。（《周易•系辞下》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷零头;余数。
+        sentences:
+          - ancient: 舟首尾长约八分有<奇>，高可二黍许。（《核舟记》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 奇
+    type: 【形容词】
+    phonetic: ji1
+    tags:
+      - 高中
+    samples:
+      - trans: 命运不好。
+        sentences:
+          - ancient: 数<奇>谪关塞，道广存箕颍。（唐•杜甫《西枝村寻置草堂地夜宿赞公土室》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 大将军青亦阴受上诫，以为李广老，数<奇>，毋令当单于，恐不得所欲。（《史记•李将军列传》）
             url: xxxx
             vernacular: xxxx
