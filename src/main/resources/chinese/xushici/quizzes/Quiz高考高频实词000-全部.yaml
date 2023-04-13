@@ -1,152 +1,47 @@
 ---
 quizzes:
-  - word: 去
-    type: 【动词】
-    phonetic: qu4
-    trans: ❶离开。
-    ancient: "十余日，高祖欲<去>,沛父兄固请留高祖。（《史记・高祖本纪》）"
-    url: xxxx
-    vernacular: "这样过了十多天,高祖打算要走了,沛地的父老兄弟坚持挽留高祖。"
-  - word: 去
-    type: 【动词】
-    phonetic: qu4
-    trans: ❶离开。
-    ancient: "因跳踉大㘎（han3,老虎吼叫的声音），断其喉，尽其肉，乃<去>。（《黔之驴》）"
-    url: xxxx
-    vernacular: 于是跳起来大吼了一声，咬断了驴的喉咙，吃光了它的肉，才离开。
-  - word: 去
-    type: 【动词】
-    phonetic: qu4
-    trans: ❶离开。
-    ancient: <去>以六月息者也。（《逍遥游》）
-    url: xxxx
-    vernacular: 乘着六月的风离开了北海。
-  - word: 去
-    type: 【动词】
-    phonetic: qu4
-    trans: ❶离开。
-    ancient: "登斯楼也,则有<去>国怀乡，忧谗畏讥，满目萧然，感极而悲者矣。（《岳阳楼记》）"
-    url: xxxx
-    vernacular: （这时）登上这座楼，就会有一种离开国都、怀念家乡，担心人家说坏话、惧怕人家批评指责，满眼都是萧条的景象，感慨到了极点而悲伤的心情。
-  - word: 去
-    type: 【动词】
-    phonetic: qu4
-    trans: ❷距离。
-    ancient: "当是时，项王军在鸿门下,沛公军在霸上，相<去>四十里。（《鸿门宴》）"
-    url: xxxx
-    vernacular: 这时候，项王的军队驻在鸿门，刘邦的军队驻在霸上，相距四十里。
-  - word: 去
-    type: 【动词】
-    phonetic: qu4
-    trans: ❷距离。
-    ancient: 西蜀之<去>南海，不知几千里矣。（《为学》）
-    url: xxxx
-    vernacular: 四川距离南海，不知道有几千里路
-  - word: 去
-    type: 【动词】
-    phonetic: qu4
-    trans: ❸除掉;抛弃。
-    ancient: <去>死肌，杀三虫。（《捕蛇者说》）
-    url: xxxx
-    vernacular: 去除坏死的肌肉，杀死人体内的寄生虫。
-  - word: 去
-    type: 【动词】
-    phonetic: qu4
-    trans: ❸除掉;抛弃。
-    ancient: 当横行天下，为汉家除残<去>秽。（《资治通鉴•汉纪五十七》）
-    url: xxxx
-    vernacular: 应当驰骋天下，替汉朝翦除残暴，去掉污秽
-  - word: 去
-    type: 【动词】
-    phonetic: qu4
-    trans: ❸除掉;抛弃。
-    ancient: "今居中国，<去>人伦,无君子，如之何其可也？（《孟子•告子下》）"
-    url: xxxx
-    vernacular: 今天立足于中原之国，抛弃人伦，不要管理社会的官吏，怎么能可以呢？
-  - word: 去
-    type: 【动词】
-    phonetic: qu4
-    trans: ❸除掉;抛弃。
-    ancient: 桓公行公<去>私恶，用管子而为五伯长。（《吕氏春秋•贵公》）
-    url: xxxx
-    vernacular: 齐桓公施行公正，重用管仲，于是成为春秋五霸之首。
-  - word: 去
-    type: 【动词】
-    phonetic: qu4
-    trans: ❹前往;前去。
-    ancient: 一为迁客<去>长沙，西望长安不见家。（唐•李白《与史郎中饮听黄鹤楼上吹笛》）
-    url: xxxx
-    vernacular: 一朝成为被贬谪之人要远去长沙，日日西望长安方向也看不见家。
-  - word: 去
-    type: 【动词】
-    phonetic: qu4
-    trans: ❺去世;死亡。
-    ancient: 日月还复周，我<去>不再阳。（晋•陶渊明《杂诗》）
-    url: xxxx
-    vernacular: 日月周而复始野草又会复生，我则一旦死去就不能重生世上。
-  - word: 去
-    type: 【动词】
-    phonetic: qu4
-    trans: ❻表示行为动作的趋向。
-    ancient: 只恐夜深花睡<去>，高烧银烛照红妆。（宋•苏轼《海棠》）
-    url: xxxx
-    vernacular: 由于只是害怕在这深夜时分，花儿就会睡去，因此燃着高高的蜡烛，不肯错过欣赏这海棠盛开的时机。
-  - word: 去
-    type: 【动词】
-    phonetic: qu4
-    trans: ❻表示行为动作的趋向。
-    ancient: 舞榭（建在高台上的木屋）歌台，风流总被雨打风吹<去>。（《永遇乐•京口北固亭怀古》）
-    url: xxxx
-    vernacular: 当年的舞榭歌台还在，英雄人物却随着岁月的流逝早已不复存在。
-  - word: 去
-    type: 【形容词】
-    phonetic: qu4
-    trans: 过去的。
-    ancient: 我从<去>年辞帝京，谪居卧病潯阳城。（《琵琶行》）
-    url: xxxx
-    vernacular: 自从去年我离开繁华长安京城，被贬居住在浔阳江畔便一直卧病。
   - word: 劝
     type: 【动词】
     phonetic: quan4
     trans: ❶勉励;奖励。
     ancient: 果行，国人皆<劝>。（《勾践灭吴》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "于是越国就果断地行动起来,全国上下都互相勉励。"
   - word: 劝
     type: 【动词】
     phonetic: quan4
     trans: ❶勉励;奖励。
     ancient: 顺于民心，所补者三:一曰主用足，二曰民赋少，三曰<劝>农功。（汉•晁错《论贵粟疏》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 依顺百姓心愿，有三个好处：一是君主需要的东西充足，二是百姓的赋税减少，三是鼓励从事农业生产。
   - word: 劝
     type: 【动词】
     phonetic: quan4
     trans: ❷劝说;劝导。
     ancient: 怀王稚子子兰<劝>王行。（《史记•屈原贾生列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 怀王的小儿子子兰劝怀王去
   - word: 劝
     type: 【动词】
     phonetic: quan4
     trans: ❷劝说;劝导。
     ancient: 时周瑜受使至番阳，肃<劝>权召瑜还。（《资治通鉴•汉纪五十七》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 当时周瑜接受使命到了番阳，鲁肃劝告孙权召周瑜回来。
   - word: 劝
     type: 【动词】
     phonetic: quan4
     trans: ❸努力。
     ancient: 若是则田野大辟，而农夫<劝>其事矣。（《管子•轻重乙》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 如此则荒地广为开垦，农夫也努力耕种了。
   - word: 劝
     type: 【动词】
     phonetic: quan4
     trans: ❸努力。
     ancient: 且举世誉之而不加<劝>，举世非之而不加沮。（《逍遥游》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 人们都赞誉他也不会让他感到鼓舞，世上所有的人都诽谤他，他也并不因此就感到沮丧
   - word: 阙
     type: 【名词】
     phonetic: que1
