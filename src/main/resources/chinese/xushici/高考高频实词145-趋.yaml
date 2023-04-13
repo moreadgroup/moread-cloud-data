@@ -8,23 +8,47 @@ words:
     samples:
       - trans: ❶快走。
         sentences:
-          - ancient: 其子趋而往视之,苗则槁（干枯）矣。（《孟子•公孙丑上》）
-          - ancient: 路旁一歧东上，乃昔序未至者，遂前趋直上，几达天都（山峰名）侧。（明•徐霞客《游黄山日记》）
+          - ancient: "其子<趋>而往视之,苗则槁（干枯）矣。（《孟子•公孙丑上》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 路旁一歧东上，乃昔序未至者，遂前<趋>直上，几达天都（山峰名）侧。（明•徐霞客《游黄山日记》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷小步快走，表示恭敬。
         sentences:
-          - ancient: 入而徐趋，至而自谢曰："老臣病足，曾（竟）不能疾走。"（《触龙说赵太后》）
-          - ancient: 毅起，趋拜之。（《柳毅传》）
-          - ancient: 他日趋庭，叨陪鲤对。（《滕王阁序》）
+          - ancient: 入而徐<趋>，至而自谢曰："老臣病足，曾（竟）不能疾走。"（《触龙说赵太后》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 毅起，<趋>拜之。（《柳毅传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 他日<趋>庭，叨陪鲤对。（《滕王阁序》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸趋向。
         sentences:
-          - ancient: 水潦（大雨）不同，故有清浊之流，东西南北之趋。（《论衡•术性》）
-          - ancient: 日削月割,以趋于亡。（《六国论》）
-          - ancient: 【高考题例】命趋宁国，兵陷山泽中八日，群盗相结梗道。（《明:史•花云传》）
-      - trans: ❹奔向。	
+          - ancient: 水潦（大雨）不同，故有清浊之流，东西南北之<趋>。（《论衡•术性》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "日削月割,以<趋>于亡。（《六国论》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】命<趋>宁国，兵陷山泽中八日，群盗相结梗道。（《明:史•花云传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹奔向。
         sentences:
-          - ancient: 夜趋高邮,迷失道，几陷死。（《〈指南录〉后序》）
-          - ancient: 又患无硕师名人与游，尝趋百里外，从乡之先达执经叩问。 （《送东阳马生序》）
+          - ancient: "夜<趋>高邮,迷失道，几陷死。（《〈指南录〉后序》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 又患无硕师名人与游，尝<趋>百里外，从乡之先达执经叩问。 （《送东阳马生序》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❺追求。
         sentences:
-          - ancient: 今背本而趋末，食者甚众,是天下之大残（害）也。（《论积贮疏》）
-          - ancient: 人固有一死，或重于泰山，或轻手鸿毛，用之所趋异也。（《报任安书》）
+          - ancient: "今背本而<趋>末，食者甚众,是天下之大残（害）也。（《论积贮疏》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 人固有一死，或重于泰山，或轻手鸿毛，用之所<趋>异也。（《报任安书》）
+            url: xxxx
+            vernacular: xxxx

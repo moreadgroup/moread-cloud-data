@@ -1,16 +1,681 @@
 ---
 quizzes:
-  - word: 枪
+  - word: 将
     type: 【名词】
     phonetic: qiang1
-    trans: 兵器名。
-    ancient: 银瓶乍破水浆迸，铁骑突出刀<枪>鸣。（《琵琶行》）
+    trans: 见丨22页"将㊂"。
+    ancient: xxx
     url: xxxx
-    vernacular: 突然间好像银瓶撞破水浆四溅；又好像铁甲骑兵厮杀刀枪齐鸣。
-  - word: 枪
+    vernacular: xxxx
+  - word: 窃
     type: 【动词】
-    phonetic: qiang1
-    trans: 触;撞。
-    ancient: 当此之时，见狱吏则头<枪>地，视徒隶则心惕息，何者？（《报任安书》）
+    phonetic: qie4
+    trans: 偷;盗。
+    ancient: 今有人于此，舍其文轩（装饰华美的车子），邻有敝舆（破车），而欲<窃>之。（《公编》）
     url: xxxx
-    vernacular: 在这种时候，看见狱吏就叩头触地，看见牢卒就恐惧喘息，这是为什么呢？
+    vernacular: 现在这里有一个人，舍弃他自己装饰华美的车，邻居有破车，却想要去偷；
+  - word: 窃
+    type: 【动词】
+    phonetic: qie4
+    trans: 偷;盗。
+    ancient: "偷桃<窃>药事难兼,十二城中锁彩蟾。（唐•李商隐《月夜重寄宋华阳姊妹》）"
+    url: xxxx
+    vernacular: 偷桃窃药是两件美事，可惜难两全。玉阳碧城十二楼，曾经幽禁过彩蟾。偷桃：道教传说，谣王母种桃，三千年一结子，东方朔曾三次偷食，被谪降人间。窃药：《淮南子·览冥训》载，后羿在西王母处求得不死的灵药，嫦娥偷服后奔入月宫中。 十二城：亦作十二楼、十二层城，道教传为仙人居处，此借指道观。彩蟾：神话传说月中有蟾蜍，因借以指月，此指代宋华阳姊妹。
+  - word: 窃
+    type: 【动词】
+    phonetic: qie4
+    trans: 偷;盗。
+    ancient: 今有一人，入人园圃，<窃>其桃李。（《墨子•非攻》）
+    url: xxxx
+    vernacular: 如果有一个人，进人家果园，偷人家桃李
+  - word: 窃
+    type: 【副词】
+    phonetic: qie4
+    trans: ❶偷偷地;暗地里。
+    ancient: 臣尝有罪，<窃>计欲亡走燕。（《廉颇蔺相如列传》）
+    url: xxxx
+    vernacular: 微臣曾犯过罪，私下打算逃亡到燕国去
+  - word: 窃
+    type: 【副词】
+    phonetic: qie4
+    trans: ❶偷偷地;暗地里。
+    ancient: 成有子九岁，窥父不在，<窃>发盆。（《促织》）
+    url: xxxx
+    vernacular: 成名有个儿子，年九岁，看到爸爸不在（家），偷偷打开盆子来看。
+  - word: 窃
+    type: 【副词】
+    phonetic: qie4
+    trans: ❷谦辞。私自；私下。
+    ancient: 老臣<窃>以为媪之爱燕后，贤（超过）于长安君。（《触龙说赵太后》）
+    url: xxxx
+    vernacular: "我私下认为,您疼爱燕后就超过了疼爱长安君。"
+  - word: 窃
+    type: 【副词】
+    phonetic: qie4
+    trans: ❷谦辞。私自；私下。
+    ancient: "昨曰蒙教,<窃>以为与君实（司马光，字君实）游处相好之日久，而议事每不合，所操之术多异故也。（宋•王安石《答司马谏议书》）"
+    url: xxxx
+    vernacular: 昨天承蒙（您来信）指教，我私下认为与君实您交往相好的日子很久了，但是议论起政事来（意见）常常不一致，（这是因为我们）所持的政治主张和方法大多不同的缘故啊。
+  - word: 窃
+    type: 【副词】
+    phonetic: qie4
+    trans: ❷谦辞。私自；私下。
+    ancient: 仆<窃>不逊，近自托于无能之辞，网罗天下放失旧闻。（《报任安书》）
+    url: xxxx
+    vernacular: 我私下里也自不量力，近来用我那不高明的文辞，收集天下散失的历史传闻
+  - word: 窃
+    type: 【副词】
+    phonetic: qie4
+    trans: ❷谦辞。私自；私下。
+    ancient: 寡人<窃>闻赵王好音，请奏瑟。（《廉颇蔺相如列传》）
+    url: xxxx
+    vernacular: 我私下里听说赵王爱好音乐，请您奏瑟一曲！
+  - word: 倾
+    type: 【动词】
+    phonetic: qing1
+    trans: ❶倾斜。
+    ancient: 余立侍左右，援疑质理，俯身<倾>耳以请。（《送东阳马生序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 倾
+    type: 【动词】
+    phonetic: qing1
+    trans: ❶倾斜。
+    ancient: 微闻有鼠作作索索，盆器<倾>侧。（《口技》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 倾
+    type: 【动词】
+    phonetic: qing1
+    trans: ❷倾倒;倒下。
+    ancient: 天台四万八千丈，对此欲倒东南<倾>。（《梦游天姥吟留别》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 倾
+    type: 【动词】
+    phonetic: qing1
+    trans: ❷倾倒;倒下。
+    ancient: 商旅不行，檣<倾>楫摧。（《岳阳楼记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 倾
+    type: 【动词】
+    phonetic: qing1
+    trans: ❸倒出。
+    ancient: 春江花朝秋月夜，往往取酒还独<倾>。（《琵琶行》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 倾
+    type: 【动词】
+    phonetic: qing1
+    trans: ❸倒出。
+    ancient: "见客但<倾>酒,为官不爱钱。（唐•李白《赠崔秋浦》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 倾
+    type: 【动词】
+    phonetic: qing1
+    trans: ❸倒出。
+    ancient: 请洒潘江，各<倾>陆海云尔。（《滕王阁序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 倾
+    type: 【动词】
+    phonetic: qing1
+    trans: ❹竭尽。
+    ancient: 每责一头，辄<倾>数家之产。（《促织》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 倾
+    type: 【动词】
+    phonetic: qing1
+    trans: ❺钦佩;佩服。
+    ancient: 【高考题例】忠义之声远近皆<倾>下之，金人不敢斥其名。（《宋史・赵立传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 倾
+    type: 【动词】
+    phonetic: qing1
+    trans: ❻倾覆;覆灭。
+    ancient: 此后汉所以<倾>颓也。（《出师表》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 倾
+    type: 【动词】
+    phonetic: qing1
+    trans: ❻倾覆;覆灭。
+    ancient: 汉室<倾>颓，奸臣窃命，主上蒙尘（指皇帝遭难出奔）。（《隆中对》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 倾
+    type: 【动词】
+    phonetic: qing1
+    trans: ❻倾覆;覆灭。
+    ancient: "盖均无贫,和无寡，安无<倾>。（《季氏将伐颛臾》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 倾
+    type: 【动词】
+    phonetic: qing1
+    trans: ❼尽情抒发;倾吐。
+    ancient: 高论几为衰俗废，壮怀难值故人<倾>。（宋•王安石《寄曾子固》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 倾
+    type: 【动词】
+    phonetic: qing1
+    trans: ❽倾轧;排挤。
+    ancient: 因其富厚，交通王侯，力过吏势，以利相<倾>。（汉•晁错《论贵粟疏》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 倾
+    type: 【动词】
+    phonetic: qing1
+    trans: ❽倾轧;排挤。
+    ancient: 则<倾>陷安石。（《宋史•苏辙传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 倾
+    type: 【动词】
+    phonetic: qing1
+    trans: ❾压倒;胜过。
+    ancient: 绛侯诛诸吕，权<倾>五伯，囚于请室。（《报任安书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 请
+    type: 【动词】
+    phonetic: qing3
+    trans: ❶请求。
+    ancient: 公子从其计，<请>如姬。（《史记•魏公子列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 请
+    type: 【动词】
+    phonetic: qing3
+    trans: ❶请求。
+    ancient: 君不如肉袒（脱去上衣，露出肩膀）伏斧质<请>罪。（《廉颇蔺相如列传》
+    url: xxxx
+    vernacular: xxxx
+  - word: 请
+    type: 【动词】
+    phonetic: qing3
+    trans: ❷邀请。
+    ancient: 乃谋令长公主置酒<请>（霍）光。（《汉书•霍光传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 请
+    type: 【动词】
+    phonetic: qing3
+    trans: ❸询问;请教。
+    ancient: 援疑质理，俯身倾耳以<请>。（《送东阳马生序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 请
+    type: 【动词】
+    phonetic: qing3
+    trans: ❹报告;请示。
+    ancient: 既而以吴民之乱<请>于朝。（《五人墓碑记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 请
+    type: 【动词】
+    phonetic: qing3
+    trans: ❹报告;请示。
+    ancient: 郡之贤士大夫<请>于当道，即除（整理）魏阉废祠之址以葬之。（《五人墓碑记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 请
+    type: 【动词】
+    phonetic: qing3
+    trans: ❺拜见;谒见。
+    ancient: "公子闻之，往<请>，欲厚遗（wei4,馈赠）之。（《史记•魏公子列传》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 请
+    type: 【动词】
+    phonetic: qing3
+    trans: ❺拜见;谒见。
+    ancient: 其造<请>诸公，不避寒暑。（《汉书•张汤传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 请
+    type: 【副词】
+    phonetic: qing3
+    trans: 表示恭敬。相当于"希望"。
+    ancient: 战则<请>从。（《曹刿论战》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 请
+    type: 【副词】
+    phonetic: qing3
+    trans: 表示恭敬。相当于"希望"。
+    ancient: 璧有瑕，<请>指示王。 （《廉颇蔺相如列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 穷
+    type: 【名词】
+    phonetic: qiong2
+    trans: 尽头。
+    ancient: 天高地迥（远），觉宇宙之无<穷>；兴尽悲来，识盈虚（盈满和亏损）之有数。（《滕王阁序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 穷
+    type: 【名词】
+    phonetic: qiong2
+    trans: 尽头。
+    ancient: 四时之景不同，乐亦无<穷>也。（《醉翁亭记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 穷
+    type: 【动词】
+    phonetic: qiong2
+    trans: ❶极;尽。
+    ancient: "而世又不与能死节者比，特以为智<穷>罪极,不能自免，卒就死耳。（《报任安书》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 穷
+    type: 【动词】
+    phonetic: qiong2
+    trans: ❶极;尽。
+    ancient: 轲既取图奉之，发图，图<穷>而匕首见。（《荆轲刺秦王》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 穷
+    type: 【动词】
+    phonetic: qiong2
+    trans: ❷寻求尽头;到达尽头。
+    ancient: "渔人甚异之,复前行，欲<穷>其林。（《桃花源记》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 穷
+    type: 【动词】
+    phonetic: qiong2
+    trans: ❷寻求尽头;到达尽头。
+    ancient: 问其深，则其好游者不能<穷>也。（《游褒禅山记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 穷
+    type: 【动词】
+    phonetic: qiong2
+    trans: ❸追究到底。
+    ancient: 事之至难解者，问之人以<穷>其短。（清•刘开《问说》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 穷
+    type: 【动词】
+    phonetic: qiong2
+    trans: ❹用尽。
+    ancient: <穷>予生之光阴以疗梅也哉！（《病梅馆记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 穷
+    type: 【动词】
+    phonetic: qiong2
+    trans: ❺遍及。
+    ancient: 渔舟唱晩，响<穷>彭蠡之滨。（《滕王阁序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 穷
+    type: 【形容词】
+    phonetic: qiong2
+    trans: ❶走投无路，陷入困境。
+    ancient: 人<穷>则反本，故劳苦倦极，未尝不呼天也。（《史记•屈原贾生列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 穷
+    type: 【形容词】
+    phonetic: qiong2
+    trans: ❶走投无路，陷入困境。
+    ancient: <穷>且益坚，不坠青云之志。（《滕王趋阁序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 穷
+    type: 【形容词】
+    phonetic: qiong2
+    trans: ❶走投无路，陷入困境。
+    ancient: <穷>则独善其身，达（得志）则兼济天下。（《孟子・尽心上》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 穷
+    type: 【形容词】
+    phonetic: qiong2
+    trans: ❶走投无路，陷入困境。
+    ancient: 人情同于怀土兮，岂<穷>达而异心？（汉•王粲《登楼赋》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 穷
+    type: 【形容词】
+    phonetic: qiong2
+    trans: ❶走投无路，陷入困境。
+    ancient: 樊将军以<穷>困来归丹，丹不忍以己之私，而伤长者之意，愿足下更虑之！（《荆轲刺秦王》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 穷
+    type: 【形容词】
+    phonetic: qiong2
+    trans: ❷生活贫穷。
+    ancient: 为宫室之美、妻妾之奉、所识<穷>乏者得（通"德"，感恩）我与？（《鱼我所欲也》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 穷
+    type: 【形容词】
+    phonetic: qiong2
+    trans: ❷生活贫穷。
+    ancient: 子孙习其家凤，今多<穷>困。（《训俭示康》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 趋
+    type: 【动词】
+    phonetic: qu1
+    trans: ❶快走。
+    ancient: "其子<趋>而往视之,苗则槁（干枯）矣。（《孟子•公孙丑上》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 趋
+    type: 【动词】
+    phonetic: qu1
+    trans: ❶快走。
+    ancient: 路旁一歧东上，乃昔序未至者，遂前<趋>直上，几达天都（山峰名）侧。（明•徐霞客《游黄山日记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 趋
+    type: 【动词】
+    phonetic: qu1
+    trans: ❷小步快走，表示恭敬。
+    ancient: 入而徐<趋>，至而自谢曰："老臣病足，曾（竟）不能疾走。"（《触龙说赵太后》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 趋
+    type: 【动词】
+    phonetic: qu1
+    trans: ❷小步快走，表示恭敬。
+    ancient: 毅起，<趋>拜之。（《柳毅传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 趋
+    type: 【动词】
+    phonetic: qu1
+    trans: ❷小步快走，表示恭敬。
+    ancient: 他日<趋>庭，叨陪鲤对。（《滕王阁序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 趋
+    type: 【动词】
+    phonetic: qu1
+    trans: ❸趋向。
+    ancient: 水潦（大雨）不同，故有清浊之流，东西南北之<趋>。（《论衡•术性》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 趋
+    type: 【动词】
+    phonetic: qu1
+    trans: ❸趋向。
+    ancient: "日削月割,以<趋>于亡。（《六国论》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 趋
+    type: 【动词】
+    phonetic: qu1
+    trans: ❸趋向。
+    ancient: 【高考题例】命<趋>宁国，兵陷山泽中八日，群盗相结梗道。（《明:史•花云传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 趋
+    type: 【动词】
+    phonetic: qu1
+    trans: ❹奔向。
+    ancient: "夜<趋>高邮,迷失道，几陷死。（《〈指南录〉后序》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 趋
+    type: 【动词】
+    phonetic: qu1
+    trans: ❹奔向。
+    ancient: 又患无硕师名人与游，尝<趋>百里外，从乡之先达执经叩问。 （《送东阳马生序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 趋
+    type: 【动词】
+    phonetic: qu1
+    trans: ❺追求。
+    ancient: "今背本而<趋>末，食者甚众,是天下之大残（害）也。（《论积贮疏》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 趋
+    type: 【动词】
+    phonetic: qu1
+    trans: ❺追求。
+    ancient: 人固有一死，或重于泰山，或轻手鸿毛，用之所<趋>异也。（《报任安书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 去
+    type: 【动词】
+    phonetic: qu4
+    trans: ❶离开。
+    ancient: "十余日，高祖欲<去>,沛父兄固请留高祖。（《史记・高祖本纪》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 去
+    type: 【动词】
+    phonetic: qu4
+    trans: ❶离开。
+    ancient: "因跳踉大㘎（han3,老虎吼叫的声音），断其喉，尽其肉，乃<去>。（《黔之驴》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 去
+    type: 【动词】
+    phonetic: qu4
+    trans: ❶离开。
+    ancient: <去>以六月息者也。（《逍遥游》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 去
+    type: 【动词】
+    phonetic: qu4
+    trans: ❶离开。
+    ancient: "登斯楼也,则有<去>国怀乡，忧谗畏讥，满目萧然，感极而悲者矣。（《岳阳楼记》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 去
+    type: 【动词】
+    phonetic: qu4
+    trans: ❷距离。
+    ancient: "当是时，项王军在鸿门下,沛公军在霸上，相<去>四十里。（《鸿门宴》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 去
+    type: 【动词】
+    phonetic: qu4
+    trans: ❷距离。
+    ancient: 西蜀之<去>南海，不知几千里矣。（《为学》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 去
+    type: 【动词】
+    phonetic: qu4
+    trans: ❸除掉;抛弃。
+    ancient: <去>死肌，杀三虫。（《捕蛇者说》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 去
+    type: 【动词】
+    phonetic: qu4
+    trans: ❸除掉;抛弃。
+    ancient: 当横行天下，为汉家除残<去>秽。（《资治通鉴•汉纪五十七》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 去
+    type: 【动词】
+    phonetic: qu4
+    trans: ❸除掉;抛弃。
+    ancient: "今居中国，<去>人伦,无君子，如之何其可也？（《孟子•告子下》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 去
+    type: 【动词】
+    phonetic: qu4
+    trans: ❸除掉;抛弃。
+    ancient: 桓公行公<去>私恶，用管子而为五伯长。（《吕氏春秋•贵公》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 去
+    type: 【动词】
+    phonetic: qu4
+    trans: ❹前往;前去。
+    ancient: 一为迁客<去>长沙，西望长安不见家。（唐•李白《与史郎中饮听黄鹤楼上吹笛》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 去
+    type: 【动词】
+    phonetic: qu4
+    trans: ❺去世;死亡。
+    ancient: 日月还复周，我<去>不再阳。（晋•陶渊明《杂诗》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 去
+    type: 【动词】
+    phonetic: qu4
+    trans: ❻表示行为动作的趋向。
+    ancient: 只恐夜深花睡<去>，高烧银烛照红妆。（宋•苏轼《海棠》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 去
+    type: 【动词】
+    phonetic: qu4
+    trans: ❻表示行为动作的趋向。
+    ancient: 舞榭（建在高台上的木屋）歌台，风流总被雨打风吹<去>。（《永遇乐•京口北固亭怀古》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 去
+    type: 【形容词】
+    phonetic: qu4
+    trans: 过去的。
+    ancient: 我从<去>年辞帝京，谪居卧病潯阳城。（《琵琶行》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 劝
+    type: 【动词】
+    phonetic: quan4
+    trans: ❶勉励;奖励。
+    ancient: 果行，国人皆<劝>。（《勾践灭吴》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 劝
+    type: 【动词】
+    phonetic: quan4
+    trans: ❶勉励;奖励。
+    ancient: 顺于民心，所补者三:一曰主用足，二曰民赋少，三曰<劝>农功。（汉•晁错《论贵粟疏》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 劝
+    type: 【动词】
+    phonetic: quan4
+    trans: ❷劝说;劝导。
+    ancient: 怀王稚子子兰<劝>王行。（《史记•屈原贾生列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 劝
+    type: 【动词】
+    phonetic: quan4
+    trans: ❷劝说;劝导。
+    ancient: 时周瑜受使至番阳，肃<劝>权召瑜还。（《资治通鉴•汉纪五十七》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 劝
+    type: 【动词】
+    phonetic: quan4
+    trans: ❸努力。
+    ancient: 若是则田野大辟，而农夫<劝>其事矣。（《管子•轻重乙》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 劝
+    type: 【动词】
+    phonetic: quan4
+    trans: ❸努力。
+    ancient: 且举世誉之而不加<劝>，举世非之而不加沮。（《逍遥游》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 阙
+    type: 【名词】
+    phonetic: que1
+    trans: 见丨87页"阙㊁"。
+    ancient: xxx
+    url: xxxx
+    vernacular: xxxx
+  - word: 却
+    type: 【动词】
+    phonetic: que4
+    trans: ❶后退。
+    ancient: 相如因持璧<却>立，倚柱，怒发上冲冠。（《廉颇蔺相如列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 却
+    type: 【动词】
+    phonetic: que4
+    trans: ❶后退。
+    ancient: <却>坐促弦弦转急。（《琵琶行》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 却
+    type: 【动词】
+    phonetic: que4
+    trans: ❷迫使后退;击退。
+    ancient: <却>匈奴七百余里。（《过秦论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 却
+    type: 【动词】
+    phonetic: que4
+    trans: ❷迫使后退;击退。
+    ancient: 后秦击赵者再（两次），李牧连<却>之。（《六国论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 却
+    type: 【动词】
+    phonetic: que4
+    trans: ❸拒绝;不接受。
+    ancient: 曰："<却>之<却>之为不恭，何哉？"（《孟子•万章下》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 却
+    type: 【动词】
+    phonetic: que4
+    trans: ❸拒绝;不接受。
+    ancient: "始以为不请,而请者不可遏（阻止）；终以为不纳，而纳者不可<却>。（宋•王安石《答曾公立书》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 却
+    type: 【动词】
+    phonetic: que4
+    trans: ❹回头。
+    ancient: <却>看妻子愁何在，漫卷诗书喜欲狂。（《闻官军收河南河北》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 却
+    type: 【动词】
+    phonetic: que4
+    trans: ❺去掉。
+    ancient: "医得眼前疮,剜<却>心头肉。（唐•聂夷中《伤田家》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 却
+    type: 【副词】
+    phonetic: que4
+    trans: ❶还;再。
+    ancient: 何当共剪西窗烛，<却>话巴山夜雨时。（唐•李商隐《夜雨寄北》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 却
+    type: 【副词】
+    phonetic: que4
+    trans: ❷反而。
+    ancient: "谁知嫁商贾,令人<却>愁苦。（唐•李白《江夏行》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 却
+    type: 【副词】
+    phonetic: que4
+    trans: ❷反而。
+    ancient: 雁过也，正伤心，<却>是旧时相识。（《声声慢》）
+    url: xxxx
+    vernacular: xxxx

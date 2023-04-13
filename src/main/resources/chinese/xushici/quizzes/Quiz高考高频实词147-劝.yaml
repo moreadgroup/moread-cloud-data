@@ -1,9 +1,44 @@
 ---
 quizzes:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+  - word: 劝
+    type: 【动词】
+    phonetic: quan4
+    trans: ❶勉励;奖励。
+    ancient: 果行，国人皆<劝>。（《勾践灭吴》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 劝
+    type: 【动词】
+    phonetic: quan4
+    trans: ❶勉励;奖励。
+    ancient: 顺于民心，所补者三:一曰主用足，二曰民赋少，三曰<劝>农功。（汉•晁错《论贵粟疏》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 劝
+    type: 【动词】
+    phonetic: quan4
+    trans: ❷劝说;劝导。
+    ancient: 怀王稚子子兰<劝>王行。（《史记•屈原贾生列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 劝
+    type: 【动词】
+    phonetic: quan4
+    trans: ❷劝说;劝导。
+    ancient: 时周瑜受使至番阳，肃<劝>权召瑜还。（《资治通鉴•汉纪五十七》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 劝
+    type: 【动词】
+    phonetic: quan4
+    trans: ❸努力。
+    ancient: 若是则田野大辟，而农夫<劝>其事矣。（《管子•轻重乙》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 劝
+    type: 【动词】
+    phonetic: quan4
+    trans: ❸努力。
+    ancient: 且举世誉之而不加<劝>，举世非之而不加沮。（《逍遥游》）
     url: xxxx
     vernacular: xxxx

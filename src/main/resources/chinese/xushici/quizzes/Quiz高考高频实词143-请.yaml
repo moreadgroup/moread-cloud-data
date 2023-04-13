@@ -1,9 +1,72 @@
 ---
 quizzes:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+  - word: 请
+    type: 【动词】
+    phonetic: qing3
+    trans: ❶请求。
+    ancient: 公子从其计，<请>如姬。（《史记•魏公子列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 请
+    type: 【动词】
+    phonetic: qing3
+    trans: ❶请求。
+    ancient: 君不如肉袒（脱去上衣，露出肩膀）伏斧质<请>罪。（《廉颇蔺相如列传》
+    url: xxxx
+    vernacular: xxxx
+  - word: 请
+    type: 【动词】
+    phonetic: qing3
+    trans: ❷邀请。
+    ancient: 乃谋令长公主置酒<请>（霍）光。（《汉书•霍光传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 请
+    type: 【动词】
+    phonetic: qing3
+    trans: ❸询问;请教。
+    ancient: 援疑质理，俯身倾耳以<请>。（《送东阳马生序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 请
+    type: 【动词】
+    phonetic: qing3
+    trans: ❹报告;请示。
+    ancient: 既而以吴民之乱<请>于朝。（《五人墓碑记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 请
+    type: 【动词】
+    phonetic: qing3
+    trans: ❹报告;请示。
+    ancient: 郡之贤士大夫<请>于当道，即除（整理）魏阉废祠之址以葬之。（《五人墓碑记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 请
+    type: 【动词】
+    phonetic: qing3
+    trans: ❺拜见;谒见。
+    ancient: "公子闻之，往<请>，欲厚遗（wei4,馈赠）之。（《史记•魏公子列传》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 请
+    type: 【动词】
+    phonetic: qing3
+    trans: ❺拜见;谒见。
+    ancient: 其造<请>诸公，不避寒暑。（《汉书•张汤传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 请
+    type: 【副词】
+    phonetic: qing3
+    trans: 表示恭敬。相当于"希望"。
+    ancient: 战则<请>从。（《曹刿论战》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 请
+    type: 【副词】
+    phonetic: qing3
+    trans: 表示恭敬。相当于"希望"。
+    ancient: 璧有瑕，<请>指示王。 （《廉颇蔺相如列传》）
     url: xxxx
     vernacular: xxxx
