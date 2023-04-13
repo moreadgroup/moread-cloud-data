@@ -1,201 +1,89 @@
 ---
 quizzes:
-  - word: 穷
-    type: 【名词】
-    phonetic: qiong2
-    trans: 尽头。
-    ancient: 天高地迥（远），觉宇宙之无<穷>；兴尽悲来，识盈虚（盈满和亏损）之有数。（《滕王阁序》）
-    url: xxxx
-    vernacular: "天高地远,感到宇宙浩渺无垠;兴致消尽,悲哀涌来,认识到事物的兴衰成败自有定数。"
-  - word: 穷
-    type: 【名词】
-    phonetic: qiong2
-    trans: 尽头。
-    ancient: 四时之景不同，乐亦无<穷>也。（《醉翁亭记》）
-    url: xxxx
-    vernacular: "随着时间季节不同,快乐也是没有穷尽的"
-  - word: 穷
-    type: 【动词】
-    phonetic: qiong2
-    trans: ❶极;尽。
-    ancient: "而世又不与能死节者比，特以为智<穷>罪极,不能自免，卒就死耳。（《报任安书》）"
-    url: xxxx
-    vernacular: 世人又不会拿我之死与能殉节的人相比，只会认为我是智尽无能、罪大恶极，不能免于死刑，而终于走向死路罢了！
-  - word: 穷
-    type: 【动词】
-    phonetic: qiong2
-    trans: ❶极;尽。
-    ancient: 轲既取图奉之，发图，图<穷>而匕首见。（《荆轲刺秦王》）
-    url: xxxx
-    vernacular: 荆轲拿了地图捧送给秦王，打开地图，地图全部打开，匕首就露了出来。
-  - word: 穷
-    type: 【动词】
-    phonetic: qiong2
-    trans: ❷寻求尽头;到达尽头。
-    ancient: "渔人甚异之,复前行，欲<穷>其林。（《桃花源记》）"
-    url: xxxx
-    vernacular: 渔人对此感到非常诧异。他继续向前行船，想要走到林子的尽头。
-  - word: 穷
-    type: 【动词】
-    phonetic: qiong2
-    trans: ❷寻求尽头;到达尽头。
-    ancient: 问其深，则其好游者不能<穷>也。（《游褒禅山记》）
-    url: xxxx
-    vernacular: 打问它的深度，就是那些喜欢游险的人也未能走到尽头
-  - word: 穷
-    type: 【动词】
-    phonetic: qiong2
-    trans: ❸追究到底。
-    ancient: 事之至难解者，问之人以<穷>其短。（清•刘开《问说》）
-    url: xxxx
-    vernacular: "最难做到的事情是,向某人请教直到无以作答."
-  - word: 穷
-    type: 【动词】
-    phonetic: qiong2
-    trans: ❹用尽。
-    ancient: <穷>予生之光阴以疗梅也哉！（《病梅馆记》）
-    url: xxxx
-    vernacular: 竭尽我毕生的时间来治疗病梅呢！
-  - word: 穷
-    type: 【动词】
-    phonetic: qiong2
-    trans: ❺遍及。
-    ancient: 渔舟唱晩，响<穷>彭蠡之滨。（《滕王阁序》）
-    url: xxxx
-    vernacular: 傍晚时分，渔夫在渔船上歌唱，那歌声响彻彭蠡湖滨
-  - word: 穷
-    type: 【形容词】
-    phonetic: qiong2
-    trans: ❶走投无路，陷入困境。
-    ancient: 人<穷>则反本，故劳苦倦极，未尝不呼天也。（《史记•屈原贾生列传》）
-    url: xxxx
-    vernacular: 人处于困境就会追念本源，所以到了极其劳苦疲倦的时候，没有不呼叫上天的。
-  - word: 穷
-    type: 【形容词】
-    phonetic: qiong2
-    trans: ❶走投无路，陷入困境。
-    ancient: <穷>且益坚，不坠青云之志。（《滕王趋阁序》）
-    url: xxxx
-    vernacular: 遭遇穷困而意志更加坚定，在任何情况下也不放弃自己的凌云之志。
-  - word: 穷
-    type: 【形容词】
-    phonetic: qiong2
-    trans: ❶走投无路，陷入困境。
-    ancient: <穷>则独善其身，达（得志）则兼济天下。（《孟子・尽心上》）
-    url: xxxx
-    vernacular: "不见用的时候就只顾自我修养，见用的时候就要为天下人造福。（不得志的时候就要管好自己的道德修养,得志的时候就要努力让天下人都能得到好处。)"
-  - word: 穷
-    type: 【形容词】
-    phonetic: qiong2
-    trans: ❶走投无路，陷入困境。
-    ancient: 人情同于怀土兮，岂<穷>达而异心？（汉•王粲《登楼赋》）
-    url: xxxx
-    vernacular: 人思念故乡的感情是相同的，岂会因为穷困还是显达而表现不同？
-  - word: 穷
-    type: 【形容词】
-    phonetic: qiong2
-    trans: ❶走投无路，陷入困境。
-    ancient: 樊将军以<穷>困来归丹，丹不忍以己之私，而伤长者之意，愿足下更虑之！（《荆轲刺秦王》）
-    url: xxxx
-    vernacular: 樊将军因为走投无路处境窘迫而来归附我，我不忍心由于自己个人的私仇而伤害长者的心意，希望您另外考虑对策吧。
-  - word: 穷
-    type: 【形容词】
-    phonetic: qiong2
-    trans: ❷生活贫穷。
-    ancient: 为宫室之美、妻妾之奉、所识<穷>乏者得（通"德"，感恩）我与？（《鱼我所欲也》）
-    url: xxxx
-    vernacular: 为了住宅的华丽、妻妾的侍奉、让所认识穷困贫乏的人感激他们的恩德而接受了它。
-  - word: 穷
-    type: 【形容词】
-    phonetic: qiong2
-    trans: ❷生活贫穷。
-    ancient: 子孙习其家凤，今多<穷>困。（《训俭示康》）
-    url: xxxx
-    vernacular: 子孙习染他的这种家风，现在大多穷困了。
   - word: 趋
     type: 【动词】
     phonetic: qu1
     trans: ❶快走。
     ancient: "其子<趋>而往视之,苗则槁（干枯）矣。（《孟子•公孙丑上》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 他儿子快步去到田里查看禾苗的情况，禾苗都已经枯萎了。
   - word: 趋
     type: 【动词】
     phonetic: qu1
     trans: ❶快走。
     ancient: 路旁一歧东上，乃昔序未至者，遂前<趋>直上，几达天都（山峰名）侧。（明•徐霞客《游黄山日记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 路旁有一条岔路向东直上，是前次游山时没有到过的，于是向前直往上走，差不多到了天都峰侧面了。
   - word: 趋
     type: 【动词】
     phonetic: qu1
     trans: ❷小步快走，表示恭敬。
     ancient: 入而徐<趋>，至而自谢曰："老臣病足，曾（竟）不能疾走。"（《触龙说赵太后》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 触龙走入殿内就用快走的姿势慢慢地走着小步，到了太后面前道歉说：“老臣的脚有毛病，不能快跑。“
   - word: 趋
     type: 【动词】
     phonetic: qu1
     trans: ❷小步快走，表示恭敬。
     ancient: 毅起，<趋>拜之。（《柳毅传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 柳毅起身上前，向钱塘君行礼。
   - word: 趋
     type: 【动词】
     phonetic: qu1
     trans: ❷小步快走，表示恭敬。
     ancient: 他日<趋>庭，叨陪鲤对。（《滕王阁序》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 过些日子，我将到父亲身边，一定要像孔鲤那样接受父亲的教诲
   - word: 趋
     type: 【动词】
     phonetic: qu1
     trans: ❸趋向。
     ancient: 水潦（大雨）不同，故有清浊之流，东西南北之<趋>。（《论衡•术性》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 由于水流的不同，导致水流的清浊，东西南北的走向。
   - word: 趋
     type: 【动词】
     phonetic: qu1
     trans: ❸趋向。
     ancient: "日削月割,以<趋>于亡。（《六国论》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 一天天地削减分割土地给秦国，以至于走向灭亡
   - word: 趋
     type: 【动词】
     phonetic: qu1
     trans: ❸趋向。
     ancient: 【高考题例】命<趋>宁国，兵陷山泽中八日，群盗相结梗道。（《明:史•花云传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 花云奉命赶赴宁国，部队陷在山泽中八天不能出来，众多强盗结伙挡住他们前行的道路。
   - word: 趋
     type: 【动词】
     phonetic: qu1
     trans: ❹奔向。
     ancient: "夜<趋>高邮,迷失道，几陷死。（《〈指南录〉后序》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 夜晚奔向高邮，迷失道路，几乎陷入沼泽而死
   - word: 趋
     type: 【动词】
     phonetic: qu1
     trans: ❹奔向。
     ancient: 又患无硕师名人与游，尝<趋>百里外，从乡之先达执经叩问。 （《送东阳马生序》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 又担心没有才学渊博的人同我来往，有道德学问的前辈请教曾经跑到百里以外，拿着经书向乡里有道德学问的前辈请教。
   - word: 趋
     type: 【动词】
     phonetic: qu1
     trans: ❺追求。
     ancient: "今背本而<趋>末，食者甚众,是天下之大残（害）也。（《论积贮疏》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 现在人们弃农经商（不生产而）吃粮的人很多，这是国家的大祸患。
   - word: 趋
     type: 【动词】
     phonetic: qu1
     trans: ❺追求。
     ancient: 人固有一死，或重于泰山，或轻手鸿毛，用之所<趋>异也。（《报任安书》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 人本来就有一死，但有的人死得比泰山还重，有的人死的却比鸿毛还轻，这是因为他们用死追求的目的不同啊！
   - word: 去
     type: 【动词】
     phonetic: qu4
