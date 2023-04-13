@@ -1,187 +1,75 @@
 ---
 quizzes:
-  - word: 倾
-    type: 【动词】
-    phonetic: qing1
-    trans: ❶倾斜。
-    ancient: 余立侍左右，援疑质理，俯身<倾>耳以请。（《送东阳马生序》）
-    url: xxxx
-    vernacular: 我站着侍候在他左右，提出疑难，询问道理，俯下身子，侧着耳朵请教
-  - word: 倾
-    type: 【动词】
-    phonetic: qing1
-    trans: ❶倾斜。
-    ancient: 微闻有鼠作作索索，盆器<倾>侧。（《口技》）
-    url: xxxx
-    vernacular: 隐隐听到有老鼠作作索索活动的声音，盆子翻倒倾斜
-  - word: 倾
-    type: 【动词】
-    phonetic: qing1
-    trans: ❷倾倒;倒下。
-    ancient: 天台四万八千丈，对此欲倒东南<倾>。（《梦游天姥吟留别》）
-    url: xxxx
-    vernacular: 天台山虽高四万八千丈，但对着这天姥山，（却矮小得）好像要向东南方倾倒一样。
-  - word: 倾
-    type: 【动词】
-    phonetic: qing1
-    trans: ❷倾倒;倒下。
-    ancient: 商旅不行，檣<倾>楫摧。（《岳阳楼记》）
-    url: xxxx
-    vernacular: 商人和旅客（一译：行商和客商）不能通行，船桅倒下，船桨折断
-  - word: 倾
-    type: 【动词】
-    phonetic: qing1
-    trans: ❸倒出。
-    ancient: 春江花朝秋月夜，往往取酒还独<倾>。（《琵琶行》）
-    url: xxxx
-    vernacular: 春江花朝秋江月夜那样好光景；也无可奈何常常取酒独酌独饮。
-  - word: 倾
-    type: 【动词】
-    phonetic: qing1
-    trans: ❸倒出。
-    ancient: "见客但<倾>酒,为官不爱钱。（唐•李白《赠崔秋浦》）"
-    url: xxxx
-    vernacular: "见到客人只管倒酒同饮,当官却不爱慕钱财。"
-  - word: 倾
-    type: 【动词】
-    phonetic: qing1
-    trans: ❸倒出。
-    ancient: 请洒潘江，各<倾>陆海云尔。（《滕王阁序》）
-    url: xxxx
-    vernacular: 请各位像潘岳、陆机那样，展现江海般的文才吧
-  - word: 倾
-    type: 【动词】
-    phonetic: qing1
-    trans: ❹竭尽。
-    ancient: 每责一头，辄<倾>数家之产。（《促织》）
-    url: xxxx
-    vernacular: 每摊派一只蟋蟀，就常常使好几户人家破产。
-  - word: 倾
-    type: 【动词】
-    phonetic: qing1
-    trans: ❺钦佩;佩服。
-    ancient: 【高考题例】忠义之声远近皆<倾>下之，金人不敢斥其名。（《宋史・赵立传》）
-    url: xxxx
-    vernacular: 忠义的名声，远近之人都很倾慕他，金人都不敢说出他的名字。
-  - word: 倾
-    type: 【动词】
-    phonetic: qing1
-    trans: ❻倾覆;覆灭。
-    ancient: 亲小人，远贤臣，此后汉所以<倾>颓也。（《出师表》）
-    url: xxxx
-    vernacular: 亲近小人，疏远贤臣，这是后汉之所以衰败的原因。
-  - word: 倾
-    type: 【动词】
-    phonetic: qing1
-    trans: ❻倾覆;覆灭。
-    ancient: 汉室<倾>颓，奸臣窃命，主上蒙尘（指皇帝遭难出奔）。（《隆中对》）
-    url: xxxx
-    vernacular: 汉室的统治崩溃，奸邪的臣子盗用政令，皇上蒙受风尘遭难出奔。
-  - word: 倾
-    type: 【动词】
-    phonetic: qing1
-    trans: ❻倾覆;覆灭。
-    ancient: "盖均无贫,和无寡，安无<倾>。（《季氏将伐颛臾》）"
-    url: xxxx
-    vernacular: 财物分配公平合理，就没有贫穷；上下和睦，就不必担心人少；社会安定，国家就没有倾覆的危险。
-  - word: 倾
-    type: 【动词】
-    phonetic: qing1
-    trans: ❼尽情抒发;倾吐。
-    ancient: 高论几为衰俗废，壮怀难值故人<倾>。（宋•王安石《寄曾子固》）
-    url: xxxx
-    vernacular: 高尚的理论往往被庸俗所抛弃，我的壮志难以得到故友的赞同。
-  - word: 倾
-    type: 【动词】
-    phonetic: qing1
-    trans: ❽倾轧;排挤。
-    ancient: 因其富厚，交通王侯，力过吏势，以利相<倾>。（汉•晁错《论贵粟疏》）
-    url: xxxx
-    vernacular: 依仗自己富厚的钱财，与王侯接交，势力超过官吏，凭借资产相互倾轧
-  - word: 倾
-    type: 【动词】
-    phonetic: qing1
-    trans: ❽倾轧;排挤。
-    ancient: "及势钧力敌,则<倾>陷安石,甚于仇雠,世尤恶之。（《宋史•苏辙传》）"
-    url: xxxx
-    vernacular: 如果有人的势力和力量与王安石相当，那么他们会排挤王安石，甚至比仇敌还要恶劣，世人也会憎恶他们。
-  - word: 倾
-    type: 【动词】
-    phonetic: qing1
-    trans: ❾压倒;胜过。
-    ancient: 绛侯诛诸吕，权<倾>五伯，囚于请室。（《报任安书》）
-    url: xxxx
-    vernacular: 绛侯周勃，曾诛杀诸吕，一时间权力大于春秋五霸，也被囚禁在请罪室中
   - word: 请
     type: 【动词】
     phonetic: qing3
     trans: ❶请求。
     ancient: 公子从其计，<请>如姬。（《史记•魏公子列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 公子听从了侯嬴的计策，请求如姬帮忙。
   - word: 请
     type: 【动词】
     phonetic: qing3
     trans: ❶请求。
     ancient: 君不如肉袒（脱去上衣，露出肩膀）伏斧质<请>罪。（《廉颇蔺相如列传》
     url: xxxx
-    vernacular: xxxx
+    vernacular: 您不如脱掉上衣，露出肩背，伏在斧刃之下请求治罪
   - word: 请
     type: 【动词】
     phonetic: qing3
     trans: ❷邀请。
-    ancient: 乃谋令长公主置酒<请>（霍）光。（《汉书•霍光传》）
+    ancient: 乃谋令长公主置酒<请>（霍）光，伏兵格杀之。（《汉书•霍光传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 就计划让长公主摆宴席请霍光，埋伏兵士击杀他
   - word: 请
     type: 【动词】
     phonetic: qing3
     trans: ❸询问;请教。
     ancient: 援疑质理，俯身倾耳以<请>。（《送东阳马生序》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 提出疑难，询问道理，俯下身子，侧着耳朵请教
   - word: 请
     type: 【动词】
     phonetic: qing3
     trans: ❹报告;请示。
     ancient: 既而以吴民之乱<请>于朝。（《五人墓碑记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 他以苏州人民发动暴乱的罪名向朝廷请示
   - word: 请
     type: 【动词】
     phonetic: qing3
     trans: ❹报告;请示。
     ancient: 郡之贤士大夫<请>于当道，即除（整理）魏阉废祠之址以葬之。（《五人墓碑记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 本郡有声望的士大夫们向有关当局请求，就清理已被废除的魏忠贤生祠旧址来安葬他们
   - word: 请
     type: 【动词】
     phonetic: qing3
     trans: ❺拜见;谒见。
     ancient: "公子闻之，往<请>，欲厚遗（wei4,馈赠）之。（《史记•魏公子列传》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 公子听说了这个人，就派人去拜见，并想送给他一份厚礼。
   - word: 请
     type: 【动词】
     phonetic: qing3
     trans: ❺拜见;谒见。
     ancient: 其造<请>诸公，不避寒暑。（《汉书•张汤传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 他拜问三公，不避寒暑。
   - word: 请
     type: 【副词】
     phonetic: qing3
     trans: 表示恭敬。相当于"希望"。
     ancient: 战则<请>从。（《曹刿论战》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 如果作战，请允许我跟随您一同去。
   - word: 请
     type: 【副词】
     phonetic: qing3
     trans: 表示恭敬。相当于"希望"。
     ancient: 璧有瑕，<请>指示王。 （《廉颇蔺相如列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 璧上有个小斑点，让我指给大王看。
   - word: 穷
     type: 【名词】
     phonetic: qiong2

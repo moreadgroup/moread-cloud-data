@@ -10,36 +10,36 @@ words:
         sentences:
           - ancient: 公子从其计，<请>如姬。（《史记•魏公子列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 公子听从了侯嬴的计策，请求如姬帮忙。
           - ancient: 君不如肉袒（脱去上衣，露出肩膀）伏斧质<请>罪。（《廉颇蔺相如列传》
             url: xxxx
-            vernacular: xxxx
+            vernacular: 您不如脱掉上衣，露出肩背，伏在斧刃之下请求治罪
       - trans: ❷邀请。
         sentences:
-          - ancient: 乃谋令长公主置酒<请>（霍）光。（《汉书•霍光传》）
+          - ancient: 乃谋令长公主置酒<请>（霍）光，伏兵格杀之。（《汉书•霍光传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 就计划让长公主摆宴席请霍光，埋伏兵士击杀他
       - trans: ❸询问;请教。
         sentences:
           - ancient: 援疑质理，俯身倾耳以<请>。（《送东阳马生序》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 提出疑难，询问道理，俯下身子，侧着耳朵请教
       - trans: ❹报告;请示。
         sentences:
           - ancient: 既而以吴民之乱<请>于朝。（《五人墓碑记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 他以苏州人民发动暴乱的罪名向朝廷请示
           - ancient: 郡之贤士大夫<请>于当道，即除（整理）魏阉废祠之址以葬之。（《五人墓碑记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 本郡有声望的士大夫们向有关当局请求，就清理已被废除的魏忠贤生祠旧址来安葬他们
       - trans: ❺拜见;谒见。
         sentences:
           - ancient: "公子闻之，往<请>，欲厚遗（wei4,馈赠）之。（《史记•魏公子列传》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 公子听说了这个人，就派人去拜见，并想送给他一份厚礼。
           - ancient: 其造<请>诸公，不避寒暑。（《汉书•张汤传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 他拜问三公，不避寒暑。
   - word: 请
     type: 【副词】
     phonetic: qing3
@@ -50,7 +50,7 @@ words:
         sentences:
           - ancient: 战则<请>从。（《曹刿论战》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 如果作战，请允许我跟随您一同去。
           - ancient: 璧有瑕，<请>指示王。 （《廉颇蔺相如列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 璧上有个小斑点，让我指给大王看。
