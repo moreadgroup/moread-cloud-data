@@ -1,13 +1,42 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 倾
+    type: 【动词】
+    phonetic: qing1
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶倾斜。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 余立侍左右，援疑质理，俯身倾耳以请。（《送东阳马生序》）
+          - ancient: 微闻有鼠作作索索，盆器倾侧。（《口技》）
+      - trans: ❷倾倒;倒下。
+        sentences:
+          - ancient: 天台四万八千丈，对此欲倒东南倾。（《梦游天姥吟留别》）
+          - ancient: 商旅不行，檣倾楫摧。（《岳阳楼记》）
+      - trans: ❸倒出。
+        sentences:
+          - ancient: 春江花朝秋月夜，往往取酒还独倾。（《琵琶行》）
+          - ancient: 见客但倾酒,为官不爱钱。（唐•李白《赠崔秋浦》）
+          - ancient: 请洒潘江，各倾陆海云尔。（《滕王阁序》）
+      - trans: ❹竭尽。
+        sentences:
+          - ancient: 每责一头，辄倾数家之产。（《促织》）
+      - trans: ❺钦佩;佩服。
+        sentences:
+          - ancient: 【高考题例】忠义之声远近皆倾下之，金人不敢斥其名。（《宋史・赵立传》）
+      - trans: ❻倾覆;覆灭。
+        sentences:
+          - ancient: 此后汉所以倾颓也。（《出师表》）
+          - ancient: 汉室倾颓，奸臣窃命，主上蒙尘（指皇帝遭难出奔）。（《隆中对》）
+          - ancient: 盖均无贫,和无寡，安无倾。（《季氏将伐颛臾》）
+      - trans: ❼尽情抒发;倾吐。
+        sentences:
+          - ancient: 高论几为衰俗废，壮怀难值故人倾。（宋•王安石《寄曾子固》）
+      - trans: ❽倾轧;排挤。
+        sentences:
+          - ancient: 因其富厚，交通王侯，力过吏势，以利相倾。（汉•晁错《论贵粟疏》）
+          - ancient: 则倾陷安石。（《宋史•苏辙传》）
+      - trans: ❾压倒;胜过。
+        sentences:
+          - ancient: 绛侯诛诸吕，权倾五伯，囚于请室。（《报任安书》）

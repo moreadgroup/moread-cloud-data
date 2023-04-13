@@ -1,13 +1,84 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
-    tags:
-      - 高中
-    samples:
-      - trans: ❶xxxx
-        sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+- word: 穷
+  type: 【名词】
+  phonetic: qiong2
+  tags:
+  - 高中
+  samples:
+  - trans: 尽头。
+    sentences:
+    - ancient: 天高地迥（远），觉宇宙之无<穷>；兴尽悲来，识盈虚（盈满和亏损）之有数。（《滕王阁序》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 四时之景不同，乐亦无<穷>也。（《醉翁亭记》）
+      url: xxxx
+      vernacular: xxxx
+- word: 穷
+  type: 【动词】
+  phonetic: qiong2
+  tags:
+  - 高中
+  samples:
+  - trans: ❶极;尽。
+    sentences:
+    - ancient: "而世又不与能死节者比，特以为智<穷>罪极,不能自免，卒就死耳。（《报任安书》）"
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 轲既取图奉之，发图，图<穷>而匕首见。（《荆轲刺秦王》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❷寻求尽头;到达尽头。
+    sentences:
+    - ancient: "渔人甚异之,复前行，欲<穷>其林。（《桃花源记》）"
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 问其深，则其好游者不能<穷>也。（《游褒禅山记》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❸追究到底。
+    sentences:
+    - ancient: 事之至难解者，问之人以<穷>其短。（清•刘开《问说》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❹用尽。
+    sentences:
+    - ancient: <穷>予生之光阴以疗梅也哉！（《病梅馆记》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❺遍及。
+    sentences:
+    - ancient: 渔舟唱晩，响<穷>彭蠡之滨。（《滕王阁序》）
+      url: xxxx
+      vernacular: xxxx
+- word: 穷
+  type: 【形容词】
+  phonetic: qiong2
+  tags:
+  - 高中
+  samples:
+  - trans: ❶走投无路，陷入困境。
+    sentences:
+    - ancient: 人<穷>则反本，故劳苦倦极，未尝不呼天也。（《史记•屈原贾生列传》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: <穷>且益坚，不坠青云之志。（《滕王趋阁序》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: <穷>则独善其身，达（得志）则兼济天下。（《孟子・尽心上》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 人情同于怀土兮，岂<穷>达而异心？（汉•王粲《登楼赋》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 樊将军以<穷>困来归丹，丹不忍以己之私，而伤长者之意，愿足下更虑之！（《荆轲刺秦王》）
+      url: xxxx
+      vernacular: xxxx
+  - trans: ❷生活贫穷。
+    sentences:
+    - ancient: 为宫室之美、妻妾之奉、所识<穷>乏者得（通"德"，感恩）我与？（《鱼我所欲也》）
+      url: xxxx
+      vernacular: xxxx
+    - ancient: 子孙习其家凤，今多<穷>困。（《训俭示康》）
+      url: xxxx
+      vernacular: xxxx

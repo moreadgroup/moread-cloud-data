@@ -1,13 +1,29 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 窃
+    type: 【动词】
+    phonetic: qie4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: 偷;盗。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 今有人于此，舍其文轩（装饰华美的车子），邻有敝舆（破车），而欲窃之。（《公编》）
+          - ancient: 偷桃窃药事难兼,十二城中锁彩蟾。（唐•李商隐《月夜重寄宋华阳姊妹》）
+          - ancient: 今有一人，入人园圃，窃其桃李。（《墨子•非攻》）
+  - word: 窃
+    type: 【副词】
+    phonetic: qie4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶偷偷地;暗地里。
+        sentences:
+          - ancient: 臣尝有罪，窃计欲亡走燕。（《廉颇蔺相如列传》）
+          - ancient: 成有子九岁，窥父不在，窃发盆。（《促织》）
+      - trans: ❷谦辞。私自；私下。
+        sentences:
+          - ancient: 老臣窃以为媪之爱燕后，贤（超过）于长安君。（《触龙说赵太后》）
+          - ancient: 昨曰蒙教,窃以为与君实（司马光，字君实）游处相好之日久，而议事每不合，所操之术多异故也。（宋•王安石《答司马谏议书》）
+          - ancient: 仆窃不逊，近自托于无能之辞，网罗天下放失旧闻。（《报任安书》）
+          - ancient: 寡人窃闻赵王好音，请奏瑟。（《廉颇蔺相如列传》）	

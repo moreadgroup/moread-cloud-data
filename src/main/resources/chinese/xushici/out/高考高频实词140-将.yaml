@@ -1,13 +1,13 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
-    tags:
-      - 高中
-    samples:
-      - trans: ❶xxxx
-        sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+- word: 将
+  type: 【名词】
+  phonetic: qiang1
+  tags:
+  - 高中
+  samples:
+  - trans: 见丨22页"将㊂"。
+    sentences:
+    - ancient: xxx
+      url: xxxx
+      vernacular: xxxx

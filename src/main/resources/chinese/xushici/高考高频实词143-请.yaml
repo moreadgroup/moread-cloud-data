@@ -1,13 +1,36 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 请
+    type: 【动词】
+    phonetic: qing3
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶请求。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 公子从其计，请如姬。（《史记•魏公子列传》）
+          - ancient: 君不如肉袒（脱去上衣，露出肩膀）伏斧质请罪。（《廉颇蔺相如列传》
+      - trans: ❷邀请。
+        sentences:
+          - ancient: 乃谋令长公主置酒请（霍）光。（《汉书•霍光传》）
+      - trans: ❸询问;请教。
+        sentences:
+          - ancient: 援疑质理，俯身倾耳以请。（《送东阳马生序》）
+      - trans: ❹报告;请示。
+        sentences:
+          - ancient: 既而以吴民之乱请于朝。（《五人墓碑记》）
+          - ancient: 郡之贤士大夫请于当道，即除（整理）魏阉废祠之址以葬之。（《五人墓碑记》）
+      - trans: ❺拜见;谒见。
+        sentences:
+          - ancient: 公子闻之，往请，欲厚遗（wei4,馈赠）之。（《史记•魏公子列传》）
+          - ancient: 其造请诸公，不避寒暑。（《汉书•张汤传》）
+  - word: 请
+    type: 【副词】
+    phonetic: qing3
+    tags:
+      - 高中
+    samples:
+      - trans: 表示恭敬。相当于"希望"。
+        sentences:
+          - ancient: 战则请从。（《曹刿论战》）
+          - ancient: 璧有瑕，请指示王。 （《廉颇蔺相如列传》）

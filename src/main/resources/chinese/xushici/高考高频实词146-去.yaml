@@ -1,13 +1,44 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 去
+    type: 【动词】
+    phonetic: qu4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶离开。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 十余日，高祖欲去,沛父兄固请留高祖。（《史记・高祖本纪》）
+          - ancient: 因跳踉大㘎（han3,老虎吼叫的声音），断其喉，尽其肉，乃去。（《黔之驴》）
+          - ancient: 去以六月息者也。（《逍遥游》）
+          - ancient: 登斯楼也,则有去国怀乡，忧谗畏讥，满目萧然，感极而悲者矣。（《岳阳楼记》）
+      - trans: ❷距离。
+        sentences:
+          - ancient: 当是时，项王军在鸿门下,沛公军在霸上，相去四十里。（《鸿门宴》）
+          - ancient: 西蜀之去南海，不知几千里矣。（《为学》）
+      - trans: ❸除掉;抛弃。
+        sentences:
+          - ancient: 去死肌，杀三虫。（《捕蛇者说》）
+          - ancient: 当横行天下，为汉家除残去秽。（《资治通鉴•汉纪五十七》）
+          - ancient: 今居中国，去人伦,无君子，如之何其可也？（《孟子•告子下》）
+          - ancient: 桓公行公去私恶，用管子而为五伯长。（《吕氏春秋•贵公》）
+      - trans: ❹前往;前去。
+        sentences:
+          - ancient: 一为迁客去长沙，西望长安不见家。（唐•李白《与史郎中饮听黄鹤楼上吹笛》）
+      - trans: ❺去世;死亡。
+        sentences:
+          - ancient: 日月还复周，我去不再阳。（晋•陶渊明《杂诗》）
+      - trans: ❻表示行为动作的趋向。
+        sentences:
+          - ancient: 只恐夜深花睡去，高烧银烛照红妆。（宋•苏轼《海棠》）
+          - ancient: 舞榭（建在高台上的木屋）歌台，风流总被雨打风吹去。（《永遇乐•京口北固亭怀古》）
+
+  - word: 去
+    type: 【形容词】
+    phonetic: qu4
+    tags:
+      - 高中
+    samples:
+      - trans: 过去的。
+        sentences:
+          - ancient: 我从去年辞帝京，谪居卧病潯阳城。（《琵琶行》）
