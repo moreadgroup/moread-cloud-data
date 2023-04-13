@@ -1,47 +1,5 @@
 ---
 quizzes:
-  - word: 劝
-    type: 【动词】
-    phonetic: quan4
-    trans: ❶勉励;奖励。
-    ancient: 果行，国人皆<劝>。（《勾践灭吴》）
-    url: xxxx
-    vernacular: "于是越国就果断地行动起来,全国上下都互相勉励。"
-  - word: 劝
-    type: 【动词】
-    phonetic: quan4
-    trans: ❶勉励;奖励。
-    ancient: 顺于民心，所补者三:一曰主用足，二曰民赋少，三曰<劝>农功。（汉•晁错《论贵粟疏》）
-    url: xxxx
-    vernacular: 依顺百姓心愿，有三个好处：一是君主需要的东西充足，二是百姓的赋税减少，三是鼓励从事农业生产。
-  - word: 劝
-    type: 【动词】
-    phonetic: quan4
-    trans: ❷劝说;劝导。
-    ancient: 怀王稚子子兰<劝>王行。（《史记•屈原贾生列传》）
-    url: xxxx
-    vernacular: 怀王的小儿子子兰劝怀王去
-  - word: 劝
-    type: 【动词】
-    phonetic: quan4
-    trans: ❷劝说;劝导。
-    ancient: 时周瑜受使至番阳，肃<劝>权召瑜还。（《资治通鉴•汉纪五十七》）
-    url: xxxx
-    vernacular: 当时周瑜接受使命到了番阳，鲁肃劝告孙权召周瑜回来。
-  - word: 劝
-    type: 【动词】
-    phonetic: quan4
-    trans: ❸努力。
-    ancient: 若是则田野大辟，而农夫<劝>其事矣。（《管子•轻重乙》）
-    url: xxxx
-    vernacular: 如此则荒地广为开垦，农夫也努力耕种了。
-  - word: 劝
-    type: 【动词】
-    phonetic: quan4
-    trans: ❸努力。
-    ancient: 且举世誉之而不加<劝>，举世非之而不加沮。（《逍遥游》）
-    url: xxxx
-    vernacular: 人们都赞誉他也不会让他感到鼓舞，世上所有的人都诽谤他，他也并不因此就感到沮丧
   - word: 阙
     type: 【名词】
     phonetic: que1
@@ -55,35 +13,35 @@ quizzes:
     trans: ❶后退。
     ancient: 相如因持璧<却>立，倚柱，怒发上冲冠。（《廉颇蔺相如列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 相如于是手持璧玉退后几步，靠在柱子上，怒发冲冠
   - word: 却
     type: 【动词】
     phonetic: que4
     trans: ❶后退。
     ancient: <却>坐促弦弦转急。（《琵琶行》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 回身坐下再转紧琴弦拨出急声。
   - word: 却
     type: 【动词】
     phonetic: que4
     trans: ❷迫使后退;击退。
     ancient: <却>匈奴七百余里。（《过秦论》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 使匈奴退却七百多里
   - word: 却
     type: 【动词】
     phonetic: que4
     trans: ❷迫使后退;击退。
     ancient: 后秦击赵者再（两次），李牧连<却>之。（《六国论》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 后来秦国多次攻打赵国。（赵国大将）李牧接连打退秦国的进攻。
   - word: 却
     type: 【动词】
     phonetic: que4
     trans: ❸拒绝;不接受。
     ancient: 曰："<却>之<却>之为不恭，何哉？"（《孟子•万章下》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 一次又一次地拒绝就是不恭敬，这是为什么？
   - word: 却
     type: 【动词】
     phonetic: que4
@@ -97,32 +55,32 @@ quizzes:
     trans: ❹回头。
     ancient: <却>看妻子愁何在，漫卷诗书喜欲狂。（《闻官军收河南河北》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 回头望见妻子和孩子哪还有一点的忧伤，胡乱地卷起诗书感到欣喜若狂。
   - word: 却
     type: 【动词】
     phonetic: que4
     trans: ❺去掉。
     ancient: "医得眼前疮,剜<却>心头肉。（唐•聂夷中《伤田家》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 这是用刀挖掉心头好肉，来补眼前烂疮。
   - word: 却
     type: 【副词】
     phonetic: que4
     trans: ❶还;再。
     ancient: 何当共剪西窗烛，<却>话巴山夜雨时。（唐•李商隐《夜雨寄北》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 什么时候我们才能一起在西窗下秉烛长谈，相互倾诉今宵巴山夜雨中的思念之情。
   - word: 却
     type: 【副词】
     phonetic: que4
     trans: ❷反而。
     ancient: "谁知嫁商贾,令人<却>愁苦。（唐•李白《江夏行》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 谁知今日却嫁给了个商人，却令人好不愁苦。
   - word: 却
     type: 【副词】
     phonetic: que4
     trans: ❷反而。
     ancient: 雁过也，正伤心，<却>是旧时相识。（《声声慢》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 向南避寒的大雁已飞过去了，伤心的是却是原来的旧日相识。
