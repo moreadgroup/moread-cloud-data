@@ -1,187 +1,117 @@
 ---
 quizzes:
-  - word: 将
-    type: 【名词】
-    phonetic: qiang1
-    trans: 见丨22页"将㊂"。
-    ancient: xxx
-    url: xxxx
-    vernacular: xxxx
-  - word: 窃
-    type: 【动词】
-    phonetic: qie4
-    trans: 偷;盗。
-    ancient: 今有人于此，舍其文轩（装饰华美的车子），邻有敝舆（破车），而欲<窃>之。（《公编》）
-    url: xxxx
-    vernacular: 现在这里有一个人，舍弃他自己装饰华美的车，邻居有破车，却想要去偷；
-  - word: 窃
-    type: 【动词】
-    phonetic: qie4
-    trans: 偷;盗。
-    ancient: "偷桃<窃>药事难兼,十二城中锁彩蟾。（唐•李商隐《月夜重寄宋华阳姊妹》）"
-    url: xxxx
-    vernacular: 偷桃窃药是两件美事，可惜难两全。玉阳碧城十二楼，曾经幽禁过彩蟾。偷桃：道教传说，谣王母种桃，三千年一结子，东方朔曾三次偷食，被谪降人间。窃药：《淮南子·览冥训》载，后羿在西王母处求得不死的灵药，嫦娥偷服后奔入月宫中。 十二城：亦作十二楼、十二层城，道教传为仙人居处，此借指道观。彩蟾：神话传说月中有蟾蜍，因借以指月，此指代宋华阳姊妹。
-  - word: 窃
-    type: 【动词】
-    phonetic: qie4
-    trans: 偷;盗。
-    ancient: 今有一人，入人园圃，<窃>其桃李。（《墨子•非攻》）
-    url: xxxx
-    vernacular: 如果有一个人，进人家果园，偷人家桃李
-  - word: 窃
-    type: 【副词】
-    phonetic: qie4
-    trans: ❶偷偷地;暗地里。
-    ancient: 臣尝有罪，<窃>计欲亡走燕。（《廉颇蔺相如列传》）
-    url: xxxx
-    vernacular: 微臣曾犯过罪，私下打算逃亡到燕国去
-  - word: 窃
-    type: 【副词】
-    phonetic: qie4
-    trans: ❶偷偷地;暗地里。
-    ancient: 成有子九岁，窥父不在，<窃>发盆。（《促织》）
-    url: xxxx
-    vernacular: 成名有个儿子，年九岁，看到爸爸不在（家），偷偷打开盆子来看。
-  - word: 窃
-    type: 【副词】
-    phonetic: qie4
-    trans: ❷谦辞。私自；私下。
-    ancient: 老臣<窃>以为媪之爱燕后，贤（超过）于长安君。（《触龙说赵太后》）
-    url: xxxx
-    vernacular: "我私下认为,您疼爱燕后就超过了疼爱长安君。"
-  - word: 窃
-    type: 【副词】
-    phonetic: qie4
-    trans: ❷谦辞。私自；私下。
-    ancient: "昨曰蒙教,<窃>以为与君实（司马光，字君实）游处相好之日久，而议事每不合，所操之术多异故也。（宋•王安石《答司马谏议书》）"
-    url: xxxx
-    vernacular: 昨天承蒙（您来信）指教，我私下认为与君实您交往相好的日子很久了，但是议论起政事来（意见）常常不一致，（这是因为我们）所持的政治主张和方法大多不同的缘故啊。
-  - word: 窃
-    type: 【副词】
-    phonetic: qie4
-    trans: ❷谦辞。私自；私下。
-    ancient: 仆<窃>不逊，近自托于无能之辞，网罗天下放失旧闻。（《报任安书》）
-    url: xxxx
-    vernacular: 我私下里也自不量力，近来用我那不高明的文辞，收集天下散失的历史传闻
-  - word: 窃
-    type: 【副词】
-    phonetic: qie4
-    trans: ❷谦辞。私自；私下。
-    ancient: 寡人<窃>闻赵王好音，请奏瑟。（《廉颇蔺相如列传》）
-    url: xxxx
-    vernacular: 我私下里听说赵王爱好音乐，请您奏瑟一曲！
   - word: 倾
     type: 【动词】
     phonetic: qing1
     trans: ❶倾斜。
     ancient: 余立侍左右，援疑质理，俯身<倾>耳以请。（《送东阳马生序》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 我站着侍候在他左右，提出疑难，询问道理，俯下身子，侧着耳朵请教
   - word: 倾
     type: 【动词】
     phonetic: qing1
     trans: ❶倾斜。
     ancient: 微闻有鼠作作索索，盆器<倾>侧。（《口技》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 隐隐听到有老鼠作作索索活动的声音，盆子翻倒倾斜
   - word: 倾
     type: 【动词】
     phonetic: qing1
     trans: ❷倾倒;倒下。
     ancient: 天台四万八千丈，对此欲倒东南<倾>。（《梦游天姥吟留别》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 天台山虽高四万八千丈，但对着这天姥山，（却矮小得）好像要向东南方倾倒一样。
   - word: 倾
     type: 【动词】
     phonetic: qing1
     trans: ❷倾倒;倒下。
     ancient: 商旅不行，檣<倾>楫摧。（《岳阳楼记》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 商人和旅客（一译：行商和客商）不能通行，船桅倒下，船桨折断
   - word: 倾
     type: 【动词】
     phonetic: qing1
     trans: ❸倒出。
     ancient: 春江花朝秋月夜，往往取酒还独<倾>。（《琵琶行》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 春江花朝秋江月夜那样好光景；也无可奈何常常取酒独酌独饮。
   - word: 倾
     type: 【动词】
     phonetic: qing1
     trans: ❸倒出。
     ancient: "见客但<倾>酒,为官不爱钱。（唐•李白《赠崔秋浦》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: "见到客人只管倒酒同饮,当官却不爱慕钱财。"
   - word: 倾
     type: 【动词】
     phonetic: qing1
     trans: ❸倒出。
     ancient: 请洒潘江，各<倾>陆海云尔。（《滕王阁序》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 请各位像潘岳、陆机那样，展现江海般的文才吧
   - word: 倾
     type: 【动词】
     phonetic: qing1
     trans: ❹竭尽。
     ancient: 每责一头，辄<倾>数家之产。（《促织》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 每摊派一只蟋蟀，就常常使好几户人家破产。
   - word: 倾
     type: 【动词】
     phonetic: qing1
     trans: ❺钦佩;佩服。
     ancient: 【高考题例】忠义之声远近皆<倾>下之，金人不敢斥其名。（《宋史・赵立传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 忠义的名声，远近之人都很倾慕他，金人都不敢说出他的名字。
   - word: 倾
     type: 【动词】
     phonetic: qing1
     trans: ❻倾覆;覆灭。
-    ancient: 此后汉所以<倾>颓也。（《出师表》）
+    ancient: 亲小人，远贤臣，此后汉所以<倾>颓也。（《出师表》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 亲近小人，疏远贤臣，这是后汉之所以衰败的原因。
   - word: 倾
     type: 【动词】
     phonetic: qing1
     trans: ❻倾覆;覆灭。
     ancient: 汉室<倾>颓，奸臣窃命，主上蒙尘（指皇帝遭难出奔）。（《隆中对》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 汉室的统治崩溃，奸邪的臣子盗用政令，皇上蒙受风尘遭难出奔。
   - word: 倾
     type: 【动词】
     phonetic: qing1
     trans: ❻倾覆;覆灭。
     ancient: "盖均无贫,和无寡，安无<倾>。（《季氏将伐颛臾》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 财物分配公平合理，就没有贫穷；上下和睦，就不必担心人少；社会安定，国家就没有倾覆的危险。
   - word: 倾
     type: 【动词】
     phonetic: qing1
     trans: ❼尽情抒发;倾吐。
     ancient: 高论几为衰俗废，壮怀难值故人<倾>。（宋•王安石《寄曾子固》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 高尚的理论往往被庸俗所抛弃，我的壮志难以得到故友的赞同。
   - word: 倾
     type: 【动词】
     phonetic: qing1
     trans: ❽倾轧;排挤。
     ancient: 因其富厚，交通王侯，力过吏势，以利相<倾>。（汉•晁错《论贵粟疏》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 依仗自己富厚的钱财，与王侯接交，势力超过官吏，凭借资产相互倾轧
   - word: 倾
     type: 【动词】
     phonetic: qing1
     trans: ❽倾轧;排挤。
-    ancient: 则<倾>陷安石。（《宋史•苏辙传》）
+    ancient: "及势钧力敌,则<倾>陷安石,甚于仇雠,世尤恶之。（《宋史•苏辙传》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 如果有人的势力和力量与王安石相当，那么他们会排挤王安石，甚至比仇敌还要恶劣，世人也会憎恶他们。
   - word: 倾
     type: 【动词】
     phonetic: qing1
     trans: ❾压倒;胜过。
     ancient: 绛侯诛诸吕，权<倾>五伯，囚于请室。（《报任安书》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 绛侯周勃，曾诛杀诸吕，一时间权力大于春秋五霸，也被囚禁在请罪室中
   - word: 请
     type: 【动词】
     phonetic: qing3
