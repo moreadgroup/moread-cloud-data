@@ -1,13 +1,134 @@
 ---
 words:
-  - word: xxxx
+  - word: 善
     type: 【名词】
-    phonetic: xx1
+    phonetic: shan4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: 好事;好的行为。
         sentences:
-          - ancient: xxx
+          - ancient: 积<善>成德，而神明自得，圣心备焉。（《劝学》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 刑过不避大臣，赏<善>不遗匹夫。（《韩非子•有度》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 简能而任之，择<善>而从之。（《谏太宗十思疏》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 善
+    type: 【动词】
+    phonetic: shan4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶赞许。
+        sentences:
+          - ancient: 昔者管子有言，丘（孔子自称）甚<善>之。（《庄子•至乐》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 亦余心之所<善>兮，宝九死其犹未悔。（《离骚》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <善>万物之得时，感吾生之行休。（《归去来兮辞》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷喜好。
+        sentences:
+          - ancient: 王如<善>之，则何为不行？（《孟子•梁惠王下》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸擅长;善于。
+        sentences:
+          - ancient: 衡少<善>属文，游于三辅，因入京师。（《张衡传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 衡<善>机巧，尤致思于天文阴阳历算。（《张衡传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 安帝雅闻衡<善>术学，公车特征拜郎中，再迁为太史令。（《张衡传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 陈康肃公<善>射，当世无双，公亦以此自矜。（《卖油翁》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 京中有<善>口技者。（《口技》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】少聪敏好学，<善>属文。（《旧唐书•李揆传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹擦拭；整治。
+        sentences:
+          - ancient: <善>刀而藏之。（《庄子•养生主》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❺爱惜。
+        sentences:
+          - ancient: <善>日者王，<善>时者霸。（《荀子•强国》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❻与……交好。
+        sentences:
+          - ancient: 楚左尹项伯者，项羽季父也，素<善>留侯张良。（《鸿门宴》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❼经常出现;容易发生。
+        sentences:
+          - ancient: 岸<善>崩，乃凿井，深者四十余丈。（《史记•河渠书》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 秋<善>病风疟。（《素问•金匮真言论》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 善
+    type: 【形容词】
+    phonetic: shan4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶美好（与"恶""相对）。
+        sentences:
+          - ancient: 武帝嘉其义，乃遣武以中郎将使持节送匈奴使留在汉者，因厚赂单于，答其<善>意。（《苏武传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 夫列子御风而行，泠然<善>也，旬有五日而后反。（《逍遥游》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 择其<善>者而从之，其不<善>者而改之。（《论语•述而》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 陛下亦宜自谋，以咨诹（zou1，询问）<善>道，察纳雅言，深追先帝遗诏。（《出师表》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】时宦官甘畀……持节于外，有所依凭，无<善>状，燧皆奏罢之。（《宋史•萧燧传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷友好;友善。
+        sentences:
+          - ancient: 惟博陵崔州平、颍川徐庶元直与亮友<善>，谓为信然。（《隆中对》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸熟悉。
+        sentences:
+          - ancient: 这人好生面<善>。（《三国演义》十九回）
+            url: xxxx
+            vernacular: xxxx
+  - word: 善
+    type: 【副词】
+    phonetic: shan4
+    tags:
+      - 高中
+    samples:
+      - trans: 好好地。
+        sentences:
+          - ancient: 子<善>视之。（《左传•昭公十三年》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 今人有大功而击之，不义也，不如因<善>遇之。（《史记•项羽本纪》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】城破，吾夫必死，吾义不独存，然不可使花氏无后，若等<善>抚之。（《明史•花云传》）
             url: xxxx
             vernacular: xxxx

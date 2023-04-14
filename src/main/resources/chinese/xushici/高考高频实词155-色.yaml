@@ -8,41 +8,85 @@ words:
     samples:
       - trans: ❶颜色。
         sentences:
-          - ancient: 落霞与孤鹜（Wu4，野鸭）齐飞，秋水共长天一色。（《滕王阁序》）
-          - ancient: 耳得之而为声，目遇之而成色。（《赤壁赋》）
+          - ancient: 落霞与孤鹜（Wu4，野鸭）齐飞，秋水共长天一<色>。（《滕王阁序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 耳得之而为声，目遇之而成<色>。（《赤壁赋》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷神色;表情。
         sentences:
-          - ancient: 巧言令色，鲜矣仁。（《论语•学而》）
-          - ancient: 太后之色少解（稍微缓和）。（《触龙说赵太后》）
-          - ancient: 富者有惭色。（《为学》）
-          - ancient: 至陛下，秦武阳色变振恐，群臣怪之。（《荆轲刺秦王》）
-          - ancient: 是以就极刑而无愠色。（《报任安书》）
-          - ancient: 断头置城上，颜色不少变。（《五人墓碑记》）
-          - ancient: 屈原既放，游于江潭，行吟泽畔，颜色憔悴，形容枯槁。（《渔父》）
-          - ancient: 【高考题例】而亲贤下士，推毂后进，虽位崇年高，曾无倦色。（《旧唐书•于休烈传》）
+          - ancient: 巧言令<色>，鲜矣仁。（《论语•学而》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 太后之<色>少解（稍微缓和）。（《触龙说赵太后》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 富者有惭<色>。（《为学》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 至陛下，秦武阳<色>变振恐，群臣怪之。（《荆轲刺秦王》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 是以就极刑而无愠<色>。（《报任安书》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 断头置城上，颜<色>不少变。（《五人墓碑记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 屈原既放，游于江潭，行吟泽畔，颜<色>憔悴，形容枯槁。（《渔父》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】而亲贤下士，推毂后进，虽位崇年高，曾无倦<色>。（《旧唐书•于休烈传》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸景色。
         sentences:
-          - ancient: 春色满园关不住，一枝红杏出墙来。（宋•叶绍翁《游园不值》）
-          - ancient: 左天都，右莲花，背倚玉屏风，两峰秀色，俱可手揽。（明•徐霞客《游黄山日记》）
+          - ancient: 春<色>满园关不住，一枝红杏出墙来。（宋•叶绍翁《游园不值》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 左天都，右莲花，背倚玉屏风，两峰秀<色>，俱可手揽。（明•徐霞客《游黄山日记》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❹美色，多指女色。
         sentences:
-          - ancient: 王曰："寡人有疾，寡人好色。"（《孟子•梁惠王下》）
-          - ancient: 毅怪视之，乃殊色也。（《柳毅传》）
-          - ancient: 及壮，试为吏，为泗水亭长，廷中吏无所不狎侮。好酒及色。（《史记•高祖本纪》）
+          - ancient: 王曰："寡人有疾，寡人好<色>。"（《孟子•梁惠王下》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 毅怪视之，乃殊<色>也。（《柳毅传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 及壮，试为吏，为泗水亭长，廷中吏无所不狎侮。好酒及<色>。（《史记•高祖本纪》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❺情欲。
         sentences:
-          - ancient: 食色，性也。（《孟子•告子上》）
+          - ancient: 食<色>，性也。（《孟子•告子上》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❻容颜;容貌。
         sentences:
-          - ancient: 弟走从军阿姨死，暮去朝来颜色故。（《琵琶行》）
+          - ancient: 弟走从军阿姨死，暮去朝来颜<色>故。（《琵琶行》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❼怒色。
         sentences:
-          - ancient: 子贡色作。（《史记•孔子世家》）
+          - ancient: 子贡<色>作。（《史记•孔子世家》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❽种类;品类。
         sentences:
-          - ancient: 诸色名目，悉宜停罢。（唐•陆贽《奉天改元•大赦制》）
-          - ancient: 其赠几何多，六色十五饼。（宋•梅尧臣《吕晋叔著作遗新茶》）
+          - ancient: 诸<色>名目，悉宜停罢。（唐•陆贽《奉天改元•大赦制》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 其赠几何多，六<色>十五饼。（宋•梅尧臣《吕晋叔著作遗新茶》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❾佛教指称一切可以感触到的有形质的东西。
         sentences:
           - ancient: <色>即是空，空即是<色>。（《心经》）
-          - ancient: 空色皆寂灭，缘业亦何名！（唐•陈子昂《感遇》之八）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 空<色>皆寂灭，缘业亦何名！（唐•陈子昂《感遇》之八）
+            url: xxxx
+            vernacular: xxxx

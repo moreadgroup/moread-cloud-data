@@ -8,13 +8,20 @@ words:
     samples:
       - trans: ❶"燃"的本字。燃烧。
         sentences:
-          - ancient: 死灰独不复然乎？（《汉书•韩安国传》）
-          - ancient: 夜然脂照城外。（《三国志•魏书•刘馥传》）
+          - ancient: 死灰独不复<然>乎？（《汉书•韩安国传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 夜<然>脂照城外。（《三国志•魏书•刘馥传》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷认为正确。
         sentences:
-          - ancient: 成（人名）然之。（《促织》）
-          - ancient: 沛公然其计，从之。（《史记•高祖本纪》）
-
+          - ancient: 成（人名）<然>之。（《促织》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 沛公<然>其计，从之。（《史记•高祖本纪》）
+            url: xxxx
+            vernacular: xxxx
   - word: 然
     type: 【形容词】
     phonetic: ran2
@@ -23,10 +30,15 @@ words:
     samples:
       - trans: 正确；对。
         sentences:
-          - ancient: 雍之言然。（《论语•雍也》）
-          - ancient: 今诚以吾众诈自称公子扶苏、项燕，为天下唱（倡导），宜多应者。吴广以为然。（《陈涉世家》）
-          - ancient: 孔子曰"赐，尔以予为多学而识之者与？"曰："然。非与？"（《史记•孔子世家》）
-
+          - ancient: 雍之言<然>。（《论语•雍也》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 今诚以吾众诈自称公子扶苏、项燕，为天下唱（倡导），宜多应者。吴广以为<然>。（《陈涉世家》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 孔子曰"赐，尔以予为多学而识之者与？"曰："<然>。非与？"（《史记•孔子世家》）
+            url: xxxx
+            vernacular: xxxx
   - word: 然
     type: 【代词】
     phonetic: ran2
@@ -35,11 +47,18 @@ words:
     samples:
       - trans: 指示代词。如此;这样。
         sentences:
-          - ancient: 河内凶（庄稼歉收），则移其民于河东，移其粟于河内，河东凶亦然。（《孟子•梁惠王上》）
-          - ancient: 不然，籍（指项羽）何以至此？（《鸿门宴》）
-          - ancient: 同是被逼迫，君尔妾亦然。（《孔雀东南飞》）
-          - ancient: 臣左手把其袖，而右手揕其胸，然则将军之仇报，而燕国见陵之耻除矣。（《荆轲刺秦王》）
-
+          - ancient: 河内凶（庄稼歉收），则移其民于河东，移其粟于河内，河东凶亦<然>。（《孟子•梁惠王上》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 不<然>，籍（指项羽）何以至此？（《鸿门宴》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 同是被逼迫，君尔妾亦<然>。（《孔雀东南飞》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 臣左手把其袖，而右手揕其胸，<然>则将军之仇报，而燕国见陵之耻除矣。（《荆轲刺秦王》）
+            url: xxxx
+            vernacular: xxxx
   - word: 然
     type: 【连词】
     phonetic: ran2
@@ -48,12 +67,21 @@ words:
     samples:
       - trans: 表示转折，然而;但是。
         sentences:
-          - ancient: 然往来视之，觉无异能者;益习其声，又近出前后，终不敢搏。（《黔之驴》）
-          - ancient: 然视其左右，来而记之者已少。（《游褒禅山记》）
-          - ancient: 吾不能早用子，今急而求子，是寡人之过也。然郑亡，子亦有不利焉。（《烛之武退秦师》）
-          - ancient: 将军战河北，臣战河南，然不自意能先入关破秦。（《鸿门宴》）
-          - ancient: 【高考题例】平居谨绳墨，蹈规矩；然性吝啬，殖货至巨万。（《宋史•曾公亮传》）
-
+          - ancient: <然>往来视之，觉无异能者;益习其声，又近出前后，终不敢搏。（《黔之驴》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <然>视其左右，来而记之者已少。（《游褒禅山记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 吾不能早用子，今急而求子，是寡人之过也。<然>郑亡，子亦有不利焉。（《烛之武退秦师》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 将军战河北，臣战河南，<然>不自意能先入关破秦。（《鸿门宴》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】平居谨绳墨，蹈规矩；<然>性吝啬，殖货至巨万。（《宋史•曾公亮传》）
+            url: xxxx
+            vernacular: xxxx
   - word: 然
     type: 【助词】
     phonetic: ran2
@@ -62,12 +90,26 @@ words:
     samples:
       - trans: ❶用于句尾，表示比拟，常用"如……然"的格式，可译为"如••••••一般"或"像……似的"。
         sentences:
-          - ancient: 其视杀人若艾（通""刈"，割）草菅（一种草本植物）然。（《汉书•贾谊传》）
+          - ancient: 其视杀人若艾（通""刈"，割）草菅（一种草本植物）<然>。（《汉书•贾谊传》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷用于形容词后，表示状态"……样子"。
         sentences:
           - ancient: 天油<然>作云，沛<然>下雨。（《孟子•梁惠王上》）
-          - ancient: 虎见之，庞然大物也，以为神，蔽林间窥之。（《黔之驴》）
-          - ancient: 婉贞独戚然曰……（《冯婉贞》）
-          - ancient: 怅然遥相望，知是故人来。（《孔雀东南飞》）
-          - ancient: 纵一苇之所如，凌（越过）万顷之茫然。（《赤壁赋》）
-          - ancient: 【高考题例】休烈恬然自持，殊不介意。（《旧唐书•于休烈传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 虎见之，庞<然>大物也，以为神，蔽林间窥之。（《黔之驴》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 婉贞独戚<然>曰……（《冯婉贞》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 怅<然>遥相望，知是故人来。（《孔雀东南飞》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 纵一苇之所如，凌（越过）万顷之茫<然>。（《赤壁赋》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】休烈恬<然>自持，殊不介意。（《旧唐书•于休烈传》）
+            url: xxxx
+            vernacular: xxxx

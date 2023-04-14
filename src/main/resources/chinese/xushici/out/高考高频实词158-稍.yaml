@@ -1,13 +1,87 @@
 ---
 words:
-  - word: xxxx
+  - word: 稍
     type: 【名词】
-    phonetic: xx1
+    phonetic: shao1
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶禾的末梢。
         sentences:
-          - ancient: xxx
+          - ancient: 四郊之赋，以待<稍>秣。（《周礼•天官•大府》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷周代离王城三百里的地域。
+        sentences:
+          - ancient: <稍>人下士四人。（《周礼•地官•序官》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸官府发给的粮食。
+        sentences:
+          - ancient: 今诸生学于太学，县官日有廩<稍>之供，父母岁有裘葛之遗（wei4，送），无冻馁之患矣。（《送东阳马生序》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 稍
+    type: 【动词】
+    phonetic: shao1
+    tags:
+      - 高中
+    samples:
+      - trans: 通"捎"。捎带。
+        sentences:
+          - ancient: 他如今去汴梁做买卖，我写一封书<稍>将去。（元•关汉卿《救风尘》二折）
+            url: xxxx
+            vernacular: xxxx
+  - word: 稍
+    type: 【形容词】
+    phonetic: shao1
+    tags:
+      - 高中
+    samples:
+      - trans: 小。
+        sentences:
+          - ancient: 凡王之<稍>事，设荐脯醢。（《周礼•天官•膳夫》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 稍
+    type: 【副词】
+    phonetic: shao1
+    tags:
+      - 高中
+    samples:
+      - trans: ❶逐渐。
+        sentences:
+          - ancient: <稍>出近之，慭慭然（愁yin4，小心谨慎的样子），莫相知。（《黔之妒》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <稍>见云中白若樗蒱（chu1pu2，指—种赌具）数十立者，山也。（《登泰山沱》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 少以父任，兄弟并为郎。<稍>迁至栘中厩监。（《苏武传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 夫人不能早自裁绳墨之外，以<稍>陵迟，至于鞭箠之间，乃欲引节，斯不亦远乎！（《报任安书》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 可急使兵守函谷关，无内诸侯军，<稍>征关中兵以自益，距之。（《史记•高祖本纪》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】贾生数（多次）上疏，言诸侯或（有的）连数郡，非古，之制，可<稍>削之。（《史记•屈原贾生列传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷颇;很。
+        sentences:
+          - ancient: 落花纷纷<稍>觉多，美人欲醉朱颜酡（tuo2，酒醉后脸色发红）。（唐•李白《前有樽酒行》之一），
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸稍微。
+        sentences:
+          - ancient: 录毕，走送之，不敢<稍>逾约。（《送东阳马生序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 余<稍>为修葺，使不上漏。（《项脊轩志》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】萍寄（像浮萍一样漂泊托身）诸州，凡十五六年，其牧守<稍>薄，则又移居，故其迁徙者，盖（大概）十余州焉。（《旧唐书•李揆传》）
             url: xxxx
             vernacular: xxxx

@@ -1,13 +1,44 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 忍
+    type: 【动词】
+    phonetic: ren3
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶忍耐;忍受。
         sentences:
-          - ancient: xxx
+          - ancient: 且相如素（本来）贱人，吾羞，不<忍>为之下！（《廉颇蔺相如列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 液童之为是心也，诚不可<忍>。（《柳毅传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 屈心而抑志兮，<忍>尤而攘诟。（《离骚》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 予分当引决，然而隐<忍>以行。（《〈指南录〉后序》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷克制。
+        sentences:
+          - ancient: 志<忍>私，然后能公;行<忍>情性，然后能修。（《荀子・儒效》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸狠心;硬着心肠。
+        sentences:
+          - ancient: 君王为人不<忍>。（《鸿门宴》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 百姓皆以王为爱也，臣固（的确）知王之不<忍>也。（《齐桓晋文之事》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 恻隐不<忍>，仁之气也。（《论衡•本性》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 荆轲知太子不<忍>，乃遂私见樊於期。（《荆轲刺秦王》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】东西异路，不当与，然安<忍>于旧治坐视？（《宋史•萧燧传》）
             url: xxxx
             vernacular: xxxx
