@@ -1,9 +1,44 @@
 ---
 quizzes:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
-    url: xxxx
-    vernacular: xxxx
+- word: 让
+  type: 【动词】
+  phonetic: rang4
+  trans: ❶责备;责怪。
+  ancient: "平原君使者冠盖相属（zhu3，接连不断）于魏，<让>魏公子曰\t（《史记•魏公子顷］传》）"
+  url: xxxx
+  vernacular: xxxx
+- word: 让
+  type: 【动词】
+  phonetic: rang4
+  trans: ❶责备;责怪。
+  ancient: 使者大喜，如惠语以<让>单于。（《苏武传》）
+  url: xxxx
+  vernacular: xxxx
+- word: 让
+  type: 【动词】
+  phonetic: rang4
+  trans: ❷谦让;退让。
+  ancient: 侯生摄敝衣冠，直上载公子上座，不<让>，欲以观公子。（《史记•魏公子列传》）
+  url: xxxx
+  vernacular: xxxx
+- word: 让
+  type: 【动词】
+  phonetic: rang4
+  trans: ❷谦让;退让。
+  ancient: 大行不顾细谨（细小的地忍方），大礼不辞小<让>。（《鸿门宴》）
+  url: xxxx
+  vernacular: xxxx
+- word: 让
+  type: 【动词】
+  phonetic: rang4
+  trans: ❷谦让;退让。
+  ancient: 禹拜稽首，<让>于契、后稷、皋陶。（《史记•夏本纪》）
+  url: xxxx
+  vernacular: xxxx
+- word: 让
+  type: 【动词】
+  phonetic: rang4
+  trans: ❸把自己的权力、职位等交给别人。
+  ancient: 信贤而任之，君之明也；<让>贤而下之，臣之忠也。 （《吕氏春秋•慎人》）
+  url: xxxx
+  vernacular: xxxx
