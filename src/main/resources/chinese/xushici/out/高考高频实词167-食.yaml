@@ -1,13 +1,89 @@
 ---
 words:
-  - word: xxxx
+  - word: 食
     type: 【名词】
-    phonetic: xx1
+    phonetic: shi2
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶食物;吃的东西。
         sentences:
-          - ancient: xxx
+          - ancient: "美其服，饱其<食>，洁其居,而摩厉（同\"磨砺\"，切磋）之于义。（《勾践灭吴》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 卖炭得钱何所营？身上衣裳口中<食>。（唐•白居易《卖炭翁》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 武既至海上，廩<食>（公家供给的口粮）不至。（《苏武传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷粮食。
+        sentences:
+          - ancient: 夫定国之术，在于强兵足<食>。（汉•曹操《置屯田令》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸俸禄。
+        sentences:
+          - ancient: 岁终，则稽其医事，以制其<食>。（《周礼•天官•医师》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 且出怨言，不食（接受）其<食>（俸禄）。（《介之推不言禄》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 食
+    type: 【动词】
+    phonetic: shi2
+    tags:
+      - 高中
+    samples:
+      - trans: ❶吃。
+        sentences:
+          - ancient: 修春秋冬夏之常祭，<食>天壤山川之故祀，必以时。（《管子•幼官》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 见其生，不忍见其死；闻其声，不忍<食>其肉。（《齐桓晋文之事》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "桑之未落，其叶沃若。于嗟鸠兮,无<食>桑葚！（《诗经•卫风•氓》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 蚓无爪牙之利，筋骨之强，上<食>埃土，下饮黄泉，用心一也。（《劝学》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷祭祀。
+        sentences:
+          - ancient: 至今血<食>。（《陈涉世家》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸垦殖。
+        sentences:
+          - ancient: 我死，则择不<食>之地而葬我焉。（《礼记•檀弓上》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹通"蚀"。日月亏缺或完全不见的现象。
+        sentences:
+          - ancient: 君子之过也，如日月之<食>焉。过也，人皆见之；更（改正）也，人皆仰之。（《论语•子张》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❺接受;享用。
+        sentences:
+          - ancient: 不<食>其禄。（《史记•晋世家》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 食
+    type: 【动词】
+    phonetic: si4
+    tags:
+      - 高中
+    samples:
+      - trans: 同"饲"。给吃;喂养。
+        sentences:
+          - ancient: 左右以君贱之也，<食>以草具（粗劣的食物）。（《冯谖客孟尝君》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <食>马者不知其能芋里而<食>也。（《马说》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "有粮者亦<食>,无粮者亦<食>。（《赵威后问齐使》）"
             url: xxxx
             vernacular: xxxx

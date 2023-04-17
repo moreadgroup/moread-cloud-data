@@ -1,13 +1,87 @@
 ---
 words:
-  - word: xxxx
+  - word: 始
     type: 【名词】
-    phonetic: xx1
+    phonetic: shi3
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶开始阶段;开端。
         sentences:
-          - ancient: xxx
+          - ancient: 燕赵之君，<始>有远略，能守其土，义（坚守道义）不赂秦。（《六国论》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "养生丧死（给死者办戒事）无憾,王道之<始>也。（《寡人之于国也》）"
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷最初；当初。
+        sentences:
+          - ancient: 庭中<始>为篱，已为墙，凡（总共）再变矣。（《项脊轩志》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 且夫我尝闻少（轻视）仲尼之闻而轻伯夷之义者，<始>吾弗信;今吾睹子之难穷也，吾非至于子之门则殆（危险）矣。（《秋水》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 始
+    type: 【动词】
+    phonetic: shi3
+    tags:
+      - 高中
+    samples:
+      - trans: 幵始;开端。
+        sentences:
+          - ancient: 千里之行，<始>于足下。（《老子》六十四章）
+            url: xxxx
+            vernacular: xxxx
+  - word: 始
+    type: 【副词】
+    phonetic: shi3
+    tags:
+      - 高中
+    samples:
+      - trans: ❶表示动作行为的开始。
+        sentences:
+          - ancient: 木欣欣以向荣，泉涓涓而<始>流。（《归去来兮辞》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 唐浮图（和尚）慧褒<始>舍于其址。（《游褒禅山记》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷表示动作行为开始的一段时间，用于追述过去。当初;开始。
+        sentences:
+          - ancient: "<始>吾于人也，听其言而信其行;今吾于人也,听其言而观其行。（《论语•公冶长》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "郭橐驼（橐tuo2,驼背的人），不知<始>何名。（《种树郭橐驼传》"
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸表示动作开始不久。刚刚。
+        sentences:
+          - ancient: 使取汝者<始>行，吾又罢去（免去官职离开），汝又不果来。（《祭十二郎文》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 江田西陵，<始>得平地，其流奔放肆大。（宋•苏辙《黄州快哉亭记》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹表示在某种条件下，才出现某种情况。方才;这才。
+        sentences:
+          - ancient: 寒暑易（变换）节，<始>一反焉。（《愚公移山》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "是故燕虽小国而后亡，斯（这）用兵之效也。至丹以荆卿为计,<始>速（招致）祸焉。（《六国论》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 贫贱有此女，<始>适（出嫁）还家门。（《孔雀东南飞》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 千呼万唤<始>出来，犹抱琵琶半遮面。（《琵琶行》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❺表示曾经有过某种行为。尝。
+        sentences:
+          - ancient: 有以为未<始>有物者。（《庄子•齐物论》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 以为凡是州之山水有异态者，皆我有也，而未<始>知西山之怪特。（《始得西山宴游记》）
             url: xxxx
             vernacular: xxxx

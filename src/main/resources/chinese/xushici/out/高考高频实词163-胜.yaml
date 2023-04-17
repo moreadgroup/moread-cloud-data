@@ -1,13 +1,111 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 胜
+    type: 【动词】
+    phonetic: sheng1
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶承担得了；经受得起。
         sentences:
-          - ancient: xxx
+          - ancient: 沛公（指刘邦）不<胜>杯杓，不能辞。（《鸿门宴》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 德不处其摩，情不<胜>其欲，斯亦伐根以求木茂，塞源而欲流长者也。（《谏太宗十思疏》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "臣不<胜>犬马怖惧之情,谨拜表以闻。（《陈情表》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 驴不<胜>怒，蹄之。（《黔之驴》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】其间岂无刚頁之人，而弗<胜>龃龉（比喻意见不合），多不能安其身。（《明史•陈登云"传"》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】水浅不<胜>舟，陆当用车八千乘，沿边方登（丰收）麦，愿以运费增价就籴（买）之。（《宋史•何灌传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷尽;完。
+        sentences:
+          - ancient: 不违农时，谷不可<胜>食也。（《寡人之于国也》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "夫秦王有虎狼之心,杀人如不能举（尽），刑人如恐不<胜>，天下皆叛之。（《鸿门宴》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "后世之谬其传而莫能名者,何可<胜>道也哉！（《游褒禅山记》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 古者富贵而名摩灭，不可<胜>记，唯倜傥非常之人称焉。（《报任安书》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 胜
+    type: 【名词】
+    phonetic: sheng4
+    tags:
+      - 高中
+    samples:
+      - trans: 优越美好的人或事物。
+        sentences:
+          - ancient: 宣武（桓温）集诸名<胜>（名流）讲《易》，日说一卦。（《世说航语•文学》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 见怪石特出，度其下必有殊<胜>。（唐•柳宗元《永州崔中丞万石亭记》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 胜
+    type: 【动词】
+    phonetic: sheng4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶胜利。
+        sentences:
+          - ancient: 赵尝五战于秦，二败而三<胜>。（《六国论》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷制服;战胜（与"败"相对）。
+        sentences:
+          - ancient: 仁之<胜>不仁也，犹水之<胜>火。（《孟子•告子上》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 夫六国与秦皆诸侯，其势弱于秦，而犹有可以不赂而<胜>之之势。（《六国论》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸超过;胜过。
+        sentences:
+          - ancient: 日出江花红<胜>火，春来江水绿如蓝。（唐•白居易《忆江南》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 别有幽愁暗恨生，此时无声<胜>有声。（《琵琶行》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 胜
+    type: 【形容词】
+    phonetic: sheng4
+    tags:
+      - 高中
+    samples:
+      - trans: 优美;美好。
+        sentences:
+          - ancient: <胜>地不常（长存），盛筵难再。（《滕王阁序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "予观夫巴陵<胜>状,在孺庭一湖。（《岳阳楼记》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 东南形<胜>，三吴都会，钱塘自古繁华。（宋•柳永《望海潮》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 胜
+    type: 【副词】
+    phonetic: sheng4
+    tags:
+      - 高中
+    samples:
+      - trans: 尽，全，都。
+        sentences:
+          - ancient: "【高考题例】在职九年，稽核财赋,修筑陂塘埒岸，不可<胜>计。（明•张岳《张祖传》）"
             url: xxxx
             vernacular: xxxx

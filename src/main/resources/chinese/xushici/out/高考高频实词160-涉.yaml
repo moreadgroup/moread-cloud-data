@@ -1,13 +1,53 @@
 ---
 words:
-  - word: xxxx
+  - word: 涉
     type: 【名词】
-    phonetic: xx1
+    phonetic: she4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: 渡口。
         sentences:
-          - ancient: xxx
+          - ancient: "匏（pao2,-种葫芦）有苦叶，济（渡口）有深<涉>。（《诗经•邶风•匏有苦叶》）"
+            url: xxxx
+            vernacular: xxxx
+  - word: 涉
+    type: 【动词】
+    phonetic: she4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶徒步渡水。
+        sentences:
+          - ancient: 滩水暴益，荆人弗知，循表（标志）而夜<涉>。（《吕氏春秋•察今》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 送子<涉>淇，至工顿丘。（《诗经•卫风•氓》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 以小舟<涉>鲸波出，无可奈何，而死固付之度外矣。（《〈指南录〉后序》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷到达;游历。
+        sentences:
+          - ancient: 园日<涉>以成趣，门虽设而常关。（《归去来兮辞》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 驱中国（中原地区）士众远<涉>江湖之间，不习水土，必生疾病。（《资治通鉴•汉纪五十七》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸经历。
+        sentences:
+          - ancient: 仆自到九江，已<涉>三载。（唐•白居易《与元微之书》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹浏览。
+        sentences:
+          - ancient: 少好学，博<涉>书记。（《后汉书•仲长统传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❺牵涉;关联。
+        sentences:
+          - ancient: 而言有关<涉>，事便显露。（《史通•叙事》）
             url: xxxx
             vernacular: xxxx

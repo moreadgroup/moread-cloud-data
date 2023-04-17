@@ -1,12 +1,55 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 审
+    type: 【动词】
+    phonetic: shen3
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶仔细考察、研究。
+        sentences:
+          - ancient: 故<审>堂下之阴，而知日月之行，阴阳之变。（《吕氏春秋•察今》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷审讯;审问。
+        sentences:
+          - ancient: 余经秋<审>皆减等发配。（《狱中杂记》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 审
+    type: 【形容词】
+    phonetic: shen3
+    tags:
+      - 高中
+    samples:
+      - trans: ❶周密;详细。
+        sentences:
+          - ancient: <审>问而明辨之也。（清•刘开《问说》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <审>视，巨身修（长）尾，青项金翅。（《促织》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷慎重。
+        sentences:
+          - ancient: 故曰："兵者，凶器也。"不可不<审>用也。（《韩非子•存韩》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸清楚;明白。
+        sentences:
+          - ancient: "由此言之，勇怯，势也；强弱，形也。<审>矣,何足怪乎？（《报任安书》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 当局称迷，傍观见<审>。（《旧唐书•元行冲传》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 审
+    type: 【副词】
+    phonetic: shen3
+    tags:
+      - 高中
+    samples:
+      - trans: 的确;确实。
         sentences:
           - ancient: xxx
             url: xxxx
