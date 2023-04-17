@@ -10,23 +10,23 @@ words:
         sentences:
           - ancient: 今<少>一人，愿君即以遂（毛遂自称）备员而行矣。（《史记•平原君虞卿列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 现在还少一个人，希望先生就以（我）毛遂凑足人数出发吧！
           - ancient: 遥知兄弟登高处，遍插茱萸<少>一人。（唐•王维《九月九日忆山东兄弟》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 遥想兄弟们今日登高望远时，头上插满茱萸只少我一人。
       - trans: ❷轻视;贬低。
         sentences:
-          - ancient: 且夫我尝闻<少>仲尼之闻而轻伯夷之义者，始吾弗信。（《秋水》）
+          - ancient: 且夫我尝闻<少>仲尼之闻，而轻伯夷之义者，始吾弗信。（《秋水》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我曾经听说有认为孔子的知识少、伯夷的仁义轻的人，一开头我不相信。
       - trans: ❸削弱;减少。
         sentences:
           - ancient: 欲天下之治安，莫若众建诸侯而<少>其力。（汉•贾谊《陈政事疏》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 要想使天下安定，最好多多建立诸侯国而使他们的势力减小。
           - ancient: 邻国之民不加<少>，寡人之民不加多，何也？（《寡人之于国也》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 邻国的百姓并不见减少，我的百姓不见增多，这是为什么呢？
   - word: 少
     type: 【形容词】
     phonetic: shao3
@@ -37,15 +37,15 @@ words:
         sentences:
           - ancient: 义不杀<少>而杀众，不可谓知类。（《公输》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 您守义不杀人,却要（发动战争）杀众多的人,不能说是懂得类推啊（类,为类推之义.意译：不能说是明白事理啊）。
           - ancient: 然视其左右，来而记之者已<少>。（《游褒禅山记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 然而看看左右的石壁，来此而题记的人已经很少了。
       - trans: ❷薄弱;小。
         sentences:
-          - ancient: 力<少>而不畏强。（《韩非子.亡征》）
+          - ancient: 国小而不处卑，力<少>而不畏强，无理而侮大邻，贪愎而拙交者，可亡也。（《韩非子.亡征》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 国家弱小而又不愿放低姿态；力量弱小而又不畏惧强大的国家；没有礼貌还羞辱强大的邻国；贪婪刚愎自用且不擅外交，国家就可能灭亡。
   - word: 少
     type: 【副词】
     phonetic: shao3
@@ -56,24 +56,24 @@ words:
         sentences:
           - ancient: 北蛮夷之鄙人，未尝见天子，故振慑，愿大王<少>假借之，使毕使于前。（《荆轲刺秦王》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: （他是）北方边远地区的粗俗人,不曾见过天子,所以害怕,望大王宽恕他,让他在您面前完成使命.
           - ancient: 断头置城上，颜色不<少>变。（《五人墓碑记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 被砍下的首级放在城上示众，脸色没有一点改变。
           - ancient: 日三四里，<少>益耆食，和于身。（《触龙说赵太后》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 每天走上三四里，就慢慢地稍微增加点食欲，身上也比较舒适了。
           - ancient: 【高考题例】贼怒，碎其首，缚诸（之于）檣丛射之，骂贼不<少>变，至死声犹（仍）壮，年三十有九。（《明史•花云传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 敌人很气怒，打破他的头，把他绑在桅杆上，用乱箭射他。花云痛骂敌人没有丝毫改变，至死声音还很雄壮，时年三十九岁。
       - trans: ❷不多时;一会儿。
         sentences:
           - ancient: <少>则洋洋焉，攸然（自得的样子）而逝。（《孟子•万章上》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 过了一会儿就灵活自在了，迅速地游动看不见了。
           - ancient: <少>焉，月出于东山之上，徘徊于斗牛之间。（《赤壁赋》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 不一会儿，明月从东山后升起，徘徊在斗宿与牛宿之间。
   - word: 少
     type: 【名词】
     phonetic: shao4
@@ -82,9 +82,9 @@ words:
     samples:
       - trans: 青年人。
         sentences:
-          - ancient: 顶句群贤毕至，<少>长咸（全）集。（《兰亭集序》）
+          - ancient: 群贤毕至，<少>长咸（全）集。（《兰亭集序》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 诸多贤士能人都汇聚到这里，年长、年少者都聚集在这里。
   - word: 少
     type: 【形容词】
     phonetic: shao4
@@ -95,21 +95,21 @@ words:
         sentences:
           - ancient: 陈涉<少>时，尝与人佣耕。（《陈涉世家》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 陈胜年轻时，曾同别人一起被雇佣给人耕地
           - ancient: 是故无贵无贱，无长无<少>，道之所存，师之所存也。（《师说》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 因此，无论地位高低贵贱，无论年纪大小，道理存在的地方，就是老师存在的地方。
           - ancient: 子卿妇年<少>，闻已更嫁矣。（《苏武传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 你的夫人年纪还轻，听说已改嫁了
           - ancient: 老臣贱息（儿子）舒祺，最<少>，不肖。（《触龙说赵太后》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 犬子舒祺，年龄最小，不成器
           - ancient: 吾闻二世<少>子也，不当立。（《陈涉世家》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我听说秦二世是始皇帝的小儿子，不应立为皇帝
       - trans: ❷副的（职位）。
         sentences:
-          - ancient: 于是为置三<少>……曰<少>保、<少>傅、<少>师。（《汉书•贾谊传》）
+          - ancient: 于是为置三<少>，皆上大夫也，曰<少>保、<少>傅、<少>师。（《汉书•贾谊传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 于是又设三少，都是上大夫级别，叫少保、少傅、少师。
