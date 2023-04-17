@@ -8,14 +8,19 @@ words:
     samples:
       - trans: ❶知己；朋友。
         sentences:
-          - ancient: 异乡无旧识，车马到门稀。（唐•刘禹锡《元日感怀》）
+          - ancient: 异乡无旧<识>，车马到门稀。（唐•刘禹锡《元日感怀》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷知识;见识。
         sentences:
-          - ancient: 鄙夫寡识，而今而后，乃知大汉之德馨，咸（全）在于此。（汉•张衡《东京赋》）
+          - ancient: 鄙夫寡<识>，而今而后，乃知大汉之德馨，咸（全）在于此。（汉•张衡《东京赋》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸思想意识。
         sentences:
-          - ancient: 固知识能匡欲者鲜矣。（《后汉书•马融传》）
-
+          - ancient: 固知<识>能匡欲者鲜矣。（《后汉书•马融传》）
+            url: xxxx
+            vernacular: xxxx
   - word: 识
     type: 【动词】
     phonetic: shi2
@@ -24,14 +29,23 @@ words:
     samples:
       - trans: ❶知道;懂得。
         sentences:
-          - ancient: 而今识尽愁滋味，欲说还休。（宋•辛弃疾《丑奴儿•书博山道中壁》）
-          - ancient: 仆虽怯懦,欲苟活，亦颇识去就之分（分fen4,去辱就义的道理）矣。（《报任安书》）
+          - ancient: 而今<识>尽愁滋味，欲说还休。（宋•辛弃疾《丑奴儿•书博山道中壁》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "仆虽怯懦,欲苟活，亦颇<识>去就之分（分fen4,去辱就义的道理）矣。（《报任安书》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷熟悉;认识。
         sentences:
-          - ancient: 为宫室之美、妻妾之奉、所识，穷乏者得（同"德"，感激）我与？（《鱼我所欲也》）
-          - ancient: 同是天涯沦落人，相逢何必曾相识！（《琵琶行》）
-          - ancient: 雁过也，正伤心,却是旧时相识。（《声声慢》）
-
+          - ancient: 为宫室之美、妻妾之奉、所<识>，穷乏者得（同"德"，感激）我与？（《鱼我所欲也》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 同是天涯沦落人，相逢何必曾相<识>！（《琵琶行》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "雁过也，正伤心,却是旧时相<识>。（《声声慢》）"
+            url: xxxx
+            vernacular: xxxx
   - word: 识
     type: 【名词】
     phonetic: zhi4
@@ -40,8 +54,9 @@ words:
     samples:
       - trans: 通"帜"。标志;记号。
         sentences:
-          - ancient: 讫无文号旌旗表识。（《汉书•王莽传》）
-
+          - ancient: 讫无文号旌旗表<识>。（《汉书•王莽传》）
+            url: xxxx
+            vernacular: xxxx
   - word: 识
     type: 【动词】
     phonetic: zhi4
@@ -50,5 +65,9 @@ words:
     samples:
       - trans: 通"志"。记住。
         sentences:
-          - ancient: 默而识之，学而不厌（满足），诲人不倦，何有于我哉！（《论语・学而》）
-          - ancient: 因笑谓迈（人名）曰："汝识之乎？"（《石钟山记》）
+          - ancient: 默而<识>之，学而不厌（满足），诲人不倦，何有于我哉！（《论语・学而》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 因笑谓迈（人名）曰："汝<识>之乎？"（《石钟山记》）
+            url: xxxx
+            vernacular: xxxx

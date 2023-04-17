@@ -8,12 +8,24 @@ words:
     samples:
       - trans: 过分;厉害。
         sentences:
-          - ancient: 由此观之,王之魅（受蒙蔽）甚矣。（《邹忌讽齐王纳谏》）
-          - ancient: 今君与廉颇同列，廉君宣恶言，而君畏匿之，恐惧殊甚。（《廉颇蔺相如列传》）
-          - ancient: 孰知赋敛之毒,有甚是蛇者乎!（《捕蛇者说》）
-          - ancient: 虽累百世，垢弥甚耳！（《报任安书》）
-          - ancient: 至攘人犬豕鸡豚者，其不义又甚入人园圃窃桃李。（《墨子•非攻》）
-          - ancient: 【高考题例】凡四十有二，而水旱不与焉，灾未有若是甚者。（《明史•傅珪传》）
+          - ancient: "由此观之,王之魅（受蒙蔽）<甚>矣。（《邹忌讽齐王纳谏》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 今君与廉颇同列，廉君宣恶言，而君畏匿之，恐惧殊<甚>。（《廉颇蔺相如列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "孰知赋敛之毒,有<甚>是蛇者乎!（《捕蛇者说》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 虽累百世，垢弥<甚>耳！（《报任安书》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 至攘人犬豕鸡豚者，其不义又<甚>入人园圃窃桃李。（《墨子•非攻》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】凡四十有二，而水旱不与焉，灾未有若是<甚>者。（《明史•傅珪传》）
+            url: xxxx
+            vernacular: xxxx
   - word: 甚
     type: 【代词】
     phonetic: shen4
@@ -22,8 +34,12 @@ words:
     samples:
       - trans: 什么;怎么。
         sentences:
-          - ancient: 甚当年，寂寞贾长沙（指贾谊），伤时哭？（宋•辛弃疾《满江红》）
-          - ancient: 酒旗戏鼓甚处市。（宋•周邦彦《西河》）
+          - ancient: <甚>当年，寂寞贾长沙（指贾谊），伤时哭？（宋•辛弃疾《满江红》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 酒旗戏鼓<甚>处市。（宋•周邦彦《西河》）
+            url: xxxx
+            vernacular: xxxx
   - word: 甚
     type: 【副词】
     phonetic: shen4
@@ -32,7 +48,15 @@ words:
     samples:
       - trans: 常用在动词、形容词之前，表示程度相当深，可译为"很""非常"等。
         sentences:
-          - ancient: 秦人视之，亦不甚惜。（《阿房宫赋》）
-          - ancient: 其下平旷，有泉侧出，而记游者甚众。（《游褒禅山记》）
-          - ancient: 子孙视之不甚惜，举以予人，如弃草芥。（《六国论》）
-          - ancient: 妪，先大母婢也，乳二世，先妣抚之甚厚。（《项脊轩志》）
+          - ancient: 秦人视之，亦不<甚>惜。（《阿房宫赋》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 其下平旷，有泉侧出，而记游者<甚>众。（《游褒禅山记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 子孙视之不<甚>惜，举以予人，如弃草芥。（《六国论》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 妪，先大母婢也，乳二世，先妣抚之<甚>厚。（《项脊轩志》）
+            url: xxxx
+            vernacular: xxxx
