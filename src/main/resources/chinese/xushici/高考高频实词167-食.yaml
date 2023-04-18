@@ -8,28 +8,28 @@ words:
     samples:
       - trans: ❶食物;吃的东西。
         sentences:
-          - ancient: "美其服，饱其<食>，洁其居,而摩厉（同\"磨砺\"，切磋）之于义。（《勾践灭吴》）"
+          - ancient: "其达士，洁其居，美其服，饱其<食>，而摩厉（同\"磨砺\"，切磋）之于义。（《勾践灭吴》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 那些明智理之士，把他的住宅打扫清洁，给他们穿漂亮的衣服，让他们吃饱饭，在义理方面磨砺他们。
           - ancient: 卖炭得钱何所营？身上衣裳口中<食>。（唐•白居易《卖炭翁》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 卖炭得到的钱用来干什么？换取身上的衣服和填肚的食物。
           - ancient: 武既至海上，廩<食>（公家供给的口粮）不至。（《苏武传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 苏武迁移到北海后，公家发给的粮食不来
       - trans: ❷粮食。
         sentences:
           - ancient: 夫定国之术，在于强兵足<食>。（汉•曹操《置屯田令》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 使国家安定的根本方法,在于军队强大,人民食物充足。
       - trans: ❸俸禄。
         sentences:
           - ancient: 岁终，则稽其医事，以制其<食>。（《周礼•天官•医师》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 岁末，就检查医疗事务，以控制他们的饮食。
           - ancient: 且出怨言，不食（接受）其<食>（俸禄）。（《介之推不言禄》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 况且说出埋怨的话了，（以后）不应接受他的俸禄了。
   - word: 食
     type: 【动词】
     phonetic: shi2
@@ -40,36 +40,36 @@ words:
         sentences:
           - ancient: 修春秋冬夏之常祭，<食>天壤山川之故祀，必以时。（《管子•幼官》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 修建春、秋、冬、夏四季的常规祭祀，食用天地、山川的故祀，必须按时进行。
           - ancient: 见其生，不忍见其死；闻其声，不忍<食>其肉。（《齐桓晋文之事》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 看见它活着，便不忍心看它死；听到它（哀鸣）的声音，便不忍心吃它的肉。
           - ancient: "桑之未落，其叶沃若。于嗟鸠兮,无<食>桑葚！（《诗经•卫风•氓》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 桑树还没落叶的时候，桑叶像水浸润过一样有光泽。唉那些斑鸠呀，不要贪吃桑葚。
           - ancient: 蚓无爪牙之利，筋骨之强，上<食>埃土，下饮黄泉，用心一也。（《劝学》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 蚯蚓没有锋利的爪牙,强健的筋骨,却能上吃泥土,下饮泉水,是因为它用心专一。
       - trans: ❷祭祀。
         sentences:
-          - ancient: 至今血<食>。（《陈涉世家》）
+          - ancient: 高祖时为陈涉置守頉三十家砀，至今血<食>。（《陈涉世家》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 汉高祖时，在砀县安置了三十户人家为陈涉看守坟墓，到汉武帝时仍按时杀牲祭祀他。
       - trans: ❸垦殖。
         sentences:
           - ancient: 我死，则择不<食>之地而葬我焉。（《礼记•檀弓上》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我死后，就选择不开垦土地的地方来埋葬我。
       - trans: ❹通"蚀"。日月亏缺或完全不见的现象。
         sentences:
           - ancient: 君子之过也，如日月之<食>焉。过也，人皆见之；更（改正）也，人皆仰之。（《论语•子张》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 道德高尚的人的过失，像日食月食一样。有过错时，人们都看得见；改正过错的时候，人们都仰望着他。
       - trans: ❺接受;享用。
         sentences:
           - ancient: 不<食>其禄。（《史记•晋世家》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 不应接受他的俸禄了。
   - word: 食
     type: 【动词】
     phonetic: si4
@@ -80,10 +80,10 @@ words:
         sentences:
           - ancient: 左右以君贱之也，<食>以草具（粗劣的食物）。（《冯谖客孟尝君》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 那些手下的人因为孟尝君看不起冯谖，所以只给粗茶谈饭他吃。
           - ancient: <食>马者不知其能芋里而<食>也。（《马说》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 喂马的人不知道它能（日行）千里而（像普通的马一样）来喂养它。
           - ancient: "有粮者亦<食>,无粮者亦<食>。（《赵威后问齐使》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 他主张有粮食的人让他们有饭吃，没粮食的人也让他们有饭吃

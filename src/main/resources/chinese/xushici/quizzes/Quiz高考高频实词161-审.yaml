@@ -1,9 +1,58 @@
 ---
 quizzes:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
+  - word: 审
+    type: 【动词】
+    phonetic: shen3
+    trans: ❶仔细考察、研究。
+    ancient: 故<审>堂下之阴，而知日月之行，阴阳之变。（《吕氏春秋•察今》）
+    url: xxxx
+    vernacular: "所以察看屋堂前的影子,就知道日月在运转,阴阳在变化."
+  - word: 审
+    type: 【动词】
+    phonetic: shen3
+    trans: ❷审讯;审问。
+    ancient: 大盗未杀人及他犯同谋多人者，止主谋一二人立决；余经秋<审>皆减等发配。（《狱中杂记》）
+    url: xxxx
+    vernacular: 大盗没杀过人和有同犯多人的只是主谋的一两个人立时处决，其余人犯交付八月秋审后概给减等充军。
+  - word: 审
+    type: 【形容词】
+    phonetic: shen3
+    trans: ❶周密;详细。
+    ancient: 所谓交相问难，<审>问而明辨之也。（清•刘开《问说》）
+    url: xxxx
+    vernacular: 这就是所说的互相诘问，详细地考察，明确地分辨。
+  - word: 审
+    type: 【形容词】
+    phonetic: shen3
+    trans: ❶周密;详细。
+    ancient: <审>视，巨身修（长）尾，青项金翅。（《促织》）
+    url: xxxx
+    vernacular: 仔细一看，只见蟋蟀个儿大，尾巴长，青色的颈项，金黄色的翅膀。
+  - word: 审
+    type: 【形容词】
+    phonetic: shen3
+    trans: ❷慎重。
+    ancient: 故曰："兵者，凶器也。"不可不<审>用也。（《韩非子•存韩》）
+    url: xxxx
+    vernacular: 军队是不吉祥的工具，不能不谨慎使用。
+  - word: 审
+    type: 【形容词】
+    phonetic: shen3
+    trans: ❸清楚;明白。
+    ancient: "由此言之，勇怯，势也；强弱，形也。<审>矣,何足怪乎？（《报任安书》）"
+    url: xxxx
+    vernacular: 照这样说来，勇敢或怯懦，乃是形势所造成；坚强或懦弱，也是形势所决定。这是很清楚明白的事了，有什么奇怪的呢？
+  - word: 审
+    type: 【形容词】
+    phonetic: shen3
+    trans: ❸清楚;明白。
+    ancient: 当局称迷，傍观见<审>。（《旧唐书•元行冲传》）
+    url: xxxx
+    vernacular: 下棋的人临局糊涂，在局外旁观的人则看得清楚。
+  - word: 审
+    type: 【副词】
+    phonetic: shen3
+    trans: 的确;确实。
     ancient: xxx
     url: xxxx
     vernacular: xxxx

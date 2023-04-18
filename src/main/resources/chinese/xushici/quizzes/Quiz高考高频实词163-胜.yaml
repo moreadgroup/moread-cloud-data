@@ -1,9 +1,149 @@
 ---
 quizzes:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+  - word: 胜
+    type: 【动词】
+    phonetic: sheng1
+    trans: ❶承担得了；经受得起。
+    ancient: 沛公（指刘邦）不<胜>杯杓，不能辞。（《鸿门宴》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 刘邦禁不起多喝酒，不能当面告辞。
+  - word: 胜
+    type: 【动词】
+    phonetic: sheng1
+    trans: ❶承担得了；经受得起。
+    ancient: 德不处其厚，情不<胜>其欲，斯亦伐根以求木茂，塞源而欲流长者也。（《谏太宗十思疏》）
+    url: xxxx
+    vernacular: 道德不能保持敦厚，性情不能克服欲望，这就像砍伐树木的根却要求树木茂盛，阻塞水的源头却希望水流得长远一样啊！
+  - word: 胜
+    type: 【动词】
+    phonetic: sheng1
+    trans: ❶承担得了；经受得起。
+    ancient: "臣不<胜>犬马怖惧之情,谨拜表以闻。（《陈情表》）"
+    url: xxxx
+    vernacular: 我怀着像犬马一样不胜恐惧的心情，恭敬地呈上此表来使陛下知道这件事。
+  - word: 胜
+    type: 【动词】
+    phonetic: sheng1
+    trans: ❶承担得了；经受得起。
+    ancient: 驴不<胜>怒，蹄之。（《黔之驴》）
+    url: xxxx
+    vernacular: 驴非常生气，用蹄子踢老虎。
+  - word: 胜
+    type: 【动词】
+    phonetic: sheng1
+    trans: ❶承担得了；经受得起。
+    ancient: 【高考题例】其间岂无刚直之人，而弗<胜>龃龉（比喻意见不合），多不能安其身。（《明史•陈登云"传"》）
+    url: xxxx
+    vernacular: "其中难道没有刚正的人,但禁不住抵触排挤,大多无法安身。"
+  - word: 胜
+    type: 【动词】
+    phonetic: sheng1
+    trans: ❶承担得了；经受得起。
+    ancient: 【高考题例】水浅不<胜>舟，陆当用车八千乘，沿边方登（丰收）麦，愿以运费增价就籴（买）之。（《宋史•何灌传》）
+    url: xxxx
+    vernacular: 河水太浅不能走水路，如果用陆路运输要用马车八千乘，工作量太大。这时沿边麦子正熟，可以用运输粮草的费用就地加价收购麦子。
+  - word: 胜
+    type: 【动词】
+    phonetic: sheng1
+    trans: ❷尽;完。
+    ancient: 不违农时，谷不可<胜>食也。（《寡人之于国也》）
+    url: xxxx
+    vernacular: 只要不违背农时，那粮食就吃不完
+  - word: 胜
+    type: 【动词】
+    phonetic: sheng1
+    trans: ❷尽;完。
+    ancient: "夫秦王有虎狼之心,杀人如不能举（尽），刑人如恐不<胜>，天下皆叛之。（《鸿门宴》）"
+    url: xxxx
+    vernacular: 秦王有虎狼一样的心肠，杀人惟恐不能杀尽，惩罚人惟恐不能用尽酷刑，所以天下人都背叛他。
+  - word: 胜
+    type: 【动词】
+    phonetic: sheng1
+    trans: ❷尽;完。
+    ancient: "后世之谬其传而莫能名者,何可<胜>道也哉！（《游褒禅山记》）"
+    url: xxxx
+    vernacular: 后世讹传而无人弄清其真相的事，哪能说得完呢？
+  - word: 胜
+    type: 【动词】
+    phonetic: sheng1
+    trans: ❷尽;完。
+    ancient: 古者富贵而名摩灭，不可<胜>记，唯倜傥非常之人称焉。（《报任安书》）
+    url: xxxx
+    vernacular: 古时候，富贵而湮没不闻的人数不胜数，多得数不清，只有那些不为世俗所拘的卓异之士才能见称于后世。
+  - word: 胜
+    type: 【名词】
+    phonetic: sheng4
+    trans: 优越美好的人或事物。
+    ancient: 宣武（桓温）集诸名<胜>（名流）讲《易》，日说一卦。（《世说航语•文学》）
+    url: xxxx
+    vernacular: "桓温召集了很多名人来讲解《周易》,每天解释一个卦象。"
+  - word: 胜
+    type: 【名词】
+    phonetic: sheng4
+    trans: 优越美好的人或事物。
+    ancient: 见怪石特出，度其下必有殊<胜>。（唐•柳宗元《永州崔中丞万石亭记》）
+    url: xxxx
+    vernacular: 有怪石格外突出，忖度下面一定有特别的胜境。
+  - word: 胜
+    type: 【动词】
+    phonetic: sheng4
+    trans: ❶胜利。
+    ancient: 赵尝五战于秦，二败而三<胜>。（《六国论》）
+    url: xxxx
+    vernacular: 赵国曾经与秦国交战五次，打了两次败仗，三次胜仗。
+  - word: 胜
+    type: 【动词】
+    phonetic: sheng4
+    trans: ❷制服;战胜（与"败"相对）。
+    ancient: 仁之<胜>不仁也，犹水之<胜>火。（《孟子•告子上》）
+    url: xxxx
+    vernacular: 仁德能够胜过不仁德，好比水能胜过火。
+  - word: 胜
+    type: 【动词】
+    phonetic: sheng4
+    trans: ❷制服;战胜（与"败"相对）。
+    ancient: 夫六国与秦皆诸侯，其势弱于秦，而犹有可以不赂而<胜>之之势。（《六国论》）
+    url: xxxx
+    vernacular: 六国和秦国都是诸侯之国，六国单个的势力虽然比秦国弱，可是还有可以用不赂秦的手段战胜秦国的形式。
+  - word: 胜
+    type: 【动词】
+    phonetic: sheng4
+    trans: ❸超过;胜过。
+    ancient: 日出江花红<胜>火，春来江水绿如蓝。（唐•白居易《忆江南》）
+    url: xxxx
+    vernacular: 清晨日出的时候，江边盛开花朵颜色鲜红胜过火焰，碧绿的江水绿得胜过蓝草。
+  - word: 胜
+    type: 【动词】
+    phonetic: sheng4
+    trans: ❸超过;胜过。
+    ancient: 别有幽愁暗恨生，此时无声<胜>有声。（《琵琶行》）
+    url: xxxx
+    vernacular: 像另有一种愁思幽恨暗暗滋生；此时闷闷无声却比有声更动人。
+  - word: 胜
+    type: 【形容词】
+    phonetic: sheng4
+    trans: 优美;美好。
+    ancient: <胜>地不常（长存），盛筵难再。（《滕王阁序》）
+    url: xxxx
+    vernacular: 名胜之地不能常存，盛大的宴会难以再逢。
+  - word: 胜
+    type: 【形容词】
+    phonetic: sheng4
+    trans: 优美;美好。
+    ancient: "予观夫巴陵<胜>状,在洞庭一湖。（《岳阳楼记》）"
+    url: xxxx
+    vernacular: 我观看那巴陵郡的美好景色，全在洞庭湖上。
+  - word: 胜
+    type: 【形容词】
+    phonetic: sheng4
+    trans: 优美;美好。
+    ancient: 东南形<胜>，三吴都会，钱塘自古繁华。（宋•柳永《望海潮》）
+    url: xxxx
+    vernacular: 杭州地理位置重要，风景优美，是三吴的都会。这里自古以来就十分繁华。
+  - word: 胜
+    type: 【副词】
+    phonetic: sheng4
+    trans: 尽，全，都。
+    ancient: "【高考题例】在职九年，稽核财赋,修筑陂塘圩岸，不可<胜>计。（明•张岳《张祖传》）"
+    url: xxxx
+    vernacular: 在职九年，稽查核实财赋，修筑池鱼之殃堤坝，不可胜数.

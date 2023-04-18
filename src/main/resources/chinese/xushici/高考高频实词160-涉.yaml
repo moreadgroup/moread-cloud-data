@@ -10,7 +10,7 @@ words:
         sentences:
           - ancient: "匏（pao2,-种葫芦）有苦叶，济（渡口）有深<涉>。（《诗经•邶风•匏有苦叶》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 葫芦瓜有苦味叶，济水边有深渡口。
   - word: 涉
     type: 【动词】
     phonetic: she4
@@ -19,35 +19,35 @@ words:
     samples:
       - trans: ❶徒步渡水。
         sentences:
-          - ancient: 滩水暴益，荆人弗知，循表（标志）而夜<涉>。（《吕氏春秋•察今》）
+          - ancient: 澭水暴益，荆人弗知，循表（标志）而夜<涉>。（《吕氏春秋•察今》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: 送子<涉>淇，至工顿丘。（《诗经•卫风•氓》）
+            vernacular: 淮水突然上涨，楚国人不知道，按照标志夜里渡河
+          - ancient: 送子<涉>淇，至于顿丘。（《诗经•卫风•氓》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 送郎君渡过淇水，一直送到顿丘。
           - ancient: 以小舟<涉>鲸波出，无可奈何，而死固付之度外矣。（《〈指南录〉后序》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 靠了一条小船渡过惊涛骇浪，实在是没有办法，对于死本已置之度外了！
       - trans: ❷到达;游历。
         sentences:
           - ancient: 园日<涉>以成趣，门虽设而常关。（《归去来兮辞》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 每天（独自）在园中散步，成为乐趣，小园的门经常地关闭着
           - ancient: 驱中国（中原地区）士众远<涉>江湖之间，不习水土，必生疾病。（《资治通鉴•汉纪五十七》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 驱使中原的士兵长途跋涉江湖之间，不服水土，必定生出疾病。
       - trans: ❸经历。
         sentences:
           - ancient: 仆自到九江，已<涉>三载。（唐•白居易《与元微之书》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我自从到了九江，已经过了三年。
       - trans: ❹浏览。
         sentences:
           - ancient: 少好学，博<涉>书记。（《后汉书•仲长统传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 年少时勤奋好学，博览群书
       - trans: ❺牵涉;关联。
         sentences:
           - ancient: 而言有关<涉>，事便显露。（《史通•叙事》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 但在人物语言中涉及到了,事迹也就显示出来。
