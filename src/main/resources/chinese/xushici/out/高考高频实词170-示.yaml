@@ -1,13 +1,41 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 示
+    type: 【动词】
+    phonetic: shi4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶给……看。
         sentences:
-          - ancient: xxx
+          - ancient: 传以<示>美人及左右。（《廉颇蔺相如列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: （孙）权以<示>群下，莫不响震失色。（《资治通鉴.汉纪五十七》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 璧有瑕，请指<示>王。（《廉颇蔺相如列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 范增数目项王，举所佩玉玦以<示>之者三，项王默然不应。（《鸿门宴》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】副使崔应麟见民啖泽中雁矢（屎），囊（装在囊中）<示>登云，登云即逬之于朝。（《明更•陈登"云传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷表示；显示。
+        sentences:
+          - ancient: 王不行，<示>赵弱且怯也。（《廉颇蔺相如列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】珪归（回乡）三年，御史卢雍称珪在位有古大臣风，家无储蓄，日给为累，乞颁月廩、岁隶，以<示>优礼。（《明史•傅珪传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸告知;教导。
+        sentences:
+          - ancient: 医扁鹊见秦武王，武王<示>之病。（《战国策•秦策二》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 国奢，则<示>之以俭。（《礼记•檀弓下》）
             url: xxxx
             vernacular: xxxx

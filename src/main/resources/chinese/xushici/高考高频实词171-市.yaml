@@ -1,13 +1,39 @@
 ---
 words:
-  - word: xxxx
+  - word: 市
     type: 【名词】
-    phonetic: xx1
+    phonetic: shi4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: 集中做买卖的场所;市场。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 令初下，群臣进谏，门庭若市。（《邹忌讽齐王纳谏》）
+          - ancient: 东<市>买骏马，西<市>买鞍鞯（jian1，垫马鞍的东西），南<市>买辔头，北<市>买长鞭。（《木兰诗》）
+          - ancient: 管弦呕哑，多于市人之言语。（《阿房宫赋》）
+          - ancient: 市列珠玑，户盈罗绮，竞豪奢。（宋•柳永《望海潮》）
+
+  - word: 市
+    type: 【动词】
+    phonetic: shi4
+    tags:
+      - 高中
+    samples:
+
+      - trans: ❶卖。
+        sentences:
+          - ancient: 故市木之价不加贵于山。（《韩非子•外储说右上》）
+          - ancient: 其水斗价三贯，而取者益之他水，沿途转以市人，老病饮之，多至危笃。（唐•李德裕《亳州圣水状》）
+      - trans: ❷买。
+        sentences:
+          - ancient: 杂彩三百匹，交广市鲑（xie2，鱼类菜肴）珍。（《孔雀东南飞》）
+          - ancient: 阿爷无大儿，木兰无长兄，愿为市鞍马，从此替爷征。（《木兰诗》）
+          - ancient: 责（债务）毕收，以何市而反（返回）？（《冯谖客孟尝君》）
+      - trans: ❸交易;做买卖。
+        sentences:
+          - ancient: 日中为市，致天下之民，聚天下之货。（《周易•系辞下》）
+          - ancient: 兵至滑，郑贾人弦高将市于周，遇之，以十二牛劳（犒劳）秦师。（《史记•晋世家》）
+      - trans: ❹换取;求得。
+        sentences:
+          - ancient: 美言可以市尊，美行可以加人。（《老子》六十二章）
+          - ancient: 君何不留楚太子，以市其下东国。（《战国策•齐策三》）

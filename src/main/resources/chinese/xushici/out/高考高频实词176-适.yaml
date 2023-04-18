@@ -1,13 +1,95 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 适
+    type: 【动词】
+    phonetic: shi4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶到;往。
         sentences:
-          - ancient: xxx
+          - ancient: <适>莽苍者，三餐而反，腹犹果然（饱饱的样子）。（《逍遥游》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 余自齐安舟行<适>临汝。（《右钟山记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】云海相望寄此身，那因远<适>更沾巾。（宋•苏轼《送子由使契丹》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷出嫁。
+        sentences:
+          - ancient: 贫贱有此女，始<适>还家门。（《孔雀东南飞》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 诸葛恢大女<适>太尉庾亮儿，次女<适>徐州刺史羊忱儿。（《世说新语•方正》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: "❸适应;顺从。\t适"
+        sentences:
+          - ancient: 处分<适>兄意，那得自任专！（《孔雀东南飞》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 是芙蕖（荷花的别称）也者，无一时一刻不<适>耳目之观。（《芙蕖》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 少无<适>俗韵，性本爱丘山。（《归园田居》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 太子日造门下，供太牢具，异物间进，车骑美女恣荆轲所欲，以顺<适>其意。（《史记•刺客列传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹满足。
+        sentences:
+          - ancient: 秦王贪狠暴虐，残贼天下，穷困万民，以<适>其欲也。 （《汉书•贾山传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❺享受；享有。
+        sentences:
+          - ancient: 是造物者之无尽藏也，而吾与子之所共<适>。（《赤壁赋》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 适
+    type: 【形容词】
+    phonetic: shi4
+    tags:
+      - 高中
+    samples:
+      - trans: 舒适。
+        sentences:
+          - ancient: 向晚意不<适>，驱车登古原。（唐•李商隐《登乐游原》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 适
+    type: 【副词】
+    phonetic: shi4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶恰好；正巧。
+        sentences:
+          - ancient: 此时鲁仲连<适>游赵，会秦围赵。（《战国策•赵策三》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 自下望之则高岩峭壁，从上观之<适>与地平。（《梦溪笔谈•杂志一》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 今虽欲自雕琢，曼辞以自饰，无益，于俗不信，<适>足取辱耳。（《报任安书》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】吏部请如雍言，不报。而珪<适>卒，年五十七。（《明史•傅珪传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷偶然。
+        sentences:
+          - ancient: <适>来，夫子时也；<适>去，夫子顺也。（《庄子♦养生主》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸刚刚;才。
+        sentences:
+          - ancient: 陛下之臣虽有悍如冯敬者，<适>启其口，匕首已陷其匈（胸）矣。（《汉书•贾谊传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <适>得府君书，明日来迎汝。（，《孔雀东南飞》）
             url: xxxx
             vernacular: xxxx

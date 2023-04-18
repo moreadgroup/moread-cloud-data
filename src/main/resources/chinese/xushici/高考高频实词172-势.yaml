@@ -1,13 +1,33 @@
 ---
 words:
-  - word: xxxx
+  - word: 势
     type: 【名词】
-    phonetic: xx1
+    phonetic: shi4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶力量。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 此所谓强弩之末，势不能穿鲁縞者也。（《资治通鉴•汉纪五十七》）
+      - trans: ❷权力；势力。
+        sentences:
+          - ancient: 如此则荆、吴之势强，鼎足之形成矣。（《资治通鉴•汉纪五十七》）
+          - ancient: 然秦以区区（很小）之地，致（取得）万乘之势。（《过秦论》）
+          - ancient: 依倚将军势，调笑酒家胡。（汉•辛延年《羽林郎》）
+          - ancient: 夫六国与秦皆诸侯，其势弱于秦。（《六国论》）
+      - trans: ❸形势;趋势。
+        sentences:
+          - ancient: 虽有智慧，不如乘势。（《孟子•公孙丑上》）
+          - ancient: 仁义不施而攻守之势异也。（《过秦论》）
+          - ancient: 今君乃亡赵走燕，燕畏赵，其势必不敢留君，而束君归赵矣。（《廉颇蔺相如列传》）
+          - ancient: 由此言之，勇怯，势也;强弱，形也。（《报任安书》）
+          - ancient: 有如此之势，而为秦人积威之所劫，日削月割掉，以趋于亡。（《六国论》）
+      - trans: ❹气势。
+        sentences:
+          - ancient: 天姥连天向天横，势拔五岳掩赤城。（《梦游天姥吟留别》）
+      - trans: ❺姿势。
+        sentences:
+          - ancient: 罔（无）不因势象形，各具情态。（《核舟记》）
+      - trans: ❻男性生殖器。
+        sentences:
+          - ancient: 淫者割其势。（《晋书•刑法志》）

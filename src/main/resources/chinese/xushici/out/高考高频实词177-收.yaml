@@ -1,13 +1,78 @@
 ---
 words:
-  - word: xxxx
+  - word: 收
     type: 【名词】
-    phonetic: xx1
+    phonetic: shou1
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶收成。
         sentences:
-          - ancient: xxx
+          - ancient: 百亩之<收>，不过百石（古代容量单位，十斗为一石）。（汉•晁错《论贵粟疏》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷收藏物。
+        sentences:
+          - ancient: 燕赵之<收>藏。（《阿房宫赋》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 收
+    type: 【动词】
+    phonetic: shou1
+    tags:
+      - 高中
+    samples:
+      - trans: ❶拘捕。
+        sentences:
+          - ancient: 此宜无罪，女反<收>之。（《诗经•大雅•瞻卬》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 单于壮其节，朝夕遣人候问武，而<收>系张胜。（《苏武传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: （张）衡下车（指官吏初到任），治威严，整法度，阴知奸党名姓，一时<收>禽（通"擒"），上下肃然，称为政理。（《张衡传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】憙下车，闻其二孙杀人事未发觉，即穷诘其奸，<收>考子春，二孙自杀。（《后汉书•赵憙传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷收集;收取。
+        sentences:
+          - ancient: 余<收>尔骨焉。（《左传•僖公三十二年》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <收>天下之兵（兵器），聚之咸阳。（《过秦论》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 燕赵之<收>藏，韩魏之经营。（《阿房宫赋》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 东割膏腴之地，北<收>要害之郡。（《过书秦论》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 秦将王翦破赵，虏赵王，尽<收>其地，进兵北略地，至燕南界。（《荆轲刺秦王》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 剑外忽传<收>蓟北，初闻涕泪满衣裳。（《闻官军收河南河北》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸征收。
+        sentences:
+          - ancient: 十年不<收>于国，民俱有三年之食。（《勾践灭吴》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹招收。
+        sentences:
+          - ancient: 行<收>兵。比至陈，车六七百乘，骑千余，卒数万人。 （《陈涉世家》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❺停止;结束。
+        sentences:
+          - ancient: 雷始<收>声。（《礼记•月令》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❻收获（农作物）。
+        sentences:
+          - ancient: 春生，夏长，秋<收>，冬藏。（《史记•太史公自序》）
             url: xxxx
             vernacular: xxxx

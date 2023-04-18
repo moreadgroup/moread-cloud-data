@@ -1,13 +1,23 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 示
+    type: 【动词】
+    phonetic: shi4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶给……看。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 传以示美人及左右。（《廉颇蔺相如列传》）
+          - ancient: （孙）权以示群下，莫不响震失色。（《资治通鉴.汉纪五十七》）
+          - ancient: 璧有瑕，请指示王。（《廉颇蔺相如列传》）
+          - ancient: 范增数目项王，举所佩玉玦以示之者三，项王默然不应。（《鸿门宴》）
+          - ancient: 【高考题例】副使崔应麟见民啖泽中雁矢（屎），囊（装在囊中）示登云，登云即逬之于朝。（《明更•陈登"云传》）
+      - trans: ❷表示；显示。
+        sentences:
+          - ancient: 王不行，示赵弱且怯也。（《廉颇蔺相如列传》）
+          - ancient: 【高考题例】珪归（回乡）三年，御史卢雍称珪在位有古大臣风，家无储蓄，日给为累，乞颁月廩、岁隶，以示优礼。（《明史•傅珪传》）
+      - trans: ❸告知;教导。
+        sentences:
+          - ancient: 医扁鹊见秦武王，武王示之病。（《战国策•秦策二》）
+          - ancient: 国奢，则示之以俭。（《礼记•檀弓下》）

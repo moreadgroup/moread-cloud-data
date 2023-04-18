@@ -1,13 +1,83 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 是
+    type: 【动词】
+    phonetic: shi4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶表示肯定判断。
         sentences:
-          - ancient: xxx
+          - ancient: 同行十二年，不知木兰<是>女郎。（《木兰诗》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 萍水相逢，尽<是>他乡之客。（《滕王阁序》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷认为正确。
+        sentences:
+          - ancient: 百姓皆<是>吾君而非邻国，则战已胜矣。（《吴子•图国》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】其论说始若诡于众，极听其终，众乃<是>之。（《论街•自纪篇》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸表示遍举。所有;凡是
+        sentences:
+          - ancient: <是>事皆草创（开始兴办）。（唐•陆龟蒙《记事》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <是>处移花<是>处栽。（宋•辛弃疾《鵬鹄天》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 是
+    type: 【形容词】
+    phonetic: shi4
+    tags:
+      - 高中
+    samples:
+      - trans: 对;正确（与"非"相对）。
+        sentences:
+          - ancient: 自以为<是>。（《孟子•尽心下》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 实迷途其未远，觉今<是>而昨非。（《归去来兮辞》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 是
+    type: 【代词】
+    phonetic: shi4
+    tags:
+      - 高中
+    samples:
+      - trans: 指示代词。这;这个;这样。
+        sentences:
+          - ancient: 吾不能早用子，今急而求子，<是>寡人之过也。（《烛之武退秦师》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 登高作赋，<是>所望于群公。（《滕王阁序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 适其视下也，亦若<是>则已矣。（《逍遥游》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 臣密今年四十有四，祖母刘今年九十有六，<是>臣尽节于陛下之日长，报养刘之日短也。（《陈情表》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 是
+    type: 【助词】
+    phonetic: shi4
+    tags:
+      - 高中
+    samples:
+      - trans: 放在前置宾语和【动词】之间，复指前置宾语。如成语""唯命是从""唯利是图"。
+        sentences:
+          - ancient: 二三子其佐我明扬仄陋（出身卑微的人），唯才<是>举，吾得而用之。（《三国志，•巍书•武帝纪》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 求！无乃尔<是>过与？（《季氏将伐颛臾》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】其能凌岁寒而不易行者，非松也耶！<是>故昔之君子每托之以自厉。（《看松庵记》）
             url: xxxx
             vernacular: xxxx

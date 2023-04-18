@@ -1,13 +1,87 @@
 ---
 words:
-  - word: xxxx
+  - word: 书
     type: 【名词】
-    phonetic: xx1
+    phonetic: shu1
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶文字。
         sentences:
-          - ancient: xxx
+          - ancient: 苍颉作<书>，与事相连。（《论衡•奇怪》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 卒买鱼烹食，得鱼腹中<书>，固（本来）以怪之矣。（《陈涉世家》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷书籍。
+        sentences:
+          - ancient: 子路曰："有民人焉，有社稷焉，何必读<书>，然后为学?"（《论语•先进》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 家贫，无从致<书>以观，每假（借）借于藏<书>之家，手自笔录，计日以还。（《送东阳马生序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 黄生允修借<书>，随园主人授以<书>而告之曰……（《黄生借书说》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 自<书>典所记，未之有也。（《张衡传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸书法。
+        sentences:
+          - ancient: 王逸少风流才士，萧散（潇洒不受约束）名人，举世惟（只）知其<书>，翻（反倒）以能自蔽也。（《颜氏家训•杂艺》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 从余问古事，或凭几学<书>。（《项脊轩志》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹书信。
+        sentences:
+          - ancient: 烽火连三月，家<书>抵万金。（《春望》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 撰长<书>以为贽（zhi4，古代初次见尊长时所持的礼物），辞甚畅达。（《送亲阳马生序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 适得府君<书>，明日来迎汝。（《孔雀东南飞》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❺公文;文书。
+        sentences:
+          - ancient: 上<书>谏寡人者，受中赏。（《邹忌讽齐王纳谏》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 军<书>十二卷，卷卷有爷名。（《木兰诗》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 诏<书>特下，拜臣郎中，寻蒙国恩，除臣洗马。（《陈情表》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❻《尚书》的简称。
+        sentences:
+          - ancient: 《<书>》曰："满招损，谦得益。"（《伶官传序》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❼评书;评话。
+        sentences:
+          - ancient: 乃近年共称柳敬亭之说<书>。（《柳敬亭传》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 书
+    type: 【动词】
+    phonetic: shu1
+    tags:
+      - 高中
+    samples:
+      - trans: 写;记载。
+        sentences:
+          - ancient: 不<书>即位。（《左传•隐公元年》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 古之王者世有史官，君举必<书>。（《汉书•艺文志》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】尝谓休烈日:"君举必<书>，良史也。朕有过失，卿<书>之否?"（《旧唐书•于休烈传》）
             url: xxxx
             vernacular: xxxx

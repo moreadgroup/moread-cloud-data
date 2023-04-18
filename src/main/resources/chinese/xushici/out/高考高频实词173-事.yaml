@@ -1,13 +1,98 @@
 ---
 words:
-  - word: xxxx
+  - word: 事
     type: 【名词】
-    phonetic: xx1
+    phonetic: shi4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶事情。
         sentences:
-          - ancient: xxx
+          - ancient: 此人皆意有所郁结，不得通其道，故述往<事>，思来者。（《报任安书》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 若<事>之不济（成功），此乃天也，安能复为之下乎？（《资治通鉴•汉纪五十七》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 天下<事>有难易乎？（《为学》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <事>所以不成者，乃欲以生劫之，必得约契以报太子也。（《荆轲刺秦王》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷职务;职业。
+        sentences:
+          - ancient: 然则无功而受<事>，无爵而显荣。（《韩非子•五蠹》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 樊哙，沛人也，以屠狗为<事>。（《汉书•樊哙传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸事故;变故。
+        sentences:
+          - ancient: 是故无<事>则国富，有<事>则兵强。（《韩非子•五蠹》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹专指战事。
+        sentences:
+          - ancient: 冉有、季路见于孔子曰："季氏将有<事>于颛臾。"（《季氏将伐颛臾》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 事
+    type: 【动词】
+    phonetic: shi4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶从事;做。
+        sentences:
+          - ancient: 如曰今日当一切不<事>事（前一"事"为动词，做;后一"事"为名词，事情），守前所为而已，则非某之所敢知（承认）。（宋•王安石《答司马谏议书》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 居数月，漠然无所<事>。（《狱中杂记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 常有大度，不<事>家人生产作业。（《史记•高祖本纪》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷侍奉;服侍。
+        sentences:
+          - ancient: 臣所以去（离开）亲戚而<事>君者，徒慕君之高义也。（《廉颇蔺相如列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 安能摧眉折腰<事>权贵，使我不得开心颜！（《梦游天姥吟留别》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 君为我呼入，吾得兄<事>之。（《鸿门宴》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 谢家<事>夫婿，中道还兄门。（《孔雀东南飞》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】吴起于是闻魏文侯贤，欲<事>之。（《史记•孙子吴起列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 延熹中，桓帝<事>黄老道，悉毁诸房祀。（《后：汉书•王涣传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸供奉。
+        sentences:
+          - ancient: 【高考题例】今舍我去，愿得只履<事>之，以慰我思！（明•宋濂《吴德基传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹任用。
+        sentences:
+          - ancient: 境内之杰不<事>，而求封外（国境以外）之士。（《韩非子•亡征》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 事
+    type: 【量词】
+    phonetic: shi4
+    tags:
+      - 高中
+    samples:
+      - trans: 件;样。
+        sentences:
+          - ancient: 对月五六人，管弦三两<事>。（唐•白居易《张常侍池凉夜闲燕赠诸公》）
             url: xxxx
             vernacular: xxxx

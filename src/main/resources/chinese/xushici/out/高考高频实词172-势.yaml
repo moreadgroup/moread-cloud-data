@@ -1,13 +1,59 @@
 ---
 words:
-  - word: xxxx
+  - word: 势
     type: 【名词】
-    phonetic: xx1
+    phonetic: shi4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶力量。
         sentences:
-          - ancient: xxx
+          - ancient: 此所谓强弩之末，<势>不能穿鲁縞者也。（《资治通鉴•汉纪五十七》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷权力；势力。
+        sentences:
+          - ancient: 如此则荆、吴之<势>强，鼎足之形成矣。（《资治通鉴•汉纪五十七》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 然秦以区区（很小）之地，致（取得）万乘之<势>。（《过秦论》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 依倚将军<势>，调笑酒家胡。（汉•辛延年《羽林郎》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 夫六国与秦皆诸侯，其<势>弱于秦。（《六国论》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸形势;趋势。
+        sentences:
+          - ancient: 虽有智慧，不如乘<势>。（《孟子•公孙丑上》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 仁义不施而攻守之<势>异也。（《过秦论》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 今君乃亡赵走燕，燕畏赵，其<势>必不敢留君，而束君归赵矣。（《廉颇蔺相如列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 由此言之，勇怯，<势>也;强弱，形也。（《报任安书》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 有如此之<势>，而为秦人积威之所劫，日削月割掉，以趋于亡。（《六国论》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹气势。
+        sentences:
+          - ancient: 天姥连天向天横，<势>拔五岳掩赤城。（《梦游天姥吟留别》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❺姿势。
+        sentences:
+          - ancient: 罔（无）不因<势>象形，各具情态。（《核舟记》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❻男性生殖器。
+        sentences:
+          - ancient: 淫者割其<势>。（《晋书•刑法志》）
             url: xxxx
             vernacular: xxxx

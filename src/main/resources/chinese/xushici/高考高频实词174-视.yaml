@@ -1,13 +1,44 @@
 ---
 words:
-  - word: xxxx
+  - word: 视
     type: 【名词】
-    phonetic: xx1
+    phonetic: shi4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: 视线；目光。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 虽然，每至于族（筋骨交结处），吾见其难为，怵（chu4，警惕的样子）然为戒，视为止，行为迟。（《庄子•养生主》）
+
+  - word: 视
+    type: 【动词】
+    phonetic: shi4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶看。
+        sentences:
+          - ancient: 孰（同""熟"）视之，自以为不如。（《邹忌讽齐王纳谏》）
+          - ancient: 然往来视之，觉无异能也。（《黔之驴》）
+      - trans: ❷看待。
+        sentences:
+          - ancient: 后之<视>今，亦犹今之<视>昔，悲夫！（《兰亭集序》）
+          - ancient: 子孙视之不甚惜，举以予人，如弃草芥。（《六国论》）
+          - ancient: 【高考题例】远处职，疾强富如仇雠，视贫细如子弟。（《南史・何远传》）
+      - trans: ❸比较;比照。
+        sentences:
+          - ancient: 而又有剪发杜门（闭门不出），佯狂不知所之者，其辱人贱行，视五人之死；轻重固何如哉！（《五人墓碑记》）
+          - ancient: 天子之卿受地视侯。（《孟子•万章下》）
+          - ancient: 【高考题例】礼部事视他部为简，自珪数有执争，章奏遂多。《明史•傅珪传》）
+      - trans: ❹到职办理公冨。
+        sentences:
+          - ancient: 视事三年，上书乞骸骨，征拜尚书。（《张衡传》）
+      - trans: ❺观察;考察。
+        sentences:
+          - ancient: 视其所以，观其所由。（《论语•为政》）
+      - trans: ❻向……看齐;效法。
+        sentences:
+          - ancient: 视乃厥祖。（《尚书•太甲中》）
+      - trans: ❼通"示"。给……看。
+        sentences:
+          - ancient: 亦视项羽无东意。（《汉书•高帝纪》）
