@@ -1,9 +1,93 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 视
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: shi4
+    trans: 视线；目光。
+    ancient: 虽然，每至于族（筋骨交结处），吾见其难为，怵（chu4，警惕的样子）然为戒，<视>为止，行为迟。（《庄子•养生主》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 即使是这样，每当碰到筋骨交错聚结的地方，我看到那里很难下刀，就小心翼翼地提高警惕，视力集中到一点，动作缓慢下来
+  - word: 视
+    type: 【动词】
+    phonetic: shi4
+    trans: ❶看。
+    ancient: 孰（同""熟"）<视>之，自以为不如。（《邹忌讽齐王纳谏》）
+    url: xxxx
+    vernacular: 邹忌仔细观察了一下，觉得自己不如徐公长得好看。
+  - word: 视
+    type: 【动词】
+    phonetic: shi4
+    trans: ❶看。
+    ancient: 然往来<视>之，觉无异能也。（《黔之驴》）
+    url: xxxx
+    vernacular: "但是来来回回地观察它,觉得它并没有什么特殊的本领"
+  - word: 视
+    type: 【动词】
+    phonetic: shi4
+    trans: ❷看待。
+    ancient: 后之<视>今，亦犹今之<视>昔，悲夫！（《兰亭集序》）
+    url: xxxx
+    vernacular: 后人看待今人，也就像今人看待前人，可悲呀！
+  - word: 视
+    type: 【动词】
+    phonetic: shi4
+    trans: ❷看待。
+    ancient: 子孙<视>之不甚惜，举以予人，如弃草芥。（《六国论》）
+    url: xxxx
+    vernacular: 子孙对那些土地却不很爱惜，全都拿来送给别人，就像扔掉小草一样不珍惜。
+  - word: 视
+    type: 【动词】
+    phonetic: shi4
+    trans: ❷看待。
+    ancient: 【高考题例】远处职，疾强富如仇雠，<视>贫细如子弟。（《南史・何远传》）
+    url: xxxx
+    vernacular: 何远为官，痛恨豪强大族就像痛恨仇人一样，对待穷人像对待自己的子弟一样
+  - word: 视
+    type: 【动词】
+    phonetic: shi4
+    trans: ❸比较;比照。
+    ancient: 而又有剪发杜门（闭门不出），佯狂不知所之者，其辱人贱行，<视>五人之死；轻重固何如哉！（《五人墓碑记》）
+    url: xxxx
+    vernacular: 也有的剪发毁容、闭门不出，或假装疯狂不知逃到何处的，他们那可耻的人格，卑贱的行为，比起这五个人的死来，轻重的差别到底怎么样呢？
+  - word: 视
+    type: 【动词】
+    phonetic: shi4
+    trans: ❸比较;比照。
+    ancient: 天子之卿受地<视>侯。（《孟子•万章下》）
+    url: xxxx
+    vernacular: 天子的卿，其封地等同于侯
+  - word: 视
+    type: 【动词】
+    phonetic: shi4
+    trans: ❸比较;比照。
+    ancient: 【高考题例】礼部事<视>他部为简，自珪数有执争，章奏遂多。《明史•傅珪传》）
+    url: xxxx
+    vernacular: 礼部的事情比较简单，而其他部门的事情则比较复杂，傅珪多次执意谏诤，因此上奏的章奏就变得更多了
+  - word: 视
+    type: 【动词】
+    phonetic: shi4
+    trans: ❹到职办理公冨。
+    ancient: <视>事三年，上书乞骸骨，征拜尚书。（《张衡传》）
+    url: xxxx
+    vernacular: （张衡）在河间相位上任职三年，给朝廷上书，请求辞职回家，朝廷任命他为尚书。
+  - word: 视
+    type: 【动词】
+    phonetic: shi4
+    trans: ❺观察;考察。
+    ancient: <视>其所以，观其所由。（《论语•为政》）
+    url: xxxx
+    vernacular: 看一个人的所作所为，应看他言行的动机。
+  - word: 视
+    type: 【动词】
+    phonetic: shi4
+    trans: ❻向……看齐;效法。
+    ancient: 王懋乃德，<视>乃厥祖，无时豫怠。（《尚书•太甲中》）
+    url: xxxx
+    vernacular: 大王想要培养自身的美德，不妨看看祖先们的所为，以便自己不会在安逸的生活中沉沦。
+  - word: 视
+    type: 【动词】
+    phonetic: shi4
+    trans: ❼通"示"。给……看。
+    ancient: 亦<视>项羽无东意。（《汉书•高帝纪》）
+    url: xxxx
+    vernacular: 向项羽表示汉王无再出汉中东进之意。
