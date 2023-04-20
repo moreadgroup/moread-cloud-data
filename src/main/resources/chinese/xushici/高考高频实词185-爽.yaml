@@ -1,25 +1,37 @@
 ---
 words:
-  - word: xxxx
+  - word: 爽
     type: 【名词】
-    phonetic: xx1
+    phonetic: shuang3
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: 差错。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
-爽shuang3
-【名词】差错。
-【例句】女也不爽，士贰（不专一）其行。（《诗经•卫风•氓》）丨少间，帘内掷一纸出，即道人意中事，无毫发爽。（《促织》）
+          - ancient: 女也不爽，士贰（不专一）其行。（《诗经•卫风•氓》）
+          - ancient: 少间，帘内掷一纸出，即道人意中事，无毫发爽。（《促织》）
 
-【动词】违背;违犯。
-【例句】为朝廷爽法？（《新唐书•蒋乂传》）
+  - word: 爽
+    type: 【动词】
+    phonetic: shuang3
+    tags:
+      - 高中
+    samples:
+      - trans: 违背;违犯。
+        sentences:
+          - ancient: 为朝廷爽法？（《新唐书•蒋乂传》）
 
-【形容词】❶明朗;清爽。
-【例句】爽籁发而清风生，纤歌凝而白云遏。（《滕王阁序》）丨酌贪泉而觉爽，处涸辙以犹欢。（《滕王阁序》）
-❷直爽;豪放。
-【例句】少有逸才，风姿英爽，气盖一时。（《晋书•王济传》）
+  - word: 爽
+    type: 【形容词】
+    phonetic: shuang3
+    tags:
+      - 高中
+    samples:
+      - trans: ❶明朗;清爽。
+        sentences:
+          - ancient: 爽籁发而清风生，纤歌凝而白云遏。（《滕王阁序》）
+          - ancient: 酌贪泉而觉爽，处涸辙以犹欢。（《滕王阁序》）
+      - trans: ❷直爽;豪放。
+        sentences:
+          - ancient: 少有逸才，风姿英爽，气盖一时。（《晋书•王济传》）
 

@@ -1,13 +1,65 @@
 ---
 words:
-  - word: xxxx
+  - word: 岁
     type: 【名词】
-    phonetic: xx1
+    phonetic: sui4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶木星。
         sentences:
-          - ancient: xxx
+          - ancient: 昨夜斗回北，今朝<岁>起东。（唐•孟浩然《田家元日》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷年。
+        sentences:
+          - ancient: 自吾氏三世居是乡，积于今六十<岁>矣。（《捕蛇者说》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 潯阳地僻无音乐，终<岁>不闻丝竹声。（《琵琶行》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 桑之落矣，其黄而陨。自我徂尔，三<岁>食贫。（《诗经•卫风•氓》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸时间;光阴。
+        sentences:
+          - ancient: 日月逝矣，<岁>不我与。（《论语•阳货》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "汩（yu4,迅疾）余若将不及兮，恐年<岁>之不吾与。（《离骚》）"
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹年成;年景。
+        sentences:
+          - ancient: 王无罪（归罪于）<岁>，斯天下之民至焉。（《寡人之于国也》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 苟无<岁>，何以有民？（《赵威后问齐使》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❺每年;一年。
+        sentences:
+          - ancient: 其始，太医以王命聚之，<岁>赋其二。（《捕蛇者说》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "今诸生学于太学,县官日有廩稍（官府发给的膳食津贴）之供,父母<岁>有裘葛之遗,无冻馁之患矣。（《送东阳马生序》）"
+            url: xxxx
+            vernacular: xxxx
+  - word: 岁
+    type: 【量词】
+    phonetic: sui4
+    tags:
+      - 高中
+    samples:
+      - trans: 计算年龄的单位。
+        sentences:
+          - ancient: 乡人长于伯兄一<岁>，则谁敬？（《孟子•告子上》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 成有子九<岁>，窥父不在，窃发（掀开）盆。（《促织》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "臣少多疾病，九<岁>不行，零丁孤苦,至于成立。（《陈情表》）"
             url: xxxx
             vernacular: xxxx

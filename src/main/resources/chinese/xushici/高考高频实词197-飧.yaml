@@ -1,18 +1,14 @@
 ---
 words:
-  - word: xxxx
+  - word: 飧
     type: 【名词】
-    phonetic: xx1
+    phonetic: sun1
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶晚饭。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
-飧sun1
-【名词】❶晚饭。
-【例句】吾小人辍（停止）飧饔yong1,早饭）以劳吏者,且不得暇（空闲）。（《种树郭橐驼传》）
-❷熟食。,
-【例句】盘飧市远无兼味,樽酒家贫只旧醅（pei1,没有过滤的酒）。（《客至》）
+          - ancient: 吾小人辍（停止）飧饔yong1,早饭）以劳吏者,且不得暇（空闲）。（《种树郭橐驼传》）
+      - trans: ❷熟食。
+        sentences:
+          - ancient: 盘飧市远无兼味,樽酒家贫只旧醅（pei1,没有过滤的酒）。（《客至》）

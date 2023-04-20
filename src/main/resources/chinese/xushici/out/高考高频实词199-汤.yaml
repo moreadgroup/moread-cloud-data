@@ -1,13 +1,38 @@
 ---
 words:
-  - word: xxxx
+  - word: 汤
     type: 【名词】
-    phonetic: xx1
+    phonetic: tang1
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶热水;开水。
         sentences:
-          - ancient: xxx
+          - ancient: "日初出沧沧凉凉，及其日中如探<汤>,此不为近者热而远者凉乎？（《两小儿辩日》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 至舍，四支僵劲不能动，媵人持<汤>沃灌，以衾拥覆，久而乃和（暖和过来）。（《送东阳马生序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 臣知欺大王之罪当诛，臣请就（赴）<汤>镬。（《廉颇蔺相如列传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷中药加水煎制而成的汤剂。
+        sentences:
+          - ancient: "更适阴阳,但服<汤>二旬而复故。（《史记•扁鹊仓公列传》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "而刘夙婴（患）疾病,常在床蓐（同\"褥\"，病席）,臣侍<汤>药，未曾废离。（《陈情表》）"
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸商朝第一个君王。
+        sentences:
+          - ancient: "<汤>之时，八年七旱,而崖不加损。（《秋水》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 上称帝誉，下道齐桓，中述<汤>武，以刺世事。（《史记•屈原贾生列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "【高考题例】禹、<汤>罪己,其兴也勃焉。（《旧唐书•于休烈传》）"
             url: xxxx
             vernacular: xxxx

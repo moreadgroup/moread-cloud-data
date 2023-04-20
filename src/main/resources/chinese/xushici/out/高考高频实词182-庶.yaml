@@ -1,13 +1,66 @@
 ---
 words:
-  - word: xxxx
+  - word: 庶
     type: 【名词】
-    phonetic: xx1
+    phonetic: shu4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶平民;百姓。
         sentences:
-          - ancient: xxx
+          - ancient: 将军魏武之子孙，于今为<庶>为清门。（唐•杜甫《丹青引赠曹将军霸》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 令益予众<庶>稻，可种卑湿。（《史记•夏本纪》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 而右将军独下吏，当死，赎为<庶>人。（《史记•李将军列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "【高考题例】涣丧（灵柩）西归，道经弘农,民<庶>皆设盘案于路。（《后汉书•王涣传》）"
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷非正妻所生之子;家族的旁支（与""嫡"相对）。
+        sentences:
+          - ancient: 仲为不道，杀适（通"嫡"）立<庶>。（《左传•文公十八年》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 庶
+    type: 【形容词】
+    phonetic: shu4
+    tags:
+      - 高中
+    samples:
+      - trans: 众;多。
+        sentences:
+          - ancient: 寒暑不吋（合乎季节），以伤<庶>物。（《庄子•渔父》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <庶>草茂则禽兽归之。（《吕氏春秋•功名》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 庶
+    type: 【副词】
+    phonetic: shu4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶表示可能。或许;差不多。
+        sentences:
+          - ancient: 君姑修政而亲兄弟之国，<庶>免于难。（《左传・桓公六年》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 中兴机会，<庶>几在此。（《〈指南录〉后序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】金人虽不吾索，吾当与之俱行，求见二酋面责之，<庶>或万一可济。（《宋史•孙傅传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷表示希望。但愿。
+        sentences:
+          - ancient: 当奖率三军，北定中原，<庶>竭驽钝，攘除奸凶，兴复汉室，还于旧都。（《出师表》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 愿陛下矜悯愚诚，听臣微志，<庶>刘侥幸，保卒余年。（《陈情表》）
             url: xxxx
             vernacular: xxxx

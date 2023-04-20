@@ -1,13 +1,148 @@
 ---
 words:
-  - word: xxxx
+  - word: 数
     type: 【名词】
-    phonetic: xx1
+    phonetic: shu4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶数目；数量。
         sentences:
-          - ancient: xxx
+          - ancient: 愿令得补黑衣（指宫中卫士）之<数>，以卫王宫。（《触龙说赵太后》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 夫以疲病之卒御狐疑之众，众<数>虽多，甚未足畏。（《资治通鉴•汉纪五十七》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷算术;数学。古代属六艺之一。
+        sentences:
+          - ancient: 三曰六艺:礼、乐、射、御、书、<数>。（《周礼•地官•大司徒》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸命运;定数。
+        sentences:
+          - ancient: "兴尽悲来,识盈虚（盈满和亏损，指兴衰贵贱）之有<数>。（《滕王阁序》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "则胜负之<数>，存亡之理，当与秦相较,或未易量（判断）。（《六国论》）"
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹技艺。特指术数（占卜、星相、算命等）。
+        sentences:
+          - ancient: 使王良持辔，马无欲奔之心，御之有<数>也。（《论衡•非韩》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 丘已习其曲矣，未得其<数>也。（《史记•孔子世家》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❺权术;方略。
+        sentences:
+          - ancient: 故为国之<数>，务在垦草。（《商君书•算地》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❻规律;法则。
+        sentences:
+          - ancient: 天有常道矣，地有常<数>矣，君子有常体矣。（《荀子.天论》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 数
+    type: 【数词】
+    phonetic: shu4
+    tags:
+      - 高中
+    samples:
+      - trans: 几;几个。
+        sentences:
+          - ancient: "每一字皆有<数>印，如\"之\"\"也\"等字,每字有二十余印，以备一板内有重复者。（《梦溪笔谈•技艺》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 媒人去<数>日，寻遣丞请还，说有兰家女，承籍有宦官。（《孔雀东南飞》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 百亩之田，勿夺其时，<数>口之家可以无饥矣。（《寡人之于国也》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 屠暴（突然）起，以刀劈狼首，又<数>刀毙之。（《狼》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "【高考题例】鼎至,奏罢不职有司<数>十辈，列部肃清。（《明史•熊鼎传》）"
+            url: xxxx
+            vernacular: xxxx
+  - word: 数
+    type: 【动词】
+    phonetic: shu3
+    tags:
+      - 高中
+    samples:
+      - trans: ❶计算;查点。
+        sentences:
+          - ancient: "今操得荆州，奄（覆盖，包括）有其地，刘表治水军,蒙冲斗舰乃以千<数>。（《资治通鉴•汉纪五十七》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "虞人导前，鹰犬罗后，捷禽鸷（zhi4,凶猛的鸟）兽应弦而倒者，不可胜<数>。（《中山狼传》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 诸侯奔走不得保其社稷者不可胜<数>。（《史记•太史公自序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】令行于民期年，秦民之国都言初令之不便者以千<数>。（《史记•商君列传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷历成;列基（好的事情）。
+        sentences:
+          - ancient: 【高考题例】后三十年，契丹萧太师与灌会，道曩事，<数>何巡检神射。（《宋史•何灌传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸列举罪状加以责备。
+        sentences:
+          - ancient: "予自度不得脱，则直前诟（gou4,辱骂）虏帅失信，<数>吕师孟叔侄为逆。（《〈指南录〉后序》）"
+            url: xxxx
+            vernacular: xxxx
+  - word: 数
+    type: 【形容词】
+    phonetic: shuo3
+    tags:
+      - 高中
+    samples:
+      - trans: 过多;超过常度。
+        sentences:
+          - ancient: 祭不欲<数>，<数>则烦。（《礼记•祭义》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 宫门令欲缚之。自辩<数>，乃置。（《陈涉世家》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 数
+    type: 【副词】
+    phonetic: shuo3
+    tags:
+      - 高中
+    samples:
+      - trans: 多次;屡次。
+        sentences:
+          - ancient: 扶苏以<数>谏故，上使外将兵。（《陈涉世家》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 范增<数>目（使眼色）项王。（《鸿门宴》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 吾<数>击杀响马贼，夺其物，故仇我。（《大铁椎传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "【高考题例】贾生<数>（多次）上疏,言诸侯或连<数>（几个）郡,非古之制，可稍削之。（《史记•屈原贾生而传》）"
+            url: xxxx
+            vernacular: xxxx
+  - word: 数
+    type: 【形容词】
+    phonetic: cu4
+    tags:
+      - 高中
+    samples:
+      - trans: 细密。
+        sentences:
+          - ancient: "<数>罟（gu3,网）不入湾池，鱼鳖不可胜食也。（《寡人之于国也》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 妇人疏字（生育）者子活，<数>乳（生育）者子死。（《论衡•气寿》）
             url: xxxx
             vernacular: xxxx

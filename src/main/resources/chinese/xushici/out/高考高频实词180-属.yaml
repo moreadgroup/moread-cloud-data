@@ -1,13 +1,140 @@
 ---
 words:
-  - word: xxxx
+  - word: 属
     type: 【名词】
-    phonetic: xx1
+    phonetic: shu3
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶官属;部属。
         sentences:
-          - ancient: xxx
+          - ancient: 以安其<属>。（唐•柳宗元《封建论》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷亲属。
+        sentences:
+          - ancient: 周文武（周文王、周武王）所封子弟同姓甚众，然后<属>疏远，相攻击如仇雠（仇敌）。（《史记•秦始皇本纪》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 本无谋，又非亲<属>，何胃相坐？（《苏武传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸等;辈。
+        sentences:
+          - ancient: 不（通"否"）者，若<属>（你们）皆且为所虏!（《鸿门宴》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 有宁越、徐尚、苏秦、杜赫之<属>为（替）之谋。（《过秦论》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】绛、灌、东阳侯、冯敬之<属>尽害之。（《史记•屈原贾生列传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹类。
+        sentences:
+          - ancient: 忠之<属>也。可以一战。（《曹刿论战》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 土地平旷，屋舍俨然（整齐的样子），有良田、美池、桑竹之<属>。（《桃花源记》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 属
+    type: 【动词】
+    phonetic: shu3
+    tags:
+      - 高中
+    samples:
+      - trans: ❶隶属;归属。
+        sentences:
+          - ancient: 十三学得琵琶成，名<属>教坊第一部。（《琵琶行》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 时维九月，序<属>三秋。（《滕王阁序》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷掌管。
+        sentences:
+          - ancient: 在骨髓，司命之所<属>，无奈何也。（《韩非子•喻老》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 属
+    type: 【动词】
+    phonetic: zhu3
+    tags:
+      - 高中
+    samples:
+      - trans: ❶连接;跟随。
+        sentences:
+          - ancient: 平原君使者冠盖相<属>于魏。（《史记•魏公子列传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷交付;委托。
+        sentences:
+          - ancient: 今王之地方（方圆）五千里，带甲百万，而专<属>之昭奚恤。（《战国策•楚策一》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】国珍弟平章事，有人犯法，<属>鼎治，鼎论如法。（明•方孝孺《詹鼎传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸通""嘱"。嘱托。
+        sentences:
+          - ancient: <属>予作文以记之。（《岳阳楼记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "使人<属>孟尝君,愿寄食门下。（《冯谖客孟尝君》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】文日："主少国疑，大臣未附，百姓不信，方是之时，<属>之于子乎？<属>之于我乎?"起默然良久，日："<属>之子矣。（《史记•孙子吴起列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 丞相有子就举，欲以<属>公。（《宋史•萧燧传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹聚集;集合。
+        sentences:
+          - ancient: 乃<属>其耆老（耆qi2老年人）而告之。（《孟子•梁惠王下》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❺起草;撰写。
+        sentences:
+          - ancient: 怀王使屈原造为宪令，屈平<属>草稿未定，上官大夫见而欲夺之，屈平不与。（《史记•屈原贾生列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 衡少善<属>文，游于三辅，因入京师。（《张衡传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】贾生名谊，洛阳人也。年十八，以能诵诗<属>书闻于郡中。（《史记•屈原贾生列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 自幼好学，善<属>文。（《旧唐书•于休烈传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❻劝;请。
+        sentences:
+          - ancient: 驾一叶之扁舟，举匏樽（匏pao2，用葫芦做成的酒杯）以相<属>。（《赤壁赋》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 举酒<属>客，诵明月之诗，歌窈窕之章。（《赤壁赋》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❼倾注。
+        sentences:
+          - ancient: 酌玄酒，三<属>于尊。（《仪礼•士昏礼》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 属
+    type: 【副词】
+    phonetic: zhu3
+    tags:
+      - 高中
+    samples:
+      - trans: ❶表示恰逢某种情况。相当于"适值""正当"。
+        sentences:
+          - ancient: "吾子<属>当重任，曾不能明道处分，以义辅时,而负恃弱众以图力争，师曲为老，将何获济？（《三国志•吴书•鲁肃传》）"
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷表示刚刚达到某种程度。相当于"刚刚"。
+        sentences:
+          - ancient: 天下<属>安定，何故反乎？（《史记•留侯世家》）
             url: xxxx
             vernacular: xxxx

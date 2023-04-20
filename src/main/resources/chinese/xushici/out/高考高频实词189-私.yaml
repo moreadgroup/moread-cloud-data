@@ -1,13 +1,80 @@
 ---
 words:
-  - word: xxxx
+  - word: 私
     type: 【名词】
-    phonetic: xx1
+    phonetic: si1
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶私事;私利。
         sentences:
-          - ancient: xxx
+          - ancient: 借于外力，以成其<私>而遗社稷之利。（《韩非子•五蠹》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 丹不忍以己之<私>，而伤长者之意，愿足下更虑之!（《荆轲刺秦王》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷贴身衣服。
+        sentences:
+          - ancient: "薄（稍稍）污（去污）我<私>，薄瀚（洗）我衣（外衣）。（《诗经•周南•葛簞》）\t’"
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸隐私;秘密的事。
+        sentences:
+          - ancient: 使者归报项王，项王乃疑范增与汉有<私>，稍夺之权。（《史记•项羽本纪》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 私
+    type: 【动词】
+    phonetic: si1
+    tags:
+      - 高中
+    samples:
+      - trans: ❶偏私;偏爱。
+        sentences:
+          - ancient: 吾妻之美我者，<私>我也。（《邹忌讽齐王纳谏》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷私人占有。
+        sentences:
+          - ancient: 井九百亩，其中为公田，八家皆<私>百亩。（《孟子・滕文公上》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸私通。
+        sentences:
+          - ancient: 夜有奔女，颜色颇丽。万悦而<私>之。（《聊斋志异•狐谐》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹排尿;小便。
+        sentences:
+          - ancient: 师慧过宋朝，将<私>焉。（《左传•襄公十五年》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 私
+    type: 【形容词】
+    phonetic: si1
+    tags:
+      - 高中
+    samples:
+      - trans: 私人的;个人的（与"公"相对）。
+        sentences:
+          - ancient: 吾所以为此者，以先国家之急而后<私>仇也。（《廉颇蔺相如列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 子布、元表诸人，各顾妻子，挟持<私>虑，深失所望。（《资治通鉴•汉纪五十七》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 私
+    type: 【副词】
+    phonetic: si1
+    tags:
+      - 高中
+    samples:
+      - trans: 私下;秘密地。
+        sentences:
+          - ancient: "张良是时从沛公（指刘邦），项伯乃夜驰之沛公军,<私>见张良。（《鸿门套》"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 臣尝从大王与燕王会境上，燕王<私>握臣手曰，"愿结友"。以此知之，故欲往。（《廉颇蔺相如列传》）
             url: xxxx
             vernacular: xxxx

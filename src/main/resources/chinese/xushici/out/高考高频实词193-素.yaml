@@ -1,13 +1,93 @@
 ---
 words:
-  - word: xxxx
+  - word: 素
     type: 【名词】
-    phonetic: xx1
+    phonetic: su4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶白色的生绢。
         sentences:
-          - ancient: xxx
+          - ancient: 若士必（一定）怒，伏尸二人，流血五步，天下縞<素>（指穿丧服），今日是也。（《唐雎不辱使命》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 十三能织<素>十四学裁衣。（《孔雀东南飞》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷蔬菜、瓜果类食品（与""荤""相对）。
+        sentences:
+          - ancient: 古之民未知为饮食时，<素>食而分处。（《墨子•辞过》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸白色的盐、雪等物。
+        sentences:
+          - ancient: 熬波出<素>。（南朝齐•张融《海赋》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹旧交。
+        sentences:
+          - ancient: 其他赴告，咸复于<素>。（唐•刘禹锡《重祭柳员外文》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❺本质。
+        sentences:
+          - ancient: 平易者道之<素>。（《淮南子•本经训》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❻真情。后来写作"愫"。
+        sentences:
+          - ancient: 披心腹，见情<素>。（汉•邹阳《狱中上梁王书》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 素
+    type: 【形容词】
+    phonetic: su4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶白色的。
+        sentences:
+          - ancient: 纤纤擢<素>手，札札弄机杼。（《迢迢牵牛星》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "通籍（开始做官）后，俸去书来，落落大满（堆积的到处都是）,<素>蟫灰丝时蒙卷轴。（《黄生借韦说》）"
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷朴素的。
+        sentences:
+          - ancient: 可以调<素>琴，阅金经。（《陋室铭》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸清贫。
+        sentences:
+          - ancient: 令内外群官举清能，拔寒<素>。（《晋书•武帝纪》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 素
+    type: 【副词】
+    phonetic: su4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶空；白白地。
+        sentences:
+          - ancient: 彼君子兮，不<素>餐兮。（《诗经•魏风•伐檀》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷平素；向来;一向。
+        sentences:
+          - ancient: 虞常在汉时，<素>与副张胜相知。（《苏武传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 吴广<素>爱人，士卒多为用者。（《陈涉世家》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <素>善留侯张良。（《鸿门宴》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】王公<素>负重名，不可害。（《明史•王祎传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 邓奉反于南阳，憙<素>与奉善（交好），数（多次）遗（送）书切责之。（《后汉书•赵憙传》）
             url: xxxx
             vernacular: xxxx

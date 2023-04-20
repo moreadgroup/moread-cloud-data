@@ -1,13 +1,46 @@
 ---
 words:
-  - word: xxxx
+  - word: 爽
     type: 【名词】
-    phonetic: xx1
+    phonetic: shuang3
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: 差错。
         sentences:
-          - ancient: xxx
+          - ancient: 女也不<爽>，士贰（不专一）其行。（《诗经•卫风•氓》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 少间，帘内掷一纸出，即道人意中事，无毫发<爽>。（《促织》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 爽
+    type: 【动词】
+    phonetic: shuang3
+    tags:
+      - 高中
+    samples:
+      - trans: 违背;违犯。
+        sentences:
+          - ancient: 为朝廷<爽>法？（《新唐书•蒋乂传》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 爽
+    type: 【形容词】
+    phonetic: shuang3
+    tags:
+      - 高中
+    samples:
+      - trans: ❶明朗;清爽。
+        sentences:
+          - ancient: <爽>籁发而清风生，纤歌凝而白云遏。（《滕王阁序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 酌贪泉而觉<爽>，处涸辙以犹欢。（《滕王阁序》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷直爽;豪放。
+        sentences:
+          - ancient: 少有逸才，风姿英<爽>，气盖一时。（《晋书•王济传》）
             url: xxxx
             vernacular: xxxx

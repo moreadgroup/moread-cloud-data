@@ -1,13 +1,97 @@
 ---
 words:
-  - word: xxxx
+  - word: 说
     type: 【名词】
-    phonetic: xx1
+    phonetic: shuo1
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶说法;主张。
         sentences:
-          - ancient: xxx
+          - ancient: "劳苦而功高如此,未有封侯之赏，而听细<说>（小人的谗言），欲诛有功之人，此亡秦之续耳。（《鸿门宴））"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 是<说>也，人常疑之。（《石钟山记》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷文体的一种。
+        sentences:
+          - ancient: 为一<说>，使与书俱。（《黄生借书说》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 余嘉其能行古道，作《师<说>》以贻之。（《师说》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 说
+    type: 【动词】
+    phonetic: shuo1
+    tags:
+      - 高中
+    samples:
+      - trans: ❶解释;说明。
+        sentences:
+          - ancient: 余不敢以麋鹿自封也，欲遍布之，恐不可户<说>，辄以是疏先焉。（明•徐光启《甘薯疏序》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷陈述;诉说。
+        sentences:
+          - ancient: 低眉信手续续弹，<说>尽心中无限事。（《琵琶行》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 便纵有千种风情，更与何人<说>？（《雨霖铃》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 直<说>太守家，有此令郎君，既欲结大义，故遣来贵门。（《孔雀东南飞》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 说
+    type: 【动词】
+    phonetic: shui4
+    tags:
+      - 高中
+    samples:
+      - trans: 劝说;说服。
+        sentences:
+          - ancient: 范增<说>项羽曰："……急击勿失！"（《鸿门宴》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "（鲁）肃请得奉命吊（刘）表二子，并慰劳其军中用事者,及<说>备使抚表众。（《资治通鉴•汉纪五十七》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 单于闻陵与子卿素厚，故使陵来<说>足下，虚心欲相待。（《苏武传》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 说
+    type: 【动词】
+    phonetic: tuo1
+    tags:
+      - 高中
+    samples:
+      - trans: 通"脱"。解脱。
+        sentences:
+          - ancient: 士之耽兮，犹可<说>也。女之耽兮，不可<说>也！（《诗经•卫风•氓》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 说
+    type: 【形容词】
+    phonetic: yue4
+    tags:
+      - 高中
+    samples:
+      - trans: 通"悦"。高兴。
+        sentences:
+          - ancient: 学而时习之，不亦<说>乎？（《论语•学而》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 公输盘不<说>。（《公输》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 秦伯<说>，与郑人盟。（《烛之武退秦师》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "诚能得樊将军首,与燕督亢之地图献秦王，秦王必<说>见臣,臣乃得有以报太子。（《荆轲刺秦王》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "【高考题例】行之十年，秦民大<说>，道不拾遗，山无盗贼,家给人足。（《史记.商君列传》）"
             url: xxxx
             vernacular: xxxx

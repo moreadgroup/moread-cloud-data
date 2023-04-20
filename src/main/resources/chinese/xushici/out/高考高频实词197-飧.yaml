@@ -1,13 +1,18 @@
 ---
 words:
-  - word: xxxx
+  - word: 飧
     type: 【名词】
-    phonetic: xx1
+    phonetic: sun1
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶晚饭。
         sentences:
-          - ancient: xxx
+          - ancient: "吾小人辍（停止）<飧>饔yong1,早饭）以劳吏者,且不得暇（空闲）。（《种树郭橐驼传》）"
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷熟食。
+        sentences:
+          - ancient: "盘<飧>市远无兼味,樽酒家贫只旧醅（pei1,没有过滤的酒）。（《客至》）"
             url: xxxx
             vernacular: xxxx

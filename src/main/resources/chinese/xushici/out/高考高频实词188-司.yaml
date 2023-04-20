@@ -1,13 +1,38 @@
 ---
 words:
-  - word: xxxx
+  - word: 司
     type: 【名词】
-    phonetic: xx1
+    phonetic: si1
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶官署。
         sentences:
-          - ancient: xxx
+          - ancient: 今者无故又创一<司>，号曰制置三<司>条例。（宋•苏轼《上神宗皇帝书》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷官吏。
+        sentences:
+          - ancient: "郡县逼迫，催臣上道;州<司>临门，急于星火（流星的光）。（《陈情表》）\t,"
+            url: xxxx
+            vernacular: xxxx
+  - word: 司
+    type: 【动词】
+    phonetic: si1
+    tags:
+      - 高中
+    samples:
+      - trans: 主管;掌管。
+        sentences:
+          - ancient: "何必劳神苦思，代下<司>职,役聪明之耳目，亏无为之大道哉？（《谏太宗十思疏》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "昔在颛顼，命南正重以<司>天,北正黎以<司>地。（《史记•太史公自序》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "【高考题例】山东久旱，浙江及南畿水灾,文升请命所<司>振恤，练士卒以备不虞。（《明史•马文升传》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】宜其<司>当代文柄，以变风雅。（唐•李贻孙《欧阳行周文集序》）
             url: xxxx
             vernacular: xxxx

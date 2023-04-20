@@ -1,13 +1,97 @@
 ---
 words:
-  - word: xxxx
+  - word: 遂
     type: 【名词】
-    phonetic: xx1
+    phonetic: Sui4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶田间水沟。
         sentences:
-          - ancient: xxx
+          - ancient: 广二尺，深二尺，谓之<遂>。（《周礼•考工记•匠人》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷水中的通道。
+        sentences:
+          - ancient: "迷者不问路,溺者不问<遂>。（《荀子•大略》）"
+            url: xxxx
+            vernacular: xxxx
+  - word: 遂
+    type: 【动词】
+    phonetic: Sui4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶进展顺利;成功。
+        sentences:
+          - ancient: 何往而不<遂>？（《淮南子•精神训》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 功<遂>身退，天之道。（《老子》九章）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 吾闻先生事魏不<遂>，事楚而去。（《汉书•张陈王周传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷称心;如意。
+        sentences:
+          - ancient: "世乱遭飘荡,生还偶然<遂>。（《羌村三首》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 言既<遂>矣，至于暴矣。（《诗经•卫风•氓》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸前进;前往。
+        sentences:
+          - ancient: "羝羊触藩，不能退,不能<遂>，无攸利。（《周易，大壮卦》）"
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹举荐;提升。
+        sentences:
+          - ancient: 显忠<遂>良。（《尚书•仲虺之诰》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❺顺利地成长。
+        sentences:
+          - ancient: 六畜<遂>，五谷殖。（《韩非子•难二》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❻养育。
+        sentences:
+          - ancient: 早缫而绪，早织而缕，字而幼孩，<遂>而鸡豚。（《种树斐橐驼传》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 遂
+    type: 【副词】
+    phonetic: Sui4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶于是;就。
+        sentences:
+          - ancient: 臣请<遂>道王者诸侯强弱存亡之效，安危之势。（《荀子•议兵》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "如不能守以终丧,则<遂>取以来。（《祭十二郎文》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 荆轲知太子不忍，乃<遂>私见樊於期。（《荆轲刺秦王》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 山东豪俊<遂>并起而亡秦族矣。（《过秦论》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 阉竖恐终为其患，<遂>共谗之。（《张衡传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷终;竟。
+        sentences:
+          - ancient: <遂>使之行成于吴。（《勾践灭吴》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 太守即遣人随其往，寻向所志，<遂>迷，不复得路。（《桃花源记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "曹操比于袁绍，则名微而众寡。然操<遂>能克绍，以弱为强者，非惟天时,抑亦人谋也。（《隆中对》）"
             url: xxxx
             vernacular: xxxx
