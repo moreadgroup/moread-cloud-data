@@ -1,13 +1,39 @@
 ---
 words:
-  - word: xxxx
+  - word: 效
     type: 【名词】
-    phonetic: xx1
+    phonetic: xiao4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶征验;效果。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 是故燕虽小国而后亡，斯用兵之效也。（《六国论》）丨如今之紫草,未花时采则根色鲜泽,过而釆则根色暗恶，此其效也。（《梦溪笔谈•药议》）
+      - trans: ❷任务。
+        sentences:
+          - ancient: 愿陛下托臣以讨贼兴复之效。（《出师表》）
+
+  - word: 效
+    type: 【动词】
+    phonetic: xiao4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶模仿;效法。
+        sentences:
+          - ancient: 他植者虽窥伺效慕，莫能如也。（《种树郭橐驼传》）丨孟尝高洁，空余报国之情;阮籍猖狂，岂效穷途之哭？（《滕王阁序》）
+      - trans: ❷取得成效。
+        sentences:
+          - ancient: 吾家读书久不效，儿之成，则可待乎！（《项脊轩志》）丨愿陛下托臣以讨贼兴复之效，不效，则治臣之罪，以告先帝之灵。（《出师表》）丨受命以来，夙夜（日夜）忧叹，恐托付不效，以伤先帝之明。（《出师表》）
+      - trans: ❸献出；呈献。
+        sentences:
+          - ancient: 性贪而狠，党（同伙）豺为虐，君能除之，固当窥（通"跬"，迈出）左足以效微劳，又肯讳之而不言哉？（《中山狼传》）丨今得杀身自效，虽蒙斧钺汤镬，诚甘乐之。（《苏武传》）丨则智者尽其谋，勇者竭其力，仁者播其惠，信者效其忠。（《谏太宗十思疏》）
+      - trans: ❹交出；授予。
+        sentences:
+          - ancient: 司城荡意诸来奔，效节于府人而出。（《左传•文公八年》）
+      - trans: ❺验证。
+        sentences:
+          - ancient: 何以效之？（《论衡•订鬼》）
+      - trans: ❻胜任。
+        sentences:
+          - ancient: 故夫知效一官，行比一乡，德合一君,而征一国者,其自视也，亦若此矣。（《逍遥游》）

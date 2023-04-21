@@ -1,13 +1,54 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 兴
+    type: 【动词】
+    phonetic: xing1
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶起来。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 从者病，莫能兴。（《史记•孔子世家》）丨夙兴夜寐，靡有朝矣。（《诗经•卫风•氓》）丨泰山崩于前而色不变，麋鹿兴于左而目不瞬（眨眼）。（宋•苏洵《心术》）
+      - trans: ❷兴起。
+        sentences:
+          - ancient: 积土成山，风雨兴焉。（《劝学》）丨每览昔人兴感之由，若合一契。（《兰亭集序》）丨政通人和，百废具兴。（《岳阳楼记》）【高考题例】贾生谏，以为患之兴自此起矣。（《史记•屈原贾生列传》）
+      - trans: ❸发动。
+        sentences:
+          - ancient: 怀王怒，大兴师伐秦。（《史记•屈原贾生列传》）丨燕王诚振怖大王之威，不敢兴兵以拒大王。（《荆轲刺秦王》）
+          - ancient: 【高考题例】陛下兴军旅,百姓易咨怨。（《北史•来护儿传》）
+      - trans: ❹使兴盛。
+        sentences:
+          - ancient: 忧劳可以兴国，逸豫（安闲享乐）可以亡身，自然之理也。（《伶官传序》）
+
+  - word: 兴
+    type: 【形容词】
+    phonetic: xing1
+    tags:
+      - 高中
+    samples:
+      - trans: 兴盛;复兴。
+        sentences:
+          - ancient: 夜篝火，狐鸣呼曰："大楚兴，陈胜王。"（《陈涉世家》）丨考之行事，稽其成败兴坏之理。（《报任安书》）丨中兴机会，庶几（或许）在此。（《〈指南录〉后序》）
+
+  - word: 兴
+    type: 【名词】
+    phonetic: xing4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶兴致。
+        sentences:
+          - ancient: 兴尽悲来,识盈虚（盈满和亏损）之有数。（《滕王阁序》）丨遥襟甫畅，逸兴遄飞（chuan2fei）。（《滕王阁序》）
+      - trans: ❷诗歌的一种表现手法，"六义（风、雅、颂、赋、比、兴）"之一。
+        sentences:
+          - ancient: 兴者，先言他物以引起所咏之词也。（宋•朱熹《诗集传》）
+
+  - word: 兴
+    type: 【动词】
+    phonetic: xing4
+    tags:
+      - 高中
+    samples:
+      - trans: 喜欢;感兴趣。
+        sentences:
+          - ancient: 不兴其艺，不能乐学。（《礼记•学记》）

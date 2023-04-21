@@ -1,13 +1,48 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 唯
+    type: 【动词】
+    phonetic: wei4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: 通""惟"。思考；考虑。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 自唯虚薄，为四海英雄共推盟主。（《资治通鉴•隋纪八》）.
+
+  - word: 唯
+    type: 【副词】
+    phonetic: wei4
+    tags:
+      - 高中
+    samples:
+      - trans: 只;仅。
+        sentences:
+          - ancient: 鸡鸣而驾，塞井夷（铲平）灶，唯余马首是瞻。（《左传•襄公十四年》）丨芳与泽其杂糅兮，唯昭质其犹未亏。（《离骚》）丨东船西舫悄无言，唯见江心秋月白。（《琵琶行》）
+
+  - word: 唯
+    type: 【连词】
+    phonetic: wei4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶表示让步。相当于"虽然"。
+        sentences:
+          - ancient: 唯信（韩信自称）亦以为大王弗如也。（《汉书•韩信传》）丨近吿之史也，言唯详备，事罕甄择（鉴别）。（《史通•疑古》）
+      - trans: ❷表示动作行为的起因。相当于"因为""由于"。
+        sentences:
+          - ancient: 唯不信，故质其子。（《左传•昭公二十年》）
+
+  - word: 唯
+    type: 【助词】
+    phonetic: wei4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶用在句首，表示确定的语气。
+        sentences:
+          - ancient: 君处北海，寡人处南海，唯是风马牛不相及也。（《左传•僖公四年》）
+      - trans: ❷用在句首，表示希望的语气。可译为"希望""请"等。
+        sentences:
+          - ancient: 唯君图之,寡君闻命矣！（《左传•昭公十三年》）丨愚臣亡识，唯陛下财（通"裁"）察。（《汉书•晁错传》）丨阙秦以利晋,唯君图之（《烛之武退秦师》）丨唯大王命之。（《荆轲刺秦王》）丨唯大王与群臣孰计议之。（《廉颇蔺相如列传》）
+

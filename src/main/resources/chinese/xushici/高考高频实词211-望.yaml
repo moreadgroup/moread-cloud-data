@@ -1,8 +1,8 @@
 ---
 words:
-  - word: xxxx
+  - word: 望
     type: 【名词】
-    phonetic: xx1
+    phonetic: wang4
     tags:
       - 高中
     samples:
@@ -11,3 +11,53 @@ words:
           - ancient: xxx
             url: xxxx
             vernacular: xxxx
+
+      - trans: ❶视力所及;视野。
+        sentences:
+          - ancient: 远村虽入望，危槛不堪凭。（唐•孟贯《冬曰登江楼》）
+      - trans: ❷希望。
+        sentences:
+          - ancient: 三十日不还，则请立太子为王，以绝秦望。（《廉颇蔺相如列传》）
+      - trans: ❸声望;名望。
+        sentences:
+          - ancient: 先达德隆望尊，门人弟子填其室，未尝稍降辞色。（《送东阳马生序》）
+      - trans: ❹显贵的姓氏、门第。
+        sentences:
+          - ancient: 中正（魏晋至隋代州郡官名，负责评定人才品德，分为九等）卖望于下里，主按舞笔于上台。（《魏书•孙绍传》）
+      - trans: ❺天文学上指月亮圆的那一天，即农历每月十五日。
+        sentences:
+          - ancient: 予犹记周公之被逮，在丁卯三月之望。（《五人墓碑记》）丨壬戌之秋，七月既望，苏子与客泛舟游于赤壁之下。（《赤壁赋》）
+
+  - word: 望
+    type: 【动词】
+    phonetic: wang4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶向远处看。
+        sentences:
+          - ancient: 下视其辙，登轼而望之，曰："可矣。"（《曹刿论战》）丨吾令人望其气，皆为龙虎，成五采，此天子气也。（《鸿门宴》）
+      - trans: ❷希望;盼望;期望。
+        sentences:
+          - ancient: 王如知此，则无望民之多于邻国也。（《寡人之于国也》）丨日夜望将军至，岂敢反乎！（《鸿门宴》）丨单于益骄,非汉所望也。（《苏武传》）丨子布、元表诸人，各顾妻子，挟持私虑，深失所望;独卿与子敬与孤同耳，此天以卿二人赞（辅佐，帮助）孤也！（《资治通鉴•汉纪五十七》）
+      - trans: ❸敬仰。
+        sentences:
+          - ancient: 行归于周，万民所望。（《诗经•小雅•都人士》）❹埋怨;责怪。
+          - ancient: 宗室贵戚多怨望者。（《史记•商君列传》）丨意气勤勤恳恳，若望仆不相师，而用流俗人之言。（《报任安书》）丨信知汉王畏恶其能，常称病不朝从。信由此日夜怨望，居常鞅鞅，羞与绛、灌等列。（《史记•淮阴侯列传》）
+      - trans: ❺祭祀（山川）。
+        sentences:      
+          - ancient: 例切望于山川，遍于群神。（《尚书•尧典》）
+      - trans: ❻对着。
+        sentences:
+          - ancient: 其寺东西南北方五百步,前望嵩山少室，却负帝城，青林垂影，绿水为文。（《洛阳伽蓝记》卷三）
+
+  - word: 望
+    type: 【介词】
+    phonetic: wang4
+    tags:
+      - 高中
+    samples:
+      - trans: 至;到。
+        sentences:
+          - ancient: 臣蒲柳之质，望秋先零。（《世说新语•言语》注引顾恺之为父传）
+			

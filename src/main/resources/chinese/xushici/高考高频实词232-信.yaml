@@ -1,13 +1,59 @@
 ---
 words:
-  - word: xxxx
+  - word: 信
     type: 【名词】
-    phonetic: xx1
+    phonetic: xin4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶信用;诚实可信的品德
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 人而无信，不知其可也。（《论语•为政》）丨将军既帝室之胄（后代），信义著于四海。（《隆中对》）丨终不得归汉，空自苦亡人之地，信义安所见乎？（《苏武传》）
+      - trans: ❷信物;凭证。
+        sentences:
+          - ancient: 是皆不足以执信也。（《中山狼传》）丨今行而无信,则秦未可亲也。（《荆轲刺秦王》）
+      - trans: ❸使者;送信的人。
+        sentences:
+          - ancient: 自可断（回绝）来信（这里指媒人），徐徐更谓之。（《孔雀东南飞》）
+      - trans: ❹音信;消息。
+        sentences:
+          - ancient: 大概说长安登科,函使报信迟早云尔。（《祭妹文》）
+      - trans: ❺书信。
+        sentences:
+          - ancient: 开拆远书何事喜，数行家信抵千金。（唐•李绅《端州江亭得家书二首》之一）丨久已后书儿、信儿，索与我凄凄惶惶的寄。（《长亭送别》）
+
+  - word: 信
+    type: 【动词】
+    phonetic: xin4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶相信;信任。
+        sentences:
+          - ancient: 宁信度（尺码），无自信也。（《韩非子•外储说左上》）丨此悉（都是）贞良死节之臣也，愿陛下亲之信之。（《出师表》）丨今虽欲自雕琢，曼辞以自饰，无益，于俗不信,适足取辱耳。（《报任安书》）
+      - trans: ❷任凭;任意。
+        sentences:
+          - ancient: 信手把笔，随意乱书。（唐.白居易《与元微之书》）丨低眉信手续续弹，说尽心中无限事。（《琵琶行》）
+
+  - word: 信
+    type: 【形容词】
+    phonetic: xin4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶真实。
+        sentences:
+          - ancient: 其信然邪？其梦邪？其传之非其真邪？信也，吾兄之盛德而夭其嗣乎？（《祭十二郎文》）丨信言不美，美言不信。（《老子》八十一章）
+      - trans: ❷诚实。
+        sentences:
+          - ancient: 与朋友交而不信乎？（《论语•学而》）丨则智者尽其谋，勇者竭其力，仁者播其惠，信者效其忠。（《谏太宗十思疏》）丨良将劲弩守要害之处，信臣精卒陈利兵而谁何。（《过秦论》）
+
+  - word: 信
+    type: 【副词】
+    phonetic: xin4
+    tags:
+      - 高中
+    samples:
+      - trans: 的确;果真。
+        sentences:
+          - ancient: 所以游目骋怀（放开眼界、开阔胸怀），足以极视听之娱,信可乐也；（《兰亭集序》）丨海客谈瀛洲，烟涛微茫信难求。（《梦游天姥吟留别》）

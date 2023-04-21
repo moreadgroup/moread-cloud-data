@@ -1,13 +1,53 @@
 ---
 words:
-  - word: xxxx
+  - word: 危
     type: 【名词】
-    phonetic: xx1
+    phonetic: wei1
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶高处。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
+          - ancient: 拱木不生危，松柏不生埤（指地势低下的地方）。（《国语•晋语八》）
+      - trans: ❷屋脊。
+        sentences:
+          - ancient: 有玄（黑色）鹤二八，自南方来，集于廊门之危。（《论衡.感虚》）
+
+  - word: 危
+    type: 【动词】
+    phonetic: wei1
+    tags:
+      - 高中
+    samples:
+      - trans: ❶危害。
+        sentences:
+          - ancient: 抑（难道）王兴甲兵,危士臣，构怨于诸侯，然后快于心与？（《齐桓晋文之事》）
+      - trans: ❷畏惧;忧惧。
+        sentences:
+          - ancient: 臣闭其外也已远矣，而守其内也已固矣，虽国小，犹不危之也。（《韩非子•外储说左上》）
+
+  - word: 危
+    type: 【形容词】
+    phonetic: wei1
+    tags:
+      - 高中
+    samples:
+      - trans: ❶高。
+        sentences:
+          - ancient: 噫吁嚱，危乎高哉！蜀道之难，难于上青天！（《蜀道难》）
+      - trans: ❷危险;危急（与"安"相对）。
+        sentences:
+          - ancient: 但以刘日薄西山，气息奄奄，人命危浅，朝不虑夕。（《陈情表》）丨国危矣，若使烛之武见秦君，师必退。（《烛之武退秦师》）丨先帝创业未半而中道崩殂，今天下三分，益州疲弊，此诚危急存亡之秋也。（《出师表》）
+      - trans: ❸端正。
+        sentences:
+          - ancient: 猎（揽）缨正襟危坐。（《史记・日者列传》）丨苏子愀然，正襟危坐而问客曰……（《赤壁赋》）
+
+  - word: 危
+    type: 【副词】
+    phonetic: wei1
+    tags:
+      - 高中
+    samples:
+      - trans: 几乎:将要。
+        sentences:
+          - ancient: ，今儿安在，危杀之矣。（《汉书•外戚传下》）
