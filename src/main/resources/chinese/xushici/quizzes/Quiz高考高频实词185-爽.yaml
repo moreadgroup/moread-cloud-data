@@ -1,9 +1,44 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 爽
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: shuang3
+    trans: 差错。
+    ancient: 女也不<爽>，士贰（不专一）其行。（《诗经•卫风•氓》）
+    url: xxxx
+    vernacular: 我女子没有什么差错，男子行为却前后不一致了。
+  - word: 爽
+    type: 【名词】
+    phonetic: shuang3
+    trans: 差错。
+    ancient: 少间，帘内掷一纸出，即道人意中事，无毫发<爽>。（《促织》）
+    url: xxxx
+    vernacular: 一会儿，室内丢一张纸条出来，上面写着求神的人心中想问的事，没有丝毫差错。
+  - word: 爽
+    type: 【动词】
+    phonetic: shuang3
+    trans: 违背;违犯。
+    ancient: 为朝廷<爽>法？（《新唐书•蒋乂传》）
     url: xxxx
     vernacular: xxxx
+  - word: 爽
+    type: 【形容词】
+    phonetic: shuang3
+    trans: ❶明朗;清爽。
+    ancient: <爽>籁发而清风生，纤歌凝而白云遏。（《滕王阁序》）
+    url: xxxx
+    vernacular: 排箫的明朗音响引来的徐徐清风，柔缓的歌声吸引住飘动的白云。
+  - word: 爽
+    type: 【形容词】
+    phonetic: shuang3
+    trans: ❶明朗;清爽。
+    ancient: 酌贪泉而觉<爽>，处涸辙以犹欢。（《滕王阁序》）
+    url: xxxx
+    vernacular: 即使喝了贪泉的水，也觉得清爽可口，并不滋生贪心；即使像鲋鱼处于即将干涸的车辙中，依然开朗愉快。
+  - word: 爽
+    type: 【形容词】
+    phonetic: shuang3
+    trans: ❷直爽;豪放。
+    ancient: 少有逸才，风姿英<爽>，气盖一时。（《晋书•王济传》）
+    url: xxxx
+    vernacular: "王济字武子.年少时有超人的才能,风姿英俊豪爽,气概超越一时"

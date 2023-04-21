@@ -1,9 +1,16 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 飧
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: sun1
+    trans: ❶晚饭。
+    ancient: 吾小人辍（停止）<飧>(饔yong1，早饭）以劳吏者，且不得暇（空闲）。（《种树郭橐驼传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 我们这些小百姓停止吃早、晚饭去慰劳那些小吏尚且不得空暇
+  - word: 飧
+    type: 【名词】
+    phonetic: sun1
+    trans: ❷熟食。
+    ancient: 盘<飧>市远无兼味，樽酒家贫只旧醅（pei1，没有过滤的酒）。（《客至》）
+    url: xxxx
+    vernacular: 离集市太远盘中没好菜肴，家境贫寒只有隔年的陈酒招待。

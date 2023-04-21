@@ -1,9 +1,107 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 率
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: shuai4
+    trans: ❶表率;楷模。
+    ancient: 乡子弟力田为人<率>者几何人？（《管子•问》）
+    url: xxxx
+    vernacular: 乡中子弟，力田耕作，可以为人表率的，多少人？
+  - word: 率
+    type: 【名词】
+    phonetic: shuai4
+    trans: ❷通"帅"。军中统帅。
+    ancient: 王之将<率>有如子路者乎？（《史记•孔子世家》）
     url: xxxx
     vernacular: xxxx
+  - word: 率
+    type: 【动词】
+    phonetic: shuai4
+    trans: ❶遵循;遵从。
+    ancient: 此吾所以敢<率>性就死不顾汝也。（清•林觉民《与妻书》）
+    url: xxxx
+    vernacular: 这就是我断然干脆地为革命而死、舍你不顾的原因。
+  - word: 率
+    type: 【动词】
+    phonetic: shuai4
+    trans: ❶遵循;遵从。
+    ancient: 《诗》云"匪兕匪虎，<率>彼旷野"。（《史记•孔子世家》）
+    url: xxxx
+    vernacular: 既非野牛又非虎，穿行旷野不停步。
+  - word: 率
+    type: 【动词】
+    phonetic: shuai4
+    trans: ❷率领;带领。
+    ancient: 遂<率>子孙荷担者三夫，叩石垦壤，箕畚（ji1ben3，簸箕和笸箩，两种装土石的工具）运于渤海之尾。（《愚公移山》）
+    url: xxxx
+    vernacular: 于是愚公率领儿孙中能挑担子的三个人上了山，凿石挖土，用箕畚运到渤海边上。
+  - word: 率
+    type: 【动词】
+    phonetic: shuai4
+    trans: ❷率领;带领。
+    ancient: 将军身<率>益州之众出于秦川，百姓孰敢不箪食壶浆（箪dan1，用竹器盛着饭，用壶装酒水）以迎将军者乎?（《隆中对》）
+    url: xxxx
+    vernacular: 将军您亲自率领益州的军队从秦川出击，老百姓谁敢不用竹篮盛着饭食，用壶装着酒来欢迎将军您呢？
+  - word: 率
+    type: 【动词】
+    phonetic: shuai4
+    trans: ❷率领;带领。
+    ancient: <率>疲弊之卒，将数百之众。（《过秦论》）
+    url: xxxx
+    vernacular: 率领着疲惫无力的士兵，指挥着几百人的队伍
+  - word: 率
+    type: 【动词】
+    phonetic: shuai4
+    trans: ❸给……做榜样。
+    ancient: 菲薄衣食，躬<率>群下。（《后汉书•和熹邓皇后纪》）
+    url: xxxx
+    vernacular: 菲薄衣食，为群下表率。
+  - word: 率
+    type: 【形容词】
+    phonetic: shuai4
+    trans: 直率;坦率。
+    ancient: <率>心奉上，不顾嫌疑。（《魏书•张衮传》）
+    url: xxxx
+    vernacular: 依本性侍奉太祖，不顾忌嫌隙猜疑。
+  - word: 率
+    type: 【副词】
+    phonetic: shuai4
+    trans: ❶大概:一般。
+    ancient: 古诗<率>以四言为体。（《全晋文•文章流别论》）
+    url: xxxx
+    vernacular: 《诗经》中的《国风》、《小雅》、《大雅》等都是以四言诗为基本体裁。
+  - word: 率
+    type: 【副词】
+    phonetic: shuai4
+    trans: ❶大概:一般。
+    ancient: 至于梁、陈间，<率>不过嘲风雪、弄花草而已。（唐•白居易《与元九书》）
+    url: xxxx
+    vernacular: 到了梁、陈中间，大都不过是玩弄风雪、花草而已。
+  - word: 率
+    type: 【副词】
+    phonetic: shuai4
+    trans: ❶大概:一般。
+    ancient: 汉与匈奴和亲，<率>不过数岁即复倍约，不如勿许。（《汉书•韩安国传》）
+    url: xxxx
+    vernacular: 汉朝和匈奴修好，一般不过几年匈奴就又背弃盟约，不如不答应。
+  - word: 率
+    type: 【副词】
+    phonetic: shuai4
+    trans: ❷一概;一律。
+    ancient: 六国互丧，<率>赂秦耶？（《六国论》）
+    url: xxxx
+    vernacular: 六国一个接一个地灭亡，难道全部是因为贿赂秦国吗？
+  - word: 率
+    type: 【副词】
+    phonetic: shuai4
+    trans: ❷一概;一律。
+    ancient: 吴主饮群臣酒，不问能否，<率>以七升为限。（《资治通鉴•晋纪二》）
+    url: xxxx
+    vernacular: 吴主召集群臣饮酒，不管能不能喝，一律限定必须喝七升。
+  - word: 率
+    type: 【介词】
+    phonetic: shuai4
+    trans: 由于；因为。
+    ancient: 争城以战，杀人盈城，此所谓<率>土地而食人肉，罪不容于死。（《孟子•离娄上》）
+    url: xxxx
+    vernacular: 在争夺城池的战争中，被杀死的人遍布城中，这就仿佛是有人率领这土地来吃人，罪行已经大到就算将他处死刑罚也太轻的地步了。

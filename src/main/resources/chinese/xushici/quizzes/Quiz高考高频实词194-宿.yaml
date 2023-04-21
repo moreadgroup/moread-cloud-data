@@ -1,9 +1,114 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 宿
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: su4
+    trans: ❶住宿的地方。
+    ancient: 三十里有<宿>，<宿>有路室。（《周礼•地官•遗人》）
     url: xxxx
     vernacular: xxxx
+  - word: 宿
+    type: 【名词】
+    phonetic: su4
+    trans: ❷夜。
+    ancient: 适百里者，<宿>舂粮。（《逍遥游》）
+    url: xxxx
+    vernacular: 远行百里的人要连夜舂米，准备粮食。比喻事先做好准备工作。
+  - word: 宿
+    type: 【动词】
+    phonetic: su4
+    trans: ❶住宿;过夜。
+    ancient: 旦辞爷娘去，暮<宿>黄河边，不闻爷娘唤女声，但闻黄河流水鸣溅溅。（《木兰诗》）
+    url: xxxx
+    vernacular: 早上辞别父母上路，晚上宿营在黄河边，听不见父母呼唤女儿的声音，但能听到黄河汹涌奔流的声音。
+  - word: 宿
+    type: 【动词】
+    phonetic: su4
+    trans: ❶住宿;过夜。
+    ancient: 谢公<宿>处今尚在，渌（lu4，清澈）水荡漾清猿啼。（《梦游天姥吟留别》）
+    url: xxxx
+    vernacular: 诗人谢灵运游天姥山时住宿的地方如今还在，清澈的溪流水波荡漾，山中的猿猴叫声极为凄清。
+  - word: 宿
+    type: 【动词】
+    phonetic: su4
+    trans: ❶住宿;过夜。
+    ancient: 不得已，变姓名，诡踪迹，草行露<宿>，日与北骑相出没于长淮间。（《〈指南录〉后序》）
+    url: xxxx
+    vernacular: 不得已，我只能改变姓名，隐蔽踪迹，在草地上和郊野外奔走歇宿，日日为躲避元军的骑兵出没在淮河一带。
+  - word: 宿
+    type: 【动词】
+    phonetic: su4
+    trans: ❷停留。
+    ancient: 薄云岩际<宿>，孤月浪中翻。（唐•杜甫《宿江边阁》）
+    url: xxxx
+    vernacular: 淡淡的浮云在山岩之间栖宿，孤独的月影跟随着波浪轻翻。
+  - word: 宿
+    type: 【动词】
+    phonetic: su4
+    trans: ❸保持;长期从事。
+    ancient: 官<宿>其业，其物乃至。（《左传•昭公二十九年》）
+    url: xxxx
+    vernacular: 官员世代从事这方面的工作，生物才会来到。
+  - word: 宿
+    type: 【形容词】
+    phonetic: su4
+    trans: ❶旧有的；多年的。
+    ancient: 边竟有兵则怀<宿>怨而不战。（《管子•轻重》）
+    url: xxxx
+    vernacular: 一旦边境发生战事，则必怀宿怨而不肯为国出力。
+  - word: 宿
+    type: 【形容词】
+    phonetic: su4
+    trans: ❶旧有的；多年的。
+    ancient: 大率用根者，若有<宿>根，须取无茎叶时釆，则津泽皆归其根。（《梦溪笔谈•药议》）
+    url: xxxx
+    vernacular: 大抵用根入药的，如果有隔年生的根，应该在尚无茎叶的时候采集，这时汁液都在根上。
+  - word: 宿
+    type: 【形容词】
+    phonetic: su4
+    trans: ❶旧有的；多年的。
+    ancient: 朋友之墓，有<宿>草而不哭焉。（《礼记•檀弓上》）
+    url: xxxx
+    vernacular: 朋友的坟墓上有了隔年的草， 就不必再哀痛伤身了。
+  - word: 宿
+    type: 【形容词】
+    phonetic: su4
+    trans: ❷隔夜的；隔年的。
+    ancient: 叶上初阳干<宿>雨，水面清圆，一一风荷举。（宋•周邦彦《苏幕遮•燎沉香》）
+    url: xxxx
+    vernacular: 初升的太阳晒干了荷叶上昨夜的雨滴，水面上的荷花清润圆正，微风吹过，荷叶一团团地舞动起来。
+  - word: 宿
+    type: 【形容词】
+    phonetic: su4
+    trans: ❷隔夜的；隔年的。
+    ancient: <宿>醉头仍重，晨游眼乍明。（唐•白居易《洛桥寒食日作十韵》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 宿
+    type: 【形容词】
+    phonetic: su4
+    trans: ❷隔夜的；隔年的。
+    ancient: 【高考题例】旅舍残春<宿>雨睛，恍然心地忆屈京。（唐•韩偓《残春旅舍》）
+    url: xxxx
+    vernacular: 旅舍中春残夜雨刚刚晴，恍然间心里忆起长安城。
+  - word: 宿
+    type: 【形容词】
+    phonetic: su4
+    trans: ❸年老的;富着阅历的;经验丰富的。
+    ancient: 河间之<宿>儒。（清•纪旳《阅微草堂笔记•姑妄听之二》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 宿
+    type: 【形容词】
+    phonetic: su4
+    trans: ❸年老的;富着阅历的;经验丰富的。
+    ancient: 公子曰："晋鄙嚄唶（huòzè）<宿>将，往恐不听，必当杀之，是以泣耳，岂畏死哉？"（《史记•魏公子列传》）
+    url: xxxx
+    vernacular: 晋鄙是魏国勇猛强悍、富有经验的老将，我去他那里恐怕他不会听从命令，必定要杀死他，因此我难过地哭了，哪里是怕死呢？
+  - word: 宿
+    type: 【副词】
+    phonetic: su4
+    trans: 向来;平素。
+    ancient: （孙）权既<宿>服仰（刘）备，又睹（诸葛）亮奇雅，甚敬重之，即遣兵三万人以助备。（《三国志•蜀书.诸葛亮传》）
+    url: xxxx
+    vernacular: 孙权早就敬佩刘备，又看到诸葛亮非常雅致，十分敬重他，立即派兵三万人来帮助刘备。
