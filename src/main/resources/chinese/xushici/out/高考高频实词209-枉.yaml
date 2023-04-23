@@ -1,13 +1,73 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 枉
+    type: 【动词】
+    phonetic: wang3
     tags:
       - 高中
     samples:
       - trans: ❶xxxx
         sentences:
           - ancient: xxx
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❶降低身份，屈尊前去。
+        sentences:
+          - ancient: 臣有客在市屠中，愿<枉>车骑过之。（《史记•魏公子列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 越陌度阡，<枉>用相存。（《短歌行》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 先帝不以臣卑鄙，猥自<枉>屈，三顾臣于草庐之中。（《出师表》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 嬴乃夷门抱关者也，而公子亲<枉>车骑，自迎嬴于众人广坐之中。（《史记•魏公子列传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷歪曲；违背。
+        sentences:
+          - ancient: 不为爱人<枉>其法。（《管子•七法》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "<枉>道而事人,何必去（离开）父母之邦？（《论语•微子》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "身死家室富,又恐受赇<枉>法，为奸触大罪，身死而家灭。（《史记•滑稽列传》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】吏奉法，律不可<枉>也，更道它所欲。（《后汉书•赵惠传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸冤枉。
+        sentences:
+          - ancient: "恒人见<枉>,众多非一。（《论衡•问孔》）"
+            url: xxxx
+            vernacular: xxxx
+  - word: 枉
+    type: 【形容词】
+    phonetic: wang3
+    tags:
+      - 高中
+    samples:
+      - trans: ❶弯曲。
+        sentences:
+          - ancient: 盖矫<枉>者过直，古今同之。（《汉书•外戚传下》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷奸邪。
+        sentences:
+          - ancient: 举直错诸<枉>（把正直的人安排在邪恶的人之上。错同"措"，安排），则民服。（《论语•为政》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 枉
+    type: 【副词】
+    phonetic: wang3
+    tags:
+      - 高中
+    samples:
+      - trans: 白白地;徒然。
+        sentences:
+          - ancient: 一枝红艳露凝香，云雨巫山<枉>断肠。（唐•李白《清平调》）
             url: xxxx
             vernacular: xxxx

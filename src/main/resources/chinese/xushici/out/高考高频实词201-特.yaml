@@ -1,13 +1,83 @@
 ---
 words:
-  - word: xxxx
+  - word: 特
     type: 【名词】
-    phonetic: xx1
+    phonetic: te4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶公牛;泛指雄性牲畜。
         sentences:
-          - ancient: xxx
+          - ancient: 白牡谓白<特>，骍犅（xīnggāng）谓赤<特>也。（《诗经•鲁颂•闔宫》"白牡骍刚""孔颖达疏）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 凡马，<特>居四之一。（《周礼•夏官•校人》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷一只牲畜。
+        sentences:
+          - ancient: "归，格（告至）于艺祖（文祖，有文德才艺之祖），用<特>。（《尚书,・舜典》）,"
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸三岁（一说四岁）的兽。
+        sentences:
+          - ancient: 不狩不猎，胡眼（向上或向前看）尔庭有县（通"悬"）<特>兮。（《诗经•魏风•伐檀》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹配偶。
+        sentences:
+          - ancient: "髧（dan4,头发下垂的样子）彼两髦，实维我<特>。 （《诗经•,都风•柏舟》）"
+            url: xxxx
+            vernacular: xxxx
+  - word: 特
+    type: 【形容词】
+    phonetic: te4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶杰出的;非常优秀的。
+        sentences:
+          - ancient: 维此奄息，百夫之<特>。（《诗经•秦风•黄鸟》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 以为凡是州之山水有异态者，皆我有也，而未始知西山之怪<特>。（《始得西山宴游记》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷孤单;单独。
+        sentences:
+          - ancient: 处势卑贱，无粵（同伙）孤<特>。（《韩非子•孤愤》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 特
+    type: 【副词】
+    phonetic: te4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶仅;只。
+        sentences:
+          - ancient: "而世又不与能死节者比，<特>以为智穷罪极,不能自免，卒就死耳。（《报任安书》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 相如度（估计）秦王<特>以诈（欺诈的手段）详（假装）为予赵城，实木可得。（《廉颇蔺相提如列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 丰吾所生长，极不忘耳，吾<特>为其以雍齿故反我为魏。（《史记•高祖本纪》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷特地;特意。
+        sentences:
+          - ancient: 安帝雅闻（张）衡善术学，公车<特>征拜郎中，再迁为太史令。（《张衡传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 诏书<特>下，拜臣郎中。（《陈情表》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸徒然；白白。
+        sentences:
+          - ancient: 君不爱宋民，腹心不完，<特>为义耳。（《韩非子•外储说左上》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "会羽季父左尹项伯素善张良，夜驰见张良,具告其实，欲与俱去，毋<特>俱死。（《汉书•高帝纪》）"
             url: xxxx
             vernacular: xxxx

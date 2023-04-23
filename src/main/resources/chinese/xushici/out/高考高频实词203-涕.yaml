@@ -1,13 +1,47 @@
 ---
 words:
-  - word: xxxx
+  - word: 涕
     type: 【名词】
-    phonetic: xx1
+    phonetic: ti4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶眼泪。
         sentences:
-          - ancient: xxx
+          - ancient: 长太息以掩<涕>兮，哀民生之多艰。（《离骚》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 乘彼垝垣，以望复关。不见复关，泣<涕>涟涟。（《诗经•卫风•氓》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 出门登车去，<涕>落百余行。（《孔雀东南飞》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 蒋氏大戚（悲伤），汪然出<涕>曰……（《捕蛇者说》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】或为之<涕>流，感弘微之义也。（《宋书•谢弘微传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷鼻涕。
+        sentences:
+          - ancient: "目泪下落,鼻<涕>长一尺。（汉•王褒《僮约》）"
+            url: xxxx
+            vernacular: xxxx
+  - word: 涕
+    type: 【动词】
+    phonetic: ti4
+    tags:
+      - 高中
+    samples:
+      - trans: 流泪;哭。
+        sentences:
+          - ancient: 高渐离击筑，荆轲和而歌，为变徴之声，士皆垂泪<涕>泣。（《荆轲刺秦王》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 儿<涕>而去。（《促织》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】因悲<涕>伏地不能起。（《宋史•康保裔传》）
             url: xxxx
             vernacular: xxxx

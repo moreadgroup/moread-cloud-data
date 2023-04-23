@@ -1,9 +1,79 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 王
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: wang2
+    trans: ❶君主；帝王。
+    ancient: 三十日不还，则请立太子为<王>，以绝秦望（念头）。（《廉颇蔺相如列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 王
+    type: 【名词】
+    phonetic: wang2
+    trans: ❶君主；帝王。
+    ancient: 其始，太医以<王>命聚之，岁赋其二。（《捕蛇者说》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 王
+    type: 【名词】
+    phonetic: wang2
+    trans: ❶君主；帝王。
+    ancient: 夫《春秋》，上明三<王>之道，下辨人事之纪。（《史记•太史公自序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 王
+    type: 【名词】
+    phonetic: wang2
+    trans: "❷秦以后,国家的君主一律称帝，\"王\"成为一种最高的封爵。"
+    ancient: 且壮士不死即已，死即举大名耳，<王>侯将相宁有种乎！（《陈涉世家》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 王
+    type: 【动词】
+    phonetic: wang2
+    trans: 朝见天子。
+    ancient: "莫敢不来享,莫敢不来<王>。（《诗经•商颂•殷武》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 王
+    type: 【形容词】
+    phonetic: wang2
+    trans: 某一类事物中大的;最大的。
+    ancient: "春献<王>鲔（wei3,古称鲟鱼）。（《周礼•天官•敝人》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 王
+    type: 【形容词】
+    phonetic: wang2
+    trans: 某一类事物中大的;最大的。
+    ancient: 蟒，<王>蛇（蛇最大者，故曰王蛇）。（《尔雅•释鱼》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 王
+    type: 【动词】
+    phonetic: wang4
+    trans: ❶成就王业;统治天下。
+    ancient: "七十者衣帛食肉,黎民不饥不寒，然而不<王>者，未之有也。（《寡人之于国也》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 王
+    type: 【动词】
+    phonetic: wang4
+    trans: ❶成就王业;统治天下。
+    ancient: 沛公（指刘邦）欲<王>关中，使子婴为相，珍宝尽有之。（《鸿门宴》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 王
+    type: 【动词】
+    phonetic: wang4
+    trans: ❷封为王。
+    ancient: 宜悉<王>诸功臣。（《后汉书•刘玄传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 王
+    type: 【形容词】
+    phonetic: wang4
+    trans: 通"旺"。旺盛。
+    ancient: 神虽<王>，不膏（喜欢）也。（《庄子•养生主》）
     url: xxxx
     vernacular: xxxx
