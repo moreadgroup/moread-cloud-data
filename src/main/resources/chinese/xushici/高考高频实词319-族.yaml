@@ -1,28 +1,40 @@
 ---
 words:
-  - word: xxxx
+  - word: 族
     type: 【名词】
-    phonetic: xx1
+    phonetic: ZU2
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶家族;有血缘关系的亲属。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
-族ZU2
-【名词】❶家族;有血缘关系的亲属。
-【例句】山东豪俊遂并起而亡秦族矣。（《过秦论》）
-❷类。
-【例句】士大夫之族，曰师曰弟子云者，则群聚而笑之。（《师说》）
-❸交错聚结之处。
-【例句】每至于族，吾见其难为，怵然（怵chu4,警惕的样子）为戒。（《庄子•养生主》）
+          - ancient: 山东豪俊遂并起而亡秦族矣。（《过秦论》）
+      - trans: ❷类。
+        sentences:
+          - ancient: 士大夫之族，曰师曰弟子云者，则群聚而笑之。（《师说》）
+      - trans: ❸交错聚结之处。
+        sentences:
+          - ancient: 每至于族，吾见其难为，怵然（怵chu4,警惕的样子）为戒。（《庄子•养生主》）
 
-【动词】❶灭族。古代一种刑罚，一人有罪，要诛灭三族或九族。
-【例句】族秦者秦也，非天下也。（《阿房宫赋》）
-❷聚结。
-【例句】云气不待族而雨。（《庄子•在宥》）
+  - word: 族
+    type: 【动词】
+    phonetic: ZU2
+    tags:
+      - 高中
+    samples:
+      - trans: ❶灭族。古代一种刑罚，一人有罪，要诛灭三族或九族。
+        sentences:
+          - ancient: 族秦者秦也，非天下也。（《阿房宫赋》）
+      - trans: ❷聚结。
+        sentences:
+          - ancient: 云气不待族而雨。（《庄子•在宥》）
 
-【形容词】众;一般的。
-【例句】族庖月更刀，折也。（《庄子•养生主》）
+  - word: 族
+    type: 【形容词】
+    phonetic: ZU2
+    tags:
+      - 高中
+    samples:
+      - trans: 众;一般的。
+        sentences:
+          - ancient: 族庖月更刀，折也。（《庄子•养生主》）

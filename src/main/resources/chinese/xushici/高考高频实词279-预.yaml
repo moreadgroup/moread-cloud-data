@@ -1,26 +1,36 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 预
+    type: 【动词】
+    phonetic: yu4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶预备。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
-预yu4
-【动词】❶预备。
-【例句】右臣闻事预则立，不预则废。（宋•苏轼《奏浙西灾伤第一状》）
-❷参与。
-【例句】偶兹精庐近,数预名僧会。（唐•岑参《终南山双峰草堂》）
+          - ancient: 右臣闻事预则立，不预则废。（宋•苏轼《奏浙西灾伤第一状》）
+      - trans: ❷参与。
+        sentences:
+          - ancient: 偶兹精庐近,数预名僧会。（唐•岑参《终南山双峰草堂》）
 
-【形容词】安乐。
-【高考题例】仙亭日登眺,虎丘时游预。（唐•白居易《和微之诗二十三首・和三月三十日四十韵》）
+  - word: 预
+    type: 【形容词】
+    phonetic: yu4
+    tags:
+      - 高中
+    samples:
+      - trans: 安乐。
+        sentences:
+          - ancient: 【高考题例】仙亭日登眺,虎丘时游预。（唐•白居易《和微之诗二十三首・和三月三十日四十韵》）
 
 
 
-【副词】预先。
-【例句】副帅潘美预以为贺。（《宋史•曹彬列传》）
+  - word: 预
+    type: 【副词】
+    phonetic: yu4
+    tags:
+      - 高中
+    samples:
+      - trans: 预先。
+        sentences:
+          - ancient: 副帅潘美预以为贺。（《宋史•曹彬列传》）

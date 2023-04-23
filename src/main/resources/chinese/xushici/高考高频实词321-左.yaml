@@ -1,30 +1,44 @@
 ---
 words:
-  - word: xxxx
+  - word: 左
     type: 【名词】
-    phonetic: xx1
+    phonetic: ZUO3
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶左边（与"右"相对）。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
-左ZUO3
-【名词】❶左边（与"右"相对）。
-【例句】备左则右寡,备右则左寡。（《孙子兵法•虚实》）丨遂拔以击荆轲，断其左股。（《荆轲刺秦王》）
-❷古代地理位置以东为左。
-【例句】淮左名都，竹西佳处，解鞍少驻初程。（《扬州慢》）
-❸卑下的地位;较低的职位。
-【例句】贵戚诸势在己之右，欲必陵之;士在己左，愈贫贱,尤益礼敬,与钧。（《汉书•灌夫传》）
+          - ancient: 备左则右寡,备右则左寡。（《孙子兵法•虚实》）
+          - ancient: 遂拔以击荆轲，断其左股。（《荆轲刺秦王》）
+      - trans: ❷古代地理位置以东为左。
+        sentences:
+          - ancient: 淮左名都，竹西佳处，解鞍少驻初程。（《扬州慢》）
+      - trans: ❸卑下的地位;较低的职位。
+        sentences:
+          - ancient: 贵戚诸势在己之右，欲必陵之;士在己左，愈贫贱,尤益礼敬,与钧。（《汉书•灌夫传》）
 
-【动词】❶不合;违背。
-【例句】身勤而事左。（唐•韩愈《答窦秀才书》）
-❷反对;疏远。
-【例句】衍将右韩而左魏。（《战国策•魏策二》）
-❸证实。
-【例句】举十二条左证其谬。（《新唐书•刘知几传》）
+  - word: 左
+    type: 【动词】
+    phonetic: ZUO3
+    tags:
+      - 高中
+    samples:
+      - trans: ❶不合;违背。
+        sentences:
+          - ancient: 身勤而事左。（唐•韩愈《答窦秀才书》）
+      - trans: ❷反对;疏远。
+        sentences:
+          - ancient: 衍将右韩而左魏。（《战国策•魏策二》）
+      - trans: ❸证实。
+        sentences:
+          - ancient: 举十二条左证其谬。（《新唐书•刘知几传》）
 
-【形容词】不正;邪僻。
-【例句】执左道以乱政。（《礼记•王制》）
+  - word: 左
+    type: 【形容词】
+    phonetic: ZUO3
+    tags:
+      - 高中
+    samples:
+      - trans: 不正;邪僻。
+        sentences:
+          - ancient: 执左道以乱政。（《礼记•王制》）

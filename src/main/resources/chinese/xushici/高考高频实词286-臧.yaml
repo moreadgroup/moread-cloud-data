@@ -1,27 +1,37 @@
 ---
 words:
-  - word: xxxx
+  - word: 臧
     type: 【名词】
-    phonetic: xx1
+    phonetic: zang1
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶男性奴隶。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
-臧zang1
-【名词】❶男性奴隶。
-【例句】且夫臧获婢妾，犹能引决（自杀），况仆之不得已乎?（《报任安书》）	
-❷通"赃"。通过贿赂、盗窃等不正当手段获得的财物。
-【例句】受纳臧赂。（《后汉书•陈禅传》）
+          - ancient: 且夫臧获婢妾，犹能引决（自杀），况仆之不得已乎?（《报任安书》）
+      - trans: ❷通"赃"。通过贿赂、盗窃等不正当手段获得的财物。
+        sentences:
+          - ancient: 受纳臧赂。（《后汉书•陈禅传》）
 
-【动词】褒扬好的，评价优的。
-【例句】宫中府中，俱为一体，陟罚臧否，不宜异同。（《出师表》）
-【高考题例】弘微口不言人短长，而曜好臧否人物，曜每言论，弘微常以它语乱之。（《宋书•谢弘微传》）
+  - word: 臧
+    type: 【动词】
+    phonetic: zang1
+    tags:
+      - 高中
+    samples:
+      - trans: 褒扬好的，评价优的。
+        sentences:
+          - ancient: 宫中府中，俱为一体，陟罚臧否，不宜异同。（《出师表》）
+          - ancient: 【高考题例】弘微口不言人短长，而曜好臧否人物，曜每言论，弘微常以它语乱之。（《宋书•谢弘微传》）
 
-【形容词】善;好。
-【例句】我酒既旨，我肴既臧。（《诗经•都风•载驰》）
+  - word: 臧
+    type: 【形容词】
+    phonetic: zang1
+    tags:
+      - 高中
+    samples:
+      - trans: 善;好。
+        sentences:
+          - ancient: 我酒既旨，我肴既臧。（《诗经•都风•载驰》）
 
 

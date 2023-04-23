@@ -1,19 +1,22 @@
 ---
 words:
-  - word: xxxx
+  - word: 祝
     type: 【名词】
-    phonetic: xx1
+    phonetic: zhu4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: 宗庙中主持祭礼的人。
         sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
-祝zhu4
-【名词】宗庙中主持祭礼的人。
-【例句】仆之先人非有剖符丹书之功，文史星历，近乎卜祝之间。（《报任安书》）
-【动词】祈祷。
-【例句】祭祀必祝之，祝曰："必勿使反。"（《触龙说赵太后》）丨巫从旁望空代祝，唇吻翕辟（一开一合），不知何词。（《促织》）	
+          - ancient: 仆之先人非有剖符丹书之功，文史星历，近乎卜祝之间。（《报任安书》）
+  - word: 祝
+    type: 【动词】
+    phonetic: zhu4
+    tags:
+      - 高中
+    samples:
+      - trans: 祈祷。
+        sentences:
+          - ancient: 祭祀必祝之，祝曰："必勿使反。"（《触龙说赵太后》）
+          - ancient: 巫从旁望空代祝，唇吻翕辟（一开一合），不知何词。（《促织》）	
 
