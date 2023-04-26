@@ -8,9 +8,9 @@ words:
     samples:
       - trans: 逃跑的人。
         sentences:
-          - ancient: 追<亡>逐北（失败逃跑的士兵），伏尸百万。（《过秦论》）
+          - ancient: 追<亡>逐北（失败逃跑的士兵），伏尸百万，流血漂橹。（《过秦论》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 追击逃走的败兵，（杀得）败军横尸百万，流淌的血水竟能使盾牌浮起来。
   - word: 亡
     type: 【动词】
     phonetic: wang2
@@ -21,56 +21,56 @@ words:
         sentences:
           - ancient: 今<亡>亦死，举大计亦死，等死（同样是死），死国可乎？（《陈涉世家》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "臣为韩王送浦公,沛公今事有急，<亡>去不义，不可不语。（《鸿门宴》）"
+            vernacular: 现在逃跑也是死,起义也是死;同样是死,为国事而死可以吗
+          - ancient: "臣为韩王送沛公,沛公今事有急，<亡>去不义，不可不语。（《鸿门宴》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我替韩王护送沛公（入关），现在沛公遇到危急的事，逃走是不守信义的，不能不告诉他。
           - ancient: 宁溘死以流<亡>兮，余不忍为此态也！（《离骚》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 宁可马上死去魂魄离散，媚俗取巧啊我坚决不干。
       - trans: ❷丧失；丢失。
         sentences:
           - ancient: 诸侯之所<亡>，与战败而<亡>者，其实（实际）亦百倍。（《六国论》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: 然尝闻之，大道以多歧<亡>羊：（《中山狼传》）
+            vernacular: 六国诸侯（贿赂秦国）所丧失的土地与战败所丧失的土地相比，实际也要多百倍。
+          - ancient: 然尝闻之，大道以多歧<亡>羊（《中山狼传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 然而我曾经听说：‘大道因为岔道多而丢失羊。’
           - ancient: "秦无<亡>矢遗镰之费,而天下诸侯已困矣。（《过秦论》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 秦人没有一兵一卒的耗费，然而天下的诸侯就已窘迫不堪了。
           - ancient: 【高考题例】尝有使客<亡>橐中物，移书诘盗。（《宋史・曾公亮传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 曾经有过客丢失橐中财物，发布文书诘查盗贼
       - trans: ❸死亡。
         sentences:
           - ancient: 今刘表新<亡>，二子不协，军中诸将，各有彼此（结成的团伙）。（《资治通鉴•汉纪五十七》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: 忧劳可以弟国，逸豫可以<亡>身，自然之理也。（《伶官传序》）
+            vernacular: 现在刘表刚死，他的两个儿子不和，军队里的各位将领，有的拥护这个，有的拥护那个。
+          - ancient: 忧劳可以兴国，逸豫可以<亡>身，自然之理也。（《伶官传序》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 忧虑辛劳可以使国家兴盛，安闲享乐可以使自身灭亡，这是自然的道理。
       - trans: ❹灭亡。
         sentences:
           - ancient: "先帝创业未半而中道崩殂（帝王死去），今天下三分，益州疲弊，此诚危急存<亡>之秋,也。（《出师表》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 先帝开创大业未完成一半却中途去世了。现在天下分为三国，我们蜀汉人力疲惫，民生凋敝，这实在是国家危急存亡的时刻啊。
           - ancient: 且燕赵处秦革灭殆尽之际，可谓智力孤危，战败而<亡>，诚不得已。（《六国论》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 而且燕赵两国正处在秦国把其他国家快要消灭干净的时候，可以说它们的智谋和力量都很单薄，战败了而亡国，确实是不得已的事。
           - ancient: "今臣<亡>国贱俘，至微至陋，过蒙拔擢,宠命优渥，岂敢盘桓，有所希冀。（《陈情表》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 现在我是一个低贱的亡国俘虏，十分卑微浅陋，受到过分提拔，恩宠优厚，怎敢犹豫不决而有非分的企求呢？
       - trans: ❺出外;不在。
         sentences:
           - ancient: 孔子时（窥伺）其<亡>也，而往拜之。（《论语•阳货》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 孔子打听到他不在家时,前往他那里去回拜表谢。
       - trans: ❻通"忘;"。忘记。
         sentences:
           - ancient: 人不能自止于足，而<亡>其富之涯（边）乎。（《韩非子♦说林下》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 人们不知道在足够富裕的时候就加收敛，那就失去了富裕的边际了吧!
   - word: 亡
     type: 【动词】
     phonetic: wu2
@@ -81,25 +81,25 @@ words:
         sentences:
           - ancient: 终不得归汉，空自苦<亡>人之地，信义安所见乎?（《苏武传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 你终究不能回归本朝了，白白地在荒无人烟的地方受苦，你对汉廷的信义又怎能有所表现呢？
           - ancient: "且陛下春秋高,法令<亡>常，大臣<亡>罪夷灭者数十家，安危不可知，子卿尚复谁为乎？（《苏武传》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 并且皇上年纪大了，法令随时变更，大臣无罪而全家被杀的有几十家，安危不可预料。你还打算为谁守节呢？
           - ancient: 武父子<亡>功德，皆为陛下所成就。（《苏武传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我苏武父子无功劳和恩德，都是皇帝栽培提拔起来的
           - ancient: "子为父死，<亡>所恨,愿勿复再言！（《苏武传》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 儿子为父亲而死，没有什么可遗憾的，希望你不要再说了！
           - ancient: 河曲智叟<亡>以应。（《愚公移山》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 河曲智叟无话可答。
           - ancient: 生之有时而用之<亡>度，则物力必屈。（《论积贮疏》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 生产东西有时节的限制，而消费它却没有限度，那么社会财富一定会缺乏。
           - ancient: 【高考题例】给事中许輸以为傅论议虽偶与轼合，意亦<亡>他，以职论事而责之过矣，翰亦罢去。（《宋史•孙傅传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 给事中许翰认为孙傅议论虽然偶然与苏轼相同，但没有他意，以职论事而受到指责实在过分了，许翰也被罢贬。
   - word: 亡
     type: 【副词】
     phonetic: wu2
@@ -110,7 +110,7 @@ words:
         sentences:
           - ancient: 子祀曰："女恶（wu4）之乎?"曰："<亡>，予何恶!"（《庄子•大宗师》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 子祀说：“难道你讨厌了吗?”〔子舆〕说： “没有，我有什么讨厌!
   - word: 亡
     type: 【连词】
     phonetic: wu2
@@ -121,4 +121,4 @@ words:
         sentences:
           - ancient: 于是上遣使者分条中都官诏狱系者，<亡>轻重一切皆杀之。（《汉书•丙吉传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 于是漠武帝就派使者把中都官韶狱的犯人一一抄录清楚，不分罪过轻重一律杀掉。

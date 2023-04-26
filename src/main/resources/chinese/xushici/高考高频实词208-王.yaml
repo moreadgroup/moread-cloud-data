@@ -10,18 +10,18 @@ words:
         sentences:
           - ancient: 三十日不还，则请立太子为<王>，以绝秦望（念头）。（《廉颇蔺相如列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 如果三十天还没回来，就请您允许我们立太子为王，以断绝秦国要挟的妄想。
           - ancient: 其始，太医以<王>命聚之，岁赋其二。（《捕蛇者说》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 起初，太医用皇帝的命令征集这种蛇，每年征收这种蛇两次
           - ancient: 夫《春秋》，上明三<王>之道，下辨人事之纪。（《史记•太史公自序》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 《春秋》这部书，对上则阐明了夏禹、商汤、周文王的治世之道，对下则辨明了为人处世的伦理纲常
       - trans: "❷秦以后,国家的君主一律称帝，\"王\"成为一种最高的封爵。"
         sentences:
           - ancient: 且壮士不死即已，死即举大名耳，<王>侯将相宁有种乎！（《陈涉世家》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 况且壮士不死便罢了，要死就该成就伟大的名声啊，王侯将相难道有天生的贵种么？
   - word: 王
     type: 【动词】
     phonetic: wang2
@@ -30,9 +30,9 @@ words:
     samples:
       - trans: 朝见天子。
         sentences:
-          - ancient: "莫敢不来享,莫敢不来<王>。（《诗经•商颂•殷武》）"
+          - ancient: "昔有成汤，自彼氐羌，莫敢不来享,莫敢不来<王>。（《诗经•商颂•殷武》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 从前成汤建立殷商，那些远方民族氐羌，没人胆敢不来献享，没人胆敢不来朝王。
   - word: 王
     type: 【形容词】
     phonetic: wang2
@@ -57,10 +57,10 @@ words:
         sentences:
           - ancient: "七十者衣帛食肉,黎民不饥不寒，然而不<王>者，未之有也。（《寡人之于国也》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 年满七十岁的人能穿上丝绸、吃上鱼肉，老百姓不缺衣少食，做到了这些而不称王于天下的是决不会有的。
           - ancient: 沛公（指刘邦）欲<王>关中，使子婴为相，珍宝尽有之。（《鸿门宴》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 沛公（刘邦）想要率先攻城在关中称王,并且拜子婴为宰相,关内的财宝都归属于他.
       - trans: ❷封为王。
         sentences:
           - ancient: 宜悉<王>诸功臣。（《后汉书•刘玄传》）
@@ -74,6 +74,6 @@ words:
     samples:
       - trans: 通"旺"。旺盛。
         sentences:
-          - ancient: 神虽<王>，不膏（喜欢）也。（《庄子•养生主》）
+          - ancient: 神虽<王>，不善（喜欢）也。（《庄子•养生主》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 精力虽然旺盛，可并不舒服啊。
