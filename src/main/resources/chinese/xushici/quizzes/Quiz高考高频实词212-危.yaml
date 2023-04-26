@@ -1,9 +1,79 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 危
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: wei1
+    trans: ❶高处。
+    ancient: 拱木不生<危>，松柏不生埤（指地势低下的地方）。（《国语•晋语八》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 危
+    type: 【名词】
+    phonetic: wei1
+    trans: ❷屋脊。
+    ancient: 有玄（黑色）鹤二八，自南方来，集于廊门之<危>。（《论衡.感虚》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 危
+    type: 【动词】
+    phonetic: wei1
+    trans: ❶危害。
+    ancient: "抑（难道）王兴甲兵,<危>士臣，构怨于诸侯，然后快于心与？（《齐桓晋文之事》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 危
+    type: 【动词】
+    phonetic: wei1
+    trans: ❷畏惧;忧惧。
+    ancient: 臣闭其外也已远矣，而守其内也已固矣，虽国小，犹不<危>之也。（《韩非子•外储说左上》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 危
+    type: 【形容词】
+    phonetic: wei1
+    trans: ❶高。
+    ancient: 噫吁嚱，<危>乎高哉！蜀道之难，难于上青天！（《蜀道难》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 危
+    type: 【形容词】
+    phonetic: wei1
+    trans: ❷危险;危急（与"安"相对）。
+    ancient: 但以刘日薄西山，气息奄奄，人命<危>浅，朝不虑夕。（《陈情表》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 危
+    type: 【形容词】
+    phonetic: wei1
+    trans: ❷危险;危急（与"安"相对）。
+    ancient: 国<危>矣，若使烛之武见秦君，师必退。（《烛之武退秦师》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 危
+    type: 【形容词】
+    phonetic: wei1
+    trans: ❷危险;危急（与"安"相对）。
+    ancient: 先帝创业未半而中道崩殂，今天下三分，益州疲弊，此诚<危>急存亡之秋也。（《出师表》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 危
+    type: 【形容词】
+    phonetic: wei1
+    trans: ❸端正。
+    ancient: 猎（揽）缨正襟<危>坐。（《史记・日者列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 危
+    type: 【形容词】
+    phonetic: wei1
+    trans: ❸端正。
+    ancient: 苏子愀然，正襟<危>坐而问客曰……（《赤壁赋》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 危
+    type: 【副词】
+    phonetic: wei1
+    trans: 几乎:将要。
+    ancient: ，今儿安在，<危>杀之矣。（《汉书•外戚传下》）
     url: xxxx
     vernacular: xxxx

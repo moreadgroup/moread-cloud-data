@@ -1,9 +1,121 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 委
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: wei3
+    trans: ❶水的下游;水流汇聚之处。
+    ancient: "三王之祭川也，皆先河而后海,或源也，或<委>也。此之谓务本。（《礼记•学记》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 委
+    type: 【名词】
+    phonetic: wei3
+    trans: ❷末尾。
+    ancient: 惟其上探伏羲唐虞以来，有源有<委>，不以远绝，不以难止。（宋•陆游《吕居仁集序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 委
+    type: 【动词】
+    phonetic: wei3
+    trans: ❶听任。
+    ancient: 寓形宇内复几时？曷不<委>心任去留？（《归去来兮辞》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 委
+    type: 【动词】
+    phonetic: wei3
+    trans: ❷托付;交付。
+    ancient: "王年少，初即位,<委>国事大臣。（《史记•秦始皇本纪》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 委
+    type: 【动词】
+    phonetic: wei3
+    trans: ❷托付;交付。
+    ancient: 问其人，本长安倡女，尝学琵琶于穆、曹二善才，年长色衰，<委>身为贾人（商人）妇。（《琵琶行》序）
+    url: xxxx
+    vernacular: xxxx
+  - word: 委
+    type: 【动词】
+    phonetic: wei3
+    trans: ❷托付;交付。
+    ancient: "向也使予<委>骨于草莽，予蛍浩然无所愧作，然微以自文于君亲,君亲其谓予何？（《〈指南录〉后序》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 委
+    type: 【动词】
+    phonetic: wei3
+    trans: ❷托付;交付。
+    ancient: "百越之君，俯首系颈,<委>命下吏。（《过秦论》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 委
+    type: 【动词】
+    phonetic: wei3
+    trans: ❸丢弃;抛弃。
+    ancient: "动刀甚微，謋（huo4,迅速分离的声音）然已解，如土<委>地。（《庄子•养生主》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 委
+    type: 【动词】
+    phonetic: wei3
+    trans: ❸丢弃;抛弃。
+    ancient: 花钿（形状如花朵的首饰）<委>地无人收，翠翘金雀玉搔头。（唐•白居易《长恨歌》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 委
+    type: 【动词】
+    phonetic: wei3
+    trans: ❹推卸;推脱。
+    ancient: 司马欲<委>罪于孤邪！（《晋书•王裒传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 委
+    type: 【动词】
+    phonetic: wei3
+    trans: ❺累积;聚积。
+    ancient: 瑞穰穰（丰盛）兮<委>如山。（汉•扬雄《甘泉赋》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 委
+    type: 【动词】
+    phonetic: wei3
+    trans: ❻坠；下垂。
+    ancient: 发<委>藉地。（《世说新语.贤媛》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 委
+    type: 【动词】
+    phonetic: wei3
+    trans: ❼放置。
+    ancient: 唯脚<委>几上。（《世说新语•雅量》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 委
+    type: 【动词】
+    phonetic: wei3
+    trans: ❼放置。
+    ancient: 乃令张仪详（通""佯"，假装）去秦，厚币<委>质事楚。（《史记•屈原贾生列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 委
+    type: 【动词】
+    phonetic: wei3
+    trans: ❼放置。
+    ancient: 是谓"<委>肉当饿虎之蹊"也，祸必不振矣！（《史记•刺客列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 委
+    type: 【形容词】
+    phonetic: wei3
+    trans: 曲折。
+    ancient: 以<委>巷活套（俗语常谈）中来者，无不与宁南（指宁南侯左良玉）意吾；（《柳敬亭传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 委
+    type: 【副词】
+    phonetic: wei3
+    trans: 确实。
+    ancient: <委>是良田，方得收买。（宋•苏轼《论给田募役状》）
     url: xxxx
     vernacular: xxxx

@@ -1,9 +1,149 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 微
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: wei1
+    trans: 细小的事物。
+    ancient: 夫祸患常积于忽<微>，而智勇多困于所溺（所沉迷的人或事物），岂独伶人也哉？（《伶官传序＞）""
+    url: xxxx
+    vernacular: xxxx
+  - word: 微
+    type: 【动词】
+    phonetic: wei1
+    trans: 隐蔽;隐藏。
+    ancient: 白公奔山而缢（吊死），其徒<微>之。（《左传•哀公十六年》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 微
+    type: 【动词】
+    phonetic: wei1
+    trans: 隐蔽;隐藏。
+    ancient: "衡常思图身,之事，以为吉凶倚伏，幽<微>难明，乃作《思玄赋》以宣寄情志。（《张衡传》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 微
+    type: 【形容词】
+    phonetic: wei1
+    trans: ❶小；细；少。
+    ancient: "曹操比于袁绍，则名<微>而众寡，曹操遂能克（战胜）绍，以弱为强者，非惟天时,抑亦人谋也。（《隆中\"对》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 微
+    type: 【形容词】
+    phonetic: wei1
+    trans: ❶小；细；少。
+    ancient: 君能除之，固当窥（通"跬"，即半步）左足以效<微>力。（《中山狼传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 微
+    type: 【形容词】
+    phonetic: wei1
+    trans: ❷（身份、地位）卑贱;低下。
+    ancient: 今臣亡国贱俘，至<微>至陋（鄙陋），过蒙拔擢（提拔），宠命优渥（恩宠优厚）o（《陈情表》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 微
+    type: 【形容词】
+    phonetic: wei1
+    trans: ❷（身份、地位）卑贱;低下。
+    ancient: "勃（王勃自称）三尺<微>命,一介书生。（《滕王阁序》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 微
+    type: 【形容词】
+    phonetic: wei1
+    trans: ❸精妙;微妙。
+    ancient: "其文约，其辞<微>,其志洁，其行廉。（《史记•屈原贾生列传》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 微
+    type: 【形容词】
+    phonetic: wei1
+    trans: ❹衰败;衰弱。
+    ancient: 周室卑<微>，诸侯相兼。（《史记•李斯列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 微
+    type: 【副词】
+    phonetic: wei1
+    trans: ❶暗地;悄悄地。
+    ancient: 公子引车入市，侯生下见其客朱亥，俾倪，故久立与其客语，<微>察公子。（《史记•魏公子列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 微
+    type: 【副词】
+    phonetic: wei1
+    trans: ❶暗地;悄悄地。
+    ancient: "李牧不受命,赵使人<微>捕得李牧,斩之。（《史记•廉颇蔺相如列传》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 微
+    type: 【副词】
+    phonetic: wei1
+    trans: ❷略微;稍微。
+    ancient: 见其发矢十中八九，但<微>颔之。（《卖油翁》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 微
+    type: 【副词】
+    phonetic: wei1
+    trans: ❷略微;稍微。
+    ancient: 东坡现右足，鲁直现左足，各<微>侧，其两膝相比（紧靠）者，各隐卷底衣褶中。（《核舟记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 微
+    type: 【副词】
+    phonetic: wei1
+    trans: ❸不;非。
+    ancient: <微>与之期，践墨随敌，以决战事。（《孙子兵法•九地》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 微
+    type: 【副词】
+    phonetic: wei1
+    trans: ❸不;非。
+    ancient: <微>独赵，诸侯有在者乎？（《触龙说赵太后》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 微
+    type: 【副词】
+    phonetic: wei1
+    trans: ❸不;非。
+    ancient: 虽读《礼》《传》，<微>爱属文（写文章）。（《颜氏家训•序致》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 微
+    type: 【副词】
+    phonetic: wei1
+    trans: ❸不;非。
+    ancient: 向（先前）也使予委骨于草莽，予虽浩然无所愧作，然<微>以百文于君亲，君亲其谓予何？（《〈指南录〉后序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 微
+    type: 【副词】
+    phonetic: wei1
+    trans: ❸不;非。
+    ancient: "<微>太子言,臣愿得谒之。（《荆轲刺秦王》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 微
+    type: 【连词】
+    phonetic: wei1
+    trans: 假使不是;假使没有。
+    ancient: 不可。<微>夫人之力不及此。（《烛之武退秦师》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 微
+    type: 【连词】
+    phonetic: wei1
+    trans: 假使不是;假使没有。
+    ancient: <微>二子者，楚不国矣。（《左传•哀公十六年》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 微
+    type: 【连词】
+    phonetic: wei1
+    trans: 假使不是;假使没有。
+    ancient: <微>夫子之发吾覆也，吾不知天地之大全也。（《庄子.田子方》）
     url: xxxx
     vernacular: xxxx
