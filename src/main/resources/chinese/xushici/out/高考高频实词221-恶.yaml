@@ -1,13 +1,55 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 恶
+    type: 【动词】
+    phonetic: wu4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: 讨厌;憎恨;嫉妒。
         sentences:
-          - ancient: xxx
+          - ancient: 夫人情莫不贪生<恶>死。（《报任安书》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 帝引在帷幄，讽议左右。尝问天下所疾<恶>者。（《张衡传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 刘备天下枭雄，与操有隙，寄寓于（刘）表，表<恶>其能而不能用也。（《资治通鉴•汉纪五十七》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "【高考题例】元载以罪诛，除揆睦州刺史,入拜国子祭酒、礼部尚书,为卢杞所<恶>。（《旧唐书•李揆传》）"
+            url: xxxx
+            vernacular: xxxx
+  - word: 恶
+    type: 【代词】
+    phonetic: wu4
+    tags:
+      - 高中
+    samples:
+      - trans: 怎么。
+        sentences:
+          - ancient: 卒（通""猝"）然问曰："天下<恶>乎定？"（《孟子见梁襄王》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 恶
+    type: 【叹词】
+    phonetic: wu4
+    tags:
+      - 高中
+    samples:
+      - trans: 表示惊讶。相当于"啊"""唉"。
+        sentences:
+          - ancient: <恶>，是何言也！（《孟子•公孙丑上》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 恶
+    type: 【代词】
+    phonetic: wu1
+    tags:
+      - 高中
+    samples:
+      - trans: 什么；怎么。
+        sentences:
+          - ancient: "若夫乘天地之正,而御六气之辩，以游无穷者，彼且<恶>乎待哉？（《逍遥游》）"
             url: xxxx
             vernacular: xxxx

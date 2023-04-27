@@ -1,13 +1,109 @@
 ---
 words:
-  - word: xxxx
+  - word: 息
     type: 【名词】
-    phonetic: xx1
+    phonetic: xi1
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶呼吸时进出的气。
         sentences:
-          - ancient: xxx
+          - ancient: "近抚之，气<息>惙然（chuo4,气息微弱的样子）。（《促织》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 扪参历井仰胁<息>，以手抚膺坐长叹。（《蜀道难》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 但以刘日薄西山，气<息>奄奄，人命危浅，朝不虑夕。（《陈情表》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "野马也，尘埃也,生物之以<息>相吹也。（《逍遥游》）"
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷子息。
+        sentences:
+          - ancient: 既无叔伯，终鲜兄弟，门衰祚薄，晚有儿<息>。（《陈情表》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 老臣贱<息>舒祺，最少，不肖，而臣衰，窃爱怜之。（《触龙说赵太后》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸利息。
+        sentences:
+          - ancient: 当具有者半贾而卖，亡（通"无"）者取倍称之<息>。（汉•晁错《论贵粟疏》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 此我产业之花<息>也。（明•黄宗羲《原君》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 息
+    type: 【动词】
+    phonetic: xi1
+    tags:
+      - 高中
+    samples:
+      - trans: ❶呼吸;喘气。
+        sentences:
+          - ancient: 初，先生救我时，束缚我足，闭我囊中，压以诗书，我鞠躬，不敢<息>。（《中山狼传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 武气绝，半日复<息>。（《苏武传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷叹息。
+        sentences:
+          - ancient: 北山愚公长<息>曰……（《愚公移山》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "长太<息>以掩涕兮,哀民生之多艰。（《离骚》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 我闻琵琶已叹<息>，又闻此语重唧唧。（《琵琶行》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸休息。
+        sentences:
+          - ancient: 四时之间亡（通"无"）日休<息>。（汉•晁错《论贵粟疏》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 鸡鸣入机织;夜夜不得<息>。（《孔雀东南飞》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 乍暖还寒时候，最难将<息>。（《声声慢》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹停止;使停止。
+        sentences:
+          - ancient: 天行健，君子以自强不<息>。（《周易•乾卦》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 归去来兮，请<息>交以绝游。（《归去来兮辞》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 其势非天下之贤圣固不能<息>天下之祸。（《史记•淮阴侯列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 步余马于兰皋兮，驰椒丘且焉止<息>。（《离骚》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】使谕以指意，边害讫<息>。（《宋史•曾公亮传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❺同"熄"。熄灭。
+        sentences:
+          - ancient: 俄而（不久）家果失火，邻里共救之，幸而得<息>。（《汉书•"霍光传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❻滋生;增长（与"消"相对）。
+        sentences:
+          - ancient: 消<息>盈虚，终则有始。（《秋水〉）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❼特指人或动物的繁殖。
+        sentences:
+          - ancient: 流民既归，户口亦<息>。（《汉书•高惠高后文景功臣表》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 昔伯翳为舜主畜，畜多<息>。（《史记•秦本纪》）
             url: xxxx
             vernacular: xxxx

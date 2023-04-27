@@ -1,13 +1,108 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 相
+    type: 【副词】
+    phonetic: xiang1
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶互相。
         sentences:
-          - ancient: xxx
+          - ancient: "是故学然后知不足,教然后知困。知不足，然后能自反也。知困，然后能自强也。故曰：教学<相>长也。（《礼记•学记》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 邻国<相>望，鸡犬之声<相>闻，民至老死不<相>往来。（《老子》八十章）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 同是天涯沦落人，<相>逢何必曾<相>识!（《琵琶行》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 外无期功强近之亲，内无应门五尺之僮，茕茕孑立，形影<相>吊。（《陈情表》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷表示一方对另一方发出动作。
+        sentences:
+          - ancient: 便可白公姥，及时<相>遣归。（《孔雀东南飞》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 越陌度阡，枉用<相>存。（《短歌行》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 意气勤勤恳恳，若望（埋怨）仆不<相>师，而用流俗人之言。（《报任安书》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "稍出近之，慭慭然（慭yin4,谨慎戒备的样子），莫<相>知。（《黔之驴））,"
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸表示双方进行比较，相差。
+        sentences:
+          - ancient: "夫物之不齐，物之情也：或<相>倍蓰（xi3,五倍），或<相>什百，或<相>千万。（《孟子•滕文公上》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 圣贤之实同而名号殊，未必才<相>悬绝，智<相>兼倍也。（《论衡•知实》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 相
+    type: 【名词】
+    phonetic: xiang4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶容貌;相貌。
+        sentences:
+          - ancient: "儿已薄禄<相>,幸复得此妇。（《孔雀东南飞》）"
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷外表。
+        sentences:
+          - ancient: 所谓金<相>玉质，百世无匹者也。（《文心雕龙•辨骚》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸辅助君主的大臣，后多专指宰相。
+        sentences:
+          - ancient: 且壮士不死即已，死即举（成就）大名耳，王侯将<相>宁有种乎！（《陈涉世家》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹古代指司仪赞礼之人。
+        sentences:
+          - ancient: "宗庙之事,如会同，端章甫,愿为小<相>焉。（《子路、曾晳、冉有、公西华侍坐》）"
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❺扶助盲人的人。
+        sentences:
+          - ancient: 治国而无礼，譬犹瞽（gu3，瞎眼）之无<相>与，伥伥乎其何之？（《礼记•仲尼燕启》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 危而不持，颠而不扶，则将焉用彼<相>矣？（《季氏将伐颛臾》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❻古代劝勉劳动的歌曲。
+        sentences:
+          - ancient: 请成<相>，世之殃，愚暗愚暗堕贤良。（《荀子•成相篇》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 相
+    type: 【动词】
+    phonetic: xiang4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶仔细看;审察。
+        sentences:
+          - ancient: 伯乐学<相>马，顾玩所见，无非马者。（《论衡•订鬼》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 吕公者，好<相>人，见高祖状貌，因重敬之，引入坐。（《史记•高祖本纪》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】<相>时度力，敝者葺之。（元•张养浩《三事忠告》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷帮助;辅助。
+        sentences:
+          - ancient: "有志与力，而又不随以怠，至于幽暗昏惑而无物以<相>之,亦不能至也。（《游褒禅山记》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "今由与求也，<相>夫子，远人不服,而不能来也。（《季氏将伐颛臾》）"
             url: xxxx
             vernacular: xxxx

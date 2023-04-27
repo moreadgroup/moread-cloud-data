@@ -1,13 +1,55 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 悉
+    type: 【动词】
+    phonetic: Xi1
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶知道;熟悉。
         sentences:
-          - ancient: xxx
+          - ancient: 丞相亮其（表示希望的语气）<悉>朕意，无怠辅朕之阙（缺失），助宣重光，以照明天下，君其勖哉！（《三国志•商书•诸葛亮传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷尽；用尽全部。
+        sentences:
+          - ancient: "书不能<悉>意,故略陈固陋。（《报任安书》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 飨德怀恩，词不<悉>心。（《柳毅传》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 悉
+    type: 【形容词】
+    phonetic: Xi1
+    tags:
+      - 高中
+    samples:
+      - trans: 详尽;详细。
+        sentences:
+          - ancient: "古之治天下，至孅（xian1,同\"纤\"，细）至<悉>也，故其畜积足恃。（《论积贮疏》）"
+            url: xxxx
+            vernacular: xxxx
+  - word: 悉
+    type: 【副词】
+    phonetic: Xi1
+    tags:
+      - 高中
+    samples:
+      - trans: 表示人或事物的全部。相当于"全""都"等。
+        sentences:
+          - ancient: 愚以为宫中之事，事无大小，<悉>以咨之，然后施行，必能裨补阙漏，有所广益。（《出师表》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 大王欲得璧，使人发书至赵王，赵王<悉>召群臣议。（《廉颇蔺相如列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 纵之顺之，毁其盆，<悉>埋于地，解其棕缚。（《病梅馆记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】诸律令所更定，及列侯<悉>就国，其说皆自贾生发之。（《史记•屈原贾生列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "为政有能声，盗<悉>窜他境,至夜户不闭。（《宋史・曾公亮传》）"
             url: xxxx
             vernacular: xxxx
