@@ -1,9 +1,58 @@
 ---
 quizzes:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+  - word: 徙
+    type: 【动词】
+    phonetic: xi3
+    trans: ❶迁移。
+    ancient: "视驼所种树,或移<徙>，无不活。（《种树郭橐驼传》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 徙
+    type: 【动词】
+    phonetic: xi3
+    trans: ❶迁移。
+    ancient: 今漂沦（漂泊沦落）憔悴，转<徙>于江湖间。（《琵琶行》序）
+    url: xxxx
+    vernacular: xxxx
+  - word: 徙
+    type: 【动词】
+    phonetic: xi3
+    trans: ❶迁移。
+    ancient: 是鸟也，海运则将<徙>于南冥。（《逍遥游》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 徙
+    type: 【动词】
+    phonetic: xi3
+    trans: ❶迁移。
+    ancient: 王死后，人众<徙>去。（《苏武传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 徙
+    type: 【动词】
+    phonetic: xi3
+    trans: ❷转移;变更。
+    ancient: 时已<徙>矣而法不<徙>，以此为治，岂不难哉！（《吕氏春秋•察今》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 徙
+    type: 【动词】
+    phonetic: xi3
+    trans: ❸调职;升迁。
+    ancient: （张）衡不慕当世，所居之官辄积年不<徙>。（《张衡传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 徙
+    type: 【动词】
+    phonetic: xi3
+    trans: ❹谪戍;流放。
+    ancient: 然陈涉瓮牖绳枢之子，氓隶之人，而迁<徙>之徒也。（《过秦论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 徙
+    type: 【动词】
+    phonetic: xi3
+    trans: ❹谪戍;流放。
+    ancient: "乃<徙>武北海上无人处,使牧羝（公羊），羝乳乃（才）得归。（《苏武传》）"
     url: xxxx
     vernacular: xxxx

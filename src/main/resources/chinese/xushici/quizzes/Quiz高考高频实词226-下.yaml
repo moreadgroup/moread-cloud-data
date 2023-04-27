@@ -1,9 +1,177 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 下
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: xia4
+    trans: ❶位置低的;下面;下方（与"上"相对）。
+    ancient: 上食埃土，<下>饮黄泉。（《劝学》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 下
+    type: 【名词】
+    phonetic: xia4
+    trans: ❶位置低的;下面;下方（与"上"相对）。
+    ancient: "至莫（通\"暮\"）夜月明,独与迈乘小舟，至绝壁<下>。（《石钟山记\"》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 下
+    type: 【名词】
+    phonetic: xia4
+    trans: ❷时间、次序在后的（与"上""相对）。
+    ancient: "案贤圣之言,上<下>多相违;其文，前后多相伐者，世之学者，不能知也。（《论衡•问孔》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 下
+    type: 【名词】
+    phonetic: xia4
+    trans: ❸等次低的。
+    ancient: 能谤议于市朝，闻寡人之耳者，受<下>赏。（《邹忌讽齐王纳谏》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 下
+    type: 【名词】
+    phonetic: xia4
+    trans: ❹地位在下面的人。
+    ancient: 且相如素贱人，吾羞，不忍为之<下>！（《廉颇蔺相如列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 下
+    type: 【名词】
+    phonetic: xia4
+    trans: ❹地位在下面的人。
+    ancient: 上<下>交（俱，都）征（取）利而国危矣。（《孟子•梁惠王上》）•
+    url: xxxx
+    vernacular: xxxx
+  - word: 下
+    type: 【动词】
+    phonetic: xia4
+    trans: ❶降落;从高处落到低处。
+    ancient: <下>视其辙，登轼而望之，曰："可矣。"（《曹刿论战》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 下
+    type: 【动词】
+    phonetic: xia4
+    trans: ❶降落;从高处落到低处。
+    ancient: 元济于城上请罪，进城梯而<下>之。（《资治通鉴•唐纪五十六》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 下
+    type: 【动词】
+    phonetic: xia4
+    trans: ❶降落;从高处落到低处。
+    ancient: 我腾跃而上，不过数仞而<下>，翱翔蓬蒿之间，此亦飞之至也。（《逍遥游》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 下
+    type: 【动词】
+    phonetic: xia4
+    trans: ❶降落;从高处落到低处。
+    ancient: 无边落木萧萧<下>，不尽长江滚滚来。（《登高》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 下
+    type: 【动词】
+    phonetic: xia4
+    trans: ❷去；往。通常指由西往东，由北往南，由上游往下游。
+    ancient: 故人西辞黄鹤楼，烟花三月<下>扬州。（唐•李白《黄鹤楼送孟浩然之广陵》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 下
+    type: 【动词】
+    phonetic: xia4
+    trans: ❸下达;发布。
+    ancient: 令初<下>，群臣进谏，门庭若市。（《邹忌讽齐王纳谏》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 下
+    type: 【动词】
+    phonetic: xia4
+    trans: ❸下达;发布。
+    ancient: 二世<下>诏，增始皇寝庙牺牲及山川百祀之礼。（《史记•秦始皇本纪》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 下
+    type: 【动词】
+    phonetic: xia4
+    trans: ❹攻下;攻占。
+    ancient: "方其破荆州，<下>江陵，顺流而东也，舳舻千里，旌旗蔽空,酾（shi1）酒临江，横槊赋诗，固一世之雄也，而今安在哉？（《赤壁赋》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 下
+    type: 【动词】
+    phonetic: xia4
+    trans: ❹攻下;攻占。
+    ancient: 吾攻赵旦暮且<下>，而诸侯敢救者，已拔赵，必移兵先击之。（《史记•魏公子列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 下
+    type: 【动词】
+    phonetic: xia4
+    trans: ❺少于;低于。
+    ancient: 今农夫五口之家，其服役者不<下>二人，其能耕者不过百亩，百亩之收不过百石（容量单位，十斗为一石）。（汉•晁错《论贵粟疏》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 下
+    type: 【动词】
+    phonetic: xia4
+    trans: ❺少于;低于。
+    ancient: 豫州（指刘备）军虽败于长坂，今战士还者及关羽水军精甲万人，刘琦合江夏战士亦不<下>万人。（《资治通鉴•汉纪五十七》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 下
+    type: 【动词】
+    phonetic: xia4
+    trans: ❻比不上；居于……之下。
+    ancient: 今之众人，其<下>圣人也亦远矣，而耻学于师。（《师说》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 下
+    type: 【动词】
+    phonetic: xia4
+    trans: ❼降低身份与人交往;谦恭待人。
+    ancient: "公子为人仁而<下>士，士无（无论）贤不肖皆谦而礼交之,不敢以其富贵骄士。（《史记•魏公子列传》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 下
+    type: 【动词】
+    phonetic: xia4
+    trans: ❼降低身份与人交往;谦恭待人。
+    ancient: "市人皆以（认为）嬴为小人,而以公子为长者能<下>士也。（《史记・巍公子列传》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 下
+    type: 【动词】
+    phonetic: xia4
+    trans: ❼降低身份与人交往;谦恭待人。
+    ancient: 而亲贤<下>士，推毂后进，虽位崇年高，曾无倦色。（《旧唐书•于休烈传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 下
+    type: 【动词】
+    phonetic: xia4
+    trans: ⑧投降。
+    ancient: 项王已死，楚地皆降汉，独鲁不<下>。（《史记•项羽本纪》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 下
+    type: 【形容词】
+    phonetic: xia4
+    trans: ❶低（与"高"相对）。
+    ancient: 此地势高<下>不同也。（《梦溪笔谈•药议》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 下
+    type: 【形容词】
+    phonetic: xia4
+    trans: ❷平庸的;低劣的。
+    ancient: 才<下>知浅，不能用大才也。（《论衡•逢遇》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 下
+    type: 【量词】
+    phonetic: xia4
+    trans: 表示动作的次数。
+    ancient: 九月甲申，莽立载行视，亲举筑三<下>。《汉书•王莽传》
     url: xxxx
     vernacular: xxxx
