@@ -1,9 +1,100 @@
 ---
 quizzes:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 省
+    type: 【动词】
+    phonetic: xing3
     trans: ❶xxxx
     ancient: xxx
+    url: xxxx
+    vernacular: xxxx
+  - word: 省
+    type: 【动词】
+    phonetic: xing3
+    trans: ❶察看;考察。
+    ancient: 皇帝春游，览<省>远方。（《史记•秦始皇本纪》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 省
+    type: 【动词】
+    phonetic: xing3
+    trans: ❷顾惜;顾恤。
+    ancient: 然少而侍中，贵不<省>士。（《汉书•霍去病传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 省
+    type: 【动词】
+    phonetic: xing3
+    trans: ❸检查;反省。
+    ancient: "见不善，愀然（愀qiao3,神情忧惧的样子）必以自<省>也。（《荀子•修身》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 省
+    type: 【动词】
+    phonetic: xing3
+    trans: ❸检查;反省。
+    ancient: 君子博学而日参<省>乎己，则知（通"智"，智慧）明而行无过矣。（《劝学》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 省
+    type: 【动词】
+    phonetic: xing3
+    trans: ❸检查;反省。
+    ancient: 【高考题例】文升请帝减膳撤乐，修德<省>愆（罪过）。（《明史・马文升传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 省
+    type: 【动词】
+    phonetic: xing3
+    trans: ❹问候;探望。
+    ancient: 凡为人子之礼，冬温而夏清，昏定而晨<省>。（《礼记•曲礼上》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 省
+    type: 【动词】
+    phonetic: xing3
+    trans: ❹问候;探望。
+    ancient: 瑜从父尚为丹杨太守，瑜往<省>之。（《三国志•吴书•周瑜传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 省
+    type: 【动词】
+    phonetic: xing3
+    trans: ❹问候;探望。
+    ancient: 大铁椎，不知何许人。北平陈子灿<省>兄河南，与遇宋将军家。（《大铁椎传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 省
+    type: 【动词】
+    phonetic: xing3
+    trans: ❹问候;探望。
+    ancient: 又二年，吾佐董丞相于汴州，汝来<省>吾。（《祭十二郎文》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 省
+    type: 【动词】
+    phonetic: xing3
+    trans: ❺知道;醒悟。
+    ancient: "吾少孤，及长，不<省>所怙（hu3,代指父亲）。（《祭十二郎文》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 省
+    type: 【动词】
+    phonetic: xing3
+    trans: ❺知道;醒悟。
+    ancient: 忽大<省>曰："宇宙内事乃己分内事。"（《宋史•陆九渊传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 省
+    type: 【动词】
+    phonetic: xing3
+    trans: ❺知道;醒悟。
+    ancient: 画图<省>识春风面，环珮空归夜月魂。（唐•杜甫《咏怀古迹.其三》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 省
+    type: 【动词】
+    phonetic: xing3
+    trans: ❻记忆。
+    ancient: 夜来<省>得曾闻处，万里月明湘水秋。（唐•许浑《听唱山鹦鸠》）
     url: xxxx
     vernacular: xxxx

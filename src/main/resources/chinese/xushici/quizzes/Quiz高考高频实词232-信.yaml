@@ -1,9 +1,149 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 信
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: xin4
+    trans: ❶信用;诚实可信的品德
+    ancient: 人而无<信>，不知其可也。（《论语•为政》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 信
+    type: 【名词】
+    phonetic: xin4
+    trans: ❶信用;诚实可信的品德
+    ancient: 将军既帝室之胄（后代），<信>义著于四海。（《隆中对》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 信
+    type: 【名词】
+    phonetic: xin4
+    trans: ❶信用;诚实可信的品德
+    ancient: 终不得归汉，空自苦亡人之地，<信>义安所见乎？（《苏武传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 信
+    type: 【名词】
+    phonetic: xin4
+    trans: ❷信物;凭证。
+    ancient: 是皆不足以执<信>也。（《中山狼传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 信
+    type: 【名词】
+    phonetic: xin4
+    trans: ❷信物;凭证。
+    ancient: "今行而无<信>,则秦未可亲也。（《荆轲刺秦王》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 信
+    type: 【名词】
+    phonetic: xin4
+    trans: ❸使者;送信的人。
+    ancient: 自可断（回绝）来<信>（这里指媒人），徐徐更谓之。（《孔雀东南飞》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 信
+    type: 【名词】
+    phonetic: xin4
+    trans: ❹音信;消息。
+    ancient: "大概说长安登科,函使报<信>迟早云尔。（《祭妹文》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 信
+    type: 【名词】
+    phonetic: xin4
+    trans: ❺书信。
+    ancient: 开拆远书何事喜，数行家<信>抵千金。（唐•李绅《端州江亭得家书二首》之一）
+    url: xxxx
+    vernacular: xxxx
+  - word: 信
+    type: 【名词】
+    phonetic: xin4
+    trans: ❺书信。
+    ancient: 久已后书儿、<信>儿，索与我凄凄惶惶的寄。（《长亭送别》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 信
+    type: 【动词】
+    phonetic: xin4
+    trans: ❶相信;信任。
+    ancient: 宁<信>度（尺码），无自<信>也。（《韩非子•外储说左上》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 信
+    type: 【动词】
+    phonetic: xin4
+    trans: ❶相信;信任。
+    ancient: 此悉（都是）贞良死节之臣也，愿陛下亲之<信>之。（《出师表》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 信
+    type: 【动词】
+    phonetic: xin4
+    trans: ❶相信;信任。
+    ancient: "今虽欲自雕琢，曼辞以自饰，无益，于俗不<信>,适足取辱耳。（《报任安书》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 信
+    type: 【动词】
+    phonetic: xin4
+    trans: ❷任凭;任意。
+    ancient: <信>手把笔，随意乱书。（唐.白居易《与元微之书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 信
+    type: 【动词】
+    phonetic: xin4
+    trans: ❷任凭;任意。
+    ancient: 低眉<信>手续续弹，说尽心中无限事。（《琵琶行》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 信
+    type: 【形容词】
+    phonetic: xin4
+    trans: ❶真实。
+    ancient: 其<信>然邪？其梦邪？其传之非其真邪？<信>也，吾兄之盛德而夭其嗣乎？（《祭十二郎文》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 信
+    type: 【形容词】
+    phonetic: xin4
+    trans: ❶真实。
+    ancient: <信>言不美，美言不<信>。（《老子》八十一章）
+    url: xxxx
+    vernacular: xxxx
+  - word: 信
+    type: 【形容词】
+    phonetic: xin4
+    trans: ❷诚实。
+    ancient: 与朋友交而不<信>乎？（《论语•学而》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 信
+    type: 【形容词】
+    phonetic: xin4
+    trans: ❷诚实。
+    ancient: 则智者尽其谋，勇者竭其力，仁者播其惠，<信>者效其忠。（《谏太宗十思疏》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 信
+    type: 【形容词】
+    phonetic: xin4
+    trans: ❷诚实。
+    ancient: 良将劲弩守要害之处，<信>臣精卒陈利兵而谁何。（《过秦论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 信
+    type: 【副词】
+    phonetic: xin4
+    trans: 的确;果真。
+    ancient: "所以游目骋怀（放开眼界、开阔胸怀），足以极视听之娱,<信>可乐也；（《兰亭集序》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 信
+    type: 【副词】
+    phonetic: xin4
+    trans: 的确;果真。
+    ancient: 海客谈瀛洲，烟涛微茫<信>难求。（《梦游天姥吟留别》）
     url: xxxx
     vernacular: xxxx

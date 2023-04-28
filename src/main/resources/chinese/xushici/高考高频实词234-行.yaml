@@ -8,31 +8,54 @@ words:
     samples:
       - trans: ❶行为；品行。
         sentences:
-          - ancient: 大行不顾细谨（在小节上谨慎），大礼不辞小让（小的谦让）。（《鸿门宴》）
-          - ancient: 其志洁，其行廉。（《史记•,屈,原贾生列传》）
-          - ancient: 共事二三年，始尔未为久，女行无偏斜，何意致不厚？（《孔雀东南飞》）
+          - ancient: 大<行>不顾细谨（在小节上谨慎），大礼不辞小让（小的谦让）。（《鸿门宴》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "其志洁，其<行>廉。（《史记•,屈,原贾生列传》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 共事二三年，始尔未为久，女<行>无偏斜，何意致不厚？（《孔雀东南飞》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷行动;举动。
         sentences:
-          - ancient: 晋祚（zuo4,国运）存亡，在此一行。（《晋书•谢安传》）
-          - ancient: 会使辙交驰，北邀当国者相见,众谓予一行为可以纾祸。（《〈指南录〉后序》）
+          - ancient: "晋祚（zuo4,国运）存亡，在此一<行>。（《晋书•谢安传》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "会使辙交驰，北邀当国者相见,众谓予一<行>为可以纾祸。（《〈指南录〉后序》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸行装;行李。
         sentences:
-          - ancient: 萧何薨，（曹）参闻之，告舍人趣治行，"吾且入相"。（《汉书•曹参传》）
-          - ancient: 荆轲有所待,欲与俱，其人居远未来，而为治行。（《荆轲刺秦王》）
+          - ancient: 萧何薨，（曹）参闻之，告舍人趣治<行>，"吾且入相"。（《汉书•曹参传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "荆轲有所待,欲与俱，其人居远未来，而为治<行>。（《荆轲刺秦王》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❹乐府古诗的一种体裁。
         sentences:
-          - ancient: 故乐府中有歌有谣，有吟有引，有行有曲。（宋•王灼《碧鸡漫志》卷一）
+          - ancient: 故乐府中有歌有谣，有吟有引，有<行>有曲。（宋•王灼《碧鸡漫志》卷一）
+            url: xxxx
+            vernacular: xxxx
           - ancient: 莫辞更坐弹一曲，为君翻作《琵琶<行>》。（《琵琶行》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❺古代官职名。行人;使者。
         sentences:
-          - ancient: 王子城父（人名）为将,弦子旗（人名）为理、宁戚（人名）为田、隰朋（人名）为行。（《管子•小匡》）
+          - ancient: "王子城父（人名）为将,弦子旗（人名）为理、宁戚（人名）为田、隰朋（人名）为<行>。（《管子•小匡》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❻乐曲；乐章。
         sentences:
-          - ancient: 相如辞谢,为鼓一再行。（《史记•司马相如列传》）
+          - ancient: "相如辞谢,为鼓一再<行>。（《史记•司马相如列传》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❼汉字的一种字体。行书。
         sentences:
-          - ancient: 篆、籀（zhou4,汉字的一种字体）、分、隶、真、行、草书，无不冠绝古今。（《元史•赵孟頫传》）
-
+          - ancient: "篆、籀（zhou4,汉字的一种字体）、分、隶、真、<行>、草书，无不冠绝古今。（《元史•赵孟頫传》）"
+            url: xxxx
+            vernacular: xxxx
   - word: 行
     type: 【动词】
     phonetic: xing2
@@ -41,50 +64,90 @@ words:
     samples:
       - trans: ❶行走。
         sentences:
-          - ancient: 三人行，必有我师焉。（《论语•述而》）
-          - ancient: 子墨子闻之，起（动身）于鲁，行十日十夜而至于郢（ying3）,见公输盘。（《公输》）
-          - ancient: 其隙也，则施施而行，漫湿而游。（《始得西山宴游记》）
+          - ancient: 三人<行>，必有我师焉。（《论语•述而》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "子墨子闻之，起（动身）于鲁，<行>十日十夜而至于郢（ying3）,见公输盘。（《公输》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 其隙也，则施施而<行>，漫湿而游。（《始得西山宴游记》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷去;前往。
         sentences:
-          - ancient: 赵王畏秦，欲毋行。（《廉颇蔺相如列传》）
-          - ancient: （孙）权即遣肃行。（《资治通鉴•汉纪五十七》）
-          - ancient: 永元中，举孝廉不行，连辟公府不就。（《张衡传》）
-          - ancient: 向使（假如）三国各爱其地,齐人勿附于秦，刺客不行，良将犹在，则胜负之数，存亡之理，当（倘若）与秦相较，或未易量。（《六国论》）
-
-          - ancient: 【高考题例】契丹以兵二十万压代州境，遣使请代地，岁聘之使不敢行，以命将。（《宋史•许将传》）
-          - ancient: 金人虽不吾索,吾当与之俱行，求见二酋面责之，庶或万一可济。（《宋史.孙傅传》）
-
+          - ancient: 赵王畏秦，欲毋<行>。（《廉颇蔺相如列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: （孙）权即遣肃<行>。（《资治通鉴•汉纪五十七》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 永元中，举孝廉不<行>，连辟公府不就。（《张衡传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "向使（假如）三国各爱其地,齐人勿附于秦，刺客不<行>，良将犹在，则胜负之数，存亡之理，当（倘若）与秦相较，或未易量。（《六国论》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】契丹以兵二十万压代州境，遣使请代地，岁聘之使不敢<行>，以命将。（《宋史•许将传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "金人虽不吾索,吾当与之俱<行>，求见二酋面责之，庶或万一可济。（《宋史.孙傅传》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸流传;传布。
         sentences:
-          - ancient: 呜呼！士之处此世，而望名誉之光、道德之行，难已！（唐•韩愈《原毁》）
+          - ancient: 呜呼！士之处此世，而望名誉之光、道德之<行>，难已！（唐•韩愈《原毁》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❹实行;做。
         sentences:
-          - ancient: 愚以为宫中之事，事无大小，悉以咨之，然后施行,必能裨补阙漏，有所广益。（《出师表》）
-          - ancient: 所求乎为子，以父母之遗体行殆（危险的事）而死有余责。（《〈指南录〉后序》）
-          - ancient: 【高考题例】令行于民期年，秦民之（到）国都言初令之不便者以千数（计算）。（《史记•商君列传》）
-
+          - ancient: "愚以为宫中之事，事无大小，悉以咨之，然后施<行>,必能裨补阙漏，有所广益。（《出师表》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 所求乎为子，以父母之遗体<行>殆（危险的事）而死有余责。（《〈指南录〉后序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】令<行>于民期年，秦民之（到）国都言初令之不便者以千数（计算）。（《史记•商君列传》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❺运行。
         sentences:
-          - ancient: 天行有常。（《荀子•天论》）
+          - ancient: 天<行>有常。（《荀子•天论》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❻巡视;巡察。
         sentences:
-          - ancient: 智伯出行水。（《战国策•秦策四》）
-          - ancient: 乃使人与秦吏行县乡邑，告谕之。（《史记•高祖本纪》）
+          - ancient: 智伯出<行>水。（《战国策•秦策四》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 乃使人与秦吏<行>县乡邑，告谕之。（《史记•高祖本纪》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❼出嫁。
         sentences:
-          - ancient: 女子有行,远兄弟父母。（《诗经•卫风•竹竿》）
+          - ancient: "女子有<行>,远兄弟父母。（《诗经•卫风•竹竿》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❽代理官职。
         sentences:
-          - ancient: 丞相（田）蚡薨（hong1,指诸侯或高官去世），（韩）安国行丞相事。（《汉韦•韩安国传》）
-          - ancient: 舜登用，摄行天子之政,巡狩。（《史记•夏本纪》）
-          - ancient: 【高考题例】后拜骑都尉、参军事、行安南太守，迁尚书郎。（《晋书•鲁芝传》）
+          - ancient: "丞相（田）蚡薨（hong1,指诸侯或高官去世），（韩）安国<行>丞相事。（《汉韦•韩安国传》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "舜登用，摄<行>天子之政,巡狩。（《史记•夏本纪》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】后拜骑都尉、参军事、<行>安南太守，迁尚书郎。（《晋书•鲁芝传》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ⑨经历。
         sentences:
-          - ancient: 行年四岁，舅夺母志。（《陈情表》）
+          - ancient: <行>年四岁，舅夺母志。（《陈情表》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❿用。
         sentences:
-          - ancient: 深谋远虑,行军用兵之道，非及向时之士也。（《过秦论》）
-
+          - ancient: "深谋远虑,<行>军用兵之道，非及向时之士也。（《过秦论》）"
+            url: xxxx
+            vernacular: xxxx
   - word: 行
     type: 【量词】
     phonetic: xing2
@@ -94,7 +157,8 @@ words:
       - trans: 遍；次（多指饮酒）。
         sentences:
           - ancient: 客至未尝不置酒，或三<行>五<行>，多不过七<行>。（《训俭示康》）
-
+            url: xxxx
+            vernacular: xxxx
   - word: 行
     type: 【副词】
     phonetic: xing2
@@ -103,13 +167,20 @@ words:
     samples:
       - trans: ❶即将;将要。
         sentences:
-          - ancient: 十八岁当一小发，服此散，亦行复差（通"瘥"，病愈）。（《三国志•魏书•方技传》）
-          - ancient: 善（羡慕）万物之得时,感吾生之行休。（《归去来兮辞》）
-          - ancient: 岁月易得，别来行复四年。（南朝梁•萧统《文选•与吴质书》）
+          - ancient: 十八岁当一小发，服此散，亦<行>复差（通"瘥"，病愈）。（《三国志•魏书•方技传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "善（羡慕）万物之得时,感吾生之<行>休。（《归去来兮辞》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 岁月易得，别来<行>复四年。（南朝梁•萧统《文选•与吴质书》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷又;复。
         sentences:
           - ancient: 上高堂，<行>取殿下堂。（《乐府诗集•孤儿行》）
-
+            url: xxxx
+            vernacular: xxxx
   - word: 行
     type: 【名词】
     phonetic: hang2
@@ -118,21 +189,32 @@ words:
     samples:
       - trans: ❶道路。
         sentences:
-          - ancient: 杞人、郳人从赵武、魏绛斩行栗。（《左传•襄公九年》）
+          - ancient: 杞人、郳人从赵武、魏绛斩<行>栗。（《左传•襄公九年》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷行列；队伍。
         sentences:
-          - ancient: 蹑足（出身于）行伍之间，而倔（同"崛"）起什伯（什长百长）之中。（《过秦论》）
-          - ancient: 愚以为"营中之事，悉以咨之,必能使行阵和睦，优劣得所。（《出师表》）
+          - ancient: 蹑足（出身于）<行>伍之间，而倔（同"崛"）起什伯（什长百长）之中。（《过秦论》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "愚以为\"营中之事，悉以咨之,必能使<行>阵和睦，优劣得所。（《出师表》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸辈分。
         sentences:
-          - ancient: 恐汉袭之,乃曰："汉天子我丈人行也。"（《苏武传》）
+          - ancient: "恐汉袭之,乃曰：\"汉天子我丈人<行>也。\"（《苏武传》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❹行业。
         sentences:
-          - ancient: 我想这一百二十行，门门都是求衣饭。（元•关汉卿《金线池》一折）
+          - ancient: 我想这一百二十<行>，门门都是求衣饭。（元•关汉卿《金线池》一折）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❺排行。
         sentences:
-          - ancient: 弟姓胡氏，于行为四。（《聊斋志异•胡四相公》）
-
+          - ancient: 弟姓胡氏，于<行>为四。（《聊斋志异•胡四相公》）
+            url: xxxx
+            vernacular: xxxx
   - word: 行
     type: 【量词】
     phonetic: hang2
@@ -141,4 +223,6 @@ words:
     samples:
       - trans: 用于成行的事物。道;条。
         sentences:
-          - ancient: 出门登车去,涕落百余行。（《孔雀东南飞》）
+          - ancient: "出门登车去,涕落百余<行>。（《孔雀东南飞》）"
+            url: xxxx
+            vernacular: xxxx
