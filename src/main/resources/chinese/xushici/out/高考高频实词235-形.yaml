@@ -1,13 +1,70 @@
 ---
 words:
-  - word: xxxx
+  - word: 形
     type: 【名词】
-    phonetic: xx1
+    phonetic: xing2
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶形体;身体。
         sentences:
-          - ancient: xxx
+          - ancient: 鸟兽得之，<形>体肥大，羽毛丰茂。（《管子.水地》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 或因寄所托，放浪<形>骸之外。（《兰亭集序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 既自以心为<形>役，奚惆怅而独悲？（《归去来兮辞》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷形状;形象。
+        sentences:
+          - ancient: 视之，<形>若土狗（蝼蛄），梅花翅，方首长胫，意似良。（《促织》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <形>似酒尊，饰以篆文山龟鸟兽之形。（《张衡传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸地形。
+        sentences:
+          - ancient: 隘<形>者，我先居之，必盈之以待敌。（《孙子兵法•地形》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 秦富十倍天下，地<形>彊。（《史记•高祖本纪》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹情形;情况。
+        sentences:
+          - ancient: 今太子闻光壮盛之时，不知吾<形>已不逮也。（《史记•刺客列传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❺形势。
+        sentences:
+          - ancient: （曹）操军破，必北还;如此，则荆、吴之势强，鼎足之<形>成矣。（《资治通鉴•汉纪五十七》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 由此言之，勇怯，势也;强弱，<形>也。（《报任安书》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 形
+    type: 【动词】
+    phonetic: xing2
+    tags:
+      - 高中
+    samples:
+      - trans: ❶表现;显露。
+        sentences:
+          - ancient: 往借，不与，归而<形>诸梦。（《黄生借书说》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 愚者暗成事，智者睹未<形>，则王何疑焉。（《史记•赵世家》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】恭俭温仁，未尝以喜愠<形>于颜色。（《旧唐书•于休烈传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷对照;对比。
+        sentences:
+          - ancient: 长短相<形>，高下相倾。（《老子》二章）
             url: xxxx
             vernacular: xxxx

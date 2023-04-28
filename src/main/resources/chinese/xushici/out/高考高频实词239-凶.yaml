@@ -1,13 +1,47 @@
 ---
 words:
-  - word: xxxx
+  - word: 凶
     type: 【名词】
-    phonetic: xx1
+    phonetic: xiong1
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶恶人。
         sentences:
-          - ancient: xxx
+          - ancient: 庶竭驽钝（用尽平庸的才智），攘除奸<凶>。（《出师表》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷丧事。
+        sentences:
+          - ancient: "寡君少遭闵（min3,忧患）<凶>。（《左传•宣公十二年》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 臣密言：臣以脸衅，夙遭闵<凶>。（《陈情表》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸灾祸，祸殃。
+        sentences:
+          - ancient: 衡常思图身之事，以为吉<凶>倚伏，幽微难明，乃作《思玄赋》以宣寄情志。（《张衡传》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 凶
+    type: 【形容词】
+    phonetic: xiong1
+    tags:
+      - 高中
+    samples:
+      - trans: ❶凶恶;残暴。
+        sentences:
+          - ancient: <凶>狡无行之徒，媚以求官。（《后汉书•朱穆传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷不吉利。
+        sentences:
+          - ancient: "以瞽（gu3,眼睛失明）为明，以聋为聪，以是为非，以吉为<凶>。（《战国策•楚策四》）"
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸庄稼无收成或严重歉收。
+        sentences:
+          - ancient: "河内<凶>，则移其民于河东,移其粟于河内；河东<凶>亦然。（《寡人之于国也》）"
             url: xxxx
             vernacular: xxxx
