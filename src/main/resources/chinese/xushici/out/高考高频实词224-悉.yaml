@@ -10,15 +10,15 @@ words:
         sentences:
           - ancient: 丞相亮其（表示希望的语气）<悉>朕意，无怠辅朕之阙（缺失），助宣重光，以照明天下，君其勖哉！（《三国志•商书•诸葛亮传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: "丞相诸葛亮他能够体察我的心意,从来没有懈怠,能够提醒补充我的不足,帮助我重振祖宗的基业,来匡扶天下,先生希望能够继续努力啊!"
       - trans: ❷尽；用尽全部。
         sentences:
           - ancient: "书不能<悉>意,故略陈固陋。（《报任安书》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 书信是不能完全表达心意的，因而只是略微陈述我愚执、浅陋的意见罢了。
           - ancient: 飨德怀恩，词不<悉>心。（《柳毅传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 受您的德，感您的恩，难以用言词表达出来。
   - word: 悉
     type: 【形容词】
     phonetic: Xi1
@@ -29,7 +29,7 @@ words:
         sentences:
           - ancient: "古之治天下，至孅（xian1,同\"纤\"，细）至<悉>也，故其畜积足恃。（《论积贮疏》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 古代的人治理国家，考虑得极为细致和周密，所以他们的积贮足以依靠。
   - word: 悉
     type: 【副词】
     phonetic: Xi1
@@ -40,16 +40,16 @@ words:
         sentences:
           - ancient: 愚以为宫中之事，事无大小，<悉>以咨之，然后施行，必能裨补阙漏，有所广益。（《出师表》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我认为宫中之事，无论事情大小，都拿来跟他商讨，这样以后再去实施，一定能够弥补缺点和疏漏之处。
           - ancient: 大王欲得璧，使人发书至赵王，赵王<悉>召群臣议。（《廉颇蔺相如列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 大王想得到宝璧，派人送信给赵王，赵王召集全体大臣商议
           - ancient: 纵之顺之，毁其盆，<悉>埋于地，解其棕缚。（《病梅馆记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我放开它们，使它们顺其自然生长，毁掉那些盆子，把梅全部种在地里，解开捆绑它们棕绳的束缚
           - ancient: 【高考题例】诸律令所更定，及列侯<悉>就国，其说皆自贾生发之。（《史记•屈原贾生列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: "但此后各项法令的更改,以及诸侯必须到封地去上任等事,这都是贾谊的主张。"
           - ancient: "为政有能声，盗<悉>窜他境,至夜户不闭。（《宋史・曾公亮传》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 治理政事有才能因而声名在外，盗贼全部逃窜到其他州县，以至于晚上不用关闭大门。

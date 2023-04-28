@@ -10,16 +10,16 @@ words:
         sentences:
           - ancient: 夫人情莫不贪生<恶>死。（《报任安书》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 人之常情，没有谁不贪生怕死的
           - ancient: 帝引在帷幄，讽议左右。尝问天下所疾<恶>者。（《张衡传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 皇帝让他进皇宫，在皇帝左右，对国家的政事提意见。皇帝曾经向张衡问起天下人所痛恨的是谁。
           - ancient: 刘备天下枭雄，与操有隙，寄寓于（刘）表，表<恶>其能而不能用也。（《资治通鉴•汉纪五十七》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 刘备是天下的枭雄，与曹操有隔阂。依附投靠于刘表。刘表嫉妒他的才能而不重用他。
           - ancient: "【高考题例】元载以罪诛，除揆睦州刺史,入拜国子祭酒、礼部尚书,为卢杞所<恶>。（《旧唐书•李揆传》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 元载因罪被杀后，朝廷任命李揆为睦州刺史，又入京担任国子祭酒、礼部尚书，被宰相卢杞所嫉恨。
   - word: 恶
     type: 【代词】
     phonetic: wu4
@@ -30,7 +30,7 @@ words:
         sentences:
           - ancient: 卒（通""猝"）然问曰："天下<恶>乎定？"（《孟子见梁襄王》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: （他见了我之后）突然问道：“天下要怎样才能安定呢？”
   - word: 恶
     type: 【叹词】
     phonetic: wu4
@@ -41,7 +41,7 @@ words:
         sentences:
           - ancient: <恶>，是何言也！（《孟子•公孙丑上》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 唉呀！这是什么话！
   - word: 恶
     type: 【代词】
     phonetic: wu1
@@ -52,4 +52,4 @@ words:
         sentences:
           - ancient: "若夫乘天地之正,而御六气之辩，以游无穷者，彼且<恶>乎待哉？（《逍遥游》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 倘若顺应天地万物的本性，驾驭着六气的变化，遨游于无穷的境地，他还要凭借什么呢？
