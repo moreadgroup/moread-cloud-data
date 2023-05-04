@@ -8,24 +8,41 @@ words:
     samples:
       - trans: ❶休息。
         sentences:
-          - ancient: 至于负者（背着东西的人）歌于途，行者休于树。（《醉翁亭记》）
-          - ancient: 据其栅，命士少休，食干糒（bei4,干粮），整羁（马笼头）靮（di2马缰绳）。（《资治通,鉴•唐纪五十六》"）
+          - ancient: 至于负者（背着东西的人）歌于途，行者<休>于树。（《醉翁亭记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "据其栅，命士少<休>，食干糒（bei4,干粮），整羁（马笼头）靮（di2马缰绳）。（《资治通,鉴•唐纪五十六》\"）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷休假。
         sentences:
-          - ancient: 会休日登楼，见人于后圃有所瘗（yi4,掩埋）藏者。（《新唐书•裴宽传》）
-          - ancient: 十旬休假，胜友如云；千里逢迎，高朋满座。（《滕王阁序》）
+          - ancient: "会<休>日登楼，见人于后圃有所瘗（yi4,掩埋）藏者。（《新唐书•裴宽传》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 十旬<休>假，胜友如云；千里逢迎，高朋满座。（《滕王阁序》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸停止。
         sentences:
-          - ancient: 善（羡慕）万物之得时，感吾生之行休。（《归去来兮辞》）
-          - ancient: 少亲大骇,急解令休止。（《促织》）
+          - ancient: 善（羡慕）万物之得时，感吾生之行<休>。（《归去来兮辞》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "少亲大骇,急解令<休>止。（《促织》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❹辞退官职。
         sentences:
-          - ancient: 谪居淡无事,何异老且休。（宋•苏轼《和〈游斜川正月五曰与儿子过出游作〉》）
-          - ancient: 名岂文章著，官应老病休。（唐•杜甫《旅夜书怀》）
+          - ancient: "谪居淡无事,何异老且<休>。（宋•苏轼《和〈游斜川正月五曰与儿子过出游作〉》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 名岂文章著，官应老病<休>。（唐•杜甫《旅夜书怀》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❺旧时称丈夫离弃妻子叫休。
         sentences:
-          - ancient: 枕前发尽千般愿，要休且待青山烂。（《敦煌曲子词•菩萨蛮》）
-
+          - ancient: 枕前发尽千般愿，要<休>且待青山烂。（《敦煌曲子词•菩萨蛮》）
+            url: xxxx
+            vernacular: xxxx
   - word: 休
     type: 【形容词】
     phonetic: xiu
@@ -34,22 +51,28 @@ words:
     samples:
       - trans: ❶美;善。
         sentences:
-          - ancient: 士之能垂休光照后世者，亦莫不有后进之士负天下之望者为之后焉。（唐•韩愈《与于襄阳书》）
-          - ancient: 人君当神器之重，居域中之大，将崇极天之峻，永保无疆之休。（《谏太宗十思疏》）
+          - ancient: 士之能垂<休>光照后世者，亦莫不有后进之士负天下之望者为之后焉。（唐•韩愈《与于襄阳书》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 人君当神器之重，居域中之大，将崇极天之峻，永保无疆之<休>。（《谏太宗十思疏》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷喜乐。
         sentences:
-          - ancient: 晋国有忧,（孙周）未尝不戚（忧虑）；有庆，未尝不怡（愉快）。（单襄公）曰："……为晋休戚，不背本也。"（《国语•周语下》）
-
+          - ancient: "晋国有忧,（孙周）未尝不戚（忧虑）；有庆，未尝不怡（愉快）。（单襄公）曰：\"……为晋<休>戚，不背本也。\"（《国语•周语下》）"
+            url: xxxx
+            vernacular: xxxx
   - word: 休
     type: 【副词】
     phonetic: xiu
     tags:
       - 高中
     samples:
-      - trans: 不要。	修
+      - trans: "不要。\t修"
         sentences:
-          - ancient: 洛阳宫殿化为烽，休道秦关百二重。（唐•杜甫《诸将五首》之三）
-
+          - ancient: 洛阳宫殿化为烽，<休>道秦关百二重。（唐•杜甫《诸将五首》之三）
+            url: xxxx
+            vernacular: xxxx
   - word: 休
     type: 【助词】
     phonetic: xiu
@@ -58,4 +81,6 @@ words:
     samples:
       - trans: 句末语气助词。罢；了。
         sentences:
-          - ancient: 要来小酌便来休。（宋•李清照《玉楼春》）
+          - ancient: 要来小酌便来<休>。（宋•李清照《玉楼春》）
+            url: xxxx
+            vernacular: xxxx

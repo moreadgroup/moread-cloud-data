@@ -1,9 +1,93 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 须
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: xu1
+    trans: ❶胡子。
+    ancient: 始以强壮出，及还，<须>发尽白。（《苏武传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 须
+    type: 【名词】
+    phonetic: xu1
+    trans: ❶胡子。
+    ancient: "高祖为人，隆准而龙颜，美<须>髯,左股有七十二黑子。（《史记•高祖本纪》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 须
+    type: 【名词】
+    phonetic: xu1
+    trans: ❷动物的触须。
+    ancient: 俄（一会儿）见小虫跃起，张尾伸<须>。（《促织》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 须
+    type: 【名词】
+    phonetic: xu1
+    trans: ❸片刻;一会儿。
+    ancient: "贤能不待次而举,罢（pi2指德行不好的人）不能不待<须>而废。（《荀子•王制》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 须
+    type: 【名词】
+    phonetic: xu1
+    trans: ❸片刻;一会儿。
+    ancient: 坐<须>臾，沛公起如厕，因招樊哙出。（《鸿门宴》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 须
+    type: 【动词】
+    phonetic: xu1
+    trans: ❶等待;等到。
+    ancient: 是以吴起<须>故人而食。（《韩非子•外储说左上》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 须
+    type: 【动词】
+    phonetic: xu1
+    trans: ❶等待;等到。
+    ancient: 且放白鹿青崖间，<须>行即骑访名山。（《梦游天姥吟留别》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 须
+    type: 【动词】
+    phonetic: xu1
+    trans: ❶等待;等到。
+    ancient: 寡君<须>矣，吾子其入也！（《左传•成公十二年》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 须
+    type: 【动词】
+    phonetic: xu1
+    trans: ❷通"需"。需要。
+    ancient: 敛以时服，不<须>器物。（《三国志•蜀书•诸葛亮传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 须
+    type: 【副词】
+    phonetic: xu1
+    trans: ❶必须;应该。
+    ancient: 烹羊宰牛且为乐，会<须>一饮三百杯。（《将进酒》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 须
+    type: 【副词】
+    phonetic: xu1
+    trans: ❶必须;应该。
+    ancient: 白日放歌<须>纵酒，青春作伴好还乡。（《闻官军收河南河北》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 须
+    type: 【副词】
+    phonetic: xu1
+    trans: ❶必须;应该。
+    ancient: 我这里青鸾有信频<须>寄，你却休"金榜无名誓不归"。（《长亭送别》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 须
+    type: 【副词】
+    phonetic: xu1
+    trans: ❷本;本来。
+    ancient: 你本是赵盾家堂上宾，我<须>是屠岸贾门下人。（元•纪君祥《赵氏孤儿》一折）
     url: xxxx
     vernacular: xxxx

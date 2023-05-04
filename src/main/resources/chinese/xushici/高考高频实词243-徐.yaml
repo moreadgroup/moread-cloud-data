@@ -8,8 +8,9 @@ words:
     samples:
       - trans: 古诸侯国名。故址在今安徽泗县。
         sentences:
-          - ancient: 徐君使容居来吊含。（《礼记•檀弓下》）
-
+          - ancient: <徐>君使容居来吊含。（《礼记•檀弓下》）
+            url: xxxx
+            vernacular: xxxx
   - word: 徐
     type: 【形容词】
     phonetic: Xu2
@@ -18,6 +19,12 @@ words:
     samples:
       - trans: 缓慢。
         sentences:
-          - ancient: 清风徐来，水波不兴。（《赤壁赋》）
-          - ancient: 莫听穿林打叶声，何妨吟啸且徐行。（苏轼《定风波•莫听穿林打叶声》）
-          - ancient: 自可断来信,<徐>徐更谓之。（《孔雀东南飞》）
+          - ancient: 清风<徐>来，水波不兴。（《赤壁赋》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 莫听穿林打叶声，何妨吟啸且<徐>行。（苏轼《定风波•莫听穿林打叶声》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "自可断来信,<徐>徐更谓之。（《孔雀东南飞》）"
+            url: xxxx
+            vernacular: xxxx

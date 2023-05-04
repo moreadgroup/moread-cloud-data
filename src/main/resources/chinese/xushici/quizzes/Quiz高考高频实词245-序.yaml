@@ -1,9 +1,65 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 序
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: XU4
+    trans: ❶隔开正堂与东西两室的墙。
+    ancient: 至则无以为居，居龙兴寺西<序>之下。（唐•柳宗元《永州龙兴寺西轩记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 序
+    type: 【名词】
+    phonetic: XU4
+    trans: ❷古代的地方学校。
+    ancient: "谨庠（xiang2,指学校）<序>之教，申之以孝悌（ti4,敬重兄长）之义；（《寡人之于国也》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 序
+    type: 【名词】
+    phonetic: XU4
+    trans: ❸次序；秩序。
+    ancient: 长幼有<序>。（《荀子•君子》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 序
+    type: 【名词】
+    phonetic: XU4
+    trans: ❸次序；秩序。
+    ancient: 日月忽其不淹兮，春与秋其代<序>。（《离骚》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 序
+    type: 【名词】
+    phonetic: XU4
+    trans: ❹季节。
+    ancient: 四<序>有花长见雨，一冬无雪却闻雷。（唐•韩偓《登南神光寺塔院》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 序
+    type: 【名词】
+    phonetic: XU4
+    trans: ❹季节。
+    ancient: 时维九月，<序>属三秋。（《滕王阁序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 序
+    type: 【动词】
+    phonetic: XU4
+    trans: ❶按次序排列。引申为统辖。
+    ancient: 然秦以区区之地，致万乘之势，<序>八州而朝同列，百有余年矣。（《过秦论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 序
+    type: 【动词】
+    phonetic: XU4
+    trans: ❷作序言。
+    ancient: "是年夏五，改元景炎,庐陵文天祥自<序>其诗，名曰《指南录》。（《〈指南录〉后序》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 序
+    type: 【动词】
+    phonetic: XU4
+    trans: ❸通"叙"。叙说。
+    ancient: 会桃花之芳园，<序>天伦之乐事。（唐•李白《春夜宴从弟桃花园序》）
     url: xxxx
     vernacular: xxxx
