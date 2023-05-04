@@ -6,12 +6,6 @@ words:
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
-        sentences:
-          - ancient: xxx
-            url: xxxx
-            vernacular: xxxx
-
       - trans: 古诸侯国名。故址在今安徽泗县。
         sentences:
           - ancient: 徐君使容居来吊含。（《礼记•檀弓下》）
@@ -26,4 +20,4 @@ words:
         sentences:
           - ancient: 清风徐来，水波不兴。（《赤壁赋》）
           - ancient: 莫听穿林打叶声，何妨吟啸且徐行。（苏轼《定风波•莫听穿林打叶声》）
-          - ancient: 自可断来信,徐徐更谓之。（《孔雀东南飞》）
+          - ancient: 自可断来信,<徐>徐更谓之。（《孔雀东南飞》）

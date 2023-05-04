@@ -1,13 +1,82 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 寻
+    type: 【动词】
+    phonetic: xun2
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶寻找。
         sentences:
-          - ancient: xxx
+          - ancient: 太守即遣人随其往，<寻>向所志（标记），遂迷，不复得路。（《桃花源记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 虽一龙发机，商七首不动，<寻>其方面（方向），乃知震之所在。（《张衡传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 既窈窕以<寻>壑，亦崎岖而经丘。（《归去来兮辞》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷探究。
+        sentences:
+          - ancient: 盖<寻>微以知著，原（穷究本原）始以见终。（《抱朴子•嘉盾》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸重温。
+        sentences:
+          - ancient: 更<寻>盟好。（《三国志•吴书•吴主传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹使用。
+        sentences:
+          - ancient: 三年将<寻>师焉。（《左传•僖公五年》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 寻
+    type: 【量词】
+    phonetic: xun2
+    tags:
+      - 高中
+    samples:
+      - trans: "古代的长度单位,八尺为一寻。"
+        sentences:
+          - ancient: "千<寻>铁锁沉江底,一片降幡（降旗）出石头（指南京城）。（唐•刘禹锡《西塞山怀舌》）’"
+            url: xxxx
+            vernacular: xxxx
+  - word: 寻
+    type: 【副词】
+    phonetic: xun2
+    tags:
+      - 高中
+    samples:
+      - trans: 不久;接着。
+        sentences:
+          - ancient: 媒人去数日，<寻>遣丞请还，说有兰家女，承籍有宦官。（《孔雀东南飞》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 诏书特下，拜臣郎中，<寻>蒙国恩，除臣洗马。（《陈情表》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 未果，<寻>病终。（《桃花源记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】英宗即位，加中书侍郎兼礼部尚书，<寻>加户部尚书。（《宋史・曾公亮传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "休烈<寻>转工部侍郎、修国史，献《五代帝王论》，帝甚嘉之。（《旧唐书•于休烈传》）\t："
+            url: xxxx
+            vernacular: xxxx
+  - word: 寻
+    type: 【介词】
+    phonetic: xun2
+    tags:
+      - 高中
+    samples:
+      - trans: 沿着;顺着。
+        sentences:
+          - ancient: <寻>声暗问弹者谁？琵琶声停欲语迟。（《琵琶行》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "驴仆剑装轻,<寻>河早早行。（宋•林逋《汴岸晓行》）"
             url: xxxx
             vernacular: xxxx
