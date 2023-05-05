@@ -10,7 +10,7 @@ words:
         sentences:
           - ancient: 先生不知何<许>人也。（《五柳先生传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 五柳先生不知道是哪里的人
   - word: 许
     type: 【动词】
     phonetic: XU3
@@ -21,39 +21,39 @@ words:
         sentences:
           - ancient: 将请罪于君，君不<许>;请罪于母，母不<许>。（《〈指南录〉后序》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 将向国君请罪，国君不答应;向母亲请罪，母亲不答应
           - ancient: 秦王怒，不<许>。（《廉颇蔺相如列传》）
             url: xxxx
             vernacular: xxxx
           - ancient: 寡人欲以五百里之地易（换取）安陵，安陵君其（副词，表示祈使）<许>寡人（《唐雎ju1不辱使命》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我打算要用五百里的土地交换安陵，安陵君一定要答应我！
           - ancient: 【高考题例】天水夷夏慕德，老幼赴阙献书，乞留芝。魏明帝<许>焉。（《晋书.鲁芝传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 天水各族百姓都非常仰慕他的德行，大家亲自到京城上书，请求留下鲁芝（继续任天水太守）。魏明帝允准。
       - trans: ❷认可;赞同。
         sentences:
           - ancient: "聚室而谋曰：\"吾与汝毕力平险，指通豫南,达于汉阴,可乎?\"杂然相<许>。（《愚公移山》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 于是集合全家人商量说：“我跟你们尽全力铲除险峻的大山，使道路一直通向豫州南部，到达汉水南岸，好吗？”大家纷纷表示赞同。
           - ancient: （亮）身长八尺，每自比于管仲、乐毅，时人莫之<许>也。（《隆中对》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 他身高八尺，常常把自己和管仲相比、乐毅，当时人们都不承认这件事。
       - trans: ❸给予;奉献。
         sentences:
           - ancient: 老母在，政（聂政自称）身未敢以<许>人也。（《史记・刺客列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 老母在世，我不敢对别人以身相许。
       - trans: ❹许配;答应嫁给。
         sentences:
           - ancient: 沛令善公，求之（吕公之女）不与，何自妄<许>与刘季？ （《汉书•高帝纪上》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 沛县县令跟你友好,想娶这个女儿你不允许,为什么自己随便地就把她许给刘季了呢?”(“善”“与”“妄”、疑问句各1分)
       - trans: ❺期望。
         sentences:
           - ancient: 塞上长城空自<许>，镜中衰鬓已先斑。（宋•陆游《书愤》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我白白地自认为是边防上的长城，对镜照看衰老的头发早已花白。
   - word: 许
     type: 【代词】
     phonetic: XU3
@@ -64,7 +64,7 @@ words:
         sentences:
           - ancient: 问渠那得清如<许>？为有源头活水来。（宋•朱熹《观书有感》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 要问池塘里的水为何这样清澈呢？是因为有永不枯竭的源头持续不断地为它输送活水。
   - word: 许
     type: 【助词】
     phonetic: XU3
@@ -73,9 +73,9 @@ words:
     samples:
       - trans: 用在数词或数量词后，表示约数。
         sentences:
-          - ancient: 潭中鱼可百<许>头。（《小石潭记》）
+          - ancient: 潭中鱼可百<许>头，皆若空游无所依。（《小石潭记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 潭中的鱼大约有一百来条，都好像在空中游动，什么依靠都没有
           - ancient: "舟首尾长约八分有奇,高可二黍<许>。（《核舟记》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 船从头到尾大约有八分多长,大约有两个黄米粒那么高。
