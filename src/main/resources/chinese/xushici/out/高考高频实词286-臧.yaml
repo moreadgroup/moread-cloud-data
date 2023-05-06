@@ -1,13 +1,43 @@
 ---
 words:
-  - word: xxxx
+  - word: 臧
     type: 【名词】
-    phonetic: xx1
+    phonetic: zang1
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶男性奴隶。
         sentences:
-          - ancient: xxx
+          - ancient: 且夫<臧>获婢妾，犹能引决（自杀），况仆之不得已乎?（《报任安书》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷通"赃"。通过贿赂、盗窃等不正当手段获得的财物。
+        sentences:
+          - ancient: 受纳<臧>赂。（《后汉书•陈禅传》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 臧
+    type: 【动词】
+    phonetic: zang1
+    tags:
+      - 高中
+    samples:
+      - trans: 褒扬好的，评价优的。
+        sentences:
+          - ancient: 宫中府中，俱为一体，陟罚<臧>否，不宜异同。（《出师表》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】弘微口不言人短长，而曜好<臧>否人物，曜每言论，弘微常以它语乱之。（《宋书•谢弘微传》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 臧
+    type: 【形容词】
+    phonetic: zang1
+    tags:
+      - 高中
+    samples:
+      - trans: 善;好。
+        sentences:
+          - ancient: 我酒既旨，我肴既<臧>。（《诗经•都风•载驰》）
             url: xxxx
             vernacular: xxxx

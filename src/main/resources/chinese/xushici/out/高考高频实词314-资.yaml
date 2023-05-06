@@ -1,13 +1,67 @@
 ---
 words:
-  - word: xxxx
+  - word: 资
     type: 【名词】
-    phonetic: xx1
+    phonetic: Zi1
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶财物;物资。
         sentences:
-          - ancient: xxx
+          - ancient: 孤当续发人众，多载<资>粮，为卿后援。（《资治通鉴•汉纪五十七》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 成妻具<资>诣问。（《促织》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 既至秦，持千金之<资>币物，厚遗秦王宠臣中庶子蒙嘉。（《荆轲刺秦王》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷凭借的条件;依托的资本。
+        sentences:
+          - ancient: 荆州与国邻接，江山险固，沃野万里，士民殷富，若据而有之，此帝王之<资>也。（《资治通鉴•汉纪五十七》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸资历;声望。
+        sentences:
+          - ancient: （袁）绍凭世<资>，从容饰智，以收名誉。（《三国志•魏书•荀彧传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ④资质;禀赋。
+        sentences:
+          - ancient: （王）嘉<资>性邪僻。（《汉书•袭胜传》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 资
+    type: 【动词】
+    phonetic: Zi1
+    tags:
+      - 高中
+    samples:
+      - trans: ❶积蓄;储备。
+        sentences:
+          - ancient: 臣闻之，贾人夏则<资>皮，冬则<资>絺（chi1），旱则<资>舟，水则<资>车，以待乏也。（《勾践灭吴》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 嬴闻如姬父为人所杀，如姬<资>之三年，自王以下欲求报其父仇，莫能得。（《史记・魏公子列传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷供给;资助。
+        sentences:
+          - ancient: 于是<资>苏秦车马金帛以至赵。（《史记•苏秦列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 而其主不能守，此殆天所以<资>将军，将军岂有意乎？（《隆中对》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 连结一人之后交，不顾国家之大害，此所谓华"<资>怨而助祸"矣。（《史记•刺客列传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸凭借;依托。
+        sentences:
+          - ancient: 大哉乾元，万物<资>始。（《周易•乾卦》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "昔仲尼<资>大圣之才,怀帝王之器。（《三国志•魏书•文帝纪》）"
             url: xxxx
             vernacular: xxxx

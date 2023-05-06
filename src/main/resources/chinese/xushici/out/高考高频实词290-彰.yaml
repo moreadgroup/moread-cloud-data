@@ -1,13 +1,32 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 彰
+    type: 【动词】
+    phonetic: zhang1
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶显示;表明。
         sentences:
-          - ancient: xxx
+          - ancient: 若无兴德之言，则责（郭）攸之、（费）祎、（董）允等之博（懈怠），以<彰>其咎。（《出师表》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷表彰;表扬。
+        sentences:
+          - ancient: 然而不<彰>其功，不扬其声。（《淮南子•览冥训》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "今天动威以<彰>周公之德,惟朕小子其迎，我国家礼亦宜之。（《史记•鲁周公世家》）"
+            url: xxxx
+            vernacular: xxxx
+  - word: 彰
+    type: 【形容词】
+    phonetic: zhang1
+    tags:
+      - 高中
+    samples:
+      - trans: 明显;清楚。
+        sentences:
+          - ancient: 顺风而呼，声非加疾（大）也，而闻者<彰>。（《劝学》）
             url: xxxx
             vernacular: xxxx

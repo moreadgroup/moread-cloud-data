@@ -1,13 +1,51 @@
 ---
 words:
-  - word: xxxx
+  - word: 昭
     type: 【名词】
-    phonetic: xx1
+    phonetic: zhao1
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: "古代贵族宗庙排列的次序。始祖庙居中，以下按父子的辈分排为昭穆,昭居左，穆居右。"
         sentences:
-          - ancient: xxx
+          - ancient: 曹，文之<昭>也;晋，武之穆也。（《左传•定公四年》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 昭
+    type: 【动词】
+    phonetic: zhao1
+    tags:
+      - 高中
+    samples:
+      - trans: 显示;表明。
+        sentences:
+          - ancient: 若有作奸犯科及为忠善者，宜付有司论其刑赏，以<昭>陛下平明之理，不宜偏私（偏爱），使内外异法也。（《出师表》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 昭
+    type: 【形容词】
+    phonetic: zhao1
+    tags:
+      - 高中
+    samples:
+      - trans: ❶明显;显著。
+        sentences:
+          - ancient: 我有嘉宾，德音孔（很）<昭>。（《诗经•小雅•鹿鸣》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 译者曰，所以<昭>炯戒，激众愤，图报复也。（清•薛福成《观巴黎油画记》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷光明；明見。
+        sentences:
+          - ancient: 昊天孔<昭>，我生靡乐。（《诗经•大雅•抑》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 芳与泽其杂糅兮，唯<昭>质其犹未亏。（《离骚》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸明白。
+        sentences:
+          - ancient: 敢<昭>告于皇皇后帝。（《论语•尧曰》）
             url: xxxx
             vernacular: xxxx

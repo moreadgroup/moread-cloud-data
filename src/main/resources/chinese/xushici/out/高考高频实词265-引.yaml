@@ -1,13 +1,146 @@
 ---
 words:
-  - word: xxxx
+  - word: 引
     type: 【名词】
-    phonetic: xx1
+    phonetic: yin3
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶乐曲体裁名，也是乐府诗体的一种。如李贺有《李凭箜篌》等。
         sentences:
-          - ancient: xxx
+          - ancient: "故聆曲<引>者,观法于节奏。（汉•马融《长笛赋》）"
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷文体名，即序。
+        sentences:
+          - ancient: 敢竭鄙怀，恭疏短<引>，一言均赋，四韵俱成。（《滕王阁序》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 引
+    type: 【动词】
+    phonetic: yin3
+    tags:
+      - 高中
+    samples:
+      - trans: ❶拉弓。
+        sentences:
+          - ancient: 齐宣王好射，说（通""悦"）人之谓己能用强弓也。其尝所用不过三石，以示左右，左右皆试<引>之，中关而止。（《吕氏春秋•壅塞》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "林暗草惊风,将军夜<引>弓。（唐•卢纶《和张仆射塞下曲》）"
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷牵;拉;拽。
+        sentences:
+          - ancient: 左右或欲<引>相如去。（《廉颇蔺相如列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 已而相如出，望见廉颇，相如<引>车避匿。（《廉颇蔺相如列传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸引导;带领。
+        sentences:
+          - ancient: "秦王斋五曰后,乃设九宾礼于廷，<引>赵使者蔺相如。（《廉颇蔺相如列传》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 又有清流激湍，映带（围绕）左右，<引>以为流觞曲水（让酒杯漂在环形清流中，飘到谁面前谁就取来饮酒），列坐其次。（《兰亭集序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 武夫揭（分开）水指路，<引>毅以进。（《柳毅传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: （曹）操<引>军从年容道步走。（《资治通鉴•汉纪五十七》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 沛公<引>兵西，遇彭越昌邑，因与俱攻秦军，战不利。（《史记•高祖本纪》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 夜半时，胡兵亦以为汉有伏军于旁欲夜取之，胡皆<引>兵而去。（《史记・李将军列传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹避开;退避。
+        sentences:
+          - ancient: 语竟，<引>别东去。不数十步，回望女与羊，俱亡所见矣。（《柳毅传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 时（曹）操军众已有疾疫，初一交战，操军不利，<引>次江北。（《资治通鉴•汉纪五十七》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❺引用。
+        sentences:
+          - ancient: "子游<引>前言以距（通\"拒\",拒绝）孔子。（《论衡•问孔》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 乃<引>"天亡我，非用兵之罪也"，岂不谬哉！（《史记•项羽本纪》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❻举;拿。
+        sentences:
+          - ancient: "<引>壶觞以自酌，眄（mian3,斜视）庭柯（树枝）以怡颜。（《归去来兮辞＞）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 妻乃<引>刀趋机而言曰……（《后汉书•列女传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 荆轲废，乃<引>其匕首提秦王，不中，中柱。（《荆轲刺秦王》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❼召请;邀请。
+        sentences:
+          - ancient: 公子<引>侯生坐上坐，遍赞宾客，宾客皆惊。（《史记•魏公子列传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❽伸长。
+        sentences:
+          - ancient: 如有不嗜杀人者，则天下之民皆<引>领（脖子）而望之矣。（《孟子见梁襄王》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❾招引；招来。
+        sentences:
+          - ancient: "李怒……每得降卒,必亲<引>问委曲（事情的原委或底细），由是贼中险易远近虚实尽知之。"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 《资治通鉴•唐纪五十六》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 后迁侍中，帝<引>在帷幄，讽议左右。（《张衡传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❿延长;连续。
+        sentences:
+          - ancient: "每至晴初霜旦，林寒涧肃，常有高猿长啸，属（zhu3,连续）<引>凄异，空谷传响，哀转久绝。（《三峡》）"
+            url: xxxx
+            vernacular: xxxx
+      - trans: ⑪失去。
+        sentences:
+          - ancient: 是谓乱军<引>胜。（《孙子兵法•谋攻》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ⑫引进;荐举。
+        sentences:
+          - ancient: 奖<引>后进，如恐不及。（《宋史•欧阳修传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ⑬向上起。
+        sentences:
+          - ancient: "未至身，秦王惊，自<引>而起,绝袖。（《荆轲刺秦王》）"
+            url: xxxx
+            vernacular: xxxx
+      - trans: ⑭揭发;检举。
+        sentences:
+          - ancient: 虞常果<引>张胜。（《苏武传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ⑮退隐;隐藏。
+        sentences:
+          - ancient: 身直为闺阁之臣，宁得自<引>深藏于岩穴邪？（《报任安书》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ⑯自杀。
+        sentences:
+          - ancient: 予分当<引>决，然而隐忍以行。（《〈指南录〉后序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "至于鞭箠之间，乃欲<引>节,斯不亦远乎！（《报任安书》）"
             url: xxxx
             vernacular: xxxx

@@ -1,13 +1,35 @@
 ---
 words:
-  - word: xxxx
+  - word: 寓
     type: 【名词】
-    phonetic: xx1
+    phonetic: yu4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: 住所。
         sentences:
-          - ancient: xxx
+          - ancient: 时余方访君<寓>。（清•梁启超《谭嗣同》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 寓
+    type: 【动词】
+    phonetic: yu4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶寄居:临时居住。
+        sentences:
+          - ancient: 刘备天下枭雄，与（曹）操有隙，寄<寓>于（刘）表，表恶（wu4讨厌）其能而不能用也。（《资治通鉴•汉纪五+七》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <寓>逆旅（旅店），主人日再食，无鲜肥滋味之享。（《送东阳马生序》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷寄托。
+        sentences:
+          - ancient: "山水之乐,得之心而<寓>之酒也。（《醉翁亭记》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 已矣乎！<寓>形宇内复几时？曷不委心任去留？（《归去来兮辞》）
             url: xxxx
             vernacular: xxxx

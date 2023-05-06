@@ -1,13 +1,88 @@
 ---
 words:
-  - word: xxxx
+  - word: 卒
     type: 【名词】
-    phonetic: xx1
+    phonetic: zu2
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶步兵;士兵。
         sentences:
-          - ancient: xxx
+          - ancient: 比（等到）至陈，车六七百乘，骑千余，<卒>数万人。（《陈涉世家》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 夫以疲病之<卒>御狐疑之众，众数虽多，甚未。（《资治通鉴•汉纪五十七》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 良曰："料大王士<卒>足以当项王乎？"（《鸿门宴》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: "❷古代军队的编制,一百人为卒。"
+        sentences:
+          - ancient: 全<卒>为上，破<卒>次之。（《孙子兵法•谋攻》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸差役。
+        sentences:
+          - ancient: "禁<卒>居中央，牖（you3,在墙壁上开窗）其前以通明，屋极有窗以达气。（《狱中杂记》）"
+            url: xxxx
+            vernacular: xxxx
+  - word: 卒
+    type: 【动词】
+    phonetic: zu2
+    tags:
+      - 高中
+    samples:
+      - trans: ❶死。
+        sentences:
+          - ancient: 初，鲁肃闻刘表<卒>。（《资治通鉴•汉纪五十七》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 唐浮图慧褒始舍于其址，而<卒>葬之。（《游褒禅山记》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷终;尽;结束。
+        sentences:
+          - ancient: 人始于生而<卒>于死。（《韩非子•解老》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 愿陛下矜悯愚诚，听臣微志，庶刘侥幸，保<卒>余年。（《陈情表》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "磐石方且厚,可以<卒>千年;蒲苇一时纫，便作旦夕间。（《孔雀东南飞》）"
+            url: xxxx
+            vernacular: xxxx
+  - word: 卒
+    type: 【副词】
+    phonetic: zu2
+    tags:
+      - 高中
+    samples:
+      - trans: 最终。
+        sentences:
+          - ancient: 有贤士大夫发五十金，买五人之头而函之，<卒>与尸合。（《五人墓碑记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 盈虚者如彼，而<卒>莫消长也。（《赤壁赋》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "【高考题例】及当大事，殺然执持,人不能夺，<卒>以此忤权幸去。（《明史•傅珪传》）"
+            url: xxxx
+            vernacular: xxxx
+  - word: 卒
+    type: 【副词】
+    phonetic: cu4
+    tags:
+      - 高中
+    samples:
+      - trans: 通"猝"。突然;仓促。
+        sentences:
+          - ancient: <卒>然问曰:""天下恶乎定?"（《孟子见梁襄王》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 五万兵难<卒>合，已选三万人，船粮战具俱办。（《资治通鉴•汉纪五十七》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 群臣惊愕，<卒>起不意，尽失其度。（《荆轲刺秦王》）
             url: xxxx
             vernacular: xxxx

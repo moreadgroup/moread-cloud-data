@@ -1,13 +1,42 @@
 ---
 words:
-  - word: xxxx
+  - word: 舆
     type: 【名词】
-    phonetic: xx1
+    phonetic: yu2
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶车厢。泛指车。
         sentences:
-          - ancient: xxx
+          - ancient: 假（借助）<舆>马者，非利足（脚步快）也。（《劝学》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷抬人登山的用具。轿孚；
+        sentences:
+          - ancient: 乘肩<舆>，具威仪。（《晋书•王导传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸古代奴隶的一个等级。
+        sentences:
+          - ancient: "士臣皂，皂臣<舆>,<舆>臣隶，隶臣僚,僚臣仆，仆臣台。 （《左传•昭公七年》）"
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹地。
+        sentences:
+          - ancient: 漫漫方<舆>，回回洪覆。（晋•束皙《补亡诗》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 舆
+    type: 【动词】
+    phonetic: yu2
+    tags:
+      - 高中
+    samples:
+      - trans: 抬;举。
+        sentences:
+          - ancient: 武气绝，半日复息。惠等哭，<舆>归营。（《苏武传》）【形容词】众多。
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "近臣谏，远臣谤,<舆>人诵，以自诰也。（《国语•楚语上》）"
             url: xxxx
             vernacular: xxxx

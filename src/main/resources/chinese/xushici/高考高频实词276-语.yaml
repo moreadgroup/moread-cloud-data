@@ -29,7 +29,7 @@ words:
     samples:
       - trans: ❶和别人说话。
         sentences:
-          - ancient: 食不语，寝不言。（《论语•乡党》）
+          - ancient: 食不<语>，寝不言。（《论语•乡党》）
           - ancient: 小子无所畏，何敢助妇语！（《孔雀东南飞》）
           - ancient: 寻声暗问弹者谁？琵琶声停欲语迟。（《琵琶行》）
           - ancient: 夜久语声绝,如闻泣幽咽。（《石壕吏》）

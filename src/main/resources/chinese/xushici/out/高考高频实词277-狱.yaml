@@ -1,13 +1,32 @@
 ---
 words:
-  - word: xxxx
+  - word: 狱
     type: 【名词】
-    phonetic: xx1
+    phonetic: yu4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶案件;官司。
         sentences:
-          - ancient: xxx
+          - ancient: 小大之<狱>，虽不能察（弄清楚），必以情。（《曹刿论战》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 渫（xie4卑污）恶吏忍于鬻（yu4，卖）<狱>，无责也。（《狱中杂记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】一岁断<狱>，不过数十，威风猛于涣，而文理不及之。（《后汉书•王涣传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷监狱;牢房。
+        sentences:
+          - ancient: "见<狱>吏则头枪（qiang1,撞）地，视徒隶则心惕息（心惊胆战）。（《报任安苹》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 余在刑部<狱>，见死而由窦（洞）出者，日三四人。（《狱中杂记》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸罪状;过失。
+        sentences:
+          - ancient: 有某姓兄弟，以把持公仓，法应立决，<狱>具矣。（《狱中杂记》）
             url: xxxx
             vernacular: xxxx

@@ -1,13 +1,56 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 盈
+    type: 【动词】
+    phonetic: ying2
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶足够;充满。
         sentences:
-          - ancient: xxx
+          - ancient: 连峰去（距离）天不<盈>尺，枯松倒挂倚绝壁。（《蜀道难》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 市列珠玑，户<盈>罗绮，竞豪奢。（宋•柳永《望海潮》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "东篱把酒黄昏后,有暗香<盈>袖。（《醉花阴》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 携幼入室，有酒<盈>樽。（《归去来兮辞》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】自混亡，至是九载，而室宇修整，仓廩充<盈>。（《宋书•谢弘微传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷增长（与"亏""缩"相对）「
+        sentences:
+          - ancient: 进退<盈>缩，与时变化。（《史记•范睢蔡泽列传》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 盈
+    type: 【形容词】
+    phonetic: ying2
+    tags:
+      - 高中
+    samples:
+      - trans: ❶圆满。
+        sentences:
+          - ancient: "逝者如斯,而未尝往也;<盈>虚者如彼，而卒莫消长也。（《赤壁赋》）"
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷富裕。
+        sentences:
+          - ancient: 致求<盈>余。（《汉书•马援传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸自满。
+        sentences:
+          - ancient: 志骄<盈>而轻旧怨。（《荀子•仲尼》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹丰满。
+        sentences:
+          - ancient: "貌丰<盈>以庄姝（shu1,美丽）兮。（战国楚•宋玉《神女赋》）"
             url: xxxx
             vernacular: xxxx

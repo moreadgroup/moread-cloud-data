@@ -1,13 +1,111 @@
 ---
 words:
-  - word: xxxx
+  - word: 载
     type: 【名词】
-    phonetic: xx1
+    phonetic: zai4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶乘具;车船。
         sentences:
-          - ancient: xxx
+          - ancient: "郑穆公使视客馆,则束<载>、厉兵、秣马矣。（《左传・僖公三十三年》）"
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷装载的东西。
+        sentences:
+          - ancient: "盗求其橐（tuo2,—种口袋）中之<载>，则与之。（《吕氏春秋•必己》）"
+            url: xxxx
+            vernacular: xxxx
+  - word: 载
+    type: 【动词】
+    phonetic: zai4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶乘坐。
+        sentences:
+          - ancient: 使君谢罗敷："宁可共<载>不?"（《陌上桑》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 陆行<载>车，水行<载>舟，泥行蹈毳(cui4)，山行即桥。（《史记•河渠书》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 侯生摄敝衣冠，直上<载>公子上坐，不让，欲以观公子。（《史记•魏公子列传》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷（用车、船等）装载。
+        sentences:
+          - ancient: 黔无驴，有好事者船<载>以入。（《黔之驴》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 卿与子敬、程公便在前发，孤当续发人众，多<载>资粮，为卿后援。（《资治通鉴•汉纪五十七》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸承载。
+        sentences:
+          - ancient: <载>舟覆舟，所宜深慎。（《谏太宗十思疏》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹充满。
+        sentences:
+          - ancient: 厥声<载>路。（《诗经•大雅•生民》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 今我来思，雨雪<载>涂（道路）。（《诗经•小雅•出车》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❺开始。
+        sentences:
+          - ancient: 春日<载>阳。（《诗经•豳风•七月》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 载
+    type: 【助词】
+    phonetic: zai4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶动词词头，表示并列关系。
+        sentences:
+          - ancient: 既见复关，<载>笑<载>言。（《诗经•卫风•氓》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 乃瞻衡宇，<载>欣<载>奔。（《归去来兮辞》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷起加强语气的作用。
+        sentences:
+          - ancient: 忧心烈烈，<载>饥<载>渴。（《诗经•小雅•采薇》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 载
+    type: 【动词】
+    phonetic: zai3
+    tags:
+      - 高中
+    samples:
+      - trans: 记录;记载。
+        sentences:
+          - ancient: 丕视功<载>（意思是见有功者而记载之）。（《尚书・洛诰》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 今汉兴，海内一统，明主贤君忠臣死义之士，余为太史而弗论<载>，废天下之史文，余甚惧焉，汝其念哉！（《史记•太史公自序》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 载
+    type: 【量词】
+    phonetic: zai3
+    tags:
+      - 高中
+    samples:
+      - trans: 时间单位，年。
+        sentences:
+          - ancient: 自去（离开）史职，五<载>复还。（《张衡传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 出师一表真名世，千<载>谁堪伯仲间！（宋•陆游《书愤》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 千<载>琵琶作胡语，分明怨恨曲中论。（唐•杜甫《咏怀古迹•其三》）
             url: xxxx
             vernacular: xxxx

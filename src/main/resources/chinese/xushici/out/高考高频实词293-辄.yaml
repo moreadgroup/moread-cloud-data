@@ -1,13 +1,44 @@
 ---
 words:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
+  - word: 辄
+    type: 【副词】
+    phonetic: zhe4
     tags:
       - 高中
     samples:
-      - trans: ❶xxxx
+      - trans: ❶擅自；独断专行。
         sentences:
-          - ancient: xxx
+          - ancient: "夫姬氏爵乃诸侯,而<辄>行征伐。（《史通•疑古》）"
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❷总是;常常。
+        sentences:
+          - ancient: 每责一头，<辄>倾数家之产。（《促织》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 衡不慕当世，所居之官<辄>积年不。（《张衡传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 广廉，得赏赐<辄>分其麾下，饮食与士共之。（《史记•李将军列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "大王起微细,诛暴逆，平定四海，有功者<辄>裂地而封为王侯。（《史记・高祖本纪》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "【高考题例】民思其德，为立祠安阳亭西,每食<辄>弦歌而荐之。（《后汉书•王涣传》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "家居，非事未尝入州城。语及时事,<辄>颦蹙不答。（《明史•马文升传》）"
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸立即;就。
+        sentences:
+          - ancient: 喜而捕之，一鸣<辄>跃去，行且速。（《促织》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 去<辄>烧绝栈道，以备诸侯盗兵袭之，亦示项羽无东意。（《史记•高祖本纪》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "【高考题例】后青州大蝗，侵入平原界<辄>死，岁屡有年,百姓歌\"之。（《后汉书•赵惠传》）"
             url: xxxx
             vernacular: xxxx
