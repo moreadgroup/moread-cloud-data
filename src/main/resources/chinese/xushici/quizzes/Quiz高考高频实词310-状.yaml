@@ -1,9 +1,107 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 状
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: zhuang4
+    trans: ❶形状;样子。
+    ancient: "居右者椎髻仰面,左手倚一横木，右手攀右趾，若啸呼<状>。（《核舟记》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 状
+    type: 【名词】
+    phonetic: zhuang4
+    trans: ❶形状;样子。
+    ancient: 以筒水灌之，始出，<状>极俊健。（《促织》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 状
+    type: 【名词】
+    phonetic: zhuang4
+    trans: ❶形状;样子。
+    ancient: 吕公者，好相人，见高祖<状>貌，因重敬之，引入坐。（《史记•高祖本纪》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 状
+    type: 【名词】
+    phonetic: zhuang4
+    trans: ❷景色;景象。
+    ancient: "予观夫巴陵胜（优美）<状>,在洞庭一湖。（《岳阳楼记》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 状
+    type: 【名词】
+    phonetic: zhuang4
+    trans: ❷景色;景象。
+    ancient: 大孤<状>类西梁。（《过小孤山大孤山》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 状
+    type: 【名词】
+    phonetic: zhuang4
+    trans: ❸好的样子。有时意谓礼貌。
+    ancient: "行视鲧之治水无<状>,乃殛（ji2,诛杀）鲧于羽山以死。（《史记•夏本纪》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 状
+    type: 【名词】
+    phonetic: zhuang4
+    trans: ❸好的样子。有时意谓礼貌。
+    ancient: 诸侯吏卒异时（过去）故徭使屯戍过秦中，秦中吏卒遇之多无<状>。（《吏适•项羽本纪》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 状
+    type: 【名词】
+    phonetic: zhuang4
+    trans: ❸好的样子。有时意谓礼貌。
+    ancient: "【高考题例】贾生自伤为傅无<状>，哭泣岁余,亦死。（《史记•屈原贾生列传》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 状
+    type: 【名词】
+    phonetic: zhuang4
+    trans: ❹情形;情况。
+    ancient: 单于使卫律治其事，张胜闻之，恐前语发，以<状>语武。（《苏武传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 状
+    type: 【名词】
+    phonetic: zhuang4
+    trans: ❹情形;情况。
+    ancient: 行过夷门，见侯生，具告所以欲死秦军<状>。（《史记•魏公子列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 状
+    type: 【名词】
+    phonetic: zhuang4
+    trans: ❹情形;情况。
+    ancient: 【高考题例】上因感鬼神事，而问鬼神之本。贾生因具道所以然之<状>。（《史记•屈原贾生列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 状
+    type: 【名词】
+    phonetic: zhuang4
+    trans: ❺文体的一种，用于下对上叙事或申诉的文件。
+    ancient: 太尉自州以<状>白（报告）府。（唐•柳宗元《段太尉逸事状》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 状
+    type: 【名词】
+    phonetic: zhuang4
+    trans: ❺文体的一种，用于下对上叙事或申诉的文件。
+    ancient: "故例，谪戍者移顺天府羁候，时方冬停遣，李具<状>求在狱候春发遣,至再三，不得所请，怅然而出。（《狱中杂记》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 状
+    type: 【动词】
+    phonetic: zhuang4
+    trans: ❶陈述;描绘。
+    ancient: 先生不平，具<状>其囊狼怜惜之意。（《中山狼传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 状
+    type: 【动词】
+    phonetic: zhuang4
+    trans: ❷表示一种揣测，犹言"看样子""看来"。
+    ancient: <状>河伯留客之久，若皆罢去归矣。（汉•褚少孙《西门豹治邺》）
     url: xxxx
     vernacular: xxxx

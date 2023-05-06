@@ -1,9 +1,149 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 异
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: yi4
+    trans: 奇特之处。
+    ancient: 成述其<异>。（《促织》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 异
+    type: 【动词】
+    phonetic: yi4
+    trans: ❶分开。
+    ancient: 其兄弟本来<异>居曾经分析（分开）者，不在此限。（《旧唐书•食货志上》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 异
+    type: 【动词】
+    phonetic: yi4
+    trans: ❶分开。
+    ancient: 假令仆伏法受诛，若九牛亡一毛，与蜷蚁何以<异>？（《报任安书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 异
+    type: 【动词】
+    phonetic: yi4
+    trans: ❷惊奇;诧异。
+    ancient: 今年九月二十八日，因坐法华西亭，望西山，始指<异>之。（《始得西山宴游记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 异
+    type: 【动词】
+    phonetic: yi4
+    trans: ❷惊奇;诧异。
+    ancient: 渔人甚<异>之，复前行，欲穷其林。（《桃花源记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 异
+    type: 【动词】
+    phonetic: yi4
+    trans: ❷惊奇;诧异。
+    ancient: 父<异>然，借旁近与之。（《伤仲永》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 异
+    type: 【动词】
+    phonetic: yi4
+    trans: ❷惊奇;诧异。
+    ancient: 【高考题例】所继叔父混名知人，见而<异>之。（《宋书•谢弘微传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 异
+    type: 【动词】
+    phonetic: yi4
+    trans: ❸变化。
+    ancient: "然而成败<异>变，功业相反,何也？（《过秦论》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 异
+    type: 【动词】
+    phonetic: yi4
+    trans: ❸变化。
+    ancient: 仁义不施而攻守之势<异>也。（《过秦论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 异
+    type: 【形容词】
+    phonetic: yi4
+    trans: ❶不同；差别。
+    ancient: 不宜偏私，使内外<异>法也。（《出师表》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 异
+    type: 【形容词】
+    phonetic: yi4
+    trans: ❶不同；差别。
+    ancient: 而议事每不合，所操之术多<异>故也。（宋•王安石《答司马谏议书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 异
+    type: 【形容词】
+    phonetic: yi4
+    trans: ❶不同；差别。
+    ancient: "是（这）何<异>于刺人而杀之曰\"非我也，兵也\"？（《寡人之于,国也》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 异
+    type: 【形容词】
+    phonetic: yi4
+    trans: ❶不同；差别。
+    ancient: 人固有一死，或重于泰山，或轻于鸿毛，用之所趋<异>也。（《报任安书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 异
+    type: 【形容词】
+    phonetic: yi4
+    trans: ❶不同；差别。
+    ancient: "【高考题例】东西<异>路，不当与,然安忍于旧治坐视？（《宋史・萧燧传》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 异
+    type: 【形容词】
+    phonetic: yi4
+    trans: ❷奇特;特殊。
+    ancient: 太后笑曰：""妇人<异>甚！"（《触龙说赵太后》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 异
+    type: 【形容词】
+    phonetic: yi4
+    trans: ❷奇特;特殊。
+    ancient: 永州之野产<异>蛇，黑质（质地）而白章（花纹）。（《捕蛇者说》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 异
+    type: 【形容词】
+    phonetic: yi4
+    trans: ❷奇特;特殊。
+    ancient: 以为凡是州之山水有<异>态者，旨我有也，而未始知西山之怪特。（《始得西山宴游记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 异
+    type: 【形容词】
+    phonetic: yi4
+    trans: ❸优异;杰出。
+    ancient: "无何,宰以卓<异>闻。（《促织》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 异
+    type: 【形容词】
+    phonetic: yi4
+    trans: ❹别的;另外的。
+    ancient: ，<异>时（他日）倘得脱颖而出，先生之恩，生死而肉骨也，敢不努力以效龟蛇之诚？（《中山狼传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 异
+    type: 【形容词】
+    phonetic: yi4
+    trans: ❹别的;另外的。
+    ancient: "欲以树艺佐其急,且备<异>日也。（明•徐光启《甘薯疏序》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 异
+    type: 【形容词】
+    phonetic: yi4
+    trans: ❹别的;另外的。
+    ancient: "<异>日图将好景,归去凤池夸。（宋•柳永《望海潮》）"
     url: xxxx
     vernacular: xxxx

@@ -1,9 +1,58 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 祖
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: zu3
+    trans: ❶祖庙。
+    ancient: 正月上日，受终于文<祖>。（《尚书•舜典》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 祖
+    type: 【名词】
+    phonetic: zu3
+    trans: ❷祖先;特指祖父。
+    ancient: 吾<祖>死于是，吾父死于是。（《捕蛇者说》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 祖
+    type: 【名词】
+    phonetic: zu3
+    trans: ❷祖先;特指祖父。
+    ancient: 思厥先<祖>父，暴霜露，斩荆棘，以有尺寸之地。（《六国论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 祖
+    type: 【名词】
+    phonetic: zu3
+    trans: ❷祖先;特指祖父。
+    ancient: 此吾<祖>太常公宣德间执此以朝，他日汝当用之！（《项脊轩志》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 祖
+    type: 【名词】
+    phonetic: zu3
+    trans: ❸宗派或事业的首创者。
+    ancient: 前年幵阁放柳枝，今年洗心参佛<祖>。（宋•苏轼《和蔡景繁海州石室》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 祖
+    type: 【名词】
+    phonetic: zu3
+    trans: ❹起初;产生之前。
+    ancient: 浮游乎万物之<祖>。（《庄子•山木》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 祖
+    type: 【动词】
+    phonetic: zu3
+    trans: ❶效法;模仿。
+    ancient: "然皆<祖>屈原之从容辞令,终莫敢直谏。（《史记•屈原贾生列传》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 祖
+    type: 【动词】
+    phonetic: zu3
+    trans: ❷指出行之前祭祀路神。
+    ancient: 至易水上，既<祖>，取道。（《战国策•燕策三》）
     url: xxxx
     vernacular: xxxx

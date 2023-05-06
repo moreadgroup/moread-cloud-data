@@ -8,11 +8,14 @@ words:
     samples:
       - trans: ❶待遇。
         sentences:
-          - ancient: 然侍卫之臣不懈于内，忠志之士忘身于外者，盖追先帝之殊遇，欲报之于陛下也。（《出师表》）
+          - ancient: 然侍卫之臣不懈于内，忠志之士忘身于外者，盖追先帝之殊<遇>，欲报之于陛下也。（《出师表》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷机会;际遇。
         sentences:
           - ancient: 而五人亦得以加其土封（指坟墓），列其姓名于大堤之上，凡四方之士无有不过而拜且泣者，斯固百世之<遇>（百代难得的际遇）也。（《五人墓碑记》）
-
+            url: xxxx
+            vernacular: xxxx
   - word: 遇
     type: 【动词】
     phonetic: yu4
@@ -21,27 +24,49 @@ words:
     samples:
       - trans: ❶相逢。
         sentences:
-          - ancient: 进，与（曹）操遇于赤壁。（《资治通鉴•汉纪五十七》）
-          - ancient: 当其欣于所遇，暂得于己，快然自足,不知老之将至。（《兰亭集序》）
-          - ancient: 杨意不逢，抚凌云而自惜;钟期既遇，奏流水以何惭？（《滕王阁序》）
+          - ancient: 进，与（曹）操<遇>于赤壁。（《资治通鉴•汉纪五十七》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "当其欣于所<遇>，暂得于己，快然自足,不知老之将至。（《兰亭集序》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 杨意不逢，抚凌云而自惜;钟期既<遇>，奏流水以何惭？（《滕王阁序》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷遭遇;遇到。
         sentences:
-          - ancient: 公等遇雨，皆已失期，失期当斩。（《陈涉世家》）
-          - ancient: 或遇其叱咄，色愈恭,礼愈至，不敢出一言以复;俟其欣悦，则又请焉。（《送东阳马生序》）
-          - ancient: 仆以口语遇遭此祸，重为乡党所笑，以污辱先人，亦何面目复上父母之丘墓乎？（《报任安书》）
+          - ancient: 公等<遇>雨，皆已失期，失期当斩。（《陈涉世家》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "或<遇>其叱咄，色愈恭,礼愈至，不敢出一言以复;俟其欣悦，则又请焉。（《送东阳马生序》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 仆以口语<遇>遭此祸，重为乡党所笑，以污辱先人，亦何面目复上父母之丘墓乎？（《报任安书》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸会见;见面。
         sentences:
-          - ancient: 度（估计）道里会遇之礼毕，还，不过三十日。（《廉颇蔺相如列传》）
+          - ancient: 度（估计）道里会<遇>之礼毕，还，不过三十日。（《廉颇蔺相如列传》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❹接触;感触。
         sentences:
-          - ancient: 方今之时，臣以神遇而不以目视，官（感觉器官）知止而神欲行。（《庄子•养生主》）
-
+          - ancient: 方今之时，臣以神<遇>而不以目视，官（感觉器官）知止而神欲行。（《庄子•养生主》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❺对待;招待。
         sentences:
-          - ancient: 秦之遇将军，可谓深矣。父母宗族，皆为戮没。（《荆轲刺秦王》）
-          - ancient: 今人有大功而击之，不义也。不如因善遇之。（《鸿门宴》）
-          - ancient: 不如因而厚遇之，使归赵。（《廉颇蔺相如列传》）
+          - ancient: 秦之<遇>将军，可谓深矣。父母宗族，皆为戮没。（《荆轲刺秦王》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 今人有大功而击之，不义也。不如因善<遇>之。（《鸿门宴》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 不如因而厚<遇>之，使归赵。（《廉颇蔺相如列传》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❻遇合;得到君主的赏识、信任。
         sentences:
-          - ancient: 垂老遇君未恨晚，似君须向古人求。（唐•杜甫《相从歌赠严二别驾》）
-
+          - ancient: 垂老<遇>君未恨晚，似君须向古人求。（唐•杜甫《相从歌赠严二别驾》）
+            url: xxxx
+            vernacular: xxxx

@@ -1,9 +1,135 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 意
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: yi4
+    trans: ❶心意;意图。
+    ancient: 醉翁之<意>不在酒，在乎山水之间也。（《醉翁亭记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 意
+    type: 【名词】
+    phonetic: yi4
+    trans: ❶心意;意图。
+    ancient: 少间，帘内掷一纸出，即道人<意>中事，无毫发爽。（《促织》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 意
+    type: 【名词】
+    phonetic: yi4
+    trans: ❶心意;意图。
+    ancient: 囊括四海之<意>，并吞八荒之心。（《过秦论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 意
+    type: 【名词】
+    phonetic: yi4
+    trans: ❶心意;意图。
+    ancient: 今者项庄拔剑舞，其<意>常在沛公也。（《鸿门宴》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 意
+    type: 【名词】
+    phonetic: yi4
+    trans: ❷意思;意义。
+    ancient: 书不尽言，言不尽<意>。（《周易•系辞下》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 意
+    type: 【名词】
+    phonetic: yi4
+    trans: ❷意思;意义。
+    ancient: 则其<意>深长矣。（清•薛福成《观巴黎油画记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 意
+    type: 【名词】
+    phonetic: yi4
+    trans: ❸情意;情态。
+    ancient: 然五人之当刑也，<意>气扬扬，呼中丞之名而詈之，谈笑以死。（《五人墓碑记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 意
+    type: 【名词】
+    phonetic: yi4
+    trans: ❸情意;情态。
+    ancient: 久之，目似瞑，<意>暇甚。（《狼》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 意
+    type: 【名词】
+    phonetic: yi4
+    trans: ❸情意;情态。
+    ancient: "或叩（询问）以往事,一一详述之，<意>色扬扬，若自矜诩。（《狱中杂记》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 意
+    type: 【名词】
+    phonetic: yi4
+    trans: ❸情意;情态。
+    ancient: "樊将军以穷困来归丹，丹不忍以己之私,而伤长者之<意>，愿足下更虑之！（《荆轲刺秦王》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 意
+    type: 【名词】
+    phonetic: yi4
+    trans: ❸情意;情态。
+    ancient: 眼底空留<意>，寻思起就里，险化做望夫石。（《长亭送别》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 意
+    type: 【名词】
+    phonetic: yi4
+    trans: ❹意愿;想法。
+    ancient: 我有亲父兄，性行暴如雷，恐不任我<意>，逆以煎我怀。（《孔雀东南飞））
+    url: xxxx
+    vernacular: xxxx
+  - word: 意
+    type: 【名词】
+    phonetic: yi4
+    trans: ❹意愿;想法。
+    ancient: 日以尽矣，荆卿岂无<意>哉？（《荆轲刺秦王》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 意
+    type: 【动词】
+    phonetic: yi4
+    trans: ❶意料;料想。
+    ancient: 臣与将军戮力而攻秦，将军战河北，臣战河南，然不自<意>能先入关破秦，得复见将军于此。（《鸿门宴》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 意
+    type: 【动词】
+    phonetic: yi4
+    trans: ❶意料;料想。
+    ancient: 群臣惊愕，卒起不<意>，尽失其度。（《荆轲刺秦王》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 意
+    type: 【动词】
+    phonetic: yi4
+    trans: ❶意料;料想。
+    ancient: "国事至此,予不得爱身；<意>北亦尚可以口舌动也。（《〈指南录〉后序》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 意
+    type: 【动词】
+    phonetic: yi4
+    trans: ❶意料;料想。
+    ancient: 诚不自<意>返吾衣冠，重见日月，使旦夕得正丘首，复何憾哉！（《〈指南录〉后序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 意
+    type: 【动词】
+    phonetic: yi4
+    trans: ❷猜测;怀疑。
+    ancient: 臣闻君子善谋，小人善<意>，臣窃<意>之也。（《吕氏春秋•重言》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 意
+    type: 【连词】
+    phonetic: yi4
+    trans: 通"抑"。或者;还是。
+    ancient: 不识世无明君乎，<意>先生之道固不通乎？（《说苑•善说》）
     url: xxxx
     vernacular: xxxx

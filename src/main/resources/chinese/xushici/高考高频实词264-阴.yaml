@@ -8,25 +8,42 @@ words:
     samples:
       - trans: ❶山的北面;水的南面（与"阳"相对）。
         sentences:
-          - ancient: 吾与汝毕力平险，指通豫南，达于汉阴，可乎？（《愚公移山》）
-          - ancient: 泰山之阳，汶水西流；其阴，济水东流。（《登泰山记》）
+          - ancient: 吾与汝毕力平险，指通豫南，达于汉<阴>，可乎？（《愚公移山》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 泰山之阳，汶水西流；其<阴>，济水东流。（《登泰山记》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷古代哲学术语之一（与"阳"相对）。
         sentences:
-          - ancient: 一阴一阳之谓道。（《周易•系辞上》）
-          - ancient: 衡善机巧,尤致思于天文阴阳历算。（《张衡传》）
+          - ancient: 一<阴>一阳之谓道。（《周易•系辞上》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "衡善机巧,尤致思于天文<阴>阳历算。（《张衡传》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸阴影;树荫。
         sentences:
-          - ancient: 故审堂下之阴，而知日月之行。（《吕氏春秋•察今》）
-          - ancient: 最爱湖东行不足（不满足），绿杨阴里白沙堤。（唐•白居易《钱塘湖春行》,）
+          - ancient: 故审堂下之<阴>，而知日月之行。（《吕氏春秋•察今》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "最爱湖东行不足（不满足），绿杨<阴>里白沙堤。（唐•白居易《钱塘湖春行》,）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❹时间;光阴。
         sentences:
           - ancient: 大禹圣人，乃惜寸<阴>，至于众人，当惜分<阴>。（《资治通鉴•晋纪十五》）
-          - ancient: 夫天地者万物之逆旅也;光阴者百代之过客也。（唐•李白《春夜宴从弟桃花园序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 夫天地者万物之逆旅也;光<阴>者百代之过客也。（唐•李白《春夜宴从弟桃花园序》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❺关于死人或鬼神的事。如阴间、阴司等。
       - trans: ❻指男女生殖器。
         sentences:
-          - ancient: 乃私求大阴人嫪毐（ai3）以为舍人。（《史记•吕不韦列传》）
-
+          - ancient: 乃私求大<阴>人嫪毐（ai3）以为舍人。（《史记•吕不韦列传》）
+            url: xxxx
+            vernacular: xxxx
   - word: 阴
     type: 【形容词】
     phonetic: yin1
@@ -35,17 +52,27 @@ words:
     samples:
       - trans: ❶阴天;不见阳光。
         sentences:
-          - ancient: 春不得避风尘，夏不得避暑热,秋不得避阴雨，冬不得避寒冻，四时之间，亡日休息。（汉•晁错《论贵粟疏》）
-          - ancient: 衔（包含）远山，吞长江，浩浩汤汤，横无际涯，朝晖夕阴，气豪万千。（《岳阳楼记》）
+          - ancient: "春不得避风尘，夏不得避暑热,秋不得避<阴>雨，冬不得避寒冻，四时之间，亡日休息。（汉•晁错《论贵粟疏》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 衔（包含）远山，吞长江，浩浩汤汤，横无际涯，朝晖夕<阴>，气豪万千。（《岳阳楼记》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷阴暗;寒冷。
         sentences:
-          - ancient: 阴风怒号，浊浪排空。（《岳阳楼记》）
+          - ancient: <阴>风怒号，浊浪排空。（《岳阳楼记》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸阴险。
         sentences:
-          - ancient: 性阴密，忍（性情残忍）诛杀，不见喜怒。（《新唐书•李林甫传》）,
+          - ancient: "性<阴>密，忍（性情残忍）诛杀，不见喜怒。（《新唐书•李林甫传》）,"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❹器物或印章上凹下的（文字）。
         sentences:
-          - ancient: 盖阴识（古器物上刻铸的文字）难铸，阳识易为。（明•陶宗仪《南村辍耕录》卷十七）
+          - ancient: 盖<阴>识（古器物上刻铸的文字）难铸，阳识易为。（明•陶宗仪《南村辍耕录》卷十七）
+            url: xxxx
+            vernacular: xxxx
   - word: 阴
     type: 【副词】
     phonetic: yin1
@@ -54,7 +81,15 @@ words:
     samples:
       - trans: 秘密地;隐密地。
         sentences:
-          - ancient: （张）衡下车（官吏初到任），治威严，整法度，阴知奸党名姓，一时收禽（通"擒"），上下肃然，称为政理。（《张衡传》）
-          - ancient: 后随浞野侯没胡中，及卫律所将降者，阴相与谋劫单于母阕氏归汉。（《苏武传》）
-          - ancient: 【高考题例】初荐王安石，及同辅政，知上方向之，阴为子孙计，凡更张庶事，一切听顺，而外若不与之者。（《宋史•曾公亮传》）
-          - ancient: 登云谓议不早决,由贵妃家阴沮（阻挠）之。（《明史•陈登云传》）
+          - ancient: （张）衡下车（官吏初到任），治威严，整法度，<阴>知奸党名姓，一时收禽（通"擒"），上下肃然，称为政理。（《张衡传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 后随浞野侯没胡中，及卫律所将降者，<阴>相与谋劫单于母阕氏归汉。（《苏武传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】初荐王安石，及同辅政，知上方向之，<阴>为子孙计，凡更张庶事，一切听顺，而外若不与之者。（《宋史•曾公亮传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "登云谓议不早决,由贵妃家<阴>沮（阻挠）之。（《明史•陈登云传》）"
+            url: xxxx
+            vernacular: xxxx

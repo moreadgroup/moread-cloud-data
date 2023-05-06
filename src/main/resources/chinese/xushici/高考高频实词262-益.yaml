@@ -8,40 +8,66 @@ words:
     samples:
       - trans: ❶益处;好处。
         sentences:
-          - ancient: 满招损，谦受益。（《尚书•大禹谟》）
-          - ancient: 愚以为宫中之事，事无大小，悉（都）以咨之，然后施行，必能裨补阙漏,有所广益。（《出席表》）
-          - ancient: 若亡郑而有益于君,敢以烦执事。（《烛之武退秦师》）
-          - ancient: 今虽欲自雕琢，曼辞以自饰，无益，于俗不信，适足取辱耳。（《报任安书》）
+          - ancient: 满招损，谦受<益>。（《尚书•大禹谟》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "愚以为宫中之事，事无大小，悉（都）以咨之，然后施行，必能裨补阙漏,有所广<益>。（《出席表》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "若亡郑而有<益>于君,敢以烦执事。（《烛之武退秦师》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 今虽欲自雕琢，曼辞以自饰，无<益>，于俗不信，适足取辱耳。（《报任安书》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷古代益州的简称，在今四川省境内。
         sentences:
-          - ancient: 若跨有荆、益，保其岩阻（指形势险要的地方）……（《隆中对》）
-          - ancient: 雍益二州。（晋•孙楚《为石仲容与孙皓书》）
-      - trans: ❸六十四卦之一,卦形为震下巽上。
+          - ancient: 若跨有荆、<益>，保其岩阻（指形势险要的地方）……（《隆中对》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 雍<益>二州。（晋•孙楚《为石仲容与孙皓书》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: "❸六十四卦之一,卦形为震下巽上。"
         sentences:
           - ancient: <益>，利有攸往。（《周易•益卦》）
-
+            url: xxxx
+            vernacular: xxxx
   - word: 益
     type: 【动词】
     phonetic: yi4
     tags:
       - 高中
     samples:
-      - trans: ❶"溢"的本字，水溢出来,引申为水涨。
+      - trans: "❶\"溢\"的本字，水溢出来,引申为水涨。"
         sentences:
-          - ancient: 滩水暴益，荆人弗知，循表（标志）而夜涉，溺死者千有余人，军惊而坏都舍。（《吕氏暮秋•察今》）
+          - ancient: 滩水暴<益>，荆人弗知，循表（标志）而夜涉，溺死者千有余人，军惊而坏都舍。（《吕氏暮秋•察今》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷增加;增补。
         sentences:
-          - ancient: 先王之法，经乎上世而来者也，人或益之，人或损之,胡可得而法？（《吕氏春秋•察今》）
-          - ancient: 至于斟酌损益，进尽忠言，则（郭）攸之、（费）祎、（董）允之任也。（《出师表》）
-          - ancient: 所以动心忍性，曾益其所不能。（《生于忧患，死于安乐》）
-          - ancient: 孔子学鼓琴师襄子，十日不进。师襄子曰："可以益矣。"（《史记•孔子世家》）
+          - ancient: "先王之法，经乎上世而来者也，人或<益>之，人或损之,胡可得而法？（《吕氏春秋•察今》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 至于斟酌损<益>，进尽忠言，则（郭）攸之、（费）祎、（董）允之任也。（《出师表》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 所以动心忍性，曾<益>其所不能。（《生于忧患，死于安乐》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 孔子学鼓琴师襄子，十日不进。师襄子曰："可以<益>矣。"（《史记•孔子世家》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸得到利益。
         sentences:
-          - ancient: 其志足，天下益之。（《商君书•画策》）
+          - ancient: 其志足，天下<益>之。（《商君书•画策》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❹助;有助于。
         sentences:
-          - ancient: 为人臣者，宠有孝弟长幼顺明之节,通有补民益主之业，此两者臣之分也。（《史记•赵世家》）
-
+          - ancient: "为人臣者，宠有孝弟长幼顺明之节,通有补民<益>主之业，此两者臣之分也。（《史记•赵世家》）"
+            url: xxxx
+            vernacular: xxxx
   - word: 益
     type: 【形容词】
     phonetic: yi4
@@ -50,8 +76,9 @@ words:
     samples:
       - trans: 富裕;富足。
         sentences:
-          - ancient: 其友皆孝悌（ti4,敬爱、顺从兄长）纯谨畏令，如此者,其家必日益。（《吕氏春秋•贵当》）
-
+          - ancient: "其友皆孝悌（ti4,敬爱、顺从兄长）纯谨畏令，如此者,其家必日<益>。（《吕氏春秋•贵当》）"
+            url: xxxx
+            vernacular: xxxx
   - word: 益
     type: 【副词】
     phonetic: yi4
@@ -60,17 +87,35 @@ words:
     samples:
       - trans: ❶更;越发。
         sentences:
-          - ancient: 老当<益>壮，宁移白首之心？穷（处境艰难）且<益>坚,不坠青云之志。（《滕王阁序》）
-          - ancient: 单于益骄，非汉所望也。（《苏武传》）
-          - ancient: 律知武终不可胁，白单于。单于愈益欲降之。（《苏武传》）
+          - ancient: "老当<益>壮，宁移白首之心？穷（处境艰难）且<益>坚,不坠青云之志。（《滕王阁序》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 单于<益>骄，非汉所望也。（《苏武传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 律知武终不可胁，白单于。单于愈<益>欲降之。（《苏武传》）
+            url: xxxx
+            vernacular: xxxx
           - ancient: 是故圣<益>圣，愚<益>愚。（《师说》）
-          - ancient: 既加冠，益慕圣贤之道。（《送东阳马生序》）
-          - ancient: 【高考题例】极陈时弊十事，语多斥权幸，权幸益深嫉之。（《明史•傅珪传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 既加冠，<益>慕圣贤之道。（《送东阳马生序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】极陈时弊十事，语多斥权幸，权幸<益>深嫉之。（《明史•傅珪传》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷渐渐;逐渐。
         sentences:
-          - ancient: 日三四里，少益嗜食，和（舒适）于身也。（《触龙说赵太后》）
-          - ancient: 益习其声，又近出前后，终不敢搏。（《黔之驴》）
-          - ancient: 武益愈，单于使使晓武，会论虞常，欲因（趁着）此时降武。（《苏武传》）
-          - ancient: 稍益近之,高渐离乃以铅置筑中，复进得近，举筑朴秦皇帝,不中。（《史记•刺客列传》）
-
-
+          - ancient: 日三四里，少<益>嗜食，和（舒适）于身也。（《触龙说赵太后》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <益>习其声，又近出前后，终不敢搏。（《黔之驴》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 武<益>愈，单于使使晓武，会论虞常，欲因（趁着）此时降武。（《苏武传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "稍<益>近之,高渐离乃以铅置筑中，复进得近，举筑朴秦皇帝,不中。（《史记•刺客列传》）"
+            url: xxxx
+            vernacular: xxxx

@@ -1,9 +1,163 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 要
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: yao1
+    trans: “腰”的本字。
+    ancient: 量<要>而带之。（《荀子•礼论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 要
+    type: 【名词】
+    phonetic: yao1
+    trans: “腰”的本字。
+    ancient: 初，赵盾在时，梦见叔带持<要>而哭，甚悲；已而笑，拊手且歌。（《史记•赵世家》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 要
+    type: 【动词】
+    phonetic: yao1
+    trans: ❶通"邀"。中途拦截。
+    ancient: 吴人<要>而击之。（《左传•襄公三年》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 要
+    type: 【动词】
+    phonetic: yao1
+    trans: ❷通"邀"。邀请;约请。
+    ancient: 张良出，<要>项伯。（《鸿门宴》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 要
+    type: 【动词】
+    phonetic: yao1
+    trans: ❷通"邀"。邀请;约请。
+    ancient: 便<要>还家，设酒杀鸡作食。（《桃花源记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 要
+    type: 【动词】
+    phonetic: yao1
+    trans: ❸约束。
+    ancient: 夫盟，信之<要>也。（《国语•鲁语下》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 要
+    type: 【动词】
+    phonetic: yao1
+    trans: ❹相约;约定。
+    ancient: 虽与府吏<要>，渠会（和他相会）永无缘。（《孔雀东南飞》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 要
+    type: 【动词】
+    phonetic: yao1
+    trans: ❺威胁;要挟。
+    ancient: 夫仲达（司马懿）以所能<要>其君。（宋•陈亮《诸葛一孔明》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 要
+    type: 【动词】
+    phonetic: yao1
+    trans: ❺威胁;要挟。
+    ancient: 惟打皮（死刑）无可<要>，然犹质（扣留头颅，当作抵押）其首。（《狱中杂记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 要
+    type: 【动词】
+    phonetic: yao1
+    trans: ❻求取。
+    ancient: 今之人修其天爵，以<要>人爵。（《孟子•告子上》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 要
+    type: 【动词】
+    phonetic: yao1
+    trans: ❼制止。
+    ancient: 皇太后固<要>帝，帝乃止。（《史记•孝文本纪》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 要
+    type: 【动词】
+    phonetic: yao1
+    trans: ❽核实。
+    ancient: 异其死刑之罪而<要>之。（《周礼•秋官•乡士》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 要
+    type: 【名词】
+    phonetic: yao4
+    trans: 关键;要领。
+    ancient: 事在四方，<要>在中央。（《韩非子•扬权》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 要
+    type: 【动词】
+    phonetic: yao4
+    trans: ❶概括;总结。
+    ancient: "<要>之,死日然后是非乃定。（《报任安书》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 要
+    type: 【动词】
+    phonetic: yao4
+    trans: ❷必须;需要。
+    ancient: 凡先王之法，有<要>于时也。（《吕氏春秋•察今》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 要
+    type: 【动词】
+    phonetic: yao4
+    trans: ❷必须;需要。
+    ancient: 天子遍教词客赋，宫中<要>唱洞箫词。（唐•徐铉《柳枝词》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 要
+    type: 【动词】
+    phonetic: yao4
+    trans: ❸索取。
+    ancient: 足下前<要>仆文章古书。（唐•柳宗元《贺进士参元失火书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 要
+    type: 【动词】
+    phonetic: yao4
+    trans: ❹打算;希望。
+    ancient: <要>留清白在人间。（明•于谦《石灰吟》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 要
+    type: 【动词】
+    phonetic: yao4
+    trans: ❺将要;想要。
+    ancient: 囊锥刚<要>出头来，不道甚时节。（宋•胡铃《好事近》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 要
+    type: 【形容词】
+    phonetic: yao4
+    trans: ❶简要。
+    ancient: 儒者博而寡<要>。（《史记•太史公自序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 要
+    type: 【形容词】
+    phonetic: yao4
+    trans: ❷显要;重要。
+    ancient: 诚经传之典略，闺庭之<要>训也。（唐•杜之松《答王绩书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 要
+    type: 【形容词】
+    phonetic: yao4
+    trans: ❷显要;重要。
+    ancient: "部中老胥，家藏伪章,文书下行直省，多潜（暗地）易（更改）之，增减<要>语，奉行者莫辨也。（《狱中杂记》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 要
+    type: 【形容词】
+    phonetic: yao4
+    trans: ❷显要;重要。
+    ancient: 东割膏腴之地，北收<要>害之郡。（《过秦论》）
     url: xxxx
     vernacular: xxxx

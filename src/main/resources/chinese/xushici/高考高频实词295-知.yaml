@@ -8,22 +8,35 @@ words:
     samples:
       - trans: ❶知识。
         sentences:
-          - ancient: 两小儿笑曰："孰为汝多知乎「"（《两小儿辩日》）
+          - ancient: 两小儿笑曰："孰为汝多<知>乎「"（《两小儿辩日》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷交往。
         sentences:
-          - ancient: 故绝宾客之知。（《报任安书》）
+          - ancient: 故绝宾客之<知>。（《报任安书》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸朋友;知己。
         sentences:
-          - ancient: 遂如故知。（《左传•昭公二十八年》）
-          - ancient: 悲歌辞旧爱,衔泪觅新知。（南朝宋•鲍照《咏双燕》）
+          - ancient: 遂如故<知>。（《左传•昭公二十八年》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "悲歌辞旧爱,衔泪觅新<知>。（南朝宋•鲍照《咏双燕》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❹知觉;感觉。
         sentences:
-          - ancient: 手等有痛痒之知。（汉•范缜《神灭论》）
+          - ancient: 手等有痛痒之<知>。（汉•范缜《神灭论》）
+            url: xxxx
+            vernacular: xxxx
           - ancient: 死而有<知>，其几何离？其无<知>，悲不几时，而不悲者无穷期矣。（《祭十二郎文》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❺见解;见识。
         sentences:
-          - ancient: 有独知之虑（思虑）者。（《商君书•更法》）
-
+          - ancient: 有独<知>之虑（思虑）者。（《商君书•更法》）
+            url: xxxx
+            vernacular: xxxx
   - word: 知
     type: 【动词】
     phonetic: zhi1
@@ -32,28 +45,56 @@ words:
     samples:
       - trans: ❶知道;了解。
         sentences:
-          - ancient: 呜呼！孰知赋敛之毒，有甚是蛇者乎！（《捕蛇者一说》）
-          - ancient: 人非生而知之者，孰能无惑？（《师说》）
-          - ancient: <知>己知<彼>,百战不殆（危险）。（《孙子兵法•谋攻》）
-          - ancient: 朝菌不<知>晦朔,蟪蛄不<知>春秋，此小年也。（《逍遥游》）
+          - ancient: 呜呼！孰<知>赋敛之毒，有甚是蛇者乎！（《捕蛇者一说》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 人非生而<知>之者，孰能无惑？（《师说》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "<知>己知<彼>,百战不殆（危险）。（《孙子兵法•谋攻》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "朝菌不<知>晦朔,蟪蛄不<知>春秋，此小年也。（《逍遥游》）"
+            url: xxxx
+            vernacular: xxxx
           - ancient: 居则曰："不吾<知>也。"如或<知>尔，则何以哉？（《子路、曾晳、冉有、公西华侍坐》）
-          - ancient: 不吾知其亦已兮，苟余情其信芳。（《离骚》）
-          - ancient: 【高考题例】吾唯知吾君可帝中国尔，苟立异姓，吾当死之。《宋史•孙傅传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 不吾<知>其亦已兮，苟余情其信芳。（《离骚》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】吾唯<知>吾君可帝中国尔，苟立异姓，吾当死之。《宋史•孙傅传》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷主持;掌握。
         sentences:
-          - ancient: 吾与之共知越国之政。（《勾践灭吴》）
-          - ancient: 【高考题例】还朝，用为三司盐铁判官，以比部员外郎出知遂州。（《宋史•范纯礼传》）
-          - ancient: 明年,知秦州，又改郓yun4州。（《宋史•许将传》）
-          - ancient: 举进士甲科，知会稽县。（《宋史・曾公亮传》）
+          - ancient: 吾与之共<知>越国之政。（《勾践灭吴》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】还朝，用为三司盐铁判官，以比部员外郎出<知>遂州。（《宋史•范纯礼传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "明年,<知>秦州，又改郓yun4州。（《宋史•许将传》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 举进士甲科，<知>会稽县。（《宋史・曾公亮传》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸识别。
         sentences:
-          - ancient: 其真不知马也！（《马说》）
+          - ancient: 其真不<知>马也！（《马说》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❹交好;投合。
         sentences:
-          - ancient: 公孙明知叔孙于齐。（《左传•昭公四年》）
+          - ancient: 公孙明<知>叔孙于齐。（《左传•昭公四年》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❺表现;显现。
         sentences:
           - ancient: 文侯不悦，<知>于颜色。（《吕氏春秋•自知》）
+            url: xxxx
+            vernacular: xxxx
   - word: 知
     type: 【名词】
     phonetic: zhi4
@@ -62,7 +103,12 @@ words:
     samples:
       - trans: 通"智"。智慧;聪明。
         sentences:
-          - ancient: 故木受绳则直，金（金属）就砺（磨刀石）则利，君子博学而日参省（检验考察）乎己，则知明而行无过矣。（《劝学》）
+          - ancient: 故木受绳则直，金（金属）就砺（磨刀石）则利，君子博学而日参省（检验考察）乎己，则<知>明而行无过矣。（《劝学》）
+            url: xxxx
+            vernacular: xxxx
           - ancient: 小<知>不及大<知>，小年不及大年。（《逍遥游》）
-          - ancient: 故夫知效一官，行比一乡，德合一君,而征一国者，其自视也，亦若此矣。（《逍遥游》）
-
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "故夫<知>效一官，行比一乡，德合一君,而征一国者，其自视也，亦若此矣。（《逍遥游》）"
+            url: xxxx
+            vernacular: xxxx

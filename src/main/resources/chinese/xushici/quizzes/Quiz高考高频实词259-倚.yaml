@@ -1,9 +1,72 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 倚
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: yi3
+    trans: 通"椅"。椅子。
+    ancient: 黄筠<倚>子十二只，倚遍琉璃背满霜。（宋•杨万里《暑中早起东斋独坐》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 倚
+    type: 【动词】
+    phonetic: yi3
+    trans: ❶靠着;斜靠着。
+    ancient: 挟清漳之通浦兮，<倚>曲沮（ju1，古水名）之长洲。（汉•王粲《登楼赋》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 倚
+    type: 【动词】
+    phonetic: yi3
+    trans: ❶靠着;斜靠着。
+    ancient: 连峰去天不盈尺，枯松倒挂<倚>绝壁。（《蜀道难》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 倚
+    type: 【动词】
+    phonetic: yi3
+    trans: ❶靠着;斜靠着。
+    ancient: 相如因持璧却立，<倚>柱，怒发上冲冠。（《廉颇蔺相如列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 倚
+    type: 【动词】
+    phonetic: yi3
+    trans: ❷依仗;依靠。
+    ancient: （董）卓有威名，方<倚>以西行。（《后汉书•董卓传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 倚
+    type: 【动词】
+    phonetic: yi3
+    trans: ❸随着;配合。
+    ancient: 客有吹洞箫者，<倚>歌而和之。（《赤壁赋》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 倚
+    type: 【动词】
+    phonetic: yi3
+    trans: ❹依存。
+    ancient: 衡常思图身之事，以为吉凶<倚>伏，幽微难明，乃作《思玄赋》以宣寄情志。（《张衡传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 倚
+    type: 【形容词】
+    phonetic: yi3
+    trans: ❶倾斜。
+    ancient: 宫殿垣屋倾<倚>。（《后汉书•杨震传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 倚
+    type: 【形容词】
+    phonetic: yi3
+    trans: ❷偏斜;偏颇。
+    ancient: 中立而不<倚>，强哉矫。（《礼记•中庸》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 倚
+    type: 【介词】
+    phonetic: yi3
+    trans: 沿着。
+    ancient: <倚>沼畦瀛（池泽）兮遥望博（平广）。（战国楚•屈原《招魂》）
     url: xxxx
     vernacular: xxxx

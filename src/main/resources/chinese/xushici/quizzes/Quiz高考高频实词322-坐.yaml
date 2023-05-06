@@ -1,9 +1,121 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 坐
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: zuo4
+    trans: 同"座"。座位。
+    ancient: "请以剑舞，因击沛公于<坐>,杀之。（《鸿门宴》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 坐
+    type: 【名词】
+    phonetic: zuo4
+    trans: 同"座"。座位。
+    ancient: 【高考题例】经略使韩缜语之日："君奇士也，他日当据吾<坐>。（《宋史•何灌传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 坐
+    type: 【动词】
+    phonetic: zuo4
+    trans: "❶坐。古人席地而坐，两膝着地,臀部压在脚后跟上;也指臀部着物而坐。"
+    ancient: 项王、项伯东向<坐>。（《鸿门宴》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 坐
+    type: 【动词】
+    phonetic: zuo4
+    trans: "❶坐。古人席地而坐，两膝着地,臀部压在脚后跟上;也指臀部着物而坐。"
+    ancient: <坐>潭上，四面竹树环合。（《小石潭记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 坐
+    type: 【动词】
+    phonetic: zuo4
+    trans: ❷犯……罪。
+    ancient: 王曰："何<坐>？"曰："<坐>盗。"（《晏子使楚》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 坐
+    type: 【动词】
+    phonetic: zuo4
+    trans: ❷犯……罪。
+    ancient: "【高考题例】诏降一级致仕，瑾恨未已，<坐>以遗失部籍,逮文下诏狱。（《明史•韩文传》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 坐
+    type: 【动词】
+    phonetic: zuo4
+    trans: ❸株连受罚。
+    ancient: 副有罪，当相<坐>。（《苏武传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 坐
+    type: 【动词】
+    phonetic: zuo4
+    trans: ❸株连受罚。
+    ancient: "【高考题例】时平原多盗贼，憙与诸郡讨捕，斩其渠帅,余党当<坐>者数千人。（《后汉书•赵憙传》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 坐
+    type: 【动词】
+    phonetic: zuo4
+    trans: ❹诉讼时在法官面前对质。
+    ancient: 晋人使与郝大夫<坐>。（《左传•昭公二十三年》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 坐
+    type: 【动词】
+    phonetic: zuo4
+    trans: ❺驻守。
+    ancient: 楚人<坐>其北门。（《左传•桓公十二年》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 坐
+    type: 【动词】
+    phonetic: zuo4
+    trans: ❻比喻放弃行动，不做努力。
+    ancient: 与其<坐>而待亡，孰若起而拯之？（《冯婉贞》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 坐
+    type: 【副词】
+    phonetic: zuo4
+    trans: 即将。
+    ancient: "寒英<坐>销落,何用慰远客？（唐•柳宗元《早梅》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 坐
+    type: 【介词】
+    phonetic: zuo4
+    trans: ❶因为……犯法；因为……受牵连。
+    ancient: 会李竟<坐>与诸侯王交通，辞语及霍氏，有诏（霍）云、（霍）山不宜宿卫，免就第。（《汉书•霍光传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 坐
+    type: 【介词】
+    phonetic: zuo4
+    trans: ❶因为……犯法；因为……受牵连。
+    ancient: "（诸葛）诞麾下数百人,<坐>不降见斩。（《三国志•魏书•诸葛诞传》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 坐
+    type: 【介词】
+    phonetic: zuo4
+    trans: ❷由于；因为。
+    ancient: "耕者忘其犁,锄者忘其锄。来归相怨怒，但<坐>观罗敷。（《陌上桑》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 坐
+    type: 【介词】
+    phonetic: zuo4
+    trans: ❷由于；因为。
+    ancient: 停车<坐>爱枫林晚，霜叶红于二月花。（《山行》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 坐
+    type: 【介词】
+    phonetic: zuo4
+    trans: ❷由于；因为。
+    ancient: "【高考题例】爽懦惑不能用，遂委身受戮,芝<坐>爽下狱，当死，而口不讼直，志不苟免，宣帝嘉之，赦而不诛。（《晋书•鲁芝传》）"
     url: xxxx
     vernacular: xxxx

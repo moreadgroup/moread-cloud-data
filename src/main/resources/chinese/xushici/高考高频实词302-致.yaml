@@ -8,8 +8,9 @@ words:
     samples:
       - trans: 情致;情趣。
         sentences:
-          - ancient: 虽世殊事异，所以兴怀，其致一也。（《兰亭集序》）
-
+          - ancient: 虽世殊事异，所以兴怀，其<致>一也。（《兰亭集序》）
+            url: xxxx
+            vernacular: xxxx
   - word: 致
     type: 【动词】
     phonetic: zhi4
@@ -18,45 +19,92 @@ words:
     samples:
       - trans: ❶给予;送给。
         sentences:
-          - ancient: 同志者或不远千里而致。（明•徐光启《甘薯疏序》）
-          - ancient: 致敬亭于幕府。（《柳敬亭传》）
-          - ancient: 于是有缚广武君而致戏下者，信乃解其缚，东乡坐，西乡对，师事之。（《史记•淮阴侯列传》）
-          - ancient: 单于素闻广贤，令曰："得李广必生致之。"（《史记•李将军列传》）
+          - ancient: 同志者或不远千里而<致>。（明•徐光启《甘薯疏序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <致>敬亭于幕府。（《柳敬亭传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 于是有缚广武君而<致>戏下者，信乃解其缚，东乡坐，西乡对，师事之。（《史记•淮阴侯列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 单于素闻广贤，令曰："得李广必生<致>之。"（《史记•李将军列传》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷归还;交回。
         sentences:
-          - ancient: 与子尾邑，受而稍致之。（《左传•襄公二十八年》）
-          - ancient: 既而曰："若此乎，古之道不即人心。"退而致仕。（《公羊传•宣公元年》）
-          - ancient: 【高考题例】旋（不久）以太傅致仕，元丰元年卒，年八十。（《宋史•會公亮传》）	：
+          - ancient: 与子尾邑，受而稍<致>之。（《左传•襄公二十八年》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 既而曰："若此乎，古之道不即人心。"退而<致>仕。（《公羊传•宣公元年》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "【高考题例】旋（不久）以太傅<致>仕，元丰元年卒，年八十。（《宋史•會公亮传》）\t："
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸表达;表示。
         sentences:
-          - ancient: 其存君兴国而欲反复之,一篇之中三致志焉。（《史记•屈原贾生列传》）
-          - ancient: （鲁）肃宣（孙）权旨，论天下事势，致殷勤之意。（《资治通鉴•汉纪五十七》）
-          - ancient: 季父愈闻汝丧之七日，乃能衔哀致诚。（《祭十二郎文》）
-          - ancient: 【高考题例】炀帝嗣位，被追入朝，百姓攀恋,累日不能出境，诣阙上书致请者,前后数百人。（《北史•来护儿传》）
+          - ancient: "其存君兴国而欲反复之,一篇之中三<致>志焉。（《史记•屈原贾生列传》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: （鲁）肃宣（孙）权旨，论天下事势，<致>殷勤之意。（《资治通鉴•汉纪五十七》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 季父愈闻汝丧之七日，乃能衔哀<致>诚。（《祭十二郎文》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "【高考题例】炀帝嗣位，被追入朝，百姓攀恋,累日不能出境，诣阙上书<致>请者,前后数百人。（《北史•来护儿传》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❹到;达到。
         sentences:
-          - ancient: 假（借助）舆马者，非利足也，而致千里。（《劝学》）
-          - ancient: 然秦以区区之地，致万乘之势，序八州而朝同列，百有余年矣。（《过秦论》）
+          - ancient: 假（借助）舆马者，非利足也，而<致>千里。（《劝学》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 然秦以区区之地，<致>万乘之势，序八州而朝同列，百有余年矣。（《过秦论》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❺得到;取得。
         sentences:
-          - ancient: 家贫，无从致书以观。（《送东阳马生序》）
-          - ancient: 山阴李姓，以杀人系狱，每岁致数百金。（《狱中杂记》）
+          - ancient: 家贫，无从<致>书以观。（《送东阳马生序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 山阴李姓，以杀人系狱，每岁<致>数百金。（《狱中杂记》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❻招致;招来。
         sentences:
-          - ancient: 乃致其父母昆弟而誓之。（《勾践灭吴》）
-          - ancient: 彼于致福者,未数数然也。（《逍遥游》）
-          - ancient: 诸侯恐惧，会盟而谋弱秦,不爱（吝惜）珍器重宝肥饶之地，以致天下之士。（《过秦论》）
-          - ancient: 士以此方数千里争往归之，致食客三千人。（《史记•魏公子列传》）
+          - ancient: 乃<致>其父母昆弟而誓之。（《勾践灭吴》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "彼于<致>福者,未数数然也。（《逍遥游》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "诸侯恐惧，会盟而谋弱秦,不爱（吝惜）珍器重宝肥饶之地，以<致>天下之士。（《过秦论》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 士以此方数千里争往归之，<致>食客三千人。（《史记•魏公子列传》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❼致使;使得。
         sentences:
-          - ancient: 女行无偏斜，何意致不厚（生嫌结怨）？（《孔雀东南飞》）
+          - ancient: 女行无偏斜，何意<致>不厚（生嫌结怨）？（《孔雀东南飞》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❽用尽;献出。
         sentences:
-          - ancient: 夫民，神之主也，是以圣王先成民而后致力于神。（《左传•桓公六年》）
-          - ancient: 事父母能竭其力，事君能致其身。（《论语•学而》）
-          - ancient: 衡善机巧，尤致思于天文阴阳历算。（《张衡传》）
-          - ancient: 薄衣食，<致>孝于鬼神。卑宫室，<致>费于沟淢（xu4,沟渠）。（《史记•夏本纪》）	."
-
+          - ancient: 夫民，神之主也，是以圣王先成民而后<致>力于神。（《左传•桓公六年》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 事父母能竭其力，事君能<致>其身。（《论语•学而》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 衡善机巧，尤<致>思于天文阴阳历算。（《张衡传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "薄衣食，<致>孝于鬼神。卑宫室，<致>费于沟淢（xu4,沟渠）。（《史记•夏本纪》）\t.\""
+            url: xxxx
+            vernacular: xxxx
   - word: 致
     type: 【形容词】
     phonetic: zhi4
@@ -65,8 +113,9 @@ words:
     samples:
       - trans: 通"緻"。细密;细致。
         sentences:
-          - ancient: 案其狱，皆文致不可得反。（《汉书•严延年传》）
-
+          - ancient: 案其狱，皆文<致>不可得反。（《汉书•严延年传》）
+            url: xxxx
+            vernacular: xxxx
   - word: 致
     type: 【副词】
     phonetic: zhi4
@@ -75,5 +124,6 @@ words:
     samples:
       - trans: 极;尽。
         sentences:
-          - ancient: 非致隆高也。（《荀子•仲尼》）
-
+          - ancient: 非<致>隆高也。（《荀子•仲尼》）
+            url: xxxx
+            vernacular: xxxx

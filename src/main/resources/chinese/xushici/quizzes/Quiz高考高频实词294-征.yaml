@@ -1,9 +1,121 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 征
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: zheng1
+    trans: ❶征兆;迹象。
+    ancient: 兵未战而先见败<征>，此可谓知兵矣。（《史记•项羽本纪》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 征
+    type: 【名词】
+    phonetic: zheng1
+    trans: ❶征兆;迹象。
+    ancient: 尝一龙机发而地不觉动，京师学者咸怪其无<征>。（《张衡传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 征
+    type: 【名词】
+    phonetic: zheng1
+    trans: ❷证明。
+    ancient: 而其事信而有<征>。（清•薛福成《观巴黎油画记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 征
+    type: 【名词】
+    phonetic: zheng1
+    trans: ❸赋税。
+    ancient: 使食其<征>。（《左传•文公十一年》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 征
+    type: 【动词】
+    phonetic: zheng1
+    trans: ❶远行。
+    ancient: 我日斯迈，而月斯<征>。（《诗经•小雅•小宛》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 征
+    type: 【动词】
+    phonetic: zheng1
+    trans: ❶远行。
+    ancient: 问<征>夫以前路，恨晨光之熹微。（《归去来兮辞》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 征
+    type: 【动词】
+    phonetic: zheng1
+    trans: ❷征伐;讨伐。
+    ancient: 挟天子以<征>四方。（《资治通鉴•汉纪五十七》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 征
+    type: 【动词】
+    phonetic: zheng1
+    trans: ❷征伐;讨伐。
+    ancient: 桓公实北<征>山戎，而管仲因而令燕修召公之政。（《史记•管仲列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 征
+    type: 【动词】
+    phonetic: zheng1
+    trans: ❸争夺;争取。
+    ancient: 当此时也，民务胜而力<征>。（《商君书•开塞》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 征
+    type: 【动词】
+    phonetic: zheng1
+    trans: ❹征收;征税。
+    ancient: 宫中点（风行）促织之戏，岁<征>民间。（《促织》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 征
+    type: 【动词】
+    phonetic: zheng1
+    trans: ❺征召;召请。
+    ancient: "安帝雅（平素）闻（张）衡善术学，公车特<征>拜郎中,再迁为太史令。（《张衡传》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 征
+    type: 【动词】
+    phonetic: zheng1
+    trans: ❺征召;召请。
+    ancient: 视事三年，上书乞骸骨，<征>拜尚书。（《张衡传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 征
+    type: 【动词】
+    phonetic: zheng1
+    trans: ❺征召;召请。
+    ancient: "【高考题例】孝文皇帝初立，闻河南守吴公治平为天下第一，故\":与李斯同邑而常学事焉,乃<征>为廷尉。（《史记•屈原贾生列传》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 征
+    type: 【动词】
+    phonetic: zheng1
+    trans: ❻追允;追冋。
+    ancient: 寡人是<征>。（《左传•僖公四年》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 征
+    type: 【动词】
+    phonetic: zheng1
+    trans: ❼求;取。
+    ancient: "梁王伐邯郸,而<征>师于宋。（《战国策•宋策》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 征
+    type: 【动词】
+    phonetic: zheng1
+    trans: ❽取信。
+    ancient: "故夫知效一官，行比一乡，德合一君,而<征>一国者,其自视也，亦若此矣。（《逍遥游》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 征
+    type: 【动词】
+    phonetic: zheng1
+    trans: ❾证明。
+    ancient: 夏礼吾能言之，杞不足<征>也。殷礼吾能言之，宋不足<征>也。足，则吾能<征>之矣。（《史记•孔子世家》）
     url: xxxx
     vernacular: xxxx

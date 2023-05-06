@@ -1,9 +1,30 @@
 ---
 quizzes:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+  - word: 预
+    type: 【动词】
+    phonetic: yu4
+    trans: ❶预备。
+    ancient: 右臣闻事<预>则立，不<预>则废。（宋•苏轼《奏浙西灾伤第一状》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 预
+    type: 【动词】
+    phonetic: yu4
+    trans: ❷参与。
+    ancient: "偶兹精庐近,数<预>名僧会。（唐•岑参《终南山双峰草堂》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 预
+    type: 【形容词】
+    phonetic: yu4
+    trans: 安乐。
+    ancient: "【高考题例】仙亭日登眺,虎丘时游<预>。（唐•白居易《和微之诗二十三首・和三月三十日四十韵》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 预
+    type: 【副词】
+    phonetic: yu4
+    trans: 预先。
+    ancient: 副帅潘美<预>以为贺。（《宋史•曹彬列传》）
     url: xxxx
     vernacular: xxxx

@@ -8,8 +8,9 @@ words:
     samples:
       - trans: 河流的一段。
         sentences:
-          - ancient: 古之帝者地方千里，必居上游。（《史记•项羽本纪》）
-
+          - ancient: 古之帝者地方千里，必居上<游>。（《史记•项羽本纪》）
+            url: xxxx
+            vernacular: xxxx
   - word: 游
     type: 【动词】
     phonetic: you2
@@ -19,34 +20,65 @@ words:
       - trans: ❶在水上漂浮;游泳。
         sentences:
           - ancient: 其父虽善<游>，其子岂遽善<游>哉？（《吕氏春秋•察今》）
-          - ancient: 沙鸥翔集，锦鳞（指美丽的鱼）游泳。（《岳阳楼记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 沙鸥翔集，锦鳞（指美丽的鱼）<游>泳。（《岳阳楼记》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷飞翔。
         sentences:
-          - ancient: 若夫乘天地之正,而御六气之辩，以<游>无穷者，彼且恶乎待哉？（《逍遥游》）
+          - ancient: "若夫乘天地之正,而御六气之辩，以<游>无穷者，彼且恶乎待哉？（《逍遥游》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸游玩;游览。
         sentences:
           - ancient: 而余亦悔其随之而不得极夫<游>之乐也。（《游褒禅山记》）
-          - ancient: 所以游目骋怀，足以极视听之娱，信可乐也。（《兰亭集序》）
-          - ancient: 壬戌之秋，七月既望，苏子与客泛舟游于赤壁之下。（《赤壁赋》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 所以<游>目骋怀，足以极视听之娱，信可乐也。（《兰亭集序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 壬戌之秋，七月既望，苏子与客泛舟<游>于赤壁之下。（《赤壁赋》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❹交往;交际。
         sentences:
-          - ancient: 秦时与臣游，项伯杀人，臣活之。（《鸿门宴》）
-          - ancient: 始公孙季功、董生与夏无且游，具知其事，为余道之如是。（《史记•刺客列传》）
-          - ancient: 少时常与鲍叔牙游，鲍叔知其贤。（《史记•管仲列传》）
-          - ancient: 窃以为与君实（宋代司马光，字君实）游处相好之日久……（宋•主安石《答司马谏议书》）
+          - ancient: 秦时与臣<游>，项伯杀人，臣活之。（《鸿门宴》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 始公孙季功、董生与夏无且<游>，具知其事，为余道之如是。（《史记•刺客列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 少时常与鲍叔牙<游>，鲍叔知其贤。（《史记•管仲列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 窃以为与君实（宋代司马光，字君实）<游>处相好之日久……（宋•主安石《答司马谏议书》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❺流动;转动。
         sentences:
-          - ancient: 恢恢（广大）乎其于游刃必有余地矣。（《庄子•养生主》）
-          - ancient: 忽反顾以游目兮，将往观乎四荒。（《离骚》）
+          - ancient: 恢恢（广大）乎其于<游>刃必有余地矣。（《庄子•养生主》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 忽反顾以<游>目兮，将往观乎四荒。（《离骚》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❻游说。
         sentences:
-          - ancient: 子墨子游公上过（人名）于越。（《吕氏春秋•高义》）
-          - ancient: 及见贾生吊之,又怪屈原以彼其材，游诸侯,何国不容,而自令若是。（《史记•屈原贾生列传》）
+          - ancient: 子墨子<游>公上过（人名）于越。（《吕氏春秋•高义》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "及见贾生吊之,又怪屈原以彼其材，<游>诸侯,何国不容,而自令若是。（《史记•屈原贾生列传》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❼出外求学或求官。
         sentences:
-          - ancient: （张）衡少善属文（写文章），游于三辅，因入京师。（《张衡传》）
-          - ancient: 长于楚，,游"学于秦。（《柳毅传》）
-
+          - ancient: （张）衡少善属文（写文章），<游>于三辅，因入京师。（《张衡传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "长于楚，,<游>\"学于秦。（《柳毅传》）"
+            url: xxxx
+            vernacular: xxxx
   - word: 游
     type: 【形容词】
     phonetic: you2
@@ -55,5 +87,6 @@ words:
     samples:
       - trans: 虚浮;不切实际。
         sentences:
-          - ancient: 游辞巧饰者虽轻必戮。（《三国志•蜀书•诸葛亮传》）
-
+          - ancient: <游>辞巧饰者虽轻必戮。（《三国志•蜀书•诸葛亮传》）
+            url: xxxx
+            vernacular: xxxx

@@ -8,15 +8,22 @@ words:
     samples:
       - trans: ❶左边（与"右"相对）。
         sentences:
-          - ancient: 备<左>则右寡,备右则<左>寡。（《孙子兵法•虚实》）
-          - ancient: 遂拔以击荆轲，断其左股。（《荆轲刺秦王》）
+          - ancient: "备<左>则右寡,备右则<左>寡。（《孙子兵法•虚实》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 遂拔以击荆轲，断其<左>股。（《荆轲刺秦王》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷古代地理位置以东为左。
         sentences:
-          - ancient: 淮左名都，竹西佳处，解鞍少驻初程。（《扬州慢》）
+          - ancient: 淮<左>名都，竹西佳处，解鞍少驻初程。（《扬州慢》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸卑下的地位;较低的职位。
         sentences:
-          - ancient: 贵戚诸势在己之右，欲必陵之;士在己左，愈贫贱,尤益礼敬,与钧。（《汉书•灌夫传》）
-
+          - ancient: "贵戚诸势在己之右，欲必陵之;士在己<左>，愈贫贱,尤益礼敬,与钧。（《汉书•灌夫传》）"
+            url: xxxx
+            vernacular: xxxx
   - word: 左
     type: 【动词】
     phonetic: ZUO3
@@ -25,14 +32,19 @@ words:
     samples:
       - trans: ❶不合;违背。
         sentences:
-          - ancient: 身勤而事左。（唐•韩愈《答窦秀才书》）
+          - ancient: 身勤而事<左>。（唐•韩愈《答窦秀才书》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷反对;疏远。
         sentences:
-          - ancient: 衍将右韩而左魏。（《战国策•魏策二》）
+          - ancient: 衍将右韩而<左>魏。（《战国策•魏策二》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸证实。
         sentences:
-          - ancient: 举十二条左证其谬。（《新唐书•刘知几传》）
-
+          - ancient: 举十二条<左>证其谬。（《新唐书•刘知几传》）
+            url: xxxx
+            vernacular: xxxx
   - word: 左
     type: 【形容词】
     phonetic: ZUO3
@@ -41,4 +53,6 @@ words:
     samples:
       - trans: 不正;邪僻。
         sentences:
-          - ancient: 执左道以乱政。（《礼记•王制》）
+          - ancient: 执<左>道以乱政。（《礼记•王制》）
+            url: xxxx
+            vernacular: xxxx

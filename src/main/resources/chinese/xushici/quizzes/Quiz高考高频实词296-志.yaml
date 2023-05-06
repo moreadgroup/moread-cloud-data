@@ -1,9 +1,121 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 志
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: zhi4
+    trans: ❶心意。
+    ancient: 诗言<志>。（《尚书•舜典》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 志
+    type: 【名词】
+    phonetic: zhi4
+    trans: ❶心意。
+    ancient: 提刀而立，为之四顾，为之踌躇满<志>。（《庄子•养生主》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 志
+    type: 【名词】
+    phonetic: zhi4
+    trans: ❶心意。
+    ancient: "尽吾<志>也而不能至者,可以无悔矣，其孰能讥之乎？（《游褒禅山记》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 志
+    type: 【名词】
+    phonetic: zhi4
+    trans: ❷志向。
+    ancient: 燕雀安知鸿鹄之<志>哉？（《陈涉世家》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 志
+    type: 【名词】
+    phonetic: zhi4
+    trans: ❷志向。
+    ancient: "今入关,财物无所取，妇女无所幸（宠幸），此其<志>不在小。（《鸿门宴》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 志
+    type: 【名词】
+    phonetic: zhi4
+    trans: ❷志向。
+    ancient: 穷且益坚，不坠青云之<志>。（《滕王阁序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 志
+    type: 【名词】
+    phonetic: zhi4
+    trans: ❷志向。
+    ancient: 愿陛下矜悯愚诚，听臣微<志>，庶刘侥幸，保卒余年。（《陈情表》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 志
+    type: 【名词】
+    phonetic: zhi4
+    trans: ❸志趣。
+    ancient: "推此<志>也,虽与日月争光可也。（《史记•屈原贾生列传》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 志
+    type: 【名词】
+    phonetic: zhi4
+    trans: ❹标志;标记。
+    ancient: 襄阳土（本地的）俗，邻居种桑树于界上为<志>。（《南齐书•韩系伯传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 志
+    type: 【名词】
+    phonetic: zhi4
+    trans: ❺记事的书或文章。如:《三国志》《项脊轩志》。
+    ancient: 掌邦国之<志>。（《周礼•春官•小史》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 志
+    type: 【名词】
+    phonetic: zhi4
+    trans: ❺记事的书或文章。如:《三国志》《项脊轩志》。
+    ancient: "余既为此<志>,后五年，吾妻来归（女子出嫁），时至轩中，从余问古事,或凭几学书。（《项春轩志》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 志
+    type: 【名词】
+    phonetic: zhi4
+    trans: ❻通"痣"。
+    ancient: 腰有紫<志>。（《梁书•沈约传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 志
+    type: 【名词】
+    phonetic: zhi4
+    trans: ❼通"帜"。旗帜。
+    ancient: 设兵，张旗<志>。（《史记•刘敬叔孙通列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 志
+    type: 【动词】
+    phonetic: zhi4
+    trans: ❶记忆;心里留下印象。
+    ancient: 博闻强<志>，明于治乱，娴于辞令。（《史记•屈原贾生列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 志
+    type: 【动词】
+    phonetic: zhi4
+    trans: ❷记述。
+    ancient: 亭以雨名，<志>喜也。（宋•苏轼《喜雨亭记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 志
+    type: 【动词】
+    phonetic: zhi4
+    trans: ❷记述。
+    ancient: 故为之文以<志>。（《始得西山宴游记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 志
+    type: 【动词】
+    phonetic: zhi4
+    trans: ❷记述。
+    ancient: 《齐谐》者，<志>怪者也。（《逍遥游》）
     url: xxxx
     vernacular: xxxx

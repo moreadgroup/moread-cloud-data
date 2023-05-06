@@ -6,13 +6,16 @@ words:
     tags:
       - 高中
     samples:
-      - trans: ❶又称犹湖,似猴而足短。
+      - trans: "❶又称犹湖,似猴而足短。"
         sentences:
-          - ancient: 山多犹猢，似猴而短足，好游岩树。（《水经注•江水》）
+          - ancient: 山多<犹>猢，似猴而短足，好游岩树。（《水经注•江水》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷通"猷"。计谋;谋划。
         sentences:
-          - ancient: 方叔元老，克壮其犹。（《诗经•小雅•采芝》）
-
+          - ancient: 方叔元老，克壮其<犹>。（《诗经•小雅•采芝》）
+            url: xxxx
+            vernacular: xxxx
   - word: 犹
     type: 【动词】
     phonetic: you2
@@ -21,11 +24,21 @@ words:
     samples:
       - trans: 如同；好像。
         sentences:
-          - ancient: 以若所为，求若所欲，犹缘木而求鱼也。（《孟子•梁惠王上》）
-          - ancient: 以地事（侍奉）秦，犹抱薪救火。（《六国论》）
-          - ancient: 后之视今，亦犹今之视昔，悲夫！（《兰亭集序》）
-          - ancient: 臣事君，犹子事父也，子为父死，亡所恨，愿勿复再言！（《苏武传》）
-          - ancient: 【高考题例】治兵有制，名虽不同，从而横之，方而圆之,使万众；犹一人。（《宋史•许将传》）
+          - ancient: 以若所为，求若所欲，<犹>缘木而求鱼也。（《孟子•梁惠王上》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 以地事（侍奉）秦，<犹>抱薪救火。（《六国论》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 后之视今，亦<犹>今之视昔，悲夫！（《兰亭集序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 臣事君，<犹>子事父也，子为父死，亡所恨，愿勿复再言！（《苏武传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "【高考题例】治兵有制，名虽不同，从而横之，方而圆之,使万众；<犹>一人。（《宋史•许将传》）"
+            url: xxxx
+            vernacular: xxxx
   - word: 犹
     type: 【副词】
     phonetic: you2
@@ -34,16 +47,32 @@ words:
     samples:
       - trans: ❶还;仍然。
         sentences:
-          - ancient: 虽体解吾犹未变兮，岂余心之可惩？（《离骚》）
-          - ancient: 夫六国与秦皆诸侯，其势弱于秦，而犹有可以不赂而胜之之势。（《六国论》）
-          - ancient: 三径就荒，松菊犹存。（《归去来兮辞》）
-          - ancient: 士之耽兮，犹可说也。女之耽兮，不可说也！（《诗经•卫风•氓》）
-          - ancient: 千呼万唤始出来，犹抱琵琶半遮面。（《琵琶行》）
-          - ancient: 【高考题例】贼怒,碎其首，缚诸（之于）檣丛射之，骂贼不少（稍微）变，至死声犹壮，年三十有九。（《明史•花云祥》）
+          - ancient: 虽体解吾<犹>未变兮，岂余心之可惩？（《离骚》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 夫六国与秦皆诸侯，其势弱于秦，而<犹>有可以不赂而胜之之势。（《六国论》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 三径就荒，松菊<犹>存。（《归去来兮辞》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 士之耽兮，<犹>可说也。女之耽兮，不可说也！（《诗经•卫风•氓》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 千呼万唤始出来，<犹>抱琵琶半遮面。（《琵琶行》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "【高考题例】贼怒,碎其首，缚诸（之于）檣丛射之，骂贼不少（稍微）变，至死声<犹>壮，年三十有九。（《明史•花云祥》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷尚且。
         sentences:
-          - ancient: 臣之壮也，犹不如人;今老矣，无能为也已。（《烛之武退秦师》）
-          - ancient: 向之所欣，俯仰（一俯一仰之间，表示时间短暂）之间，已为陈迹，犹不能不以之兴怀，况修短随化（寿命长短完全听凭造化安排），终期于尽！（《兰亭集序》）
-          - ancient: 古之圣人,其出人也远矣，犹且从师而问焉。（《师说》）
-
-
+          - ancient: 臣之壮也，<犹>不如人;今老矣，无能为也已。（《烛之武退秦师》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 向之所欣，俯仰（一俯一仰之间，表示时间短暂）之间，已为陈迹，<犹>不能不以之兴怀，况修短随化（寿命长短完全听凭造化安排），终期于尽！（《兰亭集序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "古之圣人,其出人也远矣，<犹>且从师而问焉。（《师说》）"
+            url: xxxx
+            vernacular: xxxx

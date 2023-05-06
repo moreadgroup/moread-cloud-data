@@ -1,9 +1,261 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 中
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: Zhong1
+    trans: ❶处在两端之间的；中间；当中。
+    ancient: 击其<中>则首尾俱至。（《孙子•九地》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【名词】
+    phonetic: Zhong1
+    trans: ❶处在两端之间的；中间；当中。
+    ancient: 浑然而<中>处者，世谓之元气。（唐•柳宗元《天说》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【名词】
+    phonetic: Zhong1
+    trans: ❶处在两端之间的；中间；当中。
+    ancient: 舟回至两山间，将入港口，有大石当<中>流，可坐百人，空<中>而多窍。（《石钟山记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【名词】
+    phonetic: Zhong1
+    trans: ❶处在两端之间的；中间；当中。
+    ancient: 座<中>泣下谁最多？江州司马青衫湿。（《琵琶行》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【名词】
+    phonetic: Zhong1
+    trans: ❷里;内。
+    ancient: 以<中>有足乐者，不知口体之奉不若人也。（《送东阳马生序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【名词】
+    phonetic: Zhong1
+    trans: ❷里;内。
+    ancient: 一屠晩归，担<中>肉尽，止有剩骨。（《狼》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【名词】
+    phonetic: Zhong1
+    trans: ❷里;内。
+    ancient: 相与枕藉乎舟<中>，不知东方之既白。（《赤壁赋》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【名词】
+    phonetic: Zhong1
+    trans: ❷里;内。
+    ancient: 箱帘六七十，绿碧青丝绳，物物各自异，种种在其<中>。（《孔雀东南飞》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【名词】
+    phonetic: Zhong1
+    trans: ❸中心。
+    ancient: 宛在水<中>央。（《诗经•秦风•兼葭》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【名词】
+    phonetic: Zhong1
+    trans: ❸中心。
+    ancient: "<中>有都柱,傍行八道，施关发机。（《张衡传》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【名词】
+    phonetic: Zhong1
+    trans: ❹内心;胸中。
+    ancient: "荃（香草名。这里比喻君王）不察余之<中>情兮，反信谗而齎（ji4,盛）怒。（《离骚》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【名词】
+    phonetic: Zhong1
+    trans: ❹内心;胸中。
+    ancient: "明明如月，何时可掇？忧从<中>来,不可断绝。（《短歌行》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【名词】
+    phonetic: Zhong1
+    trans: ❹内心;胸中。
+    ancient: "淮阴屠中少年有侮信者,曰：\"若（你）虽长大，好带刀剑，<中>情怯耳。\"（《史记.淮阴一侯列殆》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【名词】
+    phonetic: Zhong1
+    trans: ❺内脏
+    ancient: 五<中>所主。（《素问•阴阳类论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【名词】
+    phonetic: Zhong1
+    trans: ❻中期。
+    ancient: <中>兴机会，庶几在此。（《〈指南录〉后序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【名词】
+    phonetic: Zhong1
+    trans: ❼中等。
+    ancient: 才能不及<中>人，非有仲尼、墨翟之贤，陶朱、猗顿之富。（《过秦论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【名词】
+    phonetic: Zhong1
+    trans: ❽中原。
+    ancient: 四十三年，望<中>犹记，烽火扬州路（宋元时期的行政区域名）。（《永遇乐•京口北固亭怀古力
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【形容词】
+    phonetic: Zhong1
+    trans: ❶正;不偏斜。
+    ancient: "故道之所善，<中>则可从,畸则不可为。（《荀子•天论》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【形容词】
+    phonetic: Zhong1
+    trans: ❷中等;不高不低。
+    ancient: 才能不及<中>人。（《过秦论》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【形容词】
+    phonetic: Zhong1
+    trans: ❷中等;不高不低。
+    ancient: <中>家以上，皆竭资取保。（《狱中杂记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【数词】
+    phonetic: Zhong1
+    trans: 半;一半。
+    ancient: 曰黄昏以为期兮，羌<中>道而改路。（《离骚》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【数词】
+    phonetic: Zhong1
+    trans: 半;一半。
+    ancient: "先帝创业未半而<中>道崩殂（殂cu2,指皇帝死亡），今天下三分，益州疲弊，此诚危急存亡之秋也。（《出师表》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【数词】
+    phonetic: Zhong1
+    trans: 半;一半。
+    ancient: 夫子积学，当日知其所亡，以就懿（美好）德。若<中>道而归，何异断斯织乎？（《后汉书：列女传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【数词】
+    phonetic: Zhong1
+    trans: 半;一半。
+    ancient: "蟋蟀何感,<中>夜哀鸣。（晋•傅玄《短歌行》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【数词】
+    phonetic: Zhong1
+    trans: 半;一半。
+    ancient: "谢（辞别）家事夫婿,<中>道还兄门。（《孔雀东南飞》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【数词】
+    phonetic: Zhong1
+    trans: 半;一半。
+    ancient: 穷睇眄于<中>天，极娱游于暇日。（《滕王阁序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【动词】
+    phonetic: zhong4
+    trans: ❶符合;适合。
+    ancient: 木直<中>绳（测直的工具），輮（通"煣"，用火烤使之弯曲）以为轮，其曲<中>规（测圆的工具）。（《劝学》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【动词】
+    phonetic: zhong4
+    trans: ❶符合;适合。
+    ancient: 然睹促织，隐<中>胸怀。（《促象》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【动词】
+    phonetic: zhong4
+    trans: ❶符合;适合。
+    ancient: 【高考题例】景监日："子何以<中>吾君？吾君之欢甚也。"（《史记•商君列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【动词】
+    phonetic: zhong4
+    trans: ❷正中目标。
+    ancient: 射者<中>，弈者胜。（《醉翁亭记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【动词】
+    phonetic: zhong4
+    trans: ❷正中目标。
+    ancient: 幸啄不<中>，虫跃去尺有咫（古代长度单位）。（《促织》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【动词】
+    phonetic: zhong4
+    trans: ❷正中目标。
+    ancient: 荆轲废，乃引其匕首提（掷）秦王，不<中>，<中>柱。（《荆轲刺秦王》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【动词】
+    phonetic: zhong4
+    trans: ❷正中目标。
+    ancient: 【高考题例】敌攻石尖山，浩冒阵而前，流矢<中>左肋。（《宋史•郭浩传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【动词】
+    phonetic: zhong4
+    trans: ❷正中目标。
+    ancient: 整弓复<中>之，观者诵叹，帝亲赐酒劳之。（《宋史•何灌传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【动词】
+    phonetic: zhong4
+    trans: ❸遭受;遭遇。
+    ancient: "（曹）操虽心知<中>计,却不肯认错。（《三国演义》四十五回）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【动词】
+    phonetic: zhong4
+    trans: ❹中伤;使受到伤害。
+    ancient: （何）显怒，欲以吏事<中>商。（《汉书•何武传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 中
+    type: 【动词】
+    phonetic: zhong4
+    trans: ❺科举及第;考中。
+    ancient: 三年大比（乡试），以诸生试之直省，曰乡试。<中>式者为举人。（《明史•选举志》）
     url: xxxx
     vernacular: xxxx

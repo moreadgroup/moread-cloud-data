@@ -1,9 +1,93 @@
 ---
 quizzes:
-  - word: xxxx
-    type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+  - word: 专
+    type: 【动词】
+    phonetic: zhuan1
+    trans: ❶独占;独有;独掌。
+    ancient: 衣食所安，弗敢<专>也，必以分人。（《曹刿论战》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 专
+    type: 【动词】
+    phonetic: zhuan1
+    trans: ❶独占;独有;独掌。
+    ancient: 夫然，则天下莫能争是溪，予得<专>而名焉。（唐•柳宗元《愚溪诗序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 专
+    type: 【动词】
+    phonetic: zhuan1
+    trans: ❶独占;独有;独掌。
+    ancient: 灵公既立，赵盾益<专>国政。（《史记•赵世家》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 专
+    type: 【动词】
+    phonetic: zhuan1
+    trans: ❶独占;独有;独掌。
+    ancient: 【高考题例】臣既受命<专>斧钺之威，臣不敢生还，愿君亦垂一言之命于臣。（《六韬》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 专
+    type: 【动词】
+    phonetic: zhuan1
+    trans: ❷擅自行事;独断专行。
+    ancient: "此妇无礼节,举动自<专>由。（《孔雀东南飞》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 专
+    type: 【动词】
+    phonetic: zhuan1
+    trans: ❷擅自行事;独断专行。
+    ancient: 奉事循公姥，进止敢自<专>？（《孔雀东南飞》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 专
+    type: 【形容词】
+    phonetic: zhuan1
+    trans: 专一；专心。
+    ancient: 其业有不精、德有不成者，非天质之卑（低下），则心不若余之<专>耳，岂他人之过哉？（《送东阳马生序》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 专
+    type: 【形容词】
+    phonetic: zhuan1
+    trans: 专一；专心。
+    ancient: 然后叹借者之用心<专>，而少时之岁月为可惜也。（《黄生借书说》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 专
+    type: 【副词】
+    phonetic: zhuan1
+    trans: ❶专门。
+    ancient: 向（先前）察众人之议，<专>欲误将军，不足与图大事。（《资治逼鉴•汉纪五十七》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 专
+    type: 【副词】
+    phonetic: zhuan1
+    trans: ❶专门。
+    ancient: 闻道有先后，术业有<专>攻，如是而已。（《师说》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 专
+    type: 【副词】
+    phonetic: zhuan1
+    trans: ❶专门。
+    ancient: "<专>以射为戏,竟死。（《史记•李将军列传》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 专
+    type: 【副词】
+    phonetic: zhuan1
+    trans: ❶专门。
+    ancient: 【高考题例】洛阳之人，年少初学，<专>欲擅权，纷乱诸事。（《史记•屈原贾生列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 专
+    type: 【副词】
+    phonetic: zhuan1
+    trans: ❷独自。
+    ancient: "迩年（近年）狱讼,情稍重，京兆、五城即不敢<专>决。（《狱中杂记》）"
     url: xxxx
     vernacular: xxxx

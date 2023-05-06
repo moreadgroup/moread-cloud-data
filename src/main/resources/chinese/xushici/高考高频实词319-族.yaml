@@ -8,14 +8,19 @@ words:
     samples:
       - trans: ❶家族;有血缘关系的亲属。
         sentences:
-          - ancient: 山东豪俊遂并起而亡秦族矣。（《过秦论》）
+          - ancient: 山东豪俊遂并起而亡秦<族>矣。（《过秦论》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷类。
         sentences:
-          - ancient: 士大夫之族，曰师曰弟子云者，则群聚而笑之。（《师说》）
+          - ancient: 士大夫之<族>，曰师曰弟子云者，则群聚而笑之。（《师说》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸交错聚结之处。
         sentences:
-          - ancient: 每至于族，吾见其难为，怵然（怵chu4,警惕的样子）为戒。（《庄子•养生主》）
-
+          - ancient: "每至于<族>，吾见其难为，怵然（怵chu4,警惕的样子）为戒。（《庄子•养生主》）"
+            url: xxxx
+            vernacular: xxxx
   - word: 族
     type: 【动词】
     phonetic: ZU2
@@ -24,11 +29,14 @@ words:
     samples:
       - trans: ❶灭族。古代一种刑罚，一人有罪，要诛灭三族或九族。
         sentences:
-          - ancient: 族秦者秦也，非天下也。（《阿房宫赋》）
+          - ancient: <族>秦者秦也，非天下也。（《阿房宫赋》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷聚结。
         sentences:
-          - ancient: 云气不待族而雨。（《庄子•在宥》）
-
+          - ancient: 云气不待<族>而雨。（《庄子•在宥》）
+            url: xxxx
+            vernacular: xxxx
   - word: 族
     type: 【形容词】
     phonetic: ZU2
@@ -37,4 +45,6 @@ words:
     samples:
       - trans: 众;一般的。
         sentences:
-          - ancient: 族庖月更刀，折也。（《庄子•养生主》）
+          - ancient: <族>庖月更刀，折也。（《庄子•养生主》）
+            url: xxxx
+            vernacular: xxxx

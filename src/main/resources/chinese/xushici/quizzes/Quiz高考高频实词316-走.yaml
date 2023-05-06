@@ -1,9 +1,65 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 走
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: zou3
+    trans: 仆人;供驱使的人。用作自称的谦辞。
+    ancient: 太史公牛马<走>司马迁再拜言。（《报任安书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 走
+    type: 【动词】
+    phonetic: zou3
+    trans: ❶跑。
+    ancient: 双兔傍地<走>，安能辨我是雄雌？（《木兰诗》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 走
+    type: 【动词】
+    phonetic: zou3
+    trans: ❶跑。
+    ancient: 耶（通"爷"，父亲）娘妻子<走>相送，尘埃不见咸阳桥。（《兵车行》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 走
+    type: 【动词】
+    phonetic: zou3
+    trans: ❶跑。
+    ancient: 荆轲逐秦王，秦王还柱而<走>。（《荆轲刺秦王》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 走
+    type: 【动词】
+    phonetic: zou3
+    trans: ❶跑。
+    ancient: "【高考题例】及悼王死，宗室大臣作乱而攻吴起,吴起<走>之（到）王尸而伏之。（《史记•孙子吴起列传》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 走
+    type: 【动词】
+    phonetic: zou3
+    trans: ❷逃跑。
+    ancient: 填然鼓之，兵刃既接，弃甲曳兵而<走>。（《寡人之于国也》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 走
+    type: 【动词】
+    phonetic: zou3
+    trans: ❸奔向；趋向。
+    ancient: 骊山北构而西折，直<走>咸阳。（《阿房宫赋》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 走
+    type: 【动词】
+    phonetic: zou3
+    trans: ❸奔向；趋向。
+    ancient: 永之人争奔<走>焉。（《捕蛇者说》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 走
+    type: 【动词】
+    phonetic: zou3
+    trans: ❹移动，滚动。
+    ancient: 轮台九月风夜吼，一川碎石大如斗，随风满地石乱<走>。（《走马川行奉送封大夫出师西征》）
     url: xxxx
     vernacular: xxxx

@@ -8,28 +8,54 @@ words:
     samples:
       - trans: ❶转动;运转。
         sentences:
-          - ancient: 我心匪（不是）石，不可转也。（《诗经•邶风•柏舟》）
-          - ancient: 楚汉久相持未决，丁壮苦军旅，老弱罢（通"疲"）<转>漕（车运为转,船运为漕）。（《史记.项羽本纪》）
-          - ancient: 转轴拔弦三两声，未成曲调先有情。（《琵琶行》）
-          - ancient: 飞湍瀑流争喧豗,砯（ping1,水击山崖声）崖转石万壑雷。（《蜀道难》）
+          - ancient: 我心匪（不是）石，不可<转>也。（《诗经•邶风•柏舟》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "楚汉久相持未决，丁壮苦军旅，老弱罢（通\"疲\"）<转>漕（车运为转,船运为漕）。（《史记.项羽本纪》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <转>轴拔弦三两声，未成曲调先有情。（《琵琶行》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "飞湍瀑流争喧豗,砯（ping1,水击山崖声）崖<转>石万壑雷。（《蜀道难》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷转弯。
         sentences:
-          - ancient: 峰回路转。（《醉翁亭记》）
+          - ancient: 峰回路<转>。（《醉翁亭记》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸迁徙;转移。
         sentences:
-          - ancient: 号呼而转徙，饥渴而顿（困顿）踣（bo2,跌倒）。（《捕蛇者说》）
-          - ancient: 展转四明、天台，故至于永嘉。（《〈指南录〉后序》）
+          - ancient: "号呼而<转>徙，饥渴而顿（困顿）踣（bo2,跌倒）。（《捕蛇者说》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 展<转>四明、天台，故至于永嘉。（《〈指南录〉后序》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❹转向;转变。
         sentences:
-          - ancient: 率疲弊之卒，将数百之众，转而攻秦。（《过秦论》）
-          - ancient: 感我此言良久立，却坐促弦弦转急。（《琵琶行》）
+          - ancient: 率疲弊之卒，将数百之众，<转>而攻秦。（《过秦论》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 感我此言良久立，却坐促弦弦<转>急。（《琵琶行》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❺传送;运送。
         sentences:
-          - ancient: 转送其家。（《汉书•高帝纪》）
+          - ancient: <转>送其家。（《汉书•高帝纪》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❻调任（职务）。
         sentences:
-          - ancient: 密有才能，常望内转，而朝廷无援，及迁汉中太守。（《晋书•李密传》）
-          - ancient: 顺帝初，再转复为太史令。（《张衡传》）
+          - ancient: 密有才能，常望内<转>，而朝廷无援，及迁汉中太守。（《晋书•李密传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 顺帝初，再<转>复为太史令。（《张衡传》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❼声调婉转。
         sentences:
-          - ancient: 蝉则千转不穷，猿则百叫无绝。（《与朱元思书》）
+          - ancient: 蝉则千<转>不穷，猿则百叫无绝。（《与朱元思书》）
+            url: xxxx
+            vernacular: xxxx

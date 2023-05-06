@@ -8,6 +8,12 @@ words:
     samples:
       - trans: 装作;假装。
         sentences:
-          - ancient: 相如度秦王特（只是）以诈佯为予赵城，实不可得。（《廉颇蔺相如列传》
-          - ancient: 佯狂不知所之者,其辱人贱行,视五人之死，轻重固何如哉？（《五人墓碑记》）
-          - ancient: 【高考题例】珪佯不知，执奏:"韌为大庆法王,敢与全尊并书,大不敬。"（《明史•傅珪传》）
+          - ancient: 相如度秦王特（只是）以诈<佯>为予赵城，实不可得。（《廉颇蔺相如列传》
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "<佯>狂不知所之者,其辱人贱行,视五人之死，轻重固何如哉？（《五人墓碑记》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "【高考题例】珪<佯>不知，执奏:\"韌为大庆法王,敢与全尊并书,大不敬。\"（《明史•傅珪传》）"
+            url: xxxx
+            vernacular: xxxx

@@ -8,19 +8,30 @@ words:
     samples:
       - trans: ❶祖庙。
         sentences:
-          - ancient: 正月上日，受终于文祖。（《尚书•舜典》）
+          - ancient: 正月上日，受终于文<祖>。（《尚书•舜典》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷祖先;特指祖父。
         sentences:
-          - ancient: 吾祖死于是，吾父死于是。（《捕蛇者说》）
-          - ancient: 思厥先祖父，暴霜露，斩荆棘，以有尺寸之地。（《六国论》）
-          - ancient: 此吾祖太常公宣德间执此以朝，他日汝当用之！（《项脊轩志》）
+          - ancient: 吾<祖>死于是，吾父死于是。（《捕蛇者说》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 思厥先<祖>父，暴霜露，斩荆棘，以有尺寸之地。（《六国论》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 此吾<祖>太常公宣德间执此以朝，他日汝当用之！（《项脊轩志》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸宗派或事业的首创者。
         sentences:
-          - ancient: 前年幵阁放柳枝，今年洗心参佛祖。（宋•苏轼《和蔡景繁海州石室》）
+          - ancient: 前年幵阁放柳枝，今年洗心参佛<祖>。（宋•苏轼《和蔡景繁海州石室》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❹起初;产生之前。
         sentences:
-          - ancient: 浮游乎万物之祖。（《庄子•山木》）
-
+          - ancient: 浮游乎万物之<祖>。（《庄子•山木》）
+            url: xxxx
+            vernacular: xxxx
   - word: 祖
     type: 【动词】
     phonetic: zu3
@@ -29,8 +40,11 @@ words:
     samples:
       - trans: ❶效法;模仿。
         sentences:
-          - ancient: 然皆祖屈原之从容辞令,终莫敢直谏。（《史记•屈原贾生列传》）
+          - ancient: "然皆<祖>屈原之从容辞令,终莫敢直谏。（《史记•屈原贾生列传》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷指出行之前祭祀路神。
         sentences:
-          - ancient: 至易水上，既祖，取道。（《战国策•燕策三》）
-
+          - ancient: 至易水上，既<祖>，取道。（《战国策•燕策三》）
+            url: xxxx
+            vernacular: xxxx

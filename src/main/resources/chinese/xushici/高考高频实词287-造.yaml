@@ -8,14 +8,19 @@ words:
     samples:
       - trans: ❶时代;时期。
         sentences:
-          - ancient: 公侯之有冠礼也，夏之末造也。（《仪礼•士冠礼》）
+          - ancient: 公侯之有冠礼也，夏之末<造>也。（《仪礼•士冠礼》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷成就;功绩。
         sentences:
-          - ancient: 肆成人有德，小子有造。（《诗经•大雅•思齐》）
+          - ancient: 肆成人有德，小子有<造>。（《诗经•大雅•思齐》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸法律上指争讼的双方。
         sentences:
-          - ancient: 两造具备，师（各位法官）听五辞。（《尚书•吕刑》）
-
+          - ancient: 两<造>具备，师（各位法官）听五辞。（《尚书•吕刑》）
+            url: xxxx
+            vernacular: xxxx
   - word: 造
     type: 【动词】
     phonetic: zao4
@@ -24,26 +29,43 @@ words:
     samples:
       - trans: ❶造访，拜访。.
         sentences:
-          - ancient: 太子日造门下，供太牢具，异物间进,车骑美女恣荆轲所欲，以顺适其意。（《史记•刺客列传》）
-          - ancient: 【高考题例】缙绅大夫游于西山，必造其庐焉。（明•杜琼《雪:屋记》）
+          - ancient: "太子日<造>门下，供太牢具，异物间进,车骑美女恣荆轲所欲，以顺适其意。（《史记•刺客列传》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】缙绅大夫游于西山，必<造>其庐焉。（明•杜琼《雪:屋记》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷到……去;
         sentences:
-          - ancient: 径造庐访成，视成所蓄，掩口胡卢（喉间的笑声）而笑。（《促织》）
+          - ancient: 径<造>庐访成，视成所蓄，掩口胡卢（喉间的笑声）而笑。（《促织》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸达到（某一境界）。
         sentences:
-          - ancient: 不知便可登峰造极不？（《世说新语•文学》）
+          - ancient: 不知便可登峰<造>极不？（《世说新语•文学》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❹制作;建造。
         sentences:
-          - ancient: 公输盘为楚造云梯之械，成，将以攻宋。（《公输》）
-          - ancient: 是造物者之无尽藏也，而吾与子之所共适。（《赤壁赋》）
-          - ancient: 阳嘉元年，复造候风地动仪。（《张衡传》）
+          - ancient: 公输盘为楚<造>云梯之械，成，将以攻宋。（《公输》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 是<造>物者之无尽藏也，而吾与子之所共适。（《赤壁赋》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 阳嘉元年，复<造>候风地动仪。（《张衡传》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❺制定。
         sentences:
-          - ancient: 怀王使屈原造为宪令。（《史记•屈原贾生列传》）
+          - ancient: 怀王使屈原<造>为宪令。（《史记•屈原贾生列传》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❻起始;开始。
         sentences:
-          - ancient: 万物所出，造于太一，化于阴阳。（《吕氏春秋•大乐》）
-
+          - ancient: 万物所出，<造>于太一，化于阴阳。（《吕氏春秋•大乐》）
+            url: xxxx
+            vernacular: xxxx
   - word: 造
     type: 【副词】
     phonetic: zao4
@@ -52,4 +74,6 @@ words:
     samples:
       - trans: 突然。
         sentences:
-          - ancient: 造受命于君前，则书于笏。（《礼记•玉藻》）
+          - ancient: <造>受命于君前，则书于笏。（《礼记•玉藻》）
+            url: xxxx
+            vernacular: xxxx

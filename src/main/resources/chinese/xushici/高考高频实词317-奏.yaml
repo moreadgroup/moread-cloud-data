@@ -8,8 +8,9 @@ words:
     samples:
       - trans: 奏章。
         sentences:
-          - ancient: 文吏试笺奏。（《后汉书•胡广传》）
-
+          - ancient: 文吏试笺<奏>。（《后汉书•胡广传》）
+            url: xxxx
+            vernacular: xxxx
   - word: 奏
     type: 【动词】
     phonetic: ZOU4
@@ -18,17 +19,33 @@ words:
     samples:
       - trans: ❶进;运。
         sentences:
-          - ancient: 手之所触，肩之所倚，足之所履，膝之所踦，砉然（砉xu1,形容皮骨相离声）向然，奏刀騞然（huo1,形容刀割物开裂的声音），莫不中音。（《庄子,•葬生主》）
+          - ancient: "手之所触，肩之所倚，足之所履，膝之所踦，砉然（砉xu1,形容皮骨相离声）向然，<奏>刀騞然（huo1,形容刀割物开裂的声音），莫不中音。（《庄子,•葬生主》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷进献;呈献。
         sentences:
-          - ancient: 轲既取图奏之，发图，图穷而匕首见。（《荆轲刺秦王》）
-          - ancient: 秦王坐章台（秦宫中台名）见相如，相如奉璧奏秦王。（《廉颇蔺相如列传》）
+          - ancient: 轲既取图<奏>之，发图，图穷而匕首见。（《荆轲刺秦王》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 秦王坐章台（秦宫中台名）见相如，相如奉璧<奏>秦王。（《廉颇蔺相如列传》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸向君主进言或上书;上奏。
         sentences:
-          - ancient: 奏对称旨（合乎旨意）。（清•梁启超《谭嗣同》）
-          - ancient: 【高考题例】贬谪元祐诸臣，奏发司马光墓。（《宋史•许将传》）
-          - ancient: 宰相李揆矜（夸耀）能忌贤，以休烈修国史与己齐列，嫉之，奏为国子祭酒。（《旧唐书•于休烈传》）
+          - ancient: <奏>对称旨（合乎旨意）。（清•梁启超《谭嗣同》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】贬谪元祐诸臣，<奏>发司马光墓。（《宋史•许将传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 宰相李揆矜（夸耀）能忌贤，以休烈修国史与己齐列，嫉之，<奏>为国子祭酒。（《旧唐书•于休烈传》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❹弹奏（乐器）；演奏（乐曲）。
         sentences:
-          - ancient: 秦王饮酒酣，曰："寡人窃闻赵王好音，请奏瑟。"卒（《廉颇蔺相如列传》）
-          - ancient: 杨意不逢,抚凌云（司马相如的《大人赋》）而自惜;钟期既遇，凑流水以荷惭？（《滕王阁序》）
+          - ancient: 秦王饮酒酣，曰："寡人窃闻赵王好音，请<奏>瑟。"卒（《廉颇蔺相如列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "杨意不逢,抚凌云（司马相如的《大人赋》）而自惜;钟期既遇，凑流水以荷惭？（《滕王阁序》）"
+            url: xxxx
+            vernacular: xxxx

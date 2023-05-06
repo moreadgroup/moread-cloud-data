@@ -11,24 +11,38 @@ words:
           - ancient: xxx
             url: xxxx
             vernacular: xxxx
-
       - trans: ❶我国古代对东部各少数民族的统称。后泛指少数民族。
         sentences:
-          - ancient: 至于海邦，淮夷来同。（《诗经•鲁颂•閟宫》）
-          - ancient: 西和诸戎，南抚夷越。（《三国志•蜀书•诸葛亮传》）
-          - ancient: 北蛮夷之鄙人，未尝见天子，故振慑，愿大王少假借之，使毕使于前。（《荆轲刺秦王》）
-          - ancient: 台隍枕夷夏之交,宾主尽东南之美。（《滕王阁序》）
-          - ancient: 【高考题例】天水夷夏慕德，老幼赴阙献书，乞留芝。（《晋书•鲁芝传》）
+          - ancient: 至于海邦，淮<夷>来同。（《诗经•鲁颂•閟宫》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 西和诸戎，南抚<夷>越。（《三国志•蜀书•诸葛亮传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 北蛮<夷>之鄙人，未尝见天子，故振慑，愿大王少假借之，使毕使于前。（《荆轲刺秦王》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "台隍枕<夷>夏之交,宾主尽东南之美。（《滕王阁序》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】天水<夷>夏慕德，老幼赴阙献书，乞留芝。（《晋书•鲁芝传》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷指外国或外国人。
         sentences:
-          - ancient: 逆夷各狐凭鼠伏,潜避两炮台中，不敢出入。（《广东军务记•三元里抗英》）
+          - ancient: "逆<夷>各狐凭鼠伏,潜避两炮台中，不敢出入。（《广东军务记•三元里抗英》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸平辈。
         sentences:
-          - ancient: 今诸将皆陛下故等夷。（《史记•留侯世家》）
+          - ancient: 今诸将皆陛下故等<夷>。（《史记•留侯世家》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❹同"痍"。创伤。
         sentences:
-          - ancient: 子反（楚国大臣）命军吏察夷伤。（《左传•成公十六年
-
+          - ancient: 子反（楚国大臣）命军吏察<夷>伤。（《左传•成公十六年
+            url: xxxx
+            vernacular: xxxx
   - word: 夷
     type: 【动词】
     phonetic: yi2
@@ -37,15 +51,26 @@ words:
     samples:
       - trans: ❶铲除;削平。
         sentences:
-          - ancient: 遂北烧夷齐城郭室屋。（《史记•项羽本纪》）
+          - ancient: 遂北烧<夷>齐城郭室屋。（《史记•项羽本纪》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷杀;消灭。
         sentences:
-          - ancient: 师行三十年，兵所诛屠夷灭死者不可胜数。（《汉书•武五子传》）
-          - ancient: 且陛下春秋高，法令亡（无）常，大臣亡罪夷灭者数十家，安危不可知，子卿尚這谁为乎？（《苏武传》）
-          - ancient: 如彼竖子用臣之计，陛下安得而夷之乎！（《史记•淮阴侯列传》）
-          - ancient: 不务出此，而天下已集，乃谋畔逆，夷灭宗族，不亦宜乎！（《史记•淮阴侯列传》）
-          - ancient: 【高考题例】坐射起而夷宗死者七十余家。（《史记•孙子吴起列传》）	：
-
+          - ancient: 师行三十年，兵所诛屠<夷>灭死者不可胜数。（《汉书•武五子传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 且陛下春秋高，法令亡（无）常，大臣亡罪<夷>灭者数十家，安危不可知，子卿尚這谁为乎？（《苏武传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 如彼竖子用臣之计，陛下安得而<夷>之乎！（《史记•淮阴侯列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 不务出此，而天下已集，乃谋畔逆，<夷>灭宗族，不亦宜乎！（《史记•淮阴侯列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "【高考题例】坐射起而<夷>宗死者七十余家。（《史记•孙子吴起列传》）\t："
+            url: xxxx
+            vernacular: xxxx
   - word: 夷
     type: 【形容词】
     phonetic: yi2
@@ -54,12 +79,22 @@ words:
     samples:
       - trans: ❶平坦。
         sentences:
-          - ancient: 夫夷以近，则游者众;险以远，则至者少。（《游褒禅山记》）
-          - ancient: 其船背稍夷,则题名其上。（《核舟记》）
+          - ancient: 夫<夷>以近，则游者众;险以远，则至者少。（《游褒禅山记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "其船背稍<夷>,则题名其上。（《核舟记》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷愉悦。
         sentences:
-          - ancient: 既见君子，云胡不夷？（《诗经•郑风•风雨》）
-          - ancient: 与之论辨，言和而色夷。（《送东阳马生序》）
+          - ancient: 既见君子，云胡不<夷>？（《诗经•郑风•风雨》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 与之论辨，言和而色<夷>。（《送东阳马生序》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸平安；安定。
         sentences:
-          - ancient: 【高考题例】境内清夷，商人露宿于道。（《后汉书•王涣传》）
+          - ancient: 【高考题例】境内清<夷>，商人露宿于道。（《后汉书•王涣传》）
+            url: xxxx
+            vernacular: xxxx

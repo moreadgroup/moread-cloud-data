@@ -1,9 +1,58 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 左
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: ZUO3
+    trans: ❶左边（与"右"相对）。
+    ancient: "备<左>则右寡,备右则<左>寡。（《孙子兵法•虚实》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 左
+    type: 【名词】
+    phonetic: ZUO3
+    trans: ❶左边（与"右"相对）。
+    ancient: 遂拔以击荆轲，断其<左>股。（《荆轲刺秦王》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 左
+    type: 【名词】
+    phonetic: ZUO3
+    trans: ❷古代地理位置以东为左。
+    ancient: 淮<左>名都，竹西佳处，解鞍少驻初程。（《扬州慢》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 左
+    type: 【名词】
+    phonetic: ZUO3
+    trans: ❸卑下的地位;较低的职位。
+    ancient: "贵戚诸势在己之右，欲必陵之;士在己<左>，愈贫贱,尤益礼敬,与钧。（《汉书•灌夫传》）"
+    url: xxxx
+    vernacular: xxxx
+  - word: 左
+    type: 【动词】
+    phonetic: ZUO3
+    trans: ❶不合;违背。
+    ancient: 身勤而事<左>。（唐•韩愈《答窦秀才书》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 左
+    type: 【动词】
+    phonetic: ZUO3
+    trans: ❷反对;疏远。
+    ancient: 衍将右韩而<左>魏。（《战国策•魏策二》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 左
+    type: 【动词】
+    phonetic: ZUO3
+    trans: ❸证实。
+    ancient: 举十二条<左>证其谬。（《新唐书•刘知几传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 左
+    type: 【形容词】
+    phonetic: ZUO3
+    trans: 不正;邪僻。
+    ancient: 执<左>道以乱政。（《礼记•王制》）
     url: xxxx
     vernacular: xxxx

@@ -8,10 +8,15 @@ words:
     samples:
       - trans: 过失;罪过。
         sentences:
-          - ancient: 废（习惯）为残贼，莫知其尤。（《诗经•小雅•四月》）
-          - ancient: 言寡尤，行寡悔,禄在其中矣。（《论语•为政》）
-          - ancient: 进不入以离尤兮，退将复修吾初服。（《离骚》）
-
+          - ancient: 废（习惯）为残贼，莫知其<尤>。（《诗经•小雅•四月》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "言寡<尤>，行寡悔,禄在其中矣。（《论语•为政》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 进不入以离<尤>兮，退将复修吾初服。（《离骚》）
+            url: xxxx
+            vernacular: xxxx
   - word: 尤
     type: 【动词】
     phonetic: you2
@@ -20,9 +25,12 @@ words:
     samples:
       - trans: 指责;归咎。
         sentences:
-          - ancient: 不怨天，不尤人。（《论语•宪问》）
-          - ancient: 吾实为之，其又何尤！（《祭十二郎文》）
-
+          - ancient: 不怨天，不<尤>人。（《论语•宪问》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 吾实为之，其又何<尤>！（《祭十二郎文》）
+            url: xxxx
+            vernacular: xxxx
   - word: 尤
     type: 【形容词】
     phonetic: you2
@@ -31,9 +39,12 @@ words:
     samples:
       - trans: 优异;突出。
         sentences:
-          - ancient: 夫子，物之尤也。（《庄子•徐无鬼》）
-          - ancient: 天，有形之大者也;人，动物之尤者也。（唐•刘禹锡《天论》）
-
+          - ancient: 夫子，物之<尤>也。（《庄子•徐无鬼》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 天，有形之大者也;人，动物之<尤>者也。（唐•刘禹锡《天论》）
+            url: xxxx
+            vernacular: xxxx
   - word: 尤
     type: 【副词】
     phonetic: you2
@@ -42,7 +53,15 @@ words:
     samples:
       - trans: 更加;特别。
         sentences:
-          - ancient: 爱是溪，入二三里，得其尤绝者家（建造住宅）焉。（唐•柳宗元《愚溪诗序》）
-          - ancient: 然是说也，余尤疑之。（《石钟山记》）
-          - ancient: 衡善机巧，尤致思于天文阴阳历算。（《张衡传》）
-          - ancient: 况臣孤苦，特为尤甚。（《陈情表》）
+          - ancient: 爱是溪，入二三里，得其<尤>绝者家（建造住宅）焉。（唐•柳宗元《愚溪诗序》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 然是说也，余<尤>疑之。（《石钟山记》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 衡善机巧，<尤>致思于天文阴阳历算。（《张衡传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 况臣孤苦，特为<尤>甚。（《陈情表》）
+            url: xxxx
+            vernacular: xxxx

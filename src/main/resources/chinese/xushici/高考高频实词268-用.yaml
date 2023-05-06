@@ -8,22 +8,35 @@ words:
     samples:
       - trans: ❶效用;作用。
         sentences:
-          - ancient: 赏其功，必禁无用。（《韩非子•五蠹》）
-          - ancient: 天生我材必有用，千金散尽还复来。（《将进酒》）
+          - ancient: 赏其功，必禁无<用>。（《韩非子•五蠹》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 天生我材必有<用>，千金散尽还复来。（《将进酒》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷才能;本领。
         sentences:
-          - ancient: 彼虽善是，其用不足称（称道）也。（唐•韩愈《原毁》）
+          - ancient: 彼虽善是，其<用>不足称（称道）也。（唐•韩愈《原毁》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸资财;费用。
         sentences:
-          - ancient: 强本而节用。（《荀子•天论》）
-          - ancient: 顺于民心,所补者三:一曰主用足，二曰民赋少，三曰劝农功。（汉•晁错《论贵粟疏》）
+          - ancient: 强本而节<用>。（《荀子•天论》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "顺于民心,所补者三:一曰主<用>足，二曰民赋少，三曰劝农功。（汉•晁错《论贵粟疏》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❹器物；用具。
         sentences:
-          - ancient: 及庆氏亡，皆召之，具其器用，而反（通"返"）其邑焉。（《左传•襄公二十八年》）
+          - ancient: 及庆氏亡，皆召之，具其器<用>，而反（通"返"）其邑焉。（《左传•襄公二十八年》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❺用法。
         sentences:
-          - ancient: 识众寡之用者胜。（《孙子兵法•谋攻》）
-
+          - ancient: 识众寡之<用>者胜。（《孙子兵法•谋攻》）
+            url: xxxx
+            vernacular: xxxx
   - word: 用
     type: 【动词】
     phonetic: yong4
@@ -32,33 +45,60 @@ words:
     samples:
       - trans: ❶使用；运用。
         sentences:
-          - ancient: 秦用李斯谋。（《史记•秦始皇本纪》）
-          - ancient: 荆州……此用武之国,而其主不能守，此殆（大概）天所以资（资助）将军，将军岂有意乎？（《隆中対》）
+          - ancient: 秦<用>李斯谋。（《史记•秦始皇本纪》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "荆州……此<用>武之国,而其主不能守，此殆（大概）天所以资（资助）将军，将军岂有意乎？（《隆中対》）"
+            url: xxxx
+            vernacular: xxxx
           - ancient: 取之无禁，角之不竭。（《赤壁赋》）
-          - ancient: 是故燕虽小国而后亡，斯用兵之效也。（《六国论》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 是故燕虽小国而后亡，斯<用>兵之效也。（《六国论》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷任用。
         sentences:
-          - ancient: 孙权据有江东，已历三世，国险而民附，贤能为之用，此可以为援而不可图也。（《隆中对》）
-          - ancient: 刘备天下枭雄,与（曹）操有隙，寄寓于（刘）表，表恶（wu4,讨厌）其能而不能用也。（《资治通鉴•汉纪五十七》）
-          - ancient: 吾不能早用子，今急而求子，是寡人之过也。（《烛之武退秦师》）
+          - ancient: 孙权据有江东，已历三世，国险而民附，贤能为之<用>，此可以为援而不可图也。（《隆中对》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "刘备天下枭雄,与（曹）操有隙，寄寓于（刘）表，表恶（wu4,讨厌）其能而不能<用>也。（《资治通鉴•汉纪五十七》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 吾不能早<用>子，今急而求子，是寡人之过也。（《烛之武退秦师》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸需要。
         sentences:
-          - ancient: 可汗问所欲，木兰不用尚书郎。（《木兰诗》）
+          - ancient: 可汗问所欲，木兰不<用>尚书郎。（《木兰诗》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❹主持;执掌。
         sentences:
-          - ancient: 赵太后新用事，秦急攻之。（《触龙说赵太后》）
-          - ancient: 如楚，又因厚币用事者臣靳尚，而设诡辩于怀王之宠姬郑袖。（《史记•屈原贾生列传》）
+          - ancient: 赵太后新<用>事，秦急攻之。（《触龙说赵太后》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 如楚，又因厚币<用>事者臣靳尚，而设诡辩于怀王之宠姬郑袖。（《史记•屈原贾生列传》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❺统治;治理。
         sentences:
-          - ancient: 故仁义之用国，非特（只）将持其有而已也,又将兼人。（《荀子•富国》）
+          - ancient: "故仁义之<用>国，非特（只）将持其有而已也,又将兼人。（《荀子•富国》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❻适用；实用。
         sentences:
           - ancient: 是仁义<用>于古而不<用>于今也。（《韩非子•五蠹》）
+            url: xxxx
+            vernacular: xxxx
       - trans: ❼听从;釆纳。
         sentences:
-          - ancient: 意气勤勤恳恳，若望仆不相师，而用流俗人之言。（《报任安书》）
-          - ancient: 吾悔不用蒯通之计，乃为儿女子所诈，岂非天哉！（《史记•淮阴侯列传》）
-
+          - ancient: 意气勤勤恳恳，若望仆不相师，而<用>流俗人之言。（《报任安书》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 吾悔不<用>蒯通之计，乃为儿女子所诈，岂非天哉！（《史记•淮阴侯列传》）
+            url: xxxx
+            vernacular: xxxx
   - word: 用
     type: 【介词】
     phonetic: yong4
@@ -67,17 +107,33 @@ words:
     samples:
       - trans: 用法和介词"以"相同。❶依靠;凭借。
         sentences:
-          - ancient: 子乃规规然而求之以察，索之以辩，是直<用>管窥天,<用>锥指地也。（《秋水》）
+          - ancient: "子乃规规然而求之以察，索之以辩，是直<用>管窥天,<用>锥指地也。（《秋水》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷因为；由于。
         sentences:
-          - ancient: 用善骑射，杀首虏多，为汉中郎。（《史记•李将军列传》）
-          - ancient: 人固有一死，或重于泰山，或轻于鸿毛，用之所趋异也。（《报任安书》）
-          - ancient: 蟹六跪而二螯，非蛇鳍之穴无可寄托者，用心躁也。（《劝学》）
-          - ancient: 用此，其将兵数困辱,其射猛兽亦为所伤云。（《史记•李将军列传》）
+          - ancient: <用>善骑射，杀首虏多，为汉中郎。（《史记•李将军列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 人固有一死，或重于泰山，或轻于鸿毛，<用>之所趋异也。（《报任安书》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 蟹六跪而二螯，非蛇鳍之穴无可寄托者，<用>心躁也。（《劝学》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "<用>此，其将兵数困辱,其射猛兽亦为所伤云。（《史记•李将军列传》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❸拿;把。
         sentences:
-          - ancient: 单于既得翕（xi1）侯，以为自次王，用其姊妻之。（《史记•匈奴列传》）
-          - ancient: 辟（躲开）左右，亲问（张）禹以天变,因用吏民所言王氏事示禹。（《汉书•张禹传》）
+          - ancient: 单于既得翕（xi1）侯，以为自次王，<用>其姊妻之。（《史记•匈奴列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "辟（躲开）左右，亲问（张）禹以天变,因<用>吏民所言王氏事示禹。（《汉书•张禹传》）"
+            url: xxxx
+            vernacular: xxxx
       - trans: ❹在。
         sentences:
-          - ancient: 古法采草药多用二月、八月，此殊未当。（《梦溪笔•药议》）
+          - ancient: 古法采草药多<用>二月、八月，此殊未当。（《梦溪笔•药议》）
+            url: xxxx
+            vernacular: xxxx

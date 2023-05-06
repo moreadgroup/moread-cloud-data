@@ -1,9 +1,86 @@
 ---
 quizzes:
-  - word: xxxx
+  - word: 右
     type: 【名词】
-    phonetic: xx1
-    trans: ❶xxxx
-    ancient: xxx
+    phonetic: you4
+    trans: ❶右边（与"左"相对）。
+    ancient: 盖余所至，比好游者尚不能十一（十分之一），然视其左<右>，来而记之者已少。（《游褒禅山记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 右
+    type: 【名词】
+    phonetic: you4
+    trans: ❶右边（与"左"相对）。
+    ancient: 旁开小窗，左<右>各四，共八扇。（《核舟记》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 右
+    type: 【名词】
+    phonetic: you4
+    trans: ❷右手。
+    ancient: 左准绳，<右>规矩，载四时，以开九州，通九道，陂九泽，度九山。（《史记•夏本纪》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 右
+    type: 【名词】
+    phonetic: you4
+    trans: ❸古代地理位置以西为右，以东为左。
+    ancient: 姜伯约（指姜维）屡出陇<右>。（三国魏•钟会《檄蜀文》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 右
+    type: 【名词】
+    phonetic: you4
+    trans: ❹地位在上的。秦汉以前以右为尊，所以右为较尊贵的地位。
+    ancient: 既罢，归国，以相如功大，拜为上卿，位在廉颇之<右>。（《廉颇蔺相如列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 右
+    type: 【名词】
+    phonetic: you4
+    trans: ❹地位在上的。秦汉以前以右为尊，所以右为较尊贵的地位。
+    ancient: 既入宫中，举天下所贡蝴蝶、螳螂、油利挞、青丝额一切异状遍试之，无出其<右>者。（《促织》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 右
+    type: 【名词】
+    phonetic: you4
+    trans: ❹地位在上的。秦汉以前以右为尊，所以右为较尊贵的地位。
+    ancient: 【高考题】同列吕連，地望虽悬，政事在揆之<右>。（《旧唐书•:李揆传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 右
+    type: 【名词】
+    phonetic: you4
+    trans: ❺豪强。
+    ancient: 又多豪<右>，共为不轨。（《张衡传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 右
+    type: 【名词】
+    phonetic: you4
+    trans: ❺豪强。
+    ancient: 【高考题例】朝<右>皆惮之。（《明史•陈登云传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 右
+    type: 【动词】
+    phonetic: you4
+    trans: ❶尊重;重视。
+    ancient: 守成尚文，遭遇<右>武。（《史记•平津侯主父列传》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 右
+    type: 【动词】
+    phonetic: you4
+    trans: ❷帮助;偏袒。
+    ancient: 衍将<右>韩而左（反对，疏远）魏。（《战国策•魏策二》）
+    url: xxxx
+    vernacular: xxxx
+  - word: 右
+    type: 【动词】
+    phonetic: you4
+    trans: ❸通"侑"。劝人饮酒、吃饭。
+    ancient: 以享<右>祭祀。（《周礼•春官•大祝》）
     url: xxxx
     vernacular: xxxx

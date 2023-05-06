@@ -8,8 +8,9 @@ words:
     samples:
       - trans: 欺骗;愚弄。
         sentences:
-          - ancient: 于是废先王之道，焚百家之言，以愚黔首。（《过秦论》）
-
+          - ancient: 于是废先王之道，焚百家之言，以<愚>黔首。（《过秦论》）
+            url: xxxx
+            vernacular: xxxx
   - word: 愚
     type: 【形容词】
     phonetic: yu2
@@ -19,9 +20,14 @@ words:
       - trans: 愚昧;愚笨。
         sentences:
           - ancient: 是故圣益圣，<愚>益<愚>。（《师说》）
-          - ancient: 人君无愚智贤不肖，莫不欲求忠以自为，举贤以自佐。（《史记•屈原贾生列传》）
-          - ancient: 故余虽愚,卒获有所闻。（《送东阳马生序》）
-
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 人君无<愚>智贤不肖，莫不欲求忠以自为，举贤以自佐。（《史记•屈原贾生列传》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: "故余虽<愚>,卒获有所闻。（《送东阳马生序》）"
+            url: xxxx
+            vernacular: xxxx
   - word: 愚
     type: 【代词】
     phonetic: yu2
@@ -30,5 +36,9 @@ words:
     samples:
       - trans: 代词用作自称的谦辞。我。
         sentences:
-          - ancient: 愚以为宫中之事，事无大小，悉（全）以咨之，然后施行,必能裨补阙漏，有所广益。（《出席表》）
-          - ancient: 愚谓大计不如迎之。（《资治通鉴•汉纪五十七》）
+          - ancient: "<愚>以为宫中之事，事无大小，悉（全）以咨之，然后施行,必能裨补阙漏，有所广益。（《出席表》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: <愚>谓大计不如迎之。（《资治通鉴•汉纪五十七》）
+            url: xxxx
+            vernacular: xxxx

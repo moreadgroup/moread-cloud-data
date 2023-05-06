@@ -8,10 +8,20 @@ words:
     samples:
       - trans: ❶赠给;送给。
         sentences:
-          - ancient: 静女其娈（luan2,容貌美好），贻我彤管。（《诗经·邶风·静女》）
-          - ancient: 余嘉其能行古道，作《师说》以贻之。（《师说》）
-          - ancient: 东土以集，周公归报成王，乃为诗贻王，命之曰《鸱鸮chīxiāo》。（《史记•鲁周公世家》）
-          - ancient: 【高考题例】帝兼旬不返，傅屡贻书请之。（《宋史•孙傅传》）；
+          - ancient: "静女其娈（luan2,容貌美好），<贻>我彤管。（《诗经·邶风·静女》）"
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 余嘉其能行古道，作《师说》以<贻>之。（《师说》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 东土以集，周公归报成王，乃为诗<贻>王，命之曰《鸱鸮chīxiāo》。（《史记•鲁周公世家》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 【高考题例】帝兼旬不返，傅屡<贻>书请之。（《宋史•孙傅传》）；
+            url: xxxx
+            vernacular: xxxx
       - trans: ❷遗留。
         sentences:
-          - ancient: 我之怀矣，自贻伊戚。（《左传•宣公二年》）
+          - ancient: 我之怀矣，自<贻>伊戚。（《左传•宣公二年》）
+            url: xxxx
+            vernacular: xxxx
