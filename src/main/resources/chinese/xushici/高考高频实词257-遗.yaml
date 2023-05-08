@@ -10,15 +10,15 @@ words:
         sentences:
           - ancient: 风俗之美，男女自不取于涂（途），而百姓羞拾<遗>。（《荀子•正论》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 风俗淳美，路不拾遗
           - ancient: "【高考题例】行之十年，秦民大说，道不拾<遗>，山无盗贼,家给人足。（《史记•商君列传》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 新法推行了十年，秦国百姓都非常高兴，路上没有人拾别人丢的东西为己有，山林里也没了盗贼，家家富裕充足。
       - trans: ❷遗漏的事物。
         sentences:
           - ancient: "臣愿为中郎，出入禁阙（ta4,门），补过拾<遗>。（《史记•汲黯列传》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我甘愿做个中郎，出入于宫禁之中，负责替您拾遗补缺，这是我的愿望。
   - word: 遗
     type: 【动词】
     phonetic: yi2
@@ -29,50 +29,50 @@ words:
         sentences:
           - ancient: "秦无亡矢<遗>镞（zu2,箭头，也指箭）之费，而天下诸侯已困矣。（《过秦论》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 秦人没有一兵一卒的耗费，然而天下的诸侯就已窘迫不堪了。
           - ancient: "羊子尝行路,得<遗>金一饼。（《后汉书•列女传》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 乐羊子曾经在路上行走时，捡到一块别人丢失的金子
       - trans: ❷遗漏;忽略。
         sentences:
           - ancient: "句读（读dou4,古人指文辞休止和停顿处）之不知,惑之不解,或师焉，或不（通\"否\"）焉，小学而大<遗>，吾未见其明也。（《师说》）,"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 不知句子停顿要问老师，有疑惑不能解决却不愿问老师；学习了小的却丢了大的，我没有看到他的明达。
       - trans: ❸遗留，特指死去的人留下的。
         sentences:
           - ancient: 诚宜开张（扩大）圣听，以光先帝<遗>德，恢弘志士之气。（《出师》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: （陛下）你实在应该扩大圣明的听闻，来发扬光大先帝遗留下来的美德，振奋有远大志向的人的志气
           - ancient: 孝公既没，惠文、武、昭襄蒙故业，因<遗>策。（《过秦论》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 秦孝公死了以后，惠文王、武王、昭襄王承继先前的基业，沿袭前代的策略
           - ancient: 知不可乎骤得，托<遗>响于悲风。（《赤壁赋》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 知道上面这些想法不能一下子实现，只得将憾恨化为箫音，托寄在悲凉的秋风中罢了。
           - ancient: 瞻顾<遗>迹，如在昨日，令人长号不自禁。（《项脊轩志》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 瞻仰回顾旧日事物，就像发生在昨天一样，让人忍不住放声大哭。
           - ancient: 此三者，吾<遗>恨也。（《伶官传序》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 这三件事是我的遗恨。
       - trans: ❹排泄（大小便）。
         sentences:
           - ancient: 廉将军虽老，尚善饭；然与臣坐，顷之三<遗>矢（通""屎"，粪便）矣。（《史记•廉颇蔺相如列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 廉将军虽然老了，饭量还很大，但是和我坐在一起，一会就拉了三次屎。”
       - trans: ❺抛弃。
         sentences:
           - ancient: 今天不<遗>斯民，始旱而赐之以雨。（宋•苏轼《喜雨亭记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 现在上天不遗弃这里的百姓，刚有旱象便降下雨来
           - ancient: 飘飘乎如<遗>世独立，羽化而登仙。（《赤壁赋》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 飘飘然如遗弃尘世，超然独立，成为神仙，进入仙境。
       - trans: ❻剩下。
         sentences:
-          - ancient: 生民百<遗>一。（汉•曹操《蒿里行》）
+          - ancient: 生民百<遗>一，念之断人肠。。（汉•曹操《蒿里行》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 一百个老百姓当中只不过剩下一个还活着，想到这里令人极度哀伤。
   - word: 遗
     type: 【动词】
     phonetic: wei4
@@ -83,24 +83,24 @@ words:
         sentences:
           - ancient: "侍中、侍郎郭攸之、费祎、董允等，此皆良实,志虑忠纯,是以先帝简拔（选拔）以<遗>陛下。（《出师表》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 侍中、侍郎郭攸之、费祎、董允等人，都是善良诚实、心志忠贞纯洁的人，他们的志向和心思忠诚无二，因此先帝选拔他们留给陛下。
           - ancient: 既至匈奴，置币<遗>单于（《苏武传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 已经到了匈奴那里，备办了一些礼品送给单于。
           - ancient: "人贱物亦鄙,不足迎后人,留待作<遗>施,于今无会因。（《孔雀东南飞》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 人既然低贱东西自然也卑陋，不值得用它们来迎娶后来的新人。你留着等待以后有机会施舍给别人吧，走到今天这一步今后不可能再相会相亲。
       - trans: ❷送。
         sentences:
           - ancient: 强国之民，父<遗>其子，兄<遗>其弟，妻<遗>其夫，皆曰："不得（杀敌立功），无返。"（《商君书•画策》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: 使人<遗>赵王书，愿以十五城请易（换取）璧。（《廉颇蔺相如列传》）
+            vernacular: 强大国家的民众，父亲送他的儿子去当兵，哥哥送他的弟弟去当兵，妻子送她的丈夫去当兵，他们都说：‘不能得到敌人的首级不要回来！’
+          - ancient: 秦昭王闻之，使人<遗>赵王书，愿以十五城请易（换取）璧。（《廉颇蔺相如列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 秦昭王听说了这件事，就派人给赵王送来一封书信，表示愿意用十五座城池交换和氏璧。
           - ancient: 公子姊为赵惠文王弟平原君夫人，数<遗>魏王及公子书，请救于魏。（《史记•魏公子列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 公子的姐姐是赵惠王的弟弟平原君的夫人，多次送信给魏王和公子，向魏王请求救兵
           - ancient: "【高考题例】邓奉反于南阳,憙素与奉善,数<遗>书切责之，而谗者因（趁机）言憙与奉合谋，帝以为疑。（《后汉书•赵憙传》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 当时邓奉在南阳反叛，趟憙一向和邓奉交好，多次送信严厉地责骂他，而那些说坏话的人就说赵憙和邓奉合谋，皇上怀疑这件事。

@@ -10,51 +10,51 @@ words:
         sentences:
           - ancient: 君子曰:学不可以<已>。（《劝学》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 君子说：学习是不可以停止的。
           - ancient: "且燕赵处秦革灭殆尽之际,可谓智力孤危，战败而亡，诚不得<已>。（《六国论》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 而且燕赵两国正处在秦国把其他国家快要消灭干净的时候，可以说它们的智谋和力量都很单薄，战败了而亡国，确实是不得已的事。
           - ancient: "【高考题例】诏降一级致仕，瑾恨未<已>，坐以遗失部籍,逮文下诏狱。（《明史•韩文传》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 皇帝下诏降韩文一级官职退休，郎中陈仁贬谪为钧州同知。刘瑾并未解恨，以遗失户籍档案定罪，逮捕韩文和侍郎张缙入钦犯监狱。
       - trans: ❷制止。
         sentences:
           - ancient: 且舜救败，期年<已>一过，三年<已>三过。（《韩非子•难一》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 再说舜纠正败坏的风气，一年纠正一个过错，三年纠正三个过错。
       - trans: ❸治愈;消除。
         sentences:
           - ancient: 然得而腊之以为饵，可以<已>大风、挛踠（手足弯曲不能伸）、瘘、疠（疫病），去死肌，杀三虫。（《捕航者说》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 然而捉到后晾干把它拿来做药引，可以用来治愈麻风、手脚蜷曲、脖肿、恶疮，去除死肉，杀死人体内的寄生虫。
       - trans: ❹算了罢了。
         sentences:
-          - ancient: 且壮士不死即<已>，死即举大名耳。（《陈涉世家》）
+          - ancient: 且壮士不死即<已>，死即举大名耳，王侯将相宁有种乎！（《陈涉世家》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 况且壮士不死便罢了，要死就该成就伟大的名声啊，王侯将相难道有天生的贵种吗！
           - ancient: 闻道有先后，术业有专攻，如是而<已>。（《师说》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 知道道理有先有后，技能学业各有专门研究.
           - ancient: <已>矣乎！寓形宇内复几时？曷不委心任去留？（《归去来兮辞》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 算了吧！活在世上还能有多久？为什么不随心所欲，听凭自然的生死？
           - ancient: 我决起而飞，抢榆枋而止，时则不至，而控于地而<已>矣。（《逍遥游》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我猛地起飞，力图到达榆树和檀树的树枝，有时飞不到，也就落在地上而已
           - ancient: 不吾知其亦<已>兮，苟余情其信芳。（《离骚》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 没有人了解我也就罢了，只要内心真正馥郁芳柔。
       - trans: ❺完毕。
         sentences:
           - ancient: 言<已>大笑，先生亦笑。（《中山狼传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 说完大笑。先生也笑了。
           - ancient: 呜乎！胜地不常，盛筵难再，兰亭<已>矣，梓泽丘墟。（《滕王阁序》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 呵！名胜之地不能常存，盛大的宴会难以再逢，兰亭宴集已为陈迹，石崇的梓泽也变成了废墟。
           - ancient: "既<已>，无可奈何,乃遂收盛樊於期之首，函封之。（《荆轲刺秦王》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 但已经，是无可奈何的事了，于是收拾好樊於期的头，用盒子装好。
       - trans: ❻过去;已往。
         sentences:
           - ancient: 夫三代之所以长久者，其<已>事可知也。（汉•贾谊《陈政事疏》）
@@ -64,12 +64,12 @@ words:
         sentences:
           - ancient: 令尹子文三仕为令尹，无喜色；三<已>之，无愠色。（《论语•公冶长》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 令尹子文几次做楚国宰相，没有显出高兴的样子，几次被免职，也没有显出怨恨的样了。
       - trans: ❽重视并实行。
         sentences:
-          - ancient: 喜任侠，<已>然诺。（《汉书•窦田灌韩传》）
+          - ancient: 夫不好文学，喜任侠，<已>然诺。（《汉书•窦田灌韩传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 灌夫不喜欢文章经学，爱打抱不平，已经答应了别人的事，一定办到
   - word: 已
     type: 【副词】
     phonetic: yi3
@@ -80,35 +80,35 @@ words:
         sentences:
           - ancient: 舟<已>行矣，而剑不行，求剑若此，不亦惑乎？（《吕氏春秋•察今》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 船已经走了很远，而剑还在原来的地方，用这样的方法来寻找剑，不是很糊涂吗？
           - ancient: 其巫，老女子也，<已>年七十。（汉•褚少孙《西门豹治邺》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 那个女巫是个老婆子，已经七十多岁。
           - ancient: 故不战而强弱胜负<已>判矣。（《六国论》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 所以用不着战争，谁强谁弱，谁胜谁负就已经决定了。
           - ancient: 沛公<已>去，间至军中。（《鸿门宴》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 刘邦离去后，从小路回到军营里。
       - trans: ❷表示前后承接，时间相隔短暂。随即;不久就。
         sentences:
           - ancient: 韩王成无军功，项王不使之国，与俱至彭城，废以为侯，<已>又杀之。（《史记•项羽本纪》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 韩王成没有军功，项王不让他就国，一起到了彭城，废去王号，改封为侯，不久又杀死了。
           - ancient: 庭中始为篱，<已>为墙，凡再变矣。（《项脊轩志》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "【高考题例】<已>,又上吏部职掌十事。帝悉褒纳。（《明史•马文升传》）\t："
+            vernacular: 庭院中开始是篱笆隔开，然后又砌成了墙，一共变了两次。
+          - ancient: "【高考题例】<已>,又上吏部职掌十事。帝悉褒纳。（《明史•马文升传》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 后来，文升又上书谏论吏部掌管的十件事。文帝都加以赞扬并采纳。
       - trans: ❸表示程度很高或过分。太;过于。
         sentences:
-          - ancient: 不亦待其身者<已>廉乎！（唐•韩愈《原毁》）
+          - ancient: 外以欺于人，内以欺于心，未少有得而止矣，不亦待其身者<已>廉乎？（唐•韩愈《原毁》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 对外欺骗别人，对己欺骗良心，还没有多少收获就止步不前，岂不是要求自身太少了吗？
           - ancient: 夫十有—月之中，凡富贵之子，慷慨得志之徒，其疾病而死，死而湮没不足道者，亦<已>众矣；况草野无闻者欤？（《五人墓碑记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 在这十一个月当中，大凡富贵人家的子弟，意气豪放、志得意满的人，他们因患病而死，死后埋没不值得称道的人，也太多了；何况乡间没有声名的人呢？
   - word: 已
     type: 【连词】
     phonetic: yi3
@@ -119,10 +119,10 @@ words:
         sentences:
           - ancient: 自董卓<已>来，豪杰并起，跨州连郡者不可胜数。（《隆中对》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 自董卓独掌大权以来，各地豪杰同时起兵，占据州、郡的人数不胜数。
           - ancient: 自今<已>往，吾其无意（没有心思）于人世矣！（《祭十二郎文》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 从今以后，我已经没有心思奔忙在世上了!
   - word: 已
     type: 【助词】
     phonetic: yi3
@@ -133,7 +133,7 @@ words:
         sentences:
           - ancient: 苟无恒心，放辟邪侈，无不为<已>。（《齐桓晋文之事》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 如果没有稳定不变的思想，那么违礼犯法、为非作歹的事，没有不去干的了。
           - ancient: 臣之壮也，犹不如人;今老矣，无能为也<已>。（《烛之武退秦师》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我在壮年的时候，尚且不如别人；现在老了，无能为力啊。

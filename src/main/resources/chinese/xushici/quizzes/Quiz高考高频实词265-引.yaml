@@ -4,65 +4,65 @@ quizzes:
     type: 【名词】
     phonetic: yin3
     trans: ❶乐曲体裁名，也是乐府诗体的一种。如李贺有《李凭箜篌》等。
-    ancient: "故聆曲<引>者,观法于节奏。（汉•马融《长笛赋》）"
+    ancient: "故聆曲<引>者,观法于节奏，察变于句投，以知礼制之不可逾越焉。（汉•马融《长笛赋》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 所以聆听曲引的人，观法度于节奏，体察变化于句逗，以此知道礼制是不可逾越的。
   - word: 引
     type: 【名词】
     phonetic: yin3
     trans: ❷文体名，即序。
     ancient: 敢竭鄙怀，恭疏短<引>，一言均赋，四韵俱成。（《滕王阁序》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 我只是冒昧地尽我微薄的心意，作了短短的引言，我的一首四韵小诗也已写成。
   - word: 引
     type: 【动词】
     phonetic: yin3
     trans: ❶拉弓。
     ancient: 齐宣王好射，说（通""悦"）人之谓己能用强弓也。其尝所用不过三石，以示左右，左右皆试<引>之，中关而止。（《吕氏春秋•壅塞》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 齐宣王喜欢射箭，而且对别人说他能用强弓而高兴。其实他所用过的弓也不过三石而已。他把弓拿给手下人，手下人都尝试拉开弓，都是只拉倒一半就拉不开了
   - word: 引
     type: 【动词】
     phonetic: yin3
     trans: ❶拉弓。
     ancient: "林暗草惊风,将军夜<引>弓。（唐•卢纶《和张仆射塞下曲》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 林中昏暗风吹草动令人惊，将军夜中搭箭拉弓显神勇。
   - word: 引
     type: 【动词】
     phonetic: yin3
     trans: ❷牵;拉;拽。
     ancient: 左右或欲<引>相如去。（《廉颇蔺相如列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 侍从有人要拉相如去受刑
   - word: 引
     type: 【动词】
     phonetic: yin3
     trans: ❷牵;拉;拽。
     ancient: 已而相如出，望见廉颇，相如<引>车避匿。（《廉颇蔺相如列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 没过多久，蔺相如外出，远远看到廉颇，蔺相如就掉转车子回避。
   - word: 引
     type: 【动词】
     phonetic: yin3
     trans: ❸引导;带领。
     ancient: "秦王斋五曰后,乃设九宾礼于廷，<引>赵使者蔺相如。（《廉颇蔺相如列传》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 秦王斋戒五天后，就在殿堂上安排了九宾的大典礼，宴请赵国使者蔺相如。
   - word: 引
     type: 【动词】
     phonetic: yin3
     trans: ❸引导;带领。
     ancient: 又有清流激湍，映带（围绕）左右，<引>以为流觞曲水（让酒杯漂在环形清流中，飘到谁面前谁就取来饮酒），列坐其次。（《兰亭集序》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "又有清澈激荡回旋的水流,辉映围绕在亭子的四周,汲引清流急湍,用作流动酒杯的曲折水道,(人们)依次排列,坐于曲水岸边。(得分点:“引以为流觞曲水”“列坐其次”省略句式,“映带”,“流”活用,“其次”古今异义,句意对)"
   - word: 引
     type: 【动词】
     phonetic: yin3
     trans: ❸引导;带领。
     ancient: 武夫揭（分开）水指路，<引>毅以进。（《柳毅传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 武士分开水，指出道路，带着柳毅前进。
   - word: 引
     type: 【动词】
     phonetic: yin3
@@ -76,151 +76,144 @@ quizzes:
     trans: ❸引导;带领。
     ancient: 沛公<引>兵西，遇彭越昌邑，因与俱攻秦军，战不利。（《史记•高祖本纪》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "沛公率兵西进,在昌邑与彭越相遇.于是和他一起攻打秦军,战事不利."
   - word: 引
     type: 【动词】
     phonetic: yin3
     trans: ❸引导;带领。
     ancient: 夜半时，胡兵亦以为汉有伏军于旁欲夜取之，胡皆<引>兵而去。（《史记・李将军列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 到了半夜，匈奴兵又以为汉朝有伏兵在附近，想趁夜偷袭他们，因而匈奴就领兵撤离了。
   - word: 引
     type: 【动词】
     phonetic: yin3
     trans: ❹避开;退避。
     ancient: 语竟，<引>别东去。不数十步，回望女与羊，俱亡所见矣。（《柳毅传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 说完，（柳毅和她）告别向东走。走不到几十步，回头看看女子与羊群，都不见了。
   - word: 引
     type: 【动词】
     phonetic: yin3
     trans: ❹避开;退避。
     ancient: 时（曹）操军众已有疾疫，初一交战，操军不利，<引>次江北。（《资治通鉴•汉纪五十七》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: "这时曹操的军队已经发生了瘟疫,刚一开始交战,曹军(就)不利,退却后驻扎(在)长江北岸."
   - word: 引
     type: 【动词】
     phonetic: yin3
     trans: ❺引用。
-    ancient: "子游<引>前言以距（通\"拒\",拒绝）孔子。（《论衡•问孔》）"
+    ancient: "孔子笑子游之弦歌，子游<引>前言以距（通\"拒\",拒绝）孔子。（《论衡•问孔》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 孔子讥笑子游弹琴唱歌，子游引用孔子以前曾说过的话加以反驳。
   - word: 引
     type: 【动词】
     phonetic: yin3
     trans: ❺引用。
     ancient: 乃<引>"天亡我，非用兵之罪也"，岂不谬哉！（《史记•项羽本纪》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 而且还借口说“是上天要灭亡我，并不是我用兵的过错”，这难道不是很荒谬吗?
   - word: 引
     type: 【动词】
     phonetic: yin3
     trans: ❻举;拿。
     ancient: "<引>壶觞以自酌，眄（mian3,斜视）庭柯（树枝）以怡颜。（《归去来兮辞＞）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 我端起酒壶酒杯自斟自饮，观赏着庭树（使我）露出愉快的神色
   - word: 引
     type: 【动词】
     phonetic: yin3
     trans: ❻举;拿。
-    ancient: 妻乃<引>刀趋机而言曰……（《后汉书•列女传》）
+    ancient: 妻乃<引>刀趋机而言曰：此织生自蚕茧，成于机杼。（《后汉书•列女传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 妻子听后，就拿起刀来快步走到织机前说道：“这些丝织品都是从蚕茧中生出，又在织机上织成。
   - word: 引
     type: 【动词】
     phonetic: yin3
     trans: ❻举;拿。
     ancient: 荆轲废，乃<引>其匕首提秦王，不中，中柱。（《荆轲刺秦王》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 荆轲倒下了，就举起他的匕首投击秦王，没有击中，击中了柱子。
   - word: 引
     type: 【动词】
     phonetic: yin3
     trans: ❼召请;邀请。
-    ancient: 公子<引>侯生坐上坐，遍赞宾客，宾客皆惊。（《史记•魏公子列传》）
+    ancient: 至家，公子<引>侯生坐上坐，遍赞宾客，宾客皆惊。（《史记•魏公子列传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 到家后，公子领着侯先生坐到上位上，并向全体宾客赞扬地介绍了侯先生，满堂宾客无不惊异。
   - word: 引
     type: 【动词】
     phonetic: yin3
     trans: ❽伸长。
     ancient: 如有不嗜杀人者，则天下之民皆<引>领（脖子）而望之矣。（《孟子见梁襄王》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 如果有一个不喜欢杀人的（国君），那么普天下的老百姓都会伸长脖子仰望着他了。
   - word: 引
     type: 【动词】
     phonetic: yin3
     trans: ❾招引；招来。
-    ancient: "李怒……每得降卒,必亲<引>问委曲（事情的原委或底细），由是贼中险易远近虚实尽知之。"
+    ancient: 李怒每得降卒，必亲<引>问委曲（事情的原委或底细），由是贼中险易远近虚实尽知之。 (《资治通鉴•唐纪五十六》)
     url: xxxx
-    vernacular: xxxx
-  - word: 引
-    type: 【动词】
-    phonetic: yin3
-    trans: ❾招引；招来。
-    ancient: 《资治通鉴•唐纪五十六》）
-    url: xxxx
-    vernacular: xxxx
+    vernacular: 每当李愬得到归降的士兵，一定要亲自领来询问淮西的底细，因此他对敌方的地形和兵力分布都了解清楚了。
   - word: 引
     type: 【动词】
     phonetic: yin3
     trans: ❾招引；招来。
     ancient: 后迁侍中，帝<引>在帷幄，讽议左右。（《张衡传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 后来被升为侍中，皇帝让他进皇宫，在皇帝左右，对国家的政事提意见。
   - word: 引
     type: 【动词】
     phonetic: yin3
     trans: ❿延长;连续。
     ancient: "每至晴初霜旦，林寒涧肃，常有高猿长啸，属（zhu3,连续）<引>凄异，空谷传响，哀转久绝。（《三峡》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 在秋天，每到初晴的时候或下霜的早晨，树林和山涧显出一片清凉和寂静，经常有高处的猿猴拉长声音鸣叫，声音持续不断，非常凄惨悲凉，空荡的山谷里传来猿叫的回声，悲哀婉转，很久才消失。
   - word: 引
     type: 【动词】
     phonetic: yin3
     trans: ⑪失去。
-    ancient: 是谓乱军<引>胜。（《孙子兵法•谋攻》）
+    ancient: 三军既惑且疑，则诸侯之难至矣。是谓乱军<引>胜。（《孙子兵法•谋攻》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 军队既迷惑又疑虑，诸侯国军队乘机而进攻，灾难就降临到头上，这就是自乱其军而丧失了胜利。
   - word: 引
     type: 【动词】
     phonetic: yin3
     trans: ⑫引进;荐举。
-    ancient: 奖<引>后进，如恐不及。（《宋史•欧阳修传》）
+    ancient: 奖<引>后进，如恐不及，赏识之下，率为闻人。（《宋史•欧阳修传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 奖赏提拔后进者（的做法），就好像来不及一样。（在这）奖赏辩识之下，（那些人）都成为了声名远播的人。
   - word: 引
     type: 【动词】
     phonetic: yin3
     trans: ⑬向上起。
     ancient: "未至身，秦王惊，自<引>而起,绝袖。（《荆轲刺秦王》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 还没有刺到秦王的身上，秦王非常惊骇，自己伸直身子站起来，挣断了袖子。
   - word: 引
     type: 【动词】
     phonetic: yin3
     trans: ⑭揭发;检举。
     ancient: 虞常果<引>张胜。（《苏武传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 虞常果然供出了张胜。
   - word: 引
     type: 【动词】
     phonetic: yin3
     trans: ⑮退隐;隐藏。
     ancient: 身直为闺阁之臣，宁得自<引>深藏于岩穴邪？（《报任安书》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 我已经成了宦官，怎么能够自己引退，深深地在山林岩穴隐居呢？
   - word: 引
     type: 【动词】
     phonetic: yin3
     trans: ⑯自杀。
     ancient: 予分当<引>决，然而隐忍以行。（《〈指南录〉后序》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 我按理应当自杀，然而仍然含恨忍辱地前去。
   - word: 引
     type: 【动词】
     phonetic: yin3
     trans: ⑯自杀。
     ancient: "至于鞭箠之间，乃欲<引>节,斯不亦远乎！（《报任安书》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 到了挨打受刑的时候，才想到伸张士大夫的名节，这种愿望和现实不是相距太远了吗？
