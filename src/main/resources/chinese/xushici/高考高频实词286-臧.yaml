@@ -10,12 +10,12 @@ words:
         sentences:
           - ancient: 且夫<臧>获婢妾，犹能引决（自杀），况仆之不得已乎?（《报任安书》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 再说奴隶婢妾尚且能够下决心自杀，何况像我到了这样不得已的地步！
       - trans: ❷通"赃"。通过贿赂、盗窃等不正当手段获得的财物。
         sentences:
-          - ancient: 受纳<臧>赂。（《后汉书•陈禅传》）
+          - ancient: 时刺史为人所上受纳<臧>赂，禅当传考。（《后汉书•陈禅传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 当时刺史被人检举受纳赃赂，陈禅应当被逮捕考查
   - word: 臧
     type: 【动词】
     phonetic: zang1
@@ -26,10 +26,10 @@ words:
         sentences:
           - ancient: 宫中府中，俱为一体，陟罚<臧>否，不宜异同。（《出师表》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 皇宫中和朝廷中本都是一个整体，赏罚褒贬，不应该有所不同。
           - ancient: 【高考题例】弘微口不言人短长，而曜好<臧>否人物，曜每言论，弘微常以它语乱之。（《宋书•谢弘微传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 谢弘微口中从不说别人坏话，而谢曜则喜欢评议人物，每当谢曜在言谈中涉及别人时，谢弘微就常用别的话题岔开。
   - word: 臧
     type: 【形容词】
     phonetic: zang1
@@ -40,4 +40,4 @@ words:
         sentences:
           - ancient: 我酒既旨，我肴既<臧>。（《诗经•都风•载驰》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我的酒肴十分美好，就让自己尽情地品尝享受吧！
