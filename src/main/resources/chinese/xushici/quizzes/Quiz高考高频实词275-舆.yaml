@@ -4,14 +4,14 @@ quizzes:
     type: 【名词】
     phonetic: yu2
     trans: ❶车厢。泛指车。
-    ancient: 假（借助）<舆>马者，非利足（脚步快）也。（《劝学》）
+    ancient: 假（借助）<舆>马者，非利足（脚步快）也，而致千里。（《劝学》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 借助车马的人，并不是脚走得快，却可以达到千里之外
   - word: 舆
     type: 【名词】
     phonetic: yu2
     trans: ❷抬人登山的用具。轿孚；
-    ancient: 乘肩<舆>，具威仪。（《晋书•王导传》）
+    ancient: 会三月上巳，帝亲现禊，乘肩<舆>，具威仪。（《晋书•王导传》）
     url: xxxx
     vernacular: xxxx
   - word: 舆
@@ -32,13 +32,13 @@ quizzes:
     type: 【动词】
     phonetic: yu2
     trans: 抬;举。
-    ancient: 武气绝，半日复息。惠等哭，<舆>归营。（《苏武传》）【形容词】众多。
+    ancient: 武气绝，半日复息。惠等哭，<舆>归营。（《苏武传》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 苏武本来已经断了气，这样过了好半天才重新呼吸。常惠等人哭泣着，用车子把苏武抬回营帐。
   - word: 舆
-    type: 【动词】
+    type: 【形容词】
     phonetic: yu2
-    trans: 抬;举。
+    trans: 众多。
     ancient: "近臣谏，远臣谤,<舆>人诵，以自诰也。（《国语•楚语上》）"
     url: xxxx
-    vernacular: xxxx
+    vernacular: 身边的臣子劝谏，下边的臣子批评，老百姓也讽刺，自己应该警诫呀。

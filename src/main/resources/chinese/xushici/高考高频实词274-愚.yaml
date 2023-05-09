@@ -10,7 +10,7 @@ words:
         sentences:
           - ancient: 于是废先王之道，焚百家之言，以<愚>黔首。（《过秦论》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 秦始皇接着就废除古代帝王的治世之道，焚烧诸子百家的著作，来使百姓愚蠢
   - word: 愚
     type: 【形容词】
     phonetic: yu2
@@ -21,13 +21,13 @@ words:
         sentences:
           - ancient: 是故圣益圣，<愚>益<愚>。（《师说》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 因此圣明的人更加圣明，愚笨的人更加愚笨
           - ancient: 人君无<愚>智贤不肖，莫不欲求忠以自为，举贤以自佐。（《史记•屈原贾生列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 国君无论愚笨或明智、贤明或昏庸，没有不想求得忠臣来为自己服务，选拔贤才来辅助自己的。
           - ancient: "故余虽<愚>,卒获有所闻。（《送东阳马生序》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 所以我虽然愚笨，但最终获得不少教益。
   - word: 愚
     type: 【代词】
     phonetic: yu2
@@ -38,7 +38,7 @@ words:
         sentences:
           - ancient: "<愚>以为宫中之事，事无大小，悉（全）以咨之，然后施行,必能裨补阙漏，有所广益。（《出席表》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我（诸葛亮）认为朝廷中的事，无论大事小事，都应该拿来向郭攸之，费祎，董允咨询，然后再去施行，一定能够弥补缺点和不足，得到更多的成效。
           - ancient: <愚>谓大计不如迎之。（《资治通鉴•汉纪五十七》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 因此，依我们的愚见，最好是迎接曹操，投降朝廷。
