@@ -10,18 +10,18 @@ words:
         sentences:
           - ancient: <诸>郎中执兵，皆陈殿下，非有诏不得上。（《荆轲刺秦王》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 并且按照秦国的法律，臣子们侍立在殿上的，不能带一点兵器；
           - ancient: 当此时，<诸>郡县苦秦吏者，皆刑（杀）其长吏，杀之以应陈涉。（《陈涉世家》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 在这时，各郡县被秦朝官吏压榨迫害的百姓，都起来惩罚当地郡县长官，杀死他们来响应陈胜（的号召）。
       - trans: ❷做第三人称代词。相当于"之"。
         sentences:
           - ancient: 潘崇曰："能事<诸>乎?"曰:"不能。"（《左传•文公元年》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 潘崇说：“能（继续）侍奉他吗?”
           - ancient: 王如改<诸>，则必反予。（《孟子•公孙丑下》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 齐王如果改变，那就会反过来找我。
   - word: 诸
     type: 【兼词】
     phonetic: zhu1
@@ -32,21 +32,21 @@ words:
         sentences:
           - ancient: 投<诸>渤海之尾，隐土之北。（《愚公移山》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 把它扔到渤海的边上，隐土的北边。
           - ancient: 或取<诸>怀抱，悟言一室之内。（《兰导集序》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 有的人从自己的情趣思想中取出一些东西，在室内（跟朋友）面对面地交谈
           - ancient: 乃赏成，献<诸>抚军。（《促织》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 于是就奖赏了成名，把蟋蟀献给了巡抚。
           - ancient: 【高考题例】为请<诸>朝，发太仓米振之。（《宋史•萧燧传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 为他们向朝廷请示,打开太仓的粮食赈济严州百姓。
       - trans: ❷相当于"之乎"。
         sentences:
           - ancient: 文王之囿（畜养禽兽的园地）方（方园）七十里，有<诸>？（《孟子•桀惠王下》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 齐宣王问道：“（我听说）周文王的捕猎场方圆七十里，有这回事吗？”
           - ancient: "何可废也,以羊易之。不识有<诸>？（《齐桓晋文之事》）"
             url: xxxx
-            vernacular: xxxx
+            vernacular: 怎么可以不要呢？用羊替代它！不知是否有这件事？
