@@ -8,7 +8,7 @@ words:
     samples:
       - trans: 渡口。
         sentences:
-          - ancient: "匏（pao2,-种葫芦）有苦叶，济（渡口）有深<涉>。（《诗经•邶风•匏有苦叶》）"
+          - ancient: "匏（pao2，-种葫芦）有苦叶，济（渡口）有深<涉>。（《诗经•邶风•匏有苦叶》）"
             url: xxxx
             vernacular: 葫芦瓜有苦味叶，济水边有深渡口。
   - word: 涉
@@ -50,4 +50,4 @@ words:
         sentences:
           - ancient: 而言有关<涉>，事便显露。（《史通•叙事》）
             url: xxxx
-            vernacular: 但在人物语言中涉及到了,事迹也就显示出来。
+            vernacular: 但在人物语言中涉及到了，事迹也就显示出来。
