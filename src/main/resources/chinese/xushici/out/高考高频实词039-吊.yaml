@@ -8,32 +8,32 @@ words:
     samples:
       - trans: ❶悼念、祭奠死者。
         sentences:
-          - ancient: 【例句】为我<吊>望诸君之墓，而观于其市，复有昔时屠狗者乎？（唐•韩愈《送董邵南游河北序》）
+          - ancient: 为我<吊>望诸君之墓，而观于其市，复有昔时屠狗者乎？（唐•韩愈《送董邵南游河北序》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 请替我凭吊一下望诸君（乐毅）的墓，并且到那里的集市上去看看，还有像过去的屠狗者一类的埋没在草野的志士吗？
           - ancient: 及见贾生<吊>之，又怪屈原以彼其材，游诸侯，何国不容，而自令若是。（《史记•屈原贾生列传》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: 【高考题例】贾生既辞往行……及渡湘水，为赋以<吊>屈原。（《史记•屈原贾生列传》）
+            vernacular: 看到贾谊凭吊他的文章，文中又责怪屈原如果凭他的才能去游说诸侯，哪个国家不会容纳，却自己选择了这样的道路！
+          - ancient: 【高考题例】贾生既辞往行，及渡湘水，为赋以<吊>屈原。（《史记•屈原贾生列传》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "【高考题例】建初五年，憲疾病，帝亲幸视。及薨,车驾往临<吊>。（《后汉书•赵惠传》）"
+            vernacular: 贾谊向文帝告辞之后，前往长沙赴任，等到渡湘水的时候，写下一篇赋来凭吊屈原。
+          - ancient: 【高考题例】建初五年，憲疾病，帝亲幸视。及薨，车驾往临<吊>。（《后汉书•赵惠传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 建初五年，赵憙疾病，帝亲临探视。病逝之后，帝亲往临吊。
       - trans: ❷慰问。如成语"吊民伐罪"。
         sentences:
-          - ancient: 【例句】近塞上之人有善术者，马无故亡（丢失）而入胡，人皆<吊>之。（《塞翁失马》）
+          - ancient: 近塞上之人有善术者，马无故亡（丢失）而入胡，人皆<吊>之。（《塞翁失马》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "外无期功强近之亲，内无应门五尺之僮，茕茕（qiong2,孤单的样子）孑立，形影相<吊>。（《陈情表》）"
+            vernacular: 有位擅长推测吉凶掌握术数的人居住在靠近边塞的地方，他们家的马无缘无故跑到了胡人的住地。
+          - ancient: 外无期功强近之亲，内无应门五尺之僮，茕茕（qiong2，孤单的样子）孑立，形影相<吊>。（《陈情表》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 在外面没有比较亲近的亲戚，在家里又没有照应门户的童仆，生活孤单没有依靠，只有和自己的身影相互慰问。
           - ancient: 今吾使建中祭汝，<吊>汝之孤与汝之乳母。（《祭十二郎文》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 现在我派建中来祭奠你，安慰你的孩子和你的乳母。
           - ancient: <吊>有忧，贺有喜；送往者，迎来者。（《勾践灭吴》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 谁家有忧就去慰问，谁家有喜事就去祝贺；欢送要远出的人民，欢迎回家的人民
   - word: 吊
     type: 【量词】
     phonetic: diao4
@@ -42,6 +42,6 @@ words:
     samples:
       - trans: 旧时钱币单位，一般是一千个制钱叫一吊。
         sentences:
-          - ancient: 【例句】一亩地总要值一百多<吊>钱呢。（《老残游记》十三回）
+          - ancient: 一亩地总要值一百多<吊>钱呢。（《老残游记》十三回）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 一亩地总要值一百多吊钱呢

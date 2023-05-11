@@ -10,15 +10,15 @@ words:
         sentences:
           - ancient: 劳不坐乘，暑不张<盖>。（《史记•商君列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 劳累了不坐车，酷暑炎热不打伞 这是《史记·商君列传》中对商君卫鞅的描述
           - ancient: 庭有枇杷树，吾妻死之年所手植也，今已亭亭如<盖>矣。（《项脊轩志》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 庭院中有一株枇杷树，是妻子去世那年我亲手种植的，如今已经高高挺立着，枝叶繁茂像伞一样了。
       - trans: ❷器物上的盖子。
         sentences:
           - ancient: 以精铜铸成，员径八尺，合<盖>隆起，形似酒尊。（《张衡传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 这个地动仪是用纯铜铸造的，直径有八尺，上下两部分相合盖住，中央凸起，样子像个大酒樽。
   - word: 盖
     type: 【动词】
     phonetic: gai4
@@ -27,26 +27,26 @@ words:
     samples:
       - trans: ❶遮蔽;遮掩。
         sentences:
-          - ancient: 日月欲明而浮云<盖>之。（《淮南子•说林训》）
+          - ancient: 日月欲明，而浮云<盖>之。（《淮南子•说林训》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 日月想要明亮，浮云遮蔽了它们
           - ancient: 其牙机巧制，皆隐在尊中，覆<盖>周密无际。（《张衡传》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "枝枝相覆<盖>,叶叶相交通。（《孔雀东南飞》）"
+            vernacular: 仪器的枢纽和机件制造得很精巧，都隐藏在酒尊形的仪器中，覆盖严密得没有一点缝隙。
+          - ancient: 枝枝相覆<盖>，叶叶相交通。（《孔雀东南飞》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 各种树枝枝枝相覆盖，各种树叶叶叶相连通。
       - trans: ❷胜过;超过。
         sentences:
           - ancient: 威<盖>海内，功章万里之外。（《战国策•秦策三》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 威权压倒全国，功业扬名万里之外
           - ancient: 功<盖>五帝，泽及牛马。（《史记•秦始皇本纪》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: 力拔山兮气<盖>世！时不利兮驱不逝！（《项羽之死》）
+            vernacular: 秦始皇的功绩超过了传说中的五帝，连牛和羊都享受到他的恩泽。
+          - ancient: 力拔山兮气<盖>世！时不利兮骓不逝！（《项羽之死》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 力量可以拔起大山，豪气世上无人能比，奈何时运不济，再名贵的宝马也再难奔驰。
   - word: 盖
     type: 【代词】
     phonetic: gai4
@@ -55,12 +55,12 @@ words:
     samples:
       - trans: 通"盍"。何不，何。
         sentences:
-          - ancient: "夫子之道至大也,故天下莫能容夫子。夫子<盖>少贬焉？（《史记•孔子世家》）"
+          - ancient: 夫子之道至大也，故天下莫能容夫子。夫子<盖>少贬焉？（《史记•孔子世家》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 老师的学说极其弘大，所以天下没有国家能容得下您。老师是否可以稍微降低一点标准呢？
           - ancient: 嘻，善哉！技<盖>至此乎？（《庖丁解牛》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 好啊！（你解牛的）技术怎么竟会高超到这种程度啊？
   - word: 盖
     type: 【副词】
     phonetic: gai4
@@ -71,16 +71,16 @@ words:
         sentences:
           - ancient: 今言"华"如"华实"之"华"者，<盖>音谬也。（《游褒禅山记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 如今将“华”读为“华实”的“华”，大概是读音上的错误。
           - ancient: 有善始者实繁，克终者<盖>寡。（《谏太宗十思疏》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 有良好开端的人确实很多，但能够始终如一，坚持到最后的人，却十分少。
           - ancient: 孔子以诗书礼乐教，弟子<盖>三千焉，身通六艺者七十有二人。（《史记•孔子世家》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "【高考题例】其牧守稍薄，则又移居,故其迁徙者,<盖>十余州焉。 （《旧唐书•李揆传》）"
+            vernacular: 孔子以《诗》《书》《礼》《乐》教导学生，他的弟子有三千多人，其中精通六艺的只有七十二人。
+          - ancient: 【高考题例】其牧守稍薄，则又移居，故其迁徙者，<盖>十余州焉。 （《旧唐书•李揆传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 当地的郡守长官对他稍有轻薄，就又迁居，所以他搬迁的地方，大约有十多个州。
   - word: 盖
     type: 【连词】
     phonetic: gai4
@@ -89,18 +89,18 @@ words:
     samples:
       - trans: 因为。
         sentences:
-          - ancient: "屈平之作《离骚》,<盖>自怨生也。（《史记•屈原贾生列传》）"
+          - ancient: 屈平之作《离骚》，<盖>自怨生也。（《史记•屈原贾生列传》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "<盖>在殷忧,必竭诚以待下；既得志，则纵情以傲物。（《谏太宗十思疏》）"
+            vernacular: 屈原之所以写《离骚》，其原因大概是怨愤引起的。
+          - ancient: <盖>在殷忧，必竭诚以待下；既得志，则纵情以傲物。（《谏太宗十思疏》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 原来是在打天下的时候，帝王对待臣民诚心诚意，一旦得志，便纵情傲物
           - ancient: 或曰：六国互丧，率赂秦耶？曰：不赂者以赂者丧。<盖>失强援，不能独完（保全）。故曰：弊在赂秦也。（《六国论》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: 乃悟前狼假藤，<盖>以诱敌。（《狼》）
+            vernacular: 有人问：“六国一个接一个的灭亡，难道全部是因为贿赂秦国吗？”（回答）说：“不贿赂秦国的国家因为有贿赂秦国的国家而灭亡。原因是不贿赂秦国的国家失掉了强有力的外援，不能独自保全。所以说：弊病在于贿赂秦国。”
+          - ancient: 乃悟前狼假寐，<盖>以诱敌。（《狼》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 屠户才明白之前的狼假装睡觉，原来是用来诱惑敌人。
   - word: 盖
     type: 【助词】
     phonetic: gai4
@@ -109,12 +109,12 @@ words:
     samples:
       - trans: 用在全段或句子开头，无实义。
         sentences:
-          - ancient: "五人者，<盖>当蓼洲周公之被逮,激于义而死焉者也。（《五人墓碑记》）"
+          - ancient: 五人者，<盖>当蓼洲周公之被逮，激于义而死焉者也。（《五人墓碑记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: （墓中的）五个人，就是当周蓼洲先生被捕的时候，激于义愤而死于这件事的。
           - ancient: <盖>余之勤且艰若此。（《送东阳马生序》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我求学的辛勤和艰苦就是像这个样子。
           - ancient: <盖>将自其变者而观之，则天地曾不能以一瞬。（《赤壁赋》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 可见，从事物易变的一面看来，天地间没有一瞬间不发生变化

@@ -10,20 +10,20 @@ words:
         sentences:
           - ancient: 兵未战而先见败<征>，此可谓知兵矣。（《史记•项羽本纪》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 在军队没有打仗的时候，就能事先看出失败的征兆，这可以称得上是懂得用兵了。
           - ancient: 尝一龙机发而地不觉动，京师学者咸怪其无<征>。（《张衡传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 有一次，一条龙的机关发动了，京城的学者都责怪它这次没有应验。
       - trans: ❷证明。
         sentences:
-          - ancient: 而其事信而有<征>。（清•薛福成《观巴黎油画记》）
+          - ancient: 夫普法之战，迄今虽为陈迹，而其事信而有<征>。（清•薛福成《观巴黎油画记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 普鲁士王国和法国的战争，到现在虽然已成为过去的事，而那一事件是确凿而有根据的。
       - trans: ❸赋税。
         sentences:
-          - ancient: 使食其<征>。（《左传•文公十一年》）
+          - ancient: 宋公于是以门赏耏班，使食其<征>，谓之耏门。（《左传•文公十一年》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 宋公因此就把城门赏给耏班，让他征收城门税，把城门称为耏门。
   - word: 征
     type: 【动词】
     phonetic: zheng1
@@ -34,56 +34,56 @@ words:
         sentences:
           - ancient: 我日斯迈，而月斯<征>。（《诗经•小雅•小宛》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我天天在外奔波，我月月在外远行。
           - ancient: 问<征>夫以前路，恨晨光之熹微。（《归去来兮辞》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 向行人打听前面的路，遗憾的是天亮得太慢。
       - trans: ❷征伐;讨伐。
         sentences:
           - ancient: 挟天子以<征>四方。（《资治通鉴•汉纪五十七》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 挟:挟制。挟制皇帝，用朝廷的名来征讨四方。
           - ancient: 桓公实北<征>山戎，而管仲因而令燕修召公之政。（《史记•管仲列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 桓公实际上是向北出兵攻打山戎，而管仲就趁机让燕国整顿召公时期的政教。
       - trans: ❸争夺;争取。
         sentences:
           - ancient: 当此时也，民务胜而力<征>。（《商君书•开塞》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 这个时期民众都尽力制服对方来竭力争夺财物，这样就发生的争斗。
       - trans: ❹征收;征税。
         sentences:
-          - ancient: 宫中点（风行）促织之戏，岁<征>民间。（《促织》）
+          - ancient: 宫中尚（风行）促织之戏，岁<征>民间。（《促织》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 皇室里盛行斗蟋蟀的赌博，每年都要向民间征收。
       - trans: ❺征召;召请。
         sentences:
-          - ancient: "安帝雅（平素）闻（张）衡善术学，公车特<征>拜郎中,再迁为太史令。（《张衡传》）"
+          - ancient: 安帝雅（平素）闻（张）衡善术学，公车特<征>拜郎中，再迁为太史令。（《张衡传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 汉安帝常听说他擅长术数方面的学问，命公车特地征召他，任命他为郎中。两次迁升为太史令。
           - ancient: 视事三年，上书乞骸骨，<征>拜尚书。（《张衡传》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "【高考题例】孝文皇帝初立，闻河南守吴公治平为天下第一，故\":与李斯同邑而常学事焉,乃<征>为廷尉。（《史记•屈原贾生列传》）"
+            vernacular: （张衡）在河间相位上任职三年，给朝廷上书，请求辞职回家，朝廷任命他为尚书。
+          - ancient: 【高考题例】孝文皇帝初立，闻河南守吴公治平为天下第一，故":与李斯同邑而常学事焉，乃<征>为廷尉。（《史记•屈原贾生列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 汉文帝刚即位时，听说河南郡守吴公政绩卓著，为全国第一，而且和李斯同乡，又曾向李斯学习过，于是就征召他担任廷尉。
       - trans: ❻追允;追冋。
         sentences:
-          - ancient: 寡人是<征>。（《左传•僖公四年》）
+          - ancient: 尔贡包茅不入，王祭不共，无以缩酒，寡人是<征>。（《左传•僖公四年》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 你们应该进贡的包茅不按时送来，不按时供应周王祭祀用的物品，祭祀没有渗酒的东西。寡人为此而来问罪。
       - trans: ❼求;取。
         sentences:
-          - ancient: "梁王伐邯郸,而<征>师于宋。（《战国策•宋策》）"
+          - ancient: 梁王伐邯郸，而<征>师于宋。（《战国策•宋策》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 魏王进攻赵国邯郸，魏国向宋国征调军队。
       - trans: ❽取信。
         sentences:
-          - ancient: "故夫知效一官，行比一乡，德合一君,而<征>一国者,其自视也，亦若此矣。（《逍遥游》）"
+          - ancient: 故夫知效一官，行比一乡，德合一君，而<征>一国者，其自视也，亦若此矣。（《逍遥游》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 同样地，那些才智胜任一个官职、能力在一乡中优秀出众、德行能投合一个君王的心意的，能力能够取得全国信任的，他们看待自己时，其实也像斥鴳的见识
       - trans: ❾证明。
         sentences:
           - ancient: 夏礼吾能言之，杞不足<征>也。殷礼吾能言之，宋不足<征>也。足，则吾能<征>之矣。（《史记•孔子世家》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 夏朝的礼，我能说出来，(但是它的后代)杞国不足以证明我的话;殷朝的礼，我能说出来，(但它的后代)宋国不足以证明我的话。这都是由于文字资料和熟悉夏礼和殷礼的人不足的缘故。如果足够的话，我就可以得到证明了。

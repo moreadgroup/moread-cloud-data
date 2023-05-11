@@ -10,16 +10,16 @@ words:
         sentences:
           - ancient: 蔡侯静者意有余，清夜（寂静的深夜）置酒临前<除>。（唐•杜甫《送孔巢文谢病處游江东兼呈李白》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: 黎明即起，洒扫庭<除>。（明•朱柏庐《朱子家训D）
+            vernacular: 蔡侯是淡薄名利的人，趁凉夜庭中摆酒饯行。
+          - ancient: 黎明即起，洒扫庭<除>。（明•朱柏庐《朱子家训）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 每天早晨黎明就要起床，先用水来洒湿庭堂内外的地面然后扫地
           - ancient: 扶辇下<除>，触柱折辕。（《苏武传》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "赵王扫<除>自迎，执主人之礼，引公子就西阶。（《史记•魏公子列传》）"
+            vernacular: 扶着皇帝的车驾下殿阶，碰到柱子，折断了车辕。
+          - ancient: 赵王埽<除>自迎，执主人之礼，引公子就西阶。（《史记•魏公子列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 赵王打扫了殿堂台阶，亲自到门口迎接贵客，并执行主人的礼节，领着公子走进殿堂的西边台阶。
   - word: 除
     type: 【动词】
     phonetic: chu2
@@ -30,34 +30,34 @@ words:
         sentences:
           - ancient: 举先王之政，以兴利<除>弊，不为生事。（宋•王安石《答司马谏议书》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 实行古代贤明君主的政策，用它来兴办（对天下）有利的事业、消除（种种）弊病，（这）不能算是制造事端
           - ancient: 天下有公利而莫或兴之，有公害而莫或<除>之。（明•黄宗羲《原君》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 世上有公共的利益却没有人去兴办；有公共的祸害却没有人去革除。
           - ancient: 然则将军之仇报，而燕国见陵之耻<除>矣。（《荆轲刺秦王》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 这样，将军的仇报了，燕国被欺侮的耻辱也除掉了。
       - trans: ❷修整。
         sentences:
           - ancient: 至于今，郡之贤士大夫请于当道，即<除>魏阉废祠之址以葬之。（《五人墓碑记》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "父母闻之，清宫<除>道，张乐设饮，郊迎三十里。（《战国策•秦策一》）"
+            vernacular: 到了现在，本郡有声望的士大夫们向有关当局请求，就清理已被废除的魏忠贤生祠旧址来安葬他们
+          - ancient: 父母闻之，清宫<除>道，张乐设饮，郊迎三十里。（《战国策•秦策一》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 父母听到消息，收拾房屋，打扫街道，设置音乐，准备酒席，到三十里外郊野去迎接。
       - trans: ❸授予官职。
         sentences:
           - ancient: 诏书特下，拜臣郎中，寻（不久）蒙国恩，<除>臣洗马。（《陈情表》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "德祐二年二月十九日，予<除>右丞相兼枢密使，都督诸路军马。（《〈指南录〉后序》）"
+            vernacular: 朝廷又特地下了诏书，任命我为郎中，不久又蒙受国家恩命，任命我为洗马。
+          - ancient: 德祐二年二月十九日，予<除>右丞相兼枢密使，都督诸路军马。（《〈指南录〉后序》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "【高考题例】元载以罪诛，<除>揆睦州刺史，入拜国子祭酒、礼部尚书，为卢杞所恶。（《旧唐书•李揆传》）"
+            vernacular: 德祐二年二月十九日，我受任右丞相兼枢密使，统率全国各路兵马。
+          - ancient: 【高考题例】元载以罪诛，<除>揆睦州刺史，入拜国子祭酒、礼部尚书，为卢杞所恶。（《旧唐书•李揆传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 元载因罪被杀后，朝廷任命李揆为睦州刺史，又入京担任国子祭酒、礼部尚书，被宰相卢杞所嫉恨。
       - trans: ❹进行除法运算。
         sentences:
-          - ancient: "道子画人物，如以灯取影，逆来顺往，旁见侧出，横斜平直，各相乘<除>，得自然之数，不差毫末。（宋•苏轼《书吴道子画后》）"
+          - ancient: 道子画人物，如以灯取影，逆来顺往，旁见侧出，横斜平直，各相乘<除>，得自然之数，不差毫末。（宋•苏轼《书吴道子画后》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 吴道子画人物，好似看着灯烛能描绘出影子，笔锋往来自如，笔势不拘一格，横竖笔画互相增减补充，这是得到了自然之法啊

@@ -8,19 +8,19 @@ words:
     samples:
       - trans: ❶传说;信息。
         sentences:
-          - ancient: 网罗天下放失（散失）旧<闻>，考之行事。（《报任安书》）
+          - ancient: 网罗天下放失（散失）旧<闻>，考之行事，综其终始，稽其成败兴坏之纪。（《报任安书》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 收集天下散失的历史传闻，粗略地考订其真实性，综述其事实的本末，推究其成败盛衰的道理
       - trans: ❷见闻；学识。
         sentences:
           - ancient: 屈原……博<闻>强志，明于治乱，娴（熟练）于辞令。 （《史记•屈原贾生列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 屈原...知识广博，记忆力很强，明了国家治乱的道理，擅长外交辞令。
       - trans: ❸名声，名望。
         sentences:
-          - ancient: 况草野之无<闻>者欤！（《五人墓碑记》）
+          - ancient: 况草野之无<闻>者欤！独五人之皦皦，何也？（《五人墓碑记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 何况乡间没有声名的人呢？唯独这五个人声名光荣显耀，为什么呢？
   - word: 闻
     type: 【动词】
     phonetic: wen2
@@ -29,57 +29,57 @@ words:
     samples:
       - trans: ❶听到。
         sentences:
-          - ancient: "少顷,但<闻>屏障中抚尺一下，满坐寂然，无敢哗者。（《口技〉）"
+          - ancient: 少顷，但<闻>屏障中抚尺一下，满坐寂然，无敢哗者。（《口技〉）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "忽<闻>门外虫鸣，惊起觇视（觇chan1,窥视），虫宛然尚在。（《促织》）"
+            vernacular: 过了一会儿，只听到围幕里面醒木一拍，全场安静下来，没有敢大声说话的。
+          - ancient: 忽<闻>门外虫鸣，惊起觇视（觇chan1，窥视），虫宛然尚在。（《促织》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 他忽然听到门外有蟋蟀的叫声，吃惊地起来细看时，那只蟋蟀仿佛还在。
           - ancient: 剑外忽传收蓟北，初<闻>涕泪满衣裳。（《闻官军收河南河北》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 剑外忽然传来收蓟北的消息，刚刚听到时涕泪满衣裳。
           - ancient: 顺风而呼，声非加疾也，而<闻>者彰。（《劝学》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 顺着风喊，声音并没有加大，可是听的人却能听得很清楚。
           - ancient: 单于使卫律治其事，张胜<闻>之，恐前语发，以状语武。（《苏武传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 单于派卫律审理这个案件，张胜听到这个消息，恐怕以前(和虞常说)的话被揭发出来，把经过情况告诉苏武。
       - trans: ❷闻名;著称。
         sentences:
-          - ancient: "廉颇为赵将，伐齐，大破之,取阳晋，拜为上卿，以勇气<闻>于诸侯。（《廉颇蔺相如列传》）"
+          - ancient: 廉颇为赵将，伐齐，大破之，取阳晋，拜为上卿，以勇气<闻>于诸侯。（《廉颇蔺相如列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 廉颇是赵国优秀的将领。赵惠文王十六年，时为赵国将军的廉颇率领赵军征讨齐国，大败齐军，夺取了阳晋，晋升为上卿，从此他以英勇善战闻名于诸侯各国。
           - ancient: 抚军不忘所自（是从哪里来的），无何（没多久），宰以卓异<闻>。（《促织》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 巡抚不忘记好处是从哪来的，不久，县官也以才能卓越而闻名了。
           - ancient: 而彭祖乃今以久特<闻>，众人匹之，不亦悲乎！（《逍遥游》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 而彭祖如今因为特别长寿而闻名，普通人跟他相比，不是很可悲吗？
           - ancient: 此人皆身至王侯将相，声<闻>邻国。（《报任安书》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 这些人的身份都到了王侯将相的地位，声名传扬到邻国。
           - ancient: 【高考题例】贾生名谊，洛阳人也。年十八，以能诵诗属书<闻>于郡中。（《史记•屈原贾生列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 贾生名叫贾谊，是洛阳人。十八岁时就因能诵诗、写文章闻名当地。
           - ancient: 仁寿初，迁瀛洲刺史，以善政<闻>，频见劳勉。（《北史•来护儿传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 仁寿初年，来护儿改任瀛州刺史，因善于治政而闻名，频频受到慰劳和勉励。
       - trans: ❸使皇帝（或上级）听见；向皇帝（或上级）报告。
         sentences:
           - ancient: 能谤讥（指责）于市朝，<闻>寡人之耳者，受下赏。（《邹忌讽开主纳谏》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 能够在众人集聚的公共场所指责议论我的过失，并能传到我耳朵里的，得下等奖赏。
           - ancient: 臣具以表<闻>，辞不就职。（《陈情表》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "臣不胜犬马怖惧之情,谨拜表以<闻>。（《陈情表》）"
+            vernacular: 我将以上苦衷上表报告，加以推辞不去就职。
+          - ancient: 臣不胜犬马怖惧之情，谨拜表以<闻>。（《陈情表》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我怀着像犬马一样不胜恐惧的心情，恭敬地呈上此表来使陛下知道这件事。
           - ancient: 【高考题例】由是数月之间，美声上<闻>，自此颇承（蒙受）恩遇，遂蒙大用。（《旧唐书•李揆传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 因此几个月之后，对他好的评价传到皇上耳中，从此后很受皇上的恩遇，于是被重用。
       - trans: ❹嗅到。
         sentences:
-          - ancient: "与善人居，如入兰芷之室,久而不<闻>其香，则与之化矣。（《说苑•杂言》）"
+          - ancient: 与善人居，如入兰芷之室，久而不<闻>其香，则与之化矣。（《说苑•杂言》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 常和品行高尚的人在一起，就像沐浴在种植芝兰散满香气的屋子里一样，时间长了便闻不到香味，但本身已经充满香气了

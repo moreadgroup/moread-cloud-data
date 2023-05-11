@@ -1,125 +1,125 @@
 ---
 words:
-- word: 向
-  type: 【名词】
-  phonetic: xiang4
-  tags:
-  - 高中
-  samples:
-  - trans: ❶朝北的窗户。
-    sentences:
-    - ancient: "穹窒（完全堵塞）熏鼠，塞<向>墐（jin4,用泥涂塞）户。（《诗经•豳风•七月》）"
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❷泛指窗户。
-    sentences:
-    - ancient: 入五月，内著屋中。闭户塞<向>，密泥，勿使风入漏气。（《齐民要术•种紫草》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❸方向。
-    sentences:
-    - ancient: 进不知<向>，退不知守。（唐•柳宗元《送从兄偁罢选归江淮诗序》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❹从前;往昔。
-    sentences:
-    - ancient: <向>吾不为斯役，则久已病（困苦）矣。（《捕蛇者说》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: <向>之所欣，俯仰之间，已为陈迹，犹不能不以（因为）之兴怀，况修（生命长）短随化，终期于尽！（《兰亭集序》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 凄凄不似<向>前声，满座重闻皆掩泣。（《琵琶行》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 深谋远虑，行军用兵之道，非及<向>时之士也。（《过秦论》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❺刚才。
-    sentences:
-    - ancient: <向>者之论，阿谁为失？（《三国志•蜀书•庞统传》）
-      url: xxxx
-      vernacular: xxxx
-- word: 向
-  type: 【动词】
-  phonetic: xiang4
-  tags:
-  - 高中
-  samples:
-  - trans: ❶面对;朝着。
-    sentences:
-    - ancient: 相<向>而哭。（《孟子•滕文公上》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 沛公北<向>坐;张良西<向>侍。（《鸿门宴》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: "中有双飞鸟，自名为鸳鸯，仰头相<向>鸣,夜夜达五更。（《孔雀东南飞》）"
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❷奔向。
-    sentences:
-    - ancient: 到夏口，闻（曹）操已<向>荆州。（《资治通鉴•汉纪五十七》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❸接近;将近。
-    sentences:
-    - ancient: 夜如何其？夜<向>晨。（《诗经•小雅•庭燎》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 俄顷风定云墨色，秋天漠漠<向>昏黑。（《茅屋为秋风所破歌》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❹对待;看待。
-    sentences:
-    - ancient: 世人<向>我同众人，唯君于我最相亲。（唐•高适《别韦参军》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❺归向;仰慕。
-    sentences:
-    - ancient: "咸亨初，敦实为洛州长史,亦宽惠，人心怀<向>。（《新唐书•贾敦颐传》）"
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❻迎合。
-    sentences:
-    - ancient: "（安）禄山方幸（受宠幸），表讨契丹以<向>帝意。（《新唐书•北狄传》）,"
-      url: xxxx
-      vernacular: xxxx
-  - trans: ⑦偏爱。
-    sentences:
-    - ancient: "人情皆<向>菊,风意欲摧兰。（唐•刘禹锡《秋中暑退赠乐天》）"
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❽崇尚。
-    sentences:
-    - ancient: "【高考题例】及壮,知<向>濂洛之学，事同郡王柏，从登何基之门。（《元史•金履祥传》）"
-      url: xxxx
-      vernacular: xxxx
-- word: 向
-  type: 【介词】
-  phonetic: xiang4
-  tags:
-  - 高中
-  samples:
-  - trans: 对着;朝着。
-    sentences:
-    - ancient: 文挚乃命龙叔背明而立，文挚自后<向>明而望之。（《列子•仲尼》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: "今有满堂饮酒者,有一人独索然<向>隅而泣，则一堂之人皆不乐矣。（《说苑•贵德》）"
-      url: xxxx
-      vernacular: xxxx
-- word: 向
-  type: 【连词】
-  phonetic: xiang4
-  tags:
-  - 高中
-  samples:
-  - trans: 假使;假如。
-    sentences:
-    - ancient: "<向>不出其技,虎虽猛，疑畏卒不敢取。（《黔之驴》）"
-      url: xxxx
-      vernacular: xxxx
-    - ancient: "<向>使三国各爱其地,齐人勿附于秦，刺客不行，良将犹在,则胜负之数（命运），存亡之理，当与秦相较，或未易量。（《六国论》）"
-      url: xxxx
-      vernacular: xxxx
+  - word: 向
+    type: 【名词】
+    phonetic: xiang4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶朝北的窗户。
+        sentences:
+          - ancient: 穹窒（完全堵塞）熏鼠，塞<向>墐（jin4，用泥涂塞）户。（《诗经•豳风•七月》）
+            url: xxxx
+            vernacular: 堵塞鼠洞熏老鼠，封好北窗糊门缝。
+      - trans: ❷泛指窗户。
+        sentences:
+          - ancient: 入五月，内著屋中。闭户塞<向>，密泥，勿使风入漏气。（《齐民要术•种紫草》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸方向。
+        sentences:
+          - ancient: 进不知<向>，退不知守。（唐•柳宗元《送从兄偁罢选归江淮诗序》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹从前;往昔。
+        sentences:
+          - ancient: <向>吾不为斯役，则久已病（困苦）矣。（《捕蛇者说》）
+            url: xxxx
+            vernacular: （假使）从前我不当这个差，那我就早已困苦不堪了。
+          - ancient: <向>之所欣，俯仰之间，已为陈迹，犹不能不以（因为）之兴怀，况修（生命长）短随化，终期于尽！（《兰亭集序》）
+            url: xxxx
+            vernacular: 过去所喜欢的东西，转瞬间，已经成为旧迹，尚且不能不因为它引发心中的感触，况且寿命长短，听凭造化，最后归结于消灭。
+          - ancient: 凄凄不似<向>前声，满座重闻皆掩泣。（《琵琶行》）
+            url: xxxx
+            vernacular: 凄凄切切不似刚才奏过的单调，在座的人重听都掩面哭泣不停。
+          - ancient: 深谋远虑，行军用兵之道，非及<向>时之士也。（《过秦论》）
+            url: xxxx
+            vernacular: 深谋远虑，行军用兵的方法，也比不上先前九国的武将谋臣。
+      - trans: ❺刚才。
+        sentences:
+          - ancient: <向>者之论，阿谁为失？（《三国志•蜀书•庞统传》）
+            url: xxxx
+            vernacular: 刚才我们的争论，到底是谁的不对？
+  - word: 向
+    type: 【动词】
+    phonetic: xiang4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶面对;朝着。
+        sentences:
+          - ancient: 相<向>而哭。（《孟子•滕文公上》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 沛公北<向>坐;张良西<向>侍。（《鸿门宴》）
+            url: xxxx
+            vernacular: xxxx
+          - ancient: 中有双飞鸟，自名为鸳鸯，仰头相<向>鸣，夜夜达五更。（《孔雀东南飞》）
+            url: xxxx
+            vernacular: 中间又有一对双飞鸟，鸟名本是叫鸳鸯，它们抬起头来相对鸣叫，每晚都要鸣叫一直叫到五更。
+      - trans: ❷奔向。
+        sentences:
+          - ancient: 到夏口，闻（曹）操已<向>荆州。（《资治通鉴•汉纪五十七》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❸接近;将近。
+        sentences:
+          - ancient: 夜如何其？夜<向>晨，庭燎有辉。（《诗经•小雅•庭燎》）
+            url: xxxx
+            vernacular: 现在夜色啥时光？夜色将尽露晨光，庭中火烛仍明亮。
+          - ancient: 俄顷风定云墨色，秋天漠漠<向>昏黑。（《茅屋为秋风所破歌》）
+            url: xxxx
+            vernacular: 一会儿风停了，天空中乌云像墨一样黑，深秋天空阴沉迷蒙渐渐黑下来了。
+      - trans: ❹对待;看待。
+        sentences:
+          - ancient: 世人<向>我同众人，唯君于我最相亲。（唐•高适《别韦参军》）
+            url: xxxx
+            vernacular: 在埋没于乡间山野的日子里，人人都认为我是一个普通的人，没有什么出众之处。唯有你，懂得我，欣赏我，和我交往，最是相亲
+      - trans: ❺归向;仰慕。
+        sentences:
+          - ancient: 咸亨初，敦实为洛州长史，亦宽惠，人心怀<向>。（《新唐书•贾敦颐传》）
+            url: xxxx
+            vernacular: 咸亨初年，贾敦实担任洛州长史，为政也很宽厚仁惠，民心归向他。
+      - trans: ❻迎合。
+        sentences:
+          - ancient: （安）禄山方幸（受宠幸），表讨契丹以<向>帝意。（《新唐书•北狄传》），
+            url: xxxx
+            vernacular: 其时安禄山正得宠，上表请求去讨伐契丹以称皇帝心意。
+      - trans: ⑦偏爱。
+        sentences:
+          - ancient: 人情皆<向>菊，风意欲摧兰。（唐•刘禹锡《秋中暑退赠乐天》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❽崇尚。
+        sentences:
+          - ancient: 【高考题例】及壮，知<向>濂洛之学，事同郡王柏，从登何基之门。（《元史•金履祥传》）
+            url: xxxx
+            vernacular: 长大以后，自己更加勤勉励志。到了壮年，倾慕周敦颐、二程的的学问，跟从同郡人王柏学习，又随王柏一起投到何基的门下。
+  - word: 向
+    type: 【介词】
+    phonetic: xiang4
+    tags:
+      - 高中
+    samples:
+      - trans: 对着;朝着。
+        sentences:
+          - ancient: 文挚乃命龙叔背明而立，文挚自后<向>明而望之。（《列子•仲尼》）
+            url: xxxx
+            vernacular: 文挚于是叫龙叔背着光线站着，文挚从暗处向明处看他。
+          - ancient: 今有满堂饮酒者，有一人独索然<向>隅而泣，则一堂之人皆不乐矣。（《说苑•贵德》）
+            url: xxxx
+            vernacular: xxxx
+  - word: 向
+    type: 【连词】
+    phonetic: xiang4
+    tags:
+      - 高中
+    samples:
+      - trans: 假使;假如。
+        sentences:
+          - ancient: <向>不出其技，虎虽猛，疑畏卒不敢取。（《黔之驴》）
+            url: xxxx
+            vernacular: 当初如果不使出它的那点本领，老虎即使凶猛，但由于多疑、畏惧，终究不敢猎取驴子。
+          - ancient: <向>使三国各爱其地，齐人勿附于秦，刺客不行，良将犹在，则胜负之数（命运），存亡之理，当与秦相较，或未易量。（《六国论》）
+            url: xxxx
+            vernacular: 假使韩、魏、楚三国都爱惜他们的国土，齐国不依附秦国。燕国的刺客不去刺秦王，赵国的良将李牧还活着，那么胜败的命运，存亡的理数，倘若与秦国相较量，也许还不容易判断出高低来呢。

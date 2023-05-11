@@ -10,13 +10,13 @@ words:
         sentences:
           - ancient: 废（习惯）为残贼，莫知其<尤>。（《诗经•小雅•四月》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "言寡<尤>，行寡悔,禄在其中矣。（《论语•为政》）"
+            vernacular: 如今遭难枝残叶落花枯萎，我不知道这到底是谁的罪。
+          - ancient: 言寡<尤>，行寡悔，禄在其中矣。（《论语•为政》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 不说错话、不做错事，就能去当官了。
           - ancient: 进不入以离<尤>兮，退将复修吾初服。（《离骚》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 既然进取不成反而获罪，那就回来把我旧服重修。
   - word: 尤
     type: 【动词】
     phonetic: you2
@@ -27,10 +27,10 @@ words:
         sentences:
           - ancient: 不怨天，不<尤>人。（《论语•宪问》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 不抱怨天，不责怪人
           - ancient: 吾实为之，其又何<尤>！（《祭十二郎文》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 这都是我造成的灾难，又能抱怨谁呢?
   - word: 尤
     type: 【形容词】
     phonetic: you2
@@ -44,7 +44,7 @@ words:
             vernacular: xxxx
           - ancient: 天，有形之大者也;人，动物之<尤>者也。（唐•刘禹锡《天论》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 天，是有形体的事物中庞大的一种；人，是动物之中优异的一类。
   - word: 尤
     type: 【副词】
     phonetic: you2
@@ -55,13 +55,13 @@ words:
         sentences:
           - ancient: 爱是溪，入二三里，得其<尤>绝者家（建造住宅）焉。（唐•柳宗元《愚溪诗序》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我喜爱这条溪水，沿着它走了二三里，发现一个风景绝佳的地方，就将家安在这里。
           - ancient: 然是说也，余<尤>疑之。（《石钟山记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 但是这个说法，我尤其对此感到疑惑。
           - ancient: 衡善机巧，<尤>致思于天文阴阳历算。（《张衡传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 张衡善于器械制造方面的巧思，尤其在天文气象和历法的推算等方面很用心。
           - ancient: 况臣孤苦，特为<尤>甚。（《陈情表》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 况且我孤单凄苦，程度更为严重呢。

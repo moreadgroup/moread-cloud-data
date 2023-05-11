@@ -1,47 +1,47 @@
 ---
 words:
-- word: 窃
-  type: 【动词】
-  phonetic: qie4
-  tags:
-  - 高中
-  samples:
-  - trans: 偷;盗。
-    sentences:
-    - ancient: 今有人于此，舍其文轩（装饰华美的车子），邻有敝舆（破车），而欲<窃>之。（《公编》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: "偷桃<窃>药事难兼,十二城中锁彩蟾。（唐•李商隐《月夜重寄宋华阳姊妹》）"
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 今有一人，入人园圃，<窃>其桃李。（《墨子•非攻》）
-      url: xxxx
-      vernacular: xxxx
-- word: 窃
-  type: 【副词】
-  phonetic: qie4
-  tags:
-  - 高中
-  samples:
-  - trans: ❶偷偷地;暗地里。
-    sentences:
-    - ancient: 臣尝有罪，<窃>计欲亡走燕。（《廉颇蔺相如列传》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 成有子九岁，窥父不在，<窃>发盆。（《促织》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❷谦辞。私自；私下。
-    sentences:
-    - ancient: 老臣<窃>以为媪之爱燕后，贤（超过）于长安君。（《触龙说赵太后》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: "昨曰蒙教,<窃>以为与君实（司马光，字君实）游处相好之日久，而议事每不合，所操之术多异故也。（宋•王安石《答司马谏议书》）"
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 仆<窃>不逊，近自托于无能之辞，网罗天下放失旧闻。（《报任安书》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 寡人<窃>闻赵王好音，请奏瑟。（《廉颇蔺相如列传》）
-      url: xxxx
-      vernacular: xxxx
+  - word: 窃
+    type: 【动词】
+    phonetic: qie4
+    tags:
+      - 高中
+    samples:
+      - trans: 偷;盗。
+        sentences:
+          - ancient: 今有人于此，舍其文轩（装饰华美的车子），邻有敝舆（破车），而欲<窃>之。（《公编》）
+            url: xxxx
+            vernacular: 现在这里有一个人，舍弃他自己装饰华美的车，邻居有破车，却想要去偷；
+          - ancient: 偷桃<窃>药事难兼，十二城中锁彩蟾。（唐•李商隐《月夜重寄宋华阳姊妹》）
+            url: xxxx
+            vernacular: 偷桃窃药是两件美事，可惜难两全。玉阳碧城十二楼，曾经幽禁过彩蟾。偷桃：道教传说，谣王母种桃，三千年一结子，东方朔曾三次偷食，被谪降人间。窃药：《淮南子·览冥训》载，后羿在西王母处求得不死的灵药，嫦娥偷服后奔入月宫中。 十二城：亦作十二楼、十二层城，道教传为仙人居处，此借指道观。彩蟾：神话传说月中有蟾蜍，因借以指月，此指代宋华阳姊妹。
+          - ancient: 今有一人，入人园圃，<窃>其桃李。（《墨子•非攻》）
+            url: xxxx
+            vernacular: 如果有一个人，进人家果园，偷人家桃李
+  - word: 窃
+    type: 【副词】
+    phonetic: qie4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶偷偷地;暗地里。
+        sentences:
+          - ancient: 臣尝有罪，<窃>计欲亡走燕。（《廉颇蔺相如列传》）
+            url: xxxx
+            vernacular: 微臣曾犯过罪，私下打算逃亡到燕国去
+          - ancient: 成有子九岁，窥父不在，<窃>发盆。（《促织》）
+            url: xxxx
+            vernacular: 成名有个儿子，年九岁，看到爸爸不在（家），偷偷打开盆子来看。
+      - trans: ❷谦辞。私自；私下。
+        sentences:
+          - ancient: 老臣<窃>以为媪之爱燕后，贤（超过）于长安君。（《触龙说赵太后》）
+            url: xxxx
+            vernacular: 我私下认为，您疼爱燕后就超过了疼爱长安君。
+          - ancient: 昨曰蒙教，<窃>以为与君实（司马光，字君实）游处相好之日久，而议事每不合，所操之术多异故也。（宋•王安石《答司马谏议书》）
+            url: xxxx
+            vernacular: 昨天承蒙（您来信）指教，我私下认为与君实您交往相好的日子很久了，但是议论起政事来（意见）常常不一致，（这是因为我们）所持的政治主张和方法大多不同的缘故啊。
+          - ancient: 仆<窃>不逊，近自托于无能之辞，网罗天下放失旧闻。（《报任安书》）
+            url: xxxx
+            vernacular: 我私下里也自不量力，近来用我那不高明的文辞，收集天下散失的历史传闻
+          - ancient: 寡人<窃>闻赵王好音，请奏瑟。（《廉颇蔺相如列传》）
+            url: xxxx
+            vernacular: 我私下里听说赵王爱好音乐，请您奏瑟一曲！

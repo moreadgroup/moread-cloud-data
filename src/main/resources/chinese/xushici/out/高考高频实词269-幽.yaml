@@ -15,7 +15,7 @@ words:
         sentences:
           - ancient: 借问谁家子，<幽>并游侠儿。（三国魏•曹植《白马篇》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 古代幽并二州多豪侠之士，故用以喻侠客。
   - word: 幽
     type: 【动词】
     phonetic: you1
@@ -24,18 +24,18 @@ words:
     samples:
       - trans: ❶监禁;拘押。
         sentences:
-          - ancient: 深<幽>囹圄之中。（《报任安书》）
+          - ancient: 身非木石，独与法吏为伍，深<幽>囹圄之中，谁可告愬者！（《报任安书》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: 乃<幽>武置大窖中，绝不饮食。（《苏武传》）
+            vernacular: 我血肉之躯本非木头和石块，却与执法的官吏在一起，深深地关闭在牢狱之中，我向谁去诉说内心的痛苦呢？
+          - ancient: 单于愈益欲降之。乃<幽>武置大窖中，绝不饮食。（《苏武传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 单于越发想要使他投降，就把苏武囚禁起来，放在大地穴里面，断绝供应，不给他喝的、吃的。
           - ancient: 所以隐忍苟活，<幽>于粪土之中而不辞者，恨私心有所不尽，鄙陋没世，而文釆不表于后也。（《报任安书》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我之所以忍受着屈辱苟且活下来，陷在污浊的监狱之中却不肯死，是遗憾我内心的志愿有未达到的，如果平平庸庸地死了，文章就不能在后世显露。
           - ancient: 吾<幽>囚受辱，鲍叔不以我为无耻，知我不羞小节而耻功名不显于天下也。（《史记•管仲列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我被关在深牢中受屈辱，但鲍叔不认为我无耻，知道我不会为小节而羞，却会因为功名不曾显耀于天下而耻。
       - trans: ❷隐居。
         sentences:
           - ancient: 虽策命屡加，<幽>操不回。（《晋书•隐逸传》）
@@ -51,31 +51,31 @@ words:
         sentences:
           - ancient: 故忧愁<幽>思而作《离骚》。（《史记•屈原贾生列传》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: 舞<幽>壑之潜蛟，泣孤舟之嫠li2妇。（《赤壁赋》）
+            vernacular: 所以忧愁深思，就创作了《离骚》。
+          - ancient: 舞<幽>壑之潜蛟，泣孤舟之嫠(li2)妇。（《赤壁赋》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 能使深谷中的蛟龙为之起舞，能使孤舟上的寡妇听了落泪。
       - trans: ❷昏暗;阴暗。
         sentences:
-          - ancient: 下<幽>晦以多雨。（战国楚•屈原《涉江》）
+          - ancient: 山峻高以蔽日兮，下<幽>晦以多雨。（战国楚•屈原《涉江》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "有志与力，而又不随以怠,至于<幽>暗昏惑而无物以相之，亦不能至也。（《游褒禅山记》）"
+            vernacular: 高峻的大山遮天蔽日啊，山下淫雨霏霏迷迷茫茫。
+          - ancient: 有志与力，而又不随以怠，至于<幽>暗昏惑而无物以相之，亦不能至也。（《游褒禅山记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 有了志气与体力，也不盲从别人、有所懈怠，但到了那幽深昏暗而使人感到模糊迷惑的地方却没有必要的物件来支持，也不能到达。
       - trans: ❸幽静;幽雅。
         sentences:
           - ancient: 清江一曲抱村流，长夏江村事事<幽>。（唐•杜甫《江村》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "蝉噪林逾静,鸟鸣山更<幽>。（唐•王籍《入若耶溪》）"
+            vernacular: 清澈的江水曲折地绕村流过，长长的夏日里，村中的一切都显得幽雅。
+          - ancient: 蝉噪林逾静，鸟鸣山更<幽>。（唐•王籍《入若耶溪》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 这两句诗以声写静，通过“蝉噪”“鸟鸣”写出了若耶溪两岸山林的幽静，成为千古传诵的名句，被誉为“文外独绝”。
       - trans: ❹隐晦;深奥。
         sentences:
           - ancient: 别有<幽>愁暗恨生，此时无声胜有声。（《琵琶行》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "衡常思图身之事,以为吉凶倚伏，<幽>微难明，乃作《思玄赋》以宣寄情志。（《张衡传》）"
+            vernacular: 像另有一种愁思幽恨暗暗滋生；此时闷闷无声却比有声更动人。
+          - ancient: 衡常思图身之事，以为吉凶倚伏，<幽>微难明，乃作《思玄赋》以宣寄情志。（《张衡传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 张衡常常思谋自身安全的事，认为福祸相因，幽深微妙，难以看清，于是写了《思玄赋》表达和寄托自己的情思。

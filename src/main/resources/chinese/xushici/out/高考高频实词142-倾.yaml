@@ -1,74 +1,74 @@
 ---
 words:
-- word: 倾
-  type: 【动词】
-  phonetic: qing1
-  tags:
-  - 高中
-  samples:
-  - trans: ❶倾斜。
-    sentences:
-    - ancient: 余立侍左右，援疑质理，俯身<倾>耳以请。（《送东阳马生序》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 微闻有鼠作作索索，盆器<倾>侧。（《口技》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❷倾倒;倒下。
-    sentences:
-    - ancient: 天台四万八千丈，对此欲倒东南<倾>。（《梦游天姥吟留别》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 商旅不行，檣<倾>楫摧。（《岳阳楼记》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❸倒出。
-    sentences:
-    - ancient: 春江花朝秋月夜，往往取酒还独<倾>。（《琵琶行》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: "见客但<倾>酒,为官不爱钱。（唐•李白《赠崔秋浦》）"
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 请洒潘江，各<倾>陆海云尔。（《滕王阁序》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❹竭尽。
-    sentences:
-    - ancient: 每责一头，辄<倾>数家之产。（《促织》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❺钦佩;佩服。
-    sentences:
-    - ancient: 【高考题例】忠义之声远近皆<倾>下之，金人不敢斥其名。（《宋史・赵立传》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❻倾覆;覆灭。
-    sentences:
-    - ancient: 此后汉所以<倾>颓也。（《出师表》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 汉室<倾>颓，奸臣窃命，主上蒙尘（指皇帝遭难出奔）。（《隆中对》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: "盖均无贫,和无寡，安无<倾>。（《季氏将伐颛臾》）"
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❼尽情抒发;倾吐。
-    sentences:
-    - ancient: 高论几为衰俗废，壮怀难值故人<倾>。（宋•王安石《寄曾子固》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❽倾轧;排挤。
-    sentences:
-    - ancient: 因其富厚，交通王侯，力过吏势，以利相<倾>。（汉•晁错《论贵粟疏》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 则<倾>陷安石。（《宋史•苏辙传》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❾压倒;胜过。
-    sentences:
-    - ancient: 绛侯诛诸吕，权<倾>五伯，囚于请室。（《报任安书》）
-      url: xxxx
-      vernacular: xxxx
+  - word: 倾
+    type: 【动词】
+    phonetic: qing1
+    tags:
+      - 高中
+    samples:
+      - trans: ❶倾斜。
+        sentences:
+          - ancient: 余立侍左右，援疑质理，俯身<倾>耳以请。（《送东阳马生序》）
+            url: xxxx
+            vernacular: 我站着侍候在他左右，提出疑难，询问道理，俯下身子，侧着耳朵请教
+          - ancient: 微闻有鼠作作索索，盆器<倾>侧。（《口技》）
+            url: xxxx
+            vernacular: 隐隐听到有老鼠作作索索活动的声音，盆子翻倒倾斜
+      - trans: ❷倾倒;倒下。
+        sentences:
+          - ancient: 天台四万八千丈，对此欲倒东南<倾>。（《梦游天姥吟留别》）
+            url: xxxx
+            vernacular: 天台山虽高四万八千丈，但对着这天姥山，（却矮小得）好像要向东南方倾倒一样。
+          - ancient: 商旅不行，檣<倾>楫摧。（《岳阳楼记》）
+            url: xxxx
+            vernacular: 商人和旅客（一译：行商和客商）不能通行，船桅倒下，船桨折断
+      - trans: ❸倒出。
+        sentences:
+          - ancient: 春江花朝秋月夜，往往取酒还独<倾>。（《琵琶行》）
+            url: xxxx
+            vernacular: 春江花朝秋江月夜那样好光景；也无可奈何常常取酒独酌独饮。
+          - ancient: 见客但<倾>酒，为官不爱钱。（唐•李白《赠崔秋浦》）
+            url: xxxx
+            vernacular: 见到客人只管倒酒同饮，当官却不爱慕钱财。
+          - ancient: 请洒潘江，各<倾>陆海云尔。（《滕王阁序》）
+            url: xxxx
+            vernacular: 请各位像潘岳、陆机那样，展现江海般的文才吧
+      - trans: ❹竭尽。
+        sentences:
+          - ancient: 每责一头，辄<倾>数家之产。（《促织》）
+            url: xxxx
+            vernacular: 每摊派一只蟋蟀，就常常使好几户人家破产。
+      - trans: ❺钦佩;佩服。
+        sentences:
+          - ancient: 【高考题例】忠义之声远近皆<倾>下之，金人不敢斥其名。（《宋史・赵立传》）
+            url: xxxx
+            vernacular: 忠义的名声，远近之人都很倾慕他，金人都不敢说出他的名字。
+      - trans: ❻倾覆;覆灭。
+        sentences:
+          - ancient: 亲小人，远贤臣，此后汉所以<倾>颓也。（《出师表》）
+            url: xxxx
+            vernacular: 亲近小人，疏远贤臣，这是后汉之所以衰败的原因。
+          - ancient: 汉室<倾>颓，奸臣窃命，主上蒙尘（指皇帝遭难出奔）。（《隆中对》）
+            url: xxxx
+            vernacular: 汉室的统治崩溃，奸邪的臣子盗用政令，皇上蒙受风尘遭难出奔。
+          - ancient: 盖均无贫，和无寡，安无<倾>。（《季氏将伐颛臾》）
+            url: xxxx
+            vernacular: 财物分配公平合理，就没有贫穷；上下和睦，就不必担心人少；社会安定，国家就没有倾覆的危险。
+      - trans: ❼尽情抒发;倾吐。
+        sentences:
+          - ancient: 高论几为衰俗废，壮怀难值故人<倾>。（宋•王安石《寄曾子固》）
+            url: xxxx
+            vernacular: 高尚的理论往往被庸俗所抛弃，我的壮志难以得到故友的赞同。
+      - trans: ❽倾轧;排挤。
+        sentences:
+          - ancient: 因其富厚，交通王侯，力过吏势，以利相<倾>。（汉•晁错《论贵粟疏》）
+            url: xxxx
+            vernacular: 依仗自己富厚的钱财，与王侯接交，势力超过官吏，凭借资产相互倾轧
+          - ancient: 及势钧力敌，则<倾>陷安石，甚于仇雠，世尤恶之。（《宋史•苏辙传》）
+            url: xxxx
+            vernacular: 如果有人的势力和力量与王安石相当，那么他们会排挤王安石，甚至比仇敌还要恶劣，世人也会憎恶他们。
+      - trans: ❾压倒;胜过。
+        sentences:
+          - ancient: 绛侯诛诸吕，权<倾>五伯，囚于请室。（《报任安书》）
+            url: xxxx
+            vernacular: 绛侯周勃，曾诛杀诸吕，一时间权力大于春秋五霸，也被囚禁在请罪室中

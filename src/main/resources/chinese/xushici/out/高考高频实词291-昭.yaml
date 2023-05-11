@@ -6,7 +6,7 @@ words:
     tags:
       - 高中
     samples:
-      - trans: "古代贵族宗庙排列的次序。始祖庙居中，以下按父子的辈分排为昭穆,昭居左，穆居右。"
+      - trans: 古代贵族宗庙排列的次序。始祖庙居中，以下按父子的辈分排为昭穆，昭居左，穆居右。
         sentences:
           - ancient: 曹，文之<昭>也;晋，武之穆也。（《左传•定公四年》）
             url: xxxx
@@ -21,7 +21,7 @@ words:
         sentences:
           - ancient: 若有作奸犯科及为忠善者，宜付有司论其刑赏，以<昭>陛下平明之理，不宜偏私（偏爱），使内外异法也。（《出师表》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 如果有为非作歹犯科条法令和忠心做善事的人，都应该交给主管官吏评定对他们的惩奖，来显示陛下公正严明的治理，而不应当有偏袒和私心，使宫内和朝廷奖罚方法不同。
   - word: 昭
     type: 【形容词】
     phonetic: zhao1
@@ -32,20 +32,20 @@ words:
         sentences:
           - ancient: 我有嘉宾，德音孔（很）<昭>。（《诗经•小雅•鹿鸣》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 一旦四方贤才光临舍下，品德高尚又显耀。
           - ancient: 译者曰，所以<昭>炯戒，激众愤，图报复也。（清•薛福成《观巴黎油画记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 翻译人员说：“这是用来昭示明白的鉴戒，激发群众的义愤，图谋报复啊。”
       - trans: ❷光明；明見。
         sentences:
           - ancient: 昊天孔<昭>，我生靡乐。（《诗经•大雅•抑》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 苍天在上最明白，我这一生没愉快。
           - ancient: 芳与泽其杂糅兮，唯<昭>质其犹未亏。（《离骚》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 虽然芳洁污垢混杂一起，只有纯洁品质不会腐朽。
       - trans: ❸明白。
         sentences:
-          - ancient: 敢<昭>告于皇皇后帝。（《论语•尧曰》）
+          - ancient: 予小子履，敢用玄牡，敢<昭>告于皇皇后帝。（《论语•尧曰》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我小子履谨用黑色的公牛来祭祀，向伟大的天帝祷告

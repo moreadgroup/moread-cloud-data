@@ -8,25 +8,25 @@ words:
     samples:
       - trans: ❶效用;作用。
         sentences:
-          - ancient: 赏其功，必禁无<用>。（《韩非子•五蠹》）
+          - ancient: 赏其功，伐禁无<用>。（《韩非子•五蠹》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 论功行赏，禁止无用言行。
           - ancient: 天生我材必有<用>，千金散尽还复来。（《将进酒》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 上天造就了我的才干就必然是有用处的，千两黄金花完了也能够再次获得。
       - trans: ❷才能;本领。
         sentences:
-          - ancient: 彼虽善是，其<用>不足称（称道）也。（唐•韩愈《原毁》）
+          - ancient: 彼虽能是，其人不足称也；彼虽善是，其<用>不足称（称道）也。（唐•韩愈《原毁》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 他虽然能做这个，但他的人品不值得赞美，他虽然擅长这个，但他的才用不值得称道。
       - trans: ❸资财;费用。
         sentences:
-          - ancient: 强本而节<用>。（《荀子•天论》）
+          - ancient: 强本而节<用>，则天不能贫。（《荀子•天论》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "顺于民心,所补者三:一曰主<用>足，二曰民赋少，三曰劝农功。（汉•晁错《论贵粟疏》）"
+            vernacular: 如果能够加强农业生产，厉行节约，就算是上天也不能使人贫困。
+          - ancient: 顺于民心，所补者三:一曰主<用>足，二曰民赋少，三曰劝农功。（汉•晁错《论贵粟疏》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 依顺百姓心愿，有三个好处：一是君主需要的东西充足，二是百姓的赋税减少，三是鼓励从事农业生产。
       - trans: ❹器物；用具。
         sentences:
           - ancient: 及庆氏亡，皆召之，具其器<用>，而反（通"返"）其邑焉。（《左传•襄公二十八年》）
@@ -36,7 +36,7 @@ words:
         sentences:
           - ancient: 识众寡之<用>者胜。（《孙子兵法•谋攻》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 懂得兵多兵少不同用法的，能取胜；
   - word: 用
     type: 【动词】
     phonetic: yong4
@@ -45,60 +45,60 @@ words:
     samples:
       - trans: ❶使用；运用。
         sentences:
-          - ancient: 秦<用>李斯谋。（《史记•秦始皇本纪》）
+          - ancient: 韩非使秦，秦<用>李斯谋，留非，非死云阳。（《史记•秦始皇本纪》）
             url: xxxx
             vernacular: xxxx
-          - ancient: "荆州……此<用>武之国,而其主不能守，此殆（大概）天所以资（资助）将军，将军岂有意乎？（《隆中対》）"
+          - ancient: 荆州……此<用>武之国，而其主不能守，此殆（大概）天所以资（资助）将军，将军岂有意乎？（《隆中対》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: 取之无禁，角之不竭。（《赤壁赋》）
+            vernacular: 这里是用兵的战略要地，但其统治者刘表却无力守住它。这大概是上天资助给将军的吧，将军可有意于此吗?
+          - ancient: 取之无禁，<用>之不竭。（《赤壁赋》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 取得这些不会有人禁止，感受这些也不会有竭尽的忧虑。
           - ancient: 是故燕虽小国而后亡，斯<用>兵之效也。（《六国论》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 因此燕虽然是个小国，却后来才灭亡，这就是用兵抗秦的效果。
       - trans: ❷任用。
         sentences:
           - ancient: 孙权据有江东，已历三世，国险而民附，贤能为之<用>，此可以为援而不可图也。（《隆中对》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "刘备天下枭雄,与（曹）操有隙，寄寓于（刘）表，表恶（wu4,讨厌）其能而不能<用>也。（《资治通鉴•汉纪五十七》）"
+            vernacular: 孙权占据江东，已经历三世了，地势险要，民众归附，又任用了有才能的人，孙权这方面只可以把他作为外援，但是不可谋取他。
+          - ancient: 刘备天下枭雄，与（曹）操有隙，寄寓于（刘）表，表恶（wu4，讨厌）其能而不能<用>也。（《资治通鉴•汉纪五十七》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 刘备，天下枭雄，跟曹操不睦，屈身（暂居）在刘表帐下，刘表因为他能力太强而不敢用他（对其心存提防）.
           - ancient: 吾不能早<用>子，今急而求子，是寡人之过也。（《烛之武退秦师》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我不能早早用你，现在由于情况危急因而求您，这是我的过错。
       - trans: ❸需要。
         sentences:
           - ancient: 可汗问所欲，木兰不<用>尚书郎。（《木兰诗》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 天子问木兰有什么要求，木兰不愿做尚书省的官
       - trans: ❹主持;执掌。
         sentences:
           - ancient: 赵太后新<用>事，秦急攻之。（《触龙说赵太后》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 赵太后刚刚执政，秦国加紧攻赵。
           - ancient: 如楚，又因厚币<用>事者臣靳尚，而设诡辩于怀王之宠姬郑袖。（《史记•屈原贾生列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 到了楚国，他又用丰厚的礼品贿赂当权的大臣靳尚，通过他在怀王宠姬郑袖面前编造了一套谎话。
       - trans: ❺统治;治理。
         sentences:
-          - ancient: "故仁义之<用>国，非特（只）将持其有而已也,又将兼人。（《荀子•富国》）"
+          - ancient: 故仁义之<用>国，非特（只）将持其有而已也，又将兼人。（《荀子•富国》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 所以讲究仁德的人在国内当权，不单单将保住他所有的，还要兼并别人的国家。
       - trans: ❻适用；实用。
         sentences:
           - ancient: 是仁义<用>于古而不<用>于今也。（《韩非子•五蠹》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 这表明仁义在古代可以，但现在就不行了。
       - trans: ❼听从;釆纳。
         sentences:
           - ancient: 意气勤勤恳恳，若望仆不相师，而<用>流俗人之言。（《报任安书》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 情意十分恳切诚挚，好像抱怨我没有遵从您的教诲，而是追随了世俗之人的意见。
           - ancient: 吾悔不<用>蒯通之计，乃为儿女子所诈，岂非天哉！（《史记•淮阴侯列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我真后悔没用蒯彻的计策，竟上了小孩子、妇人的当，这难道不是天意吗！
   - word: 用
     type: 【介词】
     phonetic: yong4
@@ -107,33 +107,33 @@ words:
     samples:
       - trans: 用法和介词"以"相同。❶依靠;凭借。
         sentences:
-          - ancient: "子乃规规然而求之以察，索之以辩，是直<用>管窥天,<用>锥指地也。（《秋水》）"
+          - ancient: 子乃规规然而求之以察，索之以辩，是直<用>管窥天，<用>锥指地也，不亦小乎。（《秋水》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 你竟拘泥浅陋地用察视的办法去探寻它的奥妙，用论辩的言辞去索求它的真谛，这只不过是用竹管去窥视高远的苍天，用锥子去测量浑厚的大地，不是太渺小了吗
       - trans: ❷因为；由于。
         sentences:
           - ancient: <用>善骑射，杀首虏多，为汉中郎。（《史记•李将军列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 因为他善于骑射，斩杀敌人首级很多，所以被任为汉朝廷的中郎。
           - ancient: 人固有一死，或重于泰山，或轻于鸿毛，<用>之所趋异也。（《报任安书》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 人生本来就有一死，但有的人死得比泰山还重，有的人死的却比鸿毛还轻，这是因为他们用死追求的目的不同啊！
           - ancient: 蟹六跪而二螯，非蛇鳍之穴无可寄托者，<用>心躁也。（《劝学》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "<用>此，其将兵数困辱,其射猛兽亦为所伤云。（《史记•李将军列传》）"
+            vernacular: 螃蟹有六只脚和两只钳夹，（但是）如果没有蛇、蟮的洞穴它就无处藏身，这是因为它用心（心思）浮躁啊。
+          - ancient: <用>此，其将兵数困辱，其射猛兽亦为所伤云。（《史记•李将军列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 因此他领兵有几次被困受辱，射猛兽也曾被猛兽所伤。
       - trans: ❸拿;把。
         sentences:
           - ancient: 单于既得翕（xi1）侯，以为自次王，<用>其姊妻之。（《史记•匈奴列传》）
             url: xxxx
             vernacular: xxxx
-          - ancient: "辟（躲开）左右，亲问（张）禹以天变,因<用>吏民所言王氏事示禹。（《汉书•张禹传》）"
+          - ancient: 辟（躲开）左右，亲问（张）禹以天变，因<用>吏民所言王氏事示禹。（《汉书•张禹传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 屏退左右，亲自询问张禹关于天象变异的事，把吏民上书谈到的王氏之事告诉张禹。
       - trans: ❹在。
         sentences:
           - ancient: 古法采草药多<用>二月、八月，此殊未当。（《梦溪笔•药议》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 古法采草药(时间)多数在二月、八月，这很不恰当。

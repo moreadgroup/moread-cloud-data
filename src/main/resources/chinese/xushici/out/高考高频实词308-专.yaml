@@ -10,24 +10,24 @@ words:
         sentences:
           - ancient: 衣食所安，弗敢<专>也，必以分人。（《曹刿论战》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 衣食（这一类）养生的东西，我从来不敢独自专有，一定把它们分给身边的大臣。”
           - ancient: 夫然，则天下莫能争是溪，予得<专>而名焉。（唐•柳宗元《愚溪诗序》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 因此，天下人谁也不能和我争这条溪水，我有给它命名的专利。
           - ancient: 灵公既立，赵盾益<专>国政。（《史记•赵世家》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 灵公即位之后，赵盾依然独揽朝政。
           - ancient: 【高考题例】臣既受命<专>斧钺之威，臣不敢生还，愿君亦垂一言之命于臣。（《六韬》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我既然接受任命专有斧钺之威，我就不敢活着回来。 希望国君也赐给我一句话的命令。
       - trans: ❷擅自行事;独断专行。
         sentences:
-          - ancient: "此妇无礼节,举动自<专>由。（《孔雀东南飞》）"
+          - ancient: 此妇无礼节，举动自<专>由。（《孔雀东南飞》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 这个媳妇不懂得礼节，行动又是那样自专自由。
           - ancient: 奉事循公姥，进止敢自<专>？（《孔雀东南飞》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 侍奉公婆都顺着他们的心意，一举一动哪里敢自作主张不守本分？
   - word: 专
     type: 【形容词】
     phonetic: zhuan1
@@ -38,10 +38,10 @@ words:
         sentences:
           - ancient: 其业有不精、德有不成者，非天质之卑（低下），则心不若余之<专>耳，岂他人之过哉？（《送东阳马生序》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 他们中如果学业有所不精通，品德有所未养成的，如果不是天赋、资质低下，就是⽤⼼不如我这样专⼀，难道可以说是别⼈的过错吗！
           - ancient: 然后叹借者之用心<专>，而少时之岁月为可惜也。（《黄生借书说》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 这样以后我（才）感慨借书读的人是（那么）用心专一，而自己少年时候的时光是（多么）值得珍惜的啊
   - word: 专
     type: 【副词】
     phonetic: zhuan1
@@ -52,18 +52,18 @@ words:
         sentences:
           - ancient: 向（先前）察众人之议，<专>欲误将军，不足与图大事。（《资治逼鉴•汉纪五十七》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 刚才考察众人的议论，完全是要误害将军。
           - ancient: 闻道有先后，术业有<专>攻，如是而已。（《师说》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "<专>以射为戏,竟死。（《史记•李将军列传》）"
+            vernacular: 知道道理有先有后，技能学业各有专门研究，如此而已。
+          - ancient: <专>以射为戏，竟死。（《史记•李将军列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 他专门以射箭为消遣，一直到死。
           - ancient: 【高考题例】洛阳之人，年少初学，<专>欲擅权，纷乱诸事。（《史记•屈原贾生列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 这个洛阳人，年轻没有经验，专想揽权，把许多事情都搞乱了。
       - trans: ❷独自。
         sentences:
-          - ancient: "迩年（近年）狱讼,情稍重，京兆、五城即不敢<专>决。（《狱中杂记》）"
+          - ancient: 迩年（近年）狱讼，情稍重，京兆、五城即不敢<专>决。（《狱中杂记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 近几年来打官司，凡情节比较重的，顺天府尹和五城御史便不敢做主；

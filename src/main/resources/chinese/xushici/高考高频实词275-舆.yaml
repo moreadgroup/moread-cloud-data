@@ -18,7 +18,7 @@ words:
             vernacular: xxxx
       - trans: ❸古代奴隶的一个等级。
         sentences:
-          - ancient: "士臣皂，皂臣<舆>，<舆>臣隶，隶臣僚，僚臣仆，仆臣台。 （《左传•昭公七年》）"
+          - ancient: 士臣皂，皂臣<舆>，<舆>臣隶，隶臣僚，僚臣仆，仆臣台。 （《左传•昭公七年》）
             url: xxxx
             vernacular: xxxx
       - trans: ❹地。
@@ -45,6 +45,6 @@ words:
     samples:
       - trans: 众多。
         sentences:
-          - ancient: "近臣谏，远臣谤，<舆>人诵，以自诰也。（《国语•楚语上》）"
+          - ancient: 近臣谏，远臣谤，<舆>人诵，以自诰也。（《国语•楚语上》）
             url: xxxx
             vernacular: 身边的臣子劝谏，下边的臣子批评，老百姓也讽刺，自己应该警诫呀。

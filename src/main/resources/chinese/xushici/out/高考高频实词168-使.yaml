@@ -10,18 +10,18 @@ words:
         sentences:
           - ancient: 大王遣一介之<使>至赵，赵立奉璧来。（《廉颇蔺相如列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 大王派遣一位使臣到赵国，赵国立即就会把璧送来。
           - ancient: 一车炭，千余斤，宫<使>驱将惜不得。（唐•白居易《卖炭翁》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 一车的炭，一千多斤，太监差役们硬是要赶着走，老翁百般不舍，却又无可奈何。
           - ancient: 时汉连伐胡，数通<使>相窥观。（《苏武传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 当时汉朝廷不断讨伐匈奴，多次互派使节彼此暗中侦察。
       - trans: ❷使命。
         sentences:
           - ancient: 时周瑜受<使>至番阳。（《资治通鉴•汉纪五十七》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 当时周瑜接受使命到番阳去了。
       - trans: ❸朝廷派往地方负责某种政务的官员。如"转运使""节度使"等。
   - word: 使
     type: 【动词】
@@ -31,59 +31,59 @@ words:
     samples:
       - trans: ❶命令;派遣。
         sentences:
-          - ancient: 乃<使>蒙恬北筑长城而守藩篱。（《过秦论》）
+          - ancient: 乃<使>蒙恬北筑长城而守藩篱，却匈奴七百余里。（《过秦论》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 于是派蒙恬到北方去修筑万里长城，作为边疆上的屏障来防守，把匈奴向北驱赶了七百多里。
           - ancient: 秦昭王闻之，<使>人遗赵王书。（《廉颇蔺相如列传》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "<使>杞子、逢孙、杨孙戍之,乃还。（《烛之武退秦师》）"
+            vernacular: 秦昭王听说了这件事，就派人给赵王送来一封书信
+          - ancient: <使>杞子、逢孙、杨孙戍之，乃还。（《烛之武退秦师》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 派遣杞子、逢孙、杨孙戍守郑国，秦伯就回国了。
           - ancient: 沛公已出，项王<使>都尉陈平召沛公。（《鸿门宴》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 刘邦出去后，项王派都尉陈平去叫刘邦。
       - trans: ❷令;让。
         sentences:
           - ancient: 不如因而厚遇（优厚的待遇）之，<使>归赵。（《廉颇蔺相如列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 不如趁此好好款待他，放他回到赵国
           - ancient: 安能摧眉折腰事权贵，<使>我不得开心颜？（《梦游天姥吟留别》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 岂能卑躬屈膝去侍奉权贵？那将使我不再有舒心畅意的笑颜！
           - ancient: 虽有槁暴，不复挺者，輮<使>之然也。（《劝学》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 即使又被风吹日晒而干枯了，木材也不会再挺直，是因为经过加工使它成为这样的。
           - ancient: 谷与鱼鳖不可胜食，材木不可胜用，是<使>民养生丧死无憾也。（《寡人之于国也》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 粮食和鱼类吃不完，木材用无尽，这样便使老百姓能够养活家小，葬送死者而无遗憾了。
           - ancient: 试<使>山东之国与陈涉度长絜大，比权量力，则不可同年而语矣。（《过秦论》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 假使拿崤山函谷关以东各国诸侯来跟陈涉量量长短，比比大小，比较一下他们的权威，衡量衡量他们的实力，那简直不能够同年而语，相提并论。
       - trans: ❸使用；支配。
         sentences:
           - ancient: 尚贤<使>能。（《荀子•王制》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 尊重贤人，使用有才能者。
           - ancient: 受母钱帛多，不堪母驱<使>。（《孔雀东南飞》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 受了阿母许多金钱和财礼，却不能胜任阿母的驱使。
       - trans: ❹出使。
         sentences:
-          - ancient: <使>于四方，不辱君命，可谓士矣。（《论语•子路》）
+          - ancient: 行己有耻，<使>于四方，不辱君命，可谓士矣。（《论语•子路》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: 是时屈平既疏，不复在位，<使>于齐。（《史记•屈原贾生列传》）
+            vernacular: 能用羞耻之心约束自己的行为，出使不辜负君主的委托，这就可以称作士了
+          - ancient: 是时屈原既疏，不复在位，<使>于齐。（《史记•屈原贾生列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 这时屈原已被疏远，不在朝中任职，出使在齐国
           - ancient: 宦者令缪贤曰："臣舍人蔺相如可<使>。"（《廉颇蔺相如列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 宦官令缪贤说：“我的门客蔺相如可以出使。”
       - trans: ❺放纵（饮酒）。
         sentences:
           - ancient: 复有人言其勇，<使>酒难近。（《史记•季布栾布列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 又有人说（季布）非常勇猛，如果顺着他的性子酗酒的话就很难接近。
   - word: 使
     type: 【连词】
     phonetic: Shi3
@@ -92,12 +92,12 @@ words:
     samples:
       - trans: 表示假设。假使。
         sentences:
-          - ancient: "向<使>三国各爱其地,齐人勿附于秦，刺客不行……（《六国论》）"
+          - ancient: 向<使>三国各爱其地，齐人勿附于秦，刺客不行……（《六国论》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "嗟乎！<使>六国各爱其人,则足以拒秦;<使>秦复爱六国之人，则递三世可至万世而为君，谁得而族灭也?（《阿房宫赋》）"
+            vernacular: 假使韩、魏、楚三国都爱惜他们的国土，齐国不依附秦国。燕国的刺客不去刺秦王
+          - ancient: 嗟乎！<使>六国各爱其人，则足以拒秦;<使>秦复爱六国之人，则递三世可至万世而为君，谁得而族灭也?（《阿房宫赋》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "【高考题例】<使>堤土石幸久不朽，则滕侯之惠利于人物,可以数计哉？（《欧阳文忠公集•偃虹堤记》）"
+            vernacular: 假使秦王朝又爱护六国的人民，那就顺次传到三世还可以传到万世做皇帝，谁能够族灭它呢？
+          - ancient: 【高考题例】<使>堤土石幸久不朽，则滕侯之惠利于人物，可以数计哉？（《欧阳文忠公集•偃虹堤记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 如果堤坝的土石有幸长久不坏，那么滕太守惠及的人事，还能用数字来计算吗？

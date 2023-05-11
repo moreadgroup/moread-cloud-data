@@ -8,14 +8,14 @@ words:
     samples:
       - trans: ❶乘具;车船。
         sentences:
-          - ancient: "郑穆公使视客馆,则束<载>、厉兵、秣马矣。（《左传・僖公三十三年》）"
+          - ancient: 郑穆公使视客馆，则束<载>、厉兵、秣马矣。（《左传・僖公三十三年》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 郑穆公派人到宾馆察看，原来杞子及其部下已经捆好了行装，磨快了兵器，喂饱了马匹。
       - trans: ❷装载的东西。
         sentences:
-          - ancient: "盗求其橐（tuo2,—种口袋）中之<载>，则与之。（《吕氏春秋•必己》）"
+          - ancient: 盗求其橐（tuo2，—种口袋）中之<载>则与之，求其车马则与之，求其衣被则与之。（《吕氏春秋•必己》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 强盗要他行囊里装的东西（牛缺）就给了他们，要他的车马就给了他们，要他的衣服被子就给了他们。
   - word: 载
     type: 【动词】
     phonetic: zai4
@@ -26,18 +26,18 @@ words:
         sentences:
           - ancient: 使君谢罗敷："宁可共<载>不?"（《陌上桑》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 太守就问罗敷：“愿意与我一起乘车吗？”
           - ancient: 陆行<载>车，水行<载>舟，泥行蹈毳(cui4)，山行即桥。（《史记•河渠书》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 在陆地上行走要坐车，在水中行走要坐船，在泥泞中行走要踩木橇，在山路中行走则乘轿。
           - ancient: 侯生摄敝衣冠，直上<载>公子上坐，不让，欲以观公子。（《史记•魏公子列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 侯先生整理了一下破旧的衣帽，就径直上了车子坐在公子空出的尊贵座位，丝毫没有谦让的意思，想借此观察一下公子的态度。
       - trans: ❷（用车、船等）装载。
         sentences:
           - ancient: 黔无驴，有好事者船<载>以入。（《黔之驴》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 黔地这个地方本来没有驴，有一个喜欢多事的人用船运来一头驴进入这个地方。
           - ancient: 卿与子敬、程公便在前发，孤当续发人众，多<载>资粮，为卿后援。（《资治通鉴•汉纪五十七》）
             url: xxxx
             vernacular: xxxx
@@ -45,20 +45,20 @@ words:
         sentences:
           - ancient: <载>舟覆舟，所宜深慎。（《谏太宗十思疏》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 人民能拥戴皇帝，也能推翻他的统治，这是应当深切戒慎的。
       - trans: ❹充满。
         sentences:
-          - ancient: 厥声<载>路。（《诗经•大雅•生民》）
+          - ancient: 实覃实訏，厥声<载>路。（《诗经•大雅•生民》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 哭声又长又洪亮，声满道路强有力。
           - ancient: 今我来思，雨雪<载>涂（道路）。（《诗经•小雅•出车》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 如今我终于踏上漫漫归途，大雪纷飞伴我一路走泥泞。
       - trans: ❺开始。
         sentences:
-          - ancient: 春日<载>阳。（《诗经•豳风•七月》）
+          - ancient: 春日<载>阳，有鸣仓庚。（《诗经•豳风•七月》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 春天阳光暖融融，黄鹂婉转唱着歌。
   - word: 载
     type: 【助词】
     phonetic: zai4
@@ -69,15 +69,15 @@ words:
         sentences:
           - ancient: 既见复关，<载>笑<载>言。（《诗经•卫风•氓》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 情郎即从复关来，又说又笑喜洋洋。
           - ancient: 乃瞻衡宇，<载>欣<载>奔。（《归去来兮辞》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 刚刚看到自己简陋的家门，我心中欣喜，奔跑过去。
       - trans: ❷起加强语气的作用。
         sentences:
           - ancient: 忧心烈烈，<载>饥<载>渴。（《诗经•小雅•采薇》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 忧心如焚，饥渴交加实在难忍。
   - word: 载
     type: 【动词】
     phonetic: zai3
@@ -86,12 +86,12 @@ words:
     samples:
       - trans: 记录;记载。
         sentences:
-          - ancient: 丕视功<载>（意思是见有功者而记载之）。（《尚书・洛诰》）
+          - ancient: 汝受命笃弼，丕视功<载>（意思是见有功者而记载之），乃汝其悉自教工。（《尚书・洛诰》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 你接受先王遗命，督导辅助，你全面查阅记功的书，然后你要悉心亲自指导这件事。
           - ancient: 今汉兴，海内一统，明主贤君忠臣死义之士，余为太史而弗论<载>，废天下之史文，余甚惧焉，汝其念哉！（《史记•太史公自序》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 如今汉朝兴起，海内统一，明主贤君忠臣死义之士，我作为太史都未能予以论评载录，断绝了天下的修史传统，对此我甚感惶恐，你可要记在心上啊！
   - word: 载
     type: 【量词】
     phonetic: zai3
@@ -102,10 +102,10 @@ words:
         sentences:
           - ancient: 自去（离开）史职，五<载>复还。（《张衡传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 自他从太史令上离任后，过了五年，又回到这里。
           - ancient: 出师一表真名世，千<载>谁堪伯仲间！（宋•陆游《书愤》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 《出师表》这篇文章真是举世闻名，千载以来谁能与诸葛亮相比!
           - ancient: 千<载>琵琶作胡语，分明怨恨曲中论。（唐•杜甫《咏怀古迹•其三》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 千载流传她作的胡音琵琶曲，曲中倾诉的分明是满腔悲愤。

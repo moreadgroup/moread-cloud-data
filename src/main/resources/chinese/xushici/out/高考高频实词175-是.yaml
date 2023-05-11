@@ -10,18 +10,18 @@ words:
         sentences:
           - ancient: 同行十二年，不知木兰<是>女郎。（《木兰诗》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 同行数年之久，竟然不知道木兰是女孩子。
           - ancient: 萍水相逢，尽<是>他乡之客。（《滕王阁序》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 萍水偶尔相逢，大家都是异乡之客．
       - trans: ❷认为正确。
         sentences:
           - ancient: 百姓皆<是>吾君而非邻国，则战已胜矣。（《吴子•图国》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 百姓都拥护自己的君主， 反对邻国， 那么战争已经取得胜利了。
           - ancient: 【高考题例】其论说始若诡于众，极听其终，众乃<是>之。（《论街•自纪篇》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 他的论说初听时似乎很古怪，与众不同，直到把他的话听完了，大家才认为说得很正确。
       - trans: ❸表示遍举。所有;凡是
         sentences:
           - ancient: <是>事皆草创（开始兴办）。（唐•陆龟蒙《记事》）
@@ -40,10 +40,10 @@ words:
         sentences:
           - ancient: 自以为<是>。（《孟子•尽心下》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 自己认为自己正确。形容主观不虚心的态度。
           - ancient: 实迷途其未远，觉今<是>而昨非。（《归去来兮辞》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 确实走入了迷途大概还不远，觉悟到今天的做法正确，之前的错误。
   - word: 是
     type: 【代词】
     phonetic: shi4
@@ -54,16 +54,16 @@ words:
         sentences:
           - ancient: 吾不能早用子，今急而求子，<是>寡人之过也。（《烛之武退秦师》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我不能早早用你，现在由于情况危急因而求您，这是我的过错。
           - ancient: 登高作赋，<是>所望于群公。（《滕王阁序》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: 适其视下也，亦若<是>则已矣。（《逍遥游》）
+            vernacular: 登高而作赋，那是在座诸公的事了。
+          - ancient: 其视下也，亦若<是>则已矣。（《逍遥游》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 鹏鸟所见，大概也是这个样子吧。
           - ancient: 臣密今年四十有四，祖母刘今年九十有六，<是>臣尽节于陛下之日长，报养刘之日短也。（《陈情表》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我现在的年龄四十四岁了，祖母现在的年龄九十六岁了，这样看来我在陛下面前尽忠尽节的日子还很长，而在祖母刘氏面前尽孝尽心的日子很短。
   - word: 是
     type: 【助词】
     phonetic: shi4
@@ -74,10 +74,10 @@ words:
         sentences:
           - ancient: 二三子其佐我明扬仄陋（出身卑微的人），唯才<是>举，吾得而用之。（《三国志，•巍书•武帝纪》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 大家要帮助我显扬高明人士，即使身份卑微，也要推举，只要有才能就进荐上来，让我能够任用他们。
           - ancient: 求！无乃尔<是>过与？（《季氏将伐颛臾》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 冉有！恐怕应该责备你们吧。
           - ancient: 【高考题例】其能凌岁寒而不易行者，非松也耶！<是>故昔之君子每托之以自厉。（《看松庵记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 那些能够冒着每年的严寒而不改变品行的，不是就是松树吗？因此从前的君子常常借松树来激励自己

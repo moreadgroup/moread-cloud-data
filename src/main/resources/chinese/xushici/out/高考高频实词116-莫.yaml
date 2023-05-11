@@ -10,22 +10,22 @@ words:
         sentences:
           - ancient: 溥天之下，<莫>非王土；率土之滨，<莫>非王臣。（《诗经•小雅•北山》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 你看广褒无垠的普天之下，没有一处不是国君的封土；你看各处封土的天边尽头，没有一人不是国君的奴仆。
           - ancient: 非刘豫州<莫>可以当曹操者，然豫州新败之后，安能抗此难乎？（《资治通鉴•汉纪五十七》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 不是说刘豫州抵挡不了曹操;但是豫州刚刚打了败仗，又怎么能抵挡这劫难呢?
           - ancient: 时天下承平日久，自王侯以下<莫>不逾侈。（《张衡传》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: 如使人之所欲<莫>甚于生。（《鱼我所欲也》）
+            vernacular: 此时社会长期太平无事，从王公贵族到一般官吏，没有不过度奢侈的。
+          - ancient: 如使人之所欲<莫>甚于生，则凡可以得生者何不用也？（《鱼我所欲也》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 如果人们所喜爱的东西没有超过生命的，那么凡是能够用来求得生存的手段，有什么不可以使用呢?
           - ancient: 【高考题例】百姓市道<莫>不咨嗟。（《后汉书•王涣传》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "【高考题例】弘微少孤，事兄如父，兄弟友穆之至,举世<莫>及也。（《宋书•谢弘微传》）"
+            vernacular: 百姓在市中和路上没有不叹息的。
+          - ancient: 【高考题例】弘微少孤，事兄如父，兄弟友穆之至，举世<莫>及也。（《宋书•谢弘微传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 谢弘微从小失去父母，事奉兄长如同事奉父亲，兄弟之间非常友爱和睦，当代没有人能够赶得上。
   - word: 莫
     type: 【副词】
     phonetic: mo4
@@ -36,23 +36,23 @@ words:
         sentences:
           - ancient: 一夫当关，万夫<莫>开。（《蜀道难》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "苟非吾之所有,虽一毫而<莫>取。（《赤壁赋》）"
+            vernacular: 一个人把着关口，上万人也打不进来
+          - ancient: 苟非吾之所有，虽一毫而<莫>取。（《赤壁赋》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 若不是自己应该拥有的，即令一分一毫也不能求取。
       - trans: ❷不要。
         sentences:
           - ancient: <莫>辞更坐弹一曲，为君翻作《琵琶行》。（《琵琶行》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 不要告辞，请坐下再弹一只曲子，我替你谱写歌词，题目就叫作《琵琶行》
           - ancient: 愿早定大计，<莫>用众人之议也。（《资治通鉴•汉纪五十七》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 请你早日定下计划，不用听信众人的非议
       - trans: ❸大约。
         sentences:
-          - ancient: "文,<莫>吾犹人也。躬行君子，则吾未之有得。（《论语•述而》）"
+          - ancient: 文，<莫>吾犹人也。躬行君子，则吾未之有得。（《论语•述而》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 就书本知识来说，大概我和别人差不多，作为躬行实践的君子，那我还没有做到。
   - word: 莫
     type: 【名词】
     phonetic: mu4
@@ -61,30 +61,38 @@ words:
     samples:
       - trans: ❶日落之时;傍晚。"暮"字的古体。
         sentences:
-          - ancient: 日<莫>人倦。（《礼记•聘义》）
+          - ancient: 日<莫>人倦，齐庄正齐，而不敢解惰。（《礼记•聘义》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 天色已晚，人们都疲倦了，但还神态端庄，班列整齐，不敢有丝毫懈怠，坚持完成各种应有的礼节。
           - ancient: 至<莫>夜月明，独与迈乘小舟，至绝壁下。（《石钟山记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 到了晚上月光明亮，特地和苏迈坐着小船到断壁下面。
           - ancient: <莫>春者，春服既成。（《子路、曾晳、冉有、公西华侍坐》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 暮春时节，春天的服装已经穿上了
       - trans: ❷通"幕"。幕府。
         sentences:
           - ancient: 大将军不听，令长史封书与广之<莫>府。（《史记•李将军列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 大将军不听，派长史下文书给李广的幕府，
       - trans: ❸多年生草本植物，嫩叶、嫩茎可做蔬菜。
         sentences:
-          - ancient: "彼汾沮洳（ru4,泥沼），言釆其<莫>。（《诗经•魏风•汾沮洳》）【形容词】❶昏暗；昏黑。"
+          - ancient: 彼汾沮洳（ru4，泥沼），言釆其<莫>。（《诗经•魏风•汾沮洳》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "于是榛林深泽，烟云闇（an4,黑暗）<莫>。（汉•枚乘《七发》）"
+            vernacular: 在那汾河湾里低湿的地方，有个小伙子采水面野菜忙。
+  - word: 莫
+    type: 【形容词】
+    phonetic: mu4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶昏暗；昏黑。
+        sentences:
+          - ancient: 于是榛林深泽，烟云闇（an4，黑暗）<莫>。（汉•枚乘《七发》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 在那丛林深泽之间，烟蒸云腾一片昏暗
       - trans: ❷年老。
         sentences:
           - ancient: 臣迫于衰<莫>。（宋•王安石《谢宣医札子》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 由于我年老

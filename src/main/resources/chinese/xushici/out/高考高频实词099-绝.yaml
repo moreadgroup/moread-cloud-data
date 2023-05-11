@@ -15,69 +15,69 @@ words:
         sentences:
           - ancient: 今滕，<绝>长补短，将五十里也，犹可以为善国。（《孟子•滕文公上》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "秦王惊，自引而起,<绝>袖。（《战国策•燕策三》）"
+            vernacular: 今天的滕国截长补短， 算起来方圆近五十里， 仍可成为一个好国家。
+          - ancient: 秦王惊，自引而起，<绝>袖。（《战国策•燕策三》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 秦王非常惊骇，自己挣扎着站起来，扯断袖子。
           - ancient: 如怨如慕，如泣如诉，余音袅袅，不<绝>如缕。（《赤壁赋》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 有如哀怨有如思慕，像是哭泣，又像是倾诉，尾声凄切、婉转、悠长，如同不断的细丝。
           - ancient: 归去来兮，请息交以<绝>游。（《归去来兮辞》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 回家去吧！让我同外界断绝交游。
       - trans: ❷经过;渡过。
         sentences:
           - ancient: 假舟楫者，非能水也，而<绝>江河。（《劝学》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "夏四月,卫青复将六将军<绝>幕（通\"漠\"，沙漠），大克获。（《汉书•武帝纪》）"
+            vernacular: 借助舟船的人，并不善于游泳，却可以横渡长江黄河。
+          - ancient: 夏四月，卫青复将六将军<绝>幕（通"漠"，沙漠），大克获。（《汉书•武帝纪》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 夏四月， 卫青再次率六名将军及士兵到达匈奴南界沙漠，大获全胜。
           - ancient: 西当太白有鸟"道，可以横<绝>峨眉巅。（《蜀道难》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "<绝>云气,负青天，然后图南,且适南冥也。（《逍遥游》）"
+            vernacular: 西边太白山有飞鸟能过的小道。从那小路走可横渡峨眉山顶端。
+          - ancient: <绝>云气，负青天，然后图南，且适南冥也。（《逍遥游》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 超越云层，背负青天，然后向南飞翔，去往南方的大海。
       - trans: ❸断;尽。
         sentences:
           - ancient: 孔子<绝>粮陈、蔡。（《论衡•逢遇》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 孔子在陈国和蔡国之间的地方（缺粮）受困
       - trans: ❹绝命;死。
         sentences:
           - ancient: 虽萎<绝>其亦何伤兮，哀众芳之芜秽。（《离骚》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 它们枯萎死绝有何伤害，使我痛心的是它们质变。
           - ancient: 我命<绝>今日，魂去尸长留！（《孔雀东南飞》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我的生命终结就在今天，只有尸体长久留下我的魂魄将要离去。
       - trans: ❺隔开；隔断。
         sentences:
           - ancient: 至于夏水襄陵，沿溯阻<绝>。（《三峡》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 等到夏天江水漫上山陵的时候，下行和上行船只的航路都被阻断，无法通行。
       - trans: ❻停止;止歇。
         sentences:
           - ancient: 冰泉冷涩弦凝<绝>，凝<绝>不通声暂歇。（《琵琶行》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 好像冰泉冷涩琵琶声开始凝结，凝结而不通畅声音渐渐地中断。
           - ancient: 忽然抚尺一下，群响毕<绝>。（《口技》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 忽然醒木一拍，各种声响全部消失了。
           - ancient: 【高考题例】御经筵，<绝>游宴，停不急务。（《明史•马文升传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 御经筵，停止游玩与宴会，停止一切不紧急的事务
       - trans: ❼断绝;停止来往。
         sentences:
           - ancient: 秦甚憎齐，齐与楚从亲（交往密切）；楚诚能<绝>齐，秦愿献商、於之地六百里。（《吏记•屈原贾生列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 秦国非常憎恨齐国，齐国与楚国却合纵相亲，如果楚国确实能和齐国绝交，秦国愿意献上商、於之间的六百里土地。
       - trans: ❽超过。
         sentences:
           - ancient: 博见强志，过<绝>于人。（《汉书•刘歆传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 见识广博，记忆力强，超过一般人。
   - word: 绝
     type: 【形容词】
     phonetic: jue2
@@ -88,20 +88,20 @@ words:
         sentences:
           - ancient: 奇山异水，天下独<绝>。（《与朱元思书》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 山水奇特独异，天下独一无二。
           - ancient: 满坐宾客无不伸颈，侧目，微笑，默叹，以为妙<绝>。（《口技》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 满座的宾客没有一个不伸长脖子，偏着头看，微笑，心中默默赞叹，认为奇妙极了。
       - trans: ❷极远的。
         sentences:
           - ancient: 寡人地<绝>兵远，不能攻也。（《史记•苏秦列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我的国家和宋国路途隔绝，军队距宋太远，不能直接攻打它
       - trans: ❸隔绝的;封闭的。
         sentences:
           - ancient: 【动词】率妻子邑人来此<绝>境。（《桃花源记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 领着妻子儿女和乡邻们来到这个与世人隔绝的地方
   - word: 绝
     type: 【副词】
     phonetic: jue2
@@ -112,15 +112,15 @@ words:
         sentences:
           - ancient: 四顾奇峰错列，众壑纵横，真黄山<绝>胜处。（明•徐霞客《游黄山日记》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "最是一年春好处,<绝>胜烟柳满皇都。（唐•韩愈《早春呈水部张十八员外》）"
+            vernacular: 四周环顾，只见奇峰错落地排列，众多的山谷纵横交错，实在是黄山风景最美的地方！
+          - ancient: 最是一年春好处，<绝>胜烟柳满皇都。（唐•韩愈《早春呈水部张十八员外》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 一年之中最美的就是这早春的景色，它远胜过了绿杨满城的暮春。
           - ancient: 【高考题例】济从骑有一马<绝>难乘，少能骑者。（《世说新语•家有名士》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 王济的随从有一匹烈马，非常难于驾驭，很少有能骑的人。
       - trans: ❷绝对;完全。
         sentences:
           - ancient: 而心目耳力俱穷，<绝>无踪响。（《促织》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 然而心力、视力、听力都用尽了，结果还是一点蟋蟀的踪迹响声都没有。

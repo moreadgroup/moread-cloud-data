@@ -8,12 +8,12 @@ words:
     samples:
       - trans: ❶预备。
         sentences:
-          - ancient: 右臣闻事<预>则立，不<预>则废。（宋•苏轼《奏浙西灾伤第一状》）
+          - ancient: 凡事<预>则立，不<预>则废。（宋•苏轼《奏浙西灾伤第一状》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 无论做什么事情，如能预先确立一种诚实态度，就一定能成功，不能这样，就不能成功。
       - trans: ❷参与。
         sentences:
-          - ancient: "偶兹精庐近,数<预>名僧会。（唐•岑参《终南山双峰草堂》）"
+          - ancient: 偶兹精庐近，数<预>名僧会。（唐•岑参《终南山双峰草堂》）
             url: xxxx
             vernacular: xxxx
   - word: 预
@@ -24,9 +24,9 @@ words:
     samples:
       - trans: 安乐。
         sentences:
-          - ancient: "【高考题例】仙亭日登眺,虎丘时游<预>。（唐•白居易《和微之诗二十三首・和三月三十日四十韵》）"
+          - ancient: 【高考题例】仙亭日登眺，虎丘时游<预>。（唐•白居易《和微之诗二十三首・和三月三十日四十韵》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 虎丘(hǔ qiū ) 山名。位于江苏省吴县西北，为吴王阖闾埋葬处，是苏州的名胜。也称为「海涌山」、「武丘」。 登眺(dēng tiào )  1.登高远望。
   - word: 预
     type: 【副词】
     phonetic: yu4
@@ -37,4 +37,4 @@ words:
         sentences:
           - ancient: 副帅潘美<预>以为贺。（《宋史•曹彬列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 副帅潘美预先祝贺他。

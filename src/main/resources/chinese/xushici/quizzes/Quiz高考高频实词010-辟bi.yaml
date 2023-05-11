@@ -27,7 +27,7 @@ quizzes:
     trans: ❸罪过。
     ancient: 土不备垦，<辟>在司寇。（《国语•周语上》）
     url: xxxx
-    vernacular: "田地不全部翻遍，将由司寇治罪。"
+    vernacular: 田地不全部翻遍，将由司寇治罪。
   - word: 辟
     type: 【动词】
     phonetic: bi4
@@ -125,21 +125,21 @@ quizzes:
     trans: ❷开辟;开设。
     ancient: 田畴垦<辟>，有加于旧。（《宋书•谢弘微传》）
     url: xxxx
-    vernacular: "田地的开垦种植，比原来更有增加。"
+    vernacular: 田地的开垦种植，比原来更有增加。
   - word: 辟
     type: 【动词】
     phonetic: pi4
     trans: ❸排除;驳斥。
     ancient: 禹有功，抑下鴻，<辟>除民害逐共工。（《荀子•成相》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 禹有功，平定洪水，清除民害，驱逐共工。
   - word: 辟
     type: 【动词】
     phonetic: pi4
     trans: ❸排除;驳斥。
     ancient: <辟>邪说，难壬人（佞人，巧言谄媚的人），不为拒谏。（宋•王安石《答苛耳谏议书》）
     url: xxxx
-    vernacular: "抨击不正确的言论，驳斥巧辩的坏人，(这)不能算是拒绝接受(他人的)规劝。"
+    vernacular: 抨击不正确的言论，驳斥巧辩的坏人，(这)不能算是拒绝接受(他人的)规劝。
   - word: 辟
     type: 【动词】
     phonetic: pi4
@@ -181,4 +181,4 @@ quizzes:
     trans: ❸通"僻"。偏斜。
     ancient: 行三里，<辟>矛戟，结幡旗。（汉•曹操《军令》）
     url: xxxx
-    vernacular: xxxx
+    vernacular: 行三里路，摆好矛戟，结起旗帜。

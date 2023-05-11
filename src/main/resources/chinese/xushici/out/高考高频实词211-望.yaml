@@ -10,30 +10,30 @@ words:
         sentences:
           - ancient: 远村虽入<望>，危槛不堪凭。（唐•孟贯《冬曰登江楼》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 远处的村落虽然进去了视线，但是高高的栏杆不宜倚靠
       - trans: ❷希望。
         sentences:
           - ancient: 三十日不还，则请立太子为王，以绝秦<望>。（《廉颇蔺相如列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 如果三十天还没回来，就请您允许我们立太子为王，以断绝秦国要挟的妄想。
       - trans: ❸声望;名望。
         sentences:
           - ancient: 先达德隆<望>尊，门人弟子填其室，未尝稍降辞色。（《送东阳马生序》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 前辈道德和声望高，门人弟子挤满了他的屋子，他不曾把言辞放委婉些，把脸色放温和些。
       - trans: ❹显贵的姓氏、门第。
         sentences:
-          - ancient: 中正（魏晋至隋代州郡官名，负责评定人才品德，分为九等）卖<望>于下里，主按舞笔于上台。（《魏书•孙绍传》）
+          - ancient: 中正（魏晋至隋代州郡官名，负责评定人才品德，分为九等）卖<望>于下里，主案舞笔于上台。（《魏书•孙绍传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 孙绍是说，有的中正利用排定望族位次的权力谋取私利。
       - trans: ❺天文学上指月亮圆的那一天，即农历每月十五日。
         sentences:
           - ancient: 予犹记周公之被逮，在丁卯三月之<望>。（《五人墓碑记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我还记得周公被捕，是在丁卯年三月十五日。
           - ancient: 壬戌之秋，七月既<望>，苏子与客泛舟游于赤壁之下。（《赤壁赋》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 壬戌年秋，七月十六日，苏轼与友人在赤壁下泛舟游玩。
   - word: 望
     type: 【动词】
     phonetic: wang4
@@ -44,46 +44,48 @@ words:
         sentences:
           - ancient: 下视其辙，登轼而<望>之，曰："可矣。"（《曹刿论战》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 说完就向下看，查看齐军车轮碾出的痕迹，又登上战车，扶着轼远望齐军的队形，这才说：“可以追击了。”
           - ancient: 吾令人<望>其气，皆为龙虎，成五采，此天子气也。（《鸿门宴》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我叫人观望他那里的气运，都是龙虎的形状，呈现五彩的颜色，这是天子的运气呀。
       - trans: ❷希望;盼望;期望。
         sentences:
           - ancient: 王如知此，则无<望>民之多于邻国也。（《寡人之于国也》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 大王如果懂得这个道理，就不必去期望您的国家的民众比邻国增多啦。
           - ancient: 日夜<望>将军至，岂敢反乎！（《鸿门宴》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "单于益骄,非汉所<望>也。（《苏武传》）"
+            vernacular: 我日夜盼望将军到来，怎么敢反叛呢？
+          - ancient: 单于益骄，非汉所<望>也。（《苏武传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 单于越发傲慢，不是汉所期望的那样。
           - ancient: 子布、元表诸人，各顾妻子，挟持私虑，深失所<望>;独卿与子敬与孤同耳，此天以卿二人赞（辅佐，帮助）孤也！（《资治通鉴•汉纪五十七》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 子布、元表等人只顾妻子儿女，夹杂着个人的打算，很让我失望；只有您和子敬与我一致，这是苍天让你二人辅助我啊！
       - trans: ❸敬仰。
         sentences:
-          - ancient: 行归于周，万民所<望>。（《诗经•小雅•都人士》）❹埋怨;责怪。
+          - ancient: 行归于周，万民所<望>。（《诗经•小雅•都人士》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: 宗室贵戚多怨<望>者。（《史记•商君列传》）
+            vernacular: 回到西周旧都城，引得万民仰首望。
+      - trans: ❹埋怨;责怪。
+        sentences:
+          - ancient: 商君相秦十年，宗室贵戚多怨<望>者。（《史记•商君列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 商君出任秦相十年，很多皇亲国戚都怨恨他。
           - ancient: 意气勤勤恳恳，若<望>仆不相师，而用流俗人之言。（《报任安书》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 情意十分恳切诚挚，好像抱怨我没有遵从您的教诲，而是追随了世俗之人的意见。
           - ancient: 信知汉王畏恶其能，常称病不朝从。信由此日夜怨<望>，居常鞅鞅，羞与绛、灌等列。（《史记•淮阴侯列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 韩信知道汉王畏忌自己的才能，常常托病不参加朝见和侍行。从此，韩信日夜怨恨却又希望被重用，在家闷闷不乐，和绛侯、灌婴处于同等地位感到羞耻。
       - trans: ❺祭祀（山川）。
         sentences:
-          - ancient: 例切<望>于山川，遍于群神。（《尚书•尧典》）
+          - ancient: <望>于山川，遍于群神。（《尚书•尧典》）
             url: xxxx
             vernacular: xxxx
       - trans: ❻对着。
         sentences:
-          - ancient: "其寺东西南北方五百步,前<望>嵩山少室，却负帝城，青林垂影，绿水为文。（《洛阳伽蓝记》卷三）"
+          - ancient: 其寺东西南北方五百步，前<望>嵩山少室，却负帝城，青林垂影，绿水为文。（《洛阳伽蓝记》卷三）
             url: xxxx
             vernacular: xxxx
   - word: 望
@@ -96,4 +98,4 @@ words:
         sentences:
           - ancient: 臣蒲柳之质，<望>秋先零。（《世说新语•言语》注引顾恺之为父传）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 蒲柳：水杨，秋天凋谢早。多用来比喻身体衰弱或未老先衰。零：凋零。望见秋天将到就先凋零了。比喻体质弱，经不起风霜。也比喻未老先衰。

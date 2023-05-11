@@ -10,17 +10,17 @@ words:
         sentences:
           - ancient: 异乡无旧<识>，车马到门稀。（唐•刘禹锡《元日感怀》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 身处他乡异地，举目无亲，门前车马稀少。
       - trans: ❷知识;见识。
         sentences:
           - ancient: 鄙夫寡<识>，而今而后，乃知大汉之德馨，咸（全）在于此。（汉•张衡《东京赋》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我这个人很愚昧，直到现在才知道大汉的德行是如此的高尚，都在这里了。
       - trans: ❸思想意识。
         sentences:
           - ancient: 固知<识>能匡欲者鲜矣。（《后汉书•马融传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 所以我们知道能够克制自己欲望的人是很少见的。
   - word: 识
     type: 【动词】
     phonetic: shi2
@@ -31,21 +31,21 @@ words:
         sentences:
           - ancient: 而今<识>尽愁滋味，欲说还休。（宋•辛弃疾《丑奴儿•书博山道中壁》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "仆虽怯懦,欲苟活，亦颇<识>去就之分（分fen4,去辱就义的道理）矣。（《报任安书》）"
+            vernacular: 而今的愁滋味呵， 已经尝够， 却想说又不愿开口。
+          - ancient: 仆虽怯懦，欲苟活，亦颇<识>去就之分（分fen4，去辱就义的道理）矣。（《报任安书》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我虽然怯懦软弱，想苟活在人世，但也稍微懂得区分弃生就死的界限
       - trans: ❷熟悉;认识。
         sentences:
-          - ancient: 为宫室之美、妻妾之奉、所<识>，穷乏者得（同"德"，感激）我与？（《鱼我所欲也》）
+          - ancient: 为宫室之美、妻妾之奉、所<识>穷乏者得（同"德"，感激）我与？（《鱼我所欲也》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 是为了住宅的华丽、妻妾的侍奉和认识的穷人感激我吗？
           - ancient: 同是天涯沦落人，相逢何必曾相<识>！（《琵琶行》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "雁过也，正伤心,却是旧时相<识>。（《声声慢》）"
+            vernacular: 同样都是沦落世间的人，既然相逢，无论先前是否认识，都会同病相怜，同声相应.那又何必在意是否曾相识呢?
+          - ancient: 雁过也，正伤心，却是旧时相<识>。（《声声慢》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 向南避寒的大雁已飞过去了，伤心的是却是原来的旧日相识。
   - word: 识
     type: 【名词】
     phonetic: zhi4
@@ -54,9 +54,9 @@ words:
     samples:
       - trans: 通"帜"。标志;记号。
         sentences:
-          - ancient: 讫无文号旌旗表<识>。（《汉书•王莽传》）
+          - ancient: 初，京师闻青、徐贼众数十万人，讫无文号旌旗表<识>，咸怪异之。（《汉书•王莽传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 最初，京城听说青、徐两个贼寇的人数多达数十万，但是没有文号、旌旗或其他标志，大家都感到奇怪。
   - word: 识
     type: 【动词】
     phonetic: zhi4
@@ -65,9 +65,9 @@ words:
     samples:
       - trans: 通"志"。记住。
         sentences:
-          - ancient: 默而<识>之，学而不厌（满足），诲人不倦，何有于我哉！（《论语・学而》）
+          - ancient: 默而<识>之，学而不厌（满足），诲人不倦！（《论语・学而》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 默默地记住所学的知识，学习不觉得满足，教人不知道疲倦。
           - ancient: 因笑谓迈（人名）曰："汝<识>之乎？"（《石钟山记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 于是我笑着对苏迈说：“你知道那些典故吗？”

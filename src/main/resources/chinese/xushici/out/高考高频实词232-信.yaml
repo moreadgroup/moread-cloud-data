@@ -10,31 +10,31 @@ words:
         sentences:
           - ancient: 人而无<信>，不知其可也。（《论语•为政》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 一个人如果不讲信用，真不知道他是否可以（做成事）
           - ancient: 将军既帝室之胄（后代），<信>义著于四海。（《隆中对》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 将军既是皇室的后代，而且声望很高，闻名天下
           - ancient: 终不得归汉，空自苦亡人之地，<信>义安所见乎？（《苏武传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 你终究不能回归本朝了，白白地在荒无人烟的地方受苦，你对汉廷的信义又怎能有所表现呢？
       - trans: ❷信物;凭证。
         sentences:
           - ancient: 是皆不足以执<信>也。（《中山狼传》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "今行而无<信>,则秦未可亲也。（《荆轲刺秦王》）"
+            vernacular: 这都不足以令人信服。
+          - ancient: 今行而无<信>，则秦未可亲也。（《荆轲刺秦王》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 假如空手而去，没有什么凭信之物，那就无法接近秦王。
       - trans: ❸使者;送信的人。
         sentences:
           - ancient: 自可断（回绝）来<信>（这里指媒人），徐徐更谓之。（《孔雀东南飞》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 你就可以去回绝媒人，以后再慢慢商议。
       - trans: ❹音信;消息。
         sentences:
-          - ancient: "大概说长安登科,函使报<信>迟早云尔。（《祭妹文》）"
+          - ancient: 大概说长安登科，函使报<信>迟早云尔。（《祭妹文》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 大概是说在长安考中进士，递信人报信的迟早的情况。
       - trans: ❺书信。
         sentences:
           - ancient: 开拆远书何事喜，数行家<信>抵千金。（唐•李绅《端州江亭得家书二首》之一）
@@ -42,7 +42,7 @@ words:
             vernacular: xxxx
           - ancient: 久已后书儿、<信>儿，索与我凄凄惶惶的寄。（《长亭送别》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 从今往后，张生你要书信给我赶紧寄。
   - word: 信
     type: 【动词】
     phonetic: xin4
@@ -53,21 +53,21 @@ words:
         sentences:
           - ancient: 宁<信>度（尺码），无自<信>也。（《韩非子•外储说左上》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我宁可相信量好的尺码，也不相信自己的脚。
           - ancient: 此悉（都是）贞良死节之臣也，愿陛下亲之<信>之。（《出师表》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "今虽欲自雕琢，曼辞以自饰，无益，于俗不<信>,适足取辱耳。（《报任安书》）"
+            vernacular: 这些人都是忠贞善良、守节不逾的大臣，望陛下亲近他们，信任他们
+          - ancient: 今虽欲自雕琢，曼辞以自饰，无益，于俗不<信>，适足取辱耳。（《报任安书》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 现今我虽然想自我雕饰一番，用美好的言辞来为自己开脱，这也没有好处，因为世俗之人是不会相信的，只会使我自讨侮辱啊。
       - trans: ❷任凭;任意。
         sentences:
           - ancient: <信>手把笔，随意乱书。（唐.白居易《与元微之书》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 随手拿笔，随意乱写
           - ancient: 低眉<信>手续续弹，说尽心中无限事。（《琵琶行》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 她低眉随手慢慢地连续弹奏，尽情地倾诉心底无限的伤心事。
   - word: 信
     type: 【形容词】
     phonetic: xin4
@@ -78,21 +78,21 @@ words:
         sentences:
           - ancient: 其<信>然邪？其梦邪？其传之非其真邪？<信>也，吾兄之盛德而夭其嗣乎？（《祭十二郎文》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 是真的这样呢?还是在做梦呢?还是这传来的消息不可靠呢?如果是真的，那么我哥哥有(那么)美好的品德反而早早地绝后了呢?
           - ancient: <信>言不美，美言不<信>。（《老子》八十一章）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 真实的话因为揭示了现实的残酷，所以不美妙动听；美妙的言辞、文章，内容往往不真实，不可信。
       - trans: ❷诚实。
         sentences:
           - ancient: 与朋友交而不<信>乎？（《论语•学而》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 跟朋友交往是不是真诚，诚实呢？
           - ancient: 则智者尽其谋，勇者竭其力，仁者播其惠，<信>者效其忠。（《谏太宗十思疏》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 那些有智慧的就会施展他们的全部才谋，勇敢的就会竭尽他们的威力，仁爱的就会广施他们的恩惠，诚信的就会报效他们的忠心
           - ancient: 良将劲弩守要害之处，<信>臣精卒陈利兵而谁何。（《过秦论》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 好的将领手执强弩，守卫着要害的地方，可靠的官员和精锐的士卒，拿着锋利的兵器，盘问过往行人。
   - word: 信
     type: 【副词】
     phonetic: xin4
@@ -101,9 +101,9 @@ words:
     samples:
       - trans: 的确;果真。
         sentences:
-          - ancient: "所以游目骋怀（放开眼界、开阔胸怀），足以极视听之娱,<信>可乐也；（《兰亭集序》）"
+          - ancient: 所以游目骋怀（放开眼界、开阔胸怀），足以极视听之娱，<信>可乐也；（《兰亭集序》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 用来舒展眼力，开阔胸怀，足够来极尽视听的欢娱，实在很快乐。
           - ancient: 海客谈瀛洲，烟涛微茫<信>难求。（《梦游天姥吟留别》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 听海外来客们谈起瀛洲，在烟波浩淼的遥远地方，实在难以找到。

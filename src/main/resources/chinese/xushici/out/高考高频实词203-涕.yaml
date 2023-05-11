@@ -10,24 +10,24 @@ words:
         sentences:
           - ancient: 长太息以掩<涕>兮，哀民生之多艰。（《离骚》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 长长地叹息而掩面拭泪，哀叹人生道路多么艰难。
           - ancient: 乘彼垝垣，以望复关。不见复关，泣<涕>涟涟。（《诗经•卫风•氓》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 登上那倒塌的墙壁，遥向复关凝神望。复关没有见到盼望的人，眼泪簌簌掉下来。
           - ancient: 出门登车去，<涕>落百余行。（《孔雀东南飞》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 她走出家门上车离去，眼泪落下百多行。
           - ancient: 蒋氏大戚（悲伤），汪然出<涕>曰……（《捕蛇者说》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 蒋氏（听了），更加悲伤，满眼含泪地说说
           - ancient: 【高考题例】或为之<涕>流，感弘微之义也。（《宋书•谢弘微传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 甚至有人为之流泪，深为谢弘微的德义所感动。
       - trans: ❷鼻涕。
         sentences:
-          - ancient: "目泪下落,鼻<涕>长一尺。（汉•王褒《僮约》）"
+          - ancient: 目泪下落，鼻<涕>长一尺。（汉•王褒《僮约》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 眼睛里面有泪水流下，鼻涕有一尺长。
   - word: 涕
     type: 【动词】
     phonetic: ti4
@@ -36,12 +36,12 @@ words:
     samples:
       - trans: 流泪;哭。
         sentences:
-          - ancient: 高渐离击筑，荆轲和而歌，为变徴之声，士皆垂泪<涕>泣。（《荆轲刺秦王》）
+          - ancient: 高渐离击筑，荆轲和而歌，为变徵之声，士皆垂泪<涕>泣。（《荆轲刺秦王》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: 儿<涕>而去。（《促织》）
+            vernacular: 高渐离敲着筑，荆轲和着节拍唱歌，发出变徵的声音，众宾客都流着眼泪小声地哭。
+          - ancient: 大惊曰：“业根，死期至矣！而翁归，自与汝复算耳！”儿<涕>而去。（《促织》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 大惊说：“祸根，你的死期到了！你父亲回来，自然会跟你算帐！”孩子哭着跑了。
           - ancient: 【高考题例】因悲<涕>伏地不能起。（《宋史•康保裔传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 于是悲伤流泪，匍匐在地不能起身。

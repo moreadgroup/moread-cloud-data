@@ -10,24 +10,24 @@ words:
         sentences:
           - ancient: 入<竟>而问禁，入国而问俗，入门而问讳。（《礼记・曲礼上》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 进入到别国去就要了解当地禁止什么， 进入国都就要了解其当地风俗习惯， 进入其家就要了解有什么忌讳。
           - ancient: <竟>内不失须臾之时。（《商君书•彼民》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 国境以内不耽误一点农时
   - word: 竟
-    type: 【名词】
+    type: 【动词】
     phonetic: jing4
     tags:
       - 高中
     samples:
-      - trans: 【动词】完毕;结束。
+      - trans: 完毕;结束。
         sentences:
           - ancient: 神龟虽寿，犹有<竟>时。（汉•曹操《龟虽寿》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 神龟虽能长寿，但也有死亡的时候。
           - ancient: 及见怪，岁<竟>，此两家常折券弃责。（《史记•高祖本纪》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 等到发现了奇怪的现象，年终时，这两家酒店常折毁帐目，放弃债权。
   - word: 竟
     type: 【形容词】
     phonetic: jing4
@@ -36,9 +36,9 @@ words:
     samples:
       - trans: 整;终。
         sentences:
-          - ancient: "久不见若（你的）影，何<竟>日默默在此,大类女郎也?（《项脊轩志》）"
+          - ancient: 久不见若（你的）影，何<竟>日默默在此，大类女郎也?（《项脊轩志》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 好久没有见到你的身影了，为什么整天默默地呆在这里，真像个女孩子呀？
   - word: 竟
     type: 【副词】
     phonetic: jing4
@@ -47,20 +47,20 @@ words:
     samples:
       - trans: ❶终于;毕竟。
         sentences:
-          - ancient: "怀王怒，不听。亡走赵，赵不内（同\"\"纳\"）。复之秦,<竟>死于秦而归葬。（《史记•屈原贾,生列传》）"
+          - ancient: 怀王怒，不听。亡走赵，赵不内（同"纳"）。复之秦，<竟>死于秦而归葬。（《史记•屈原贾，生列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 怀王很愤怒，不听秦国的要挟。他逃往赵国，赵国不肯接纳。只好又到秦国，最后死在秦国，尸体运回楚国安葬。
           - ancient: 道<竟>何为邪？（唐•刘禹锡《天论》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: “道”究竟有什么用
       - trans: ❷竟然;居然。
         sentences:
           - ancient: 执手相看泪眼，<竟>无语凝噎。（《雨霖铃》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 紧紧握着对方的手含着泪对视，竟然哽咽着说不出一句话。
           - ancient: 而齐<竟>怒不救楚，楚大困。（《史记•屈原贾生列传》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: 【高考题例】疏入，贵妃、承先皆怒，同列亦为登云危，帝<竟>留中不下。（《明史•陈登云传》
+            vernacular: 齐国竟然生气而不去救楚国，楚国非常困窘。
+          - ancient: 【高考题例】疏入，贵妃、承宪皆怒，同列亦为登云危，帝<竟>留中不下。（《明史•陈登云传》
             url: xxxx
-            vernacular: xxxx
+            vernacular: 疏入，贵妃、承宪皆怒，同列(同僚)亦为(认为)登云危，帝竟(最终)留中不下(将奏章留在宫中不下达审议)。

@@ -1,32 +1,32 @@
 ---
 words:
-- word: 劝
-  type: 【动词】
-  phonetic: quan4
-  tags:
-  - 高中
-  samples:
-  - trans: ❶勉励;奖励。
-    sentences:
-    - ancient: 果行，国人皆<劝>。（《勾践灭吴》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 顺于民心，所补者三:一曰主用足，二曰民赋少，三曰<劝>农功。（汉•晁错《论贵粟疏》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❷劝说;劝导。
-    sentences:
-    - ancient: 怀王稚子子兰<劝>王行。（《史记•屈原贾生列传》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 时周瑜受使至番阳，肃<劝>权召瑜还。（《资治通鉴•汉纪五十七》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❸努力。
-    sentences:
-    - ancient: 若是则田野大辟，而农夫<劝>其事矣。（《管子•轻重乙》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 且举世誉之而不加<劝>，举世非之而不加沮。（《逍遥游》）
-      url: xxxx
-      vernacular: xxxx
+  - word: 劝
+    type: 【动词】
+    phonetic: quan4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶勉励;奖励。
+        sentences:
+          - ancient: 果行，国人皆<劝>。（《勾践灭吴》）
+            url: xxxx
+            vernacular: 于是越国就果断地行动起来，全国上下都互相勉励。
+          - ancient: 顺于民心，所补者三:一曰主用足，二曰民赋少，三曰<劝>农功。（汉•晁错《论贵粟疏》）
+            url: xxxx
+            vernacular: 依顺百姓心愿，有三个好处：一是君主需要的东西充足，二是百姓的赋税减少，三是鼓励从事农业生产。
+      - trans: ❷劝说;劝导。
+        sentences:
+          - ancient: 怀王稚子子兰<劝>王行。（《史记•屈原贾生列传》）
+            url: xxxx
+            vernacular: 怀王的小儿子子兰劝怀王去
+          - ancient: 时周瑜受使至番阳，肃<劝>权召瑜还。（《资治通鉴•汉纪五十七》）
+            url: xxxx
+            vernacular: 当时周瑜接受使命到了番阳，鲁肃劝告孙权召周瑜回来。
+      - trans: ❸努力。
+        sentences:
+          - ancient: 若是则田野大辟，而农夫<劝>其事矣。（《管子•轻重乙》）
+            url: xxxx
+            vernacular: 如此则荒地广为开垦，农夫也努力耕种了。
+          - ancient: 且举世誉之而不加<劝>，举世非之而不加沮。（《逍遥游》）
+            url: xxxx
+            vernacular: 人们都赞誉他也不会让他感到鼓舞，世上所有的人都诽谤他，他也并不因此就感到沮丧

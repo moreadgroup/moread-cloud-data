@@ -10,37 +10,37 @@ words:
         sentences:
           - ancient: 以是人多以书<假>余，余因得遍观群书。（《送东阳马生序》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 因此有很多人都愿意把书借给我，于是我能够遍观群书。
           - ancient: 非夫人之物而强<假>焉，必虑人逼取，而惴惴焉摩玩之不已。（《黄生借书说》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 不是那人自己的东西却勉强向别人借来，（他）一定担心别人催着要还，因而就显出忧惧的样子，抚摸玩赏那东西久久不能停止
       - trans: ❷凭借;借助。
         sentences:
-          - ancient: 君子生（xing4，同""性"）非异也，善<假>于物也。（《劝学》）
+          - ancient: 君子生(xing4，同"性")非异也，善<假>于物也。（《劝学》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 君子的资质秉性跟一般人没 什么不同，（只是君子）善于借助外物罢了。
           - ancient: 里胥猾黠，<假>此科敛丁口。（《促织》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 乡里的差役们狡猾刁诈，借这个机会向老百姓摊派费用
       - trans: ❸给予。
         sentences:
           - ancient: 况阳春召我以烟景，大块<假>我以文章。（唐•李白《春夜宴从弟桃花园序》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 况且温和的春天以秀美的景色来招引我们，大自然又给我们展现锦绣风光。
           - ancient: <假>我数年，若是，我于《易》则彬彬矣。（《史记•孔子世家》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 给我数年时间，像这样，我对于《易经》从文辞到义理就可以全部掌握了
           - ancient: 愿足下<假>臣奇兵三万人，从间道绝其辎重。（《史记•淮阴侯列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 希望您临时调拨三万奇兵给我，我从隐蔽小路拦截他们的粮草
       - trans: ❹宽容。
         sentences:
           - ancient: 大臣犯法，无所宽<假>。（《北史.魏世祖纪》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 即使是朝中的大臣犯了法，也不能宽恕。其中假的意思是宽容，饶恕。
           - ancient: 愿大王少<假>借之，使毕使于前。（《荆轲刺秦王》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 望大王能够稍稍原谅他，让他在大王的面前完成他的使命。
   - word: 假
     type: 【形容词】
     phonetic: jia3
@@ -51,15 +51,15 @@ words:
         sentences:
           - ancient: <假>作真时真亦<假>，无为有处有还无。（《红楼梦》一回）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 假的当作真的时候真的就像是假的了，无变为有的地方有也就无了。
       - trans: ❷非正式的;暂时代理的。
         sentences:
           - ancient: 乃相与共立羽为<假>上将军。（《史记•项羽本纪》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 于是大家一起立项羽为代理上将军。
           - ancient: 武与副中郎将张胜及<假>吏常惠等募士斥候百余人俱。（《苏武传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 苏武同副中郎将张胜以及临时委派的使臣属官常惠等，加上招募来的士卒、侦察人员百多人一同前往。
   - word: 假
     type: 【连词】
     phonetic: jia3
@@ -70,4 +70,4 @@ words:
         sentences:
           - ancient: <假>令仆伏法受诛，若九牛亡一毛，与蝼蚁何以异?（《报任安书》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 假如我伏法被杀，那好像是九牛的身上失掉一根毛，同蝼蚁又有什么区别？

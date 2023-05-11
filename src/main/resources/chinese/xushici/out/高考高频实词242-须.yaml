@@ -10,23 +10,23 @@ words:
         sentences:
           - ancient: 始以强壮出，及还，<须>发尽白。（《苏武传》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "高祖为人，隆准而龙颜，美<须>髯,左股有七十二黑子。（《史记•高祖本纪》）"
+            vernacular: 当初壮年出使，等到回来，胡须头发全都白了。
+          - ancient: 高祖为人，隆准而龙颜，美<须>髯，左股有七十二黑子。（《史记•高祖本纪》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 高祖长的很有帝王之相，额头高高隆起，鬓角和胡须很漂亮，左边大腿有七十二颗黑痣。
       - trans: ❷动物的触须。
         sentences:
-          - ancient: 俄（一会儿）见小虫跃起，张尾伸<须>。（《促织》）
+          - ancient: 俄（一会儿）见小虫跃起，张尾伸<须>，直龁敌领。（《促织》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 一会儿，只见小蟋蟀跳起来，张开尾，竖起须，一口直咬着对方的脖颈。
       - trans: ❸片刻;一会儿。
         sentences:
-          - ancient: "贤能不待次而举,罢（pi2指德行不好的人）不能不待<须>而废。（《荀子•王制》）"
+          - ancient: 贤能不待次而举，罢（pi2指德行不好的人）不能不待<须>而废。（《荀子•王制》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 对于有德才的人，不依级别次序而破格提拔；对于无德无能的人，不等片刻而立即罢免
           - ancient: 坐<须>臾，沛公起如厕，因招樊哙出。（《鸿门宴》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 坐了一会儿，刘邦以上厕所为由，趁机把樊哙叫了出来。
   - word: 须
     type: 【动词】
     phonetic: xu1
@@ -35,12 +35,12 @@ words:
     samples:
       - trans: ❶等待;等到。
         sentences:
-          - ancient: 是以吴起<须>故人而食。（《韩非子•外储说左上》）
+          - ancient: 是以吴起<须>故人而食，文侯会虞人而猎。（《韩非子•外储说左上》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 因此吴起宁愿饿着肚子也要按照约会等老朋友来吃饭，魏文侯宁愿冒着大风也要守约和虞人说罢猎。
           - ancient: 且放白鹿青崖间，<须>行即骑访名山。（《梦游天姥吟留别》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 暂且把白鹿放在青青的山崖间，要想远行时就骑上它去探访名山。
           - ancient: 寡君<须>矣，吾子其入也！（《左传•成公十二年》）
             url: xxxx
             vernacular: xxxx
@@ -59,13 +59,13 @@ words:
         sentences:
           - ancient: 烹羊宰牛且为乐，会<须>一饮三百杯。（《将进酒》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我们烹羊宰牛姑且作乐，（今天）一次性痛快地饮三百杯也不为多！
           - ancient: 白日放歌<须>纵酒，青春作伴好还乡。（《闻官军收河南河北》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 老夫想要纵酒高歌，结伴春光同回故乡。
           - ancient: 我这里青鸾有信频<须>寄，你却休"金榜无名誓不归"。（《长亭送别》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我这里有信经常寄给你，你千万不要“考不中就坚决不回来”。
       - trans: ❷本;本来。
         sentences:
           - ancient: 你本是赵盾家堂上宾，我<须>是屠岸贾门下人。（元•纪君祥《赵氏孤儿》一折）

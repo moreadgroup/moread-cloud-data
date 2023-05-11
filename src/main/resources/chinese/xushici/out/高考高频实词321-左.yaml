@@ -8,22 +8,22 @@ words:
     samples:
       - trans: ❶左边（与"右"相对）。
         sentences:
-          - ancient: "备<左>则右寡,备右则<左>寡。（《孙子兵法•虚实》）"
+          - ancient: 故备前则后寡，备后则前寡，备<左>则右寡，备右则<左>寡，无所不备，则无所不寡。。（《孙子兵法•虚实》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 所以，他们充分防备了前面，后面的后力就会不足；分享防备了后面，前面的兵力就会不足；充分防备了左边，右边的兵力就会不足；充分防备了右边，左边的兵力就会不足；处处都防备，就处处兵力不足。
           - ancient: 遂拔以击荆轲，断其<左>股。（《荆轲刺秦王》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 于是秦王拔剑刺向荆轲，砍断了荆轲的左大腿。
       - trans: ❷古代地理位置以东为左。
         sentences:
           - ancient: 淮<左>名都，竹西佳处，解鞍少驻初程。（《扬州慢》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 扬州自古是著名的都会，这里有著名游览胜地竹西亭，初到扬州我解鞍下马稍作停留。
       - trans: ❸卑下的地位;较低的职位。
         sentences:
-          - ancient: "贵戚诸势在己之右，欲必陵之;士在己<左>，愈贫贱,尤益礼敬,与钧。（《汉书•灌夫传》）"
+          - ancient: 贵戚诸势在己之右，欲必陵之;士在己<左>，愈贫贱，尤益礼敬，与钧。（《汉书•灌夫传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 对皇亲国戚及有势力的人，凡是地位在自己以上的，他一定要想办法去凌辱他们;对地位在自己之下的士人，越是贫贱的，就更加用尊礼恭敬他们，跟他们平等相待。
   - word: 左
     type: 【动词】
     phonetic: ZUO3
@@ -32,17 +32,17 @@ words:
     samples:
       - trans: ❶不合;违背。
         sentences:
-          - ancient: 身勤而事<左>。（唐•韩愈《答窦秀才书》）
+          - ancient: 身勤而事<左>，辞重而请约。（唐•韩愈《答窦秀才书》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 在我这里）勤奋刻苦的学习，却得不到你想要的结果，（你）目标虽然远大但方法（拜韩愈做老师）却太简单草率.
       - trans: ❷反对;疏远。
         sentences:
-          - ancient: 衍将右韩而<左>魏。（《战国策•魏策二》）
+          - ancient: 衍将右韩而<左>魏，文将右齐而左魏。（《战国策•魏策二》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: ④以右指亲近;赞助;以左指不亲近;不赞助。 右(yòu) 亲近、袒护。
       - trans: ❸证实。
         sentences:
-          - ancient: 举十二条<左>证其谬。（《新唐书•刘知几传》）
+          - ancient: 举十二条<左>证其谬，当以古文为正。（《新唐书•刘知几传》）
             url: xxxx
             vernacular: xxxx
   - word: 左
@@ -53,6 +53,6 @@ words:
     samples:
       - trans: 不正;邪僻。
         sentences:
-          - ancient: 执<左>道以乱政。（《礼记•王制》）
+          - ancient: 析言破律，乱名改作，执<左>道以乱政，杀。（《礼记•王制》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 破坏法制、使用邪术以扰乱政治，以及用奇异的事物或狡黠诡诈、貌似博学的言行和装神弄鬼的手段来动摇和蛊惑民心者，一律处死。

@@ -8,22 +8,22 @@ words:
     samples:
       - trans: ❶私事;私利。
         sentences:
-          - ancient: 借于外力，以成其<私>而遗社稷之利。（《韩非子•五蠹》）
+          - ancient: 借于外力，以成其<私>，而遗社稷之利。（《韩非子•五蠹》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 借助于国外势力来达到私人目的，进而放弃了国家利益；
           - ancient: 丹不忍以己之<私>，而伤长者之意，愿足下更虑之!（《荆轲刺秦王》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我不忍心由于自己个人的私仇而伤害长者的心意，希望您另外考虑对策吧！
       - trans: ❷贴身衣服。
         sentences:
-          - ancient: "薄（稍稍）污（去污）我<私>，薄瀚（洗）我衣（外衣）。（《诗经•周南•葛簞》）\t’"
+          - ancient: 薄（稍稍）污（去污）我<私>，薄瀚（洗）我衣（外衣）。（《诗经•周南•葛簞》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 洗干净我的内衣裳，洗干净我的外衣裳。
       - trans: ❸隐私;秘密的事。
         sentences:
           - ancient: 使者归报项王，项王乃疑范增与汉有<私>，稍夺之权。（《史记•项羽本纪》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 使者回去向项王报告，项王竟真的怀疑范增和汉王有私情，渐渐地把他的权力剥夺了。
   - word: 私
     type: 【动词】
     phonetic: si1
@@ -34,12 +34,12 @@ words:
         sentences:
           - ancient: 吾妻之美我者，<私>我也。（《邹忌讽齐王纳谏》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我的妻子认为我美，是偏爱我
       - trans: ❷私人占有。
         sentences:
           - ancient: 井九百亩，其中为公田，八家皆<私>百亩。（《孟子・滕文公上》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 一个井田为九百亩，中间一块田土为公田，八家各以一百亩为私田
       - trans: ❸私通。
         sentences:
           - ancient: 夜有奔女，颜色颇丽。万悦而<私>之。（《聊斋志异•狐谐》）
@@ -49,7 +49,7 @@ words:
         sentences:
           - ancient: 师慧过宋朝，将<私>焉。（《左传•襄公十五年》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 师慧经过宋国朝廷，打算小便。
   - word: 私
     type: 【形容词】
     phonetic: si1
@@ -60,10 +60,10 @@ words:
         sentences:
           - ancient: 吾所以为此者，以先国家之急而后<私>仇也。（《廉颇蔺相如列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我所以这样忍让，就是将国家的危难放在前面，而将个人的私怨搁在后面罢了。
           - ancient: 子布、元表诸人，各顾妻子，挟持<私>虑，深失所望。（《资治通鉴•汉纪五十七》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 子布，元表等人只顾妻子儿女，夹杂着个人的打算，很让我失望
   - word: 私
     type: 【副词】
     phonetic: si1
@@ -72,9 +72,9 @@ words:
     samples:
       - trans: 私下;秘密地。
         sentences:
-          - ancient: "张良是时从沛公（指刘邦），项伯乃夜驰之沛公军,<私>见张良。（《鸿门套》"
+          - ancient: 张良是时从沛公（指刘邦），项伯乃夜驰之沛公军，<私>见张良。（《鸿门套》
             url: xxxx
-            vernacular: xxxx
+            vernacular: 张良这时正跟随着刘邦，项伯就连夜骑马跑到刘邦的军营，私下会见张良。
           - ancient: 臣尝从大王与燕王会境上，燕王<私>握臣手曰，"愿结友"。以此知之，故欲往。（《廉颇蔺相如列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我曾随从大王在国境上与燕王会见，燕王私下握住我的手，说“情愿跟您交个朋友”。因此了解他，所以打算投奔燕王。

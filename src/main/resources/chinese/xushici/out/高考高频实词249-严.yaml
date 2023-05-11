@@ -8,14 +8,14 @@ words:
     samples:
       - trans: ❶威严;威信。
         sentences:
-          - ancient: "衡下车,治威<严>，整法度,阴知奸党名姓，一时收禽,上下肃然，称为政理。（《张衡传》）"
+          - ancient: 衡下车，治威<严>，整法度，阴知奸党名姓，一时收禽，上下肃然，称为政理。（《张衡传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 张衡上任之后治理严厉，整饬法令制度，暗中探得奸党的姓名，一下子同时逮捕，拘押起来，于是上下敬畏恭顺，称赞政事处理得好。
       - trans: ❷对父亲的尊称。
         sentences:
           - ancient: 家<严>大喜，急引至舍。（明•袁宏道《拙效传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 父亲喜出望外，赶快迎接他到家里
   - word: 严
     type: 【动词】
     phonetic: yan2
@@ -26,17 +26,17 @@ words:
         sentences:
           - ancient: <严>大国之威以修敬也。（《廉颇蔺相如列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 是尊重大国的威望以表示敬意呀。
       - trans: ❷戒备。
         sentences:
           - ancient: 可潜稍<严>，以备不虞。（《世说新语•雅量》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 暗中要严加防备，以备不测之灾。
       - trans: ❸整饬;整顿。
         sentences:
-          - ancient: "鸡鸣外欲曙,新妇起<严>妆。（《孔雀东南飞》）"
+          - ancient: 鸡鸣外欲曙，新妇起<严>妆。（《孔雀东南飞》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 当公鸡呜叫窗外天快要放亮，兰芝起身精心地打扮梳妆。
   - word: 严
     type: 【形容词】
     phonetic: yan2
@@ -47,33 +47,33 @@ words:
         sentences:
           - ancient: 事<严>，虞（充虞，孟子弟子）不敢请。（《孟子•公孙丑下》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 事严：事急。
       - trans: ❷严厉;严格。
         sentences:
-          - ancient: "虽有高城深池，<严>法重刑,犹不能禁也。（汉•晁错《论贵粟疏》）"
+          - ancient: 虽有高城深池，<严>法重刑，犹不能禁也。（汉•晁错《论贵粟疏》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "宰<严>限（期限）追比，旬余，杖至百，两股间脓血流离，并虫亦不能,行捉矣。（《促织》）"
+            vernacular: 国家即使有高大的城墙，深险的护城河，严厉的法令，残酷的刑罚，还是不能禁止他们。
+          - ancient: 宰<严>限（期限）追比，旬余，杖至百，两股间脓血流离，并虫亦不能，行捉矣。（《促织》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 县官严定期限，严厉追逼，十几天中，（成名）被打了上百板子，两条腿脓血淋漓，连蟋蟀也不能去捉了。
           - ancient: 虽董之以<严>刑，震之以威怒，终苟免而不怀仁，貌恭而不心服。（《谏太宗十思疏》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 虽然可以用严刑来监督他们，用声威震慑他们，但是结果大家只图苟且免除罪罚，却不感念（皇上的）仁德，表面上恭顺而不是内心里悦服。
       - trans: ❸猛烈;厉害。
         sentences:
           - ancient: 今日大风寒，寒风摧树木，<严>霜（浓霜）结庭兰。 （《孔雀东南飞》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 今天风大天又寒，寒风摧折了树木，浓霜冻坏了庭院中的兰花。
           - ancient: 杀气毒剑戟，<严>风裂衣裳。（唐•李白《北上行》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 剑戟闪耀着杀气，寒风吹裂了衣裳。
       - trans: ❹严肃;庄重。
         sentences:
           - ancient: 及崔至，则端服<严>容，大数（责备）张曰……（唐•元稹《莺莺传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 等到崔小姐到了，就看她穿戴整齐，表情严肃，大声数落张生说：
       - trans: ❺严酷;残忍。
         sentences:
-          - ancient: <严>杀尽兮弃原野。（战国楚•屈原《国殮》）
+          - ancient: 天时怼兮威灵怒，<严>杀尽兮弃原野。（战国楚•屈原《国殮》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 杀得天昏地暗神灵震怒，全军将士捐躯茫茫原野。

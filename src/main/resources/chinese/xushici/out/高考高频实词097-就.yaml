@@ -10,68 +10,68 @@ words:
         sentences:
           - ancient: 望之不似人君，<就>之而不见所畏焉。（《孟子•梁惠王上》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: （梁襄王）远远看上去不像个国君的样子，走近他也看不到有什么使人敬畏的地方。
           - ancient: 故木受绳则直，金<就>砺（li，磨刀石）则利。（《劝学》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 所以木材用墨线量过再经斧锯加工就能取直，刀剑在磨刀石上磨过就能变得锋利
           - ancient: 三径<就>荒，松菊犹存。（《归去来兮辞》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "诚如是也,民归之，由水之<就>下，沛然谁能御之？（《孟子见梁襄王》）"
+            vernacular: 院子里的小路快要荒芜了，松树菊花还长在那里
+          - ancient: 诚如是也，民归之，由水之<就>下，沛然谁能御之？（《孟子见梁襄王》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 如果像这样，老百姓就归附他，就像水往低处流一样，这哗啦啦的汹涌势头，谁又能够阻挡得了呢？
       - trans: ❷登上;踏上。
         sentences:
           - ancient: 于是荆轲遂<就>车而去，终已不顾。（《荆轲刺秦王》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 于是荆轲就上车离去，始终不曾回头看一眼。
       - trans: ❸前往。
         sentences:
           - ancient: 济沅湘以南征兮，<就>重华而陈词。（《离骚》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 渡过沅水、湘江来向南求(圣明之道)，来接近极其(鲜丽)的花朵并且向舜帝陈述言词。
           - ancient: 特以为智穷罪极，不能自免，卒<就>死耳。（《报任安书》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "仆虽怯懦,欲苟活，亦颇识去<就>之分矣，何至自沉溺缧绁之辱哉!（《报任安书》）"
+            vernacular: 只会认为我是智尽无能、罪大恶极，不能免于死刑，而终于走向死路的啊！
+          - ancient: 仆虽怯懦，欲苟活，亦颇识去<就>之分矣，何至自沉溺缧绁之辱哉!（《报任安书》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我虽然怯懦软弱，想苟活在人世，但也颇能区分弃生就死的界限，哪会自甘沉溺于牢狱生活而忍受屈辱呢？
           - ancient: 【高考题例】遣谒者内常侍吴承倩<就>私第宣慰。（《旧唐书-于休烈传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 派遣谒者内常侍吴承倩去宅第宣旨慰问。
       - trans: ❹承受;接受。
         sentences:
           - ancient: 臣具以表闻，辞不<就>职。（《陈情表》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 臣因为供奉赡养祖母的事无人承担，辞谢不接受任命。
           - ancient: 诚知其如此，虽万乘之公相，吾不以一日辍汝而<就>也。（《祭十二郎文》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 假如真的知道会这样，即使让我做高官厚禄的公卿宰相，我也不愿因此离开你一天而去赴任啊!
           - ancient: 臣知欺大王之罪当诛，臣请<就>汤镬。（《廉颇蔺相如列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我知道欺骗大王是应该被诛杀的，我愿意接受汤镬之刑
           - ancient: 是以<就>极刑而无愠色。（《报任安书》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 因此受到最残酷的刑罚也没有怨怒之色。
       - trans: ❺完成;形成。
         sentences:
           - ancient: 妖出，祸安得不<就>？（《论衡•异虚》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 凶象出现，灾祸怎么能不成就？
           - ancient: 草创未<就>，会遭此祸，惜其不成。（《报任安书》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 刚开始草创还没有成书，恰恰遭遇到这场灾祸，我痛惜这部书不能完成
           - ancient: 轲自知事不<就>，倚柱而笑。（《荆轲刺秦王》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 荆轲自己知道事情不能成功了，靠着柱子笑着
       - trans: ❻就职;赴任。
         sentences:
           - ancient: 永元中，举孝廉不行，连辟公府不<就>。（《张衡传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 永元年间，他被推举为孝廉，却不应荐，屡次被公府征召，都没有就任。
           - ancient: 周任有言曰："陈力<就>列，不能者止。"（《季氏将伐颛臾》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 周任有句话说：‘能施展其才能则就其职位，不能这样做就不就其职位。’
   - word: 就
     type: 【副词】
     phonetic: jiu4
@@ -80,12 +80,12 @@ words:
     samples:
       - trans: "即；便。\t举"
         sentences:
-          - ancient: 必以"文武"为谥，请依何等，<就>加诏许之，谥曰"忠武"。（《晋书•景帝纪》）
+          - ancient: 必以‘文武’为谥，请依何等，<就>加诏许之，谥曰‘忠武’。（《晋书•景帝纪》）
             url: xxxx
             vernacular: xxxx
           - ancient: 及扑入手，已股落腹裂，斯须（一会儿）<就>毙。（《促织》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 等抓到手后，（蟋蟀）的腿已掉了，肚子也破了，一会儿就死了。
   - word: 就
     type: 【介词】
     phonetic: jiu4
@@ -96,7 +96,7 @@ words:
         sentences:
           - ancient: 然<就>其不忘一芋，固已贤夫并老人而视芋之者。（清•周容《芋老人传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 从他能够不忘怀那顿芋头看来，应该是好过那些连老人都把他看成像芋头一样的人吧!
   - word: 就
     type: 【连词】
     phonetic: jiu4
@@ -107,4 +107,4 @@ words:
         sentences:
           - ancient: 法孝直若在，则能制主上令不东行;<就>复东行，必不倾危矣。（《三国志•蜀书•法正传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 若法正还活着，必能阻止刘备东征，就算东征了，法正也一定能让刘备，不至于败得这么彻底！

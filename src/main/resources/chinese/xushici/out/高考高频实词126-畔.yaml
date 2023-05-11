@@ -8,20 +8,20 @@ words:
     samples:
       - trans: ❶田界。
         sentences:
-          - ancient: 历山之农者侵<畔>。（《韩非子•难一》）
+          - ancient: 历山之农者侵<畔>，舜往耕焉，期年，甽亩正。（《韩非子•难一》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 历山的农夫相互侵占田界，舜到那儿去耕地，满一年，田界划分合理。
           - ancient: 耕者让<畔>，行者让路。（《论衡•是应》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 种田的人把田界让给对方，走路的人让开路让别人先走。
       - trans: ❷边沿;旁侧。
         sentences:
           - ancient: 屈原至于江滨，被发行吟泽<畔>，颜色憔悴，形容枯槁。（《史记•屈原贾生列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 屈原来到了江畔，他披散着头发在水边一边走一边吟哦，面容憔悴，身体（也显得）极其瘦削.
           - ancient: 沉舟侧<畔>千帆过，病树前头万木春。（《酬乐天扬州初逢席上见赠》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 翻覆的船只旁仍有千千万万的帆船经过，枯萎树木的前面也有万千林木欣欣向荣。
   - word: 畔
     type: 【动词】
     phonetic: pan4
@@ -30,17 +30,17 @@ words:
     samples:
       - trans: ❶避开;躲避。
         sentences:
-          - ancient: 畔，吴语谓躲避曰畔。亦有所本。陈后主创齐圣观，民谣曰："齐圣观，寇来无处畔。"（清•赵翼《咳余丛考》卷四十三）
+          - ancient: 畔，吴语谓躲避曰<畔>。亦有所本。陈后主创齐圣观，民谣曰："齐圣观，寇来无处畔。"（清•赵翼《咳余丛考》卷四十三）
             url: xxxx
             vernacular: xxxx
       - trans: ❷通"叛"。背叛;违背。
         sentences:
           - ancient: 寡助之至，亲戚<畔>之。（《得道多助，失道寡助》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 支持帮助他的人少到了极点，连内外亲属也会背叛他
           - ancient: 汝为人臣子，不顾恩义，<畔>主背亲，为降虏于蛮夷，何以汝为见？（《苏武传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 你做人家的臣下和儿子，不顾及恩德义理，背叛主上，离弃双亲，在异族那里投降做奴隶，要见你干什么?
           - ancient: 人言公之<畔>，陛下必不信。（《史记•淮阴侯列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 如果有人告发说您反叛，陛下一定不会相信

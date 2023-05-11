@@ -21,62 +21,62 @@ words:
         sentences:
           - ancient: 其父虽善<游>，其子岂遽善<游>哉？（《吕氏春秋•察今》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 孩子的父亲虽然擅长游泳，这个小孩难道也立即会游泳吗？
           - ancient: 沙鸥翔集，锦鳞（指美丽的鱼）<游>泳。（《岳阳楼记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 沙洲上的鸥鸟，时而飞翔，时而停歇，美丽的鱼游来游去
       - trans: ❷飞翔。
         sentences:
-          - ancient: "若夫乘天地之正,而御六气之辩，以<游>无穷者，彼且恶乎待哉？（《逍遥游》）"
+          - ancient: 若夫乘天地之正，而御六气之辩，以<游>无穷者，彼且恶乎待哉？（《逍遥游》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 人如果能够遵循自然的本性，把握“六气”即阴、阳、风、雨、晦、明等宇宙万物的规律变化，遨游于无穷无尽的境域，他还要凭借什么呢？
       - trans: ❸游玩;游览。
         sentences:
           - ancient: 而余亦悔其随之而不得极夫<游>之乐也。（《游褒禅山记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我也后悔跟他出来，而未能极尽游洞的乐趣。
           - ancient: 所以<游>目骋怀，足以极视听之娱，信可乐也。（《兰亭集序》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 用来舒展眼力，开阔胸怀，足够来极尽视听的欢娱，实在很快乐。
           - ancient: 壬戌之秋，七月既望，苏子与客泛舟<游>于赤壁之下。（《赤壁赋》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 壬戌年秋，七月十六日，苏轼与友人在赤壁下泛舟游玩。
       - trans: ❹交往;交际。
         sentences:
           - ancient: 秦时与臣<游>，项伯杀人，臣活之。（《鸿门宴》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 秦朝时，他和我交往，项伯杀了人，我使他活了下来
           - ancient: 始公孙季功、董生与夏无且<游>，具知其事，为余道之如是。（《史记•刺客列传》）
             url: xxxx
             vernacular: xxxx
           - ancient: 少时常与鲍叔牙<游>，鲍叔知其贤。（《史记•管仲列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 他年轻的时候，常和鲍叔牙交往，鲍叔牙知道他贤明、有才干。
           - ancient: 窃以为与君实（宋代司马光，字君实）<游>处相好之日久……（宋•主安石《答司马谏议书》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我私下认为与君实您交往相好的日子很久了，但是议论起政事来(意见)常常不一致
       - trans: ❺流动;转动。
         sentences:
-          - ancient: 恢恢（广大）乎其于<游>刃必有余地矣。（《庄子•养生主》）
+          - ancient: 以无厚入有间，恢恢（广大）乎其于<游>刃必有余地矣。（《庄子•养生主》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 用薄薄的刀刃插入有空隙的骨节和组合部位间，对于刀刃的运转和回旋来说那是多么宽绰而有余地呀。
           - ancient: 忽反顾以<游>目兮，将往观乎四荒。（《离骚》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我忽然回头啊纵目远望，我将游观四面遥远地方。
       - trans: ❻游说。
         sentences:
           - ancient: 子墨子<游>公上过（人名）于越。（《吕氏春秋•高义》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "及见贾生吊之,又怪屈原以彼其材，<游>诸侯,何国不容,而自令若是。（《史记•屈原贾生列传》）"
+            vernacular: 墨子让公上过到越国游说
+          - ancient: 及见贾生吊之，又怪屈原以彼其材，<游>诸侯，何国不容，而自令若是。（《史记•屈原贾生列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 看到贾谊凭吊他的文章，文中又责怪屈原如果凭他的才能去游说诸侯，哪个国家不会容纳，却自己选择了这样的道路！
       - trans: ❼出外求学或求官。
         sentences:
           - ancient: （张）衡少善属文（写文章），<游>于三辅，因入京师。（《张衡传》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "长于楚，,<游>\"学于秦。（《柳毅传》）"
+            vernacular: 张衡年轻时就擅长写文章，曾到“三辅”一带游学，趁机进了洛阳
+          - ancient: 长于楚，<游>学于秦。（《柳毅传》）
             url: xxxx
             vernacular: xxxx
   - word: 游
@@ -89,4 +89,4 @@ words:
         sentences:
           - ancient: <游>辞巧饰者虽轻必戮。（《三国志•蜀书•诸葛亮传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 对说话浮夸、巧辩文过的人，即使只是犯了轻罪也必定会重责

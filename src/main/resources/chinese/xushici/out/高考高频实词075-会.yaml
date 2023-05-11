@@ -10,12 +10,12 @@ words:
         sentences:
           - ancient: 合于《桑林》之舞，乃中《经首》之<会>。（《庄子•养生主》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 既合乎《桑林》舞曲的节拍，又合乎《经首》乐章的节奏。《桑林》传说中商汤时的乐曲名，《经首》传说中尧时的乐曲名。这句话的意思是说形容做事情有节奏，有美感。这里是说庖丁解牛的动作优美，既合乎《桑林》舞曲的节拍，又合乎《经首》乐章的节奏。
       - trans: ❷机会。
         sentences:
           - ancient: 此乃忠臣肝脑涂地之秋，烈士立功之<会>。（汉•陈琳《为袁绍檄豫州》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 这是忠臣肝脑涂地的时候，烈士立功的机会
   - word: 会
     type: 【动词】
     phonetic: hui4
@@ -26,32 +26,32 @@ words:
         sentences:
           - ancient: 暮春之初，<会>于会稽山阴之兰亭，修禊（xi4，三月初在水边嬉游，以消除不祥）事也。（《兰亭集序》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 三月上旬，我们会集在会稽郡山阴城的兰亭，为了做禊礼这件事。
           - ancient: 然则北通巫峡，南极（最远到达）潇湘，迁客骚人，多<会>于此，览物之情，得无异乎？（《岳阳楼记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 虽然如此，那么向北面通到巫峡，向南面直到潇水和湘水，被降职到外地的官吏和来往的诗人，大多在这里聚会，他们观赏自然景物而触发的感情大概会有所不同吧？
           - ancient: 诸侯恐惧，<会>盟而谋弱秦。（《六国论》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 诸侯恐慌害怕，集会结盟，商议削弱秦国。
       - trans: ❷体会;领会。
         sentences:
           - ancient: 每有<会>意，便欣然忘食。（《五柳先生传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 每对书中的内容有所领会，就高兴得忘了吃饭。
           - ancient: 把吴钩看了，栏杆拍遍，无人<会>，登临意。（《水龙吟•登建康赏心亭》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我看着这宝刀，却不曾沾染着敌人的鲜血，我狠狠地把亭上的栏杆都拍遍了，也没有人领会我现在登楼的心意。
       - trans: ❸会见;会面。
         sentences:
           - ancient: 人贱物亦鄙，不足迎后人，留待作遗施（遗wei4，赠送的礼物），于今无<会>因。（《孔雀东南飞》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 人不值钱物亦贱，不够资格待新人。留下随你作施舍，从此相见再无因。
           - ancient: 无由<会>晤，不任区区向往之至！（宋•王安石《答司马谏议书》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 没有机会（与您）见面，内心不胜仰慕至极！
           - ancient: 秦王使使者告赵王，欲与王为好，<会>于西河外渑池。（《廉颇蔺相如列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 秦王派使者告诉赵王，秦王派使者告诉赵王想在西河外的渑池与赵王进行一次友好会见。
   - word: 会
     type: 【副词】
     phonetic: hui4
@@ -62,21 +62,21 @@ words:
         sentences:
           - ancient: <会>天大雨，道不通，度（duo2，估计）已失期（误期）。（《陈涉世家》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 。恰巧遇到天下大雨，道路不通，估计已经误期。
           - ancient: 草创未就，<会>遭此祸，惜其不成，是以就极刑而无愠色。（《报任安书》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 刚开始草创还没有完毕，恰恰遭遇到这场灾祸，我痛惜这部书不能完成，因此便接受了最残酷的刑罚而不敢有怒色。
           - ancient: 方欲发使送武等，<会>缑王与长水虞常等谋反匈奴中。（《苏武传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 单于正要派使者护送苏武等人归汉，适逢缑王与长水人虞常等人在匈奴内部谋反。
           - ancient: 【高考题例】<会>户部尚书孙交亦以守正见忤，遂矫旨令二人致仕。（《明史•傅珪传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 恰逢户部尚书孙交也因为恪守正道被欺凌，阉党就假托帝王诏命令二人退休。
       - trans: ❷一定;应该。
         sentences:
           - ancient: 吾已失恩义，<会>不相从许。（《孔雀东南飞》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我对她已经断绝了情谊，对你的要求决不会依从允许！
           - ancient: 长风破浪<会>有时，直挂云帆济沧海。（《行路难•其—》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 坚信乘风破浪的时机定会到来，到那时，将扬起征帆远渡碧海青天。

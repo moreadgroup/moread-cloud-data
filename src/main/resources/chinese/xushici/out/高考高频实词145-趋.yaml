@@ -1,54 +1,54 @@
 ---
 words:
-- word: 趋
-  type: 【动词】
-  phonetic: qu1
-  tags:
-  - 高中
-  samples:
-  - trans: ❶快走。
-    sentences:
-    - ancient: "其子<趋>而往视之,苗则槁（干枯）矣。（《孟子•公孙丑上》）"
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 路旁一歧东上，乃昔序未至者，遂前<趋>直上，几达天都（山峰名）侧。（明•徐霞客《游黄山日记》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❷小步快走，表示恭敬。
-    sentences:
-    - ancient: 入而徐<趋>，至而自谢曰："老臣病足，曾（竟）不能疾走。"（《触龙说赵太后》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 毅起，<趋>拜之。（《柳毅传》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 他日<趋>庭，叨陪鲤对。（《滕王阁序》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❸趋向。
-    sentences:
-    - ancient: 水潦（大雨）不同，故有清浊之流，东西南北之<趋>。（《论衡•术性》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: "日削月割,以<趋>于亡。（《六国论》）"
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 【高考题例】命<趋>宁国，兵陷山泽中八日，群盗相结梗道。（《明:史•花云传》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❹奔向。
-    sentences:
-    - ancient: "夜<趋>高邮,迷失道，几陷死。（《〈指南录〉后序》）"
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 又患无硕师名人与游，尝<趋>百里外，从乡之先达执经叩问。 （《送东阳马生序》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❺追求。
-    sentences:
-    - ancient: "今背本而<趋>末，食者甚众,是天下之大残（害）也。（《论积贮疏》）"
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 人固有一死，或重于泰山，或轻手鸿毛，用之所<趋>异也。（《报任安书》）
-      url: xxxx
-      vernacular: xxxx
+  - word: 趋
+    type: 【动词】
+    phonetic: qu1
+    tags:
+      - 高中
+    samples:
+      - trans: ❶快走。
+        sentences:
+          - ancient: 其子<趋>而往视之，苗则槁（干枯）矣。（《孟子•公孙丑上》）
+            url: xxxx
+            vernacular: 他儿子快步去到田里查看禾苗的情况，禾苗都已经枯萎了。
+          - ancient: 路旁一歧东上，乃昔序未至者，遂前<趋>直上，几达天都（山峰名）侧。（明•徐霞客《游黄山日记》）
+            url: xxxx
+            vernacular: 路旁有一条岔路向东直上，是前次游山时没有到过的，于是向前直往上走，差不多到了天都峰侧面了。
+      - trans: ❷小步快走，表示恭敬。
+        sentences:
+          - ancient: 入而徐<趋>，至而自谢曰："老臣病足，曾（竟）不能疾走。"（《触龙说赵太后》）
+            url: xxxx
+            vernacular: 触龙走入殿内就用快走的姿势慢慢地走着小步，到了太后面前道歉说：“老臣的脚有毛病，不能快跑。“
+          - ancient: 毅起，<趋>拜之。（《柳毅传》）
+            url: xxxx
+            vernacular: 柳毅起身上前，向钱塘君行礼。
+          - ancient: 他日<趋>庭，叨陪鲤对。（《滕王阁序》）
+            url: xxxx
+            vernacular: 过些日子，我将到父亲身边，一定要像孔鲤那样接受父亲的教诲
+      - trans: ❸趋向。
+        sentences:
+          - ancient: 水潦（大雨）不同，故有清浊之流，东西南北之<趋>。（《论衡•术性》）
+            url: xxxx
+            vernacular: 由于水流的不同，导致水流的清浊，东西南北的走向。
+          - ancient: 日削月割，以<趋>于亡。（《六国论》）
+            url: xxxx
+            vernacular: 一天天地削减分割土地给秦国，以至于走向灭亡
+          - ancient: 【高考题例】命<趋>宁国，兵陷山泽中八日，群盗相结梗道。（《明:史•花云传》）
+            url: xxxx
+            vernacular: 花云奉命赶赴宁国，部队陷在山泽中八天不能出来，众多强盗结伙挡住他们前行的道路。
+      - trans: ❹奔向。
+        sentences:
+          - ancient: 夜<趋>高邮，迷失道，几陷死。（《〈指南录〉后序》）
+            url: xxxx
+            vernacular: 夜晚奔向高邮，迷失道路，几乎陷入沼泽而死
+          - ancient: 又患无硕师名人与游，尝<趋>百里外，从乡之先达执经叩问。 （《送东阳马生序》）
+            url: xxxx
+            vernacular: 又担心没有才学渊博的人同我来往，有道德学问的前辈请教曾经跑到百里以外，拿着经书向乡里有道德学问的前辈请教。
+      - trans: ❺追求。
+        sentences:
+          - ancient: 今背本而<趋>末，食者甚众，是天下之大残（害）也。（《论积贮疏》）
+            url: xxxx
+            vernacular: 现在人们弃农经商（不生产而）吃粮的人很多，这是国家的大祸患。
+          - ancient: 人固有一死，或重于泰山，或轻手鸿毛，用之所<趋>异也。（《报任安书》）
+            url: xxxx
+            vernacular: 人本来就有一死，但有的人死得比泰山还重，有的人死的却比鸿毛还轻，这是因为他们用死追求的目的不同啊！

@@ -1,61 +1,61 @@
 ---
 words:
-- word: 却
-  type: 【动词】
-  phonetic: que4
-  tags:
-  - 高中
-  samples:
-  - trans: ❶后退。
-    sentences:
-    - ancient: 相如因持璧<却>立，倚柱，怒发上冲冠。（《廉颇蔺相如列传》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: <却>坐促弦弦转急。（《琵琶行》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❷迫使后退;击退。
-    sentences:
-    - ancient: <却>匈奴七百余里。（《过秦论》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 后秦击赵者再（两次），李牧连<却>之。（《六国论》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❸拒绝;不接受。
-    sentences:
-    - ancient: 曰："<却>之<却>之为不恭，何哉？"（《孟子•万章下》）
-      url: xxxx
-      vernacular: xxxx
-    - ancient: "始以为不请,而请者不可遏（阻止）；终以为不纳，而纳者不可<却>。（宋•王安石《答曾公立书》）"
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❹回头。
-    sentences:
-    - ancient: <却>看妻子愁何在，漫卷诗书喜欲狂。（《闻官军收河南河北》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❺去掉。
-    sentences:
-    - ancient: "医得眼前疮,剜<却>心头肉。（唐•聂夷中《伤田家》）"
-      url: xxxx
-      vernacular: xxxx
-- word: 却
-  type: 【副词】
-  phonetic: que4
-  tags:
-  - 高中
-  samples:
-  - trans: ❶还;再。
-    sentences:
-    - ancient: 何当共剪西窗烛，<却>话巴山夜雨时。（唐•李商隐《夜雨寄北》）
-      url: xxxx
-      vernacular: xxxx
-  - trans: ❷反而。
-    sentences:
-    - ancient: "谁知嫁商贾,令人<却>愁苦。（唐•李白《江夏行》）"
-      url: xxxx
-      vernacular: xxxx
-    - ancient: 雁过也，正伤心，<却>是旧时相识。（《声声慢》）
-      url: xxxx
-      vernacular: xxxx
+  - word: 却
+    type: 【动词】
+    phonetic: que4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶后退。
+        sentences:
+          - ancient: 相如因持璧<却>立，倚柱，怒发上冲冠。（《廉颇蔺相如列传》）
+            url: xxxx
+            vernacular: 相如于是手持璧玉退后几步，靠在柱子上，怒发冲冠
+          - ancient: <却>坐促弦弦转急。（《琵琶行》）
+            url: xxxx
+            vernacular: 回身坐下再转紧琴弦拨出急声。
+      - trans: ❷迫使后退;击退。
+        sentences:
+          - ancient: <却>匈奴七百余里。（《过秦论》）
+            url: xxxx
+            vernacular: 使匈奴退却七百多里
+          - ancient: 后秦击赵者再（两次），李牧连<却>之。（《六国论》）
+            url: xxxx
+            vernacular: 后来秦国多次攻打赵国。（赵国大将）李牧接连打退秦国的进攻。
+      - trans: ❸拒绝;不接受。
+        sentences:
+          - ancient: 曰："<却>之<却>之为不恭，何哉？"（《孟子•万章下》）
+            url: xxxx
+            vernacular: 一次又一次地拒绝就是不恭敬，这是为什么？
+          - ancient: 始以为不请，而请者不可遏（阻止）；终以为不纳，而纳者不可<却>。（宋•王安石《答曾公立书》）
+            url: xxxx
+            vernacular: xxxx
+      - trans: ❹回头。
+        sentences:
+          - ancient: <却>看妻子愁何在，漫卷诗书喜欲狂。（《闻官军收河南河北》）
+            url: xxxx
+            vernacular: 回头望见妻子和孩子哪还有一点的忧伤，胡乱地卷起诗书感到欣喜若狂。
+      - trans: ❺去掉。
+        sentences:
+          - ancient: 医得眼前疮，剜<却>心头肉。（唐•聂夷中《伤田家》）
+            url: xxxx
+            vernacular: 这是用刀挖掉心头好肉，来补眼前烂疮。
+  - word: 却
+    type: 【副词】
+    phonetic: que4
+    tags:
+      - 高中
+    samples:
+      - trans: ❶还;再。
+        sentences:
+          - ancient: 何当共剪西窗烛，<却>话巴山夜雨时。（唐•李商隐《夜雨寄北》）
+            url: xxxx
+            vernacular: 什么时候我们才能一起在西窗下秉烛长谈，相互倾诉今宵巴山夜雨中的思念之情。
+      - trans: ❷反而。
+        sentences:
+          - ancient: 谁知嫁商贾，令人<却>愁苦。（唐•李白《江夏行》）
+            url: xxxx
+            vernacular: 谁知今日却嫁给了个商人，却令人好不愁苦。
+          - ancient: 雁过也，正伤心，<却>是旧时相识。（《声声慢》）
+            url: xxxx
+            vernacular: 向南避寒的大雁已飞过去了，伤心的是却是原来的旧日相识。

@@ -8,7 +8,7 @@ words:
     samples:
       - trans: 奏章。
         sentences:
-          - ancient: 文吏试笺<奏>。（《后汉书•胡广传》）
+          - ancient: 诸生试章句，文吏试笺<奏>。（《后汉书•胡广传》）
             url: xxxx
             vernacular: xxxx
   - word: 奏
@@ -19,33 +19,33 @@ words:
     samples:
       - trans: ❶进;运。
         sentences:
-          - ancient: "手之所触，肩之所倚，足之所履，膝之所踦，砉然（砉xu1,形容皮骨相离声）向然，<奏>刀騞然（huo1,形容刀割物开裂的声音），莫不中音。（《庄子,•葬生主》）"
+          - ancient: 手之所触，肩之所倚，足之所履，膝之所踦，砉然（砉xu1，形容皮骨相离声）向然，<奏>刀騞然（huo1，形容刀割物开裂的声音），莫不中音。（《庄子，•葬生主》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 手接触的地方，肩膀倚靠的地方，脚踩的地方，膝盖顶的地方，哗哗作响，进刀时豁豁地，没有不合音律的
       - trans: ❷进献;呈献。
         sentences:
           - ancient: 轲既取图<奏>之，发图，图穷而匕首见。（《荆轲刺秦王》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 荆轲拿来地图之后捧着，打开地图，地图全部展开后露出了匕首。
           - ancient: 秦王坐章台（秦宫中台名）见相如，相如奉璧<奏>秦王。（《廉颇蔺相如列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 秦王坐在章台上接见蔺相如，相如捧璧呈献给秦王。
       - trans: ❸向君主进言或上书;上奏。
         sentences:
-          - ancient: <奏>对称旨（合乎旨意）。（清•梁启超《谭嗣同》）
+          - ancient: 适大病不能行，至七月乃扶病入觐，<奏>对称旨（合乎旨意）。（清•梁启超《谭嗣同》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 恰巧生大病无法前行。到七月，谭君才带病觐见皇帝，与皇上谈得很投机。
           - ancient: 【高考题例】贬谪元祐诸臣，<奏>发司马光墓。（《宋史•许将传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 贬谪元祐时的大臣，上奏挖司马光的坟墓。
           - ancient: 宰相李揆矜（夸耀）能忌贤，以休烈修国史与己齐列，嫉之，<奏>为国子祭酒。（《旧唐书•于休烈传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 宰相李揆恃才自夸而嫉妒贤能，因于休烈修撰国史与自己平列，便嫉恨他，奏请他任国子祭酒
       - trans: ❹弹奏（乐器）；演奏（乐曲）。
         sentences:
-          - ancient: 秦王饮酒酣，曰："寡人窃闻赵王好音，请<奏>瑟。"卒（《廉颇蔺相如列传》）
+          - ancient: 秦王饮酒酣，曰："寡人窃闻赵王好音，请<奏>瑟。"（《廉颇蔺相如列传》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "杨意不逢,抚凌云（司马相如的《大人赋》）而自惜;钟期既遇，凑流水以荷惭？（《滕王阁序》）"
+            vernacular: 秦王饮到酒兴正浓时，说：我私下里听说赵王爱好音乐，请您奏瑟一曲！
+          - ancient: 杨意不逢，抚凌云（司马相如的《大人赋》）而自惜;钟期既遇，凑流水以荷惭？（《滕王阁序》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 假如碰不上杨得意那样引荐的人，就只有抚拍着自己的文章而自我叹惜。既然已经遇到了钟子期，就弹奏一曲《流水》又有什么羞愧呢？

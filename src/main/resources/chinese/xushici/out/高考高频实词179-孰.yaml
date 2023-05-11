@@ -10,17 +10,17 @@ words:
         sentences:
           - ancient: 高者不旱，下者不水，寒暑和节，而五谷以时<孰>，是天下之事也。（《荀子•富国》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 使高地不干旱，洼地不受水涝，使寒暑节令适宜，使五谷按时成熟，这是上天的事情。
       - trans: ❷深思熟虑。
         sentences:
-          - ancient: 行不可不<孰>。（《吕氏春秋•慎行》）
+          - ancient: 行不可不<孰>。不孰，如赴深谿，虽悔无及。（《吕氏春秋•慎行》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 行动不能不深思熟虑。不深思熟虑，就如同走进深山谿壑，即使后悔也来不及了。
       - trans: ❸煮熟。
         sentences:
-          - ancient: 宰夫胹（煮）熊蹯（熊掌）不<孰>。（《左传•宣公二年》）
+          - ancient: 宰夫胹（煮）熊蹯（熊掌）不<孰>，杀之，寘诸畚，使妇人载以过朝。（《左传•宣公二年》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 厨师没有把熊掌炖烂，他就把厨师杀了，放在筐里，让宫女们用车载经过朝廷。
   - word: 孰
     type: 【形容词】
     phonetic: shu2
@@ -31,10 +31,10 @@ words:
         sentences:
           - ancient: 明日徐公来，<孰>视之，自以为不如。（《邹忌讽齐王纳谏》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: 唯大王与群臣<孰>计议之。（《廉颇蔺相如列传》）
+            vernacular: 又过了一天，徐公来了，邹忌仔细地看着他，自己认为不如徐公美
+          - ancient: 臣知欺大王之罪当诛，臣请就汤镬，唯大王与群臣<孰>计议之。（《廉颇蔺相如列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我知道欺骗大王是应该被诛杀的，我愿意接受汤镬之刑，只希望大王和各位大臣从长计议此事！
   - word: 孰
     type: 【代词】
     phonetic: shu2
@@ -45,28 +45,28 @@ words:
         sentences:
           - ancient: 丈人曰："四体不勤，五谷不分，<孰>为夫子？"（《论语•微子》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 老者说：“如果一个人四肢不勤治理不好自己的庄稼，谁是夫子跟我又有什么关系呢？”
           - ancient: 尽吾志也而不能至者，可以无悔矣，其<孰>能讥之乎？（《游褒禅山记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 尽了自己的主观努力而未能达到，便可以无所悔恨，这难道谁还能讥笑吗？
           - ancient: 人非生而知之者，<孰>能无惑？（《师说》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "【高考题例】若挟天子保许昌，杖大威以羽檄征四方兵,<孰>敢不从！（《晋书•鲁芝传》）"
+            vernacular: 人不是一生下来就懂得知识和道理，谁能没有疑惑？
+          - ancient: 【高考题例】若挟天子保许昌，杖大威以羽檄征四方兵，<孰>敢不从！（《晋书•鲁芝传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 如果挟持天子保护许昌，拿着征兵的大威和传递消息的羽檄，征四方的兵士，谁敢不从呢？
       - trans: ❷用于问事物。什么。
         sentences:
-          - ancient: "是可忍也,<孰>不可忍也？（《论语•八侑》）"
+          - ancient: 是可忍也，<孰>不可忍也？（《论语•八侑》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 如果这个都可以忍耐，那还有什么不可以容忍的呢？
       - trans: ❸用于比较。哪个。
         sentences:
           - ancient: 礼与食<孰>重？（《孟子•告子下》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 礼和食哪样重要？
       - trans: ❹怎么。
         sentences:
           - ancient: 何方圜之能周兮？夫<孰>异道而相安？（《离骚》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 方和圆怎能够互相配合，志向不同何能彼此相安。

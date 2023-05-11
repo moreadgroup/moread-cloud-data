@@ -10,64 +10,64 @@ words:
         sentences:
           - ancient: 苍颉作<书>，与事相连。（《论衡•奇怪》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 有沮诵、仓颉两个人，开始创作文字，用来代替结绳记事
           - ancient: 卒买鱼烹食，得鱼腹中<书>，固（本来）以怪之矣。（《陈涉世家》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 士兵们买鱼回来烹食，发现鱼肚子里面的帛书，本来已经对这事感到奇怪了。
       - trans: ❷书籍。
         sentences:
           - ancient: 子路曰："有民人焉，有社稷焉，何必读<书>，然后为学?"（《论语•先进》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 子路说：“有百姓，有土地五谷，何必读书才算学习？”
           - ancient: 家贫，无从致<书>以观，每假（借）借于藏<书>之家，手自笔录，计日以还。（《送东阳马生序》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 家里贫穷，无法得到书来看，常常向藏书的人家求借，亲手抄录，计算着日期按时送还。
           - ancient: 黄生允修借<书>，随园主人授以<书>而告之曰……（《黄生借书说》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 读书人黄允修来（向我）借书。我把书交授给他并且告诉他说：
           - ancient: 自<书>典所记，未之有也。（《张衡传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 从古籍的记载中，还看不到曾有这样的仪器。
       - trans: ❸书法。
         sentences:
           - ancient: 王逸少风流才士，萧散（潇洒不受约束）名人，举世惟（只）知其<书>，翻（反倒）以能自蔽也。（《颜氏家训•杂艺》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 王羲之是位风流才子，潇洒不受约束的名人，所有的人都只知道他的书法，而其他方面特长反而都被掩盖了。
           - ancient: 从余问古事，或凭几学<书>。（《项脊轩志》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 向我问一些旧时的事情，有时伏在桌旁学写字
       - trans: ❹书信。
         sentences:
           - ancient: 烽火连三月，家<书>抵万金。（《春望》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 连绵的战火已经延续了一个春天，家书难得，一封抵得上万两黄金。
           - ancient: 撰长<书>以为贽（zhi4，古代初次见尊长时所持的礼物），辞甚畅达。（《送亲阳马生序》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 写一封长信作为见面礼，（信中）言辞十分顺畅透彻。 撰，写。书，信也。以为，用以作为之省略。贽，礼物。畅，通顺。达，说理透彻。
           - ancient: 适得府君<书>，明日来迎汝。（《孔雀东南飞》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 刚才得到太守的信，明天就要来迎娶你。
       - trans: ❺公文;文书。
         sentences:
           - ancient: 上<书>谏寡人者，受中赏。（《邹忌讽齐王纳谏》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 上书直言规劝我的人，给予中等奖赏。
           - ancient: 军<书>十二卷，卷卷有爷名。（《木兰诗》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 征兵的名册有很多卷，每一卷上都有我父亲的名字。
           - ancient: 诏<书>特下，拜臣郎中，寻蒙国恩，除臣洗马。（《陈情表》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 朝廷又特地颁下诏书，任命我为郎中，不久（我）又蒙受国恩，任命我为洗马。 拜：授官。 寻：不久。 除：任命官职。 洗马：官名。太子的属官，在宫中服役，掌管图书。
       - trans: ❻《尚书》的简称。
         sentences:
           - ancient: 《<书>》曰："满招损，谦得益。"（《伶官传序》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 《尚书》上说：“自满会招来损害，谦虚能得到益处。”
       - trans: ❼评书;评话。
         sentences:
           - ancient: 乃近年共称柳敬亭之说<书>。（《柳敬亭传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 只是近几年来，人们才异口同声称赞柳敬亭的说书技艺。
   - word: 书
     type: 【动词】
     phonetic: shu1
@@ -76,12 +76,12 @@ words:
     samples:
       - trans: 写;记载。
         sentences:
-          - ancient: 不<书>即位。（《左传•隐公元年》）
+          - ancient: 元年春，王周正月。不<书>即位，摄也。（《左传•隐公元年》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 元年春季，周王朝历法的正月，《春秋》没有记载隐公即位，这是由于他只是代理国政。
           - ancient: 古之王者世有史官，君举必<书>。（《汉书•艺文志》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 【成语】 君举必书 【解释】 举：举动。 国君的一举一动，必定要载入史策。 旧时告诫国君举措不可不慎。
           - ancient: 【高考题例】尝谓休烈日:"君举必<书>，良史也。朕有过失，卿<书>之否?"（《旧唐书•于休烈传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 转对于休烈说：国君的任何举动都要记録下来，这纔是良史。朕有过失，卿是否记下了？

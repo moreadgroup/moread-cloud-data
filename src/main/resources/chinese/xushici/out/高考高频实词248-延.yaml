@@ -8,9 +8,9 @@ words:
     samples:
       - trans: ❶通"綖"。盖在冕板上的黑布。
         sentences:
-          - ancient: "天子玉藻,十有二旒（liu2,冠冕前后悬垂的玉串）,前后邃（sui4）<延>。（《礼记•关藻》）"
+          - ancient: 天子玉藻，十有二旒（liu2，冠冕前后悬垂的玉串），前后邃（sui4）<延>。（《礼记•关藻》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 天子戴着有玉旒的冕，前有十二旒，冕上的延前后都长出于 冕;身上穿着画龙的衮衣祭祀。
       - trans: ❷通"蜒"。墓道。
         sentences:
           - ancient: 隧，若今<延>道。（《春秋左传集解•隐公元年》"隧而相见""杜预注）
@@ -26,34 +26,34 @@ words:
         sentences:
           - ancient: <延>及孝文王、庄襄王，享国之日浅（少），国家无事（战事）。（《过秦论》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "今日之事,何不使莪得早处囊中，以苟<延>残喘乎？（《中山狼传》）"
+            vernacular: 延续到孝文王、庄襄王，统治的时间不长，秦国并没有什么大事发生。
+          - ancient: 今日之事，何不使莪得早处囊中，以苟<延>残喘乎？（《中山狼传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 今天这情景，何不让我赶紧待在袋子里，得以苟延残喘呢？
       - trans: ❷扩大范围。
         sentences:
-          - ancient: "去北军二里余，同时发火，火烈风猛，船往如箭,烧尽北船，<延>及岸上营落。（《资治通鉴•汉纪五十七》）"
+          - ancient: 去北军二里余，同时发火，火烈风猛，船往如箭，烧尽北船，<延>及岸上营落。（《资治通鉴•汉纪五十七》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 距离曹军二里多远的时候，各船同时点火，火烈风猛，船走如箭，把北面曹军的船全烧光了，还蔓延到岸上的军营
       - trans: ❸引进;迎接。
         sentences:
           - ancient: 秦人开关<延>敌，九国之师（军队），逡qūn巡xún而不敢进。（《过秦论》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 秦人打开函谷关迎接敌人，九国的军队却犹豫徘徊，迟疑延宕，不敢进入
       - trans: ❹邀请。
         sentences:
           - ancient: 于是沛公起，摄衣谢之，<延>上坐。（《史记•高祖本纪》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 这时候，沛公站起来，整理衣服向他（郦食其）道歉，邀请（他）坐上座。（得分点： “摄”“谢”“延”各1分）
           - ancient: 余人各复<延>至其家，皆出酒食。（《桃花源记》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "【高考题例】邓愈镇江西,数<延>见，奇其才,荐之。（《明史•熊鼎传》）"
+            vernacular: 其余的人各自又把渔人请到自己家中，都拿出酒饭来款待他。
+          - ancient: 【高考题例】邓愈镇江西，数<延>见，奇其才，荐之。（《明史•熊鼎传》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "时吴氏家<延>师儒，鼎就学,吴氏亦子育之，使学。（明•方孝孺《詹鼎传》）"
+            vernacular: 邓愈镇抚江西，多次召请他来相见，惊异于他的才华，向皇上推荐。
+          - ancient: 时吴氏家<延>师儒，鼎就学，吴氏亦子育之，使学。（明•方孝孺《詹鼎传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 那时吴家聘请老师教授自己的孩子，詹鼎就从学于吴家，吴家也把他当做自己的孩子那样抚育。
   - word: 延
     type: 【形容词】
     phonetic: yan2
@@ -64,4 +64,4 @@ words:
         sentences:
           - ancient: 悔相道之不察兮，<延>伫乎吾将反。（《离骚》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 后悔当初不曾看清前途，迟疑了一阵我又将回头。

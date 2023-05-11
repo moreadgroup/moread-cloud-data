@@ -13,7 +13,7 @@ quizzes:
     trans: 这（这些，这个）；那（那些，那个）。
     ancient: <夫>人不言，言必有中（合理）。（《论语•先进》）
     url: xxxx
-    vernacular: "那个人平日不太说话, 但一开口就恰当中肯。"
+    vernacular: 那个人平日不太说话， 但一开口就恰当中肯。
   - word: 夫
     type: 【代词】
     phonetic: fu2
@@ -53,7 +53,7 @@ quizzes:
     type: 【助词】语气助词。
     phonetic: fu2
     trans: ❶放在句首，提示下文或引起议论。
-    ancient: "<夫>在殷忧，必竭诚以待下；既得志,则纵情以傲物。（《谏太宗十思疏》）"
+    ancient: <夫>在殷忧，必竭诚以待下；既得志，则纵情以傲物。（《谏太宗十思疏》）
     url: xxxx
     vernacular: 大凡在深重忧患当中必须竭尽诚意对待臣下，得志以后就放纵自己傲慢地对待一切人
   - word: 夫
@@ -74,7 +74,7 @@ quizzes:
     type: 【助词】语气助词。
     phonetic: fu2
     trans: ❷放在句中用以舒缓语气。
-    ancient: "予观<夫>巴陵胜状,在洞庭一湖。（《岳阳楼记》）"
+    ancient: 予观<夫>巴陵胜状，在洞庭一湖。（《岳阳楼记》）
     url: xxxx
     vernacular: 我观看那巴陵郡的美好景色，全在洞庭湖上。
   - word: 夫
@@ -95,14 +95,14 @@ quizzes:
     type: 【助词】语气助词。
     phonetic: fu2
     trans: ❸放在句尾，表示感叹。相当于"吧""呵"。
-    ancient: "—人飞升，仙及鸡犬,信<夫>！（《促织》）"
+    ancient: —人飞升，仙及鸡犬，信<夫>！（《促织》）
     url: xxxx
     vernacular: 听说‘一人得道成仙，连鸡狗都可以上天。’这话真是一点不假啊！”
   - word: 夫
     type: 【助词】语气助词。
     phonetic: fu2
     trans: ❸放在句尾，表示感叹。相当于"吧""呵"。
-    ancient: "后之视今，亦犹今之视昔,悲<夫>！（《兰亭集序》）"
+    ancient: 后之视今，亦犹今之视昔，悲<夫>！（《兰亭集序》）
     url: xxxx
     vernacular: 后人看待今人，也就像今人看待前人，可悲呀。
   - word: 夫
@@ -111,4 +111,4 @@ quizzes:
     trans: ❸放在句尾，表示感叹。相当于"吧""呵"。
     ancient: 子在川上曰："逝者如斯<夫>，不舍昼夜。"（《论语•子罕》）
     url: xxxx
-    vernacular: "孔子在河边说:“消逝的时光就像这河水一样啊,不分昼夜地向前流去。”"
+    vernacular: 孔子在河边说:“消逝的时光就像这河水一样啊，不分昼夜地向前流去。”

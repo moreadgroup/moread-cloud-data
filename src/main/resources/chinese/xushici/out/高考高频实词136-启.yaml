@@ -10,7 +10,7 @@ words:
         sentences:
           - ancient: 至魏国笺记，始云"<启>闻"；奏事之末，或云"谨<启>"。（《文心雕龙•奏启》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 到魏代的笺表中，才开始用“启闻”，或者在奏事的最后说“谨启”。
   - word: 启
     type: 【动词】
     phonetic: qi3
@@ -21,23 +21,23 @@ words:
         sentences:
           - ancient: <启>窗而观，雕栏相望焉。（《核舟记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 打开窗户来看，雕刻着花纹的栏杆左右相对。
           - ancient: 狱中成法，质明（黎明）<启>钥。（《狱中杂记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 监狱的规矩，一定要等天亮才开锁
       - trans: ❷萌芽。
         sentences:
           - ancient: 繁<启>蕃长于春夏，畜积收藏于秋冬。（《荀子•天论》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 农作物在春夏时候纷纷萌芽，茂盛，成长，在秋冬时结谷，蓄积，收藏
       - trans: ❸陈述;禀告。
         sentences:
           - ancient: 府吏得闻之，堂上<启>阿母。（《孔雀东南飞》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 府吏听到这些话，便走到堂上禀告阿母
           - ancient: 某<启>：昨日蒙教，窃以为……（宋.王安石《答司马谏议书》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 鄙人王安石请启：昨天承蒙（您来信）指教，我私下认为...
       - trans: ❹开始;产生。
         sentences:
           - ancient: 初伏<启>新节，隆暑方赫羲。（晋•潘岳《在怀县作》之一）
@@ -45,22 +45,22 @@ words:
             vernacular: xxxx
           - ancient: 齐亡之迹，<启>于是矣。（《颜氏家训•慕贤》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 北齐败亡的迹象，就是从这里开始的。
       - trans: ❺开导;启发。
         sentences:
           - ancient: 天诱其衷，<启>敝邑心。（《左传•襄公二十五年》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: 不愤不<启>，举一隅不以三隅反，则弗复也。（《史记•孔子世家》）
+            vernacular: 上天诱导我们的心，启发了敝邑攻打陈国的念头。
+          - ancient: 不愤不<启>，不悱不发。举一隅不以三隅反，则弗复也。（《史记•孔子世家》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 教导学生，不到他想弄明白而不得的时候，不去开导他;不到他想出来却说不出来的时候，不去启发他。教给他一个方面的东西，他却不能由此而推知其他三个方面的东西，那就不再教他了。
       - trans: ❻幵拓;幵辟。
         sentences:
           - ancient: 齐桓公并国三十，<启>地三千里。（《韩非子•有度》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 齐桓公吞并国家三十个，开辟疆土三千里
       - trans: ❼跪。
         sentences:
           - ancient: 王事靡（无，不）盬（gu3，停止），不遑（空闲）<启>处。（《诗经•小龍•四牡》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 但君王的差使还没有完成，我没有闲暇安享静好时光。（征役没有休止， 哪能有片刻安身。）

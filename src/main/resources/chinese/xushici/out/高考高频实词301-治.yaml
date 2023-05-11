@@ -10,7 +10,7 @@ words:
         sentences:
           - ancient: 巫山在县西南，而今县东有巫山，将郡县居<治>无恒故也。（《水经注•江水》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 巫山在巫山县城西南，可是现在巫山在巫山县城的东边，这大概是郡县政府所在地不固定的缘故吧！
   - word: 治
     type: 【动词】
     phonetic: zhi4
@@ -21,38 +21,38 @@ words:
         sentences:
           - ancient: 故<治>国无法则乱，守法而弗变则悖（谬误），悖乱不可以持国。（《吕氏春秋•察今》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 治理国家如果没有法制，就会天下大乱，死守旧法而不变革，就必然违反实际，没有法律或死守旧法都是不能治理好国家的。
           - ancient: 民不足而可<治>者，自古及今，未之尝闻。（《论积贮疏》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 百姓缺吃少穿而可以治理得好的，从古到今，没有听说过这事。
           - ancient: 单于使卫律<治>其事，张胜闻之，恐前语发，以状语武。（《苏武传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 单于派卫律审理这一案件，张胜听到这个消息，担心他和虞常私下所说的那些话被揭发，便把事情经过告诉了苏武。
           - ancient: 伏惟圣朝以孝<治>天下，凡在故老，犹蒙矜育，况臣孤老，特为尤甚。（《陈情表》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我想晋朝是用孝道来治理天下的，凡是年老而德高的旧臣，尚且还受到怜悯养育，况且我孤单凄苦，程度更为严重呢。
       - trans: ❷医治。
         sentences:
-          - ancient: "君有疾在媵理（媵cou4,中医指皮肤的纹理和皮下肌肉之间的空隙），不<治>将恐深。（《韩非子•喻老》）"
+          - ancient: 君有疾在媵理（媵cou4，中医指皮肤的纹理和皮下肌肉之间的空隙），不<治>将恐深。（《韩非子•喻老》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 您在肌肤纹理间有些小病，不医治恐怕会加重。
           - ancient: 如人有疾，不<治>则寝以深。（《盐铁论•世务》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: ⑤寝：同浸，逐渐。人有疾病一样，不赶快医治就会逐渐恶化。
           - ancient: 君之病在肌肤，不<治>将益（更加）深。（《扁鹊见蔡桓公》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 您的病在肌肉里，不及时医治恐将会更加严重。
       - trans: ❸惩处;处置。
         sentences:
           - ancient: 且矫诏纷出，钩党之捕遍于天下，卒以吾郡之发愤一击，不敢复有株<治>。（《五人墓碑记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 当时假托的皇帝的诏书纷纷传出，追捕同党的人遍于天下，终于因为我们苏州人民的发愤抗击，使阉党不敢再株连治罪
           - ancient: 愿陛下托臣以讨贼兴复之效，不效，则<治>臣之罪，以告先帝之灵。（《出师表》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 希望陛下能够把讨伐曹魏，兴复汉室的任务托付给我，如果没有成功，就惩治我的罪过，从而用来告慰先帝的在天之灵。
           - ancient: 绝无有者，则<治>之如所言。（《狱中杂记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 只有穷得绝对拿不出钱的，才真照他们所说的执行。
       - trans: ❹训练;整治。
         sentences:
           - ancient: 今<治>水军八十万众。（《资治通鉴•汉纪五十七》）
@@ -60,7 +60,7 @@ words:
             vernacular: xxxx
           - ancient: 荆轲有所待，欲与俱;其人居远未来，而为<治>行。（《史记•或.刺客列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 荆轲等待着一个人，想同他一起去。那个人住得很远，没有来，因而停下等候他。
       - trans: ❺对付;抵御。
         sentences:
           - ancient: 同心一意，共<治>曹操。（《资治通鉴•汉纪五十七》）
@@ -68,9 +68,9 @@ words:
             vernacular: xxxx
       - trans: ❻讲求;硏究。
         sentences:
-          - ancient: 奚暇<治>礼义哉！（《齐桓晋文之事》）
+          - ancient: 此惟救死而恐不赡，奚暇<治>礼义哉！（《齐桓晋文之事》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 这样，只是使自己摆脱死亡还怕不足，哪里还顾得上讲求礼义呢?
   - word: 治
     type: 【形容词】
     phonetic: zhi4
@@ -79,15 +79,15 @@ words:
     samples:
       - trans: 治理得好;太平（与"乱"相对）。
         sentences:
-          - ancient: 以乱攻<治>者亡。（《战国策•秦策三》）
+          - ancient: 以乱攻<治>者亡，以邪攻正者亡，以逆攻顺者亡。（《战国策•秦策三》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "然亡国破家相随属（接连），而圣君<治>国累世而不见（出现）者,其所谓忠者不忠，而所谓贤者不贤也。（《史记•屈原贾生列传》）"
+            vernacular: 以混乱之国去攻打有序之国必遭败亡，以邪恶之国攻打正义之国必遭败亡，以悖逆天道之国去攻打顺应天道之国必遭败亡。
+          - ancient: 然亡国破家相随属（接连），而圣君<治>国累世而不见（出现）者，其所谓忠者不忠，而所谓贤者不贤也。（《史记•屈原贾生列传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 然而国破家亡的事接连发生，而圣明君主治理好国家的多少世代也没有出现，这是因为所谓忠臣并不忠，所谓贤臣并不贤。
           - ancient: 源不深而望流之远，根不固而求木之长，德不厚而望国之<治>，虽在下愚，知其不可，而况于明哲乎！（《谏太宗十思疏》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "【高考题例】今贤否杂糅，风俗浇浮，兵未强,财未裕,宜卧薪尝胆以图内<治>。（《宋史•萧燧传》）"
+            vernacular: 源头不深却希望河水流得远长，根不稳固却要求树木长得高大，道德不深厚却想国家安定，臣虽然愚笨，（也）知道这是不可能的，何况（像陛下这样）明智的人呢？
+          - ancient: 【高考题例】今贤否杂糅，风俗浇浮，兵未强，财未裕，宜卧薪尝胆以图内<治>。（《宋史•萧燧传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 现在贤臣小人一起并存，风俗一同存在，兵力还没强盛，财资还没富裕，应该卧薪尝胆使国内大治。

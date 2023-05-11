@@ -8,9 +8,9 @@ words:
     samples:
       - trans: 奇特之处。
         sentences:
-          - ancient: 成述其<异>。（《促织》）
+          - ancient: 成述其<异>，宰不信。（《促织》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 成名讲述了这只蟋蟀的奇特本领，县官不信。
   - word: 异
     type: 【动词】
     phonetic: yi4
@@ -24,29 +24,29 @@ words:
             vernacular: xxxx
           - ancient: 假令仆伏法受诛，若九牛亡一毛，与蜷蚁何以<异>？（《报任安书》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 假如我伏法被杀，那好像是九牛的身上失掉一根毛，同蝼蚁又有什么区别？
       - trans: ❷惊奇;诧异。
         sentences:
           - ancient: 今年九月二十八日，因坐法华西亭，望西山，始指<异>之。（《始得西山宴游记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 今年九月二十八日，由于坐在法华寺西亭，遥望西山，才使我发现西山胜景，大为称异。
           - ancient: 渔人甚<异>之，复前行，欲穷其林。（《桃花源记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 渔人对此（眼前的景色）感到十分诧异，继续往前行船，想走到林子的尽头。
           - ancient: 父<异>然，借旁近与之。（《伤仲永》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 他的父亲对此感到诧异，就向邻居那里把那些东西借来给他。
           - ancient: 【高考题例】所继叔父混名知人，见而<异>之。（《宋书•谢弘微传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 渔人对此（眼前的景色）感到十分诧异
       - trans: ❸变化。
         sentences:
-          - ancient: "然而成败<异>变，功业相反,何也？（《过秦论》）"
+          - ancient: 然而成败<异>变，功业相反，何也？（《过秦论》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 可是条件好者失败而条件差者成功，功业完全相反，这是为什么呢？
           - ancient: 仁义不施而攻守之势<异>也。（《过秦论》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 就因为不施行仁政而使攻守的形势发生了变化啊。
   - word: 异
     type: 【形容词】
     phonetic: yi4
@@ -57,43 +57,43 @@ words:
         sentences:
           - ancient: 不宜偏私，使内外<异>法也。（《出师表》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 不应有所偏爱， 使宫廷内外所实行的法规有所不同。
           - ancient: 而议事每不合，所操之术多<异>故也。（宋•王安石《答司马谏议书》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "是（这）何<异>于刺人而杀之曰\"非我也，兵也\"？（《寡人之于,国也》）"
+            vernacular: 可是议论国事时常常意见不同，这大概是由于我们所采取的方法不同的缘故吧。
+          - ancient: 是（这）何<异>于刺人而杀之曰"非我也，兵也"？（《寡人之于，国也》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 这种说法与拿刀把人杀死后，说‘杀死人的不是我，是兵器’有什么不同？
           - ancient: 人固有一死，或重于泰山，或轻于鸿毛，用之所趋<异>也。（《报任安书》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "【高考题例】东西<异>路，不当与,然安忍于旧治坐视？（《宋史・萧燧传》）"
+            vernacular: 人生本来就有一死，但有的人死得比泰山还重，有的人死的却比鸿毛还轻，这是因为他们用死追求的目的不同啊！
+          - ancient: 【高考题例】东西<异>路，不当与，然安忍于旧治坐视？（《宋史・萧燧传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 东部与西部不属同路管辖，按说不该给粮食，但我怎么忍心对原先治理的地区坐视不管呢？
       - trans: ❷奇特;特殊。
         sentences:
-          - ancient: 太后笑曰：""妇人<异>甚！"（《触龙说赵太后》）
+          - ancient: 太后笑曰："妇人<异>甚！"（《触龙说赵太后》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 太后笑着说：“妇人更厉害。”
           - ancient: 永州之野产<异>蛇，黑质（质地）而白章（花纹）。（《捕蛇者说》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 永州的野外生长一种奇特的蛇，黑色的身子上有白色的花纹。
           - ancient: 以为凡是州之山水有<异>态者，旨我有也，而未始知西山之怪特。（《始得西山宴游记》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 凡是这个州的山水有奇异姿态的，都为我所拥有、欣赏了，但未曾知道西山的怪异独特。
       - trans: ❸优异;杰出。
         sentences:
-          - ancient: "无何,宰以卓<异>闻。（《促织》）"
+          - ancient: 抚军不忘所自，无何，宰以卓<异>闻。（《促织》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 巡抚不忘记好处是从哪来的，不久，县官也以才能卓越而闻名了。
       - trans: ❹别的;另外的。
         sentences:
-          - ancient: ，<异>时（他日）倘得脱颖而出，先生之恩，生死而肉骨也，敢不努力以效龟蛇之诚？（《中山狼传》）
+          - ancient: <异>时（他日）倘得脱颖而出，先生之恩，生死而肉骨也，敢不努力以效龟蛇之诚？（《中山狼传》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "欲以树艺佐其急,且备<异>日也。（明•徐光启《甘薯疏序》）"
+            vernacular: 将来假如能有所作为，出人头地，那么先生的恩德，真是使死者复生、枯骨长肉啊!我怎敢不尽心尽力地仿效龟蛇的诚心来报答您呢!”
+          - ancient: 欲以树艺佐其急，且备<异>日也。（明•徐光启《甘薯疏序》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "<异>日图将好景,归去凤池夸。（宋•柳永《望海潮》）"
+            vernacular: 我想种点儿什么来救急，同时也为以后的救灾作打算。
+          - ancient: <异>日图将好景，归去凤池夸。（宋•柳永《望海潮》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 他日把这美好的景致画出来，回京升官时向人们夸耀。

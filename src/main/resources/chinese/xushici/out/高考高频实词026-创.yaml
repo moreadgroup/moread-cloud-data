@@ -10,24 +10,24 @@ words:
         sentences:
           - ancient: 秦王复击轲，被（遭受）八<创>。（《战国策•燕策 三》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: 项王身亦被十余初。（《项羽之死》）
+            vernacular: 秦王又砍击荆轲，荆轲被砍伤了八处。
+          - ancient: 项王身亦被十余<创>。（《项羽之死》）
             url: xxxx
-            vernacular: xxxx
-          - ancient: "【高考题例】光武破寻、邑、熹被<创>，有战劳，还拜中郎将，封勇功侯。（《后汉书•赵毒传》）"
+            vernacular: 项羽自己也负伤十多处。
+          - ancient: 【高考题例】光武破寻、邑、熹被<创>，有战劳，还拜中郎将，封勇功侯。（《后汉书•赵毒传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 光武攻破了王寻、王邑，赵憙受了伤，有战功，回来后拜为中郎将，封勇功侯。
           - ancient: 【高考题例】背城拒战凡三日，被<创>，没于阵，年六十二。（《宋史•何灌传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 何灌背靠城池抗拒，总共和敌人作战了三天，受到创伤，死在阵地上，当时六十二岁。
           - ancient: 【高考题例】屡经战阵，身被七十<创>。（《宋史•康保裔传》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 多次经历战阵，身上带着七十处伤口。
       - trans: ❷疮。
         sentences:
-          - ancient: "管仲告诸侯，吾君背有疽<创>，不得妇人，<创>不衰愈。（《论衡.书虚》）"
+          - ancient: 管仲告诸侯，吾君背有疽<创>，不得妇人，疮不衰愈。（《论衡.书虚》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 管仲告诉诸侯说，我的君主背上有个毒疮，没有女人伏在背上，疮病就不会减轻、痊愈。
   - word: 创
     type: 【动词】
     phonetic: chuang4
@@ -36,19 +36,19 @@ words:
     samples:
       - trans: ❶开创。
         sentences:
-          - ancient: "先帝<创>业未半而中道崩殂，今天下三分，益州疲弊，此诚危急存亡之秋也。（《出师表》）"
+          - ancient: 先帝<创>业未半而中道崩殂，今天下三分，益州疲弊，此诚危急存亡之秋也。（《出师表》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 先帝开创的大业未完成一半却中途去世了。现在天下分为三国，蜀汉国力薄弱，处境艰难。这确实是国家危急存亡的时期啊。
           - ancient: 我固为子孙<创>业也。（明•黄宗羲《原君》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我原是为子孙后代创业啊。
       - trans: ❷撰写。
         sentences:
           - ancient: 草<创>未就，会遭此祸，惜其不成，是以就极刑而无愠色。（《报任安书》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 刚开始草创还没有完毕，恰恰遭遇到这场灾祸，我痛惜这部书不能完成，因此便接受了最残酷的刑罚而不敢有怒色。前“就”完成的意思，作动词；后“就”靠近、趋向的意思，作动词用。
       - trans: ❸惩治。
         sentences:
           - ancient: 予<创>若时，娶于涂山，辛壬癸甲。（《尚书•益稷》）
             url: xxxx
-            vernacular: xxxx
+            vernacular: 我娶了涂山氏的女儿，结婚后四天就治水去了。
