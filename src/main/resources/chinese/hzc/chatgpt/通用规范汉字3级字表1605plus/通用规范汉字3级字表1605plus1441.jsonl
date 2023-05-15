@@ -1,20 +1,20 @@
-{"seq": 7941, "word": "镥", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7942, "word": "镨", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7943, "word": "𬭸", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7944, "word": "𨱔", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7945, "word": "𬭼", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7946, "word": "𫔎", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7947, "word": "矰", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7948, "word": "穙", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7949, "word": "穜", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7950, "word": "穟", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7951, "word": "簕", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7952, "word": "簃", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7953, "word": "簏", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7954, "word": "儦", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7955, "word": "魋", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7956, "word": "斶", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7957, "word": "艚", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7958, "word": "𬸪", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7959, "word": "谿", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
-{"seq": 7960, "word": "䲠", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
+{"seq": 7941, "word": "镥", "pinyin": "lǔ", "definition": "一种金属元素，符号Lu，原子序71。", "words":[ ], "sentences":[ ] }
+{"seq": 7942, "word": "镨", "pinyin": "pǔ", "definition": "一种金属元素，符号Pr，原子序59。", "words":[ ], "sentences":[ ] }
+{"seq": 7943, "word": "𬭸", "pinyin": "𬭸是一个异体字2，和'镨'同音同义。", "definition": "", "words":[ ], "sentences":[ ] }
+{"seq": 7944, "word": "𨱔", "pinyin": "𨱔是一个异体字2，和'镨'同音同义。", "definition": "", "words":[ ], "sentences":[ ] }
+{"seq": 7945, "word": "𬭼", "pinyin": "𬭼是一个异体字2，和'镨'同音同义。", "definition": "", "words":[ ], "sentences":[ ] }
+{"seq": 7946, "word": "𫔎", "pinyin": "𫔎是一个异体字2，和'镨'同音同义。", "definition": "", "words":[ ], "sentences":[ ] }
+{"seq": 7947, "word": "矰", "pinyin": "矰是一个异体字2，和'簶'同音同义。", "definition": "", "words":[ ], "sentences":[ ] }
+{"seq": 7948, "word": "穙", "pinyin": "穙是一个异体字2，和'簶'同音同义。", "definition": "", "words":[ ], "sentences":[ ] }
+{"seq": 7949, "word": "穜", "pinyin": "穜是一个异体字2，和'簶'同音同义。", "definition": "", "words":[ ], "sentences":[ ] }
+{"seq": 7950, "word": "穟", "pinyin": "suì", "definition": "一种农具，用来耙地或播种。", "words": ["耒耜"], "sentences": ["他用穟在田里划出了一道道的沟渠。"] }
+{"seq": 7951, "word": "簕", "pinyin": "lè", "definition": "竹篓，用来盛米。", "words":[ ], "sentences":[ ] }
+{"seq": 7952, "word": "簃", "pinyin": "yí", "definition": "书房，书屋。", "words":[ ], "sentences":[ ] }
+{"seq": 7953, "word": "簏", "pinyin": "lù", "definition": "竹制的盒子，用来装衣物或食物。", "words":[ ], "sentences":[ ] }
+{"seq": 7954, "word": "儦", "pinyin": "biāo", "definition": "沿江或沿海捕鱼的人。", "words":[ ], "sentences":[ ] }
+{"seq": 7955, "word": "魋", "pinyin": "魋是一个异体字1，和'魍'同音同义。", "definition": "", "words":[ ], "sentences":[ ] }
+{"seq": 7956, "word": "斶", "pinyin": "chù", "definition": "一种古代的刑具，用来刺穿罪犯的手脚。", "words": ["斶刑"], "sentences": ["他因为谋反被处以斶刑。"] }
+{"seq": 7957, "word": "艚", "pinyin": "cáo", "definition": "一种大型的木船，有两层甲板，用来运输货物或人员。", "words": ["艚船"], "sentences": ["他们乘坐艚船前往海外。"] }
+{"seq": 7958, "word": "𬸪", "pinyin": "𬸪**是一个异体字2，和'艚'同音同义。", "definition": "", "words"[ ]: [], "sentences"[ ]: [] }
+{"seq": 7959, "word": "谿", "pinyin": "xī", "definition":"山间的小溪，也指山谷。", "words":["谿水","谿谷"], "sentences":["山中有清澈的谿水流过。","他们沿着谿谷前行。"] }
+{"seq": 7960, "word": "䲠", "pinyin": "nián", "definition":"一种鱼类，形似鲇鱼，有须，肉可食。","words":["䲠鱼"], "sentences":["他们捕到了一条大䲠鱼。"]}
