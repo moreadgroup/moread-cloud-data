@@ -1,20 +1,20 @@
-{"seq":6243, "word":"髁", "pinyin":"kē",   "definition":"骨骼突起的一部分，通常是关节的一部分", "words":["髁骨"], "sentences":["他的手指上有一个明显的髁。", "这个关节的髁很大，因此它可以承受更多的压力。"]}
-{"seq":6244, "word":"髀", "pinyin":"bì",   "definition":"大腿和臀部之间的部分，通常是人体最大的肌肉之一", "words":["髀肉"], "sentences":["他的髀肉很结实，因为他经常锻炼。", "她在跑步时拉伤了她的髀肉。"]}
-{"seq":6245, "word":"镡", "pinyin":"tán",  "definition":"一种金属元素，符号为Sn，原子序数为50", "words":[], "sentences":["镡是一种常见的金属元素。"]}
-{"seq":6246, "word":"镢", "pinyin":"jué",  "definition":"一种用于切割和修整木材或金属的工具，通常由两个可移动的刀片组成", "words":[], "sentences":["他用镢子修剪了树枝。"]}
-{"seq":6248, "word":"镦", "pinyin":"duì",  "definition":"(金属)用于加固或连接两个物体的小型金属钉或螺钉", "words":[], "sentences":["他用镦子将两块木板连接在一起。"]}
-{"seq":6249, "word":"镧", "pinyin":"lán",  "definition":"(化学)一种稀土金属元素，符号为La，原子序数为57", "words":[], "sentences":["镧是一种稀有金属元素。"]}
-{"seq":6250, "word":"镩", "pinyin":"",     "definition":"", "words":[], "sentences":[""]}
-{"seq":6257, "word":"篼", "pinyin":"dōu",  "definition":"一种用于捆绑和绑扎物品的绳索或带子", "words":[], "sentences":["他用篼绳捆绑了木材。"]}
-{"seq":6258, "word":"簖", "pinyin":"duàn", "definition":"一种长而窄的船只，通常由木材制成", "words":[], "sentences":["这艘簖船可以容纳多达十个人。"]}
-{"seq":6259, "word":"簋", "pinyin":"guǐ",  "definition":"一种古代器皿，通常用于盛放食物或祭品", "words":[], "sentences":["这个博物馆里有一个古代簋。"]}
-{"seq":6260, "word":"鼢", "pinyin":"fén",  "definition":"一种啮齿动物，类似于老鼠但比老鼠更大", "words":[], "sentences":["这只鼢鼠在草地上跳跃。"]} 
-{"seq":6263, "word":"鹪", "pinyin":"jiāo", "definition":"一种小型的鸟类，通常生活在森林或灌木丛中", "words":["鹪鹩"], "sentences":["这只鹪鹩在树枝上跳跃。"]}
-{"seq":6265, "word":"皤", "pinyin":"pó",   "definition":"一种颜色，通常用于描述白色和黑色之间的浅灰色", "words":[], "sentences":["这个房间里的墙是皤色的。"]}
-{"seq":6267, "word":"龠", "pinyin":"yuè",  "definition":"(乐器)一种古代乐器，通常由竹子制成，有多个管子和一个共同的嘴口", "words":[], "sentences":["他会演奏龠。"]}
-{"seq":6268, "word":"繇", "pinyin":"",     "definition":"", "words":[], "sentences":[""]}
-{"seq":6269, "word":"貘", "pinyin":"mò",   "definition":"一种大型哺乳动物，通常生活在亚洲的森林中", "words":[], "sentences":["这只貘正在吃树叶。"]}
-{"seq":6271, "word":"貔", "pinyin":"pí",   "definition":"一种神话中的动物，通常被描述为一只有着虎头和狮身的动物", "words":[], "sentences":["这个故事里有一只貔。"]}
-{"seq":6272, "word":"臌", "pinyin":"gǔ",   "definition":"一种疾病，通常表现为身体某个部位肿胀或充血", "words":[], "sentences":["他得了臌病。"]}
-{"seq":6276, "word":"鲼", "pinyin":"fèn",  "definition":"一种淡水鱼类，通常生活在亚洲的河流和湖泊中", "words":[], "sentences":["这条河里有很多鲼。"]}
-{"seq":6277, "word":"鲽", "pinyin":"dié",  "definition":"一种海洋鱼类，通常生活在欧洲和北美洲的海岸附近", "words":[], "sentences":["这道菜用鲽鱼做成。"]}
+{"seq": 6243, "word": "髁", "pinyin": "kē",   "definition": "骨骼突起的一部分，通常是关节的一部分", "words":["髁骨"], "sentences":["他的手指上有一个明显的髁。", "这个关节的髁很大，因此它可以承受更多的压力。"]}
+{"seq": 6244, "word": "髀", "pinyin": "bì",   "definition": "大腿和臀部之间的部分，通常是人体最大的肌肉之一", "words":["髀肉"], "sentences":["他的髀肉很结实，因为他经常锻炼。", "她在跑步时拉伤了她的髀肉。"]}
+{"seq": 6245, "word": "镡", "pinyin": "tán",  "definition": "一种金属元素，符号为Sn，原子序数为50", "words":[], "sentences":["镡是一种常见的金属元素。"]}
+{"seq": 6246, "word": "镢", "pinyin": "jué",  "definition": "一种用于切割和修整木材或金属的工具，通常由两个可移动的刀片组成", "words":[], "sentences":["他用镢子修剪了树枝。"]}
+{"seq": 6248, "word": "镦", "pinyin": "duì",  "definition": "(金属)用于加固或连接两个物体的小型金属钉或螺钉", "words":[], "sentences":["他用镦子将两块木板连接在一起。"]}
+{"seq": 6249, "word": "镧", "pinyin": "lán",  "definition": "(化学)一种稀土金属元素，符号为La，原子序数为57", "words":[], "sentences":["镧是一种稀有金属元素。"]}
+{"seq": 6250, "word": "镩", "pinyin": "",     "definition": "", "words":[], "sentences":[""]}
+{"seq": 6257, "word": "篼", "pinyin": "dōu",  "definition": "一种用于捆绑和绑扎物品的绳索或带子", "words":[], "sentences":["他用篼绳捆绑了木材。"]}
+{"seq": 6258, "word": "簖", "pinyin": "duàn", "definition": "一种长而窄的船只，通常由木材制成", "words":[], "sentences":["这艘簖船可以容纳多达十个人。"]}
+{"seq": 6259, "word": "簋", "pinyin": "guǐ",  "definition": "一种古代器皿，通常用于盛放食物或祭品", "words":[], "sentences":["这个博物馆里有一个古代簋。"]}
+{"seq": 6260, "word": "鼢", "pinyin": "fén",  "definition": "一种啮齿动物，类似于老鼠但比老鼠更大", "words":[], "sentences":["这只鼢鼠在草地上跳跃。"]} 
+{"seq": 6263, "word": "鹪", "pinyin": "jiāo", "definition": "一种小型的鸟类，通常生活在森林或灌木丛中", "words":["鹪鹩"], "sentences":["这只鹪鹩在树枝上跳跃。"]}
+{"seq": 6265, "word": "皤", "pinyin": "pó",   "definition": "一种颜色，通常用于描述白色和黑色之间的浅灰色", "words":[], "sentences":["这个房间里的墙是皤色的。"]}
+{"seq": 6267, "word": "龠", "pinyin": "yuè",  "definition": "(乐器)一种古代乐器，通常由竹子制成，有多个管子和一个共同的嘴口", "words":[], "sentences":["他会演奏龠。"]}
+{"seq": 6268, "word": "繇", "pinyin": "",     "definition": "", "words":[], "sentences":[""]}
+{"seq": 6269, "word": "貘", "pinyin": "mò",   "definition": "一种大型哺乳动物，通常生活在亚洲的森林中", "words":[], "sentences":["这只貘正在吃树叶。"]}
+{"seq": 6271, "word": "貔", "pinyin": "pí",   "definition": "一种神话中的动物，通常被描述为一只有着虎头和狮身的动物", "words":[], "sentences":["这个故事里有一只貔。"]}
+{"seq": 6272, "word": "臌", "pinyin": "gǔ",   "definition": "一种疾病，通常表现为身体某个部位肿胀或充血", "words":[], "sentences":["他得了臌病。"]}
+{"seq": 6276, "word": "鲼", "pinyin": "fèn",  "definition": "一种淡水鱼类，通常生活在亚洲的河流和湖泊中", "words":[], "sentences":["这条河里有很多鲼。"]}
+{"seq": 6277, "word": "鲽", "pinyin": "dié",  "definition": "一种海洋鱼类，通常生活在欧洲和北美洲的海岸附近", "words":[], "sentences":["这道菜用鲽鱼做成。"]}
