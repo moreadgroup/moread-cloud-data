@@ -188,7 +188,7 @@
 {"seq": 6688, "word": "𬬩", "pinyin": "tuó", "definition": "一种古代的箭镞", "words":[ "𬬩镞" ], "sentences":[ "这种𬬩镞用来猎捕野兽非常有效。"] }
 {"seq": 6689, "word": "钐", "pinyin": "shān", "definition": "锐利的刀或剑", "words":[ "钐刀", "钐剑" ], "sentences":[ "这把钐刀锋利无比，可以轻易地砍断树枝。"] }
 {"seq": 6690, "word": "钔", "pinyin": "mén", "definition": "人工合成元素，元素符号为Md，原子序数为101", "words": ["锿", "元素周期表", "超铀金属"], "sentences": ["钔是人工合成的元素之一，它的发现有助于我们更好地了解元素周期表中的超铀金属。", "1955年，吉奥索等科学家成功地用氦核轰击锿得到了钔。"]}
-{"seq": 6691, "word": "钖", "pinyin": "yán", "definition": "一种古代钱币形制，是一种贝形的铜钱，上面有两只鱼，钱文印的是"钖"字", "words":[ "铜钱", "贝币"], "sentences":[ "这枚钱币上面印的是"钖"字。", "钖是一种古代铜钱，形状像贝壳。" ] }
+{"seq": 6691, "word": "钖", "pinyin": "yán", "definition": "一种古代钱币形制，是一种贝形的铜钱，上面有两只鱼，钱文印的是'钖'字", "words":[ "铜钱", "贝币"], "sentences":[ "这枚钱币上面印的是'钖'字。", "钖是一种古代铜钱，形状像贝壳。" ] }
 {"seq": 6692, "word": "牥", "pinyin": "fāng", "definition": "方形的酒器", "words":[ "牛角杯", "觥筹"], "sentences":[ "他端起牥子，喝了一口酒。", "桌子上放着几个牥子，里面盛着清酒。" ] }
 {"seq": 6693, "word": "佴", "pinyin": "èr", "definition": "古代官吏名。春秋时代楚国的地方官员，后泛指低级官吏", "words":[ "佐佑", "仕途"], "sentences":[ "他的祖父曾经是一位佴。", "他一直想在仕途上得到佐佑。" ] }
 {"seq": 6694, "word": "垈", "pinyin": "dàn", "definition": "指田地中的小块土地，也指坡地或土堆", "words":[ "坟墓", "园地"], "sentences":[ "这片垈地上种了一些蔬菜。", "他们在山坡上发现了一块垈地，准备种植葡萄。" ] }
@@ -227,7 +227,6 @@
 {"seq": 6727, "word": "穸", "pinyin": "xī", "definition": "用于地名", "words":[ "穸州", "穸县"], "sentences":[ "我曾经去过穸州旅游。", "这个小村庄属于穸县的范围。" ] }
 {"seq": 6728, "word": "祋", "pinyin": "duì", "definition": "祭祀时所用的一种酒器", "words":[ "祋簋" ], "sentences":[ "古代祭祀时会使用祋簋等祭器。" ] }
 {"seq": 6729, "word": "祊", "pinyin": "bēng/fāng", "definition": "古代祭祀时奉祀的牲畜或牲畜的尸体", "words": ["祊祀", "祊觞"], "sentences": ["古代祭祀时，常常会奉祀祊牛或祊羊。", "祊祀是古代中国宗教文化的重要组成部分之一。"]}
-{"seq": 6730, "word": "同", "pinyin": "tóng", "definition": "一致的；相同的；一起的；共同的", "words":[ "相同", "一起", "共同" ], "sentences":[ "我们的意见完全同。", "我们要一起努力，为实现共同的目标而奋斗。" ] }
 {"seq": 6731, "word": "𬣳", "pinyin": "máo", "definition": "古代传说中的一种猛兽", "words":[ "神兽" ], "sentences":[ "传说中的𬣳是一种非常凶猛的神兽。" ] }
 {"seq": 6732, "word": "𬩽", "pinyin": "mǐ", "definition": "一种谷物，即小米", "words":[ "小米" ], "sentences":[ "我喜欢吃煮熟的𬩽粥。" ] }
 {"seq": 6733, "word": "鸤", "pinyin": "shī", "definition": "一种水鸟，又称鸲鹆", "words":[ "水鸟", "鸲鹆" ], "sentences":[ "湖边经常可以看到鸤这种水鸟。", "这只鸲鹆的羽毛颜色非常美丽。" ] }
@@ -358,7 +357,7 @@
 {"seq": 6858, "word": "俍", "pinyin": "liáng", "definition": "弱小，无力", "words": ["软弱", "无力"], "sentences": ["虽然身体很虚弱，但他的意志却非常俍弱。", "他的状态很糟糕，看上去非常的俍弱。"]}
 {"seq": 6859, "word": "垕", "pinyin": "hòu", "definition": "土地向下倾斜的地形", "words": ["坡地", "山坡"], "sentences": ["他家后面的一块垕地，可以种上一些蔬菜。", "这个山坡地很陡峭，不容易爬上去。"]}
 {"seq": 6860, "word": "衎", "pinyin": "kǎn", "definition": "纸片状的", "words": ["薄片", "纸片"], "sentences": ["这是一种衎状的材料，可以很容易地撕成纸片。", "这个小孩非常喜欢折纸，他现在手里拿着一些衎状的纸片在折纸。"]}
-{"seq": 6861, "word": "舣", "pinyin": "yǐ", "definition": "停船靠岸：～舟。", "words": ["舣舟"], "sentences": ["他把船舣在岸边。"]}¹
+{"seq": 6861, "word": "舣", "pinyin": "yǐ", "definition": "停船靠岸：～舟。", "words": ["舣舟"], "sentences": ["他把船舣在岸边。"]}
 {"seq": 6862, "word": "弇", "pinyin": "yǎn", "definition": "覆盖，遮蔽。承袭。深。狭。", "words": ["弇陋"], "sentences": ["为了提高自己的综合素质，改变弇陋的面目。他下定决心要做一个博学多才的人。"]}
 {"seq": 6863, "word": "侴", "pinyin": "Chǒu", "definition": "中国姓氏。", "words": [], "sentences": []}
 {"seq": 6864, "word": "鸧", "pinyin": "Cāng", "definition": "一种鸟类的名称，也称为鸧鸹，被认为是白枕鹤 (Grus vipio)。此外，鸧还可以指一种神话中的鸟类。", "words": ["鸧鸹"], "sentences": []}
@@ -367,8 +366,8 @@
 {"seq": 6867, "word": "𦙶", "pinyin": "", "definition": "", "words": [], "sentences": []}
 {"seq": 6868, "word": "胈", "pinyin": "bá", "definition": "人腿上的毛。大腿股的白肉。", "words": [], "sentences": []} 
 {"seq": 6869, "word": "膗", "pinyin": "chuái", "definition": "形容肥胖而肌肉松弛。肉羹。", "words": [], "sentences": []} 
-{"seq": 6870, "word": "胩", "pinyin": "kǎ", "definition": "有机化合物的一类，异腈的旧称，无色液体，有恶臭，剧毒。", "words": [], "sentences": []} 1
-{"seq": 6871, "word": "朏", "pinyin": "fěi", "definition": "新月开始生明发光，亦用为阴历每月初三日的代称。", "words": [], "sentences": []} 1
+{"seq": 6870, "word": "胩", "pinyin": "kǎ", "definition": "有机化合物的一类，异腈的旧称，无色液体，有恶臭，剧毒。", "words": [], "sentences": []} 
+{"seq": 6871, "word": "朏", "pinyin": "fěi", "definition": "新月开始生明发光，亦用为阴历每月初三日的代称。", "words": [], "sentences": []} 
 {"seq": 6872, "word": "飐", "pinyin": "zhǎn", "definition": "风吹颤动"}
 {"seq": 6873, "word": "訄", "pinyin": "qiú", "definition": "逼迫"}
 {"seq": 6874, "word": "饻", "pinyin": "xī", "definition": "一种计算货币的单位，一饻等于若干种实物价格的总和"}
@@ -522,15 +521,15 @@
 {"seq": 7022, "word": "衃", "pinyin": "pēi", "definition": "凝聚成紫黑色的瘀血。", "words":[], "sentences":[]}
 {"seq": 7023, "word": "虒", "pinyin": "sī", "definition": "〔委虒〕古书上说的一种似虎有角的兽。", "words":[], "sentences":[]}
 {"seq": 7024, "word": "舭", "pinyin": "bǐ", "definition": "⒈ 古书上说的一种船名。⒉ 船底和船侧间的弯曲部分，起平衡稳定作用。", "words":[], "sentences":[]}
-{"seq": 7025, "word": "舯", "pinyin": "zhōng", "definition": "从舟、中声。舟之中是舯之范式。本义：船体长度的中点。民用船常指"垂线间长"的中点，军用船常指"载重水线长"的中点。衍义：船体长度的中部。", "words":[], "sentences":[]}
+{"seq": 7025, "word": "舯", "pinyin": "zhōng", "definition": "从舟、中声。舟之中是舯之范式。本义：船体长度的中点。民用船常指'垂线间长'的中点，军用船常指'载重水线长'的中点。衍义：船体长度的中部。", "words":[], "sentences":[]}
 {"seq": 7026, "word": "舥", "pinyin": "pā", "definition": "⒈ 舥脚船。⒉ 浮桥。", "words":[], "sentences":[]}
 {"seq": 7027, "word": "瓞", "pinyin": "dié", "definition": "小瓜", "words":[ "瓜瓞", "瓞绵"], "sentences":[ "这个瓜好小啊，像个瓞。", "这个瓜瓞绵绵，很好吃。" ] }
 {"seq": 7028, "word": "鬯", "pinyin": "chàng", "definition": "古代祭祀用的一种香酒。用郁金草和黑黍酿成。", "words":["秬鬯", "不丧匕鬯", "匕鬯", "鬯酒", "主鬯", "条鬯", "鬯茂", "鬯草", "鬯遂"], "sentences":["在古代，鬯是祭祀中常用的一种香酒。", "每年农历七月初七是中国传统节日七夕，人们会向牛郎织女祭拜，献上鬯水和鲜花。"]}
 {"seq": 7029, "word": "鸰", "pinyin": "líng", "definition": "鸟名。", "words": ["鹡鸰", "鹡鸰科", "脊鸰", "鸰原", "鹘鸰", "鹡鸰原", "鹡鸰在原", "鹘鸰眼", "原鸰"], "sentences": ["这只鸰的羽毛看起来非常美丽。", "在春天，鸰常常在枝头唱歌。"]}
 {"seq": 7030, "word": "脎", "pinyin": "sà", "definition": "有机化合物的一类。由同一个分子内的两个羰基和两个分子的苯肼缩水而成。","words":[],"sentences":[]}
-{"seq": 7031, "word": "朓", "pinyin": "tiǎo", "definition": "指农历月底月亮在西方出现。","words":["谢朓楼"],"sentences":["今晚月亮很大，而且是朓月。","古人常用"朓"来形容月光明亮的夜晚。"]}
+{"seq": 7031, "word": "朓", "pinyin": "tiǎo", "definition": "指农历月底月亮在西方出现。","words":["谢朓楼"],"sentences":["今晚月亮很大，而且是朓月。","古人常用'朓'来形容月光明亮的夜晚。"]}
 {"seq": 7032, "word": "胲", "pinyin": "gǎi; hǎi", "definition": "1.颊上的肌肉。2.有机化合物的一类。含有氮元素及羟基。可用于有机分析试剂。也叫羟胺。","words":["胲颊","膍胲"],"sentences":["小明的胲颊很发达。","这种有机化合物的胲基团含有氮和氧原子。"]}
-{"seq": 7033, "word": "虓", "pinyin": "xiāo", "definition": "虎吼。","words":["虓虎","虓将"],"sentences":["虓虎的吼声震耳欲聋。",""虓将"指的是威武勇猛的将领。"]}
+{"seq": 7033, "word": "虓", "pinyin": "xiāo", "definition": "虎吼。","words":["虓虎","虓将"],"sentences":["虓虎的吼声震耳欲聋。","'虓将'指的是威武勇猛的将领。"]}
 {"seq": 7034, "word": "鱽", "pinyin": "dāo", "definition": "1.形状像刀的鱼。2.带鱼的别称。","words":["鳅鱽","鳞鱽"],"sentences":["这种鱼的形状很像一把刀，因此叫做鱽。","他去市场买了些鱼，其中就包括了一条大鱼鱽。"]}
 {"seq": 7035, "word": "狴", "pinyin": "bì", "definition": "传说中的猛兽，形状像狮子。","words":["狴犴"],"sentences":["传说中狴是一种很凶猛的野兽。","这座城门两侧的石狮子造型古朴，形似狴犴。"]}
 {"seq": 7036, "word": "峱", "pinyin": "náo", "definition": "古山名。在今山东临淄一带。","words":["峱山"],"sentences":["这座山在古代被称为峱山。","他徒步穿越峱山，感受到了大自然的美妙。"]}
@@ -557,7 +556,8 @@
 {"seq": 7057, "word": "浬", "pinyin": "lǐ", "definition": "长度单位，国际海上使用的单位之一，1海里相当于1.852千米。"}
 {"seq": 7058, "word": "涄", "pinyin": "pīn", "definition": "形容水中草木随波漂流。"}
 {"seq": 7059, "word": "涢", "pinyin": "yún", "definition": "形容水流湍急。"}
-{"seq": 7060, "word": "涐", "pinyin": "é", "definition": "波纹。"} {"seq": 7061, "word": "浰", "pinyin": "là", "definition": "浑浊的水", "words":[], "sentences":[ "河里的水非常浰，不能直接饮用。" ] }
+{"seq": 7060, "word": "涐", "pinyin": "é", "definition": "波纹。"}
+{"seq": 7061, "word": "浰", "pinyin": "là", "definition": "浑浊的水", "words":[], "sentences":[ "河里的水非常浰，不能直接饮用。" ] }
 {"seq": 7062, "word": "浟", "pinyin": "yóu", "definition": "淤泥", "words":[], "sentences":[ "河底淤积了很多浟，需要清理。" ] }
 {"seq": 7063, "word": "浛", "pinyin": "hán", "definition": "水深", "words":[], "sentences":[ "这里的河水浛得只有小孩子才能游泳。" ] }
 {"seq": 7064, "word": "浼", "pinyin": "měi", "definition": "水的表面", "words":[], "sentences":[ "水的浼上漂着几朵白云。" ] }
@@ -599,7 +599,7 @@
 {"seq": 7100, "word": "珸", "pinyin": "wú", "definition": "一种肚脐上的穴位。", "words":[], "sentences":[ "按摩珸穴可以缓解腰痛。" ] }
 {"seq": 7101, "word": "珵", "pinyin": "chéng", "definition": "美玉。", "words":[ "美玉" ], "sentences":[ "这些珠宝展出厅里展示的珍贵的珵玉，引起了我的注意。" ] }
 {"seq": 7102, "word": "琄", "pinyin": "xuàn", "definition": "佩玉。", "words":[ "佩玉" ], "sentences":[ "她那条用上好的琄玉作的玉佩，让人看了也不禁多看几眼。" ] }
-{"seq": 7103, "word": "琈", "pinyin": "fú/fū", "definition": "1.〔㻬（tū）琈〕一种玉。2.〔琈笋〕玉的色彩。古同"璷"，玉名。", "words":[ "璷", "玉" ], "sentences":[ "他收藏了许多珍奇古玩包括琈玉和璷玉。", "这块黑玉的琢磨技巧很高超，琈笋般的色泽非常美丽。"] }
+{"seq": 7103, "word": "琈", "pinyin": "fú/fū", "definition": "1.〔㻬（tū）琈〕一种玉。2.〔琈笋〕玉的色彩。古同'璷'，玉名。", "words":[ "璷", "玉" ], "sentences":[ "他收藏了许多珍奇古玩包括琈玉和璷玉。", "这块黑玉的琢磨技巧很高超，琈笋般的色泽非常美丽。"] }
 {"seq": 7104, "word": "琀", "pinyin": "hán", "definition": "古代放在死者口中的玉。", "words":[ "琀玉" ], "sentences":[ "在一些古墓出土的文物中，曾经发现过琀玉的制品。"] }
 {"seq": 7105, "word": "珺", "pinyin": "jùn", "definition": "美玉的一种。", "words":[ "美玉" ], "sentences":[ "那是一枚绿色珺璋，有着极高的透明度，非常罕见。"] }
 {"seq": 7106, "word": "掭", "pinyin": "tiàn", "definition": "1.拨动。2.用毛笔蘸墨汁。", "words":[ "拨动", "毛笔", "墨汁" ], "sentences":[ "她细心地掭起一把灰尘，然后平静地继续工作。", "他轻轻掭起毛笔，开始写他的字。"] }
@@ -652,7 +652,7 @@
 {"seq": 7153, "word": "龁", "pinyin": "hé", "definition": "牙齿的一部分，是用来咬东西的", "words": [], "sentences": ["我的牙齿被异物卡住了，咬合不紧。"]}
 {"seq": 7154, "word": "逴", "pinyin": "chuō", "definition": "跳；腾跃。超越；超出。远行。惊动。", "words":["跳","腾跃","超越","超出","远行","惊动"], "sentences":["他在园子里逴了一会儿。","江水逴过了城市的南端。","这个小球的弹跳力很强，可以逴到很高的地方。"]}
 {"seq": 7155, "word": "唪", "pinyin": "fěng", "definition": "大声吟诵。", "words":["大声","吟诵"], "sentences":["他在唪经时声音很洪亮。"]}
-{"seq": 7156, "word": "啫", "pinyin": "zhě; shì", "definition": "（1）一种食品，果子冻。（2）语气词，表示肯定、劝告。古同'嗜'。", "words":["果子冻","语气词","肯定","劝告","嗜"], "sentences":["我在超市买了一份啫喱。","她对我的计划说："啫，你可以试试看！"","他曾经啫过鸡血。"]}
+{"seq": 7156, "word": "啫", "pinyin": "zhě; shì", "definition": "（1）一种食品，果子冻。（2）语气词，表示肯定、劝告。古同'嗜'。", "words":["果子冻","语气词","肯定","劝告","嗜"], "sentences":["我在超市买了一份啫喱。","她对我的计划说：'啫，你可以试试看！'","他曾经啫过鸡血。"]}
 {"seq": 7157, "word": "翈", "pinyin": "xiá", "definition": "鸟羽的组成部分，由羽干两侧许多斜行而平列的羽枝连合而成。", "words":["羽枝","羽干","组成部分"],"sentences":["在许多鸟羽中，蓝鹊的翈非常美丽。","这种鸟的翅膀用了大量的翈来形成。"]}
 {"seq": 7158, "word": "㫰", "pinyin": "làng", "definition": "晒。把东西放在通风或阴凉的地方使其干燥。", "words":["晒","干燥"], "sentences":["我把衣服晒在阳台上的㫰架上。","这种方法可以帮助净化和㫰制衣服。"]}
 {"seq": 7159, "word": "晙", "pinyin": "jùn", "definition": "光明。", "words":["光明"], "sentences":["新晨的晙光万丈，洒落在田野之上。"]}
@@ -1037,7 +1037,6 @@
 {"seq": 7538, "word": "稑","pinyin": "lù", "definition": "一种农作物。","words":["农作物"],"sentences":["稑作为一种饲料作物，可以为畜牧业提供丰富的营养。"]}
 {"seq": 7539, "word": "稙","pinyin": "zhì", "definition": "1. 稍微。2.多。3.尽。4.整齐。","words":["稍微", "多", "尽", "整齐"],"sentences":["他的表情稍微有些沮丧，但很快又振作了起来。","你这个人太稙了，每次都要点那么多菜。","希望你们能稙尽自己所能，把这个项目做得很出色。","这个图案非常稙，线条流畅，非常整齐。"]}
 {"seq": 7540, "word": "䅟","pinyin": "bèi", "definition": "一种古代乐器。","words":["古代乐器"],"sentences":["䅟是一种由竹子、羽毛等材料制作的乐器，传统上在宫廷和庙宇中演奏。"]}
-{"seq": 7541, "word": "逄","pinyin": "páng", "definition": "。现代汉语中已经不再使用该字。","words":[],"sentences":[]}
 {"seq": 7542, "word": "筻","pinyin": "gàng", "definition": "。指捕鱼用的一种器具。","words":["捕鱼工具"],"sentences":["他用筻子在池塘里捕鱼。","我曾经试过用筻子抓海蟹，但最后还是把螃蟹放回大海了。"]}
 {"seq": 7543, "word": "筼","pinyin": "yún", "definition": "。指用葵木制成的一种容器。","words":["葵木容器"],"sentences":["她在老房子里找到了一个筼子，里面装着她祖母留下的小物件。","这个筼子非常精致，上面刻着许多细致的花纹。"]}
 {"seq": 7544, "word": "筶","pinyin": "gāo", "definition": "。现代汉语中已经不再使用该字。","words":[],"sentences":[]}
@@ -1101,7 +1100,7 @@
 {"seq": 7602, "word": "𫌀", "pinyin": "jī", "definition": "（1）（名词）（书面语）衣服的褶儿。", "words":[], "sentences":["这件旗袍的𫌀非常整齐，看起来非常有质感。"]}
 {"seq": 7603, "word": "裼", "pinyin": "tì", "definition": "1.包婴儿的被子。","words":["裼衣","裼裘","裸裼","裼袭"],"sentences":["医生将刚刚出生的婴儿裹在一条柔软的裼子里，以保持温暖。"]}
 {"seq": 7604, "word": "禋", "pinyin": "yīn", "definition": "1.祭名。把牺牲、玉帛放在柴上焚烧，使烟气上达于天以致精诚。2.泛指虔诚的祭祀。","words":["禋祀","明禋","肇禋","禋礼","严禋","禋享","郊禋","类禋"],"sentences":["每到祭祀的时候，地方官员都会行禋礼，以示对祖先和历代先贤的敬意。","在古代，重要的仪式需要进行郊禋，规模非常盛大。"]}
-{"seq": 7605, "word": "禔", "pinyin": "zhī / zhǐ / tí", "definition": "禔，汉语三级字，读作禔（zhī、zhǐ或tí），有三种读音，意为安宁，幸福；意为安享，福时可读tí；古通"祇"，意为恰好时可读 zhǐ。", "words":[], "sentences":["禔字读音多样，随语境和使用对象不同而异。"]}
+{"seq": 7605, "word": "禔", "pinyin": "zhī / zhǐ / tí", "definition": "禔，汉语三级字，读作禔（zhī、zhǐ或tí），有三种读音，意为安宁，幸福；意为安享，福时可读tí；古通'祇'，意为恰好时可读 zhǐ。", "words":[], "sentences":["禔字读音多样，随语境和使用对象不同而异。"]}
 {"seq": 7606, "word": "禘", "pinyin": "dì", "definition": "1.古代帝王诸侯祭天祭祖的典礼。", "words":["禘祫","禘礼","禘祭","吉禘","郊禘","祫禘","飨禘"],"sentences":["禘是古代中华先民为祭祀天地和祖先而设立的一种重大典礼。","历史上，禘始于商代，盛行于周、汉、唐等朝代。"]}
 {"seq": 7607, "word": "禒", "pinyin": "xiǎn", "definition": "1.祭祀剩下的肉。","words":[],"sentences":["在祭祀的时候，不允许剩下任何祭品，所以禒成了祭祀中的重要环节。"]}
 {"seq": 7608, "word": "谫", "pinyin": "jiǎn", "definition": "1.浅薄。", "words":["谫陋","谫识","谫谫屑屑","谫劣","谫愚","谫微"], "sentences":["他的见解非常谫陋，对问题没有什么深刻的理解。","你不能仅仅凭借一点谫识就去判断一个人的全部。"]}
@@ -1308,10 +1307,6 @@
 {"seq": 7809, "word": "潵", "pinyin": "sàn/sǎ", "definition": "水散开。古水名。在今河北迁安县境内。其北尚有地名潵河桥。散落，洒。", "words":[ ], "sentences":[ ] }
 {"seq": 7810, "word": "㵐", "pinyin": "jué", "definition": "", "words":[ ], "sentences":[ ] }
 {"seq": 7811, "word": "鹣", "pinyin": "jiān", "definition": "古代传说中的比翼鸟。也可以用来比喻夫妻恩爱，例如‘鹣鲽’或‘鹣鹣鲽鲽’。", "words":[ ], "sentences":[ ] } 
-{"seq": 7812, "word": "熛", "pinyin": "biāo", "definition": "飞迸的火焰、燃烧、闪光或疾速。", "words":[ ], "sentences":[ ] } 
-{"seq": 7813, "word": "潖", "pinyin": "pá", "definition": "潖江，这是一个水名，在中国广东省。", "words":[ ], "sentences":[ ] } 
-{"seq": 7814, "word": "潵", "pinyin": ["sàn","sǎ"], "definition": ["水散开。","潵河，这是一个水名，在中国河北省。古通‘撒’，意为散布或散落。"], "words":[ ], "sentences":[ ] } 
-{"seq": 7815, "word": "㵐", "pinyin": "", "definition": "", "words":[ ], "sentences":[ ] }
 {"seq": 7816, "word": "澂", "pinyin": "chéng", "definition": "澄清。它与「澄」同义。", "words":[ ], "sentences":[ ] } 
 {"seq": 7817, "word": "澛", "pinyin": "", "definition": "", "words":[ ], "sentences":[ ] } 
 {"seq": 7818, "word": "瑬", "pinyin": "liú", "definition": "古同‘旒’，指古代帝王冠冕前后下垂的玉串。它也可以指旗子上下垂的饰物，例如‘旗九瑬。’此外，它也可以指美金。", "words":[ ], "sentences":[ ] } 
@@ -1341,35 +1336,35 @@
 {"seq": 7842, "word": "蕗", "pinyin": "lù", "definition": "古书上说的一种香草。", "words":[ ], "sentences":[ ] } 
 {"seq": 7843, "word": "薢", "pinyin": "xiè", "definition": "一种植物，即‘菱’。", "words":[ ], "sentences":[ ] } 
 {"seq": 7844, "word": "蕹", "pinyin": "wèng", "definition": "一年生草本植物，茎蔓生，中空，叶子长圆或心脏形，叶柄长，嫩茎、叶可做蔬菜。俗称‘空心菜’。", "words":[ ], "sentences":[ ] } 
-{"seq": 7845, "word": "橞", "pinyin": "huì", "definition": "一种落叶乔木，叶子卵形，花白色，果实为坚果，木材坚硬耐用。", "words":[ "橞木" ], "sentences":[ ] }1
-{"seq": 7846, "word": "橑", "pinyin": "lǎo", "definition": "(1)一种落叶乔木，叶子卵形或椭圆形，花黄绿色，果实为坚果，核有纵沟。(2)姓。", "words":[ "(1)橑树 (2)橑氏" ], "sentences":[ ] }2
-{"seq": 7847, "word": "橦", "pinyin": "(1)tóng (2)chōng", "definition": "(1)一种落叶乔木，叶子卵形或长圆形，花黄绿色，果实为坚果，核有纵沟。(2)一种落叶乔木，叶子卵形或长圆形，花黄绿色，果实为坚果，核有纵沟。", "words":[ "(1)橦树 (2)橦树" ], "sentences":[ ] }3
-{"seq": 7848, "word": "醑", "pinyin": "(1)xǔ (2)xū", "definition": "(1)酒的渣滓。(2)酒的香气。", "words":[ "(1)醑酒 (2)醑香" ], "sentences":[ ] }4
+{"seq": 7845, "word": "橞", "pinyin": "huì", "definition": "一种落叶乔木，叶子卵形，花白色，果实为坚果，木材坚硬耐用。", "words":[ "橞木" ], "sentences":[ ] }
+{"seq": 7846, "word": "橑", "pinyin": "lǎo", "definition": "(1)一种落叶乔木，叶子卵形或椭圆形，花黄绿色，果实为坚果，核有纵沟。(2)姓。", "words":[ "(1)橑树 (2)橑氏" ], "sentences":[ ] }
+{"seq": 7847, "word": "橦", "pinyin": "(1)tóng (2)chōng", "definition": "(1)一种落叶乔木，叶子卵形或长圆形，花黄绿色，果实为坚果，核有纵沟。(2)一种落叶乔木，叶子卵形或长圆形，花黄绿色，果实为坚果，核有纵沟。", "words":[ "(1)橦树 (2)橦树" ], "sentences":[ ] }
+{"seq": 7848, "word": "醑", "pinyin": "(1)xǔ (2)xū", "definition": "(1)酒的渣滓。(2)酒的香气。", "words":[ "(1)醑酒 (2)醑香" ], "sentences":[ ] }
 {"seq": 7849, "word": "觱", "pinyin": "(1)bì (2)bēi", "definition": "(1)一种打击乐器，用竹子制成。(2)一种打击乐器，用竹子制成。", "words":[ "(1)觱篥 (2)觱篥" ], "sentences":[ ] }
 {"seq": 7850, "word": "磡", "pinyin": "(1)dàn (2)kàn", "definition": "(1)石头的缝隙。(2)石头的缝隙。", "words":[ "(1)磡石 (2)磡石" ], "sentences":[ ] }
 {"seq": 7851, "word": "𥕢", "pinyin": "(1)mí (2)méi", "definition": "(1)一种多年生草本植物，花紫红色，果实为蒴果。(2)一种多年生草本植物，花白色或粉红色，果实为核果。", "words":[ "(1)𥕢芜 (2)𥕢露" ], "sentences":[ ] }
-{"seq": 7852, "word": "磜", "pinyin": "qì", "definition": "一种石头，有光泽，可做墨台。", "words":[ "磜石" ], "sentences":[ ] }1
-{"seq": 7853, "word": "豮", "pinyin": "fén", "definition": "(1)一种野猪。(2)姓。", "words":[ "(1)豮猪 (2)豮氏" ], "sentences":[ ] }1
-{"seq": 7854, "word": "𫟦", "pinyin": "suì", "definition": "(1)一种鸟，形似鹤，羽毛黑白相间。(2)一种草本植物，叶子有香气，可入药。", "words":[ "(1)𫟦鹤 (2)𫟦草" ], "sentences":[ ] }1
-{"seq": 7855, "word": "𬺈", "pinyin": "yǐ", "definition": "(1)一种鸟，形似鹊，羽毛黑白相间。(2)一种草本植物，叶子有香气，可入药。", "words":[ "(1)𬺈鹊 (2)𬺈草" ], "sentences":[ ] }1
-{"seq": 7856, "word": "𫠜", "pinyin": "ní", "definition": "(1)一种鸟，形似鹊，羽毛黑白相间。(2)一种草本植物，叶子有香气，可入药。", "words":[ "(1)𫠜鹊 (2)𫠜草" ], "sentences":[ ] }1
-{"seq": 7857, "word": "鹾", "pinyin": "cuó", "definition": "(1)盐的古称。(2)姓。", "words":[ "(1)鹾水 (2)鹾氏" ], "sentences":[ ] }2
-{"seq": 7858, "word": "虤", "pinyin": "yán", "definition": "(1)一种蛇，形似蟒，有角。(2)一种蛇，形似蟒，有角。", "words":[ "(1)虤蛇 (2)虤蛇" ], "sentences":[ ] }3
+{"seq": 7852, "word": "磜", "pinyin": "qì", "definition": "一种石头，有光泽，可做墨台。", "words":[ "磜石" ], "sentences":[ ] }
+{"seq": 7853, "word": "豮", "pinyin": "fén", "definition": "(1)一种野猪。(2)姓。", "words":[ "(1)豮猪 (2)豮氏" ], "sentences":[ ] }
+{"seq": 7854, "word": "𫟦", "pinyin": "suì", "definition": "(1)一种鸟，形似鹤，羽毛黑白相间。(2)一种草本植物，叶子有香气，可入药。", "words":[ "(1)𫟦鹤 (2)𫟦草" ], "sentences":[ ] }
+{"seq": 7855, "word": "𬺈", "pinyin": "yǐ", "definition": "(1)一种鸟，形似鹊，羽毛黑白相间。(2)一种草本植物，叶子有香气，可入药。", "words":[ "(1)𬺈鹊 (2)𬺈草" ], "sentences":[ ] }
+{"seq": 7856, "word": "𫠜", "pinyin": "ní", "definition": "(1)一种鸟，形似鹊，羽毛黑白相间。(2)一种草本植物，叶子有香气，可入药。", "words":[ "(1)𫠜鹊 (2)𫠜草" ], "sentences":[ ] }
+{"seq": 7857, "word": "鹾", "pinyin": "cuó", "definition": "(1)盐的古称。(2)姓。", "words":[ "(1)鹾水 (2)鹾氏" ], "sentences":[ ] }
+{"seq": 7858, "word": "虤", "pinyin": "yán", "definition": "(1)一种蛇，形似蟒，有角。(2)一种蛇，形似蟒，有角。", "words":[ "(1)虤蛇 (2)虤蛇" ], "sentences":[ ] }
 {"seq": 7859, "word": "暿", "pinyin": "xī", "definition": "(1)日光强烈。(2)日光强烈的样子。", "words": ["(1)暿暄", "(2)暿暄"], "sentences": []}
 {"seq": 7860, "word": "曌", "pinyin": "zhào", "definition": "(1)日光明亮。(2)日光明亮的样子。", "words": ["(1)曌晁", "(2)曌晁"], "sentences": []}
-{"seq": 7861, "word": "曈", "pinyin": "tóng", "definition": "(1)日光明亮。(2)日光明亮的样子。", "words":[ "(1)曈晁 (2)曈晁" ], "sentences":[ ] }1
-{"seq": 7862, "word": "㬚", "pinyin": "chè", "definition": "(1)日光强烈。(2)日光强烈的样子。", "words":[ "(1)㬚暄 (2)㬚暄" ], "sentences":[ ] }1
-{"seq": 7863, "word": "蹅", "pinyin": "chǎ", "definition": "(1)踩踏。(2)一种跳舞的姿势。", "words":[ "(1)蹅踏 (2)蹅跳" ], "sentences":[ ] }2
-{"seq": 7864, "word": "踶", "pinyin": "dì", "definition": "(1)脚后跟。(2)用脚后跟踢。", "words":[ "(1)踶跟 (2)踶踢" ], "sentences":[ ] }2
-{"seq": 7865, "word": "䗛", "pinyin": "xiū", "definition": "(1)一种昆虫，形似蝉，有角。(2)一种昆虫，形似蝉，有角。", "words": ["(1)䗛虫", "(2)䗛虫"], "sentences": []}3
-{"seq": 7866, "word": "螗", "pinyin": "táng", "definition": "(1)一种昆虫，形似蝉，有角。(2)一种昆虫，形似蝉，有角。", "words":[ "(1)螗虫 (2)螗虫" ], "sentences":[ ] }1
-{"seq": 7867, "word": "疁", "pinyin": "liú", "definition": "(1)一种皮肤病，生疮疖。(2)一种皮肤病，生疮疖。", "words":[ "(1)疁疮 (2)疁疮" ], "sentences":[ ] }2
-{"seq": 7868, "word": "㠓", "pinyin": "méng", "definition": "(1)一种草本植物，叶子有香气，可入药。(2)一种草本植物，叶子有香气，可入药。", "words":[ "(1)㠓草 (2)㠓草" ], "sentences":[ ] }3
+{"seq": 7861, "word": "曈", "pinyin": "tóng", "definition": "(1)日光明亮。(2)日光明亮的样子。", "words":[ "(1)曈晁 (2)曈晁" ], "sentences":[ ] }
+{"seq": 7862, "word": "㬚", "pinyin": "chè", "definition": "(1)日光强烈。(2)日光强烈的样子。", "words":[ "(1)㬚暄 (2)㬚暄" ], "sentences":[ ] }
+{"seq": 7863, "word": "蹅", "pinyin": "chǎ", "definition": "(1)踩踏。(2)一种跳舞的姿势。", "words":[ "(1)蹅踏 (2)蹅跳" ], "sentences":[ ] }
+{"seq": 7864, "word": "踶", "pinyin": "dì", "definition": "(1)脚后跟。(2)用脚后跟踢。", "words":[ "(1)踶跟 (2)踶踢" ], "sentences":[ ] }
+{"seq": 7865, "word": "䗛", "pinyin": "xiū", "definition": "(1)一种昆虫，形似蝉，有角。(2)一种昆虫，形似蝉，有角。", "words": ["(1)䗛虫", "(2)䗛虫"], "sentences": []}
+{"seq": 7866, "word": "螗", "pinyin": "táng", "definition": "(1)一种昆虫，形似蝉，有角。(2)一种昆虫，形似蝉，有角。", "words":[ "(1)螗虫 (2)螗虫" ], "sentences":[ ] }
+{"seq": 7867, "word": "疁", "pinyin": "liú", "definition": "(1)一种皮肤病，生疮疖。(2)一种皮肤病，生疮疖。", "words":[ "(1)疁疮 (2)疁疮" ], "sentences":[ ] }
+{"seq": 7868, "word": "㠓", "pinyin": "méng", "definition": "(1)一种草本植物，叶子有香气，可入药。(2)一种草本植物，叶子有香气，可入药。", "words":[ "(1)㠓草 (2)㠓草" ], "sentences":[ ] }
 {"seq": 7869, "word": "幪", "pinyin": "méng", "definition": "(1)覆盖的东西。(2)茂盛的样子。", "words":[ "(1)帲幪 (2)幪幪" ], "sentences":[ ] }
 {"seq": 7870, "word": "𪩘", "pinyin": "yǎn", "definition": "(1)一种鸟，形似鹊，羽毛黑白相间。(2)一种鸟，形似鹊，羽毛黑白相间。", "words": ["(1)𪩘鹊", "(2)𪩘鹊"], "sentences": []}
-{"seq": 7871, "word": "嶦", "pinyin": "zhān", "definition": "(1)山峰高峻的样子。(2)山峰高峻的样子。", "words":[ "(1)嶦嶦 (2)嶦嶦" ], "sentences":[ ] }1
-{"seq": 7872, "word": "𬭬", "pinyin": "yǒng", "definition": "(1)一种打击乐器，形似钟，有柄。(2)一种打击乐器，形似钟，有柄。", "words":[ "(1)𬭬钟 (2)𬭬钟" ], "sentences":[ ] }2
-{"seq": 7873, "word": "𨱑", "pinyin": "fú", "definition": "(1)一种古代的钱币。(2)一种古代的钱币。", "words":[ "(1)𨱑钱 (2)𨱑钱" ], "sentences":[ ] }3
+{"seq": 7871, "word": "嶦", "pinyin": "zhān", "definition": "(1)山峰高峻的样子。(2)山峰高峻的样子。", "words":[ "(1)嶦嶦 (2)嶦嶦" ], "sentences":[ ] }
+{"seq": 7872, "word": "𬭬", "pinyin": "yǒng", "definition": "(1)一种打击乐器，形似钟，有柄。(2)一种打击乐器，形似钟，有柄。", "words":[ "(1)𬭬钟 (2)𬭬钟" ], "sentences":[ ] }
+{"seq": 7873, "word": "𨱑", "pinyin": "fú", "definition": "(1)一种古代的钱币。(2)一种古代的钱币。", "words":[ "(1)𨱑钱 (2)𨱑钱" ], "sentences":[ ] }
 {"seq": 7874, "word": "𬭯", "pinyin": "yǎn", "definition": "(1)一种鸟，形似鹊，羽毛黑白相间。(2)一种鸟，形似鹊，羽毛黑白相间。", "words":[ "(1)𬭯鹊 (2)𬭯鹊" ], "sentences":[ ] }
 {"seq": 7875, "word": "馞", "pinyin": "bó", "definition": "(1)一种食物，用米和肉做成。(2)一种食物，用米和肉做成。", "words": ["(1)馞饽", "(2)馞饽"], "sentences": []}
 {"seq": 7876, "word": "穄", "pinyin": "jì", "definition": "一种谷物，即粳性黍", "words":[ ], "sentences":[ ] }
@@ -1454,7 +1449,7 @@
 {"seq": 7955, "word": "魋", "pinyin": "魋是一个异体字1，和'魍'同音同义。", "definition": "", "words":[ ], "sentences":[ ] }
 {"seq": 7956, "word": "斶", "pinyin": "chù", "definition": "一种古代的刑具，用来刺穿罪犯的手脚。", "words": ["斶刑"], "sentences": ["他因为谋反被处以斶刑。"] }
 {"seq": 7957, "word": "艚", "pinyin": "cáo", "definition": "一种大型的木船，有两层甲板，用来运输货物或人员。", "words": ["艚船"], "sentences": ["他们乘坐艚船前往海外。"] }
-{"seq": 7958, "word": "𬸪", "pinyin": "𬸪**是一个异体字2，和'艚'同音同义。", "definition": "", "words"[ ]: [], "sentences"[ ]: [] }
+{"seq": 7958, "word": "𬸪", "pinyin": "𬸪**是一个异体字2，和'艚'同音同义。", "definition": "", "words": [], "sentences": [] }
 {"seq": 7959, "word": "谿", "pinyin": "xī", "definition": "山间的小溪，也指山谷。", "words":["谿水","谿谷"], "sentences":["山中有清澈的谿水流过。","他们沿着谿谷前行。"] }
 {"seq": 7960, "word": "䲠", "pinyin": "nián", "definition": "一种鱼类，形似鲇鱼，有须，肉可食。","words":["䲠鱼"], "sentences":["他们捕到了一条大䲠鱼。"]}
 {"seq": 7961, "word": "𬶟", "pinyin": "", "definition": "", "words":[ ], "sentences":[  ] }
@@ -1582,23 +1577,23 @@
 {"seq": 8083, "word": "鳡", "pinyin": "gǎn", "definition": "(1)一种淡水鱼，体侧扁，头小口小，背部暗绿色，腹部银白色。(2)古代一种水禽，外形像雁。", "words":[ "(1)鳡鱼 (2)鳡雁" ], "sentences":[ ] }
 {"seq": 8084, "word": "鳣", "pinyin": "(1)zhān (2)shàn", "definition": "(1)一种海鱼，体长约一米，头大口阔，牙齿锋利，背部黑蓝色，腹部银白色。(2)一种淡水鱼，体侧扁，头小口小，背部暗绿色，腹部银白色。", "words":[ "(1)鳣鱼 (2)鳣条" ], "sentences":[ ] }
 {"seq": 8085, "word": "爟", "pinyin": "(1)guàn (2)huǒ", "definition": "(1)古代一种火器。(2)火的别称。", "words":[ "(1)爟炮 (2)爟燄" ], "sentences":[ ] }
-{"seq": 8086, "word": "爚", "pinyin": "yuè", "definition": "古代一种火器，用来发射石弹或铁弹", "words":[ "爚炮" ], "sentences":[ ] }1
-{"seq": 8087, "word": "灈", "pinyin": "qú", "definition": "(1)水名，在今湖北省。(2)姓。", "words":[ "(1)灈水 (2)灈氏" ], "sentences":[ ] }2
-{"seq": 8088, "word": "韂", "pinyin": "chàn", "definition": "古代妇女的裙子，有铁片或皮革制成的护膝，用来保护腿部", "words":[ "韂裙" ], "sentences":[ ] }3
+{"seq": 8086, "word": "爚", "pinyin": "yuè", "definition": "古代一种火器，用来发射石弹或铁弹", "words":[ "爚炮" ], "sentences":[ ] }
+{"seq": 8087, "word": "灈", "pinyin": "qú", "definition": "(1)水名，在今湖北省。(2)姓。", "words":[ "(1)灈水 (2)灈氏" ], "sentences":[ ] }
+{"seq": 8088, "word": "韂", "pinyin": "chàn", "definition": "古代妇女的裙子，有铁片或皮革制成的护膝，用来保护腿部", "words":[ "韂裙" ], "sentences":[ ] }
 {"seq": 8089, "word": "糵", "pinyin": "niè", "definition": "(1)用草或竹编成的窝子，用来捕捉鸟兽。(2)用草或竹编成的篱笆。", "words":[ "(1)糵罗 (2)糵篱" ], "sentences":[ ] }
 {"seq": 8090, "word": "蘼", "pinyin": "(1)mí (2)méi", "definition": "(1)一种多年生草本植物，花紫红色，果实为蒴果。(2)一种多年生草本植物，花白色或粉红色，果实为核果。", "words":[ "(1)蘼芜 (2)蘼露" ], "sentences":[ ] }
-{"seq": 8091, "word": "礵", "pinyin": "shuāng", "definition": "古代一种祭祀用的石器，形状像簋，有盖有柄", "words":[ "礵簋" ], "sentences":[ ] }1
-{"seq": 8092, "word": "鹴", "pinyin": "shuāng", "definition": "(1)一种鸟类，形似鹰，头上有羽冠，善飞翔。(2)古代一种兵器，形似鹴头，用铁制成，有刃有柄。", "words":[ "(1)鹴鹴 (2)鹴戟" ], "sentences":[ ] }2
-{"seq": 8093, "word": "躔", "pinyin": "(1)chán (2)chí", "definition": "(1)踏；踩。(2)天体运行的轨道。", "words":[ "(1)躔踏 (2)日月星辰之躔" ], "sentences":[ ] }3
+{"seq": 8091, "word": "礵", "pinyin": "shuāng", "definition": "古代一种祭祀用的石器，形状像簋，有盖有柄", "words":[ "礵簋" ], "sentences":[ ] }
+{"seq": 8092, "word": "鹴", "pinyin": "shuāng", "definition": "(1)一种鸟类，形似鹰，头上有羽冠，善飞翔。(2)古代一种兵器，形似鹴头，用铁制成，有刃有柄。", "words":[ "(1)鹴鹴 (2)鹴戟" ], "sentences":[ ] }
+{"seq": 8093, "word": "躔", "pinyin": "(1)chán (2)chí", "definition": "(1)踏；踩。(2)天体运行的轨道。", "words":[ "(1)躔踏 (2)日月星辰之躔" ], "sentences":[ ] }
 {"seq": 8094, "word": "皭", "pinyin": "jiào", "definition": "洁白；洁净。", "words":[ "志操皭然" ], "sentences":[ ] }
 {"seq": 8095, "word": "龢", "pinyin": "hé", "definition": "(1)和谐；和睦。(2)古代一种乐器，形似笙。", "words":[ "(1)龢和 (2)龢笙" ], "sentences":[ ] }
-{"seq": 8096, "word": "鳤", "pinyin": "guǎn", "definition": "一种鱼类，体侧扁，头大，口小，鳞细，背部灰蓝色，腹部银白色，有黑色斑点。", "words":[ "鳤鱼" ], "sentences":[ ] }1
-{"seq": 8097, "word": "亹", "pinyin": "(1)wěi (2)mén", "definition": "(1)勤勉；努力。(2)古代一种乐器。", "words":[ "(1)亹亹 (2)亹亹" ], "sentences":[ ] }2
-{"seq": 8098, "word": "籥", "pinyin": "yuè", "definition": "(1)古代一种管乐器，形似笙，有十八个竹管。(2)古代一种吹奏乐器。", "words":[ "(1)籥笙 (2)籥管" ], "sentences":[ ] }3
+{"seq": 8096, "word": "鳤", "pinyin": "guǎn", "definition": "一种鱼类，体侧扁，头大，口小，鳞细，背部灰蓝色，腹部银白色，有黑色斑点。", "words":[ "鳤鱼" ], "sentences":[ ] }
+{"seq": 8097, "word": "亹", "pinyin": "(1)wěi (2)mén", "definition": "(1)勤勉；努力。(2)古代一种乐器。", "words":[ "(1)亹亹 (2)亹亹" ], "sentences":[ ] }
+{"seq": 8098, "word": "籥", "pinyin": "yuè", "definition": "(1)古代一种管乐器，形似笙，有十八个竹管。(2)古代一种吹奏乐器。", "words":[ "(1)籥笙 (2)籥管" ], "sentences":[ ] }
 {"seq": 8099, "word": "鼷", "pinyin": "xī", "definition": "(1)一种小型啮齿动物，体长约10厘米，尾长约12厘米，毛灰褐色，耳朵大，眼睛圆而突出，四肢短小，善于跳跃和挖洞。(2)比喻目光短浅的人。", "words":[ "(1)鼷鼠 (2)鼷鼠目光" ], "sentences":[ ] }
 {"seq": 8100, "word": "𫚭", "pinyin": "(1)liè (2)là", "definition": "(1)一种鱼类，体侧扁而长，银灰带红色，体侧有十余条黑色横纹，产卵季节色泽鲜艳，故亦称'桃花鱼'。(2)古代一种祭祀用的石器，形状像簋，有盖有柄。", "words":[ "(1)𫚭鱼 (2)𫚭簋" ], "sentences":[ ] }
-{"seq": 8101, "word": "玃", "pinyin": "jué", "definition": "古书上说的一种大猴子", "words":[ "玃父", "玃猱" ], "sentences":[ "狗似玃，玃似母猴，母猴似人。", "蜼玃飞鸓。" ] }1
-{"seq": 8102, "word": "醾", "pinyin": "mí", "definition": "酒渣，酒糟", "words":[ "醾醾", "醾酒" ], "sentences":[ "醾醾如露，其香如兰。", "醾酒不訾，不及池鱼。" ] }2
-{"seq": 8103, "word": "齇", "pinyin": "zhā", "definition": "龟头上的肉瘤", "words":[ ], "sentences":[ ] }3
+{"seq": 8101, "word": "玃", "pinyin": "jué", "definition": "古书上说的一种大猴子", "words":[ "玃父", "玃猱" ], "sentences":[ "狗似玃，玃似母猴，母猴似人。", "蜼玃飞鸓。" ] }
+{"seq": 8102, "word": "醾", "pinyin": "mí", "definition": "酒渣，酒糟", "words":[ "醾醾", "醾酒" ], "sentences":[ "醾醾如露，其香如兰。", "醾酒不訾，不及池鱼。" ] }
+{"seq": 8103, "word": "齇", "pinyin": "zhā", "definition": "龟头上的肉瘤", "words":[ ], "sentences":[ ] }
 {"seq": 8104, "word": "觿", "pinyin": "xī", "definition": "(1)古代一种弓弩。(2)古代一种乐器。", "words":[ ], "sentences":[ ] }
 {"seq": 8105, "word": "蠼", "pinyin": "(1)qú (2)jué", "definition": "(1)昆虫，体扁平狭长，黑褐色，前翅短而硬，后翅大，折在前翅下，有些种类无翅，尾部形状像夹子，多生在潮湿的地方，为害家蚕。(2)通'玃'，母猴。", "words":[ "(1)蠼螋 (2)蠼猱" ], "sentences":[ "(1)蠼螋之类皆能食桑叶。(2)低卬夭\uD86C\uDEB8据以骄骜兮，诎折隆穷蠼以连卷。" ] }

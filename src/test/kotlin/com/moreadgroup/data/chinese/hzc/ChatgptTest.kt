@@ -11,6 +11,8 @@ import org.junit.Test
 import java.io.File
 import java.nio.file.Files
 import java.nio.file.Paths
+import java.util.*
+import kotlin.collections.HashMap
 
 /**
  * @Author conan8chan@yahoo.com
@@ -82,7 +84,7 @@ class ChatgptTest {
             "${destFolder}/汉字应用水平等级丙表1000plus000.jsonl",
             "${destFolder}/汉字应用水平等级乙表500plus000.jsonl",
             "${destFolder}/汉字应用水平等级甲表4000plus000.jsonl",
-            )
+        )
 
         // 读取所有文件并解析为JSON对象列表
         val jsonList = readJsonlFiles(okJsonlFilenames)
@@ -114,6 +116,28 @@ class ChatgptTest {
 
     }
 
+    @Test
+    fun testCheckDuplicatedWordsFromAllWordsFileThenOK() {
+        val okJsonlFilenames = listOf(
+            "${destFolder}/000汉字全量字表解释.jsonl",
+        )
+
+        // 读取所有文件并解析为JSON对象列表
+        val jsonList = readJsonlFiles(okJsonlFilenames)
+
+        var allWords = HashMap<String, String>();
+        // 将JSON对象列表转换为 Person 对象列表
+        val okWords = jsonList.map {
+            val seq = it["seq"]!!.jsonPrimitive.content
+            val word = it["word"]!!.jsonPrimitive.content
+            val existSeq = allWords.get(word)
+            if (Objects.isNull(existSeq)){
+                allWords.put(word,seq)
+            }else{
+                println("\"seq\": ${seq}, \"word\": \"${word}\" duplicated \"seq\": ${existSeq},")
+            }
+        }
+    }
 
     // 遍历文件并解析为JSON对象列表
     fun readJsonlFiles(filenames: List<String>): List<JsonObject> {
@@ -126,4 +150,6 @@ class ChatgptTest {
         }
         return jsonList
     }
+
+
 }

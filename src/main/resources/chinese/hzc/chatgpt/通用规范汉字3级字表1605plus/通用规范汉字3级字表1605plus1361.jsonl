@@ -1,16 +1,16 @@
-{"seq": 7861, "word": "曈", "pinyin": "tóng", "definition": "(1)日光明亮。(2)日光明亮的样子。", "words":[ "(1)曈晁 (2)曈晁" ], "sentences":[ ] }1
-{"seq": 7862, "word": "㬚", "pinyin": "chè", "definition": "(1)日光强烈。(2)日光强烈的样子。", "words":[ "(1)㬚暄 (2)㬚暄" ], "sentences":[ ] }1
-{"seq": 7863, "word": "蹅", "pinyin": "chǎ", "definition": "(1)踩踏。(2)一种跳舞的姿势。", "words":[ "(1)蹅踏 (2)蹅跳" ], "sentences":[ ] }2
-{"seq": 7864, "word": "踶", "pinyin": "dì", "definition": "(1)脚后跟。(2)用脚后跟踢。", "words":[ "(1)踶跟 (2)踶踢" ], "sentences":[ ] }2
-{"seq": 7865, "word": "䗛", "pinyin": "xiū", "definition": "(1)一种昆虫，形似蝉，有角。(2)一种昆虫，形似蝉，有角。", "words": ["(1)䗛虫", "(2)䗛虫"], "sentences": []}3
-{"seq": 7866, "word": "螗", "pinyin": "táng", "definition": "(1)一种昆虫，形似蝉，有角。(2)一种昆虫，形似蝉，有角。", "words":[ "(1)螗虫 (2)螗虫" ], "sentences":[ ] }1
-{"seq": 7867, "word": "疁", "pinyin": "liú", "definition": "(1)一种皮肤病，生疮疖。(2)一种皮肤病，生疮疖。", "words":[ "(1)疁疮 (2)疁疮" ], "sentences":[ ] }2
-{"seq": 7868, "word": "㠓", "pinyin": "méng", "definition": "(1)一种草本植物，叶子有香气，可入药。(2)一种草本植物，叶子有香气，可入药。", "words":[ "(1)㠓草 (2)㠓草" ], "sentences":[ ] }3
+{"seq": 7861, "word": "曈", "pinyin": "tóng", "definition": "(1)日光明亮。(2)日光明亮的样子。", "words":[ "(1)曈晁 (2)曈晁" ], "sentences":[ ] }
+{"seq": 7862, "word": "㬚", "pinyin": "chè", "definition": "(1)日光强烈。(2)日光强烈的样子。", "words":[ "(1)㬚暄 (2)㬚暄" ], "sentences":[ ] }
+{"seq": 7863, "word": "蹅", "pinyin": "chǎ", "definition": "(1)踩踏。(2)一种跳舞的姿势。", "words":[ "(1)蹅踏 (2)蹅跳" ], "sentences":[ ] }
+{"seq": 7864, "word": "踶", "pinyin": "dì", "definition": "(1)脚后跟。(2)用脚后跟踢。", "words":[ "(1)踶跟 (2)踶踢" ], "sentences":[ ] }
+{"seq": 7865, "word": "䗛", "pinyin": "xiū", "definition": "(1)一种昆虫，形似蝉，有角。(2)一种昆虫，形似蝉，有角。", "words": ["(1)䗛虫", "(2)䗛虫"], "sentences": []}
+{"seq": 7866, "word": "螗", "pinyin": "táng", "definition": "(1)一种昆虫，形似蝉，有角。(2)一种昆虫，形似蝉，有角。", "words":[ "(1)螗虫 (2)螗虫" ], "sentences":[ ] }
+{"seq": 7867, "word": "疁", "pinyin": "liú", "definition": "(1)一种皮肤病，生疮疖。(2)一种皮肤病，生疮疖。", "words":[ "(1)疁疮 (2)疁疮" ], "sentences":[ ] }
+{"seq": 7868, "word": "㠓", "pinyin": "méng", "definition": "(1)一种草本植物，叶子有香气，可入药。(2)一种草本植物，叶子有香气，可入药。", "words":[ "(1)㠓草 (2)㠓草" ], "sentences":[ ] }
 {"seq": 7869, "word": "幪", "pinyin": "méng", "definition": "(1)覆盖的东西。(2)茂盛的样子。", "words":[ "(1)帲幪 (2)幪幪" ], "sentences":[ ] }
 {"seq": 7870, "word": "𪩘", "pinyin": "yǎn", "definition": "(1)一种鸟，形似鹊，羽毛黑白相间。(2)一种鸟，形似鹊，羽毛黑白相间。", "words": ["(1)𪩘鹊", "(2)𪩘鹊"], "sentences": []}
-{"seq": 7871, "word": "嶦", "pinyin": "zhān", "definition": "(1)山峰高峻的样子。(2)山峰高峻的样子。", "words":[ "(1)嶦嶦 (2)嶦嶦" ], "sentences":[ ] }1
-{"seq": 7872, "word": "𬭬", "pinyin": "yǒng", "definition": "(1)一种打击乐器，形似钟，有柄。(2)一种打击乐器，形似钟，有柄。", "words":[ "(1)𬭬钟 (2)𬭬钟" ], "sentences":[ ] }2
-{"seq": 7873, "word": "𨱑", "pinyin": "fú", "definition": "(1)一种古代的钱币。(2)一种古代的钱币。", "words":[ "(1)𨱑钱 (2)𨱑钱" ], "sentences":[ ] }3
+{"seq": 7871, "word": "嶦", "pinyin": "zhān", "definition": "(1)山峰高峻的样子。(2)山峰高峻的样子。", "words":[ "(1)嶦嶦 (2)嶦嶦" ], "sentences":[ ] }
+{"seq": 7872, "word": "𬭬", "pinyin": "yǒng", "definition": "(1)一种打击乐器，形似钟，有柄。(2)一种打击乐器，形似钟，有柄。", "words":[ "(1)𬭬钟 (2)𬭬钟" ], "sentences":[ ] }
+{"seq": 7873, "word": "𨱑", "pinyin": "fú", "definition": "(1)一种古代的钱币。(2)一种古代的钱币。", "words":[ "(1)𨱑钱 (2)𨱑钱" ], "sentences":[ ] }
 {"seq": 7874, "word": "𬭯", "pinyin": "yǎn", "definition": "(1)一种鸟，形似鹊，羽毛黑白相间。(2)一种鸟，形似鹊，羽毛黑白相间。", "words":[ "(1)𬭯鹊 (2)𬭯鹊" ], "sentences":[ ] }
 {"seq": 7875, "word": "馞", "pinyin": "bó", "definition": "(1)一种食物，用米和肉做成。(2)一种食物，用米和肉做成。", "words": ["(1)馞饽", "(2)馞饽"], "sentences": []}
 {"seq": 7876, "word": "穄", "pinyin": "jì", "definition": "一种谷物，即粳性黍", "words":[ ], "sentences":[ ] }
