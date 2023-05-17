@@ -3,18 +3,18 @@
 {"seq": 7003, "word": "赆", "pinyin": "jìn", "definition": "临别时赠与、赠送或馈赠的财物。", "words": [], "sentences": ["会议结束时，主办方给所有参会代表赠送了一份精美的赆（jìn）礼。", "他特地为前来祝贺的客人准备了一些赆（jìn）物，以表达他的感激和敬意。"]}
 {"seq": 7004, "word": "𬬸", "pinyin": "shù", "definition": "黑色；乌黑。", "words": [], "sentences": ["她的头发又长又亮，乌𬬸得像是一汪湖水。", "这种布料非常结实耐用，还有非常美观的𬬸色。"]}
 {"seq": 7005, "word": "钷", "pinyin": "pō", "definition": "钷元素的简称，化学符号为Po，原子序数为84。", "words": ["钷元素"], "sentences": ["钷（pō）是一种稀有金属，具有很强的辐射性，同时也是一种有害物质，需要小心使用。", "钷元素在学术上被广泛研究，因为它有很多特殊的物理和化学性质，可以应用于许多领域。"]}
-{"seq": 7006, "word": "𬬻", "pinyin": "", "definition": "", "words": [], "sentences": []}
-{"seq": 7007, "word": "𬬹", "pinyin": "", "definition": "", "words": [], "sentences": []}
-{"seq": 7008, "word": "𬬿", "pinyin": "", "definition": "", "words": [], "sentences": []}
-{"seq": 7009, "word": "𬭁", "pinyin": "", "definition": "", "words": [], "sentences": []}
+{"seq": 7006, "word": "𬬻", "pinyin": "kuāng", "definition": "广东省的一条河流；姓氏（多音字，根据不同的意思有不同的读音）", "words": ["𬬻河", "𬬻姓"], "sentences": ["𬬻河是珠江三角洲的一条支流。[kuāng]", "𬬻姓是一个罕见的姓氏。[kuāng]"] }
+{"seq": 7007, "word": "𬬹", "pinyin": "yè", "definition": "一种由砷化氢分子衍生出的正离子，其化学式为AsH4+", "words": ["𬬹离子", "砷𬬹离子", "砷正离子"], "sentences": ["𬬹离子是砷化氢分子质子化所形成的𬭩离子。", "砷𬬹离子与铵、𬭸类似，为四面体形分子。", "砷正离子的英文名称是arsonium。"]}
+{"seq": 7008, "word": "𬬿", "pinyin": "yǎn", "definition": "简化字'眼'的另一种写法，多用于电子文本中，表示人或动物的视觉器官；看法；观察", "words": ["𬬿睛", "𬬿光", "𬬿力"], "sentences": ["他的𬬿睛是蓝色的。", "她的𬬿光闪烁着智慧。", "他有敏锐的𬬿力。"]}
+{"seq": 7009, "word": "𬭁", "pinyin": "yǐ / chǐ", "definition": "肠子；肠子里的东西；肚子（多音字，根据不同的意思有不同的读音）", "words": ["𬭁肠", "𬭁脏", "𬭁气"], "sentences": ["他把鱼的𬭁肠清理干净。[yǐ]", "他吃了一些不干净的东西，𬭁脏不舒服。[yǐ]", "他被气得𬭁气翻腾。[chǐ]"] }
 {"seq": 7010, "word": "眚", "pinyin": "shěng", "definition": "疾病，病痛。", "words": [], "sentences": ["他近来身体不太好，老是感冒发烧，总有些眚（shěng）在身上。", "医生建议他多运动锻炼，以增强体质，预防眚（shěng）病。"]}
-{"seq": 7011, "word": "甡", "pinyin": "", "definition": "", "words": [], "sentences": []}
+{"seq": 7011, "word": "甡", "pinyin": "shēng / shěn", "definition": "abundant, numerous; crowd; broom（多音字，根据不同的意思有不同的读音）", "words": ["甡甡[shēngshēng]", "甡韶[shěnsháo]", "甡扫[shènsǎo]"], "sentences": ["甡甡其鹿，有若群罗。[shēngshēng]", "甡韶之乐，乐而不淫。[shěnsháo]", "他拿着甡扫地。[shènsǎo]"] }
 {"seq": 7012, "word": "笫", "pinyin": "zǐ", "definition": "旧时指官吏的座位，也泛指任何座位或位置。", "words": [], "sentences": ["这个会议的笫（zǐ）一排是高层领导，二排是各个部门的经理。", "他凭借自己的能力和职业道德打动了老板，顺利地得到了一个笫（zǐ）位。"]}
-{"seq": 7013, "word": "倻", "pinyin": "", "definition": "", "words": [], "sentences": []}
-{"seq": 7014, "word": "倴", "pinyin": "", "definition": "", "words": [], "sentences": []}
-{"seq": 7015, "word": "脩", "pinyin": "", "definition": "", "words": [], "sentences": []}
+{"seq": 7013, "word": "倻", "pinyin": "yē / yé", "definition": "古代的一种酒器，形似鼎，有三足，有盖，有两耳；古代存在过的一个国家（多音字，根据不同的意思有不同的读音）", "words": ["倻器[yēqì]", "倻国[yéguó]"], "sentences": ["倻器是一种古代的酒器，可以用来祭祀祖先。[yēqì]", "倻国是三国时期存在过的一个国家，位于今天的韩国南部。[yéguó]"] }
+{"seq": 7014, "word": "倴", "pinyin": "bèn", "definition": "固执；亲近；姓氏", "words": ["倴拗[bèn’ào]", "倴狎[bènxiá]", "倴姓[bènxìng]"], "sentences": ["他很倴拗，不肯改变主意。", "他和那个人很倴狎，常常一起出入。", "倴姓是一个不常见的姓氏。"]}
+{"seq": 7015, "word": "脩", "pinyin": "xiū", "definition": "干肉；修理；修养；长；姓氏", "words": ["脩饵[xiū’ěr]", "脩理[xiūlǐ]", "脩养[xiūyǎng]"], "sentences": ["他喜欢吃脩饵，觉得很香。", "他把坏了的自行车拿去脩理。", "他平时很注意脩养，不沾烟酒。"]}
 {"seq": 7016, "word": "倮", "pinyin": "luǒ", "definition": "赤裸无衣，裸露。", "words": [], "sentences": ["小孩子在海滩上放飞风筝，有的赤膊倮（luǒ）体，有的穿着我们认为不太合适的泳装。", "在一些偏远的山区里，还有些族群的人质朴而纯朴，直接穿着倮（luǒ）体日晒雨淋。"]}
-{"seq": 7017, "word": "倕", "pinyin": "", "definition": "", "words": [], "sentences": []}
+{"seq": 7017, "word": "倕", "pinyin": "chuí / cuì", "definition": "古代的一种乐器，形似锤子（多音字，根据不同的意思有不同的读音）", "words": ["倕乐[chuíyuè]"], "sentences": ["倕乐是古代的一种打击乐器，用木头或金属制成。[chuíyuè]"] }
 {"seq": 7018, "word": "倞", "pinyin": "jìng", "definition": "勇敢，有志气，劲头。", "words": [], "sentences": ["这个年轻人很有倞（jìng）气，总是充满激情地投入到自己的工作和学习中去。", "在竞争激烈的商业社会里，必须具备坚韧不拔的倞（jìng）气，才能立于不败之地。"]}
-{"seq": 7019, "word": "𫢸", "pinyin": "", "definition": "", "words": [], "sentences": []}
-{"seq": 7020, "word": "倓", "pinyin": "", "definition": "", "words": [], "sentences": []}
+{"seq": 7019, "word": "𫢸", "pinyin": "yǎn / yàn", "definition": "眼睛；眼神；眼力（多音字，根据不同的意思有不同的读音）", "words": ["𫢸睛[yǎnjīng]", "𫢸神[yànshén]", "𫢸力[yánlì]"], "sentences": ["他的𫢸睛是棕色的。[yǎnjīng]", "她的𫢸神里透露出一丝忧虑。[yànshén]", "他有很好的𫢸力，能看清远处的东西。[yánlì]"] }
+{"seq": 7020, "word": "倓", "pinyin": "tán / tàn ", "definition": "安静；平和（多音字，根据不同的意思有不同的读音）", "words": ["倓然[tánrán]", "倓和[tàn hé]"], "sentences": ["他听了这个消息，倓然无语。[tánrán]", "他性格倓和，不爱争吵。[tàn hé]"] }

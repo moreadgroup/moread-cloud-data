@@ -4,7 +4,7 @@
 {"seq": 6246, "word": "镢", "pinyin": "jué",  "definition": "一种用于切割和修整木材或金属的工具，通常由两个可移动的刀片组成", "words":[], "sentences":["他用镢子修剪了树枝。"]}
 {"seq": 6248, "word": "镦", "pinyin": "duì",  "definition": "(金属)用于加固或连接两个物体的小型金属钉或螺钉", "words":[], "sentences":["他用镦子将两块木板连接在一起。"]}
 {"seq": 6249, "word": "镧", "pinyin": "lán",  "definition": "(化学)一种稀土金属元素，符号为La，原子序数为57", "words":[], "sentences":["镧是一种稀有金属元素。"]}
-{"seq": 6250, "word": "镩", "pinyin": "",     "definition": "", "words":[], "sentences":[""]}
+{"seq": 6250, "word": "镩", "pinyin": "cuān", "definition": "一种金属工具，用来扩大孔眼或管口；用镩子扩孔或扩管", "words": ["镩子", "镩孔", "镩管"], "sentences": ["他拿着镩子去修理水龙头。", "他用镩子在木板上镩了一个孔。", "他把铜管镩得更大了。"]}
 {"seq": 6257, "word": "篼", "pinyin": "dōu",  "definition": "一种用于捆绑和绑扎物品的绳索或带子", "words":[], "sentences":["他用篼绳捆绑了木材。"]}
 {"seq": 6258, "word": "簖", "pinyin": "duàn", "definition": "一种长而窄的船只，通常由木材制成", "words":[], "sentences":["这艘簖船可以容纳多达十个人。"]}
 {"seq": 6259, "word": "簋", "pinyin": "guǐ",  "definition": "一种古代器皿，通常用于盛放食物或祭品", "words":[], "sentences":["这个博物馆里有一个古代簋。"]}
@@ -12,7 +12,7 @@
 {"seq": 6263, "word": "鹪", "pinyin": "jiāo", "definition": "一种小型的鸟类，通常生活在森林或灌木丛中", "words":["鹪鹩"], "sentences":["这只鹪鹩在树枝上跳跃。"]}
 {"seq": 6265, "word": "皤", "pinyin": "pó",   "definition": "一种颜色，通常用于描述白色和黑色之间的浅灰色", "words":[], "sentences":["这个房间里的墙是皤色的。"]}
 {"seq": 6267, "word": "龠", "pinyin": "yuè",  "definition": "(乐器)一种古代乐器，通常由竹子制成，有多个管子和一个共同的嘴口", "words":[], "sentences":["他会演奏龠。"]}
-{"seq": 6268, "word": "繇", "pinyin": "",     "definition": "", "words":[], "sentences":[""]}
+{"seq": 6268, "word": "繇", "pinyin": "yáo / zhóu / yóu", "definition": "劳役；费力；义务劳役；缘由；意义；姓氏（多音字，根据不同的意思有不同的读音）", "words": ["苦繇", "繇役", "繇费", "因繇", "繇义"], "sentences": ["他们不堪重负，日夜苦繇。[yáo]", "他们被征召去做繇役。[yáo]", "这项工程很繇费，需要大量的人力和物力。[yáo]", "你为何如此担忧，莫非有什么因繇？[zhóu]", "这个字你认识吗？它有什么繇义？[zhóu]"] }
 {"seq": 6269, "word": "貘", "pinyin": "mò",   "definition": "一种大型哺乳动物，通常生活在亚洲的森林中", "words":[], "sentences":["这只貘正在吃树叶。"]}
 {"seq": 6271, "word": "貔", "pinyin": "pí",   "definition": "一种神话中的动物，通常被描述为一只有着虎头和狮身的动物", "words":[], "sentences":["这个故事里有一只貔。"]}
 {"seq": 6272, "word": "臌", "pinyin": "gǔ",   "definition": "一种疾病，通常表现为身体某个部位肿胀或充血", "words":[], "sentences":["他得了臌病。"]}

@@ -4,9 +4,10 @@
 {"seq": 6864, "word": "鸧", "pinyin": "Cāng", "definition": "一种鸟类的名称，也称为鸧鸹，被认为是白枕鹤 (Grus vipio)。此外，鸧还可以指一种神话中的鸟类。", "words": ["鸧鸹"], "sentences": []}
 {"seq": 6865, "word": "䏡", "pinyin": "Shì", "definition": "一种有机化合物，溶于水，遇热不凝固，是蛋白质和蛋白胨的中间产物的总称。", "words": [], "sentences": []}
 {"seq": 6866, "word": "胠", "pinyin": "Qū", "definition": "汉语三级字，字义为腋下，出自《说文》。此外，胠还指古代军阵的右翼。", "words": [], "sentences": []}
-{"seq": 6867, "word": "𦙶", "pinyin": "", "definition": "", "words": [], "sentences": []}
+{"seq": 6867, "word": "𦙶", "pinyin": "yǎn", "definition": "简化字'眼'的另一种写法，多用于电子文本中，表示人或动物的视觉器官；看法；观察", "words": ["𦙶睛", "𦙶光", "𦙶力"], "sentences": ["他的𦙶睛是蓝色的。", "她的𦙶光闪烁着智慧。", "他有敏锐的𦙶力。"]}
 {"seq": 6868, "word": "胈", "pinyin": "bá", "definition": "人腿上的毛。大腿股的白肉。", "words": [], "sentences": []} 
 {"seq": 6869, "word": "膗", "pinyin": "chuái", "definition": "形容肥胖而肌肉松弛。肉羹。", "words": [], "sentences": []} 
+{"seq": 6870, "word": "胣", "pinyin": "yǐ / chǐ", "definition": "肠子；肠子里的东西；肚子（多音字，根据不同的意思有不同的读音）", "words": ["胣肠", "胣脏", "胣气"], "sentences": ["他把鱼的胣肠清理干净。[yǐ]", "他吃了一些不干净的东西，胣脏不舒服。[yǐ]", "他被气得胣气翻腾。[chǐ]"] }
 {"seq": 6870, "word": "胩", "pinyin": "kǎ", "definition": "有机化合物的一类，异腈的旧称，无色液体，有恶臭，剧毒。", "words": [], "sentences": []} 
 {"seq": 6871, "word": "朏", "pinyin": "fěi", "definition": "新月开始生明发光，亦用为阴历每月初三日的代称。", "words": [], "sentences": []} 
 {"seq": 6872, "word": "飐", "pinyin": "zhǎn", "definition": "风吹颤动"}
@@ -16,5 +17,5 @@
 {"seq": 6876, "word": "疢", "pinyin": "chèn", "definition": "热病，亦泛指病"}
 {"seq": 6877, "word": "炣", "pinyin": "kě", "definition": "火"}
 {"seq": 6878, "word": "炟", "pinyin": "dá", "definition": "火起，爆"}
-{"seq": 6879, "word": "㶲", "pinyin": "", "definition": ""}
-{"seq": 6880, "word": "洭", "pinyin": "", "definition": ""}
+{"seq": 6879, "word": "㶲", "pinyin": "wēn / yùn ", "definition": "火焰；热气；炎热（多音字，根据不同的意思有不同的读音）", "words": ["㶲火", "㶲气", "㶲暑"], "sentences": ["篝火燃烧着，发出㶲火。[wēn]", "他感到一股㶲气从身体里冒出来。[yùn]", "夏天的天气很㶲暑，让人难受。[yù]"] }
+{"seq": 6880, "word": "洭", "pinyin": "kuāng", "definition": "广东省的一条河流；姓氏（多音字，根据不同的意思有不同的读音）", "words": ["洭河", "洭姓"], "sentences": ["洭河是珠江三角洲的一条支流。[kuāng]", "洭姓是一个罕见的姓氏。[kuāng]"] }

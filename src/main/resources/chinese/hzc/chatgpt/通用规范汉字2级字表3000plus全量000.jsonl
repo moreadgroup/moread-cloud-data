@@ -882,21 +882,21 @@
 {"seq": 6191, "word": "颡", "pinyin": "sǎng", "definition": "额头。", "words":[ "颡骨", "颡窝", "颡下"], "sentences":[ "他的颡上有一块瘢痕。" ] }
 {"seq": 6193, "word": "缲", "pinyin": "qiāo", "definition": "缝纫；编织。", "words":[ "缲丝", "缲线", "缲针"], "sentences":[ "她正在缲毛衣。" ] }
 {"seq": 6194, "word": "缳", "pinyin": "huán", "definition": "系；系住。", "words":[ "缳带", "缳着", "缳结"], "sentences":[ "他用绳子把箱子缳在了车上。" ] }
-{"seq": 6196, "word": "璩", "pinyin": "qú", "definition": ["一种玉器，古代传说中的乐器名。"], "words":["璩美凤","璩琳","璩玉"], "sentences":["这个璩是我祖传的。"]}
-{"seq": 6198, "word": "璪", "pinyin": "zǎo", "definition": ["一种玉器，古代传说中的乐器名。"], "words": ["璪琳", "璪玉"], "sentences": ["这个璪是我祖传的。"]}
-{"seq": 6202, "word": "觳", "pinyin": "hú", "definition": ["鸟类的一种，即鹕。"], "words": ["觳鸟", "觳鹤"], "sentences": ["这只觳鸟飞得很高。"]}
-{"seq": 6206, "word": "鞡", "pinyin": "lá", "definition": ["靴子上系带子的部分。"], "words": ["鞡靴", "鞡带"], "sentences": ["她穿着一双黑色的鞡靴。"]}
-{"seq": 6207, "word": "鞬", "pinyin": "jiān", "definition": ["系；系住。"], "words": ["鞬带", "鞬着", "鞬结"], "sentences": ["他用绳子把箱子鞬在了车上。"]}
-{"seq": 6208, "word": "薷", "pinyin": "rú", "definition": ["一种草本植物，花小而黄色，茎和叶有香气，可入药或制香料等。"], "words":["薷草","薷香","薷苣"], "sentences":["这个药方里有薷草。"]}
+{"seq": 6196, "word": "璩", "pinyin": "qú", "definition": "一种玉器，古代传说中的乐器名。", "words":["璩美凤","璩琳","璩玉"], "sentences":["这个璩是我祖传的。"]}
+{"seq": 6198, "word": "璪", "pinyin": "zǎo", "definition": "一种玉器，古代传说中的乐器名。", "words": ["璪琳", "璪玉"], "sentences": ["这个璪是我祖传的。"]}
+{"seq": 6202, "word": "觳", "pinyin": "hú", "definition": "鸟类的一种，即鹕。", "words": ["觳鸟", "觳鹤"], "sentences": ["这只觳鸟飞得很高。"]}
+{"seq": 6206, "word": "鞡", "pinyin": "lá", "definition": "靴子上系带子的部分。", "words": ["鞡靴", "鞡带"], "sentences": ["她穿着一双黑色的鞡靴。"]}
+{"seq": 6207, "word": "鞬", "pinyin": "jiān", "definition": "系；系住。", "words": ["鞬带", "鞬着", "鞬结"], "sentences": ["他用绳子把箱子鞬在了车上。"]}
+{"seq": 6208, "word": "薷", "pinyin": "rú", "definition": "一种草本植物，花小而黄色，茎和叶有香气，可入药或制香料等。", "words":["薷草","薷香","薷苣"], "sentences":["这个药方里有薷草。"]}
 {"seq": 6215, "word": "醢", "pinyin": "hǎi", "definition": "一种调味品，用盐腌肉或鱼后晾干，再加入各种调料制成的浓汁。", "words":["豆腐醢","海味醢","虾米醢"], "sentences":["这个菜里加了醢，很好吃。"] }
 {"seq": 6219, "word": "鹩", "pinyin": "liáo", "definition": "鸟类的一种，体型较小，善于跳跃和飞行。", "words":["鹩哥","鹩莺","鹩鸣"], "sentences":["这只鹩在树枝上跳来跳去。"] }
 {"seq": 6222, "word": "豳", "pinyin": "bīn", "definition": "古代国名，在今陕西省宝鸡市眉县境内。", "words":["豳风","豳策","豳音"], "sentences":["豳国是春秋时期的一个小国。"] }
 {"seq": 6224, "word": "黻", "pinyin": "fú", "definition": "古代一种丝织品，多用于制作礼服。", "words":["黻衣","黻裳","黻纱"], "sentences":["他穿着一件黻衣出席了婚礼。"] }
-{"seq": 6231, "word": "螬", "pinyin": "cán", "definition": ["一种昆虫，身体短小，前翅硬化成翅鞘，后翅薄而透明。"], "words":["螬蛤","螬松","螬草"], "sentences":["这只螬在草丛里爬来爬去。"]}
-{"seq": 6232, "word": "螵", "pinyin": "piāo", "definition": ["一种昆虫，身体细长，翅膀大而透明。"], "words":["螵蛸","螵蛇","螵虫"], "sentences":["这只螵在空中飞来飞去。"]}
-{"seq": 6233, "word": "疃", "pinyin": "tuǎn", "definition": ["地名，在内蒙古自治区东部。"], "words":["疃里","疃盖","疃头"], "sentences":["他是疃里人。"]}
-{"seq": 6238, "word": "罽", "pinyin": "jì", "definition": ["一种细密的棉布或丝绸织品。"], "words":["罽帐","罽衣","罽袍"], "sentences":["她穿着一件罽衣出席了婚礼。"]}
-{"seq": 6239, "word": "罾", "pinyin": "zēng", "definition": ["捕捉鱼类的器具之一，用竹篾或细铁丝编成网袋形状，下端有铁环或铁链重物，上端系于竹竿或木柄上。"], "words":["渔罾","钓罾","船罾"], "sentences":["他用罾捕了很多鱼。"]} 
+{"seq": 6231, "word": "螬", "pinyin": "cán", "definition": "一种昆虫，身体短小，前翅硬化成翅鞘，后翅薄而透明。", "words":["螬蛤","螬松","螬草"], "sentences":["这只螬在草丛里爬来爬去。"]}
+{"seq": 6232, "word": "螵", "pinyin": "piāo", "definition": "一种昆虫，身体细长，翅膀大而透明。", "words":["螵蛸","螵蛇","螵虫"], "sentences":["这只螵在空中飞来飞去。"]}
+{"seq": 6233, "word": "疃", "pinyin": "tuǎn", "definition": "地名，在内蒙古自治区东部。", "words":["疃里","疃盖","疃头"], "sentences":["他是疃里人。"]}
+{"seq": 6238, "word": "罽", "pinyin": "jì", "definition": "一种细密的棉布或丝绸织品。", "words":["罽帐","罽衣","罽袍"], "sentences":["她穿着一件罽衣出席了婚礼。"]}
+{"seq": 6239, "word": "罾", "pinyin": "zēng", "definition": "捕捉鱼类的器具之一，用竹篾或细铁丝编成网袋形状，下端有铁环或铁链重物，上端系于竹竿或木柄上。", "words":["渔罾","钓罾","船罾"], "sentences":["他用罾捕了很多鱼。"]} 
 {"seq": 6240, "word": "嶷", "pinyin": "ní", "definition": "山势高峻。", "words":["嶷山","嶷峰","嶷岩"], "sentences":["这座山峰嶷嶷而立，非常壮观。"] }
 {"seq": 6243, "word": "髁", "pinyin": "kē",   "definition": "骨骼突起的一部分，通常是关节的一部分", "words":["髁骨"], "sentences":["他的手指上有一个明显的髁。", "这个关节的髁很大，因此它可以承受更多的压力。"]}
 {"seq": 6244, "word": "髀", "pinyin": "bì",   "definition": "大腿和臀部之间的部分，通常是人体最大的肌肉之一", "words":["髀肉"], "sentences":["他的髀肉很结实，因为他经常锻炼。", "她在跑步时拉伤了她的髀肉。"]}
@@ -904,7 +904,7 @@
 {"seq": 6246, "word": "镢", "pinyin": "jué",  "definition": "一种用于切割和修整木材或金属的工具，通常由两个可移动的刀片组成", "words":[], "sentences":["他用镢子修剪了树枝。"]}
 {"seq": 6248, "word": "镦", "pinyin": "duì",  "definition": "(金属)用于加固或连接两个物体的小型金属钉或螺钉", "words":[], "sentences":["他用镦子将两块木板连接在一起。"]}
 {"seq": 6249, "word": "镧", "pinyin": "lán",  "definition": "(化学)一种稀土金属元素，符号为La，原子序数为57", "words":[], "sentences":["镧是一种稀有金属元素。"]}
-{"seq": 6250, "word": "镩", "pinyin": "",     "definition": "", "words":[], "sentences":[""]}
+{"seq": 6250, "word": "镩", "pinyin": "",     "definition": "", "words":[], "sentences":[]}
 {"seq": 6257, "word": "篼", "pinyin": "dōu",  "definition": "一种用于捆绑和绑扎物品的绳索或带子", "words":[], "sentences":["他用篼绳捆绑了木材。"]}
 {"seq": 6258, "word": "簖", "pinyin": "duàn", "definition": "一种长而窄的船只，通常由木材制成", "words":[], "sentences":["这艘簖船可以容纳多达十个人。"]}
 {"seq": 6259, "word": "簋", "pinyin": "guǐ",  "definition": "一种古代器皿，通常用于盛放食物或祭品", "words":[], "sentences":["这个博物馆里有一个古代簋。"]}
@@ -912,7 +912,7 @@
 {"seq": 6263, "word": "鹪", "pinyin": "jiāo", "definition": "一种小型的鸟类，通常生活在森林或灌木丛中", "words":["鹪鹩"], "sentences":["这只鹪鹩在树枝上跳跃。"]}
 {"seq": 6265, "word": "皤", "pinyin": "pó",   "definition": "一种颜色，通常用于描述白色和黑色之间的浅灰色", "words":[], "sentences":["这个房间里的墙是皤色的。"]}
 {"seq": 6267, "word": "龠", "pinyin": "yuè",  "definition": "(乐器)一种古代乐器，通常由竹子制成，有多个管子和一个共同的嘴口", "words":[], "sentences":["他会演奏龠。"]}
-{"seq": 6268, "word": "繇", "pinyin": "",     "definition": "", "words":[], "sentences":[""]}
+{"seq": 6268, "word": "繇", "pinyin": "",     "definition": "", "words":[], "sentences":[]}
 {"seq": 6269, "word": "貘", "pinyin": "mò",   "definition": "一种大型哺乳动物，通常生活在亚洲的森林中", "words":[], "sentences":["这只貘正在吃树叶。"]}
 {"seq": 6271, "word": "貔", "pinyin": "pí",   "definition": "一种神话中的动物，通常被描述为一只有着虎头和狮身的动物", "words":[], "sentences":["这个故事里有一只貔。"]}
 {"seq": 6272, "word": "臌", "pinyin": "gǔ",   "definition": "一种疾病，通常表现为身体某个部位肿胀或充血", "words":[], "sentences":["他得了臌病。"]}

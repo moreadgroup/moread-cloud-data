@@ -131,11 +131,97 @@ class ChatgptTest {
             val seq = it["seq"]!!.jsonPrimitive.content
             val word = it["word"]!!.jsonPrimitive.content
             val existSeq = allWords.get(word)
-            if (Objects.isNull(existSeq)){
-                allWords.put(word,seq)
-            }else{
+            if (Objects.isNull(existSeq)) {
+                allWords.put(word, seq)
+            } else {
                 println("\"seq\": ${seq}, \"word\": \"${word}\" duplicated \"seq\": ${existSeq},")
             }
+        }
+    }
+    @Test
+    fun testMissingContentsFromAllWordsFileThenOK() {
+        val okJsonlFilenames = listOf(
+            "${destFolder}/000汉字全量字表解释.jsonl",
+        )
+      // {"seq": 1, "word": "阿", "pinyin": "ā", "definition": "一种阴性助词，表示称呼或感叹", "words": ["阿姨", "阿伯"], "sentences": ["阿姨给我做了一桌好吃的菜。", "阿姨，这个花园真漂亮！"]}
+        // 读取所有文件并解析为JSON对象列表
+        val jsonList = readJsonlFiles(okJsonlFilenames)
+
+        println("Missing contents")
+        // 将JSON对象列表转换为 Person 对象列表
+        val okWords = jsonList.map {
+//            println("${it}")
+            val seq = it["seq"]!!.jsonPrimitive.content
+            val word = it["word"]!!.jsonPrimitive.content
+            val pinyin = it["pinyin"]!!.jsonPrimitive.content
+            val definition = it["definition"]!!.jsonPrimitive.content
+            val words = it["words"]?.jsonArray
+            val sentences = it["sentences"]?.jsonArray
+
+            if (pinyin.trim() ==""){
+                println("${it}")
+            }
+        }
+    }
+
+    @Test
+    fun test字表csv是否缺失全量解释ThenOK() {
+
+
+        // ==========000汉字全量字表解释
+        val destAllFiles = listOf(
+            "${destFolder}/000汉字全量字表解释.jsonl",
+        )
+        // 读取所有文件并解析为JSON对象列表
+        val jsonList = readJsonlFiles(destAllFiles)
+
+        var destAllWords = HashMap<String, String>();
+        // 将JSON对象列表转换为 Person 对象列表
+        val okWords = jsonList.map {
+            val seq = it["seq"]!!.jsonPrimitive.content
+            val word = it["word"]!!.jsonPrimitive.content
+            destAllWords.put(word, seq)
+        }
+        println("size = ${destAllWords.size}")
+
+
+        listOf(
+            "${srcFolder}/chartables/通用规范汉字表1级字3500.csv",
+            "${srcFolder}/chartables/通用规范汉字表2级字3000.csv",
+            "${srcFolder}/chartables/通用规范汉字表3级字1605.csv",
+            "${srcFolder}/chartables/义务教育语文字表一2500.csv",
+            "${srcFolder}/chartables/义务教育语文字表二1000.csv",
+            "${srcFolder}/chartables/义务教育语文识字写字教学基本字表300.csv",
+            "${srcFolder}/chartables/汉字应用水平等级1甲表4000.csv",
+            "${srcFolder}/chartables/汉字应用水平等级2乙表500.csv",
+            "${srcFolder}/chartables/汉字应用水平等级3丙表1000.csv"
+        ).forEach { file_name->
+            Files.newBufferedReader(Paths.get(file_name)).use { reader ->
+                val strategy = ColumnPositionMappingStrategy<CnCharLine>()
+                strategy.type = CnCharLine::class.java
+
+                // seq,word,hzctable,strokesnum,pinyins,strokes,strokesok,explanation
+                strategy.setColumnMapping(
+                    "seq",
+                    "word",
+                )
+                val csvToBean: CsvToBean<CnCharLine> = CsvToBeanBuilder<CnCharLine>(reader)
+                    .withMappingStrategy(strategy)
+                    .withSkipLines(1)
+                    .withIgnoreLeadingWhiteSpace(true)
+                    .build()
+                val wordLineIterator: Iterator<CnCharLine> = csvToBean.iterator()
+
+                while (wordLineIterator.hasNext()) {
+                    val wordLine: CnCharLine = wordLineIterator.next()
+                   val found = destAllWords.get(wordLine.word!!.trim())
+                    if (Objects.isNull(found)){
+                        println("${file_name} ${wordLine.seq}, ${wordLine.word}")
+                    }
+                }
+
+            }
+
         }
     }
 
