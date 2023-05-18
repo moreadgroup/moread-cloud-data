@@ -66,27 +66,27 @@ class CharTablesTest {
 
         // 处理每一个字表csv并生成对应的汉字解释.jsonl文件
         listOf(
-            CharTableFile("通用规范汉字表1级字3500.csv", "通用1级", "${destFolder}/通用规范汉字表1级字3500.jsonl"),
-            CharTableFile("通用规范汉字表2级字3000.csv", "通用2级","${destFolder}/通用规范汉字表2级字3000.jsonl"),
-            CharTableFile("通用规范汉字表3级字1605.csv", "通用3级","${destFolder}/通用规范汉字表3级字1605.jsonl"),
-            CharTableFile("汉字应用水平等级1甲表4000.csv", "应用甲表","${destFolder}/汉字应用水平等级1甲表4000.jsonl"),
-            CharTableFile("汉字应用水平等级2乙表500.csv", "应用乙表","${destFolder}/汉字应用水平等级2乙表500.jsonl"),
-            CharTableFile("汉字应用水平等级3丙表1000.csv", "应用丙表","${destFolder}/汉字应用水平等级3丙表1000.jsonl"),
-            CharTableFile("义务教育语文字表二1000.csv", "义务表二","${destFolder}/义务教育语文字表二1000.jsonl"),
-            CharTableFile("义务教育语文字表一2500.csv", "义务表一","${destFolder}/义务教育语文字表一2500.jsonl"),
-            CharTableFile("义务教育语文识字写字教学基本字表300.csv", "义务基表","${destFolder}/义务教育语文识字写字教学基本字表300.jsonl"),
-            CharTableFile("国际中文教育中文水平1级初等300.csv", "国际1级初等","${destFolder}/国际中文教育中文水平1级初等300.jsonl"),
-            CharTableFile("国际中文教育中文水平2级初等300.csv", "国际2级初等","${destFolder}/国际中文教育中文水平2级初等300.jsonl"),
-            CharTableFile("国际中文教育中文水平3级初等300.csv", "国际3级初等","${destFolder}/国际中文教育中文水平3级初等300.jsonl"),
-            CharTableFile("国际中文教育中文水平4级中等300.csv", "国际4级中等","${destFolder}/国际中文教育中文水平4级中等300.jsonl"),
-            CharTableFile("国际中文教育中文水平5级中等300.csv", "国际5级中等","${destFolder}/国际中文教育中文水平5级中等300.jsonl"),
-            CharTableFile("国际中文教育中文水平6级中等300.csv", "国际6级中等","${destFolder}/国际中文教育中文水平6级中等300.jsonl"),
-            CharTableFile("国际中文教育中文水平789级高等1200.csv", "国际789级高等","${destFolder}/国际中文教育中文水平789级高等1200.jsonl"),
+            CharTableFile("通用规范汉字表1级字3500.csv", "通用1级", "${destFolder}/通用规范汉字表1级字3500.json"),
+            CharTableFile("通用规范汉字表2级字3000.csv", "通用2级","${destFolder}/通用规范汉字表2级字3000.json"),
+            CharTableFile("通用规范汉字表3级字1605.csv", "通用3级","${destFolder}/通用规范汉字表3级字1605.json"),
+            CharTableFile("汉字应用水平等级1甲表4000.csv", "应用甲表","${destFolder}/汉字应用水平等级1甲表4000.json"),
+            CharTableFile("汉字应用水平等级2乙表500.csv", "应用乙表","${destFolder}/汉字应用水平等级2乙表500.json"),
+            CharTableFile("汉字应用水平等级3丙表1000.csv", "应用丙表","${destFolder}/汉字应用水平等级3丙表1000.json"),
+            CharTableFile("义务教育语文字表二1000.csv", "义务表二","${destFolder}/义务教育语文字表二1000.json"),
+            CharTableFile("义务教育语文字表一2500.csv", "义务表一","${destFolder}/义务教育语文字表一2500.json"),
+            CharTableFile("义务教育语文识字写字教学基本字表300.csv", "义务基表","${destFolder}/义务教育语文识字写字教学基本字表300.json"),
+            CharTableFile("国际中文教育中文水平1级初等300.csv", "国际1级初等","${destFolder}/国际中文教育中文水平1级初等300.json"),
+            CharTableFile("国际中文教育中文水平2级初等300.csv", "国际2级初等","${destFolder}/国际中文教育中文水平2级初等300.json"),
+            CharTableFile("国际中文教育中文水平3级初等300.csv", "国际3级初等","${destFolder}/国际中文教育中文水平3级初等300.json"),
+            CharTableFile("国际中文教育中文水平4级中等300.csv", "国际4级中等","${destFolder}/国际中文教育中文水平4级中等300.json"),
+            CharTableFile("国际中文教育中文水平5级中等300.csv", "国际5级中等","${destFolder}/国际中文教育中文水平5级中等300.json"),
+            CharTableFile("国际中文教育中文水平6级中等300.csv", "国际6级中等","${destFolder}/国际中文教育中文水平6级中等300.json"),
+            CharTableFile("国际中文教育中文水平789级高等1200.csv", "国际789级高等","${destFolder}/国际中文教育中文水平789级高等1200.json"),
         ).forEach { ctf ->
             var file_name = ctf.srcFileName;
             val destFile = File(ctf.destFileName)
             // Create a new file if not exists or else empty the file content
-            destFile.writeText("")
+            destFile.writeText("[")
 
             Files.newBufferedReader(Paths.get(srcFolder + file_name)).use { reader ->
                 val strategy = ColumnPositionMappingStrategy<CnCharLine>()
@@ -117,11 +117,15 @@ class CharTablesTest {
                         val jsonObject = json.encodeToJsonElement(WordExplanationModel.serializer(), testModel)
                         val jsonString = jsonObject.toString()
                         println("testModel= ${jsonString}")
-                        destFile.appendText(jsonString + "\n")
+                        if (wordLineIterator.hasNext()) {
+                            destFile.appendText(jsonString + ",\n")
+                        }else{
+                            destFile.appendText(jsonString + "\n")
+                        }
                     }
                 }
             }
-
+            destFile.appendText("]")
         }
     }
 

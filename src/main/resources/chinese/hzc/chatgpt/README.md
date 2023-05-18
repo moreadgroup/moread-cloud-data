@@ -12,6 +12,8 @@ cat 通用规范汉字3级字表1605plus全量000.jsonl >> 000汉字全量字表
 
 ## 义务教育语文字表一2500全量000
 
+$ cd /Users/CC/github/moreadgroup/moread-cloud-data/src/main/resources/chinese/hzc/chatgpt
+
 $ ls 义务教育语文字表一2500 | awk '{print length($0) " " $0}' | sort -n | awk '{$1="";print $0}' > temp.txt
 
 $ rm   义务教育语文字表一2500全量000.jsonl;
