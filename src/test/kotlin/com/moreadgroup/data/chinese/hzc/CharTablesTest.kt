@@ -15,10 +15,9 @@ import java.nio.file.Files
 import java.nio.file.Paths
 import java.util.*
 import kotlin.collections.HashMap
-import kotlin.collections.HashSet
 
 @Serializable
-data class TestModel(
+data class WordExplanationModel(
     var seq: Int,
     val word: String,
     val pinyin: String,
@@ -37,7 +36,6 @@ class CharTablesTest {
     private val srcFolder = ROOT_FOLDER + "chartables/"
     private val destFolder = ROOT_FOLDER + "chartables/out"
 
-    @OptIn(ExperimentalSerializationApi::class)
     @Test
     fun testGenerate子字表From全量字表ThenOK() {
 
@@ -69,21 +67,21 @@ class CharTablesTest {
         // 处理每一个字表csv并生成对应的汉字解释.jsonl文件
         listOf(
             CharTableFile("通用规范汉字表1级字3500.csv", "通用1级", "${destFolder}/通用规范汉字表1级字3500.jsonl"),
-            CharTableFile("通用规范汉字表2级字3000.csv", "通用2级","通用规范汉字表2级字3000.jsonl"),
-            CharTableFile("通用规范汉字表3级字1605.csv", "通用3级","通用规范汉字表3级字1605.jsonl"),
-            CharTableFile("汉字应用水平等级1甲表4000.csv", "应用甲表","汉字应用水平等级1甲表4000.jsonl"),
-            CharTableFile("汉字应用水平等级2乙表500.csv", "应用乙表","汉字应用水平等级2乙表500.jsonl"),
-            CharTableFile("汉字应用水平等级3丙表1000.csv", "应用丙表","汉字应用水平等级3丙表1000.jsonl"),
-            CharTableFile("义务教育语文字表二1000.csv", "义务表二","义务教育语文字表二1000.jsonl"),
-            CharTableFile("义务教育语文字表一2500.csv", "义务表一","义务教育语文字表一2500.jsonl"),
-            CharTableFile("义务教育语文识字写字教学基本字表300.csv", "义务基表","国际中文教育中文水平1级初等300.jsonl"),
-            CharTableFile("国际中文教育中文水平1级初等300.csv", "国际1级初等","国际中文教育中文水平2级初等300.jsonl"),
-            CharTableFile("国际中文教育中文水平2级初等300.csv", "国际2级初等","国际中文教育中文水平3级初等300.jsonl"),
-            CharTableFile("国际中文教育中文水平3级初等300.csv", "国际3级初等","国际中文教育中文水平4级中等300.jsonl"),
-            CharTableFile("国际中文教育中文水平4级中等300.csv", "国际4级中等","国际中文教育中文水平5级中等300.jsonl"),
-            CharTableFile("国际中文教育中文水平5级中等300.csv", "国际5级中等","国际中文教育中文水平6级中等300.jsonl"),
-            CharTableFile("国际中文教育中文水平6级中等300.csv", "国际6级中等","国际中文教育中文水平789级高等1200.jsonl"),
-            CharTableFile("国际中文教育中文水平789级高等1200.csv", "国际789级高等","义务教育语文识字写字教学基本字表300.jsonl"),
+            CharTableFile("通用规范汉字表2级字3000.csv", "通用2级","${destFolder}/通用规范汉字表2级字3000.jsonl"),
+            CharTableFile("通用规范汉字表3级字1605.csv", "通用3级","${destFolder}/通用规范汉字表3级字1605.jsonl"),
+            CharTableFile("汉字应用水平等级1甲表4000.csv", "应用甲表","${destFolder}/汉字应用水平等级1甲表4000.jsonl"),
+            CharTableFile("汉字应用水平等级2乙表500.csv", "应用乙表","${destFolder}/汉字应用水平等级2乙表500.jsonl"),
+            CharTableFile("汉字应用水平等级3丙表1000.csv", "应用丙表","${destFolder}/汉字应用水平等级3丙表1000.jsonl"),
+            CharTableFile("义务教育语文字表二1000.csv", "义务表二","${destFolder}/义务教育语文字表二1000.jsonl"),
+            CharTableFile("义务教育语文字表一2500.csv", "义务表一","${destFolder}/义务教育语文字表一2500.jsonl"),
+            CharTableFile("义务教育语文识字写字教学基本字表300.csv", "义务基表","${destFolder}/义务教育语文识字写字教学基本字表300.jsonl"),
+            CharTableFile("国际中文教育中文水平1级初等300.csv", "国际1级初等","${destFolder}/国际中文教育中文水平1级初等300.jsonl"),
+            CharTableFile("国际中文教育中文水平2级初等300.csv", "国际2级初等","${destFolder}/国际中文教育中文水平2级初等300.jsonl"),
+            CharTableFile("国际中文教育中文水平3级初等300.csv", "国际3级初等","${destFolder}/国际中文教育中文水平3级初等300.jsonl"),
+            CharTableFile("国际中文教育中文水平4级中等300.csv", "国际4级中等","${destFolder}/国际中文教育中文水平4级中等300.jsonl"),
+            CharTableFile("国际中文教育中文水平5级中等300.csv", "国际5级中等","${destFolder}/国际中文教育中文水平5级中等300.jsonl"),
+            CharTableFile("国际中文教育中文水平6级中等300.csv", "国际6级中等","${destFolder}/国际中文教育中文水平6级中等300.jsonl"),
+            CharTableFile("国际中文教育中文水平789级高等1200.csv", "国际789级高等","${destFolder}/国际中文教育中文水平789级高等1200.jsonl"),
         ).forEach { ctf ->
             var file_name = ctf.srcFileName;
             val destFile = File(ctf.destFileName)
@@ -114,9 +112,9 @@ class CharTablesTest {
                     } else {
 
                         println("${wordExplanation}")
-                        val testModel: TestModel = json.decodeFromString(wordExplanation.toString())
+                        val testModel: WordExplanationModel = json.decodeFromString(wordExplanation.toString())
                         testModel.seq = wordLine.seq!!.toInt();
-                        val jsonObject = json.encodeToJsonElement(TestModel.serializer(), testModel)
+                        val jsonObject = json.encodeToJsonElement(WordExplanationModel.serializer(), testModel)
                         val jsonString = jsonObject.toString()
                         println("testModel= ${jsonString}")
                         destFile.appendText(jsonString + "\n")
