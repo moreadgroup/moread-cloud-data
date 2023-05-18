@@ -18,7 +18,7 @@ data class Hzc(
     constructor() : this("","","",ArrayList())
 
 }
-
+@Serializable
 data class Table(
     val table: String,
     val strokes: List<Stroke>
@@ -28,7 +28,7 @@ data class Table(
 }
 
 
-
+@Serializable
 data class Stroke(
     val stroke: String,
     val words: List<Word>
@@ -37,7 +37,7 @@ data class Stroke(
 
 }
 
-
+@Serializable
 data class Word(
     val word: String,
     val pinyin:String?,

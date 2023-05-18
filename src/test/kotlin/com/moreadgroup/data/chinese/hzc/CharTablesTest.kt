@@ -6,6 +6,8 @@ import com.moreadgroup.data.chinese.CnCharLine
 import com.opencsv.bean.ColumnPositionMappingStrategy
 import com.opencsv.bean.CsvToBean
 import com.opencsv.bean.CsvToBeanBuilder
+import kotlinx.serialization.ExperimentalSerializationApi
+import kotlinx.serialization.Serializable
 import kotlinx.serialization.decodeFromString
 import org.junit.Test
 import java.io.File
@@ -15,6 +17,15 @@ import java.util.*
 import kotlin.collections.HashMap
 import kotlin.collections.HashSet
 
+@Serializable
+data class TestModel(
+    var seq: Int,
+    val word: String,
+    val pinyin: String,
+    val definition: String,
+    val words: Array<String>?,
+    val sentences: Array<String>?
+)
 /**
  * @Author conan8chan@yahoo.com
  * @Date 5/16/23T4:51 PM-Tuesday
@@ -26,12 +37,38 @@ class CharTablesTest {
     private val srcFolder = ROOT_FOLDER + "chartables/"
     private val destFolder = ROOT_FOLDER + "chartables/out"
 
+    @OptIn(ExperimentalSerializationApi::class)
     @Test
-    fun testMergeChineseWordTagsFromTableFilesThenOK() {
+    fun testGenerate子字表From全量字表ThenOK() {
 
-        var cnWordsMap: HashMap<String, HashSet<String>> = HashMap();
+        // 1.全量字表
+        val okJsonlFilenames = listOf(
+            "${ROOT_FOLDER}chatgpt/000汉字全量字表解释.jsonl",
+        )
+
+        // 读取所有文件并解析为JSON对象列表
+        val jsonList = readJsonlFiles(okJsonlFilenames)
+
+        var allWords = HashMap<String, JsonObject>();
+        // 将JSON对象列表转换为 Person 对象列表
+        val okWords = jsonList.map {
+            val seq = it["seq"]!!.jsonPrimitive.content
+            val word = it["word"]!!.jsonPrimitive.content
+            val existSeq = allWords.get(word)
+            if (Objects.isNull(existSeq)) {
+                allWords.put(word, it)
+            } else {
+                println("Please fix the ERROR first: \"seq\": ${seq}, \"word\": \"${word}\" duplicated \"seq\": ${existSeq},")
+            }
+        }
+
+//        println("allWords= ${allWords}");
+// Create a Json instance
+        val json = Json { ignoreUnknownKeys = true }
+
+        // 处理每一个字表csv并生成对应的汉字解释.jsonl文件
         listOf(
-            CharTableFile("通用规范汉字表1级字3500.csv", "通用1级","通用规范汉字表1级字3500.jsonl"),
+            CharTableFile("通用规范汉字表1级字3500.csv", "通用1级", "${destFolder}/通用规范汉字表1级字3500.jsonl"),
             CharTableFile("通用规范汉字表2级字3000.csv", "通用2级","通用规范汉字表2级字3000.jsonl"),
             CharTableFile("通用规范汉字表3级字1605.csv", "通用3级","通用规范汉字表3级字1605.jsonl"),
             CharTableFile("汉字应用水平等级1甲表4000.csv", "应用甲表","汉字应用水平等级1甲表4000.jsonl"),
@@ -49,6 +86,10 @@ class CharTablesTest {
             CharTableFile("国际中文教育中文水平789级高等1200.csv", "国际789级高等","义务教育语文识字写字教学基本字表300.jsonl"),
         ).forEach { ctf ->
             var file_name = ctf.srcFileName;
+            val destFile = File(ctf.destFileName)
+            // Create a new file if not exists or else empty the file content
+            destFile.writeText("")
+
             Files.newBufferedReader(Paths.get(srcFolder + file_name)).use { reader ->
                 val strategy = ColumnPositionMappingStrategy<CnCharLine>()
                 strategy.type = CnCharLine::class.java
@@ -67,30 +108,22 @@ class CharTablesTest {
 
                 while (wordLineIterator.hasNext()) {
                     val wordLine: CnCharLine = wordLineIterator.next()
-                    var tags = cnWordsMap.get(wordLine.word!!);
-                    if (Objects.isNull(tags)) {
-                        tags = HashSet<String>();
-                        tags.add(ctf.tag)
+                    var wordExplanation = allWords.get(wordLine.word!!);
+                    if (Objects.isNull(wordExplanation)) {
+                        println("Please fix the ERROR first Missing Explanation: \"seq\": ${wordLine.seq}, \"word\": \"${wordLine.word}\" ")
                     } else {
-                        tags?.add(ctf.tag)
+
+                        println("${wordExplanation}")
+                        val testModel: TestModel = json.decodeFromString(wordExplanation.toString())
+                        testModel.seq = wordLine.seq!!.toInt();
+                        val jsonObject = json.encodeToJsonElement(TestModel.serializer(), testModel)
+                        val jsonString = jsonObject.toString()
+                        println("testModel= ${jsonString}")
+                        destFile.appendText(jsonString + "\n")
                     }
-
-                    cnWordsMap.put(wordLine.word!!, tags!!)
-                }
-
-            }
-        }
-
-        println("size=${cnWordsMap.size}")
-
-        cnWordsMap.forEach { t, u ->
-            val json = buildJsonObject {
-                put("word", t)
-                putJsonArray("tags") {
-                       u.forEach {it-> add(it) }
                 }
             }
-            println("${json}")
+
         }
     }
 
@@ -141,11 +174,11 @@ class CharTablesTest {
         filenames.forEach { filename ->
             println("readJsonlFiles: filename=${filename}")
             val jsonlText = File(filename).readText()
-            val fileJsonList = jsonlText.lines().map { Json.decodeFromString<JsonObject>(it) }
+            val fileJsonList = jsonlText.lines().map { val aa: JsonObject = Json.decodeFromString(JsonObject.serializer(),it); aa }
             jsonList.addAll(fileJsonList)
         }
         return jsonList
     }
 }
 
-data class CharTableFile(val srcFileName: String, val tag: String, val destFileName:String)
+data class CharTableFile(val srcFileName: String, val tag: String, val destFileName: String)

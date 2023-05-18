@@ -370,15 +370,15 @@
 {"seq": 6870, "word": "胣", "pinyin": "", "definition": "", "words":[], "sentences":[] }
 {"seq": 6870, "word": "胩", "pinyin": "kǎ", "definition": "有机化合物的一类，异腈的旧称，无色液体，有恶臭，剧毒。", "words": [], "sentences": []} 
 {"seq": 6871, "word": "朏", "pinyin": "fěi", "definition": "新月开始生明发光，亦用为阴历每月初三日的代称。", "words": [], "sentences": []} 
-{"seq": 6872, "word": "飐", "pinyin": "zhǎn", "definition": "风吹颤动"}
-{"seq": 6873, "word": "訄", "pinyin": "qiú", "definition": "逼迫"}
-{"seq": 6874, "word": "饻", "pinyin": "xī", "definition": "一种计算货币的单位，一饻等于若干种实物价格的总和"}
-{"seq": 6875, "word": "庤", "pinyin": "zhì", "definition": "储备；储藏"}
-{"seq": 6876, "word": "疢", "pinyin": "chèn", "definition": "热病，亦泛指病"}
-{"seq": 6877, "word": "炣", "pinyin": "kě", "definition": "火"}
-{"seq": 6878, "word": "炟", "pinyin": "dá", "definition": "火起，爆"}
-{"seq": 6879, "word": "㶲", "pinyin": "", "definition": ""}
-{"seq": 6880, "word": "洭", "pinyin": "", "definition": ""}
+{"seq": 6872, "word": "飐", "pinyin": "zhǎn", "definition": "风吹颤动", "words": [], "sentences": []}
+{"seq": 6873, "word": "訄", "pinyin": "qiú", "definition": "逼迫", "words": [], "sentences": []}
+{"seq": 6874, "word": "饻", "pinyin": "xī", "definition": "一种计算货币的单位，一饻等于若干种实物价格的总和", "words": [], "sentences": []}
+{"seq": 6875, "word": "庤", "pinyin": "zhì", "definition": "储备；储藏", "words": [], "sentences": []}
+{"seq": 6876, "word": "疢", "pinyin": "chèn", "definition": "热病，亦泛指病", "words": [], "sentences": []}
+{"seq": 6877, "word": "炣", "pinyin": "kě", "definition": "火", "words": [], "sentences": []}
+{"seq": 6878, "word": "炟", "pinyin": "dá", "definition": "火起，爆", "words": [], "sentences": []}
+{"seq": 6879, "word": "㶲", "pinyin": "", "definition": "", "words": [], "sentences": []}
+{"seq": 6880, "word": "洭", "pinyin": "", "definition": "", "words": [], "sentences": []}
 {"seq": 6881, "word": "洘", "pinyin": "háo", "definition": "洘河，流经湖南省中部的一条河流", "words":[], "sentences":[]}
 {"seq": 6882, "word": "洓", "pinyin": "sè", "definition": "明净清洁", "words":[], "sentences":[]}
 {"seq": 6883, "word": "洿", "pinyin": "wū", "definition": "淤塞的河渠。也指淤积的泥沙", "words":[], "sentences":[]}
@@ -439,7 +439,7 @@
 {"seq": 6938, "word": "珢", "pinyin": "yín,kěn", "definition": "似玉的美石", "words":[ "美石", "瑛珢"], "sentences":[ "这个玉瑛珢晶莹剔透，极为罕见。", "在古代，珢被视为珍贵的礼物赠送给朝廷高官。" ] }
 {"seq": 6939, "word": "珕", "pinyin": "lì", "definition": "蚌蛤一类的软体动物，古代用贝壳做刀鞘上的装饰", "words":[], "sentences":[]}
 {"seq": 6940, "word": "珝", "pinyin": "xǔ", "definition": "《说文》玉名也。又人名。", "words":[], "sentences":[]}
-{"seq": 6941, "word": "𫭼", "pinyin": "láo", "definition": null, "words": [" . ①【圪～】<方>角落. ②地名：炕圪～；王家圪～、于家圪～。"], "sentences": []}
+{"seq": 6941, "word": "𫭼", "pinyin": "láo", "definition": "", "words": [" . ①【圪～】<方>角落. ②地名：炕圪～；王家圪～、于家圪～。"], "sentences": []}
 {"seq": 6942, "word": "埗", "pinyin": "bù", "definition": "田间或路旁的土堆，用来垒围墙或作其他建筑之用", "words": ["堤埗", "垄埂"], "sentences": ["他们在田边筑了一个小埗，用来种植蔬菜。", "这条路的两边都有高大的埗，看上去像是防止农田涝水的堤坝。"]}
 {"seq": 6943, "word": "垾", "pinyin": "hàn", "definition": "泥土松软的土坡或堤防", "words": ["岸垾", "堤垾"], "sentences": ["水流冲刷了这里的垾，形成了一个浅滩。", "他们用土石筑起了一座高大的垾，以防止洪水淹没周围的村庄。"]}
 {"seq": 6944, "word": "垺", "pinyin": "fù", "definition": "用土或石头垒成的矮墙", "words": ["石垺", "土垺"], "sentences": ["她在花园里围了一圈垺，用来保护蔬菜和花草。", "这些古建筑周围都有高大的石垺，显得格外雄伟。"]}
@@ -554,12 +554,12 @@
 {"seq": 7052, "word": "烻", "pinyin": "yàn", "definition": "干燥", "words":["枯烻", "荒烻"],"sentences":["这个地区很长时间没有下雨，土地都变得很烻。", "冬天的空气很干燥，容易让人感到不舒服。"]}
 {"seq": 7053, "word": "𬊈", "pinyin": "bì", "definition": "一种鸟类", "words":["𬊈鸟", "𬊈鸠"],"sentences":["在田野上我看到了一只漂亮的𬊈鸟。", "这种小型鸟类叫做𬊈鸠。"]}
 {"seq": 7054, "word": "涍", "pinyin": "xiào", "definition": "急流，奔流", "words":["湍涍", "川涍"],"sentences":["山谷中的小溪变成了湍涍的河流。", "风暴过后，海面变得异常涌涍。"]}
-{"seq": 7055, "word": "浡", "pinyin": "bó", "definition": "浙江省绍兴市一带的方言，表示'小河流。"}
-{"seq": 7056, "word": "浭", "pinyin": "gěng", "definition": "浅滩、浅水。"}
-{"seq": 7057, "word": "浬", "pinyin": "lǐ", "definition": "长度单位，国际海上使用的单位之一，1海里相当于1.852千米。"}
-{"seq": 7058, "word": "涄", "pinyin": "pīn", "definition": "形容水中草木随波漂流。"}
-{"seq": 7059, "word": "涢", "pinyin": "yún", "definition": "形容水流湍急。"}
-{"seq": 7060, "word": "涐", "pinyin": "é", "definition": "波纹。"}
+{"seq": 7055, "word": "浡", "pinyin": "bó", "definition": "浙江省绍兴市一带的方言，表示'小河流。", "words":[], "sentences":[]}
+{"seq": 7056, "word": "浭", "pinyin": "gěng", "definition": "浅滩、浅水。", "words":[], "sentences":[]}
+{"seq": 7057, "word": "浬", "pinyin": "lǐ", "definition": "长度单位，国际海上使用的单位之一，1海里相当于1.852千米。", "words":[], "sentences":[]}
+{"seq": 7058, "word": "涄", "pinyin": "pīn", "definition": "形容水中草木随波漂流。", "words":[], "sentences":[]}
+{"seq": 7059, "word": "涢", "pinyin": "yún", "definition": "形容水流湍急。", "words":[], "sentences":[]}
+{"seq": 7060, "word": "涐", "pinyin": "é", "definition": "波纹。", "words":[], "sentences":[]}
 {"seq": 7061, "word": "浰", "pinyin": "là", "definition": "浑浊的水", "words":[], "sentences":[ "河里的水非常浰，不能直接饮用。" ] }
 {"seq": 7062, "word": "浟", "pinyin": "yóu", "definition": "淤泥", "words":[], "sentences":[ "河底淤积了很多浟，需要清理。" ] }
 {"seq": 7063, "word": "浛", "pinyin": "hán", "definition": "水深", "words":[], "sentences":[ "这里的河水浛得只有小孩子才能游泳。" ] }
@@ -1180,7 +1180,7 @@
 {"seq": 7678, "word": "𨱏", "pinyin": "𨱏是一个异体字2，和’砐‘同音同义。", "definition": "", "words":[ ], "sentences":[ ] }
 {"seq": 7679, "word": "锺", "pinyin": "zhōng", "definition": "钟，用于计量和报告时间的设备，通常由一个圆形表盘和一个或多个指针组成。","words":["时钟","铃声"],"sentences":["这个房间里有一个大的墙上挂钟。","我设置了三个不同的闹钟，因为我经常会睡过头。"]} 
 {"seq": 7680, "word": "锼", "pinyin": "sòu", "definition": "锉刀，一种金属加工工具，用来去除金属表面的毛刺、飞边或锈迹等。","words":["锉刀"],"sentences":["他拿起锉刀开始打磨金属表面。"]}
-{"seq": 7681, "word": "锽", "pinyin": "huáng", "definition": "一种金属器物"}
+{"seq": 7681, "word": "锽", "pinyin": "huáng", "definition": "一种金属器物", "words":[], "sentences":[], "words":[], "sentences":[]}
 {"seq": 7682, "word": "𬭤", "pinyin": "", "definition": "", "words":[], "sentences":[]}
 {"seq": 7683, "word": "锾", "pinyin": "huán", "definition": "一种金属器物", "words":[], "sentences":[]}
 {"seq": 7684, "word": "锿", "pinyin": "āi", "definition": "一种金属元素", "words":[], "sentences":[]}
