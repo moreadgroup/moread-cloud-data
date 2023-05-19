@@ -15,6 +15,7 @@ import java.nio.file.Files
 import java.nio.file.Paths
 import java.util.*
 import kotlin.collections.HashMap
+import kotlin.system.exitProcess
 
 @Serializable
 data class WordExplanationModel(
@@ -109,6 +110,7 @@ class CharTablesTest {
                     var wordExplanation = allWords.get(wordLine.word!!);
                     if (Objects.isNull(wordExplanation)) {
                         println("Please fix the ERROR first Missing Explanation: \"seq\": ${wordLine.seq}, \"word\": \"${wordLine.word}\" ")
+                        exitProcess(1)
                     } else {
 
                         println("${wordExplanation}")
