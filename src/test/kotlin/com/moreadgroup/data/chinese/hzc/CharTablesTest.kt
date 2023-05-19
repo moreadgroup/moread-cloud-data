@@ -19,7 +19,7 @@ import kotlin.system.exitProcess
 
 @Serializable
 data class WordExplanationModel(
-    var seq: Int,
+    var seq: String,
     val word: String,
     val pinyin: String,
     val definition: String,
@@ -115,7 +115,7 @@ class CharTablesTest {
 
                         println("${wordExplanation}")
                         val testModel: WordExplanationModel = json.decodeFromString(wordExplanation.toString())
-                        testModel.seq = wordLine.seq!!.toInt();
+                        testModel.seq = wordLine.seq!!;
                         val jsonObject = json.encodeToJsonElement(WordExplanationModel.serializer(), testModel)
                         val jsonString = jsonObject.toString()
                         println("testModel= ${jsonString}")

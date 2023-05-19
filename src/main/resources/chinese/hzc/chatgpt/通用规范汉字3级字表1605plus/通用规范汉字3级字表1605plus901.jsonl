@@ -1,20 +1,20 @@
-{"seq": 7401, "word": "腘","pinyin": "guó", "definition": "大腿。","words":[],"sentences":[]}
-{"seq": 7402, "word": "䐃", "pinyin": "tǎn", "definition": "一种古代的肉类食品，用肉切成薄片，加盐腌制后晒干。", "words": ["䐃肉", "䐃片", "䐃干"], "sentences": ["《詩·小雅·鹿鳴》：「我有旨酒，嘉賓式燕以敖。我有䐃肉，嘉賓式燕以醯。」", "《禮記·曲禮下》：「食肉之禮，用䐃片。」", "《漢書·藝文志》：「䐃干，以肉為之，切而腌之。」"]}
-{"seq": 7403, "word": "腙","pinyin": "zōng", "definition": "肌肉组织。","words":[],"sentences":[]}
-{"seq": 7404, "word": "腒", "pinyin": "jū", "definition": "一种古代的肉类食品，用肉切成块状，加盐腌制后晒干。", "words": ["腒肉", "腒块", "腒干"], "sentences": ["《詩·小雅·鹿鳴》：「我有旨酒，嘉賓式燕以敖。我有腒肉，嘉賓式燕以醯。」", "《禮記·曲禮下》：「食肉之禮，用腒块。」", "《漢書·藝文志》：「腒干，以肉為之，剁而腌之。」"]}
-{"seq": 7405, "word": "𬱟", "pinyin": "líng", "definition": "一种古代的食品或药品，用米或粟等谷物发酵制成的粥或汁液。", "words": ["𬱟食", "𬱟粥", "𬱟汁"], "sentences": ["《詩·小雅·鹿鳴》：「我有旨酒，嘉賓式燕以敖。我有𬱟食，嘉賓式燕以醯。」", "《禮記·曲禮下》：「疾病者，食𬱟粥。」", "《漢書·藝文志》：「𬱟汁，以米為之，甘而不酸。」"]}
-{"seq": 7406, "word": "鲃","pinyin": "bā", "definition": "一种鲑科鱼类。","words":[],"sentences":[]}
-{"seq": 7407, "word": "猰","pinyin": "yà", "definition": "一种文眼草属的植物。","words":[],"sentences":[]}
-{"seq": 7408, "word": "𫛭", "pinyin": "xīn", "definition": "一种古代的食品或药品，用米或粟等谷物发酵制成的固体或半固体物质。", "words": ["𫛭食", "𫛭团", "𫛭块"], "sentences": ["《詩·小雅·鹿鳴》：「我有旨酒，嘉賓式燕以敖。我有𫛭食，嘉賓式燕以醯。」", "《禮記·曲禮下》：「食米之禮，用𫛭团。」", "《漢書·藝文志》：「𫛭块，以米為之，堅而不散。」"]}
-{"seq": 7409, "word": "猯","pinyin": "tuán", "definition": "一种猪。","words":[],"sentences":[]}
-{"seq": 7410, "word": "㺄","pinyin": "zhuó", "definition": "一种泥鳅。","words":[],"sentences":[]}
-{"seq": 7411, "word": "馉","pinyin": "gǔ", "definition": "一种传统的面包。","words":[],"sentences":[]}
-{"seq": 7412, "word": "凓","pinyin": "lì", "definition": "天空中云层过滤阳光，阳光看起来非常明亮。","words":[],"sentences":[]}
-{"seq": 7413, "word": "鄗", "pinyin": "hào", "definition": "一种古代的酒器，形似壶，有盖有柄，口小腹大。", "words": ["鄗酒", "鄗壶", "鄗盖"], "sentences": ["《詩·小雅·鹿鳴》：「我有旨酒，嘉賓式燕以敖。我有鄗酒，嘉賓式燕以醯。」", "《禮記·曲禮上》：「飲酒之禮，用鄗壶。」", "《漢書·藝文志》：「鄗盖，以木為之，雕刻而飾之。」"]}
-{"seq": 7414, "word": "𫷷", "pinyin": "yǎn", "definition": "一种古代的肉类食品，用肉切成薄片，加盐腌制后晒干。", "words": ["𫷷肉", "𫷷片", "𫷷干"], "sentences": ["《詩·小雅·鹿鳴》：「我有旨酒，嘉賓式燕以敖。我有𫷷肉，嘉賓式燕以醯。」", "《禮記·曲禮下》：「食肉之禮，用𫷷片。」", "《漢書·藝文志》：「𫷷干，以肉為之，切而腌之。」"]}
-{"seq": 7415, "word": "廋","pinyin": "sōu", "definition": "瘦小的样子。","words":[],"sentences":[]}
-{"seq": 7416, "word": "廆","pinyin": "guī", "definition": "皇帝或王子的居所。","words":[],"sentences":[]}
-{"seq": 7417, "word": "鄌","pinyin": "táng", "definition": "一种老鼠。","words":[],"sentences":[]}
-{"seq": 7418, "word": "粢","pinyin": "zī", "definition": "一种小米。","words":[],"sentences":[]}
-{"seq": 7419, "word": "遆","pinyin": "tí", "definition": "拖延。","words":[],"sentences":[]}
-{"seq": 7420, "word": "旐","pinyin": "zhào", "definition": "军队的战旗。","words":[],"sentences":[]}
+{"seq": "7401", "word": "腘","pinyin": "guó", "definition": "大腿。","words":[],"sentences":[]}
+{"seq": "7402", "word": "䐃", "pinyin": "tǎn", "definition": "一种古代的肉类食品，用肉切成薄片，加盐腌制后晒干。", "words": ["䐃肉", "䐃片", "䐃干"], "sentences": ["《詩·小雅·鹿鳴》：「我有旨酒，嘉賓式燕以敖。我有䐃肉，嘉賓式燕以醯。」", "《禮記·曲禮下》：「食肉之禮，用䐃片。」", "《漢書·藝文志》：「䐃干，以肉為之，切而腌之。」"]}
+{"seq": "7403", "word": "腙","pinyin": "zōng", "definition": "肌肉组织。","words":[],"sentences":[]}
+{"seq": "7404", "word": "腒", "pinyin": "jū", "definition": "一种古代的肉类食品，用肉切成块状，加盐腌制后晒干。", "words": ["腒肉", "腒块", "腒干"], "sentences": ["《詩·小雅·鹿鳴》：「我有旨酒，嘉賓式燕以敖。我有腒肉，嘉賓式燕以醯。」", "《禮記·曲禮下》：「食肉之禮，用腒块。」", "《漢書·藝文志》：「腒干，以肉為之，剁而腌之。」"]}
+{"seq": "7405", "word": "𬱟", "pinyin": "líng", "definition": "一种古代的食品或药品，用米或粟等谷物发酵制成的粥或汁液。", "words": ["𬱟食", "𬱟粥", "𬱟汁"], "sentences": ["《詩·小雅·鹿鳴》：「我有旨酒，嘉賓式燕以敖。我有𬱟食，嘉賓式燕以醯。」", "《禮記·曲禮下》：「疾病者，食𬱟粥。」", "《漢書·藝文志》：「𬱟汁，以米為之，甘而不酸。」"]}
+{"seq": "7406", "word": "鲃","pinyin": "bā", "definition": "一种鲑科鱼类。","words":[],"sentences":[]}
+{"seq": "7407", "word": "猰","pinyin": "yà", "definition": "一种文眼草属的植物。","words":[],"sentences":[]}
+{"seq": "7408", "word": "𫛭", "pinyin": "xīn", "definition": "一种古代的食品或药品，用米或粟等谷物发酵制成的固体或半固体物质。", "words": ["𫛭食", "𫛭团", "𫛭块"], "sentences": ["《詩·小雅·鹿鳴》：「我有旨酒，嘉賓式燕以敖。我有𫛭食，嘉賓式燕以醯。」", "《禮記·曲禮下》：「食米之禮，用𫛭团。」", "《漢書·藝文志》：「𫛭块，以米為之，堅而不散。」"]}
+{"seq": "7409", "word": "猯","pinyin": "tuán", "definition": "一种猪。","words":[],"sentences":[]}
+{"seq": "7410", "word": "㺄","pinyin": "zhuó", "definition": "一种泥鳅。","words":[],"sentences":[]}
+{"seq": "7411", "word": "馉","pinyin": "gǔ", "definition": "一种传统的面包。","words":[],"sentences":[]}
+{"seq": "7412", "word": "凓","pinyin": "lì", "definition": "天空中云层过滤阳光，阳光看起来非常明亮。","words":[],"sentences":[]}
+{"seq": "7413", "word": "鄗", "pinyin": "hào", "definition": "一种古代的酒器，形似壶，有盖有柄，口小腹大。", "words": ["鄗酒", "鄗壶", "鄗盖"], "sentences": ["《詩·小雅·鹿鳴》：「我有旨酒，嘉賓式燕以敖。我有鄗酒，嘉賓式燕以醯。」", "《禮記·曲禮上》：「飲酒之禮，用鄗壶。」", "《漢書·藝文志》：「鄗盖，以木為之，雕刻而飾之。」"]}
+{"seq": "7414", "word": "𫷷", "pinyin": "yǎn", "definition": "一种古代的肉类食品，用肉切成薄片，加盐腌制后晒干。", "words": ["𫷷肉", "𫷷片", "𫷷干"], "sentences": ["《詩·小雅·鹿鳴》：「我有旨酒，嘉賓式燕以敖。我有𫷷肉，嘉賓式燕以醯。」", "《禮記·曲禮下》：「食肉之禮，用𫷷片。」", "《漢書·藝文志》：「𫷷干，以肉為之，切而腌之。」"]}
+{"seq": "7415", "word": "廋","pinyin": "sōu", "definition": "瘦小的样子。","words":[],"sentences":[]}
+{"seq": "7416", "word": "廆","pinyin": "guī", "definition": "皇帝或王子的居所。","words":[],"sentences":[]}
+{"seq": "7417", "word": "鄌","pinyin": "táng", "definition": "一种老鼠。","words":[],"sentences":[]}
+{"seq": "7418", "word": "粢","pinyin": "zī", "definition": "一种小米。","words":[],"sentences":[]}
+{"seq": "7419", "word": "遆","pinyin": "tí", "definition": "拖延。","words":[],"sentences":[]}
+{"seq": "7420", "word": "旐","pinyin": "zhào", "definition": "军队的战旗。","words":[],"sentences":[]}

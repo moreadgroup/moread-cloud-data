@@ -1,20 +1,20 @@
-{"seq": 4847, "word": "唷", "pinyin": "yō", "definition": "叹词，表示诱惑、惊异、提醒等语气", "words":["吆唷"], "sentences":[ "唷，这么好的机会你可千万别错过了。", "唷，小心不要跌倒了。" ] }
-{"seq": 4848, "word": "啖", "pinyin": "dàn", "definition": "吃，吃东西", "words":["啖饱"], "sentences":[ "他啖下了一口香甜的苹果。", "你需要啖点什么吗？" ] }
-{"seq": 4851, "word": "啷", "pinyin": "lāng", "definition": "形容金属或石头发出撞击或碰撞的响声", "words":["啷当","啷噹声"], "sentences":[ "啷当一声，门被狠狠地关上了。", "啷啷噹噹的声音传来，他们来了。" ] }
-{"seq": 4852, "word": "唳", "pinyin": "lì", "definition": "鸟鸣声中的一种，亦指其他鸣声尖利的动物", "words":["唳鹤"], "sentences":[ "清晨，唳鹤的声音传来。"] }
-{"seq": 4868, "word": "铙", "pinyin": "náo", "definition": "一种古代打击乐器，由铜制成，形似锣，但口沿略高", "words":["铙钹"], "sentences":[ "听那铙的一声，跑得更快了。"] }
-{"seq": 4870, "word": "铠", "pinyin": "kǎi", "definition": "古代士兵防护身体的盔甲", "words":["铠甲"], "sentences":[ "军人佩戴着厚重的铠甲奔跑着。"] }
-{"seq": 4872, "word": "铢", "pinyin": "zhū", "definition": "古代的一种称重器，用青铜打造", "words":["铢秤"], "sentences":[ "买菜时常常要用铢秤去称。"] }
-{"seq": 4875, "word": "铧", "pinyin": "huá", "definition": "翻晒谷物或脱粒的农具，用木头或竹子制成，有数个平面的横梁和数个短柄", "words":["铧子"], "sentences":[ "田野里停着一辆较大的铧子。"] }
-{"seq": 4876, "word": "铨", "pinyin": "quán", "definition": "古代官吏在任前经过考试而获得的品阶或官衔", "words":["铨署"], "sentences":[ "昔日的铨署如今成为一个博物馆。"] }
-{"seq": 4877, "word": "铩", "pinyin": "shā", "definition": "铠甲上盖的冠子，古代士兵防御攻击时用来保护颈部", "words":["铩羽"], "sentences":[ "这似乎是我铩羽而归的结果。"] }
-{"seq": 4883, "word": "铰", "pinyin": "jiǎo", "definition": "剪刀", "words":["铰刀"], "sentences":[ "给我借一下你的铰刀。"] }
-{"seq": 4884, "word": "铱", "pinyin": "yī", "definition": "一种白色贵重金属元素，化学符号为Ir", "words":["铱金"], "sentences":[ "这种镶铱金的小夜壶价值不菲。"] }
-{"seq": 4888, "word": "氪", "pinyin": "kè", "definition": "一种无色、无味、无毒的气体元素，化学符号Kr", "words":["氪气"], "sentences":[ "他用氪气灯照亮了整个实验室。"] }
-{"seq": 4889, "word": "牾", "pinyin": "wǔ", "definition": "相反的方向，向相反的方向", "words":["牾拐"], "sentences":[ "他的和我的看法有些牾牛。"] }
-{"seq": 4895, "word": "笸", "pinyin": "pǒ", "definition": "一种用竹子做成的食品容器，像篮子", "words":["笸箩"], "sentences":[ "这个笸箩里装的是新鲜的水果。"] }
-{"seq": 4901, "word": "笳", "pinyin": "jiā", "definition": "一种吹奏乐器，形似唢呐", "words":["笳吹"], "sentences":[ "听到清晰的笳吹，我好似穿越了千年。"] }
-{"seq": 4907, "word": "偈", "pinyin": "jì", "definition": "佛教诗歌的一种体裁，一般用四句诗组成", "words":["偈颂"], "sentences":[ "有些人每天早上忙于诵读偈颂和打坐。"] }
-{"seq": 4909, "word": "偬", "pinyin": "zǒng", "definition": "侧身而坐，身体向左或向右倾斜", "words":["偬婆"], "sentences":[ "她偬在沙发上，专注地看着电视节目。"] }
-{"seq": 4915, "word": "舸", "pinyin": "gě", "definition": "一种有桨的船，形似宽平的木筏，船头和船尾微微翘起", "words":["小舸"], "sentences":[ "我们坐着小舸前往对面的岸边。"] }
-{"seq": 4925, "word": "猗", "pinyin": "yī", "definition": "表示惊异或询问的语气词", "words":["猗义"], "sentences":[ "猗猗猗又是什么事了，你没完了吗？"] }
+{"seq": "4847", "word": "唷", "pinyin": "yō", "definition": "叹词，表示诱惑、惊异、提醒等语气", "words":["吆唷"], "sentences":[ "唷，这么好的机会你可千万别错过了。", "唷，小心不要跌倒了。" ] }
+{"seq": "4848", "word": "啖", "pinyin": "dàn", "definition": "吃，吃东西", "words":["啖饱"], "sentences":[ "他啖下了一口香甜的苹果。", "你需要啖点什么吗？" ] }
+{"seq": "4851", "word": "啷", "pinyin": "lāng", "definition": "形容金属或石头发出撞击或碰撞的响声", "words":["啷当","啷噹声"], "sentences":[ "啷当一声，门被狠狠地关上了。", "啷啷噹噹的声音传来，他们来了。" ] }
+{"seq": "4852", "word": "唳", "pinyin": "lì", "definition": "鸟鸣声中的一种，亦指其他鸣声尖利的动物", "words":["唳鹤"], "sentences":[ "清晨，唳鹤的声音传来。"] }
+{"seq": "4868", "word": "铙", "pinyin": "náo", "definition": "一种古代打击乐器，由铜制成，形似锣，但口沿略高", "words":["铙钹"], "sentences":[ "听那铙的一声，跑得更快了。"] }
+{"seq": "4870", "word": "铠", "pinyin": "kǎi", "definition": "古代士兵防护身体的盔甲", "words":["铠甲"], "sentences":[ "军人佩戴着厚重的铠甲奔跑着。"] }
+{"seq": "4872", "word": "铢", "pinyin": "zhū", "definition": "古代的一种称重器，用青铜打造", "words":["铢秤"], "sentences":[ "买菜时常常要用铢秤去称。"] }
+{"seq": "4875", "word": "铧", "pinyin": "huá", "definition": "翻晒谷物或脱粒的农具，用木头或竹子制成，有数个平面的横梁和数个短柄", "words":["铧子"], "sentences":[ "田野里停着一辆较大的铧子。"] }
+{"seq": "4876", "word": "铨", "pinyin": "quán", "definition": "古代官吏在任前经过考试而获得的品阶或官衔", "words":["铨署"], "sentences":[ "昔日的铨署如今成为一个博物馆。"] }
+{"seq": "4877", "word": "铩", "pinyin": "shā", "definition": "铠甲上盖的冠子，古代士兵防御攻击时用来保护颈部", "words":["铩羽"], "sentences":[ "这似乎是我铩羽而归的结果。"] }
+{"seq": "4883", "word": "铰", "pinyin": "jiǎo", "definition": "剪刀", "words":["铰刀"], "sentences":[ "给我借一下你的铰刀。"] }
+{"seq": "4884", "word": "铱", "pinyin": "yī", "definition": "一种白色贵重金属元素，化学符号为Ir", "words":["铱金"], "sentences":[ "这种镶铱金的小夜壶价值不菲。"] }
+{"seq": "4888", "word": "氪", "pinyin": "kè", "definition": "一种无色、无味、无毒的气体元素，化学符号Kr", "words":["氪气"], "sentences":[ "他用氪气灯照亮了整个实验室。"] }
+{"seq": "4889", "word": "牾", "pinyin": "wǔ", "definition": "相反的方向，向相反的方向", "words":["牾拐"], "sentences":[ "他的和我的看法有些牾牛。"] }
+{"seq": "4895", "word": "笸", "pinyin": "pǒ", "definition": "一种用竹子做成的食品容器，像篮子", "words":["笸箩"], "sentences":[ "这个笸箩里装的是新鲜的水果。"] }
+{"seq": "4901", "word": "笳", "pinyin": "jiā", "definition": "一种吹奏乐器，形似唢呐", "words":["笳吹"], "sentences":[ "听到清晰的笳吹，我好似穿越了千年。"] }
+{"seq": "4907", "word": "偈", "pinyin": "jì", "definition": "佛教诗歌的一种体裁，一般用四句诗组成", "words":["偈颂"], "sentences":[ "有些人每天早上忙于诵读偈颂和打坐。"] }
+{"seq": "4909", "word": "偬", "pinyin": "zǒng", "definition": "侧身而坐，身体向左或向右倾斜", "words":["偬婆"], "sentences":[ "她偬在沙发上，专注地看着电视节目。"] }
+{"seq": "4915", "word": "舸", "pinyin": "gě", "definition": "一种有桨的船，形似宽平的木筏，船头和船尾微微翘起", "words":["小舸"], "sentences":[ "我们坐着小舸前往对面的岸边。"] }
+{"seq": "4925", "word": "猗", "pinyin": "yī", "definition": "表示惊异或询问的语气词", "words":["猗义"], "sentences":[ "猗猗猗又是什么事了，你没完了吗？"] }
