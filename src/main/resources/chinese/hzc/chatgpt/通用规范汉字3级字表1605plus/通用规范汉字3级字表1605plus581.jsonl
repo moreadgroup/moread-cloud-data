@@ -1,20 +1,20 @@
-{"seq": 7081, "word": "隺", "pinyin": "hé", "definition": "群中的鸟飞行成V字形而成的队形。", "words":[], "sentences":[ "大雁飞向南方时，总是排成隺字形，非常有规律。" ] }
-{"seq": 7082, "word": "堲", "pinyin": "jí", "definition": "介于河流和土地之间的岸边；河滩。", "words":[], "sentences":[ "他坐在堲边，看着河水慢慢流淌。" ] }
-{"seq": 7083, "word": "疍", "pinyin": "shàn", "definition": "一种传统狗肉料理。", "words":[], "sentences":[ "在一些地方，人们喜欢吃疍肉，它是当地的特色美食。" ] }
-{"seq": 7084, "word": "𨺙", "pinyin": "yíng", "definition": "一种鸟类，又称白鹭。", "words":[], "sentences":[ "在湖边，他看到了一只𨺙在岸边觅食。" ] }
-{"seq": 7085, "word": "陴", "pinyin": "pí", "definition": "山路；山脊。", "words":[], "sentences":[ "他爬上山顶，看到了一条曲折的陴路。" ] }
-{"seq": 7086, "word": "烝", "pinyin": "zhēng", "definition": "火热。", "words":[], "sentences":[ "烈日当头，让人感到刻骨的烝热。" ] }
-{"seq": 7087, "word": "砮", "pinyin": "nǔ", "definition": "一种用来夹取物品的器具。", "words":[], "sentences":[ "他用砮夹住了一只金鱼，将它放回了池塘。" ] }
-{"seq": 7088, "word": "㛚", "pinyin": "bàng", "definition": "虎的吼声。", "words":[], "sentences":[ "深山里传来了一声㛚声，让人不由得心生寒意。" ] }
-{"seq": 7089, "word": "哿", "pinyin": "gé", "definition": "愚笨，无知。", "words":[], "sentences":[ "他虽然年轻，却不愿意表现出哿态。" ] }
-{"seq": 7090, "word": "翀", "pinyin": "chōng", "definition": "翱翔。", "words":[], "sentences":[ "鹰在空中翀翔，展翅高飞。" ] }
-{"seq": 7091, "word": "翂", "pinyin": "fēn", "definition": "鸟飞行时拍打翅膀的声音。", "words":[], "sentences":[ "天空中传来了阵阵翂动的声音，原来有一群鸟在飞行。" ] }
-{"seq": 7092, "word": "剟", "pinyin": "duō", "definition": "凿开。", "words":[], "sentences":[ "他用锤子和凿子剟开了一块砖头。" ] }
-{"seq": 7093, "word": "𬳿", "pinyin": "zǎn", "definition": "古时用于蒸馏酒。", "words":[], "sentences":[ "在古代，人们用𬳿来制作美酒。" ] }
+{"seq": 7081, "word": "隺", "pinyin": "hé", "definition": "群中的鸟飞行成V字形而成的队形。", "words": ["隺形", "隺队"], "sentences": ["大雁飞向南方时，总是排成隺(hé)形(xíng)，非常有规律。", "他们在天空中看到了一支隺(hé)队(duì)，由许多鸟类组成，显得十分壮观。"]}
+{"seq": 7082, "word": "堲", "pinyin": "jí", "definition": "介于河流和土地之间的岸边；河滩。", "words": ["堲边", "堲滩"], "sentences": ["他坐在堲(jí)边(biān)，看着河水慢慢流淌。", "他们在堲(jí)滩(tān)上玩耍，有的捡石头，有的捉小虾。"]}
+{"seq": 7083, "word": "疍", "pinyin": "shàn", "definition": "一种传统狗肉料理。", "words": ["疍肉", "疍菜"], "sentences": ["在一些地方，人们喜欢吃疍(shàn)肉(ròu)，它是当地的特色美食。", "他们在饭店里点了一盘疍(shàn)菜(cài)，里面有狗肉、豆腐、青菜等，味道很香辣。"]}
+{"seq": 7084, "word": "𨺙", "pinyin": "yíng", "definition": "一种鸟类，又称白鹭。", "words": ["𨺙鸟", "𨺙羽"], "sentences": ["在湖边，他看到了一只𨺙(yíng)在岸边觅食。", "她用𨺙(yíng)鸟(niǎo)的羽毛做了一个漂亮的发饰，戴在头上，显得十分优雅。", "他们在湿地里发现了一个𨺙(yíng)羽(yǔ)的巢穴，里面有几只小白鹭正在孵化。"]}
+{"seq": 7085, "word": "陴", "pinyin": "pí", "definition": "山路；山脊。","words":["陴路","陴脊"],"sentences":["他爬上山顶，看到了一条曲折的陴(pí)路(lù)。", "他们沿着陴(pí)脊(jǐ)而行，欣赏着两边的风景。"]}
+{"seq": 7086, "word": "烝", "pinyin": "zhēng", "definition": "火热。", "words": ["烝热", "烝火"], "sentences": ["烈日当头，让人感到刻骨的烝(zhēng)热(rè)。", "他们在篝火旁边取暖，感受着烝(zhēng)火(huǒ)的温度。"]}
+{"seq": 7087, "word": "砮", "pinyin": "nǔ", "definition": "一种用来夹取物品的器具。", "words": ["砮夹", "砮子"], "sentences": ["他用砮(nǔ)夹(jiā)住了一只金鱼，将它放回了池塘。", "她拿着一个砮(nǔ)子(zi)，在菜市场里挑选着新鲜的水果。"]}
+{"seq": 7088, "word": "㛚", "pinyin": "bàng", "definition": "虎的吼声。", "words": ["㛚声", "㛚吼"], "sentences": ["深山里传来了一声㛚(bàng)声(shēng)，让人不由得心生寒意。", "他们听到了虎的㛚(bàng)吼(hǒu)，立刻躲进了树林里，不敢出来。"]}
+{"seq": 7089, "word": "哿", "pinyin": "gé", "definition": "愚笨，无知。", "words": ["哿态", "哿人"], "sentences": ["他虽然年轻，却不愿意表现出哿(gé)态(tài)。", "他是一个哿(gé)人(rén)，什么都不懂，还总是自以为是。"]}
+{"seq": 7090, "word": "翀", "pinyin": "chōng", "definition": "翱翔。","words":["翀翔","翀飞"],"sentences":["鹰在空中翀(chōng)翔(xiáng)，展翅高飞。", "他们乘坐着飞机，在云层之上翀(chōng)飞(fēi)，感受着自由和快乐。"]}
+{"seq": 7091, "word": "翂", "pinyin": "fēn", "definition": "鸟飞行时拍打翅膀的声音。", "words": ["翂动", "翂声"], "sentences": ["天空中传来了阵阵翂(fēn)动(dòng)的声音，原来有一群鸟在飞行。", "他们听到了一阵翂(fēn)声(shēng)，抬头一看，发现了一只美丽的孔雀。"]}
+{"seq": 7092, "word": "剟", "pinyin": "duō", "definition": "凿开。", "words": ["剟开", "剟穿"], "sentences": ["他用锤子和凿子剟(duō)开(kāi)了一块砖头。", "他们用尖锐的工具剟(duō)穿(chuān)了墙壁，发现了一个隐藏的密室。"]}
+{"seq": 7093, "word": "𬳿", "pinyin": "zǎn", "definition": "古时用于蒸馏酒。", "words": ["𬳿器", "𬳿酒"], "sentences": ["在古代，人们用𬳿(zǎn)来制作美酒。", "他们在博物馆里看到了一件古老的𬳿(zǎn)器(qì)，上面刻着一些文字和图案。", "他们品尝了一些用𬳿(zǎn)酒(jiǔ)制成的佳酿，觉得非常香醇。"]}
 {"seq": 7094, "word": "𫄨", "pinyin": "chī", "definition": "夏季服装用的细布。", "words":[ "夏季服装"], "sentences":[ "古代人们在夏天也注重穿着，所以发明了夏季服装用的𫄨细布。"] }
-{"seq": 7095, "word": "绤", "pinyin": "xì", "definition": "汉代张衡发明的计时仪器，旋转一周定为一日。", "words":[], "sentences":[ "绤是我国古代非常重要的计时仪器之一。" ] }
-{"seq": 7096, "word": "骍", "pinyin": "xīng", "definition": "马毛色偏红黄。", "words":[], "sentences":[ "这匹骏马骍色鲜艳，非常漂亮。" ] }
-{"seq": 7097, "word": "𬘫", "pinyin": "měng", "definition": "一种珍贵的木材。", "words":[], "sentences":[ "那家具上使用的是非常昂贵的𬘫木，质地非常坚硬。" ] }
-{"seq": 7098, "word": "䂮", "pinyin": "liú", "definition": "乱石堆成的山峦。", "words":[], "sentences":[ "他攀上了附近的一座䂮山，俯瞰整个山谷。" ] }
-{"seq": 7099, "word": "琎", "pinyin": "jīn", "definition": "一种玉石。", "words":[], "sentences":[ "他收藏了很多珍稀的琎石，非常珍贵。" ] }
-{"seq": 7100, "word": "珸", "pinyin": "wú", "definition": "一种肚脐上的穴位。", "words":[], "sentences":[ "按摩珸穴可以缓解腰痛。" ] }
+{"seq": 7095, "word": "绤", "pinyin": "xì", "definition": "汉代张衡发明的计时仪器，旋转一周定为一日。", "words": ["绤仪", "绤日"], "sentences": ["绤(xì)是我国古代非常重要的计时仪器之一。", "他们在展览中看到了一台仿制的绤(xì)仪(yí)，感叹于古人的智慧和创造力。", "他们按照绤(xì)日(rì)的标准来安排自己的生活，与现代人有很大的不同。"]}
+{"seq": 7096, "word": "骍", "pinyin": "xīng", "definition": "马毛色偏红黄。","words":["骍马","骍色"],"sentences":["这匹骏马骍(xīng)色(sè)鲜艳，非常漂亮。", "他骑着一匹骍(xīng)马(mǎ)，在草原上奔驰，显得十分英姿飒爽。"]}
+{"seq": 7097, "word": "𬘫", "pinyin": "měng", "definition": "一种珍贵的木材。", "words": ["𬘫木", "𬘫材"], "sentences": ["那家具上使用的是非常昂贵的𬘫(měng)木(mù)，质地非常坚硬。", "他们在森林里发现了一些罕见的𬘫(měng)材(cái)，打算用它们来制作一些工艺品。"]}
+{"seq": 7098, "word": "䂮", "pinyin": "liú", "definition": "乱石堆成的山峦。", "words": ["䂮山", "䂮石"], "sentences": ["他攀上了附近的一座䂮(liú)山(shān)，俯瞰整个山谷。", "他们在䂮(liú)石(shí)上刻下了自己的名字，留下了一份永恒的纪念。"]}
+{"seq": 7099, "word": "琎", "pinyin": "jīn", "definition": "一种玉石。", "words": ["琎石", "琎玉"], "sentences": ["他收藏了很多珍稀的琎(jīn)石(shí)，非常珍贵。", "她戴着一件琎(jīn)玉(yù)的项链，显得十分高贵典雅。"]}
+{"seq": 7100, "word": "珸", "pinyin": "wú", "definition": "一种肚脐上的穴位。", "words": ["珸穴", "珸位"], "sentences": ["按摩珸(wú)穴(xué)可以缓解腰痛。", "他用针灸的方法刺激了自己的珸(wú)位(wèi)，感觉身体舒畅了许多。"]}

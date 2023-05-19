@@ -1,20 +1,20 @@
-{"seq": 7061, "word": "浰", "pinyin": "là", "definition": "浑浊的水", "words":[], "sentences":[ "河里的水非常浰，不能直接饮用。" ] }
-{"seq": 7062, "word": "浟", "pinyin": "yóu", "definition": "淤泥", "words":[], "sentences":[ "河底淤积了很多浟，需要清理。" ] }
-{"seq": 7063, "word": "浛", "pinyin": "hán", "definition": "水深", "words":[], "sentences":[ "这里的河水浛得只有小孩子才能游泳。" ] }
-{"seq": 7064, "word": "浼", "pinyin": "měi", "definition": "水的表面", "words":[], "sentences":[ "水的浼上漂着几朵白云。" ] }
-{"seq": 7065, "word": "浲", "pinyin": "féng", "definition": "水流的方向", "words":[], "sentences":[ "根据浲向，我们可以判断这里是河流的上游还是下游。" ] }
-{"seq": 7066, "word": "涘", "pinyin": "sì", "definition": "水声", "words":[], "sentences":[ "夜里听到涘声，让人感觉很安静。" ] }
-{"seq": 7067, "word": "悈", "pinyin": "jiè", "definition": "喜悦的样子", "words":[], "sentences":[ "听到好消息后，他的脸上露出了悈然的笑容。" ] }
-{"seq": 7068, "word": "悃", "pinyin": "kǔn", "definition": "老实，诚恳", "words":[], "sentences":[ "他是一个悃实的人，说话做事都很可靠。" ] }
-{"seq": 7069, "word": "悢", "pinyin": "liàng", "definition": "欢乐的样子", "words":[], "sentences":[ "他和朋友们在一起时，总是表现出悢然的神情。" ] }
-{"seq": 7070, "word": "𬒈", "pinyin": "lěng", "definition": "极寒", "words":[], "sentences":[ "冬天北风呼啸，让人感到万分𬒈冷。" ] }
-{"seq": 7071, "word": "宧", "pinyin": "yóu", "definition": "小屋，茅屋", "words":[], "sentences":[ "在山顶上有一座宧屋，可以供登山者休息。" ] }
-{"seq": 7072, "word": "窅", "pinyin": "yǎo", "definition": "幽深；阴暗。", "words":[], "sentences":[ "这座建筑的窅深气息让人不由得心生敬畏。" ] }
-{"seq": 7073, "word": "窊", "pinyin": "wā", "definition": "凹陷；低洼。", "words":[], "sentences":[ "他的脸上有一些窊陷的痕迹，显得有些瘦弱。" ] }
-{"seq": 7074, "word": "窎", "pinyin": "diào", "definition": "形容房屋的小巧玲珑。", "words":[], "sentences":[ "这间小屋虽然窎小，但是布置得非常温馨。" ] }
-{"seq": 7075, "word": "扅", "pinyin": "yí", "definition": "相隔远。", "words":[], "sentences":[ "两地相隔万里，他们之间的距离已经扅得让人觉得遥远。" ] }
-{"seq": 7076, "word": "扆", "pinyin": "yǐ", "definition": "闸门。", "words":[], "sentences":[ "他沿着河岸走，看到了一个扆闸，于是他走上去看看。" ] }
-{"seq": 7077, "word": "袪", "pinyin": "qū", "definition": "消除；去除。", "words":[], "sentences":[ "他用毛巾轻轻地袪去了妻子脸上的泪痕。" ] }
-{"seq": 7078, "word": "袗", "pinyin": "zhěn", "definition": "短衣袄。", "words":[], "sentences":[ "天气有点冷，他穿上了一件袗子。" ] }
-{"seq": 7079, "word": "袯", "pinyin": "bó", "definition": "古代士兵战时用的胸甲。", "words":[], "sentences":[ "他展示了他珍藏的一件古代战士使用的袯。" ] }
-{"seq": 7080, "word": "祧", "pinyin": "tiāo", "definition": "祖坟。", "words":[], "sentences":[ "每年清明节，他都会回到家乡，去祖先的祧前扫墓祭拜。"]}
+{"seq": 7061, "word": "浰", "pinyin": "là", "definition": "浑浊的水", "words": ["浰水", "浰浊"], "sentences": ["河里的水非常浰(là)，不能直接饮用。", "他们为了生存，不得不喝那些浰水(là shuǐ)，结果都生了病。", "他们在工厂附近排放了大量的废水，导致附近的河流都变得浰浊(là zhuó)不堪。"]}
+{"seq": 7062, "word": "浟", "pinyin": "yóu", "definition": "淤泥", "words": ["浟泥", "浟积"], "sentences": ["河底淤积了很多浟(yóu)，需要清理。", "他们用铲子和桶子，将沟渠里的浟泥(yóu ní)挖出来，堆在一旁。", "由于长期没有疏通，这条小溪已经被浟积(yóu jī)得几乎断流了。"]}
+{"seq": 7063, "word": "浛", "pinyin": "hán", "definition": "水深", "words": ["浛深", "浛渊"], "sentences": ["这里的河水浛(hán)得只有小孩子才能游泳。", "他们在湖中发现了一个浛深(hán shēn)的洞穴，里面藏着许多珍贵的宝物。", "他们潜入了那个浛渊(hán yuān)，探索了水下的奥秘。"]}
+{"seq": 7064, "word": "浼", "pinyin": "měi", "definition": "水的表面", "words": ["浼面", "浼光"], "sentences": ["水的浼(měi)上漂着几朵白云。", "他把一块石头扔进了水里，打破了水的浼面(měi miàn)。", "月亮在天空中明晃晃地照耀着，给水的浼光(měi guāng)增添了几分神秘和美丽。"]}
+{"seq": 7065, "word": "浲", "pinyin": "féng", "definition": "水流的方向","words":["浲向","浲流"],"sentences":["根据浲(féng)向(xiàng)，我们可以判断这里是河流的上游还是下游。", "他们顺着浲(féng)流(liú)而下，很快就到达了目的地。"]}
+{"seq": 7066, "word": "涘", "pinyin": "sì", "definition": "水声", "words": ["涘涘", "涘响"], "sentences": ["夜里听到涘(sì)声(shēng)，让人感觉很安静。", "他们在山间的小屋里住了一晚，早上起来就听到了涘涘(sì sì)的溪水声。", "他们走近了瀑布，只见水花四溅，涘响(sì xiǎng)震耳。"]}
+{"seq": 7067, "word": "悈", "pinyin": "jiè", "definition": "喜悦的样子", "words": ["悈然", "悈悦"], "sentences": ["听到好消息后，他的脸上露出了悈(jiè)然(rán)的笑容。", "她看到自己的作品被出版了，心中充满了悈(jiè)悦(yuè)。"]}
+{"seq": 7068, "word": "悃", "pinyin": "kǔn", "definition": "老实，诚恳", "words": ["悃实", "悃恳"], "sentences": ["他是一个悃(kǔn)实(shí)的人，说话做事都很可靠。", "她对他说了一番悃(kǔn)恳(kěn)的话，希望他能原谅自己的过错。"]}
+{"seq": 7069, "word": "悢", "pinyin": "liàng", "definition": "欢乐的样子", "words": ["悢然", "悢乐"], "sentences": ["他和朋友们在一起时，总是表现出悢(liàng)然(rán)的神情。", "她在舞台上唱歌跳舞，展现出一种悢(liàng)乐(lè)的气质。"]}
+{"seq": 7070, "word": "𬒈", "pinyin": "lěng", "definition": "极寒","words":["𬒈冽","𬒈寒"],"sentences":["冬天北风呼啸，让人感到万分𬒈(lěng)冷(lěng)。", "他们在雪山上露营，经受了一夜的𬒈(lěng)冽(liè)，几乎冻僵了。", "她穿着一件薄薄的外套，抵挡不住𬒈(lěng)寒(hán)的侵袭，不停地打哆嗦。"]}
+{"seq": 7071, "word": "宧", "pinyin": "yóu", "definition": "小屋，茅屋", "words": ["宧屋", "宧舍"], "sentences": ["在山顶上有一座宧(yóu)屋(wū)，可以供登山者休息。", "他们住在一个偏僻的村子里，只有几间简陋的宧(yóu)舍(shè)。"]}
+{"seq": 7072, "word": "窅", "pinyin": "yǎo", "definition": "幽深；阴暗。", "words": ["窅深", "窅阴"], "sentences": ["这座建筑的窅(yǎo)深(shēn)气息让人不由得心生敬畏。", "他们走进了那个窅(yǎo)阴(yīn)的洞穴，感觉到一阵寒意。"]}
+{"seq": 7073, "word": "窊", "pinyin": "wā", "definition": "凹陷；低洼。", "words": ["窊陷", "窊洼"], "sentences": ["他的脸上有一些窊(wā)陷(xiàn)的痕迹，显得有些瘦弱。", "他们在田野里发现了一个窊(wā)洼(wā)的地方，里面有一些稀奇古怪的东西。"]}
+{"seq": 7074, "word": "窎", "pinyin": "diào", "definition": "形容房屋的小巧玲珑。", "words": ["窎小", "窎巧"], "sentences": ["这间小屋虽然窎(diào)小(xiǎo)，但是布置得非常温馨。", "她喜欢收集各种各样的窎(diào)巧(qiǎo)的房子模型，摆在自己的书房里。"]}
+{"seq": 7075, "word": "扅", "pinyin": "yí", "definition": "相隔远。","words":["扅远","扅隔"],"sentences":["两地相隔万里，他们之间的距离已经扅(yí)得让人觉得遥远。", "他们是一对扅(yí)隔(gé)的恋人，只能通过电话和网络来保持联系。"]}
+{"seq": 7076, "word": "扆", "pinyin": "yǐ", "definition": "闸门。", "words": ["扆闸", "扆门"], "sentences": ["他沿着河岸走，看到了一个扆(yǐ)闸(zhá)，于是他走上去看看。", "他们在水库里安装了一个扆(yǐ)门(mén)，用来控制水流的速度和方向。"]}
+{"seq": 7077, "word": "袪", "pinyin": "qū", "definition": "消除；去除。", "words": ["袪除", "袪去"], "sentences": ["他用毛巾轻轻地袪(qū)去(qù)了妻子脸上的泪痕。", "他们用各种方法来袪(qū)除(chú)房间里的异味，但是效果不太明显。"]}
+{"seq": 7078, "word": "袗", "pinyin": "zhěn", "definition": "短衣袄。", "words": ["袗子", "袗衣"], "sentences": ["天气有点冷，他穿上了一件袗(zhěn)子(zi)。", "她给自己做了一件漂亮的袗(zhěn)衣(yī)，颜色很鲜艳。"]}
+{"seq": 7079, "word": "袯", "pinyin": "bó", "definition": "古代士兵战时用的胸甲。", "words": ["袯甲", "袯铠"], "sentences": ["他展示了他珍藏的一件古代战士使用的袯(bó)。", "他穿着一件铁制的袯(bó)甲(jiǎ)，手持一把长剑，显得十分威武。", "他们在考古发掘中发现了一些残破的袯(bó)铠(kǎi)，证明了这里曾经发生过一场激烈的战争。"]}
+{"seq": 7080, "word": "祧", "pinyin": "tiāo", "definition": "祖坟。","words":["祧墓","祧地"],"sentences":["每年清明节，他都会回到家乡，去祖先的祧(tiāo)前扫墓祭拜。", "他们在这里找到了一片古老的祧(tiāo)墓(mù)，里面埋葬着他们的远古先民。", "他们为了保护自己的祧(tiāo)地(dì)，不惜与外来者发生冲突。"]}

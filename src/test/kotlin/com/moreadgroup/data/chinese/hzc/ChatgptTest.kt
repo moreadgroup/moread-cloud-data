@@ -158,7 +158,7 @@ class ChatgptTest {
             val words = it["words"]?.jsonArray
             val sentences = it["sentences"]?.jsonArray
 
-            if (pinyin.trim() ==""){
+            if (pinyin.trim() !="" && words?.size==0){
                 println("${it}")
             }
         }
