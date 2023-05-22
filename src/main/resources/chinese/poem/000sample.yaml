@@ -1,7 +1,7 @@
 poems:
   - poem: 论语
     type: 文言文必修
-    author: 春秋时期思想家、教育家孔子的弟子及再传弟子记录孔子及其弟子的言行
+    author: 孔子及其弟子
     created_at: 战国前期
     paragraphs:
       - paragraph: 人而

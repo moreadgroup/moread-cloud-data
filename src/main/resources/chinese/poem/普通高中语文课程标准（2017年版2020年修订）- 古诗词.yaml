@@ -1,7 +1,7 @@
 poems:
   - poem: 论语
     type: 文言文必修
-    author: 春秋时期思想家、教育家孔子的弟子及再传弟子记录孔子及其弟子的言行
+    author: 孔子及其弟子
     created_at: 战国前期
     paragraphs:
       - paragraph: 人而
@@ -938,7 +938,7 @@ poems:
             vernacular: 庭院里有一株枇杷树，是我妻子去世那年她亲手种的，现在已经长得挺拔高大，枝繁叶茂像伞一样了。
   - poem: 子路、曾晳、冉有、公西华侍坐 《论语》
     type: 文言文选必
-    author: 春秋时期思想家、教育家孔子的弟子及再传弟子记录孔子及其弟子的言行
+    author: 孔子及其弟子
     created_at: 战国前期
     paragraphs:
       - paragraph: 子路侍坐
